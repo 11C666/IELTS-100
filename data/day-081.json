@@ -1,0 +1,354 @@
+{
+  "id": 81,
+  "topic": "Money and Saving",
+  "topicCN": "金钱与储蓄",
+  "category": "Economy",
+  "vocabulary": [
+    {
+      "word": "financial cushion",
+      "ipa": "/faɪˈnænʃəl ˈkʊʃən/",
+      "meaning": "财务缓冲",
+      "collocation": "build a financial cushion",
+      "collocationCN": "建立财务缓冲"
+    },
+    {
+      "word": "emergency fund",
+      "ipa": "/ɪˈmɜːdʒənsi fʌnd/",
+      "meaning": "应急资金",
+      "collocation": "set up an emergency fund",
+      "collocationCN": "设立应急资金"
+    },
+    {
+      "word": "disposable income",
+      "ipa": "/dɪˈspəʊzəbəl ˈɪnkʌm/",
+      "meaning": "可支配收入",
+      "collocation": "have limited disposable income",
+      "collocationCN": "可支配收入有限"
+    },
+    {
+      "word": "interest rate",
+      "ipa": "/ˈɪntrəst reɪt/",
+      "meaning": "利率",
+      "collocation": "earn a competitive interest rate",
+      "collocationCN": "获得有竞争力的利率"
+    },
+    {
+      "word": "compound interest",
+      "ipa": "/ˈkɒmpaʊnd ˈɪntrəst/",
+      "meaning": "复利",
+      "collocation": "benefit from compound interest",
+      "collocationCN": "受益于复利"
+    },
+    {
+      "word": "savings account",
+      "ipa": "/ˈseɪvɪŋz əkaʊnt/",
+      "meaning": "储蓄账户",
+      "collocation": "open a savings account",
+      "collocationCN": "开立储蓄账户"
+    },
+    {
+      "word": "household budget",
+      "ipa": "/ˈhaʊshəʊld ˈbʌdʒɪt/",
+      "meaning": "家庭预算",
+      "collocation": "balance a household budget",
+      "collocationCN": "平衡家庭预算"
+    },
+    {
+      "word": "financial setback",
+      "ipa": "/faɪˈnænʃəl ˈsetbæk/",
+      "meaning": "财务挫折",
+      "collocation": "recover from a financial setback",
+      "collocationCN": "从财务挫折中恢复"
+    },
+    {
+      "word": "rainy-day savings",
+      "ipa": "/ˌreɪni ˈdeɪ ˌseɪvɪŋz/",
+      "meaning": "不时之需的存款",
+      "collocation": "keep rainy-day savings",
+      "collocationCN": "留有应急储蓄"
+    },
+    {
+      "word": "withdrawal",
+      "ipa": "/wɪðˈdrɔːəl/",
+      "meaning": "取款；提取",
+      "collocation": "make an early withdrawal",
+      "collocationCN": "提前取款"
+    },
+    {
+      "word": "savings goal",
+      "ipa": "/ˈseɪvɪŋz ɡəʊl/",
+      "meaning": "储蓄目标",
+      "collocation": "set a realistic savings goal",
+      "collocationCN": "设定现实的储蓄目标"
+    },
+    {
+      "word": "automatic transfer",
+      "ipa": "/ˌɔːtəˈmætɪk ˈtrænsfɜː/",
+      "meaning": "自动转账",
+      "collocation": "arrange an automatic transfer",
+      "collocationCN": "设置自动转账"
+    },
+    {
+      "word": "spending habit",
+      "ipa": "/ˈspendɪŋ ˌhæbɪt/",
+      "meaning": "消费习惯",
+      "collocation": "change a spending habit",
+      "collocationCN": "改变消费习惯"
+    },
+    {
+      "word": "financial security",
+      "ipa": "/faɪˈnænʃəl sɪˈkjʊərəti/",
+      "meaning": "财务保障",
+      "collocation": "provide financial security",
+      "collocationCN": "提供财务保障"
+    },
+    {
+      "word": "inflation",
+      "ipa": "/ɪnˈfleɪʃən/",
+      "meaning": "通货膨胀",
+      "collocation": "keep pace with inflation",
+      "collocationCN": "跟上通胀速度"
+    },
+    {
+      "word": "put money aside",
+      "ipa": "/pʊt ˈmʌni əˈsaɪd/",
+      "meaning": "把钱存起来",
+      "collocation": "put money aside each month",
+      "collocationCN": "每月存些钱"
+    },
+    {
+      "word": "cut back on",
+      "ipa": "/kʌt ˈbæk ɒn/",
+      "meaning": "削减……的开支",
+      "collocation": "cut back on takeaways",
+      "collocationCN": "减少外卖开支"
+    },
+    {
+      "word": "dip into savings",
+      "ipa": "/dɪp ˈɪntuː ˌseɪvɪŋz/",
+      "meaning": "动用存款",
+      "collocation": "dip into savings for repairs",
+      "collocationCN": "为维修动用存款"
+    },
+    {
+      "word": "save up for",
+      "ipa": "/seɪv ˈʌp fɔː/",
+      "meaning": "为……攒钱",
+      "collocation": "save up for a deposit",
+      "collocationCN": "为首付款攒钱"
+    },
+    {
+      "word": "make ends meet",
+      "ipa": "/meɪk endz miːt/",
+      "meaning": "维持收支平衡",
+      "collocation": "struggle to make ends meet",
+      "collocationCN": "难以维持收支平衡"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "save money",
+      "options": [
+        "put money aside",
+        "build up savings",
+        "set aside part of one’s income"
+      ],
+      "note": "set aside适合描述有计划的定期储蓄。"
+    },
+    {
+      "base": "unexpected cost",
+      "options": [
+        "unplanned expense",
+        "unforeseen financial demand",
+        "a bill that was not budgeted for"
+      ],
+      "note": "unforeseen较正式，适合Task 2。"
+    },
+    {
+      "base": "spend less",
+      "options": [
+        "cut expenditure",
+        "reduce discretionary spending",
+        "exercise greater control over outgoings"
+      ],
+      "note": "discretionary指非必需支出。"
+    },
+    {
+      "base": "feel financially safe",
+      "options": [
+        "have financial peace of mind",
+        "enjoy greater financial security",
+        "be better protected against income shocks"
+      ],
+      "note": "income shock常指失业或收入骤降。"
+    },
+    {
+      "base": "low income",
+      "options": [
+        "limited earnings",
+        "a modest income",
+        "restricted financial resources"
+      ],
+      "note": "modest比poor更中性。"
+    },
+    {
+      "base": "saving regularly",
+      "options": [
+        "consistent saving",
+        "making routine contributions",
+        "setting aside money on a regular basis"
+      ],
+      "note": "contribution可指存入账户的金额。"
+    },
+    {
+      "base": "price increases",
+      "options": [
+        "rising prices",
+        "inflationary pressure",
+        "an increase in the cost of living"
+      ],
+      "note": "cost of living侧重日常生活负担。"
+    },
+    {
+      "base": "use savings",
+      "options": [
+        "draw on savings",
+        "dip into accumulated funds",
+        "finance a cost from existing reserves"
+      ],
+      "note": "draw on比spend更强调调用已有储备。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Even if + saving amount + seems small, it can + long-term benefit + when + regular condition.",
+      "cn": "即使储蓄金额看似不多，只要满足持续条件，也能带来长期益处。",
+      "example": "Even if a weekly contribution seems small, it can create a useful emergency fund when maintained for several years."
+    },
+    {
+      "pattern": "The less + person + spends on + non-essential item, the more + person + can save for + priority.",
+      "cn": "某人在非必需项目上花得越少，就越能为重要目标储蓄。",
+      "example": "The less a household spends on unused subscriptions, the more it can save for unexpected repairs."
+    },
+    {
+      "pattern": "Setting aside + amount + before + spending event + makes it less likely that + negative outcome.",
+      "cn": "在消费发生前先留出一笔钱，可以降低某种负面结果出现的可能性。",
+      "example": "Setting aside ten per cent of each salary before paying for leisure makes it less likely that saving will be postponed."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "have something to fall back on",
+      "cn": "有可依靠的经济储备",
+      "example": "An emergency fund gives me something to fall back on."
+    },
+    {
+      "text": "watch where the money goes",
+      "cn": "留意钱花到了哪里",
+      "example": "I started watching where the money goes after moving out."
+    },
+    {
+      "text": "live within your means",
+      "cn": "量入为出",
+      "example": "Living within your means is easier with a clear budget."
+    },
+    {
+      "text": "build long-term financial resilience",
+      "cn": "建立长期财务韧性",
+      "example": "Regular saving can build long-term financial resilience."
+    },
+    {
+      "text": "absorb an unexpected expense",
+      "cn": "承受一笔意外开支",
+      "example": "A cash reserve helps a family absorb an unexpected expense."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I save money for emergency.",
+      "correct": "I save money for emergencies.",
+      "why": "泛指可能发生的紧急情况时，emergency通常用复数。"
+    },
+    {
+      "wrong": "My savings is not enough.",
+      "correct": "My savings are not enough.",
+      "why": "savings表示存款时形式为复数，通常搭配are。"
+    },
+    {
+      "wrong": "I put aside money every months.",
+      "correct": "I put aside money every month.",
+      "why": "every后接单数名词。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Small automatic contributions are more effective than ambitious intentions.",
+      "topicSentence": "A modest saving routine often produces better results than an unrealistic monthly target.",
+      "collocations": [
+        "automate monthly transfers",
+        "form a sustainable habit",
+        "avoid impulsive spending",
+        "accumulate a cash reserve"
+      ],
+      "argument": "Many people plan to save whatever remains at the end of the month, but discretionary purchases usually consume that balance. An automatic transfer reverses the order by treating saving as a regular commitment. Even a small amount can accumulate without requiring a fresh decision each payday. Someone whose income later rises can increase the contribution while preserving the habit. Consistency, rather than an impressive starting figure, therefore provides the stronger foundation."
+    },
+    {
+      "viewpoint": "Public policy should make emergency saving easier for low-paid workers.",
+      "topicSentence": "Advice to save is of limited value when essential costs absorb nearly all of a worker’s income.",
+      "collocations": [
+        "match small contributions",
+        "protect benefit entitlement",
+        "reduce financial vulnerability",
+        "target low-income households"
+      ],
+      "argument": "Workers on modest wages often face the greatest risk from an unexpected bill, yet have the least capacity to create a reserve. A matched-savings programme could add a public contribution when participants make small regular deposits. Unlike a general tax advantage, which mainly benefits those already able to save, the support would reach households with little disposable income. Access rules must ensure that a small fund does not remove eligibility for essential benefits. Properly targeted assistance can turn sound financial advice into a realistic option."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe something you saved money to buy.",
+      "answer": "I saved for a reliable laptop when I started doing more work from home. My old one froze during video calls, but I did not want to buy a replacement on credit. I compared prices, chose a realistic model and transferred a fixed amount into a separate account each payday. It took about five months, during which I cut back mainly on takeaway meals and small online purchases. Buying it with money I had already set aside felt satisfying, and the process showed me that a specific goal is much easier to follow than simply telling myself to spend less."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why do some people find it difficult to save even when they have a regular income?",
+      "answer": "A regular income does not necessarily leave a regular surplus. Rent, childcare and transport can take most of a salary, while irregular bills make one month very different from another. Some people also use spending as a reward after stressful work, or never see clearly how several small payments add up. Automatic saving and a simple spending record can help, but these tools cannot solve genuinely inadequate income. It is important not to treat every lack of savings as a failure of self-control."
+    }
+  ],
+  "reading": {
+    "title": "Why a Separate Account Changes Saving Behaviour",
+    "paragraphs": [
+      "A household may fully intend to save and still reach the end of each month with nothing left. Behavioural researchers have long noted that money held in one current account feels available for several competing purposes. Groceries, a weekend trip and an emergency fund are mentally different goals, yet the balance displayed on a banking screen does not distinguish among them. A separate savings account creates a visible boundary, even when both accounts belong to the same person.",
+      "To examine whether that boundary affected behaviour, a community bank offered new customers either a standard account or an additional account labelled with a goal of their choice. Customers were not prevented from withdrawing the money, and the interest paid was identical. Over the following year, those with a labelled account accumulated more, although the difference was concentrated among people who also scheduled an automatic transfer. Interviews suggested that naming the account made withdrawals feel like abandoning a stated plan rather than simply moving cash.",
+      "The effect should not be mistaken for proof that account design can overcome poverty. Participants with unstable hours frequently stopped transfers when earnings fell, while several lower-income households used every pound they had saved when an appliance failed. In such cases, withdrawal was not unsuccessful saving; it was the precise function of an emergency reserve. Moreover, customers who carried expensive debt might have improved their finances more by repaying it than by maintaining a large low-interest balance.",
+      "What the study illustrates is a modest interaction between intention and financial architecture. A goal label supplies meaning, and automation acts before attention is diverted elsewhere. Neither creates disposable income, nor does either identify the best priority for every household. Banks can make useful choices easier to carry out, but responsible guidance must still consider debt, income volatility and the reason for saving. The most effective account is not necessarily the one with the largest balance; it is the one that helps its owner use limited money according to a deliberate plan."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Customers with labelled accounts received a higher interest rate.",
+        "answer": "False",
+        "explanation": "Paragraph 2 states that the interest paid was identical."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "According to the interviews, why did labels discourage some withdrawals?",
+        "answer": "B",
+        "explanation": "A withdrawal felt like giving up a named plan.",
+        "options": [
+          "Customers had to pay a withdrawal fee.",
+          "A withdrawal felt like giving up a named plan.",
+          "The account disappeared from the banking screen.",
+          "Customers forgot that they owned the money."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "For households facing a broken appliance, using the fund fulfilled the purpose of an emergency ______.",
+        "answer": "reserve",
+        "explanation": "Paragraph 3 calls this the precise function of an emergency reserve."
+      }
+    ]
+  }
+}

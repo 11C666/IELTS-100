@@ -1,0 +1,354 @@
+{
+  "id": 85,
+  "topic": "The Gig Economy",
+  "topicCN": "零工经济",
+  "category": "Economy",
+  "vocabulary": [
+    {
+      "word": "gig economy",
+      "ipa": "/ɡɪɡ ɪˈkɒnəmi/",
+      "meaning": "零工经济",
+      "collocation": "work in the gig economy",
+      "collocationCN": "从事零工经济工作"
+    },
+    {
+      "word": "independent contractor",
+      "ipa": "/ˌɪndɪˈpendənt kənˈtræktə/",
+      "meaning": "独立承包人",
+      "collocation": "classify someone as an independent contractor",
+      "collocationCN": "把某人归类为独立承包人"
+    },
+    {
+      "word": "platform work",
+      "ipa": "/ˈplætfɔːm wɜːk/",
+      "meaning": "平台工作",
+      "collocation": "regulate platform work",
+      "collocationCN": "规范平台工作"
+    },
+    {
+      "word": "flexible schedule",
+      "ipa": "/ˈfleksəbəl ˈʃedjuːl/",
+      "meaning": "灵活的时间表",
+      "collocation": "maintain a flexible schedule",
+      "collocationCN": "保持灵活日程"
+    },
+    {
+      "word": "income volatility",
+      "ipa": "/ˈɪnkʌm ˌvɒləˈtɪləti/",
+      "meaning": "收入波动",
+      "collocation": "experience income volatility",
+      "collocationCN": "经历收入波动"
+    },
+    {
+      "word": "employment status",
+      "ipa": "/ɪmˈplɔɪmənt ˈsteɪtəs/",
+      "meaning": "就业身份",
+      "collocation": "clarify employment status",
+      "collocationCN": "明确就业身份"
+    },
+    {
+      "word": "algorithmic management",
+      "ipa": "/ˌælɡəˈrɪðmɪk ˈmænɪdʒmənt/",
+      "meaning": "算法管理",
+      "collocation": "use algorithmic management",
+      "collocationCN": "使用算法管理"
+    },
+    {
+      "word": "worker protection",
+      "ipa": "/ˈwɜːkə prəˌtekʃən/",
+      "meaning": "劳动者保障",
+      "collocation": "extend worker protections",
+      "collocationCN": "扩大劳动者保障"
+    },
+    {
+      "word": "sick pay",
+      "ipa": "/ˈsɪk peɪ/",
+      "meaning": "病假工资",
+      "collocation": "qualify for sick pay",
+      "collocationCN": "有资格领取病假工资"
+    },
+    {
+      "word": "paid leave",
+      "ipa": "/ˌpeɪd ˈliːv/",
+      "meaning": "带薪休假",
+      "collocation": "receive paid leave",
+      "collocationCN": "获得带薪休假"
+    },
+    {
+      "word": "service fee",
+      "ipa": "/ˈsɜːvɪs fiː/",
+      "meaning": "服务费",
+      "collocation": "deduct a service fee",
+      "collocationCN": "扣除服务费"
+    },
+    {
+      "word": "peak hours",
+      "ipa": "/piːk ˈaʊəz/",
+      "meaning": "高峰时段",
+      "collocation": "work during peak hours",
+      "collocationCN": "在高峰时段工作"
+    },
+    {
+      "word": "job security",
+      "ipa": "/dʒɒb sɪˈkjʊərəti/",
+      "meaning": "工作保障",
+      "collocation": "lack job security",
+      "collocationCN": "缺乏工作保障"
+    },
+    {
+      "word": "portable benefits",
+      "ipa": "/ˈpɔːtəbəl ˈbenɪfɪts/",
+      "meaning": "可随工作转移的福利",
+      "collocation": "fund portable benefits",
+      "collocationCN": "为可携带福利筹资"
+    },
+    {
+      "word": "rating system",
+      "ipa": "/ˈreɪtɪŋ ˌsɪstəm/",
+      "meaning": "评分系统",
+      "collocation": "challenge a rating system",
+      "collocationCN": "质疑评分系统"
+    },
+    {
+      "word": "pick up a shift",
+      "ipa": "/pɪk ʌp ə ʃɪft/",
+      "meaning": "临时接一个班次",
+      "collocation": "pick up an evening shift",
+      "collocationCN": "接一个晚班"
+    },
+    {
+      "word": "fit work around",
+      "ipa": "/fɪt wɜːk əˈraʊnd/",
+      "meaning": "让工作配合……的时间",
+      "collocation": "fit work around childcare",
+      "collocationCN": "让工作配合育儿时间"
+    },
+    {
+      "word": "cover your own costs",
+      "ipa": "/ˈkʌvə jɔː əʊn kɒsts/",
+      "meaning": "自行承担成本",
+      "collocation": "cover your own fuel costs",
+      "collocationCN": "自行承担燃油费"
+    },
+    {
+      "word": "turn down a job",
+      "ipa": "/tɜːn daʊn ə dʒɒb/",
+      "meaning": "拒绝一项工作",
+      "collocation": "turn down an unprofitable job",
+      "collocationCN": "拒绝无利可图的工作"
+    },
+    {
+      "word": "make a steady living",
+      "ipa": "/meɪk ə ˈstedi ˈlɪvɪŋ/",
+      "meaning": "获得稳定收入维持生活",
+      "collocation": "struggle to make a steady living",
+      "collocationCN": "难以稳定谋生"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "temporary job",
+      "options": [
+        "short-term assignment",
+        "one-off paid task",
+        "a time-limited piece of work"
+      ],
+      "note": "gig通常比temporary job更短且按任务计酬。"
+    },
+    {
+      "base": "work when you want",
+      "options": [
+        "choose working hours",
+        "exercise control over one’s schedule",
+        "decide when to make oneself available for work"
+      ],
+      "note": "available不保证一定获得任务。"
+    },
+    {
+      "base": "unstable pay",
+      "options": [
+        "irregular earnings",
+        "income volatility",
+        "substantial variation in income over time"
+      ],
+      "note": "volatility适合分析经济风险。"
+    },
+    {
+      "base": "worker benefits",
+      "options": [
+        "employment benefits",
+        "work-related social protection",
+        "entitlements such as leave and sick pay"
+      ],
+      "note": "entitlement指依法或依规享有的待遇。"
+    },
+    {
+      "base": "app company",
+      "options": [
+        "digital labour platform",
+        "platform operator",
+        "a company that matches workers with customers online"
+      ],
+      "note": "platform operator较中性。"
+    },
+    {
+      "base": "work expenses",
+      "options": [
+        "job-related costs",
+        "operating expenses borne by workers",
+        "costs incurred while providing a service"
+      ],
+      "note": "incurred是正式写作搭配。"
+    },
+    {
+      "base": "customer score",
+      "options": [
+        "user rating",
+        "platform reputation score",
+        "a numerical evaluation submitted by a client"
+      ],
+      "note": "reputation score强调评分影响接单。"
+    },
+    {
+      "base": "secure job",
+      "options": [
+        "stable employment",
+        "work with predictable income",
+        "employment offering continuity and protection"
+      ],
+      "note": "continuity突出持续性。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "The freedom to + flexible action + is valuable only if + worker + can also + practical need.",
+      "cn": "做某项灵活安排的自由只有在劳动者还能满足实际需要时才真正有价值。",
+      "example": "The freedom to choose working hours is valuable only if a courier can also earn enough during those hours."
+    },
+    {
+      "pattern": "Because + platform decision + determines + work outcome, workers need a clear way to + challenge action.",
+      "cn": "由于平台决定会影响工作结果，劳动者需要清晰的申诉途径。",
+      "example": "Because an automated rating determines access to orders, workers need a clear way to challenge incorrect reviews."
+    },
+    {
+      "pattern": "Instead of attaching + benefit + to one employer, a portable system could + action + whenever + worker activity.",
+      "cn": "与其把福利绑定在单一雇主上，可携带制度可以在劳动者每次工作时作出相应积累。",
+      "example": "Instead of attaching leave to one employer, a portable system could collect contributions whenever a worker completes a job."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "pick up extra work",
+      "cn": "接额外的活",
+      "example": "I pick up extra work when household bills are higher."
+    },
+    {
+      "text": "be your own boss",
+      "cn": "自己做主",
+      "example": "The idea of being your own boss attracts some drivers."
+    },
+    {
+      "text": "work around family commitments",
+      "cn": "围绕家庭责任安排工作",
+      "example": "Flexible shifts let her work around family commitments."
+    },
+    {
+      "text": "bear the operating costs",
+      "cn": "承担运营成本",
+      "example": "Couriers often bear the operating costs themselves."
+    },
+    {
+      "text": "provide a predictable income floor",
+      "cn": "提供可预期的收入下限",
+      "example": "Minimum-pay rules can provide a predictable income floor."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "He works as delivery driver.",
+      "correct": "He works as a delivery driver.",
+      "why": "可数职业名词单数前需要冠词。"
+    },
+    {
+      "wrong": "Gig workers have no stable salary every month.",
+      "correct": "Gig workers do not receive a stable monthly income.",
+      "why": "monthly income比salary every month更自然，且适用于非雇员。"
+    },
+    {
+      "wrong": "The app allows workers choosing hours.",
+      "correct": "The app allows workers to choose their hours.",
+      "why": "allow somebody to do是固定结构。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Flexibility should be measured from the worker’s perspective.",
+      "topicSentence": "A platform is not genuinely flexible if workers must remain available at particular times to earn a viable income.",
+      "collocations": [
+        "choose working hours",
+        "respond to peak-price incentives",
+        "absorb unpaid waiting time",
+        "earn a viable hourly return"
+      ],
+      "argument": "A delivery app may permit a courier to log in at any time, which appears to offer complete control. In practice, demand and higher rates may be concentrated in evenings, pushing workers towards the same narrow periods. Those who log in elsewhere can spend long intervals waiting without pay. Regulators assessing flexibility should therefore consider earnings across total working time, not merely the absence of a formal schedule. Choice is meaningful only when several options are economically realistic."
+    },
+    {
+      "viewpoint": "Portable benefits suit workers who earn through several platforms.",
+      "topicSentence": "Social protection should follow the worker when no single platform provides a conventional employment relationship.",
+      "collocations": [
+        "make proportional contributions",
+        "accumulate portable entitlements",
+        "cover paid leave",
+        "avoid fragmented protection"
+      ],
+      "argument": "Requiring each platform to provide a full package may be awkward when someone completes only a few tasks through each one. A shared fund could instead receive a small contribution proportional to every payment. The worker would accumulate sick-pay or leave entitlement across platforms, just as the income itself is assembled from several sources. Clear public rules would be needed to prevent firms from shifting all costs into lower pay. A portable system addresses the fragmented nature of gig work without pretending that each task is a separate working life."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a time when flexible working was useful to you or someone you know.",
+      "answer": "A friend used delivery work for several months while completing a professional course. His classes changed each week, so a fixed part-time rota would have been difficult. He logged onto the app mainly at weekends and occasionally worked after an evening class. The flexibility helped him cover groceries without missing lessons. However, he said the advertised earnings ignored fuel and quiet periods, so he had to record his actual hourly return carefully. It was useful as a temporary arrangement, but he did not see it as a secure long-term job. The experience made the trade-off between flexibility and predictable income much more concrete to me."
+    },
+    {
+      "part": "Part 3",
+      "question": "What responsibilities should digital work platforms have towards workers?",
+      "answer": "They should explain pay calculations, fees and account decisions clearly because the platform controls information that an individual worker cannot see. Workers also need insurance for occupational accidents and a fair process for challenging suspension or false reviews. Whether every person should receive identical employee benefits is more complicated, since some use an app occasionally while others depend on it full time. Contributions linked to each completed job could provide basic protection without ignoring those differences. Clear written terms would also make comparison between platforms easier."
+    }
+  ],
+  "reading": {
+    "title": "The Waiting Time That Disappears from the Wage",
+    "paragraphs": [
+      "A courier’s app records the moment an order is accepted and the moment it is delivered with remarkable precision. The interval before an order appears is less visible in both company reports and customer receipts. During that time, a worker may be positioned near restaurants, watching the screen and unable to begin another activity. Whether this counts as work has become central to arguments about pay in the gig economy.",
+      "Researchers at a transport institute followed a group of couriers over several weeks, using voluntary location diaries alongside platform records. Payment per active delivery appeared comfortably above the local minimum wage. Once the analysis included time spent waiting while logged in and deducted bicycle maintenance or fuel, median hourly earnings fell substantially. The effect varied: workers who knew busy locations and switched between two apps waited less, while newcomers and those restricted by childcare experienced longer inactive periods.",
+      "Platforms argue that logged-in time cannot automatically be treated as employment because a worker may reject orders, use competing apps or attend to personal matters. This objection is significant. A driver at home with an app open is not in the same position as one whom an algorithm has directed towards an airport queue. Researchers therefore proposed several categories, distinguishing unrestricted availability from time spent following platform instructions or waiting in a specified zone.",
+      "The categories complicate a simple wage calculation, but they also expose the weakness of counting deliveries alone. One city now requires platforms to publish aggregate figures for engaged time, instructed waiting and total logged-in time. These figures can also be compared across different operators and seasons. The data do not settle every worker’s legal status. They do, however, show who carries the cost when customer demand is uncertain. Digital systems are exceptionally good at measuring activity; the policy question is which activities they choose to make visible."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "What most reduced the couriers’ calculated median hourly earnings?",
+        "answer": "A",
+        "explanation": "Waiting time and workers’ operating costs were included.",
+        "options": [
+          "Waiting time and workers’ operating costs were included.",
+          "Customers stopped using delivery services.",
+          "All couriers were treated as employees.",
+          "Researchers excluded busy periods."
+        ]
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph proposes different categories of availability?",
+        "answer": "C",
+        "explanation": "Paragraph C distinguishes several kinds of logged-in time."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Experienced couriers in the study always earned above the minimum wage.",
+        "answer": "Not Given",
+        "explanation": "They waited less, but the passage gives no universal claim about their wage."
+      }
+    ]
+  }
+}

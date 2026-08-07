@@ -1,0 +1,68 @@
+{
+  "passed": true,
+  "scope": "Staged Day 081–100; earlier days read-only except approved Day 061–080 corrections",
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "readingWords": {
+      "81": 336,
+      "82": 305,
+      "83": 305,
+      "84": 306,
+      "85": 309,
+      "86": 316,
+      "87": 308,
+      "88": 327,
+      "89": 327,
+      "90": 332,
+      "91": 345,
+      "92": 317,
+      "93": 331,
+      "94": 337,
+      "95": 349,
+      "96": 333,
+      "97": 351,
+      "98": 358,
+      "99": 345,
+      "100": 374
+    },
+    "questionTypes": {
+      "True / False / Not Given": 14,
+      "Multiple Choice": 14,
+      "Sentence Completion": 7,
+      "Yes / No / Not Given": 6,
+      "Summary Completion": 6,
+      "Matching Headings": 4,
+      "Short Answer": 2,
+      "Matching Information": 7
+    },
+    "readingMaxSimilarity": {
+      "days": [
+        90,
+        99
+      ],
+      "percent": 0.6
+    },
+    "writingMaxSimilarity": {
+      "days": [
+        87,
+        88
+      ],
+      "percent": 1.22
+    },
+    "speakingMaxSimilarity": {
+      "days": [
+        94,
+        95
+      ],
+      "percent": 3.78
+    },
+    "allReadingMaxSimilarity": {
+      "days": [
+        21,
+        52
+      ],
+      "percent": 0.88
+    }
+  }
+}

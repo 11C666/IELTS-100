@@ -1,0 +1,355 @@
+{
+  "id": 94,
+  "topic": "Government Responsibility",
+  "topicCN": "政府责任",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "public mandate",
+      "ipa": "/ˈpʌblɪk ˈmændeɪt/",
+      "meaning": "公众授权",
+      "collocation": "seek a public mandate",
+      "collocationCN": "寻求公众授权"
+    },
+    {
+      "word": "accountability",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "meaning": "问责制",
+      "collocation": "ensure democratic accountability",
+      "collocationCN": "确保民主问责"
+    },
+    {
+      "word": "public expenditure",
+      "ipa": "/ˈpʌblɪk ɪkˈspendɪtʃə/",
+      "meaning": "公共支出",
+      "collocation": "scrutinise public expenditure",
+      "collocationCN": "审查公共支出"
+    },
+    {
+      "word": "regulatory oversight",
+      "ipa": "/ˈreɡjələtəri ˈəʊvəsaɪt/",
+      "meaning": "监管监督",
+      "collocation": "strengthen regulatory oversight",
+      "collocationCN": "加强监管监督"
+    },
+    {
+      "word": "social safety net",
+      "ipa": "/ˈsəʊʃəl ˈseɪfti net/",
+      "meaning": "社会保障网",
+      "collocation": "maintain a social safety net",
+      "collocationCN": "维持社会保障网"
+    },
+    {
+      "word": "public goods",
+      "ipa": "/ˈpʌblɪk ɡʊdz/",
+      "meaning": "公共产品",
+      "collocation": "provide essential public goods",
+      "collocationCN": "提供基本公共产品"
+    },
+    {
+      "word": "fiscal constraint",
+      "ipa": "/ˈfɪskəl kənˈstreɪnt/",
+      "meaning": "财政约束",
+      "collocation": "operate under fiscal constraints",
+      "collocationCN": "在财政约束下运作"
+    },
+    {
+      "word": "policy trade-off",
+      "ipa": "/ˈpɒləsi ˈtreɪd ɒf/",
+      "meaning": "政策取舍",
+      "collocation": "explain a policy trade-off",
+      "collocationCN": "解释政策取舍"
+    },
+    {
+      "word": "ministerial responsibility",
+      "ipa": "/ˌmɪnɪˈstɪəriəl rɪˌspɒnsəˈbɪləti/",
+      "meaning": "部长责任制",
+      "collocation": "accept ministerial responsibility",
+      "collocationCN": "承担部长责任"
+    },
+    {
+      "word": "civic trust",
+      "ipa": "/ˈsɪvɪk trʌst/",
+      "meaning": "公民信任",
+      "collocation": "restore civic trust",
+      "collocationCN": "恢复公民信任"
+    },
+    {
+      "word": "devolve power",
+      "ipa": "/dɪˈvɒlv ˈpaʊə/",
+      "meaning": "下放权力",
+      "collocation": "devolve power locally",
+      "collocationCN": "向地方下放权力"
+    },
+    {
+      "word": "allocate resources",
+      "ipa": "/ˈæləkeɪt rɪˈzɔːsɪz/",
+      "meaning": "分配资源",
+      "collocation": "allocate scarce resources",
+      "collocationCN": "分配稀缺资源"
+    },
+    {
+      "word": "enforce standards",
+      "ipa": "/ɪnˈfɔːs ˈstændədz/",
+      "meaning": "执行标准",
+      "collocation": "enforce safety standards",
+      "collocationCN": "执行安全标准"
+    },
+    {
+      "word": "policy failure",
+      "ipa": "/ˈpɒləsi ˈfeɪljə/",
+      "meaning": "政策失灵",
+      "collocation": "learn from policy failure",
+      "collocationCN": "从政策失灵中学习"
+    },
+    {
+      "word": "public consultation",
+      "ipa": "/ˈpʌblɪk ˌkɒnsəlˈteɪʃən/",
+      "meaning": "公众咨询",
+      "collocation": "hold a public consultation",
+      "collocationCN": "开展公众咨询"
+    },
+    {
+      "word": "answer to the public",
+      "ipa": "/ˈɑːnsə tə ðə ˈpʌblɪk/",
+      "meaning": "向公众负责",
+      "collocation": "answer to the public",
+      "collocationCN": "向公众负责"
+    },
+    {
+      "word": "step in",
+      "ipa": "/step ɪn/",
+      "meaning": "介入",
+      "collocation": "step in during a crisis",
+      "collocationCN": "危机时介入"
+    },
+    {
+      "word": "stretch the budget",
+      "ipa": "/stretʃ ðə ˈbʌdʒɪt/",
+      "meaning": "精打细算",
+      "collocation": "stretch a limited budget",
+      "collocationCN": "精打细算有限预算"
+    },
+    {
+      "word": "follow through",
+      "ipa": "/ˈfɒləʊ θruː/",
+      "meaning": "把承诺落实到底",
+      "collocation": "follow through on a pledge",
+      "collocationCN": "兑现承诺"
+    },
+    {
+      "word": "draw a clear line",
+      "ipa": "/drɔː ə klɪə laɪn/",
+      "meaning": "划清责任界线",
+      "collocation": "draw a clear line between roles",
+      "collocationCN": "划清职责界线"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "government duty",
+      "options": [
+        "public responsibility",
+        "an obligation of the state",
+        "a function entrusted to government"
+      ],
+      "note": "obligation强调必须履行的责任。"
+    },
+    {
+      "base": "spend public money",
+      "options": [
+        "use taxpayer funds",
+        "allocate public expenditure",
+        "direct state resources"
+      ],
+      "note": "allocate适合讨论预算优先次序。"
+    },
+    {
+      "base": "be accountable",
+      "options": [
+        "answer to the public",
+        "be subject to scrutiny",
+        "bear institutional responsibility"
+      ],
+      "note": "scrutiny强调接受严格审查。"
+    },
+    {
+      "base": "protect citizens",
+      "options": [
+        "safeguard the population",
+        "protect public welfare",
+        "reduce citizens’ exposure to harm"
+      ],
+      "note": "exposure适合风险语境。"
+    },
+    {
+      "base": "limited budget",
+      "options": [
+        "finite public funds",
+        "fiscal constraints",
+        "competing claims on revenue"
+      ],
+      "note": "competing claims突出预算取舍。"
+    },
+    {
+      "base": "public services",
+      "options": [
+        "state-funded services",
+        "collective provision",
+        "services financed for public benefit"
+      ],
+      "note": "collective provision强调共同供给。"
+    },
+    {
+      "base": "consult people",
+      "options": [
+        "seek public input",
+        "conduct public consultation",
+        "involve affected communities"
+      ],
+      "note": "affected communities比泛指people更精确。"
+    },
+    {
+      "base": "keep a promise",
+      "options": [
+        "honour a commitment",
+        "deliver on a pledge",
+        "follow through on a public undertaking"
+      ],
+      "note": "undertaking是正式承诺。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "When + public problem + cannot be solved by individuals alone, government has a responsibility to + action.",
+      "cn": "当某项公共问题无法仅靠个人解决时，政府有责任采取某项行动。",
+      "example": "When unsafe water cannot be addressed by households alone, government has a responsibility to enforce common standards."
+    },
+    {
+      "pattern": "The question is not whether government should + action, but how it can do so without + risk.",
+      "cn": "问题不在于政府是否应采取行动，而在于如何行动且不造成某种风险。",
+      "example": "The question is not whether government should support vulnerable families, but how it can do so without creating arbitrary rules."
+    },
+    {
+      "pattern": "By publishing + information, authorities can both + benefit one + and + benefit two.",
+      "cn": "通过公开某类信息，政府既能带来一项益处，也能带来另一项益处。",
+      "example": "By publishing contract costs, authorities can both deter waste and help voters judge performance."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "hold the government to account",
+      "cn": "要求政府负责",
+      "example": "Independent reporting helps citizens hold the government to account."
+    },
+    {
+      "text": "pick up the slack",
+      "cn": "补上缺口",
+      "example": "Local charities often pick up the slack when services are delayed."
+    },
+    {
+      "text": "deliver on a promise",
+      "cn": "兑现承诺",
+      "example": "Voters expect ministers to deliver on a promise once funding is approved."
+    },
+    {
+      "text": "serve the public interest",
+      "cn": "服务公共利益",
+      "example": "Regulation should serve the public interest rather than a narrow industry."
+    },
+    {
+      "text": "strike a balance between",
+      "cn": "在……之间取得平衡",
+      "example": "Officials must strike a balance between speed and public scrutiny."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The government should take more responsibilities.",
+      "correct": "The government should take on more responsibility.",
+      "why": "表示承担更多责任时，常用take on responsibility，responsibility通常作不可数名词。"
+    },
+    {
+      "wrong": "Citizens must supervise the government to spend money.",
+      "correct": "Citizens must scrutinise how the government spends money.",
+      "why": "scrutinise how自然表达“仔细审查……如何进行”。"
+    },
+    {
+      "wrong": "This policy is benefit for everyone.",
+      "correct": "This policy benefits everyone.",
+      "why": "benefit可直接作及物动词，不需要is或for。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Core services require public guarantees.",
+      "topicSentence": "Governments should guarantee essential services because access cannot safely depend on purchasing power alone.",
+      "collocations": [
+        "guarantee universal access",
+        "provide essential public goods",
+        "pool social risk",
+        "maintain minimum standards"
+      ],
+      "argument": "Markets can distribute many ordinary goods efficiently, but emergency care and clean water have consequences beyond the buyer. If low-income households are excluded, preventable illness spreads and later public costs rise. A universal baseline therefore protects both individual welfare and the wider community. Private providers may still deliver services, provided that government funds access and enforces quality. The state’s role is to guarantee the outcome rather than operate every facility itself."
+    },
+    {
+      "viewpoint": "Transparency is a practical form of responsibility.",
+      "topicSentence": "Public authorities become more accountable when citizens can examine decisions before failure occurs.",
+      "collocations": [
+        "publish procurement data",
+        "enable independent scrutiny",
+        "identify conflicts of interest",
+        "restore civic trust"
+      ],
+      "argument": "After a project collapses, an inquiry may explain the loss but cannot recover every wasted opportunity. Publishing bids, costs and performance milestones allows journalists and auditors to identify warning signs earlier. For example, repeated contracts awarded without competition can trigger review before the budget is exhausted. Disclosure must protect legitimate privacy, yet inconvenience is not a sufficient reason for secrecy. Preventive transparency makes responsibility continuous rather than a ritual performed after damage."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a public service that you think is well run.",
+      "answer": "The public library near my home is a service I genuinely value. It lends books, provides quiet desks and helps older residents use online government forms. What impresses me is its reliability: opening times are clear, reservations arrive when promised, and staff explain rules without making visitors feel awkward. The building is modest, but the service responds to real routines, including evening study and weekend family activities. I think it is well run because public money is visible in practical details rather than expensive decoration. It also asks users for suggestions and reports which changes it can afford, so expectations remain realistic."
+    },
+    {
+      "part": "Part 3",
+      "question": "Should governments be responsible for every social problem?",
+      "answer": "No, because responsibility should follow both capacity and cause. Governments are best placed to set common rules, fund essential services and respond when individual action cannot manage a collective risk. They cannot, however, replace families, communities or professional judgement in every decision. Excessive intervention can make services rigid and weaken local initiative. I would judge each problem by asking whether it crosses household boundaries, whether unequal resources block a fair solution, and whether public action is likely to improve the outcome. That gives government a substantial but not unlimited role."
+    }
+  ],
+  "reading": {
+    "title": "Who Owns a Failed Public Project?",
+    "paragraphs": [
+      "A new civic hall opened eighteen months late, cost almost twice its approved budget and developed a leaking roof before its first winter. Public anger focused on the minister who had announced it. Yet the decisions behind the failure were dispersed among civil servants, design consultants, a construction partnership and a council committee that had repeatedly changed the brief. The project raised a familiar democratic problem: responsibility is easy to demand but difficult to locate.",
+      "Investigators reconstructed the sequence rather than searching immediately for one guilty actor. Early cost estimates had excluded ground repairs because surveys were incomplete. The contractor, selected partly for a low headline price, later charged for changes that the original contract did not cover. Meanwhile, officials who saw the growing risk reported it upward, but each report treated delay, cost and design as separate issues. No single warning captured their combined effect.",
+      "Some commentators argued that shared responsibility meant nobody was accountable. The inquiry reached a different conclusion. It distinguished operational errors, which belonged to professionals with relevant expertise, from political responsibility for the system within which those errors accumulated. The minister had not chosen roof materials, but her department had approved a reporting process that concealed the total risk and had continued to describe the project as on schedule after internal forecasts changed.",
+      "The inquiry recommended a public dashboard showing cost ranges, unresolved risks and alterations to scope. More controversially, it required one named senior official to integrate information across contracts. Critics feared that this would encourage blame avoidance. Supporters replied that the official need not personally cause every problem; the role was to ensure that fragmented evidence produced a decision.",
+      "Accountability, the report concluded, is not the claim that one person performed all the work. It is an agreed chain through which explanations, corrections and consequences can travel. The hall could not be made cheaper retrospectively. Its failure nevertheless showed why public responsibility must be designed before a project begins, not improvised when citizens ask who allowed it to go wrong."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why did early estimates omit the cost of ground repairs?",
+        "answer": "B",
+        "explanation": "Paragraph 2 says the surveys were incomplete.",
+        "options": [
+          "The council rejected all repairs.",
+          "The surveys were incomplete.",
+          "The minister chose the roof material.",
+          "The contractor hid a completed survey."
+        ]
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The inquiry believed that shared responsibility made accountability impossible.",
+        "answer": "No",
+        "explanation": "It instead separated operational responsibility from political responsibility."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "The recommended dashboard would display cost ranges, changes in scope and unresolved ______.",
+        "answer": "risks",
+        "explanation": "Paragraph 4 lists unresolved risks."
+      }
+    ]
+  }
+}

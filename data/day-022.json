@@ -1,0 +1,355 @@
+{
+  "id": 22,
+  "topic": "University Choices",
+  "topicCN": "大学选择",
+  "category": "Education",
+  "vocabulary": [
+    {
+      "word": "undergraduate",
+      "ipa": "/ˌʌndəˈɡrædʒuət/",
+      "meaning": "本科生；本科阶段的",
+      "collocation": "apply for an undergraduate course",
+      "collocationCN": "申请本科课程"
+    },
+    {
+      "word": "major",
+      "ipa": "/ˈmeɪdʒə/",
+      "meaning": "大学主修专业",
+      "collocation": "choose a suitable major",
+      "collocationCN": "选择合适的主修专业"
+    },
+    {
+      "word": "prospectus",
+      "ipa": "/prəˈspektəs/",
+      "meaning": "大学招生简章",
+      "collocation": "read the university prospectus",
+      "collocationCN": "阅读大学招生简章"
+    },
+    {
+      "word": "admission requirement",
+      "ipa": "/ədˈmɪʃən rɪˌkwaɪəmənt/",
+      "meaning": "录取要求",
+      "collocation": "meet the admission requirements",
+      "collocationCN": "满足录取要求"
+    },
+    {
+      "word": "entry qualification",
+      "ipa": "/ˈentri ˌkwɒlɪfɪˈkeɪʃən/",
+      "meaning": "入学资格",
+      "collocation": "check the entry qualifications",
+      "collocationCN": "核对入学资格"
+    },
+    {
+      "word": "tuition fee",
+      "ipa": "/tjuˈɪʃən fiː/",
+      "meaning": "学费",
+      "collocation": "pay annual tuition fees",
+      "collocationCN": "支付年度学费"
+    },
+    {
+      "word": "scholarship",
+      "ipa": "/ˈskɒləʃɪp/",
+      "meaning": "奖学金",
+      "collocation": "qualify for a scholarship",
+      "collocationCN": "获得奖学金申请资格"
+    },
+    {
+      "word": "student loan",
+      "ipa": "/ˈstjuːdənt ləʊn/",
+      "meaning": "学生贷款",
+      "collocation": "take out a student loan",
+      "collocationCN": "申请学生贷款"
+    },
+    {
+      "word": "campus",
+      "ipa": "/ˈkæmpəs/",
+      "meaning": "大学校园",
+      "collocation": "live on campus",
+      "collocationCN": "住在校园内"
+    },
+    {
+      "word": "accommodation",
+      "ipa": "/əˌkɒməˈdeɪʃən/",
+      "meaning": "住宿",
+      "collocation": "secure affordable accommodation",
+      "collocationCN": "找到负担得起的住宿"
+    },
+    {
+      "word": "open day",
+      "ipa": "/ˈəʊpən deɪ/",
+      "meaning": "校园开放日",
+      "collocation": "attend a university open day",
+      "collocationCN": "参加大学开放日"
+    },
+    {
+      "word": "course content",
+      "ipa": "/ˈkɔːs ˌkɒntent/",
+      "meaning": "课程内容",
+      "collocation": "compare course content",
+      "collocationCN": "比较课程内容"
+    },
+    {
+      "word": "module",
+      "ipa": "/ˈmɒdjuːl/",
+      "meaning": "课程单元",
+      "collocation": "select optional modules",
+      "collocationCN": "选择选修课程单元"
+    },
+    {
+      "word": "placement year",
+      "ipa": "/ˈpleɪsmənt jɪə/",
+      "meaning": "实习学年",
+      "collocation": "complete a placement year",
+      "collocationCN": "完成实习学年"
+    },
+    {
+      "word": "graduate prospects",
+      "ipa": "/ˈɡrædʒuət ˌprɒspekts/",
+      "meaning": "毕业生就业前景",
+      "collocation": "consider graduate prospects",
+      "collocationCN": "考虑毕业生就业前景"
+    },
+    {
+      "word": "student-to-staff ratio",
+      "ipa": "/ˌstjuːdənt tə ˈstɑːf ˌreɪʃiəʊ/",
+      "meaning": "师生比",
+      "collocation": "compare student-to-staff ratios",
+      "collocationCN": "比较师生比"
+    },
+    {
+      "word": "reputation",
+      "ipa": "/ˌrepjəˈteɪʃən/",
+      "meaning": "声誉",
+      "collocation": "have a strong academic reputation",
+      "collocationCN": "拥有良好的学术声誉"
+    },
+    {
+      "word": "location",
+      "ipa": "/ləʊˈkeɪʃən/",
+      "meaning": "地点；地理位置",
+      "collocation": "weigh up the location",
+      "collocationCN": "权衡地理位置"
+    },
+    {
+      "word": "shortlist",
+      "ipa": "/ˈʃɔːtlɪst/",
+      "meaning": "候选名单",
+      "collocation": "draw up a shortlist of universities",
+      "collocationCN": "列出大学候选名单"
+    },
+    {
+      "word": "defer",
+      "ipa": "/dɪˈfɜː/",
+      "meaning": "推迟",
+      "collocation": "defer university entry",
+      "collocationCN": "推迟入学"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "choose a university",
+      "options": [
+        "select an institution",
+        "decide where to study",
+        "make a university choice"
+      ],
+      "note": "institution 较正式；where to study 更适合口语。"
+    },
+    {
+      "base": "a famous university",
+      "options": [
+        "a prestigious institution",
+        "a highly ranked university",
+        "a well-regarded university"
+      ],
+      "note": "prestigious 指声誉高，不等于适合个人。"
+    },
+    {
+      "base": "course content",
+      "options": [
+        "programme structure",
+        "degree modules",
+        "what the course covers"
+      ],
+      "note": "module 指学位中的具体课程单元。"
+    },
+    {
+      "base": "cost of university",
+      "options": [
+        "the full cost of study",
+        "tuition and living expenses",
+        "financial commitment"
+      ],
+      "note": "full cost 应同时考虑学费与生活费。"
+    },
+    {
+      "base": "visit before applying",
+      "options": [
+        "attend an open day",
+        "tour the campus",
+        "explore the facilities in person"
+      ],
+      "note": "open day 是大学集中接待申请者的开放日。"
+    },
+    {
+      "base": "suitable for me",
+      "options": [
+        "a good academic fit",
+        "aligned with my needs",
+        "well matched to my interests"
+      ],
+      "note": "fit 强调个人与课程的匹配。"
+    },
+    {
+      "base": "future job prospects",
+      "options": [
+        "graduate employment prospects",
+        "career outcomes",
+        "post-degree opportunities"
+      ],
+      "note": "prospects 强调未来可能性。"
+    },
+    {
+      "base": "compare universities",
+      "options": [
+        "weigh up institutions",
+        "evaluate alternative courses",
+        "compare available options"
+      ],
+      "note": "weigh up 表示综合权衡利弊。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Whether + university option + is suitable depends largely on + criterion.",
+      "cn": "某个大学选择是否合适，很大程度上取决于某项标准。",
+      "example": "Whether a distant university is suitable depends largely on the support a student can access."
+    },
+    {
+      "pattern": "Rather than choosing + option + solely on the basis of + factor, applicants should + action.",
+      "cn": "申请者不应只根据某因素选择……，而应……。",
+      "example": "Rather than choosing a course solely on the basis of prestige, applicants should examine its content."
+    },
+    {
+      "pattern": "The more accurately + applicants + assess + needs, the less likely they are to + negative result.",
+      "cn": "申请者越准确评估自身需要，就越不容易……。",
+      "example": "The more accurately applicants assess their needs, the less likely they are to leave a course early."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "weigh up my options",
+      "cn": "权衡各种选择",
+      "example": "I need time to weigh up my options before accepting an offer."
+    },
+    {
+      "text": "have my heart set on",
+      "cn": "一心想要",
+      "example": "I had my heart set on studying in a coastal city."
+    },
+    {
+      "text": "keep my options open",
+      "cn": "保留多种选择",
+      "example": "I applied to several programmes to keep my options open."
+    },
+    {
+      "text": "meet the entry requirements",
+      "cn": "达到入学要求",
+      "example": "Applicants must meet the entry requirements before they are interviewed."
+    },
+    {
+      "text": "make an informed choice",
+      "cn": "作出知情选择",
+      "example": "Open days help students make an informed choice about where to study."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I want to enter to a good university.",
+      "correct": "I want to get into a good university.",
+      "why": "enter 作“进入”时不接 to；谈录取更自然地用 get into。"
+    },
+    {
+      "wrong": "The course contains many practical works.",
+      "correct": "The course includes a lot of practical work.",
+      "why": "work 表示学习或工作内容时通常不可数。"
+    },
+    {
+      "wrong": "I am considering to study abroad.",
+      "correct": "I am considering studying abroad.",
+      "why": "consider 后接动名词，不接不定式。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Course content should outweigh institutional prestige.",
+      "topicSentence": "Applicants should judge a degree primarily by what and how they will study.",
+      "collocations": [
+        "examine course content",
+        "develop relevant expertise",
+        "match academic interests",
+        "compare teaching methods"
+      ],
+      "argument": "A famous university cannot compensate for a programme that does not suit a student’s interests or preferred way of learning. Module descriptions reveal whether a course is theoretical, practical or flexible, while assessment methods show what work will be expected. A student who enjoys laboratory investigation may struggle on a programme dominated by lectures and final examinations. Careful comparison also reduces the risk of changing degrees after considerable expense. Prestige has value, but educational fit should guide the final decision."
+    },
+    {
+      "viewpoint": "Financial planning is part of a responsible university choice.",
+      "topicSentence": "The full cost of study should be considered before an applicant accepts a university place.",
+      "collocations": [
+        "estimate living costs",
+        "take on student debt",
+        "seek financial support",
+        "manage a limited budget"
+      ],
+      "argument": "Tuition is only one component of university expense, since housing, transport and materials can vary sharply between locations. Underestimating these costs may force students into excessive paid work and reduce the time available for study. Applicants should compare realistic monthly budgets and investigate grants before committing themselves. Choosing a less expensive city can sometimes provide greater academic freedom than attending a prestigious institution under constant financial pressure. Transparent cost information is therefore essential to fair access."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What would matter most to you when choosing a university?",
+      "answer": "The course itself would come first. I would look at the actual modules and how they are assessed, because an impressive name would not help if I disliked the daily work. Location would still matter, especially the cost of housing and the time needed to travel home. I would probably make a shortlist only after comparing all three factors."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a difficult educational choice you made or may need to make.",
+      "answer": "A choice I may have to make is whether to study close to home or move to another city. Staying nearby would be cheaper, and I could keep my present support network. The other course, however, offers a specialist module that fits my interests much better. I would speak to current students and calculate a realistic budget before deciding. It is difficult because the academically stronger option also involves more uncertainty and independence. I would also compare the amount of teaching in small groups, because published rankings would not answer that personal question. Moving away could help me become independent, yet loneliness might affect my study at first. Whichever option I choose, I want the decision to rest on daily realities rather than the excitement of a campus visit."
+    }
+  ],
+  "reading": {
+    "title": "Why University Rankings Cannot Make the Decision",
+    "paragraphs": [
+      "University league tables turn a complex institution into a position on a list. For applicants facing hundreds of possible courses, that simplicity is attractive. A high rank appears to promise excellent teaching, respected qualifications and strong employment prospects. Yet the number is an aggregate: it combines indicators chosen for a broad audience, whereas an individual student has a particular subject, budget and preferred learning environment.",
+      "The measures themselves deserve attention. Research income may indicate an active academic department, but undergraduates do not necessarily work with its leading researchers. Student-satisfaction surveys capture experience, although responses can be influenced by expectations and by events unrelated to teaching. Graduate salaries favour courses linked to highly paid occupations and universities located in expensive labour markets. None of these indicators is useless; the problem arises when different evidence is treated as a single judgement of quality.",
+      "Rankings can also alter institutional behaviour. When a measure becomes influential, universities have an incentive to improve the figure, sometimes without improving the underlying experience to the same extent. Resources may be directed towards visible facilities or selective admission because these affect reputation. By contrast, careful feedback on first-year assignments or support for commuting students is harder to advertise, despite its importance to daily study.",
+      "A more reliable selection process begins with questions rather than positions. Applicants can compare compulsory modules, contact hours, assessment types and opportunities for practical experience. They may ask current students how quickly staff respond when difficulties arise. Cost and accessibility should be calculated for the whole degree, not only the first term. A ranking can identify institutions worth investigating, but it cannot decide whether a specific person will flourish there. The final choice requires evidence at the level of the course and the learner.",
+      "Applicants should also treat published information as a starting point that needs interpretation. Two courses may report similar contact hours while organising them differently: one uses large lectures and another small laboratories. Visiting, asking precise questions and comparing written answers can expose these differences. The decision improves when a broad indicator leads to closer enquiry instead of replacing it."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "What is the writer’s main criticism of an overall ranking?",
+        "answer": "B",
+        "explanation": "It combines broad indicators that may not match an individual student’s priorities.",
+        "options": [
+          "It is calculated only from student surveys.",
+          "It combines broad indicators that may not match an individual student’s priorities.",
+          "It ignores university research completely.",
+          "It is designed mainly for employers."
+        ]
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "Universities may change their priorities in response to ranking measures.",
+        "answer": "Yes",
+        "explanation": "Paragraph 3 states that influential measures can alter institutional behaviour."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "The writer recommends examining modules, assessment and opportunities for ______ experience.",
+        "answer": "practical",
+        "explanation": "The final paragraph explicitly mentions opportunities for practical experience."
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "passed": true,
+  "scope": "Day 021–040 only",
+  "errors": [],
+  "metrics": {
+    "days": 20,
+    "readingMaxSimilarity": {
+      "days": [
+        33,
+        35
+      ],
+      "percent": 0.46
+    },
+    "writingMaxSimilarity": {
+      "days": [
+        26,
+        32
+      ],
+      "percent": 0.71
+    },
+    "speakingMaxSimilarity": {
+      "days": [
+        23,
+        33
+      ],
+      "percent": 4.87
+    },
+    "questionTypes": {
+      "Matching Headings": 4,
+      "True / False / Not Given": 12,
+      "Sentence Completion": 10,
+      "Multiple Choice": 10,
+      "Yes / No / Not Given": 8,
+      "Summary Completion": 3,
+      "Matching Information": 6,
+      "Short Answer": 7
+    },
+    "readingWords": {
+      "21": 349,
+      "22": 351,
+      "23": 343,
+      "24": 343,
+      "25": 346,
+      "26": 335,
+      "27": 346,
+      "28": 338,
+      "29": 344,
+      "30": 331,
+      "31": 336,
+      "32": 323,
+      "33": 333,
+      "34": 318,
+      "35": 324,
+      "36": 307,
+      "37": 308,
+      "38": 316,
+      "39": 328,
+      "40": 320
+    }
+  }
+}

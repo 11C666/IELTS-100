@@ -1,0 +1,349 @@
+{
+  "id": 33,
+  "topic": "Work–Life Balance",
+  "topicCN": "工作与生活平衡",
+  "category": "Work",
+  "vocabulary": [
+    {
+      "word": "work–life balance",
+      "ipa": "/ˌwɜːk laɪf ˈbæləns/",
+      "meaning": "工作与生活的平衡",
+      "collocation": "maintain a healthy work–life balance",
+      "collocationCN": "保持健康的工作生活平衡"
+    },
+    {
+      "word": "flexitime",
+      "ipa": "/ˈfleksitaɪm/",
+      "meaning": "弹性工作时间制",
+      "collocation": "introduce a flexitime scheme",
+      "collocationCN": "推行弹性工作时间制"
+    },
+    {
+      "word": "compressed hours",
+      "ipa": "/kəmˌprest ˈaʊəz/",
+      "meaning": "压缩工时制",
+      "collocation": "work compressed hours",
+      "collocationCN": "采用压缩工时制"
+    },
+    {
+      "word": "right to disconnect",
+      "ipa": "/ˌraɪt tə dɪsəˈnekt/",
+      "meaning": "离线权；下班后不联系工作的权利",
+      "collocation": "protect the right to disconnect",
+      "collocationCN": "保护员工的离线权"
+    },
+    {
+      "word": "boundary",
+      "ipa": "/ˈbaʊndri/",
+      "meaning": "界限",
+      "collocation": "set clear boundaries around work",
+      "collocationCN": "为工作设定清晰界限"
+    },
+    {
+      "word": "downtime",
+      "ipa": "/ˈdaʊntaɪm/",
+      "meaning": "休息时间",
+      "collocation": "schedule regular downtime",
+      "collocationCN": "安排规律的休息时间"
+    },
+    {
+      "word": "emotional exhaustion",
+      "ipa": "/ɪˌməʊʃənəl ɪɡˈzɔːstʃən/",
+      "meaning": "情绪耗竭",
+      "collocation": "recognise signs of emotional exhaustion",
+      "collocationCN": "识别情绪耗竭的迹象"
+    },
+    {
+      "word": "chronic overwork",
+      "ipa": "/ˌkrɒnɪk ˈəʊvəwɜːk/",
+      "meaning": "长期过度工作",
+      "collocation": "prevent chronic overwork",
+      "collocationCN": "防止长期过度工作"
+    },
+    {
+      "word": "caregiving responsibility",
+      "ipa": "/ˈkeəɡɪvɪŋ rɪˌspɒnsəˈbɪləti/",
+      "meaning": "照护责任",
+      "collocation": "combine employment with caregiving responsibilities",
+      "collocationCN": "兼顾就业与照护责任"
+    },
+    {
+      "word": "annual leave",
+      "ipa": "/ˌænjuəl ˈliːv/",
+      "meaning": "年假",
+      "collocation": "take your full annual leave",
+      "collocationCN": "休完应享的全部年假"
+    },
+    {
+      "word": "unmanageable workload",
+      "ipa": "/ʌnˌmænɪdʒəbəl ˈwɜːkləʊd/",
+      "meaning": "难以承受的工作量",
+      "collocation": "raise concerns about an unmanageable workload",
+      "collocationCN": "反映工作量难以承受"
+    },
+    {
+      "word": "time poverty",
+      "ipa": "/ˈtaɪm ˌpɒvəti/",
+      "meaning": "时间贫困",
+      "collocation": "reduce time poverty among working parents",
+      "collocationCN": "缓解在职父母的时间贫困"
+    },
+    {
+      "word": "leisure time",
+      "ipa": "/ˈleʒə taɪm/",
+      "meaning": "闲暇时间",
+      "collocation": "protect time for leisure",
+      "collocationCN": "留出休闲时间"
+    },
+    {
+      "word": "sustainable pace",
+      "ipa": "/səˌsteɪnəbəl ˈpeɪs/",
+      "meaning": "可长期维持的节奏",
+      "collocation": "work at a sustainable pace",
+      "collocationCN": "以可持续的节奏工作"
+    },
+    {
+      "word": "personal commitment",
+      "ipa": "/ˌpɜːsənəl kəˈmɪtmənt/",
+      "meaning": "个人事务；私人承诺",
+      "collocation": "fit work around personal commitments",
+      "collocationCN": "围绕个人事务安排工作"
+    },
+    {
+      "word": "switch off",
+      "ipa": "/swɪtʃ ˈɒf/",
+      "meaning": "从工作状态中放松下来",
+      "collocation": "find it hard to switch off after work",
+      "collocationCN": "下班后很难放松下来"
+    },
+    {
+      "word": "call it a day",
+      "ipa": "/ˌkɔːl ɪt ə ˈdeɪ/",
+      "meaning": "收工；结束当天工作",
+      "collocation": "call it a day at a reasonable time",
+      "collocationCN": "在合理时间收工"
+    },
+    {
+      "word": "run on empty",
+      "ipa": "/rʌn ɒn ˈempti/",
+      "meaning": "精疲力竭地硬撑",
+      "collocation": "keep working while running on empty",
+      "collocationCN": "精疲力竭仍继续工作"
+    },
+    {
+      "word": "make time for",
+      "ipa": "/meɪk ˈtaɪm fə/",
+      "meaning": "特意腾出时间做",
+      "collocation": "make time for family and exercise",
+      "collocationCN": "为家人和锻炼腾出时间"
+    },
+    {
+      "word": "leave work at work",
+      "ipa": "/liːv ˌwɜːk ət ˈwɜːk/",
+      "meaning": "不把工作带入私人生活",
+      "collocation": "learn to leave work at work",
+      "collocationCN": "学会不把工作带回生活中"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "work and personal life",
+      "options": [
+        "work–life balance",
+        "employment and private responsibilities",
+        "work and non-work domains"
+      ],
+      "note": "domain 是研究语境用词。"
+    },
+    {
+      "base": "stop thinking about work",
+      "options": [
+        "psychologically detach",
+        "switch off from work",
+        "disengage from job demands"
+      ],
+      "note": "detach 是学术语境核心表达。"
+    },
+    {
+      "base": "unpredictable shifts",
+      "options": [
+        "unstable schedules",
+        "last-minute rota changes",
+        "irregular working hours"
+      ],
+      "note": "rota 是英式排班表达。"
+    },
+    {
+      "base": "time to recover",
+      "options": [
+        "recovery time",
+        "opportunity for restoration",
+        "adequate rest between shifts"
+      ],
+      "note": "restoration 强调恢复资源。"
+    },
+    {
+      "base": "always available",
+      "options": [
+        "constantly on call",
+        "permanently reachable",
+        "expected to respond after hours"
+      ],
+      "note": "on call 通常含待命责任。"
+    },
+    {
+      "base": "flexible hours",
+      "options": [
+        "control over scheduling",
+        "flexible working time",
+        "discretion over start times"
+      ],
+      "note": "control 比形式上的灵活更关键。"
+    },
+    {
+      "base": "work enters home time",
+      "options": [
+        "work spills into personal time",
+        "employment intrudes on family life",
+        "work–home boundaries weaken"
+      ],
+      "note": "spill into 自然且形象。"
+    },
+    {
+      "base": "long-term performance",
+      "options": [
+        "sustainable productivity",
+        "consistent performance over time",
+        "enduring work capacity"
+      ],
+      "note": "sustainable 强调不可透支。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "It is not the number of hours alone that + outcome, but + quality of control/recovery.",
+      "cn": "影响结果的不只是工作时长，而是……。",
+      "example": "It is not the number of hours alone that causes strain, but the lack of control over them."
+    },
+    {
+      "pattern": "When work repeatedly spills into + personal time, + consequence.",
+      "cn": "当工作反复侵占私人时间时，……。",
+      "example": "When work repeatedly spills into evenings, recovery becomes incomplete."
+    },
+    {
+      "pattern": "Employees are better able to + performance + if they can + boundary practice.",
+      "cn": "如果员工能够采取某种边界做法，他们就更能……。",
+      "example": "Employees are better able to concentrate if they can disconnect between shifts."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "switch off from work",
+      "cn": "从工作状态中抽离",
+      "example": "I find it hard to switch off from work after a late meeting."
+    },
+    {
+      "text": "draw a line between work and home",
+      "cn": "划清工作与家庭界限",
+      "example": "A separate desk helps me draw a line between work and home."
+    },
+    {
+      "text": "work long hours",
+      "cn": "长时间工作",
+      "example": "People can work long hours for a short period, but not indefinitely."
+    },
+    {
+      "text": "make time for family",
+      "cn": "腾出时间陪伴家人",
+      "example": "I protect Sunday afternoons to make time for family."
+    },
+    {
+      "text": "be constantly on call",
+      "cn": "随时待命",
+      "example": "Managers should not expect staff to be constantly on call."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I have no time to relax myself.",
+      "correct": "I have no time to relax.",
+      "why": "relax 通常不接反身代词。"
+    },
+    {
+      "wrong": "My work is too much busy.",
+      "correct": "My work is far too demanding.",
+      "why": "busy 通常描述人；too much 不直接修饰形容词。"
+    },
+    {
+      "wrong": "I spend most evenings to answer emails.",
+      "correct": "I spend most evenings answering emails.",
+      "why": "spend time 后接动名词。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Predictability can matter as much as shorter hours.",
+      "topicSentence": "Workers need sufficient notice and control to organise responsibilities outside employment.",
+      "collocations": [
+        "receive predictable schedules",
+        "arrange childcare",
+        "control working hours",
+        "reduce work–family conflict"
+      ],
+      "argument": "A thirty-hour week may still damage family life if shifts change at the last minute. Unpredictability makes childcare, medical appointments and shared meals difficult even when total hours are moderate. Advance scheduling and limits on compulsory changes allow households to coordinate. Some industries need flexibility, but the cost should not be transferred entirely to the worker. Greater predictability is therefore a practical form of work–life support."
+    },
+    {
+      "viewpoint": "The right to disconnect requires organisational support.",
+      "topicSentence": "Employees cannot protect personal time if managers reward constant online availability.",
+      "collocations": [
+        "respect non-working time",
+        "set communication norms",
+        "prevent chronic overwork",
+        "support psychological recovery"
+      ],
+      "argument": "A written policy is ineffective when senior staff send routine requests late at night and praise immediate replies. Teams should identify genuine emergencies, use delayed delivery and make response expectations explicit. Managers also need adequate staffing so that unfinished work does not simply accumulate. Periods without work communication allow attention and emotional energy to recover. Disconnecting is not a lack of commitment; it helps make sustained performance possible."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What do you do to relax after work or study?",
+      "answer": "I usually take a short walk before doing anything else. The movement is helpful, but the real benefit is that I stop looking at the same screen and let the day settle. Later I might cook or listen to a podcast. If I start checking messages immediately, I never quite feel that the working day ended."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a time when you were very busy.",
+      "answer": "Last month I had a project deadline during the same week as a family event. I made a short list of essential tasks and told colleagues early which requests would need to wait. Each evening I stopped at a fixed time so that one tired day did not ruin the next. The week was still intense, but the plan prevented me from treating every task as equally urgent. I learned that boundaries are most useful before pressure peaks. I also prepared for the family event in advance instead of assuming I could organise it after work. One colleague agreed to handle an urgent query, and I returned the favour the following week. Nothing dramatic failed because I postponed low-value tasks. Looking back, the busiest part was deciding what not to do; once those choices were explicit, the remaining work became much more manageable."
+    }
+  ],
+  "reading": {
+    "title": "Why Recovery Is More Than the Absence of Work",
+    "paragraphs": [
+      "Leaving the workplace does not guarantee recovery. A person may stop performing tasks while continuing to replay a difficult conversation, monitor messages or anticipate the next morning. Occupational researchers distinguish physical separation from psychological detachment: the ability to suspend work-related demands in thought. Both matter, but digital communication has made the second increasingly difficult.",
+      "Recovery has several routes. Rest reduces immediate effort; enjoyable activity creates positive emotion; learning a voluntary skill can restore a sense of mastery; and control over free time counters the lack of choice experienced in some jobs. The same activity does not work for everyone. A demanding run may refresh an office worker but exhaust someone whose employment is physical. The key comparison is with the demands that need to be replenished.",
+      "Short periods matter as well as holidays. Micro-breaks during a shift can reduce fatigue before it accumulates, while a predictable evening permits sleep and social contact. By contrast, an interrupted weekend may fail to restore attention because the possibility of a call keeps the employee mentally prepared for work. Research on availability suggests that uncertainty itself can consume resources even when no message arrives.",
+      "Responsibility is shared. Individuals can mute notifications and create transition routines, but these measures fail if workload is impossible or non-response is punished. Organisations influence recovery through staffing, scheduling and the behaviour of managers. Sustainable performance depends on cycles of effort and restoration, not on extracting maximum effort every day. Work–life balance is therefore not a perfect division of hours. It is the capacity to meet work demands without repeatedly borrowing energy from sleep, health and relationships.",
+      "Social expectations shape recovery as well. An employee may technically be free to ignore email but still respond because every colleague appears available. Teams can make detachment visible by scheduling messages, noting working hours and avoiding praise for unnecessary late-night activity. When senior staff use these practices themselves, boundaries become a collective norm rather than a private act requiring repeated justification."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Physical distance from work always produces psychological detachment.",
+        "answer": "False",
+        "explanation": "Paragraph 1 distinguishes the two and says leaving does not guarantee recovery."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph states that uncertainty about a call can itself use mental resources?",
+        "answer": "C",
+        "explanation": "Paragraph C discusses uncertain availability."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Sustainable performance requires cycles of effort and ______.",
+        "answer": "restoration",
+        "explanation": "The final paragraph uses these terms."
+      }
+    ]
+  }
+}

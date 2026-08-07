@@ -1,0 +1,354 @@
+{
+  "id": 88,
+  "topic": "Ageing Societies",
+  "topicCN": "老龄化社会",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "ageing population",
+      "ipa": "/ˌeɪdʒɪŋ ˌpɒpjəˈleɪʃən/",
+      "meaning": "人口老龄化",
+      "collocation": "support an ageing population",
+      "collocationCN": "支持老龄人口"
+    },
+    {
+      "word": "life expectancy",
+      "ipa": "/ˈlaɪf ɪkˌspektənsi/",
+      "meaning": "预期寿命",
+      "collocation": "rising life expectancy",
+      "collocationCN": "不断提高的预期寿命"
+    },
+    {
+      "word": "birth rate",
+      "ipa": "/ˈbɜːθ reɪt/",
+      "meaning": "出生率",
+      "collocation": "a declining birth rate",
+      "collocationCN": "下降的出生率"
+    },
+    {
+      "word": "dependency ratio",
+      "ipa": "/dɪˈpendənsi ˌreɪʃiəʊ/",
+      "meaning": "抚养比",
+      "collocation": "increase the dependency ratio",
+      "collocationCN": "提高抚养比"
+    },
+    {
+      "word": "pension provision",
+      "ipa": "/ˈpenʃən prəˌvɪʒən/",
+      "meaning": "养老金保障",
+      "collocation": "reform pension provision",
+      "collocationCN": "改革养老金保障"
+    },
+    {
+      "word": "geriatric care",
+      "ipa": "/ˌdʒeriˈætrɪk keə/",
+      "meaning": "老年医疗护理",
+      "collocation": "expand geriatric care",
+      "collocationCN": "扩大老年护理"
+    },
+    {
+      "word": "social isolation",
+      "ipa": "/ˌsəʊʃəl ˌaɪsəˈleɪʃən/",
+      "meaning": "社会孤立",
+      "collocation": "combat social isolation",
+      "collocationCN": "减少社会孤立"
+    },
+    {
+      "word": "intergenerational",
+      "ipa": "/ˌɪntədʒenəˈreɪʃənəl/",
+      "meaning": "代际的",
+      "collocation": "intergenerational contact",
+      "collocationCN": "代际接触"
+    },
+    {
+      "word": "age-friendly",
+      "ipa": "/ˈeɪdʒ ˌfrendli/",
+      "meaning": "适老的",
+      "collocation": "design age-friendly housing",
+      "collocationCN": "设计适老住房"
+    },
+    {
+      "word": "informal carer",
+      "ipa": "/ɪnˌfɔːməl ˈkeərə/",
+      "meaning": "非职业照护者",
+      "collocation": "support informal carers",
+      "collocationCN": "支持家庭照护者"
+    },
+    {
+      "word": "retirement age",
+      "ipa": "/rɪˈtaɪəmənt eɪdʒ/",
+      "meaning": "退休年龄",
+      "collocation": "raise the retirement age",
+      "collocationCN": "提高退休年龄"
+    },
+    {
+      "word": "labour shortage",
+      "ipa": "/ˈleɪbə ˌʃɔːtɪdʒ/",
+      "meaning": "劳动力短缺",
+      "collocation": "ease a labour shortage",
+      "collocationCN": "缓解劳动力短缺"
+    },
+    {
+      "word": "healthy ageing",
+      "ipa": "/ˌhelθi ˈeɪdʒɪŋ/",
+      "meaning": "健康老龄化",
+      "collocation": "promote healthy ageing",
+      "collocationCN": "促进健康老龄化"
+    },
+    {
+      "word": "accessible transport",
+      "ipa": "/əkˌsesəbəl ˈtrænspɔːt/",
+      "meaning": "无障碍交通",
+      "collocation": "provide accessible transport",
+      "collocationCN": "提供无障碍交通"
+    },
+    {
+      "word": "long-term care",
+      "ipa": "/ˌlɒŋ tɜːm ˈkeə/",
+      "meaning": "长期护理",
+      "collocation": "finance long-term care",
+      "collocationCN": "资助长期护理"
+    },
+    {
+      "word": "stay active",
+      "ipa": "/steɪ ˈæktɪv/",
+      "meaning": "保持活跃",
+      "collocation": "stay active after retirement",
+      "collocationCN": "退休后保持活跃"
+    },
+    {
+      "word": "look after a relative",
+      "ipa": "/lʊk ˌɑːftər ə ˈrelətɪv/",
+      "meaning": "照顾亲属",
+      "collocation": "look after an elderly relative",
+      "collocationCN": "照顾年长亲属"
+    },
+    {
+      "word": "live independently",
+      "ipa": "/lɪv ˌɪndɪˈpendəntli/",
+      "meaning": "独立生活",
+      "collocation": "help people live independently",
+      "collocationCN": "帮助人们独立生活"
+    },
+    {
+      "word": "plan for retirement",
+      "ipa": "/plæn fə rɪˈtaɪəmənt/",
+      "meaning": "为退休作规划",
+      "collocation": "plan for retirement early",
+      "collocationCN": "尽早规划退休"
+    },
+    {
+      "word": "pass on experience",
+      "ipa": "/pɑːs ɒn ɪkˈspɪəriəns/",
+      "meaning": "传授经验",
+      "collocation": "pass on professional experience",
+      "collocationCN": "传授职业经验"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "old people",
+      "options": [
+        "older adults",
+        "senior citizens",
+        "people in later life"
+      ],
+      "note": "older adults中性自然，适合多数语境。"
+    },
+    {
+      "base": "people live longer",
+      "options": [
+        "longevity is increasing",
+        "life expectancy is rising",
+        "more people survive into old age"
+      ],
+      "note": "life expectancy适合数据讨论。"
+    },
+    {
+      "base": "care for the elderly",
+      "options": [
+        "support older people",
+        "provide later-life care",
+        "meet older adults’ care needs"
+      ],
+      "note": "meet needs强调服务是否匹配。"
+    },
+    {
+      "base": "fewer babies are born",
+      "options": [
+        "the birth rate is falling",
+        "fertility is declining",
+        "births are becoming less numerous"
+      ],
+      "note": "fertility常用于人口研究。"
+    },
+    {
+      "base": "retire later",
+      "options": [
+        "extend working lives",
+        "remain in employment for longer",
+        "delay departure from the workforce"
+      ],
+      "note": "extend working lives适合政策讨论。"
+    },
+    {
+      "base": "lonely older people",
+      "options": [
+        "socially isolated seniors",
+        "older adults with limited social contact",
+        "people cut off from community life"
+      ],
+      "note": "isolated不等于独居。"
+    },
+    {
+      "base": "cost of pensions",
+      "options": [
+        "pension expenditure",
+        "the fiscal burden of retirement income",
+        "public spending on pension provision"
+      ],
+      "note": "fiscal burden带有成本压力含义。"
+    },
+    {
+      "base": "use older workers’ skills",
+      "options": [
+        "retain experienced employees",
+        "draw on senior staff’s expertise",
+        "make productive use of accumulated experience"
+      ],
+      "note": "retain强调避免人才过早流失。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "As + population trend + continues, + service or institution + will need to + response.",
+      "cn": "随着某种人口趋势持续，相关服务或机构将需要采取相应措施。",
+      "example": "As life expectancy continues to rise, health services will need to provide more long-term care."
+    },
+    {
+      "pattern": "Older adults who + situation + are more likely to + outcome than those who + contrasting situation.",
+      "cn": "处于某种情况的老年人，比处于相反情况的人更可能出现某种结果。",
+      "example": "Older adults who maintain regular social contact are more likely to stay healthy than those who become isolated."
+    },
+    {
+      "pattern": "By enabling + group + to + action, + policy + can both + benefit one + and + benefit two.",
+      "cn": "通过帮助某群体采取行动，某项政策可以同时带来两方面益处。",
+      "example": "By enabling experienced staff to work flexible hours, employers can both retain expertise and reduce labour shortages."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "age in place",
+      "cn": "在熟悉的社区养老",
+      "example": "Most people would prefer to age in place if support is available."
+    },
+    {
+      "text": "keep socially connected",
+      "cn": "保持社会联系",
+      "example": "Community classes help retired people keep socially connected."
+    },
+    {
+      "text": "take on a caring role",
+      "cn": "承担照护责任",
+      "example": "Many adults take on a caring role for a parent."
+    },
+    {
+      "text": "ease pressure on public services",
+      "cn": "缓解公共服务压力",
+      "example": "Preventive care can ease pressure on public services."
+    },
+    {
+      "text": "draw on a lifetime of experience",
+      "cn": "利用一生积累的经验",
+      "example": "Mentoring schemes draw on a lifetime of experience."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The government should care old people.",
+      "correct": "The government should care for older people.",
+      "why": "care表示照顾某人时需接介词for。"
+    },
+    {
+      "wrong": "The elderly is becoming more numerous.",
+      "correct": "The elderly are becoming more numerous.",
+      "why": "the elderly表示一类人，谓语通常用复数。"
+    },
+    {
+      "wrong": "People have a longer life expectation.",
+      "correct": "People have a longer life expectancy.",
+      "why": "人口统计中的“预期寿命”固定说life expectancy。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Age-friendly design benefits the whole population.",
+      "topicSentence": "Adapting public spaces for older residents can make cities safer and easier to use for everyone.",
+      "collocations": [
+        "remove physical barriers",
+        "provide accessible transport",
+        "support independent living",
+        "adopt universal design"
+      ],
+      "argument": "Steps without handrails and bus information displayed in tiny print create obvious difficulties for older adults. The same barriers also affect parents with pushchairs, injured commuters and travellers carrying luggage. Replacing them with level access, seating and clear signs therefore serves a much wider public. A town in which people can continue shopping and meeting friends independently may also require less formal care. Age-friendly investment should consequently be treated as inclusive infrastructure rather than a specialist expense."
+    },
+    {
+      "viewpoint": "Longer lives require flexible working arrangements.",
+      "topicSentence": "A uniform retirement age is less useful when health, occupations and personal circumstances vary widely.",
+      "collocations": [
+        "extend working lives",
+        "retain skilled employees",
+        "offer phased retirement",
+        "protect physically demanding workers"
+      ],
+      "argument": "An office worker in good health may want to reduce hours gradually and continue contributing, while a construction worker may be unable to remain in the same role. Forcing both to retire on one date wastes some people’s expertise but places an unfair burden on others. Phased retirement and retraining would give capable employees a route to stay without making later retirement compulsory. Employers would retain institutional knowledge, and pension systems would receive contributions for longer. Flexibility, rather than a simple rise in the age threshold, is the more balanced reform."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe an older person whose experience you value.",
+      "answer": "I value the experience of a former colleague who worked in customer service for nearly thirty years. She was calm even when a customer was angry, and she could usually identify the real problem behind a complaint. When I first joined the team, she showed me how to listen without interrupting and how to explain a solution in plain language. What impressed me was that she never presented her advice as a fixed rule; she always asked what I had already tried. We still speak occasionally, and her practical judgement has helped me far more than any short training course. She made experience feel generous rather than authoritative."
+    },
+    {
+      "part": "Part 3",
+      "question": "How can communities reduce loneliness among older people?",
+      "answer": "Regular contact needs to be built into ordinary community life. Affordable transport is important because an excellent activity is useless if someone cannot reach it. Libraries, sports centres and neighbourhood groups can offer sessions that involve a real shared purpose, such as gardening or language exchange, rather than treating older people as passive recipients of entertainment. Telephone support can help people who are housebound, although it should not replace face-to-face contact entirely. It is also worth supporting family carers, whose workload can isolate both themselves and the person they look after."
+    }
+  ],
+  "reading": {
+    "title": "The Repair Shop That Became a Meeting Place",
+    "paragraphs": [
+      "At a repair workshop in a small town, the objects arriving on Tuesday mornings are ordinary: lamps with loose wires, stiff bicycle brakes and radios that no longer produce sound. Less visible is the knowledge brought by the volunteers, most of whom are retired technicians or skilled hobbyists. The scheme was established to prevent usable goods from being discarded, yet organisers soon noticed that its social effects were at least as significant as the waste it avoided.",
+      "Visitors sit beside the volunteer while an item is examined rather than leaving it at a commercial counter. This arrangement, which slows the number of repairs completed, allows an explanation to become part of the service. A retired electrician may show a student how to test a cable; a former seamstress, having identified a damaged fastening, may let its owner make the final stitches. Neither participant is formally classified as teacher or pupil, and the direction of learning is not always predictable. Younger visitors often help volunteers use online manuals or locate obscure replacement parts.",
+      "A multi-year evaluation recorded a large number of attempted repairs and found that a clear majority restored an object to use. Surveys also suggested that regular volunteers reported a stronger sense of purpose than before joining. The researchers were cautious: people who chose to volunteer might already have been more socially active, so the workshop could not be credited with causing every reported improvement. Nevertheless, interviews showed that scheduled responsibility mattered. Volunteers were expected, not merely invited, to attend.",
+      "The model has limitations. Complex appliances may be unsafe to open, insurance rules differ, and free repair can be criticised by local businesses. The town addressed the last concern by referring jobs requiring new parts or specialist certification to nearby shops. What began as an environmental initiative has thus developed into a modest local network—one in which ageing is associated not only with receiving care, but also with possessing useful knowledge that others still need."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why do visitors remain beside volunteers during repairs?",
+        "answer": "B",
+        "explanation": "Paragraph 2 says that the arrangement makes explanation and shared learning part of the service.",
+        "options": [
+          "To complete more repairs each hour",
+          "To learn during the repair process",
+          "To inspect the workshop’s insurance",
+          "To sell spare parts to volunteers"
+        ]
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The evaluation proved that volunteering caused every improvement in wellbeing.",
+        "answer": "False",
+        "explanation": "Researchers warned that volunteers may already have been socially active."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Jobs needing specialist certification were referred to nearby ______.",
+        "answer": "shops",
+        "explanation": "The final paragraph states that such jobs were referred to nearby shops."
+      }
+    ]
+  }
+}

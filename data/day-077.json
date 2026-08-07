@@ -1,0 +1,355 @@
+{
+  "id": 77,
+  "topic": "Sustainable Living",
+  "topicCN": "可持续生活",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "sustainable lifestyle",
+      "ipa": "/səˈsteɪnəbəl ˈlaɪfstaɪl/",
+      "meaning": "可持续生活方式",
+      "collocation": "adopt a sustainable lifestyle",
+      "collocationCN": "采取可持续生活方式"
+    },
+    {
+      "word": "conscious consumption",
+      "ipa": "/ˈkɒnʃəs kənˈsʌmpʃən/",
+      "meaning": "理性消费",
+      "collocation": "practise conscious consumption",
+      "collocationCN": "践行理性消费"
+    },
+    {
+      "word": "energy-efficient",
+      "ipa": "/ˈenədʒi ɪˌfɪʃənt/",
+      "meaning": "节能的",
+      "collocation": "buy an energy-efficient appliance",
+      "collocationCN": "购买节能电器"
+    },
+    {
+      "word": "public transport pass",
+      "ipa": "/ˌpʌblɪk ˈtrænspɔːt pɑːs/",
+      "meaning": "公交月票",
+      "collocation": "use a public transport pass",
+      "collocationCN": "使用公交月票"
+    },
+    {
+      "word": "plant-based",
+      "ipa": "/ˈplɑːnt beɪst/",
+      "meaning": "以植物为主的",
+      "collocation": "eat more plant-based meals",
+      "collocationCN": "多吃植物性餐食"
+    },
+    {
+      "word": "seasonal produce",
+      "ipa": "/ˈsiːzənəl ˈprɒdjuːs/",
+      "meaning": "应季农产品",
+      "collocation": "choose seasonal produce",
+      "collocationCN": "选择应季农产品"
+    },
+    {
+      "word": "household energy use",
+      "ipa": "/ˈhaʊshəʊld ˈenədʒi juːs/",
+      "meaning": "家庭能耗",
+      "collocation": "monitor household energy use",
+      "collocationCN": "监测家庭能耗"
+    },
+    {
+      "word": "water-saving",
+      "ipa": "/ˈwɔːtə ˌseɪvɪŋ/",
+      "meaning": "节水的",
+      "collocation": "install a water-saving showerhead",
+      "collocationCN": "安装节水花洒"
+    },
+    {
+      "word": "second-hand",
+      "ipa": "/ˌsekənd ˈhænd/",
+      "meaning": "二手的",
+      "collocation": "buy furniture second-hand",
+      "collocationCN": "购买二手家具"
+    },
+    {
+      "word": "refill station",
+      "ipa": "/ˈriːfɪl ˌsteɪʃən/",
+      "meaning": "补充装站",
+      "collocation": "use a refill station",
+      "collocationCN": "使用补充装站"
+    },
+    {
+      "word": "food miles",
+      "ipa": "/ˈfuːd maɪlz/",
+      "meaning": "食物里程",
+      "collocation": "consider food miles",
+      "collocationCN": "考虑食物里程"
+    },
+    {
+      "word": "environmental footprint",
+      "ipa": "/ɪnˌvaɪrənˈmentəl ˈfʊtprɪnt/",
+      "meaning": "环境足迹",
+      "collocation": "shrink an environmental footprint",
+      "collocationCN": "缩小环境足迹"
+    },
+    {
+      "word": "low-impact",
+      "ipa": "/ˌləʊ ˈɪmpækt/",
+      "meaning": "低环境影响的",
+      "collocation": "choose a low-impact option",
+      "collocationCN": "选择低影响方案"
+    },
+    {
+      "word": "greenwashing",
+      "ipa": "/ˈɡriːnwɒʃɪŋ/",
+      "meaning": "漂绿",
+      "collocation": "recognise misleading greenwashing",
+      "collocationCN": "识别误导性漂绿"
+    },
+    {
+      "word": "habit formation",
+      "ipa": "/ˈhæbɪt fɔːˌmeɪʃən/",
+      "meaning": "习惯养成",
+      "collocation": "support habit formation",
+      "collocationCN": "支持习惯养成"
+    },
+    {
+      "word": "bring a reusable cup",
+      "ipa": "/brɪŋ ə riːˈjuːzəbəl kʌp/",
+      "meaning": "自带可重复使用杯",
+      "collocation": "remember to bring a reusable cup",
+      "collocationCN": "记得自带杯"
+    },
+    {
+      "word": "make do with",
+      "ipa": "/meɪk ˈduː wɪð/",
+      "meaning": "凑合使用现有物品",
+      "collocation": "make do with what I own",
+      "collocationCN": "使用已有物品"
+    },
+    {
+      "word": "shop around",
+      "ipa": "/ʃɒp əˈraʊnd/",
+      "meaning": "货比三家",
+      "collocation": "shop around for durable goods",
+      "collocationCN": "选购耐用品时货比三家"
+    },
+    {
+      "word": "save on bills",
+      "ipa": "/seɪv ɒn bɪlz/",
+      "meaning": "节省账单开支",
+      "collocation": "save on electricity bills",
+      "collocationCN": "节省电费"
+    },
+    {
+      "word": "make informed decisions",
+      "ipa": "/meɪk ɪnˌfɔːmd dɪˈsɪʒənz/",
+      "meaning": "作出知情决定",
+      "collocation": "make informed purchasing decisions",
+      "collocationCN": "作出知情购买决定"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "live sustainably",
+      "options": [
+        "adopt lower-impact habits",
+        "reduce one’s everyday footprint",
+        "make environmentally responsible choices"
+      ],
+      "note": "lower-impact避免声称零影响。"
+    },
+    {
+      "base": "buy less",
+      "options": [
+        "reduce consumption",
+        "purchase fewer new goods",
+        "avoid unnecessary purchases"
+      ],
+      "note": "unnecessary突出不影响必要消费。"
+    },
+    {
+      "base": "green product",
+      "options": [
+        "lower-impact product",
+        "environmentally preferable option",
+        "product marketed as sustainable"
+      ],
+      "note": "marketed as不等于确实环保。"
+    },
+    {
+      "base": "easy choice",
+      "options": [
+        "convenient option",
+        "low-effort alternative",
+        "choice built into daily routines"
+      ],
+      "note": "built into routines强调系统设计。"
+    },
+    {
+      "base": "save energy",
+      "options": [
+        "use less energy",
+        "improve energy efficiency",
+        "reduce household energy demand"
+      ],
+      "note": "efficiency不一定等于总用量下降。"
+    },
+    {
+      "base": "personal action",
+      "options": [
+        "individual behaviour",
+        "household-level change",
+        "a consumer’s everyday choices"
+      ],
+      "note": "语域从正式到日常。"
+    },
+    {
+      "base": "lasting habit",
+      "options": [
+        "durable behaviour change",
+        "a routine that persists",
+        "a practice maintained over time"
+      ],
+      "note": "persist适合研究描述。"
+    },
+    {
+      "base": "tell people the impact",
+      "options": [
+        "provide clear impact information",
+        "make consequences visible",
+        "communicate the environmental trade-offs"
+      ],
+      "note": "trade-offs避免过度简化。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A sustainable choice is more likely to become routine when it is both + convenient + and + affordable.",
+      "cn": "当可持续选择同时具备两种实际品质时，它更可能成为日常习惯。",
+      "example": "A sustainable choice is more likely to become routine when it is both affordable and convenient."
+    },
+    {
+      "pattern": "Having + tried a lower-impact option + once, a person may continue to + use it + if + the result is practical and visible.",
+      "cn": "在尝试过某种行为后，如果获得反馈，人们可能会继续行动。",
+      "example": "Having monitored her electricity use once, a resident may continue to conserve energy if the savings remain visible."
+    },
+    {
+      "pattern": "The claim that + a product + is greener matters only insofar as + credible evidence supports the comparison.",
+      "cn": "声称某产品更环保，只有在证据条件成立时才有意义。",
+      "example": "The claim that a detergent is greener matters only insofar as its full ingredients and packaging are compared."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "cut back on",
+      "cn": "减少",
+      "example": "I am trying to cut back on unnecessary deliveries."
+    },
+    {
+      "text": "get into the habit of",
+      "cn": "养成某习惯",
+      "example": "I have got into the habit of carrying a bottle."
+    },
+    {
+      "text": "use what I already have",
+      "cn": "使用已有物品",
+      "example": "Before shopping, I check whether I can use what I already have."
+    },
+    {
+      "text": "make a lower-impact choice",
+      "cn": "作出环境影响较低的选择",
+      "example": "Clear labels help shoppers make a lower-impact choice."
+    },
+    {
+      "text": "avoid shifting the burden",
+      "cn": "避免转移负担",
+      "example": "A policy should avoid shifting the burden to low-income households."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I live more environmental now.",
+      "correct": "I live in a more environmentally responsible way now.",
+      "why": "environmental是形容词，不能直接修饰动词live。"
+    },
+    {
+      "wrong": "This bag is friendly to environment.",
+      "correct": "This bag is less harmful to the environment.",
+      "why": "固定说法是environmentally friendly；更精确时可用less harmful。"
+    },
+    {
+      "wrong": "I have bought it from three years.",
+      "correct": "I have had it for three years.",
+      "why": "持续拥有用have，时间段前用for。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Sustainable habits spread when the better option is convenient.",
+      "topicSentence": "Infrastructure and product design often influence household behaviour more reliably than moral appeals.",
+      "collocations": [
+        "remove practical barriers",
+        "make the default option sustainable",
+        "support lasting habits",
+        "provide convenient alternatives"
+      ],
+      "argument": "Most people make repeated choices under time and budget pressure rather than after detailed environmental research. If buses are infrequent or refill points are distant, good intentions are unlikely to survive a busy week. By contrast, convenient collection, reliable transport and efficient appliances turn lower-impact behaviour into the easiest routine. Individuals still make choices, but the environment shapes how costly those choices feel. Policy should therefore combine information with practical systems that make sustainable living ordinary."
+    },
+    {
+      "viewpoint": "Sustainable consumption can save money, but affordability is not automatic.",
+      "topicSentence": "Environmental policies should distinguish between low-cost habits and investments that many households cannot make upfront.",
+      "collocations": [
+        "face an upfront cost",
+        "reduce running expenses",
+        "offer targeted assistance",
+        "share long-term savings"
+      ],
+      "argument": "Using leftovers or buying fewer clothes costs little and may immediately save money. Home insulation and efficient heating, however, require capital even though they reduce future bills. A tenant may also lack authority to improve the building while paying its energy costs. Grants, landlord standards and affordable finance can solve this mismatch more effectively than advising residents to spend wisely. Sustainable living becomes fairer when people can access long-term savings regardless of their initial resources."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe an environmentally friendly habit that fits easily into your life.",
+      "answer": "The habit that fits most naturally is carrying a reusable water bottle. I began doing it mainly to avoid buying drinks while commuting, so the environmental benefit was not my only motivation. I leave the bottle beside my keys, which means I rarely forget it, and there are refill taps at my workplace. It saves a small amount of money and lets me see how much water I drink. I do not think this single habit has a dramatic effect, but it has lasted because it is convenient and useful. That has taught me that a sustainable routine is easier to maintain when it solves an everyday problem as well."
+    },
+    {
+      "part": "Part 3",
+      "question": "Do environmental labels help people live more sustainably?",
+      "answer": "They can help when they compare products using clear and consistent criteria. A shopper cannot research every supply chain, so trustworthy labels reduce the effort required to make an informed decision. The problem is that vague claims such as “natural” or “green” may look official without explaining what was measured. Too many competing labels also create confusion. Independent standards, plain language and information about the whole product life cycle would make labels more useful, although price and availability will still shape the final choice."
+    }
+  ],
+  "reading": {
+    "title": "Why the Thermostat Display Changed Behaviour",
+    "paragraphs": [
+      "A housing association installed smart energy displays in two hundred flats, expecting residents to respond to real-time information about electricity use. Early results were disappointing. People watched the figures for several days, switched appliances off more carefully and then stopped looking. Information had created curiosity, but it had not become part of household routine.",
+      "Researchers interviewing residents found that the display showed energy in technical units that meant little without comparison. A number rising from 0.4 to 0.8 kilowatts appeared important, yet users did not know whether it reflected a wasteful appliance or normal cooking. The device also reported immediate consumption, whereas monthly bills combined energy price, standing charges and previous use. Residents could not easily connect one careful evening with money saved.",
+      "The association redesigned the feedback rather than adding more advice. The screen compared each flat with its own previous week, identified unusually high overnight use and estimated cost over a month. It did not rank neighbours, since flats differed in size and occupancy. Most importantly, residents could set one modest target and receive a message when a routine—such as reducing standby use—produced a measurable change.",
+      "Six months later, average electricity use had fallen, although the distribution was uneven. Households with old electric heating had limited control over their largest expense, and some residents found repeated messages irritating. Those who saved most were not necessarily the people most concerned about climate change; they were often users who discovered a specific source of avoidable cost and could act on it without sacrificing comfort.",
+      "The trial does not show that every home needs another digital screen. It demonstrates that feedback supports sustainable behaviour only when people can interpret it, connect it to an available action and see a relevant result. A number, however accurate, rarely changes a routine by itself. Information becomes useful when it helps a household decide what to do next."
+    ],
+    "questions": [
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains why homes were not ranked against one another?",
+        "answer": "C",
+        "explanation": "Paragraph C says flats differed in size and occupancy."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Only residents already concerned about climate change reduced their electricity use.",
+        "answer": "False",
+        "explanation": "Paragraph 4 says the largest savers were not necessarily the most climate-concerned."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What is the writer’s main conclusion?",
+        "answer": "D",
+        "explanation": "Information changes routines when it is interpretable and linked to action.",
+        "options": [
+          "Technical units should be taught at school.",
+          "All homes require smart displays.",
+          "Neighbour rankings always save energy.",
+          "Feedback works when it is interpretable and actionable."
+        ]
+      }
+    ]
+  }
+}

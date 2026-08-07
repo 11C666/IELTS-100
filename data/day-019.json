@@ -1,0 +1,355 @@
+{
+  "id": 19,
+  "topic": "Time Management",
+  "topicCN": "时间管理",
+  "category": "Daily Life",
+  "vocabulary": [
+    {
+      "word": "priority",
+      "ipa": "/praɪˈɒrəti/",
+      "meaning": "优先事项",
+      "collocation": "set clear priorities",
+      "collocationCN": "设定明确优先事项"
+    },
+    {
+      "word": "deadline",
+      "ipa": "/ˈdedlaɪn/",
+      "meaning": "截止期限",
+      "collocation": "meet a deadline",
+      "collocationCN": "按时完成"
+    },
+    {
+      "word": "schedule",
+      "ipa": "/ˈʃedjuːl/",
+      "meaning": "日程",
+      "collocation": "a realistic schedule",
+      "collocationCN": "现实的日程"
+    },
+    {
+      "word": "task",
+      "ipa": "/tɑːsk/",
+      "meaning": "任务",
+      "collocation": "complete a task",
+      "collocationCN": "完成任务"
+    },
+    {
+      "word": "workload",
+      "ipa": "/ˈwɜːkləʊd/",
+      "meaning": "工作量",
+      "collocation": "manage a heavy workload",
+      "collocationCN": "管理繁重工作量"
+    },
+    {
+      "word": "delay",
+      "ipa": "/dɪˈleɪ/",
+      "meaning": "耽搁",
+      "collocation": "avoid unnecessary delay",
+      "collocationCN": "避免不必要耽搁"
+    },
+    {
+      "word": "urgent",
+      "ipa": "/ˈɜːdʒənt/",
+      "meaning": "紧急的",
+      "collocation": "an urgent request",
+      "collocationCN": "紧急请求"
+    },
+    {
+      "word": "productive",
+      "ipa": "/prəˈdʌktɪv/",
+      "meaning": "高效的",
+      "collocation": "a productive afternoon",
+      "collocationCN": "高效的下午"
+    },
+    {
+      "word": "efficient",
+      "ipa": "/ɪˈfɪʃnt/",
+      "meaning": "效率高的",
+      "collocation": "an efficient process",
+      "collocationCN": "高效流程"
+    },
+    {
+      "word": "distracted",
+      "ipa": "/dɪˈstræktɪd/",
+      "meaning": "分心的",
+      "collocation": "become easily distracted",
+      "collocationCN": "容易分心"
+    },
+    {
+      "word": "procrastinate",
+      "ipa": "/prəˈkræstɪneɪt/",
+      "meaning": "拖延",
+      "collocation": "stop procrastinating",
+      "collocationCN": "停止拖延"
+    },
+    {
+      "word": "estimate",
+      "ipa": "/ˈestɪmeɪt/",
+      "meaning": "估计",
+      "collocation": "estimate the time required",
+      "collocationCN": "估计所需时间"
+    },
+    {
+      "word": "allocate",
+      "ipa": "/ˈæləkeɪt/",
+      "meaning": "分配",
+      "collocation": "allocate time wisely",
+      "collocationCN": "合理分配时间"
+    },
+    {
+      "word": "postpone",
+      "ipa": "/pəˈspəʊn/",
+      "meaning": "推迟",
+      "collocation": "postpone a meeting",
+      "collocationCN": "推迟会议"
+    },
+    {
+      "word": "multitask",
+      "ipa": "/ˌmʌltiˈtɑːsk/",
+      "meaning": "同时处理多项任务",
+      "collocation": "try to multitask",
+      "collocationCN": "试图多任务处理"
+    },
+    {
+      "word": "to-do list",
+      "ipa": "/tə ˈduː lɪst/",
+      "meaning": "待办清单",
+      "collocation": "write a to-do list",
+      "collocationCN": "写待办清单"
+    },
+    {
+      "word": "time block",
+      "ipa": "/ˈtaɪm blɒk/",
+      "meaning": "时间块",
+      "collocation": "protect a time block",
+      "collocationCN": "保护一段专注时间"
+    },
+    {
+      "word": "competing demand",
+      "ipa": "/kəmˌpiːtɪŋ dɪˈmɑːnd/",
+      "meaning": "相互竞争的需求",
+      "collocation": "balance competing demands",
+      "collocationCN": "平衡多项需求"
+    },
+    {
+      "word": "lose track of time",
+      "ipa": "/luːz træk əv taɪm/",
+      "meaning": "忘记时间",
+      "collocation": "easily lose track of time",
+      "collocationCN": "容易忘记时间"
+    },
+    {
+      "word": "stay on track",
+      "ipa": "/steɪ ɒn træk/",
+      "meaning": "保持进度",
+      "collocation": "use a plan to stay on track",
+      "collocationCN": "用计划保持进度"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "important task",
+      "options": [
+        "priority",
+        "high-value task",
+        "essential piece of work"
+      ],
+      "note": "priority 是应优先处理的事项。"
+    },
+    {
+      "base": "finish on time",
+      "options": [
+        "meet the deadline",
+        "complete as scheduled",
+        "deliver punctually"
+      ],
+      "note": "deliver 常用于提交成果。"
+    },
+    {
+      "base": "delay doing something",
+      "options": [
+        "procrastinate",
+        "put something off",
+        "postpone action"
+      ],
+      "note": "procrastinate 常因逃避而拖延。"
+    },
+    {
+      "base": "plan time",
+      "options": [
+        "schedule tasks",
+        "allocate time",
+        "organise the day"
+      ],
+      "note": "allocate 强调分配有限时间。"
+    },
+    {
+      "base": "work well",
+      "options": [
+        "be productive",
+        "work efficiently",
+        "make steady progress"
+      ],
+      "note": "productive 强调产出；efficient 强调少浪费资源。"
+    },
+    {
+      "base": "too much work",
+      "options": [
+        "heavy workload",
+        "overloaded schedule",
+        "competing demands"
+      ],
+      "note": "competing demands 强调多件事争夺时间。"
+    },
+    {
+      "base": "cannot focus",
+      "options": [
+        "be distracted",
+        "lose concentration",
+        "have divided attention"
+      ],
+      "note": "divided attention 表示注意力被多个对象占用。"
+    },
+    {
+      "base": "guess duration",
+      "options": [
+        "estimate the time required",
+        "make a time estimate",
+        "judge how long it will take"
+      ],
+      "note": "estimate 常比 guess 更有依据。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "When several tasks seem urgent, I decide which one + criterion.",
+      "cn": "当多项任务看似紧急时，我根据某标准决定优先项。",
+      "example": "When several tasks seem urgent, I decide which one has the earliest real consequence."
+    },
+    {
+      "pattern": "I often underestimate how long it takes to + verb, especially when + clause.",
+      "cn": "我经常低估做……所需时间，尤其是在……时。",
+      "example": "I often underestimate how long it takes to edit a report, especially when the argument is unclear."
+    },
+    {
+      "pattern": "Setting aside + amount of time + allows me to + verb without + distraction.",
+      "cn": "留出一段时间让我能够不受某种干扰地……",
+      "example": "Setting aside forty minutes allows me to draft without checking messages."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "put something off",
+      "cn": "推迟某事",
+      "example": "I kept putting the difficult phone call off."
+    },
+    {
+      "text": "get something out of the way",
+      "cn": "先把某事处理掉",
+      "example": "I answer the urgent email first to get it out of the way."
+    },
+    {
+      "text": "run out of time",
+      "cn": "时间用完",
+      "example": "We ran out of time before discussing the final point."
+    },
+    {
+      "text": "be pressed for time",
+      "cn": "时间紧迫",
+      "example": "I take a taxi only when I’m pressed for time."
+    },
+    {
+      "text": "make time for",
+      "cn": "专门为……留时间",
+      "example": "I try to make time for exercise during busy weeks."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I have no enough time.",
+      "correct": "I do not have enough time.",
+      "why": "enough 放在名词 time 前，no 不能这样与 enough 连用。"
+    },
+    {
+      "wrong": "I must finish it until Friday.",
+      "correct": "I must finish it by Friday.",
+      "why": "截止时间使用 by；until 表示持续到某时。"
+    },
+    {
+      "wrong": "This task costs me two hours.",
+      "correct": "This task takes me two hours.",
+      "why": "表示花费时间使用 take。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Time-management problems are often workload problems.",
+      "topicSentence": "Planning techniques cannot compensate indefinitely for an unrealistic amount of work.",
+      "collocations": [
+        "carry a heavy workload",
+        "set realistic deadlines",
+        "reallocate responsibilities",
+        "work excessive hours"
+      ],
+      "argument": "Lists and calendars help people organise tasks, but they do not create additional hours. An employee with several full-time priorities will still miss deadlines or sacrifice rest. Managers should distinguish poor organisation from insufficient staffing and unclear expectations. Removing low-value tasks may improve performance more than another productivity workshop. Time management is partly an individual skill, but workload design is an organisational responsibility."
+    },
+    {
+      "viewpoint": "Single-tasking can be more efficient than constant multitasking.",
+      "topicSentence": "Frequent switching creates a hidden cost because attention must be rebuilt after every interruption.",
+      "collocations": [
+        "sustain focused attention",
+        "switch between tasks",
+        "make avoidable errors",
+        "protect uninterrupted time"
+      ],
+      "argument": "Answering a message while drafting a report feels productive because two activities are moving. In reality, the writer must repeatedly recall the argument and locate the previous point. This slows complex work and increases errors. Setting short periods for messages allows colleagues to receive responses without fragmenting the entire day. Multitasking remains useful for simple combinations, but demanding tasks deserve focused time."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you plan what you are going to do each day?",
+      "answer": "I make a short list in the morning, but I limit it to three important tasks. A list of twenty things looks organised and then becomes discouraging by lunchtime. I also leave some empty time because messages and small problems always appear. The plan gives me direction without pretending that the day will unfold perfectly."
+    },
+    {
+      "part": "Part 1",
+      "question": "What usually wastes your time?",
+      "answer": "Switching between small online tasks is probably the main problem. I’ll open a message, follow a link and then forget what I originally intended to do. None of the interruptions feels long, but together they consume a surprising amount of time. Turning off notifications for half an hour makes a noticeable difference when I need to write."
+    }
+  ],
+  "reading": {
+    "title": "The Planning Fallacy",
+    "paragraphs": [
+      "A student expects an essay to take three days and needs six. A construction project opens months late, while a simple home repair occupies an entire weekend. These errors are not always caused by laziness or bad luck. People regularly underestimate task duration even when they know that similar work took longer in the past. Psychologists refer to this tendency as the planning fallacy.",
+      "One explanation is that planners imagine the steps in an ideal future. They picture themselves beginning promptly, finding every resource and completing each stage without interruption. The view from outside is less optimistic: comparable tasks reveal delays, revisions and competing demands. Yet people often treat the current project as special and explain previous overruns as unusual accidents.",
+      "Breaking a task into parts can improve an estimate because hidden stages become visible. ‘Write the report’ may actually include finding data, checking figures, drafting, receiving comments and correcting the final layout. However, adding the most likely duration of each stage is still risky if several steps depend on other people. Waiting time and coordination need to be included as work-related time even when nobody is actively producing the report.",
+      "Better planning therefore combines two perspectives. The detailed plan identifies what must happen, while records from similar completed tasks provide a realistic starting point. Extra time should not be added randomly; it should reflect known sources of uncertainty. Accurate estimation may feel less motivating than an ambitious deadline, but repeated failure is more damaging. A credible schedule protects trust and allows genuine priorities to be distinguished from imagined urgency.",
+      "Teams can improve estimates by keeping a record of predicted and actual completion times. The purpose is not to punish inaccurate forecasts; fear would encourage staff to hide uncertainty. Instead, repeated gaps reveal stages that are routinely forgotten. Over several projects, this evidence creates a local reference class more relevant than a general rule about how long work ought to take."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "People always estimate accurately when they have completed a similar task before.",
+        "answer": "False",
+        "explanation": "Paragraph 1 says underestimation continues despite past experience."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What is wrong with the “inside” view of a future task?",
+        "options": [
+          "It ignores the required final goal.",
+          "It imagines an unusually smooth process.",
+          "It uses too much historical evidence.",
+          "It always includes coordination time."
+        ],
+        "answer": "B",
+        "explanation": "Paragraph 2 describes an ideal process without interruptions."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Records from similar completed tasks provide a realistic ______.",
+        "answer": "starting point",
+        "explanation": "The phrase appears in the final paragraph."
+      }
+    ]
+  }
+}

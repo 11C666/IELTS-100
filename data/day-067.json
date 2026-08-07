@@ -1,0 +1,355 @@
+{
+  "id": 67,
+  "topic": "Cybersecurity",
+  "topicCN": "网络安全",
+  "category": "Technology",
+  "vocabulary": [
+    {
+      "word": "data breach",
+      "ipa": "/ˈdeɪtə briːtʃ/",
+      "meaning": "数据泄露",
+      "collocation": "report a data breach",
+      "collocationCN": "报告数据泄露"
+    },
+    {
+      "word": "phishing",
+      "ipa": "/ˈfɪʃɪŋ/",
+      "meaning": "网络钓鱼",
+      "collocation": "recognise a phishing attempt",
+      "collocationCN": "识别网络钓鱼"
+    },
+    {
+      "word": "malware",
+      "ipa": "/ˈmælweə/",
+      "meaning": "恶意软件",
+      "collocation": "detect malware",
+      "collocationCN": "检测恶意软件"
+    },
+    {
+      "word": "ransomware",
+      "ipa": "/ˈrænsəmweə/",
+      "meaning": "勒索软件",
+      "collocation": "recover from a ransomware attack",
+      "collocationCN": "从勒索软件攻击中恢复"
+    },
+    {
+      "word": "encryption",
+      "ipa": "/ɪnˈkrɪpʃn/",
+      "meaning": "加密",
+      "collocation": "use end-to-end encryption",
+      "collocationCN": "使用端到端加密"
+    },
+    {
+      "word": "authentication",
+      "ipa": "/ɔːˌθentɪˈkeɪʃn/",
+      "meaning": "身份验证",
+      "collocation": "enable two-factor authentication",
+      "collocationCN": "启用双重验证"
+    },
+    {
+      "word": "software patch",
+      "ipa": "/ˈsɒftweə pætʃ/",
+      "meaning": "软件补丁",
+      "collocation": "install a security patch",
+      "collocationCN": "安装安全补丁"
+    },
+    {
+      "word": "vulnerability",
+      "ipa": "/ˌvʌlnərəˈbɪləti/",
+      "meaning": "漏洞",
+      "collocation": "identify a vulnerability",
+      "collocationCN": "发现漏洞"
+    },
+    {
+      "word": "backup",
+      "ipa": "/ˈbækʌp/",
+      "meaning": "备份",
+      "collocation": "keep an offline backup",
+      "collocationCN": "保留离线备份"
+    },
+    {
+      "word": "incident response",
+      "ipa": "/ˈɪnsɪdənt rɪˌspɒns/",
+      "meaning": "事件响应",
+      "collocation": "test an incident-response plan",
+      "collocationCN": "测试事件响应预案"
+    },
+    {
+      "word": "weak password",
+      "ipa": "/wiːk ˈpɑːswɜːd/",
+      "meaning": "弱密码",
+      "collocation": "replace a weak password",
+      "collocationCN": "更换弱密码"
+    },
+    {
+      "word": "suspicious link",
+      "ipa": "/səˌspɪʃəs ˈlɪŋk/",
+      "meaning": "可疑链接",
+      "collocation": "avoid clicking a suspicious link",
+      "collocationCN": "避免点击可疑链接"
+    },
+    {
+      "word": "lock an account",
+      "ipa": "/lɒk ən əˈkaʊnt/",
+      "meaning": "锁定账户",
+      "collocation": "temporarily lock an account",
+      "collocationCN": "暂时锁定账户"
+    },
+    {
+      "word": "fall for a scam",
+      "ipa": "/fɔːl fər ə skæm/",
+      "meaning": "上当受骗",
+      "collocation": "nearly fall for a scam",
+      "collocationCN": "差点上当"
+    },
+    {
+      "word": "think before you click",
+      "ipa": "/θɪŋk bɪˌfɔː ju ˈklɪk/",
+      "meaning": "点击前先思考",
+      "collocation": "remind staff to think before they click",
+      "collocationCN": "提醒员工点击前思考"
+    },
+    {
+      "word": "security awareness",
+      "ipa": "/sɪˈkjʊərəti əˌweənəs/",
+      "meaning": "安全意识",
+      "collocation": "raise security awareness",
+      "collocationCN": "提高安全意识"
+    },
+    {
+      "word": "access control",
+      "ipa": "/ˈækses kənˌtrəʊl/",
+      "meaning": "访问控制",
+      "collocation": "strengthen access control",
+      "collocationCN": "加强访问控制"
+    },
+    {
+      "word": "human error",
+      "ipa": "/ˌhjuːmən ˈerə/",
+      "meaning": "人为错误",
+      "collocation": "reduce the risk of human error",
+      "collocationCN": "降低人为错误风险"
+    },
+    {
+      "word": "critical infrastructure",
+      "ipa": "/ˌkrɪtɪkl ˈɪnfrəstrʌktʃə/",
+      "meaning": "关键基础设施",
+      "collocation": "protect critical infrastructure",
+      "collocationCN": "保护关键基础设施"
+    },
+    {
+      "word": "disclose responsibly",
+      "ipa": "/dɪsˌkləʊz rɪˈspɒnsəbli/",
+      "meaning": "负责任地披露",
+      "collocation": "disclose a flaw responsibly",
+      "collocationCN": "负责任地披露缺陷"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "computer attack",
+      "options": [
+        "cyberattack",
+        "malicious intrusion",
+        "unauthorised system access"
+      ],
+      "note": "intrusion 强调闯入系统。"
+    },
+    {
+      "base": "keep data safe",
+      "options": [
+        "protect sensitive data",
+        "secure information",
+        "prevent unauthorised disclosure"
+      ],
+      "note": "disclosure 指信息泄露。"
+    },
+    {
+      "base": "find a weakness",
+      "options": [
+        "identify a vulnerability",
+        "detect a security flaw",
+        "uncover an exploitable gap"
+      ],
+      "note": "exploitable 表示可被利用。"
+    },
+    {
+      "base": "teach employees",
+      "options": [
+        "train staff",
+        "build security awareness",
+        "rehearse safe procedures"
+      ],
+      "note": "rehearse 强调反复演练。"
+    },
+    {
+      "base": "respond quickly",
+      "options": [
+        "act promptly",
+        "contain the incident rapidly",
+        "mount an immediate response"
+      ],
+      "note": "contain 强调控制影响范围。"
+    },
+    {
+      "base": "criminals online",
+      "options": [
+        "cybercriminals",
+        "malicious actors",
+        "online fraudsters"
+      ],
+      "note": "fraudsters 特指诈骗者。"
+    },
+    {
+      "base": "reduce damage",
+      "options": [
+        "limit disruption",
+        "mitigate harm",
+        "restrict further exposure"
+      ],
+      "note": "mitigate 是正式写作用词。"
+    },
+    {
+      "base": "safe system",
+      "options": [
+        "resilient network",
+        "well-protected system",
+        "secure digital environment"
+      ],
+      "note": "resilient 强调受攻击后的恢复力。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "No matter how sophisticated + a technical defence + may be, it can be undermined if + a user makes a predictable mistake.",
+      "cn": "无论技术防御多先进，如果发生某种人为行为，它仍可能失效。",
+      "example": "No matter how sophisticated an email filter may be, it can be undermined if an employee sends credentials to an impostor."
+    },
+    {
+      "pattern": "Had + an organisation + installed + a security update + promptly, + the breach + might have been contained.",
+      "cn": "如果某机构及时安装更新，某次泄露本可得到控制。",
+      "example": "Had the hospital installed the security update promptly, the breach might have been contained."
+    },
+    {
+      "pattern": "Rather than assuming that + every cyberattack + can be prevented, an organisation should ensure that + essential services can recover quickly.",
+      "cn": "与其假定事件能被完全阻止，机构更应确保能够恢复。",
+      "example": "Rather than assuming that every intrusion can be prevented entirely, a company should ensure that essential records can be restored safely."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "spot a suspicious message",
+      "cn": "识别可疑信息",
+      "example": "I usually spot a suspicious message by checking the sender carefully."
+    },
+    {
+      "text": "be caught off guard",
+      "cn": "措手不及",
+      "example": "A convincing urgent request can catch busy employees off guard."
+    },
+    {
+      "text": "change my password straight away",
+      "cn": "立即更改密码",
+      "example": "I changed my password straight away when the service reported a breach."
+    },
+    {
+      "text": "strengthen cyber resilience",
+      "cn": "增强网络韧性",
+      "example": "Regular recovery exercises strengthen cyber resilience."
+    },
+    {
+      "text": "limit unauthorised access",
+      "cn": "限制未经授权的访问",
+      "example": "Separate permissions can limit unauthorised access to sensitive files."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "My account was hacked by a virus.",
+      "correct": "Malware compromised my account.",
+      "why": "virus 只是 malware 的一种；compromise 更准确描述账户受侵害。"
+    },
+    {
+      "wrong": "I received a phishing.",
+      "correct": "I received a phishing email.",
+      "why": "phishing 通常作不可数名词或修饰 email/message。"
+    },
+    {
+      "wrong": "The company should prevent hackers to access data.",
+      "correct": "The company should prevent hackers from accessing data.",
+      "why": "prevent somebody from doing 是固定结构。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Organisations should design security around predictable human behaviour.",
+      "topicSentence": "Cybersecurity improves when safe action is made easier than risky action during ordinary work.",
+      "collocations": [
+        "reduce avoidable errors",
+        "design usable safeguards",
+        "verify unusual requests",
+        "report incidents promptly"
+      ],
+      "argument": "Employees working under time pressure will occasionally overlook a warning, so a system that depends on perfect attention is fragile. Password managers, clear verification channels and restricted permissions reduce the consequences of an individual mistake. A finance worker who can confirm an unusual payment through a familiar second channel is less likely to obey a fraudulent email. Training remains useful, but it should explain realistic situations and allow staff to report errors without fear. The strongest defence combines human judgement with controls that expect judgement sometimes to fail."
+    },
+    {
+      "viewpoint": "Mandatory breach reporting can improve security when rules encourage useful disclosure.",
+      "topicSentence": "Requiring organisations to report serious breaches creates accountability and allows affected users to protect themselves.",
+      "collocations": [
+        "notify affected users",
+        "disclose material incidents",
+        "share threat intelligence",
+        "avoid punitive silence"
+      ],
+      "argument": "A concealed breach leaves customers unaware that passwords or financial details should be changed. Timely notification reduces this secondary harm and gives regulators evidence about recurring weaknesses across an industry. However, vague rules or automatic punishment for every minor event may encourage defensive reporting or secrecy. Thresholds should focus on material risk, while firms that cooperate and remedy faults receive appropriate consideration. Reporting then becomes a source of collective learning rather than a public-relations contest over which organisation appears never to be attacked."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a time when you received a suspicious online message.",
+      "answer": "I received a text claiming that a parcel could not be delivered until I paid a very small fee. It looked convincing because I was actually expecting an order, and the message used the name of a familiar delivery company. I nearly opened the link, but the unusual web address made me pause. Instead, I checked the order through the retailer's official app and found that it was still in transit. I deleted the message and reported it as spam. What surprised me was how the scam relied on timing and impatience rather than technical knowledge. Since then, I avoid using links in unexpected messages and open the relevant service independently. That small habit makes me feel much more in control."
+    },
+    {
+      "part": "Part 3",
+      "question": "Is cybersecurity mainly the responsibility of individuals or organisations?",
+      "answer": "Responsibility is shared, but organisations carry the larger burden because they design the systems and hold data at scale. Individuals should use strong authentication, update devices and question suspicious requests. Yet users cannot inspect a company's internal access controls or decide how securely records are stored. Organisations need to minimise data collection, repair known vulnerabilities and provide clear support after an incident. Governments also set reporting and safety standards. It is unfair to blame a customer for one mistake when poor system design allows that mistake to expose millions of records."
+    }
+  ],
+  "reading": {
+    "title": "Why Cybersecurity Exercises Sometimes Include a Paper Notebook",
+    "paragraphs": [
+      "A cybersecurity exercise may begin with an unexpected instruction: participants are asked to close their laptops. The aim is not nostalgia. If an attack disables email, shared drives or identity systems, a response plan stored only on the affected network becomes inaccessible at precisely the moment it is needed. Printed contacts and offline procedures provide a modest but important form of resilience.",
+      "Exercises range from discussion-based scenarios to technical simulations. In a tabletop exercise, managers receive fragments of information and decide whether to isolate systems, notify regulators or interrupt services. No malware is released, which allows legal, operational and communication teams to practise together at relatively low cost. A technical exercise tests actual detection and recovery tools, but it requires tighter safeguards because mistakes can disturb live operations.",
+      "The most revealing failures are often organisational. A security team may detect unusual activity yet have no authority to disconnect a critical server. Executives may delay public communication while waiting for certainty that an unfolding incident cannot provide. Contact lists, painstakingly prepared months earlier, may contain people who have changed roles. Such discoveries are useful only if the organisation records them as design weaknesses rather than treating participants' hesitation as personal failure.",
+      "Realism has limits. If every employee knows the exact hour of the exercise, response times look impressive but teach little about initial detection. If almost nobody is informed, however, emergency actions may alarm customers or external authorities. Exercise planners therefore define boundaries and a small control group, whose members can stop the scenario if it threatens safety or essential services, while preserving enough uncertainty to test judgement.",
+      "A successful exercise does not prove that an organisation is secure. It provides evidence about one scenario under chosen conditions and generates a list of changes to be assigned, funded and tested again. The paper notebook symbolises the broader lesson: sophisticated defence depends on mundane preparation. Recovery is strongest when people know who can decide, how they will communicate and which services must return first—even when the normal digital tools have disappeared."
+    ],
+    "questions": [
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains why uncertainty must be balanced against operational safety?",
+        "answer": "D",
+        "explanation": "Paragraph D contrasts advance notice with uncontrolled surprise and describes a control group."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What does the writer identify as a major value of exercises?",
+        "answer": "B",
+        "explanation": "They expose weaknesses that can be assigned and corrected.",
+        "options": [
+          "They guarantee that later attacks will fail.",
+          "They expose weaknesses that can be assigned and corrected.",
+          "They remove the need for technical safeguards.",
+          "They prove employees never make errors."
+        ]
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What three practical matters should people know if normal digital tools fail?",
+        "answer": "who can decide, how to communicate, and which services must return first",
+        "explanation": "The final sentence lists these three matters."
+      }
+    ]
+  }
+}

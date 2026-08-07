@@ -1,0 +1,349 @@
+{
+  "id": 23,
+  "topic": "Online Learning",
+  "topicCN": "在线学习",
+  "category": "Education",
+  "vocabulary": [
+    {
+      "word": "virtual classroom",
+      "ipa": "/ˌvɜːtʃuəl ˈklɑːsruːm/",
+      "meaning": "虚拟课堂",
+      "collocation": "join a virtual classroom",
+      "collocationCN": "进入虚拟课堂"
+    },
+    {
+      "word": "webinar",
+      "ipa": "/ˈwebɪnɑː/",
+      "meaning": "网络研讨会",
+      "collocation": "attend a live webinar",
+      "collocationCN": "参加在线直播研讨会"
+    },
+    {
+      "word": "learning platform",
+      "ipa": "/ˈlɜːnɪŋ ˌplætfɔːm/",
+      "meaning": "学习平台",
+      "collocation": "log in to a learning platform",
+      "collocationCN": "登录学习平台"
+    },
+    {
+      "word": "self-paced",
+      "ipa": "/ˌself ˈpeɪst/",
+      "meaning": "可按个人进度进行的",
+      "collocation": "take a self-paced course",
+      "collocationCN": "学习一门自主进度课程"
+    },
+    {
+      "word": "asynchronous",
+      "ipa": "/eɪˈsɪŋkrənəs/",
+      "meaning": "非同步的",
+      "collocation": "use asynchronous discussion boards",
+      "collocationCN": "使用异步讨论区"
+    },
+    {
+      "word": "live session",
+      "ipa": "/ˈlaɪv ˌseʃən/",
+      "meaning": "直播课",
+      "collocation": "take part in a live session",
+      "collocationCN": "参加直播课"
+    },
+    {
+      "word": "screen sharing",
+      "ipa": "/ˈskriːn ˌʃeərɪŋ/",
+      "meaning": "屏幕共享",
+      "collocation": "enable screen sharing",
+      "collocationCN": "开启屏幕共享"
+    },
+    {
+      "word": "breakout room",
+      "ipa": "/ˈbreɪkaʊt ruːm/",
+      "meaning": "线上分组讨论室",
+      "collocation": "work in a breakout room",
+      "collocationCN": "在线上分组讨论室协作"
+    },
+    {
+      "word": "discussion board",
+      "ipa": "/dɪˈskʌʃən bɔːd/",
+      "meaning": "讨论区",
+      "collocation": "post on a discussion board",
+      "collocationCN": "在讨论区发帖"
+    },
+    {
+      "word": "downloadable",
+      "ipa": "/ˌdaʊnˈləʊdəbəl/",
+      "meaning": "可下载的",
+      "collocation": "provide downloadable materials",
+      "collocationCN": "提供可下载的材料"
+    },
+    {
+      "word": "internet connection",
+      "ipa": "/ˈɪntənet kəˌnekʃən/",
+      "meaning": "网络连接",
+      "collocation": "lose the internet connection",
+      "collocationCN": "网络连接中断"
+    },
+    {
+      "word": "technical glitch",
+      "ipa": "/ˈteknɪkəl ɡlɪtʃ/",
+      "meaning": "技术小故障",
+      "collocation": "deal with a technical glitch",
+      "collocationCN": "处理技术小故障"
+    },
+    {
+      "word": "digital distraction",
+      "ipa": "/ˌdɪdʒɪtəl dɪˈstrækʃən/",
+      "meaning": "数字干扰",
+      "collocation": "minimise digital distractions",
+      "collocationCN": "尽量减少数字干扰"
+    },
+    {
+      "word": "learning analytics",
+      "ipa": "/ˈlɜːnɪŋ ˌænəˈlɪtɪks/",
+      "meaning": "学习数据分析",
+      "collocation": "use learning analytics responsibly",
+      "collocationCN": "负责任地使用学习数据分析"
+    },
+    {
+      "word": "online assessment",
+      "ipa": "/ˌɒnlaɪn əˈsesmənt/",
+      "meaning": "线上评估",
+      "collocation": "complete an online assessment",
+      "collocationCN": "完成线上评估"
+    },
+    {
+      "word": "automated feedback",
+      "ipa": "/ˈɔːtəmeɪtɪd ˈfiːdbæk/",
+      "meaning": "自动反馈",
+      "collocation": "receive automated feedback",
+      "collocationCN": "收到自动反馈"
+    },
+    {
+      "word": "digital divide",
+      "ipa": "/ˌdɪdʒɪtəl dɪˈvaɪd/",
+      "meaning": "数字鸿沟",
+      "collocation": "bridge the digital divide",
+      "collocationCN": "弥合数字鸿沟"
+    },
+    {
+      "word": "engagement",
+      "ipa": "/ɪnˈɡeɪdʒmənt/",
+      "meaning": "参与度",
+      "collocation": "sustain learner engagement",
+      "collocationCN": "保持学习者参与度"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/ˌfɔːl bɪˈhaɪnd/",
+      "meaning": "落后；掉队",
+      "collocation": "fall behind with online coursework",
+      "collocationCN": "在线上课程进度中落后"
+    },
+    {
+      "word": "study routine",
+      "ipa": "/ˈstʌdi ruːˌtiːn/",
+      "meaning": "学习规律",
+      "collocation": "establish a regular study routine",
+      "collocationCN": "建立规律的学习习惯"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "study online",
+      "options": [
+        "learn remotely",
+        "take a virtual course",
+        "participate in distance learning"
+      ],
+      "note": "remote 强调地点分离，virtual 强调线上环境。"
+    },
+    {
+      "base": "study when convenient",
+      "options": [
+        "learn at a flexible time",
+        "access lessons on demand",
+        "study around other commitments"
+      ],
+      "note": "on demand 表示需要时即可访问。"
+    },
+    {
+      "base": "watch a recorded lesson",
+      "options": [
+        "view an archived lecture",
+        "replay an instructional video",
+        "access an asynchronous session"
+      ],
+      "note": "asynchronous 指无需同时在线。"
+    },
+    {
+      "base": "take part online",
+      "options": [
+        "engage in virtual activities",
+        "participate remotely",
+        "contribute to an online discussion"
+      ],
+      "note": "engage 强调主动投入。"
+    },
+    {
+      "base": "stop studying a course",
+      "options": [
+        "disengage from the course",
+        "withdraw from the programme",
+        "drop out"
+      ],
+      "note": "drop out 较口语且通常指未完成离开。"
+    },
+    {
+      "base": "internet problems",
+      "options": [
+        "connectivity difficulties",
+        "an unreliable connection",
+        "limited digital access"
+      ],
+      "note": "connectivity 是正式学术用语。"
+    },
+    {
+      "base": "teacher comments",
+      "options": [
+        "tutor feedback",
+        "instructor guidance",
+        "academic response"
+      ],
+      "note": "feedback 应包含可执行的改进信息。"
+    },
+    {
+      "base": "online study data",
+      "options": [
+        "learning analytics",
+        "digital activity records",
+        "platform engagement data"
+      ],
+      "note": "learning analytics 指分析学习行为数据。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Online learning is most effective when + learners + have access to + resource/support.",
+      "cn": "当学习者能够获得某种资源或支持时，在线学习最有效。",
+      "example": "Online learning is most effective when learners have access to timely feedback."
+    },
+    {
+      "pattern": "Although + digital tool + removes + barrier, it does not by itself + outcome.",
+      "cn": "虽然数字工具消除了某种障碍，但它本身并不能……。",
+      "example": "Although recorded lectures remove scheduling barriers, they do not by themselves sustain attention."
+    },
+    {
+      "pattern": "For + online activity + to work, + participant + must + action.",
+      "cn": "要让某项在线活动发挥作用，参与者必须……。",
+      "example": "For an online discussion to work, participants must respond to one another rather than post isolated comments."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "learn at my own pace",
+      "cn": "按自己的节奏学习",
+      "example": "Recorded material lets me learn at my own pace."
+    },
+    {
+      "text": "log in to a live session",
+      "cn": "登录直播课程",
+      "example": "I log in to a live session every Thursday evening."
+    },
+    {
+      "text": "lose track of time",
+      "cn": "忘记时间",
+      "example": "Without a timetable, I can easily lose track of time."
+    },
+    {
+      "text": "get distracted by notifications",
+      "cn": "被通知分散注意力",
+      "example": "I turn off my phone because I get distracted by notifications."
+    },
+    {
+      "text": "provide timely feedback",
+      "cn": "提供及时反馈",
+      "example": "Short online quizzes can provide timely feedback to learners."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I learned many knowledges online.",
+      "correct": "I gained a great deal of knowledge online.",
+      "why": "knowledge 是不可数名词。"
+    },
+    {
+      "wrong": "The platform allows students studying anywhere.",
+      "correct": "The platform allows students to study anywhere.",
+      "why": "allow somebody 后接 to do。"
+    },
+    {
+      "wrong": "I attended an online course about last month.",
+      "correct": "I took an online course last month.",
+      "why": "last month 前不加 about；参加课程更常用 take a course。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Flexibility benefits learners only when structure remains visible.",
+      "topicSentence": "Online courses should combine scheduling freedom with clear intermediate deadlines.",
+      "collocations": [
+        "study at one’s own pace",
+        "meet interim deadlines",
+        "maintain learning momentum",
+        "manage study time"
+      ],
+      "argument": "Flexible access helps workers and carers fit education around obligations that cannot be moved. Nevertheless, a single final deadline encourages some learners to postpone difficult tasks until recovery is impossible. Weekly goals and brief progress checks divide a large course into manageable stages. They also alert tutors when a student has quietly disengaged. Well-designed flexibility therefore removes unnecessary scheduling barriers without removing all structure."
+    },
+    {
+      "viewpoint": "Digital access is not equivalent to educational access.",
+      "topicSentence": "Institutions must address equipment, connectivity and study conditions when expanding online provision.",
+      "collocations": [
+        "bridge the digital divide",
+        "access a reliable connection",
+        "provide loan equipment",
+        "create an effective study environment"
+      ],
+      "argument": "A course may be technically open to everyone while remaining unusable for people with weak internet or a shared device. Video-heavy teaching can consume costly data, and crowded homes may offer no quiet place for live participation. Downloadable audio, transcripts and equipment loans reduce these obstacles. Local study centres can provide connectivity for learners who need it. Online expansion becomes equitable only when access is defined by actual participation rather than registration."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you find it easy to concentrate during online lessons?",
+      "answer": "Only if the lesson asks me to do something regularly. During a long presentation, I start checking messages without even noticing. Short questions, shared documents or a clear note-taking task keep me involved. I also concentrate better at a desk than on a sofa, because the location signals that I am there to study."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe an online course or lesson that was useful to you.",
+      "answer": "I once took a short online course on spreadsheet skills. Each lesson demonstrated one practical task, and then I downloaded a small file to repeat it myself. The best feature was the immediate explanation after an incorrect answer, so I did not practise the same mistake. I completed it after work over about three weeks. It was useful because I could apply the formulas to a real budget the following day. The tutor also kept each video under ten minutes, which made it easy to return to one precise technique. Other learners posted alternative solutions, and comparing them showed that the same result could be reached in several ways. Unlike a long recorded lecture, the course made progress visible after every session, so I rarely postponed the next lesson."
+    }
+  ],
+  "reading": {
+    "title": "The Problem of Invisible Learners",
+    "paragraphs": [
+      "In a physical classroom, absence is visible. An empty chair prompts a teacher to ask what happened, while a confused expression may lead to an immediate explanation. Online, a learner can remain officially enrolled while gradually disappearing. Videos go unwatched, discussion posts become shorter and assignments arrive late. By the time a final assessment confirms the problem, several weeks of recovery may be required.",
+      "Digital platforms record large amounts of behaviour, including log-in times, pages opened and quiz attempts. Some institutions use these traces to identify students who may need support. A sudden decline in activity can trigger a message from a tutor, and repeated errors can direct a learner towards revision. Compared with waiting for an examination, this approach offers an earlier opportunity to intervene.",
+      "However, activity data are imperfect evidence of learning. A student may download material once and study it offline, while another leaves a video running without paying attention. Frequent logging in can indicate confusion rather than commitment. There are also questions about privacy: learners may not know which actions are monitored or how a risk score affects the help they receive. Automated warnings can feel accusatory if no human being first checks the circumstances.",
+      "Effective support therefore combines data with conversation. A tutor can ask whether low activity reflects illness, technical difficulty, poor time management or a deliberate study method. The response should match the cause: an equipment loan will not solve unclear instruction, and a motivational message will not repair an unreliable connection. Researchers examining student retention have repeatedly noted the importance of a sense of academic belonging. Analytics may reveal who has become less visible, but sustained contact helps that person return.",
+      "The timing of contact matters as well. A generic warning sent after several missed deadlines feels administrative, whereas a brief personal message after the first unexplained change can signal that participation has been noticed. Support need not be intrusive. It should explain why contact was made, offer a simple route to reply and allow the learner to describe circumstances in their own terms."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "A final assessment is usually the first sign that an online learner is struggling.",
+        "answer": "False",
+        "explanation": "Paragraph 1 lists earlier signs such as unwatched videos and late assignments."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph discusses privacy concerns about learning data?",
+        "answer": "C",
+        "explanation": "Paragraph C asks what is monitored and how risk scores are used."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What should effective online support combine with data?",
+        "answer": "conversation",
+        "explanation": "The final paragraph states that effective support combines data with conversation."
+      }
+    ]
+  }
+}

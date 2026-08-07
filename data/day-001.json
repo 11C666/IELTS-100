@@ -1,0 +1,354 @@
+{
+  "id": 1,
+  "topic": "Education",
+  "topicCN": "教育",
+  "category": "Education",
+  "vocabulary": [
+    {
+      "word": "curriculum",
+      "ipa": "/kəˈrɪkjələm/",
+      "meaning": "课程；课程设置",
+      "collocation": "revise the curriculum",
+      "collocationCN": "修订课程设置"
+    },
+    {
+      "word": "literacy",
+      "ipa": "/ˈlɪtərəsi/",
+      "meaning": "读写能力；素养",
+      "collocation": "improve digital literacy",
+      "collocationCN": "提高数字素养"
+    },
+    {
+      "word": "tuition",
+      "ipa": "/tjuˈɪʃn/",
+      "meaning": "教学；学费",
+      "collocation": "pay tuition fees",
+      "collocationCN": "支付学费"
+    },
+    {
+      "word": "assessment",
+      "ipa": "/əˈsesmənt/",
+      "meaning": "评估；考核",
+      "collocation": "continuous assessment",
+      "collocationCN": "持续性评估"
+    },
+    {
+      "word": "qualification",
+      "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+      "meaning": "资格；学历",
+      "collocation": "gain a qualification",
+      "collocationCN": "获得资格证书"
+    },
+    {
+      "word": "compulsory",
+      "ipa": "/kəmˈpʌlsəri/",
+      "meaning": "强制的；必修的",
+      "collocation": "compulsory education",
+      "collocationCN": "义务教育"
+    },
+    {
+      "word": "academic",
+      "ipa": "/ˌækəˈdemɪk/",
+      "meaning": "学术的；学业的",
+      "collocation": "academic performance",
+      "collocationCN": "学业表现"
+    },
+    {
+      "word": "vocational",
+      "ipa": "/vəʊˈkeɪʃənl/",
+      "meaning": "职业的",
+      "collocation": "vocational training",
+      "collocationCN": "职业培训"
+    },
+    {
+      "word": "discipline",
+      "ipa": "/ˈdɪsəplɪn/",
+      "meaning": "学科；纪律",
+      "collocation": "academic discipline",
+      "collocationCN": "学科领域"
+    },
+    {
+      "word": "motivation",
+      "ipa": "/ˌməʊtɪˈveɪʃn/",
+      "meaning": "动力；积极性",
+      "collocation": "maintain motivation",
+      "collocationCN": "保持学习动力"
+    },
+    {
+      "word": "critical thinking",
+      "ipa": "/ˌkrɪtɪkl ˈθɪŋkɪŋ/",
+      "meaning": "批判性思维",
+      "collocation": "develop critical thinking",
+      "collocationCN": "培养批判性思维"
+    },
+    {
+      "word": "practical skills",
+      "ipa": "/ˈpræktɪkl skɪlz/",
+      "meaning": "实践技能",
+      "collocation": "acquire practical skills",
+      "collocationCN": "获得实践技能"
+    },
+    {
+      "word": "feedback",
+      "ipa": "/ˈfiːdbæk/",
+      "meaning": "反馈",
+      "collocation": "give constructive feedback",
+      "collocationCN": "给出建设性反馈"
+    },
+    {
+      "word": "scholarship",
+      "ipa": "/ˈskɒləʃɪp/",
+      "meaning": "奖学金",
+      "collocation": "win a scholarship",
+      "collocationCN": "获得奖学金"
+    },
+    {
+      "word": "graduate",
+      "ipa": "/ˈɡrædʒueɪt/",
+      "meaning": "毕业",
+      "collocation": "graduate from university",
+      "collocationCN": "大学毕业"
+    },
+    {
+      "word": "enrol",
+      "ipa": "/ɪnˈrəʊl/",
+      "meaning": "注册入学",
+      "collocation": "enrol on a course",
+      "collocationCN": "报名课程"
+    },
+    {
+      "word": "well-rounded",
+      "ipa": "/ˌwel ˈraʊndɪd/",
+      "meaning": "全面发展的",
+      "collocation": "a well-rounded education",
+      "collocationCN": "全面的教育"
+    },
+    {
+      "word": "learning outcome",
+      "ipa": "/ˈlɜːnɪŋ ˌaʊtkʌm/",
+      "meaning": "学习成果",
+      "collocation": "measure learning outcomes",
+      "collocationCN": "衡量学习成果"
+    },
+    {
+      "word": "access",
+      "ipa": "/ˈækses/",
+      "meaning": "使用或获得的机会",
+      "collocation": "have access to education",
+      "collocationCN": "有受教育的机会"
+    },
+    {
+      "word": "social mobility",
+      "ipa": "/ˌsəʊʃl məʊˈbɪləti/",
+      "meaning": "社会流动性",
+      "collocation": "promote social mobility",
+      "collocationCN": "促进社会流动"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调“决定性”，essential 强调“必不可少”。"
+    },
+    {
+      "base": "learn",
+      "options": [
+        "study",
+        "acquire knowledge",
+        "develop a skill"
+      ],
+      "note": "根据学习对象选择，不能机械互换。"
+    },
+    {
+      "base": "students",
+      "options": [
+        "learners",
+        "pupils",
+        "undergraduates"
+      ],
+      "note": "pupils 多指中小学生；undergraduates 指本科生。"
+    },
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise"
+      ],
+      "note": "raise 常与 standards / awareness 搭配。"
+    },
+    {
+      "base": "school subjects",
+      "options": [
+        "academic subjects",
+        "areas of study",
+        "disciplines"
+      ],
+      "note": "discipline 更正式，常指学科领域。"
+    },
+    {
+      "base": "job opportunities",
+      "options": [
+        "employment prospects",
+        "career opportunities",
+        "job prospects"
+      ],
+      "note": "均可用于讨论教育的就业回报。"
+    },
+    {
+      "base": "equal education",
+      "options": [
+        "equal access to education",
+        "educational equality",
+        "equitable provision"
+      ],
+      "note": "equitable 强调依据需要实现公平。"
+    },
+    {
+      "base": "good at studying",
+      "options": [
+        "perform well academically",
+        "achieve strong results",
+        "make good academic progress"
+      ],
+      "note": "正式写作中避免 be good at study。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "One of the main reasons why + subject + verb is that + complete clause.",
+      "cn": "……最主要的原因之一是……",
+      "example": "One of the main reasons why early education matters is that it shapes children’s attitudes towards learning."
+    },
+    {
+      "pattern": "Subject + can play a crucial role in + noun or gerund.",
+      "cn": "某人或某事能在……中发挥关键作用。",
+      "example": "Teachers can play a crucial role in building students’ confidence."
+    },
+    {
+      "pattern": "While + complete clause, it is equally important to + verb.",
+      "cn": "虽然……，但做……同样重要。",
+      "example": "While academic knowledge is valuable, it is equally important to develop practical skills."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "I’ve always been keen on + noun or gerund.",
+      "cn": "我一直很喜欢……",
+      "example": "I’ve always been keen on subjects that involve problem-solving."
+    },
+    {
+      "text": "It took me a while to + verb.",
+      "cn": "我花了一段时间才……",
+      "example": "It took me a while to get used to studying independently."
+    },
+    {
+      "text": "What I find most useful is + noun phrase.",
+      "cn": "我觉得最有用的是……",
+      "example": "What I find most useful is the detailed feedback from my tutor."
+    },
+    {
+      "text": "play a vital role in + noun or gerund",
+      "cn": "在……中发挥至关重要的作用",
+      "example": "Parental support can play a vital role in a child’s early education."
+    },
+    {
+      "text": "have a positive impact on + noun",
+      "cn": "对……产生积极影响",
+      "example": "Constructive feedback can have a positive impact on academic performance."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "learn knowledge",
+      "correct": "gain / acquire knowledge",
+      "why": "knowledge 通常与 gain 或 acquire 搭配，不能说 learn knowledge。"
+    },
+    {
+      "wrong": "discuss about the problem",
+      "correct": "discuss the problem",
+      "why": "discuss 本身已经表示“讨论”，后面不能再加 about。"
+    },
+    {
+      "wrong": "Education can bring many benefits for students.",
+      "correct": "Education can bring many benefits to students.",
+      "why": "表示“给某人带来好处”时，使用 bring benefits to somebody。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Education can improve social mobility.",
+      "topicSentence": "Accessible education can enable people from disadvantaged backgrounds to improve their long-term prospects.",
+      "collocations": [
+        "play a crucial role in",
+        "have access to",
+        "improve career prospects",
+        "break the cycle of poverty"
+      ],
+      "argument": "High-quality education gives learners the knowledge and qualifications required for stable employment. This matters particularly to students from low-income families, who may have fewer professional contacts or financial resources. By improving their career prospects, education can increase their earnings and reduce the disadvantages passed from one generation to the next. For example, an affordable vocational course may lead directly to skilled work that was previously inaccessible. Education can therefore promote social mobility when access is genuinely equitable."
+    },
+    {
+      "viewpoint": "Schools should teach practical life skills.",
+      "topicSentence": "A balanced curriculum should prepare students for everyday responsibilities as well as examinations.",
+      "collocations": [
+        "manage personal finances",
+        "make informed decisions",
+        "enter the workforce",
+        "a well-rounded education"
+      ],
+      "argument": "Academic subjects provide essential knowledge, but they do not cover every responsibility that school-leavers will face. Many young adults struggle to budget, communicate professionally or evaluate financial information because these skills have never been taught explicitly. Short, practical lessons could allow students to apply such knowledge before they enter the workforce. For instance, learners might compare rental contracts or prepare a realistic monthly budget. A balanced curriculum would consequently prepare students for examinations and independent adult life."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What subject did you enjoy most at school?",
+      "answer": "I probably enjoyed history the most. I liked the way one event could be explained from several points of view, so the lessons felt more like solving a puzzle than memorising dates. I also had a teacher who told great stories, which made a huge difference."
+    },
+    {
+      "part": "Part 1",
+      "question": "Do you prefer studying alone or with other people?",
+      "answer": "Most of the time, I prefer studying alone because I can work at my own pace and focus on what I find difficult. That said, a small study group is useful before an exam. Explaining an idea to someone else quickly shows me whether I really understand it."
+    }
+  ],
+  "reading": {
+    "title": "Beyond the Examination Hall",
+    "paragraphs": [
+      "A. For much of the twentieth century, formal education was organised primarily around the transfer of information. Teachers presented established knowledge, students recorded it, and examinations measured how accurately it could be recalled. This model was efficient when books were scarce and access to reliable information was limited. Since the 1990s, however, digital technology has made facts available almost instantly, prompting educators to reconsider what schools should enable learners to do with knowledge rather than merely how much they can remember.",
+      "B. Research on classroom learning has consequently placed greater emphasis on critical thinking. In a review of studies from several education systems, researchers found that students understood complex ideas more securely when they had to compare evidence, explain a conclusion and apply a concept to an unfamiliar problem. This does not mean that factual knowledge has become unnecessary. By contrast, a learner cannot evaluate an argument about climate or economics without first understanding the relevant principles and terminology.",
+      "C. Project-based learning is one attempt to combine knowledge with its practical application. Students might investigate a local transport problem, analyse survey data and present a proposal, drawing on mathematics, geography and communication skills. Nevertheless, critics note that such work is difficult to assess consistently. A standardised examination produces results that can be compared across thousands of candidates, whereas a group project may conceal substantial differences in individual effort. Some schools have therefore introduced mixed assessment rather than abandoning examinations altogether.",
+      "D. The debate ultimately concerns preparation for an uncertain labour market. Technical knowledge may become outdated, while the ability to learn independently retains value across different occupations. Yet treating knowledge and transferable skills as competing goals creates a false choice. A well-rounded curriculum requires carefully selected content, repeated opportunities to apply it and assessment that measures both secure understanding and effective use. The central challenge is not to replace traditional learning, but to develop a more productive relationship between knowledge and action."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the correct heading for Paragraph C.",
+        "options": [
+          "The continuing value of factual knowledge",
+          "A practical approach and its assessment problem",
+          "The disappearance of formal examinations",
+          "Technology as a substitute for teachers"
+        ],
+        "answer": "B",
+        "explanation": "Paragraph C describes project-based learning and then explains why it is difficult to assess consistently."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The reviewed studies found that students learned complex ideas better when they explained and applied them.",
+        "answer": "True",
+        "explanation": "Paragraph B reports stronger understanding when students compared evidence, explained conclusions and applied concepts."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Group projects may hide differences in each student’s ______.",
+        "answer": "individual effort",
+        "explanation": "Paragraph C states that a group project may conceal differences in individual effort."
+      }
+    ]
+  }
+}

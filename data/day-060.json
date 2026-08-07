@@ -1,0 +1,355 @@
+{
+  "id": 60,
+  "topic": "Crime and Prevention",
+  "topicCN": "犯罪与预防",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "offence",
+      "ipa": "/əˈfens/",
+      "meaning": "违法行为；罪行",
+      "collocation": "commit a criminal offence",
+      "collocationCN": "实施犯罪行为"
+    },
+    {
+      "word": "offender",
+      "ipa": "/əˈfendə/",
+      "meaning": "违法者；罪犯",
+      "collocation": "rehabilitate a young offender",
+      "collocationCN": "帮助少年犯改过自新"
+    },
+    {
+      "word": "victim",
+      "ipa": "/ˈvɪktɪm/",
+      "meaning": "受害者",
+      "collocation": "support victims of crime",
+      "collocationCN": "支持犯罪受害者"
+    },
+    {
+      "word": "burglary",
+      "ipa": "/ˈbɜːɡləri/",
+      "meaning": "入室盗窃",
+      "collocation": "prevent residential burglary",
+      "collocationCN": "预防住宅入室盗窃"
+    },
+    {
+      "word": "shoplifting",
+      "ipa": "/ˈʃɒplɪftɪŋ/",
+      "meaning": "商店行窃",
+      "collocation": "deter shoplifting",
+      "collocationCN": "遏制商店行窃"
+    },
+    {
+      "word": "fraud",
+      "ipa": "/frɔːd/",
+      "meaning": "欺诈",
+      "collocation": "detect online fraud",
+      "collocationCN": "发现网络欺诈"
+    },
+    {
+      "word": "cybercrime",
+      "ipa": "/ˈsaɪbəkraɪm/",
+      "meaning": "网络犯罪",
+      "collocation": "combat cybercrime",
+      "collocationCN": "打击网络犯罪"
+    },
+    {
+      "word": "antisocial behaviour",
+      "ipa": "/ˌæntisəʊʃəl bɪˈheɪvjə/",
+      "meaning": "反社会行为",
+      "collocation": "report antisocial behaviour",
+      "collocationCN": "举报反社会行为"
+    },
+    {
+      "word": "crime rate",
+      "ipa": "/ˈkraɪm reɪt/",
+      "meaning": "犯罪率",
+      "collocation": "bring down the crime rate",
+      "collocationCN": "降低犯罪率"
+    },
+    {
+      "word": "police patrol",
+      "ipa": "/pəˈliːs pəˌtrəʊl/",
+      "meaning": "警察巡逻",
+      "collocation": "increase visible police patrols",
+      "collocationCN": "增加可见的警察巡逻"
+    },
+    {
+      "word": "surveillance camera",
+      "ipa": "/səˈveɪləns ˌkæmərə/",
+      "meaning": "监控摄像头",
+      "collocation": "install surveillance cameras",
+      "collocationCN": "安装监控摄像头"
+    },
+    {
+      "word": "street lighting",
+      "ipa": "/ˈstriːt ˌlaɪtɪŋ/",
+      "meaning": "街道照明",
+      "collocation": "improve street lighting",
+      "collocationCN": "改善街道照明"
+    },
+    {
+      "word": "crime hotspot",
+      "ipa": "/ˈkraɪm ˌhɒtspɒt/",
+      "meaning": "犯罪高发区",
+      "collocation": "target a crime hotspot",
+      "collocationCN": "重点治理犯罪高发区"
+    },
+    {
+      "word": "deterrent",
+      "ipa": "/dɪˈterənt/",
+      "meaning": "威慑因素",
+      "collocation": "act as an effective deterrent",
+      "collocationCN": "起到有效威慑作用"
+    },
+    {
+      "word": "prison sentence",
+      "ipa": "/ˈprɪzən ˌsentəns/",
+      "meaning": "监禁刑",
+      "collocation": "serve a prison sentence",
+      "collocationCN": "服监禁刑"
+    },
+    {
+      "word": "community service",
+      "ipa": "/kəˌmjuːnəti ˈsɜːvɪs/",
+      "meaning": "社区服务刑",
+      "collocation": "order community service",
+      "collocationCN": "判处社区服务"
+    },
+    {
+      "word": "probation",
+      "ipa": "/prəˈbeɪʃən/",
+      "meaning": "缓刑监督期",
+      "collocation": "place an offender on probation",
+      "collocationCN": "判处罪犯缓刑监督"
+    },
+    {
+      "word": "rehabilitation",
+      "ipa": "/ˌriːhəˌbɪlɪˈteɪʃən/",
+      "meaning": "改造；康复",
+      "collocation": "invest in offender rehabilitation",
+      "collocationCN": "投资罪犯改造"
+    },
+    {
+      "word": "reoffend",
+      "ipa": "/ˌriːəˈfend/",
+      "meaning": "再次犯罪",
+      "collocation": "reduce the risk of reoffending",
+      "collocationCN": "降低再犯风险"
+    },
+    {
+      "word": "root cause",
+      "ipa": "/ˌruːt ˈkɔːz/",
+      "meaning": "根本原因",
+      "collocation": "address the root causes of crime",
+      "collocationCN": "解决犯罪的根本原因"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论犯罪与预防。"
+    },
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论犯罪与预防。"
+    },
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise the quality of"
+      ],
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论犯罪与预防。"
+    },
+    {
+      "base": "reduce",
+      "options": [
+        "decrease",
+        "limit",
+        "bring down"
+      ],
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论犯罪与预防。"
+    },
+    {
+      "base": "people",
+      "options": [
+        "individuals",
+        "members of the public",
+        "residents"
+      ],
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论犯罪与预防。"
+    },
+    {
+      "base": "use",
+      "options": [
+        "make use of",
+        "adopt",
+        "rely on"
+      ],
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论犯罪与预防。"
+    },
+    {
+      "base": "choice",
+      "options": [
+        "option",
+        "alternative",
+        "decision"
+      ],
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论犯罪与预防。"
+    },
+    {
+      "base": "cause",
+      "options": [
+        "lead to",
+        "contribute to",
+        "give rise to"
+      ],
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论犯罪与预防。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Crime prevention is most effective when + intervention + reduces both + opportunity + and + underlying risk.",
+      "cn": "当干预同时减少犯罪机会和根本风险时，预防最有效。",
+      "example": "Crime prevention is most effective when street design reduces opportunity and youth services address underlying risk."
+    },
+    {
+      "pattern": "The perception that + place + is unsafe may persist even after + objective change.",
+      "cn": "即使客观情况改变，人们对某地不安全的看法仍可能持续。",
+      "example": "The perception that a park is unsafe may persist even after reported offences decline."
+    },
+    {
+      "pattern": "Punishment can deter + behaviour + only if + condition of certainty/timing.",
+      "cn": "只有满足确定性或及时性条件，惩罚才能威慑某行为。",
+      "example": "Punishment can deter offending only if people believe detection is reasonably likely."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "report a crime",
+      "cn": "报案",
+      "example": "Residents need a safe way to report a crime."
+    },
+    {
+      "text": "act as a deterrent",
+      "cn": "起威慑作用",
+      "example": "Visible staff can act as a deterrent in busy stations."
+    },
+    {
+      "text": "tackle the causes of crime",
+      "cn": "处理犯罪成因",
+      "example": "Youth support can help tackle the causes of crime."
+    },
+    {
+      "text": "feel safe after dark",
+      "cn": "天黑后感到安全",
+      "example": "Good routes and active buildings help people feel safe after dark."
+    },
+    {
+      "text": "reduce repeat offending",
+      "cn": "减少再犯",
+      "example": "Stable housing can reduce repeat offending after release."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The police caught a thief who stole my bag and sent him to the prison.",
+      "correct": "The police caught the person who stole my bag, and he was sent to prison.",
+      "why": "go/send to prison 表示服刑时通常不加 the。"
+    },
+    {
+      "wrong": "Crime has increased up rapidly.",
+      "correct": "Crime has increased rapidly.",
+      "why": "increase 已含上升，不加 up。"
+    },
+    {
+      "wrong": "The government should prevent people to commit crimes.",
+      "correct": "The government should prevent people from committing crimes.",
+      "why": "prevent somebody from doing。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Prevention should combine environmental design with social support.",
+      "topicSentence": "Reducing opportunities for crime is valuable, but durable safety also depends on addressing repeated risk factors.",
+      "collocations": [
+        "design out crime",
+        "improve natural surveillance",
+        "support at-risk young people",
+        "reduce repeat offending"
+      ],
+      "argument": "Lighting, secure entrances and active street fronts can make offending more difficult and increase the chance of observation. These measures may displace rather than resolve harm if motivated offenders simply move elsewhere. Education, addiction treatment and stable housing address factors linked to repeated offending. No single programme works for every crime type. A balanced strategy uses immediate situational protection while investing in conditions that reduce future motivation and vulnerability."
+    },
+    {
+      "viewpoint": "Public safety policy should distinguish crime rates from fear of crime.",
+      "topicSentence": "Reported offences and residents’ sense of safety are related but require different evidence and responses.",
+      "collocations": [
+        "analyse reported crime",
+        "measure perceived safety",
+        "avoid sensational reporting",
+        "rebuild public confidence"
+      ],
+      "argument": "A neighbourhood may become statistically safer while residents continue avoiding it because of poor lighting, visible disorder or memorable news coverage. Conversely, low fear does not prove that hidden domestic or financial crime is rare. Surveys, reports and local observation should therefore be compared. Communication must present trends honestly without dismissing personal experience. Effective policy reduces harm and enables people to use public space confidently, rather than treating either perception or recorded data as the whole picture."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What makes you feel safe in a public place?",
+      "answer": "I feel safer when routes are clear, other people are present and I can see where I am going. Lighting matters, but activity matters too; an empty bright area can still feel uncomfortable. Reliable transport and visible staff also help because they provide a practical way to leave or ask for assistance."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a change that made a place safer.",
+      "answer": "A pedestrian tunnel near a station was redesigned after residents avoided it at night. The entrances were widened, damaged lights were replaced and the solid walls were partly opened so that people on the street could see into the route. A small kiosk was also placed near one entrance, adding ordinary activity through the evening. The tunnel did not become attractive simply because it was brighter; it felt safer because isolation was reduced and there was a clear view ahead. Local authorities continued collecting reports rather than assuming the design solved every problem. I noticed more people using the route after the change. It was a good example of safety emerging from several modest decisions rather than one dramatic security measure."
+    }
+  ],
+  "reading": {
+    "title": "When Better Lighting Does Not Reduce Crime",
+    "paragraphs": [
+      "Improved street lighting is one of the most familiar crime-prevention measures. It can increase visibility, help pedestrians identify routes and signal that a place is maintained. Yet studies do not find identical effects everywhere. Light changes an environment, but the behaviour it influences depends on how that environment is used.",
+      "One theory is deterrence: potential offenders believe they are more likely to be recognised. Another is community activity. Better lighting encourages legitimate evening use, creating informal observation and stronger ownership. These mechanisms make different predictions. A brighter empty car park offers visibility without community presence, while a lit route beside open businesses provides both.",
+      "Measurement complicates evaluation. Police reports may rise because people can observe and report incidents more easily, even if actual offending falls. Crime may move to nearby streets, and seasonal changes can be mistaken for an intervention effect. Researchers compare suitable areas over sufficient time and examine several offence types rather than relying on a single before-and-after total.",
+      "Brightness can also create problems. Glare reduces the ability to see beyond a strongly lit area, poorly positioned fixtures invade homes and excessive light affects wildlife. Design should respond to pedestrian routes and actual risks instead of treating maximum illumination as universal safety. Maintenance matters because a failed lamp can leave sharper contrast than the original condition.",
+      "Lighting is therefore best understood as one component of place management. Its success may depend on sightlines, transport, building use and trust in reporting. A lamp cannot provide youth services or investigate violence hidden inside homes. It can support safer public movement when the mechanism is clear and results are monitored without claiming that every crime problem has the same visible solution. Community involvement can improve the diagnosis of place. Residents know where routes are avoided and when a nominally public area becomes controlled by one group. Their fear should inform investigation without automatically determining the solution. Combining local accounts with incident data and observation helps identify whether lighting, staffing, transport or a different intervention addresses the mechanism actually present."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Research shows identical effects from lighting in every location.",
+        "answer": "False",
+        "explanation": "Paragraph 1 says results differ."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why might police reports rise after lighting improves?",
+        "answer": "C",
+        "explanation": "People may observe and report more incidents.",
+        "options": [
+          "Wildlife enters the street.",
+          "Every offender moves away.",
+          "People may observe and report more incidents.",
+          "Businesses close earlier."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Lighting should be treated as one component of place ______.",
+        "answer": "management",
+        "explanation": "Paragraph 5 uses this phrase."
+      }
+    ]
+  }
+}

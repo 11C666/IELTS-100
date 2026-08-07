@@ -1,0 +1,355 @@
+{
+  "id": 40,
+  "topic": "Workplace Automation",
+  "topicCN": "职场自动化",
+  "category": "Technology",
+  "vocabulary": [
+    {
+      "word": "workplace automation",
+      "ipa": "/ˌwɜːkpleɪs ˌɔːtəˈmeɪʃən/",
+      "meaning": "职场自动化",
+      "collocation": "manage the transition to workplace automation",
+      "collocationCN": "管理向职场自动化的转型"
+    },
+    {
+      "word": "routine task",
+      "ipa": "/ruːˌtiːn ˈtɑːsk/",
+      "meaning": "常规任务",
+      "collocation": "automate repetitive routine tasks",
+      "collocationCN": "自动处理重复性常规任务"
+    },
+    {
+      "word": "human oversight",
+      "ipa": "/ˌhjuːmən ˈəʊvəsaɪt/",
+      "meaning": "人工监督",
+      "collocation": "retain meaningful human oversight",
+      "collocationCN": "保留实质性的人工监督"
+    },
+    {
+      "word": "algorithmic management",
+      "ipa": "/ˌælɡəˈrɪðmɪk ˈmænɪdʒmənt/",
+      "meaning": "算法管理",
+      "collocation": "regulate algorithmic management systems",
+      "collocationCN": "规范算法管理系统"
+    },
+    {
+      "word": "skills gap",
+      "ipa": "/ˈskɪlz ɡæp/",
+      "meaning": "技能缺口",
+      "collocation": "address an emerging skills gap",
+      "collocationCN": "应对新出现的技能缺口"
+    },
+    {
+      "word": "task augmentation",
+      "ipa": "/ˈtɑːsk ɔːɡmenˌteɪʃən/",
+      "meaning": "技术对工作任务的增强",
+      "collocation": "use AI for task augmentation",
+      "collocationCN": "使用人工智能增强工作任务"
+    },
+    {
+      "word": "human–machine collaboration",
+      "ipa": "/ˌhjuːmən məˈʃiːn kəˌlæbəˈreɪʃən/",
+      "meaning": "人机协作",
+      "collocation": "design effective human–machine collaboration",
+      "collocationCN": "设计有效的人机协作模式"
+    },
+    {
+      "word": "automated workflow",
+      "ipa": "/ˌɔːtəmeɪtɪd ˈwɜːkfləʊ/",
+      "meaning": "自动化工作流程",
+      "collocation": "implement an automated workflow",
+      "collocationCN": "实施自动化工作流程"
+    },
+    {
+      "word": "productivity gain",
+      "ipa": "/ˌprɒdʌkˈtɪvəti ɡeɪn/",
+      "meaning": "生产率提升",
+      "collocation": "share productivity gains with workers",
+      "collocationCN": "让员工共享生产率提升的成果"
+    },
+    {
+      "word": "technological unemployment",
+      "ipa": "/ˌteknəˈlɒdʒɪkəl ˌʌnɪmˈplɔɪmənt/",
+      "meaning": "技术性失业",
+      "collocation": "prepare for technological unemployment",
+      "collocationCN": "为技术性失业做好准备"
+    },
+    {
+      "word": "redeployment",
+      "ipa": "/ˌriːdɪˈplɔɪmənt/",
+      "meaning": "调岗；重新配置人员",
+      "collocation": "offer redeployment to affected staff",
+      "collocationCN": "为受影响员工提供调岗机会"
+    },
+    {
+      "word": "automation readiness",
+      "ipa": "/ˌɔːtəˈmeɪʃən ˈredinəs/",
+      "meaning": "自动化转型准备度",
+      "collocation": "assess the workforce’s automation readiness",
+      "collocationCN": "评估员工队伍的自动化转型准备度"
+    },
+    {
+      "word": "predictive maintenance",
+      "ipa": "/prɪˌdɪktɪv ˈmeɪntənəns/",
+      "meaning": "预测性维护",
+      "collocation": "use sensors for predictive maintenance",
+      "collocationCN": "使用传感器进行预测性维护"
+    },
+    {
+      "word": "quality control",
+      "ipa": "/ˈkwɒləti kənˌtrəʊl/",
+      "meaning": "质量控制",
+      "collocation": "automate parts of quality control",
+      "collocationCN": "将部分质量控制流程自动化"
+    },
+    {
+      "word": "decision-support system",
+      "ipa": "/dɪˈsɪʒən səˌpɔːt ˌsɪstəm/",
+      "meaning": "决策支持系统",
+      "collocation": "consult an AI decision-support system",
+      "collocationCN": "参考人工智能决策支持系统"
+    },
+    {
+      "word": "free up time",
+      "ipa": "/friː ʌp ˈtaɪm/",
+      "meaning": "腾出时间",
+      "collocation": "free up time for complex work",
+      "collocationCN": "为复杂工作腾出时间"
+    },
+    {
+      "word": "keep pace with technology",
+      "ipa": "/kiːp ˌpeɪs wɪð tekˈnɒlədʒi/",
+      "meaning": "跟上技术发展",
+      "collocation": "help workers keep pace with technology",
+      "collocationCN": "帮助员工跟上技术发展"
+    },
+    {
+      "word": "update your skill set",
+      "ipa": "/ʌpˌdeɪt jɔː ˈskɪl set/",
+      "meaning": "更新自身技能组合",
+      "collocation": "update your skill set through practical training",
+      "collocationCN": "通过实操培训更新自身技能组合"
+    },
+    {
+      "word": "work alongside robots",
+      "ipa": "/wɜːk əˌlɒŋsaɪd ˈrəʊbɒts/",
+      "meaning": "与机器人协同工作",
+      "collocation": "train staff to work alongside robots",
+      "collocationCN": "培训员工与机器人协同工作"
+    },
+    {
+      "word": "take over a task",
+      "ipa": "/teɪk ˌəʊvər ə ˈtɑːsk/",
+      "meaning": "接手一项任务",
+      "collocation": "allow software to take over a tedious task",
+      "collocationCN": "让软件接手乏味的任务"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "machines do routine work",
+      "options": [
+        "automate repetitive tasks",
+        "use automated processing",
+        "transfer predictable work to software"
+      ],
+      "note": "automate 强调流程自动执行。"
+    },
+    {
+      "base": "people lose jobs to technology",
+      "options": [
+        "workers are displaced",
+        "roles are eliminated",
+        "employment is affected by automation"
+      ],
+      "note": "displaced 强调劳动者被替代。"
+    },
+    {
+      "base": "person checks the system",
+      "options": [
+        "human oversight",
+        "manual review",
+        "accountable human supervision"
+      ],
+      "note": "oversight 不应只是形式确认。"
+    },
+    {
+      "base": "unusual case",
+      "options": [
+        "exception",
+        "non-routine case",
+        "ambiguous case"
+      ],
+      "note": "exception 指常规路径无法处理。"
+    },
+    {
+      "base": "change what a job contains",
+      "options": [
+        "redesign a role",
+        "alter the task composition",
+        "reconfigure job responsibilities"
+      ],
+      "note": "task composition 比 whole job 更精确。"
+    },
+    {
+      "base": "teach workers new skills",
+      "options": [
+        "provide reskilling",
+        "fund vocational retraining",
+        "support a skills transition"
+      ],
+      "note": "reskilling 强调转向新技能。"
+    },
+    {
+      "base": "system repeats an error",
+      "options": [
+        "scale a flawed decision",
+        "reproduce bias automatically",
+        "amplify a processing error"
+      ],
+      "note": "automation 可让错误规模化。"
+    },
+    {
+      "base": "people and machines together",
+      "options": [
+        "human–machine collaboration",
+        "technology-assisted work",
+        "augmented human judgement"
+      ],
+      "note": "augmented 强调技术增强而非完全替代。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Automation is most suitable for tasks that are + properties, whereas humans remain necessary when + condition.",
+      "cn": "自动化最适合具有某些特征的任务，而在某种条件下仍需要人。",
+      "example": "Automation is most suitable for tasks that are repetitive and predictable, whereas humans remain necessary when goals conflict."
+    },
+    {
+      "pattern": "Once + process + is automated, errors can be + scale effect + unless + safeguard.",
+      "cn": "一旦流程自动化，错误可能产生规模效应，除非……。",
+      "example": "Once screening is automated, errors can be repeated at scale unless outcomes are audited."
+    },
+    {
+      "pattern": "Rather than replacing + whole occupation, technology often changes + task composition.",
+      "cn": "技术往往不是取代整个职业，而是改变任务构成。",
+      "example": "Rather than replacing the whole occupation, technology often changes which cases require human attention."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "automate a routine task",
+      "cn": "自动化常规任务",
+      "example": "The software automates a routine data-entry task."
+    },
+    {
+      "text": "work alongside machines",
+      "cn": "与机器协同工作",
+      "example": "Technicians increasingly work alongside machines."
+    },
+    {
+      "text": "free up time for",
+      "cn": "腾出时间用于……",
+      "example": "Automation can free up time for complex customer problems."
+    },
+    {
+      "text": "require human judgement",
+      "cn": "需要人类判断",
+      "example": "Unusual safety cases still require human judgement."
+    },
+    {
+      "text": "be displaced by technology",
+      "cn": "被技术取代",
+      "example": "Some clerical tasks may be displaced by technology."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Robots will replace to many workers.",
+      "correct": "Robots will replace many workers.",
+      "why": "replace 是及物动词，不接 to。"
+    },
+    {
+      "wrong": "The system can make works faster.",
+      "correct": "The system can complete tasks faster.",
+      "why": "work 通常不可数；此处应使用具体可数名词 tasks。"
+    },
+    {
+      "wrong": "People must adapt with new technology.",
+      "correct": "People must adapt to new technology.",
+      "why": "adapt to 是固定搭配。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Automation should be evaluated at task level.",
+      "topicSentence": "Predictions about whole occupations hide the different ways technology affects their component tasks.",
+      "collocations": [
+        "automate routine processing",
+        "redesign a job role",
+        "retain human oversight",
+        "handle exceptional cases"
+      ],
+      "argument": "A job usually combines predictable processing, communication, physical action and judgement. Software may remove one component while increasing demand for another, as automated screening creates more unusual cases for staff to review. Task-level analysis identifies who needs training and where accountability should remain. It also avoids assuming that technical capability guarantees economical adoption. Policy should prepare for changing roles as well as complete displacement."
+    },
+    {
+      "viewpoint": "Workers affected by automation need paid routes to transition.",
+      "topicSentence": "Retraining is credible only when people can participate without losing the income needed for daily life.",
+      "collocations": [
+        "fund vocational retraining",
+        "provide paid learning leave",
+        "recognise existing skills",
+        "move into a redesigned role"
+      ],
+      "argument": "A displaced worker cannot necessarily complete a long unpaid course, even when future demand is strong. Employers can offer paid learning time before redundancy and map existing experience onto new tasks. Public funds may support transitions where benefits extend across an industry. Courses should connect to actual vacancies rather than generic digital confidence. Adjustment policy succeeds when it creates a realistic bridge from present income to future employment."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you use any automated tools in daily life?",
+      "answer": "Yes, I use automatic bill payments and spam filters most often. I value them because the tasks are repetitive and easy to forget, but I still check the results occasionally. I would not want every decision automated, especially when a mistake could block an important service. Convenience is useful only when correction remains possible."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a piece of technology that changed the way people work.",
+      "answer": "Cloud-based shared documents changed everyday teamwork quite significantly. Several people can edit the same file, leave comments and see earlier versions instead of sending many attachments. The tool did not remove the need for discussion, but it reduced confusion about which version was current. It also made remote collaboration much easier. The main drawback is that constant notifications can fragment attention unless teams agree on when a response is actually required. Earlier, people often saved separate copies with unclear names, and useful comments became scattered across email threads. Version history made correction less risky because an earlier draft could be restored. At the same time, shared access required clearer ownership: not everyone should edit every section at once. The technology improved work most when the team also agreed on roles and communication rules."
+    }
+  ],
+  "reading": {
+    "title": "The Exception Queue",
+    "paragraphs": [
+      "Automation is often introduced with a simple division: machines handle routine cases and people handle exceptions. The arrangement appears efficient because software processes high volumes quickly. Yet removing ordinary cases changes the human job. Employees no longer alternate easy and difficult work; they receive a continuous queue of ambiguity, conflict and error.",
+      "This concentration creates new demands. Exceptional cases take longer, offer fewer clear rules and often involve frustrated customers who have already failed to resolve a problem through the automated channel. Staff need broader authority and stronger diagnostic knowledge, not merely instructions to follow. If staffing is calculated from the speed of routine automated transactions, the exception queue grows even while the system reports high overall efficiency.",
+      "Automation can also weaken the experience from which judgement develops. A junior employee once learned patterns by handling many ordinary cases before meeting rare ones. If software hides those examples, the employee encounters only difficult cases without the background needed to interpret them. Some organisations respond with simulations, sampled review of automated decisions and deliberate rotation through the underlying process.",
+      "The design lesson is that human oversight is a form of work, not a final button labelled “check”. Reviewers need time, information and permission to reverse a system’s recommendation. Their corrections should feed back into monitoring so that a repeated exception becomes visible as a pattern. Automation succeeds when the whole process, including recovery from error, improves. Counting only the transactions completed without human contact overlooks the people and knowledge required when the ordinary path fails.",
+      "Measures of success should include the exception path. Waiting time, reversal rates and repeated complaints show whether automation has merely moved effort out of the visible channel. Employees reviewing difficult cases can also identify rules that create unnecessary exceptions. Treating their knowledge as feedback improves both the automated route and the remaining human role, rather than using people as a silent buffer for system weakness."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Automation always reduces the difficulty of the remaining human work.",
+        "answer": "False",
+        "explanation": "Paragraph 1 says humans receive a continuous queue of difficult exceptions."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why may junior employees lose a source of judgement?",
+        "answer": "B",
+        "explanation": "They no longer handle the ordinary cases through which patterns were learned.",
+        "options": [
+          "They receive too much authority.",
+          "They no longer handle the ordinary cases through which patterns were learned.",
+          "They are forbidden to use simulations.",
+          "Customers solve every exception independently."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Human reviewers need permission to ______ a system’s recommendation.",
+        "answer": "reverse",
+        "explanation": "The final paragraph uses the verb “reverse”."
+      }
+    ]
+  }
+}

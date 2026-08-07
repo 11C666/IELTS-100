@@ -1,0 +1,354 @@
+{
+  "id": 82,
+  "topic": "Personal Finance",
+  "topicCN": "个人理财",
+  "category": "Economy",
+  "vocabulary": [
+    {
+      "word": "financial literacy",
+      "ipa": "/faɪˈnænʃəl ˈlɪtərəsi/",
+      "meaning": "金融素养",
+      "collocation": "improve financial literacy",
+      "collocationCN": "提升金融素养"
+    },
+    {
+      "word": "credit score",
+      "ipa": "/ˈkredɪt skɔː/",
+      "meaning": "信用评分",
+      "collocation": "check a credit score",
+      "collocationCN": "查看信用评分"
+    },
+    {
+      "word": "repayment",
+      "ipa": "/rɪˈpeɪmənt/",
+      "meaning": "偿还款",
+      "collocation": "miss a repayment",
+      "collocationCN": "错过还款"
+    },
+    {
+      "word": "outstanding balance",
+      "ipa": "/aʊtˈstændɪŋ ˈbæləns/",
+      "meaning": "未偿余额",
+      "collocation": "clear an outstanding balance",
+      "collocationCN": "结清未偿余额"
+    },
+    {
+      "word": "annual fee",
+      "ipa": "/ˈænjuəl fiː/",
+      "meaning": "年费",
+      "collocation": "charge an annual fee",
+      "collocationCN": "收取年费"
+    },
+    {
+      "word": "loan term",
+      "ipa": "/ˈləʊn tɜːm/",
+      "meaning": "贷款期限",
+      "collocation": "extend the loan term",
+      "collocationCN": "延长贷款期限"
+    },
+    {
+      "word": "default",
+      "ipa": "/dɪˈfɔːlt/",
+      "meaning": "债务违约",
+      "collocation": "fall into default",
+      "collocationCN": "陷入违约"
+    },
+    {
+      "word": "direct debit",
+      "ipa": "/dəˌrekt ˈdebɪt/",
+      "meaning": "自动扣款",
+      "collocation": "pay by direct debit",
+      "collocationCN": "通过自动扣款支付"
+    },
+    {
+      "word": "pension contribution",
+      "ipa": "/ˈpenʃən kɒntrɪˌbjuːʃən/",
+      "meaning": "养老金缴款",
+      "collocation": "increase a pension contribution",
+      "collocationCN": "增加养老金缴款"
+    },
+    {
+      "word": "insurance premium",
+      "ipa": "/ɪnˈʃʊərəns ˈpriːmiəm/",
+      "meaning": "保险费",
+      "collocation": "compare insurance premiums",
+      "collocationCN": "比较保险费"
+    },
+    {
+      "word": "risk tolerance",
+      "ipa": "/rɪsk ˈtɒlərəns/",
+      "meaning": "风险承受能力",
+      "collocation": "assess risk tolerance",
+      "collocationCN": "评估风险承受能力"
+    },
+    {
+      "word": "diversification",
+      "ipa": "/daɪˌvɜːsɪfɪˈkeɪʃən/",
+      "meaning": "分散投资",
+      "collocation": "achieve diversification",
+      "collocationCN": "实现分散投资"
+    },
+    {
+      "word": "terms and conditions",
+      "ipa": "/tɜːmz ən kənˈdɪʃənz/",
+      "meaning": "条款与条件",
+      "collocation": "read the terms and conditions",
+      "collocationCN": "阅读条款与条件"
+    },
+    {
+      "word": "financial adviser",
+      "ipa": "/faɪˈnænʃəl ədˈvaɪzə/",
+      "meaning": "理财顾问",
+      "collocation": "consult a financial adviser",
+      "collocationCN": "咨询理财顾问"
+    },
+    {
+      "word": "fraudulent transaction",
+      "ipa": "/ˈfrɔːdjələnt trænˈzækʃən/",
+      "meaning": "欺诈交易",
+      "collocation": "report a fraudulent transaction",
+      "collocationCN": "举报欺诈交易"
+    },
+    {
+      "word": "pay off debt",
+      "ipa": "/peɪ ɒf det/",
+      "meaning": "还清债务",
+      "collocation": "pay off high-interest debt",
+      "collocationCN": "还清高息债务"
+    },
+    {
+      "word": "shop around",
+      "ipa": "/ʃɒp əˈraʊnd/",
+      "meaning": "货比三家",
+      "collocation": "shop around for insurance",
+      "collocationCN": "比较多家保险"
+    },
+    {
+      "word": "keep track of",
+      "ipa": "/kiːp træk əv/",
+      "meaning": "持续掌握",
+      "collocation": "keep track of monthly bills",
+      "collocationCN": "掌握每月账单"
+    },
+    {
+      "word": "take out a loan",
+      "ipa": "/teɪk aʊt ə ləʊn/",
+      "meaning": "申请贷款",
+      "collocation": "take out a student loan",
+      "collocationCN": "申请学生贷款"
+    },
+    {
+      "word": "make an informed decision",
+      "ipa": "/meɪk ən ɪnˈfɔːmd dɪˌsɪʒən/",
+      "meaning": "作出知情决定",
+      "collocation": "make an informed financial decision",
+      "collocationCN": "作出知情财务决定"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "understand money matters",
+      "options": [
+        "be financially literate",
+        "understand personal finance",
+        "possess practical financial knowledge"
+      ],
+      "note": "financially literate涵盖预算、信贷和风险。"
+    },
+    {
+      "base": "borrow money",
+      "options": [
+        "take out credit",
+        "obtain a loan",
+        "use funds supplied by a lender"
+      ],
+      "note": "credit既可指信贷也可指赊购额度。"
+    },
+    {
+      "base": "repay a debt",
+      "options": [
+        "pay off a debt",
+        "settle an outstanding balance",
+        "meet a financial obligation to a lender"
+      ],
+      "note": "settle强调结清。"
+    },
+    {
+      "base": "compare products",
+      "options": [
+        "shop around",
+        "evaluate competing offers",
+        "assess alternatives across providers"
+      ],
+      "note": "shop around自然且适合Speaking。"
+    },
+    {
+      "base": "hidden cost",
+      "options": [
+        "an unexpected charge",
+        "a less visible fee",
+        "a cost disclosed only in detailed conditions"
+      ],
+      "note": "less visible比hidden更谨慎。"
+    },
+    {
+      "base": "plan for retirement",
+      "options": [
+        "prepare financially for later life",
+        "build retirement provision",
+        "make long-term pension arrangements"
+      ],
+      "note": "provision表示为未来准备的资金保障。"
+    },
+    {
+      "base": "financial risk",
+      "options": [
+        "the possibility of financial loss",
+        "exposure to monetary loss",
+        "uncertainty affecting future returns"
+      ],
+      "note": "exposure常与risk搭配。"
+    },
+    {
+      "base": "money advice",
+      "options": [
+        "financial guidance",
+        "personal-finance education",
+        "professional advice on financial decisions"
+      ],
+      "note": "professional advice不等同于一般教育。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Before taking out + financial product, compare not only + obvious feature + but also + less visible cost.",
+      "cn": "选择某种金融产品前，不仅要比较显眼条件，还要比较不易察觉的成本。",
+      "example": "Before taking out a loan, compare not only the advertised rate but also late-payment charges."
+    },
+    {
+      "pattern": "If + payment + is missed, + consequence + may occur even though + unexpected fact.",
+      "cn": "如果错过某笔付款，即使存在意外情况，也可能产生某种后果。",
+      "example": "If a card repayment is missed, a penalty may apply even though the customer intended to pay on time."
+    },
+    {
+      "pattern": "People who + financial action + are better placed to + positive outcome.",
+      "cn": "采取某项理财行动的人，更有条件取得积极结果。",
+      "example": "People who review their pension statements are better placed to correct an inadequate contribution early."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "know what you are signing up for",
+      "cn": "清楚自己同意了什么",
+      "example": "Read the repayment schedule so you know what you are signing up for."
+    },
+    {
+      "text": "stay on top of your bills",
+      "cn": "及时掌握并处理账单",
+      "example": "A calendar helps me stay on top of my bills."
+    },
+    {
+      "text": "get into debt",
+      "cn": "陷入债务",
+      "example": "Small unpaid balances can cause people to get into debt."
+    },
+    {
+      "text": "manage financial risk",
+      "cn": "管理财务风险",
+      "example": "Diversification can help manage financial risk."
+    },
+    {
+      "text": "make informed financial choices",
+      "cn": "作出知情的财务选择",
+      "example": "Clear comparisons help consumers make informed financial choices."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I borrowed money from the bank and must return it next year.",
+      "correct": "I borrowed money from the bank and must repay it next year.",
+      "why": "偿还贷款用repay；return通常指归还具体物品。"
+    },
+    {
+      "wrong": "The bank gave me many useful advices.",
+      "correct": "The bank gave me a lot of useful advice.",
+      "why": "advice是不可数名词。"
+    },
+    {
+      "wrong": "I paid the bill lately.",
+      "correct": "I paid the bill late.",
+      "why": "late表示迟到或逾期；lately表示最近。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Personal-finance education should be taught through decisions, not definitions.",
+      "topicSentence": "Students learn financial skills more effectively when lessons reproduce choices they will actually face.",
+      "collocations": [
+        "compare total borrowing costs",
+        "interpret a payslip",
+        "recognise financial fraud",
+        "practise household budgeting"
+      ],
+      "argument": "Memorising the meaning of interest does not show a young adult which of two loans costs more. A practical course could ask students to compare repayment schedules, identify suspicious messages and allocate a first salary. Such exercises reveal how fees, time and uncertainty interact in real decisions. They also allow mistakes to occur without financial consequences. Financial education should therefore be assessed through realistic problems rather than a vocabulary test."
+    },
+    {
+      "viewpoint": "Default options can improve retirement saving without removing choice.",
+      "topicSentence": "Automatically enrolling employees in a pension can address inattention while preserving individual freedom.",
+      "collocations": [
+        "automatic enrolment",
+        "long-term pension provision",
+        "retain the right to opt out",
+        "overcome short-term inattention"
+      ],
+      "argument": "Retirement feels remote to a new worker, so completing pension forms is easily postponed. Automatic enrolment changes the starting position: contributions begin unless the employee actively declines. Evidence from workplaces suggests that many remain enrolled, not because they were forced, but because a useful decision no longer required immediate action. Workers with urgent expenses must retain a simple way to opt out. This balance can raise long-term provision while respecting different financial circumstances."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a useful lesson you learned about managing money.",
+      "answer": "A useful lesson was to compare the total cost of a purchase rather than just the monthly payment. I learned it while considering a phone contract that looked cheap in an advertisement. When I multiplied the payment by twenty-four months and added the upfront fee, it was more expensive than buying the phone separately and keeping my existing plan. Since then, I have checked contract length, cancellation charges and the final total before agreeing to anything. It is a simple calculation, but it helps me resist offers designed to make a large cost look small. I still review the plan once a month and adjust it when regular costs change."
+    },
+    {
+      "part": "Part 3",
+      "question": "Who should be responsible for teaching young people about personal finance?",
+      "answer": "Responsibility should be shared. Schools can give every student a reliable foundation, including how interest, tax and insurance work, which is important because not every family has the same knowledge. Parents can connect those ideas to real household choices, provided they feel comfortable discussing money. Banks and employers also have a role, but their guidance may be linked to products or workplace schemes, so it should not replace independent education. The strongest approach combines universal teaching with practical experience at home and work."
+    }
+  ],
+  "reading": {
+    "title": "When Simplicity Becomes a Financial Feature",
+    "paragraphs": [
+      "Two savings products can have similar interest rates and still demand very different levels of understanding. One may state a single annual fee, while the other offers a temporary bonus, conditions on monthly deposits and a penalty for early withdrawal. Each term can be disclosed accurately, yet the combined product may remain difficult to evaluate. For regulators, this creates an awkward question: is information sufficient merely because it is available?",
+      "A consumer organisation tested this issue by asking adults to choose between fictional accounts. One group received conventional disclosure documents modelled on actual banking language. The remainder saw a one-page comparison showing the amount they would possess under three common scenarios. Participants using the comparison were more likely to identify the cheaper account, particularly when the advertised headline rate concealed a fee. Interestingly, confidence rose in both groups, although accuracy improved mainly among those given the scenario table.",
+      "The finding challenges the assumption that additional information always protects consumers. Lengthy documents serve a legal purpose and contain details that unusual circumstances may make important. However, readers with limited time cannot give equal attention to every clause. Firms may therefore compete by making one attractive figure prominent while placing qualifying conditions elsewhere, a practice that complies with disclosure rules without necessarily supporting comprehension.",
+      "Some researchers advocate a standard measure of total cost, comparable across providers. Critics reply that no single figure can represent every pattern of borrowing or saving: an early repayment fee matters greatly to one customer and not at all to another. A more promising design may combine a standard example with tools that allow individuals to alter the assumptions. Simplicity, in this account, does not mean removing complexity from financial life. It means arranging essential information so that an ordinary decision-maker can see which details change the outcome—and which do not."
+    ],
+    "questions": [
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer believes that accurate disclosure always enables consumers to compare products successfully.",
+        "answer": "No",
+        "explanation": "The article explains that accurate combined terms may still be hard to evaluate."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Participants given a scenario table were better at identifying the cheaper account when a headline rate hid a ______.",
+        "answer": "fee",
+        "explanation": "Paragraph 2 states that the headline rate concealed a fee."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why do critics oppose relying on one total-cost figure?",
+        "answer": "D",
+        "explanation": "Different charges matter to customers with different behaviour.",
+        "options": [
+          "It would make legal documents longer.",
+          "Banks cannot calculate interest rates.",
+          "Consumers dislike standard examples.",
+          "Different charges matter to customers with different behaviour."
+        ]
+      }
+    ]
+  }
+}

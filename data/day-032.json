@@ -1,0 +1,355 @@
+{
+  "id": 32,
+  "topic": "Career Choices",
+  "topicCN": "职业选择",
+  "category": "Work",
+  "vocabulary": [
+    {
+      "word": "career path",
+      "ipa": "/kəˈrɪə pɑːθ/",
+      "meaning": "职业发展道路",
+      "collocation": "choose a suitable career path",
+      "collocationCN": "选择合适的职业道路"
+    },
+    {
+      "word": "vocational guidance",
+      "ipa": "/vəʊˌkeɪʃənəl ˈɡaɪdəns/",
+      "meaning": "职业指导",
+      "collocation": "receive impartial vocational guidance",
+      "collocationCN": "获得公正的职业指导"
+    },
+    {
+      "word": "aptitude",
+      "ipa": "/ˈæptɪtjuːd/",
+      "meaning": "天资；才能倾向",
+      "collocation": "show an aptitude for design",
+      "collocationCN": "展现设计方面的天赋"
+    },
+    {
+      "word": "career prospects",
+      "ipa": "/kəˈrɪə ˌprɒspekts/",
+      "meaning": "职业前景",
+      "collocation": "assess long-term career prospects",
+      "collocationCN": "评估长期职业前景"
+    },
+    {
+      "word": "occupational fit",
+      "ipa": "/ˌɒkjəˈpeɪʃənəl fɪt/",
+      "meaning": "职业匹配度",
+      "collocation": "consider personality when judging occupational fit",
+      "collocationCN": "判断职业匹配度时考虑个性"
+    },
+    {
+      "word": "career switch",
+      "ipa": "/kəˈrɪə swɪtʃ/",
+      "meaning": "转行",
+      "collocation": "make a mid-career switch",
+      "collocationCN": "在职业生涯中期转行"
+    },
+    {
+      "word": "career transition",
+      "ipa": "/kəˈrɪə trænˌzɪʃən/",
+      "meaning": "职业转型",
+      "collocation": "plan a gradual career transition",
+      "collocationCN": "规划渐进式职业转型"
+    },
+    {
+      "word": "professional qualification",
+      "ipa": "/prəˌfeʃənəl ˌkwɒlɪfɪˈkeɪʃən/",
+      "meaning": "职业资格",
+      "collocation": "work towards a professional qualification",
+      "collocationCN": "努力取得职业资格"
+    },
+    {
+      "word": "entry-level role",
+      "ipa": "/ˈentri ˌlevəl rəʊl/",
+      "meaning": "初级职位",
+      "collocation": "apply for an entry-level role",
+      "collocationCN": "申请初级职位"
+    },
+    {
+      "word": "career ladder",
+      "ipa": "/kəˈrɪə ˌlædə/",
+      "meaning": "职业晋升阶梯",
+      "collocation": "move up the career ladder",
+      "collocationCN": "沿职业阶梯晋升"
+    },
+    {
+      "word": "lateral move",
+      "ipa": "/ˈlætərəl muːv/",
+      "meaning": "平级调动",
+      "collocation": "make a lateral move into marketing",
+      "collocationCN": "平级调动至市场部门"
+    },
+    {
+      "word": "portfolio career",
+      "ipa": "/pɔːtˈfəʊliəʊ kəˌrɪə/",
+      "meaning": "组合型职业生涯",
+      "collocation": "build a portfolio career",
+      "collocationCN": "发展由多种工作组成的职业生涯"
+    },
+    {
+      "word": "job shadowing",
+      "ipa": "/ˈdʒɒb ˌʃædəʊɪŋ/",
+      "meaning": "岗位跟随学习",
+      "collocation": "arrange a day of job shadowing",
+      "collocationCN": "安排一天的岗位跟随学习"
+    },
+    {
+      "word": "career break",
+      "ipa": "/kəˈrɪə breɪk/",
+      "meaning": "职业生涯中断期",
+      "collocation": "take a planned career break",
+      "collocationCN": "进行有计划的职业休整"
+    },
+    {
+      "word": "occupational interest",
+      "ipa": "/ˌɒkjəˈpeɪʃənəl ˈɪntrəst/",
+      "meaning": "职业兴趣",
+      "collocation": "match a role to your occupational interests",
+      "collocationCN": "选择符合自身职业兴趣的职位"
+    },
+    {
+      "word": "earning potential",
+      "ipa": "/ˈɜːnɪŋ pəˌtenʃəl/",
+      "meaning": "收入潜力",
+      "collocation": "balance earning potential against job satisfaction",
+      "collocationCN": "权衡收入潜力与工作满意度"
+    },
+    {
+      "word": "follow in someone’s footsteps",
+      "ipa": "/ˌfɒləʊ ɪn ˌsʌmwʌnz ˈfʊtsteps/",
+      "meaning": "继承某人的职业道路",
+      "collocation": "follow in a parent’s footsteps",
+      "collocationCN": "子承父业"
+    },
+    {
+      "word": "play to your strengths",
+      "ipa": "/pleɪ tə jɔː streŋθs/",
+      "meaning": "发挥自身优势",
+      "collocation": "choose work that lets you play to your strengths",
+      "collocationCN": "选择能发挥自身优势的工作"
+    },
+    {
+      "word": "keep your options open",
+      "ipa": "/kiːp jɔːr ˈɒpʃənz ˌəʊpən/",
+      "meaning": "保留多种选择",
+      "collocation": "study a broad subject to keep your options open",
+      "collocationCN": "学习宽口径专业以保留多种选择"
+    },
+    {
+      "word": "take the plunge",
+      "ipa": "/teɪk ðə plʌndʒ/",
+      "meaning": "果断尝试重大改变",
+      "collocation": "take the plunge and change professions",
+      "collocationCN": "果断尝试转行"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "choose a career",
+      "options": [
+        "select an occupation",
+        "decide on a career path",
+        "make a vocational choice"
+      ],
+      "note": "vocational 强调与职业有关。"
+    },
+    {
+      "base": "work that suits me",
+      "options": [
+        "a role aligned with my strengths",
+        "a good occupational fit",
+        "suitable day-to-day work"
+      ],
+      "note": "fit 应考虑任务而非只看头衔。"
+    },
+    {
+      "base": "change career",
+      "options": [
+        "make a career transition",
+        "retrain for another field",
+        "change professional direction"
+      ],
+      "note": "transition 强调过程。"
+    },
+    {
+      "base": "what a job is really like",
+      "options": [
+        "the daily reality of an occupation",
+        "routine job demands",
+        "day-to-day working conditions"
+      ],
+      "note": "daily reality 可纠正职业想象。"
+    },
+    {
+      "base": "try a job briefly",
+      "options": [
+        "complete a work placement",
+        "shadow a practitioner",
+        "test an occupational interest"
+      ],
+      "note": "shadow 指跟随观察工作。"
+    },
+    {
+      "base": "skills I already have",
+      "options": [
+        "transferable experience",
+        "prior competence",
+        "existing capabilities"
+      ],
+      "note": "prior competence 可减少重复培训。"
+    },
+    {
+      "base": "perfect career",
+      "options": [
+        "ideal occupation",
+        "dream job",
+        "hidden calling"
+      ],
+      "note": "calling 带有使命感色彩。"
+    },
+    {
+      "base": "career advice",
+      "options": [
+        "vocational guidance",
+        "careers counselling",
+        "informed occupational advice"
+      ],
+      "note": "guidance 强调系统支持。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A career that appears + attractive quality + may nevertheless require + hidden cost.",
+      "cn": "看似具有某种吸引力的职业，仍可能需要付出某种隐性代价。",
+      "example": "A career that appears glamorous may nevertheless require years of insecure freelance work."
+    },
+    {
+      "pattern": "Rather than asking which job is + absolute quality, people may benefit from asking + practical question.",
+      "cn": "与其问哪份工作绝对最好，人们不如问一个更实际的问题。",
+      "example": "Rather than asking which job is perfect, people may benefit from asking which trade-offs they can accept."
+    },
+    {
+      "pattern": "The extent to which + occupation + suits someone depends on + fit factors.",
+      "cn": "某职业适合一个人的程度取决于……。",
+      "example": "The extent to which nursing suits someone depends on both values and tolerance for shift work."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "follow a career path",
+      "cn": "走一条职业道路",
+      "example": "I did not follow a conventional career path."
+    },
+    {
+      "text": "have a change of direction",
+      "cn": "改变职业方向",
+      "example": "After five years in sales, she had a change of direction."
+    },
+    {
+      "text": "play to my strengths",
+      "cn": "发挥我的长处",
+      "example": "Research work plays to my strengths."
+    },
+    {
+      "text": "rule out an option",
+      "cn": "排除一个选择",
+      "example": "I would not rule out an option before speaking to someone in the role."
+    },
+    {
+      "text": "get a foot in the door",
+      "cn": "获得入行机会",
+      "example": "A short placement helped him get a foot in the door."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I chose this career because it has a high salary.",
+      "correct": "I chose this career because it offers a high salary.",
+      "why": "职业“提供”薪资用 offer。"
+    },
+    {
+      "wrong": "My parents advised me choosing medicine.",
+      "correct": "My parents advised me to choose medicine.",
+      "why": "advise somebody to do。"
+    },
+    {
+      "wrong": "She is interested to work with animals.",
+      "correct": "She is interested in working with animals.",
+      "why": "interested in 后接动名词。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Career guidance should expose the daily reality of occupations.",
+      "topicSentence": "Young people need evidence about routine tasks and conditions, not only occupational titles.",
+      "collocations": [
+        "explore career options",
+        "observe day-to-day work",
+        "complete a work placement",
+        "form realistic expectations"
+      ],
+      "argument": "A title such as architect or lawyer carries an image that may bear little resemblance to an ordinary working week. Short placements, job-shadowing and conversations with several practitioners reveal administrative work, irregular hours and early-career constraints. This information can prevent choices based solely on prestige or one school subject. It may also introduce roles that students have never encountered at home. Effective guidance expands options while making their trade-offs concrete."
+    },
+    {
+      "viewpoint": "Changing career should be treated as a normal adjustment.",
+      "topicSentence": "Education and employment systems should make mid-career transitions less costly and confusing.",
+      "collocations": [
+        "retrain for a new occupation",
+        "recognise transferable experience",
+        "complete a modular course",
+        "navigate a career transition"
+      ],
+      "argument": "Industries contract, health circumstances change and personal priorities develop over a working life. Requiring every career changer to begin a full qualification from zero wastes relevant experience. Modular training and recognition of prior learning can target the actual gap. Guidance should also explain income changes and entry routes honestly. A labour market that supports transitions can respond to change without treating an earlier choice as a permanent mistake."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Did you have a clear career ambition as a child?",
+      "answer": "Not really. I changed my answer whenever I encountered an interesting adult, so at different times I wanted to be a pilot, a teacher and a designer. Those choices were based on a very shallow picture of the work. I became more realistic only after trying projects and noticing which tasks held my attention."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a career you would like to know more about.",
+      "answer": "I would like to know more about urban planning. I understand the broad purpose, but I do not know how planners divide their time between research, public consultation and technical rules. I would be especially interested in watching how they respond when residents want conflicting things from the same street. A day of job-shadowing would probably teach me more than a general career page. The field appeals to me because decisions have visible, long-term effects on daily life. I would ask what an early-career planner actually produces and which qualifications are essential. The profession may involve more legal documentation and less visual design than outsiders imagine. That would not necessarily discourage me, but I would want an accurate picture. Learning about the constraints could be as important as hearing about the creative influence planners have on a city."
+    }
+  ],
+  "reading": {
+    "title": "Interests Are Not Fixed Career Tests",
+    "paragraphs": [
+      "Career questionnaires often ask people to rate activities they enjoy and then match the pattern to occupations. The method can begin a useful conversation, but its apparent precision is misleading. An interest is not a permanent property discovered by a test. It can grow through competence, fade after repeated frustration or remain enjoyable only when separated from deadlines and income.",
+      "People also confuse a subject with the work associated with it. Enjoying school biology does not reveal whether someone would like laboratory repetition, clinical contact, fieldwork or data analysis. Occupations contain bundles of tasks, and few individuals enjoy every component. A useful decision compares the whole bundle with the trade-offs a person can tolerate, including uncertainty, emotional demand and working hours.",
+      "Experience changes preferences because it makes imagined work concrete. A brief placement can reveal that a disliked task becomes satisfying when its purpose is clear, or that an attractive field contains a routine the person strongly avoids. Yet one workplace should not be treated as the occupation itself. Management, team culture and job design vary, so guidance should seek several examples before drawing a conclusion.",
+      "Career choice is therefore better understood as a sequence of informed experiments than as a search for one hidden calling. A person can take a relevant course, interview a practitioner, try a small project and then update the decision. Each step should be inexpensive enough to permit revision. Commitment still matters—expertise requires sustained effort—but commitment based on evidence is stronger than attachment to an identity formed before the daily work was understood.",
+      "The experiments can continue after employment begins. An initial role supplies evidence about preferred tasks, but it need not define the next decade. Workers can request a project with another team, develop an adjacent skill or examine which parts of the role consistently provide energy. Career planning then becomes periodic review, not a single irreversible decision made at the end of school."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why can an interest questionnaire be misleading?",
+        "answer": "B",
+        "explanation": "It presents interests as more fixed and precise than they are.",
+        "options": [
+          "It asks only about disliked activities.",
+          "It presents interests as more fixed and precise than they are.",
+          "It measures workplace culture directly.",
+          "It prevents people from taking placements."
+        ]
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "One workplace provides enough evidence to judge an entire occupation.",
+        "answer": "No",
+        "explanation": "Paragraph 3 says one workplace should not represent the occupation."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "The writer describes career choice as a sequence of informed ______.",
+        "answer": "experiments",
+        "explanation": "The phrase appears in the final paragraph."
+      }
+    ]
+  }
+}

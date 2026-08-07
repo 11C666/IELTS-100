@@ -1,0 +1,355 @@
+{
+  "id": 36,
+  "topic": "Remote Work",
+  "topicCN": "远程工作",
+  "category": "Work",
+  "vocabulary": [
+    {
+      "word": "distributed workforce",
+      "ipa": "/dɪˌstrɪbjətɪd ˈwɜːkfɔːs/",
+      "meaning": "分布式员工队伍",
+      "collocation": "manage a geographically distributed workforce",
+      "collocationCN": "管理地域分散的员工队伍"
+    },
+    {
+      "word": "hybrid arrangement",
+      "ipa": "/ˌhaɪbrɪd əˈreɪndʒmənt/",
+      "meaning": "混合办公安排",
+      "collocation": "negotiate a hybrid working arrangement",
+      "collocationCN": "协商混合办公安排"
+    },
+    {
+      "word": "asynchronous communication",
+      "ipa": "/eɪˌsɪŋkrənəs kəˌmjuːnɪˈkeɪʃən/",
+      "meaning": "异步沟通",
+      "collocation": "rely on asynchronous communication",
+      "collocationCN": "依靠异步沟通"
+    },
+    {
+      "word": "virtual meeting",
+      "ipa": "/ˌvɜːtʃuəl ˈmiːtɪŋ/",
+      "meaning": "线上会议",
+      "collocation": "chair a concise virtual meeting",
+      "collocationCN": "主持简洁的线上会议"
+    },
+    {
+      "word": "home workstation",
+      "ipa": "/ˌhəʊm ˈwɜːksteɪʃən/",
+      "meaning": "居家工作台",
+      "collocation": "set up an ergonomic home workstation",
+      "collocationCN": "设置符合人体工学的居家工作台"
+    },
+    {
+      "word": "digital presenteeism",
+      "ipa": "/ˌdɪdʒɪtəl ˌprezənˈtiːɪzəm/",
+      "meaning": "数字化出勤主义",
+      "collocation": "discourage digital presenteeism",
+      "collocationCN": "避免以长时间在线证明在工作的风气"
+    },
+    {
+      "word": "proximity bias",
+      "ipa": "/prɒkˌsɪməti ˈbaɪəs/",
+      "meaning": "邻近偏见",
+      "collocation": "guard against proximity bias",
+      "collocationCN": "防范对现场员工的邻近偏见"
+    },
+    {
+      "word": "cybersecurity protocol",
+      "ipa": "/ˌsaɪbəsɪˈkjʊərəti ˈprəʊtəkɒl/",
+      "meaning": "网络安全规程",
+      "collocation": "follow company cybersecurity protocols",
+      "collocationCN": "遵守公司的网络安全规程"
+    },
+    {
+      "word": "collaboration platform",
+      "ipa": "/kəˌlæbəˈreɪʃən ˌplætfɔːm/",
+      "meaning": "协作平台",
+      "collocation": "use a secure collaboration platform",
+      "collocationCN": "使用安全的协作平台"
+    },
+    {
+      "word": "time-zone difference",
+      "ipa": "/ˈtaɪm zəʊn ˌdɪfrəns/",
+      "meaning": "时区差异",
+      "collocation": "coordinate across time-zone differences",
+      "collocationCN": "跨时区协调工作"
+    },
+    {
+      "word": "remote onboarding",
+      "ipa": "/rɪˌməʊt ˈɒnbɔːdɪŋ/",
+      "meaning": "远程入职",
+      "collocation": "design an effective remote-onboarding process",
+      "collocationCN": "设计有效的远程入职流程"
+    },
+    {
+      "word": "social isolation",
+      "ipa": "/ˌsəʊʃəl ˌaɪsəˈleɪʃən/",
+      "meaning": "社交孤立",
+      "collocation": "counter feelings of social isolation",
+      "collocationCN": "缓解社交孤立感"
+    },
+    {
+      "word": "output-based assessment",
+      "ipa": "/ˈaʊtpʊt beɪst əˌsesmənt/",
+      "meaning": "基于产出的考核",
+      "collocation": "adopt output-based assessment",
+      "collocationCN": "采用基于成果的考核"
+    },
+    {
+      "word": "location-independent",
+      "ipa": "/ləʊˌkeɪʃən ɪndɪˈpendənt/",
+      "meaning": "不受地点限制的",
+      "collocation": "offer location-independent roles",
+      "collocationCN": "提供不受地点限制的职位"
+    },
+    {
+      "word": "communication lag",
+      "ipa": "/kəˌmjuːnɪˈkeɪʃən læɡ/",
+      "meaning": "沟通延迟",
+      "collocation": "minimise communication lag",
+      "collocationCN": "最大限度减少沟通延迟"
+    },
+    {
+      "word": "log on",
+      "ipa": "/lɒɡ ˈɒn/",
+      "meaning": "登录系统开始工作",
+      "collocation": "log on at the start of the working day",
+      "collocationCN": "在工作日开始时登录系统"
+    },
+    {
+      "word": "drop someone a message",
+      "ipa": "/drɒp ˌsʌmwʌn ə ˈmesɪdʒ/",
+      "meaning": "给某人发个消息",
+      "collocation": "drop a colleague a quick message",
+      "collocationCN": "给同事快速发条消息"
+    },
+    {
+      "word": "work from anywhere",
+      "ipa": "/wɜːk frəm ˈeniweə/",
+      "meaning": "在任何地点工作",
+      "collocation": "have the option to work from anywhere",
+      "collocationCN": "可以选择在任何地点工作"
+    },
+    {
+      "word": "back-to-back calls",
+      "ipa": "/ˌbæk tə bæk ˈkɔːlz/",
+      "meaning": "接连不断的电话或线上会议",
+      "collocation": "avoid a morning of back-to-back calls",
+      "collocationCN": "避免一上午连续开线上会议"
+    },
+    {
+      "word": "stay connected",
+      "ipa": "/steɪ kəˈnektɪd/",
+      "meaning": "保持联系",
+      "collocation": "find informal ways to stay connected",
+      "collocationCN": "寻找轻松自然的方式保持联系"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "work away from the office",
+      "options": [
+        "work remotely",
+        "work from home",
+        "operate as a distributed employee"
+      ],
+      "note": "distributed 强调团队地点分散。"
+    },
+    {
+      "base": "online meeting",
+      "options": [
+        "video conference",
+        "virtual meeting",
+        "synchronous call"
+      ],
+      "note": "synchronous 指同时在线。"
+    },
+    {
+      "base": "written record",
+      "options": [
+        "decision log",
+        "shared documentation",
+        "persistent project record"
+      ],
+      "note": "persistent 表示会议后仍可查。"
+    },
+    {
+      "base": "work at different times",
+      "options": [
+        "asynchronous collaboration",
+        "time-shifted coordination",
+        "work across time zones"
+      ],
+      "note": "asynchronous 不要求同时响应。"
+    },
+    {
+      "base": "office and home work",
+      "options": [
+        "hybrid working",
+        "a mixed-location arrangement",
+        "a partly remote schedule"
+      ],
+      "note": "hybrid 强调地点组合。"
+    },
+    {
+      "base": "focus without interruption",
+      "options": [
+        "protect concentrated work",
+        "create uninterrupted time",
+        "maintain deep focus"
+      ],
+      "note": "deep focus 偏自然表达。"
+    },
+    {
+      "base": "new employee begins remotely",
+      "options": [
+        "remote onboarding",
+        "virtual induction",
+        "distributed-team orientation"
+      ],
+      "note": "induction 是英式入职培训表达。"
+    },
+    {
+      "base": "too many calls",
+      "options": [
+        "meeting overload",
+        "an excessive video-call schedule",
+        "synchronous communication burden"
+      ],
+      "note": "overload 强调数量造成负担。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Remote work removes + commuting constraint, yet introduces + coordination problem.",
+      "cn": "远程工作消除了某种通勤限制，却带来了某种协调问题。",
+      "example": "Remote work removes a daily commute, yet introduces the problem of informal isolation."
+    },
+    {
+      "pattern": "Without + shared practice, distributed colleagues may + negative outcome.",
+      "cn": "如果缺少某种共享做法，分散办公的同事可能会……。",
+      "example": "Without written decisions, distributed colleagues may act on different assumptions."
+    },
+    {
+      "pattern": "So long as + outcome + is clear, employees can be given greater freedom over + process.",
+      "cn": "只要结果明确，员工就可以在某过程上获得更大自由。",
+      "example": "So long as the outcome is clear, employees can be given greater freedom over when they concentrate."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "work from home",
+      "cn": "居家办公",
+      "example": "I work from home two days a week."
+    },
+    {
+      "text": "join a video call",
+      "cn": "参加视频会议",
+      "example": "I joined the video call a few minutes early."
+    },
+    {
+      "text": "miss the office atmosphere",
+      "cn": "想念办公室氛围",
+      "example": "Some remote employees miss the office atmosphere."
+    },
+    {
+      "text": "have a reliable connection",
+      "cn": "拥有稳定网络",
+      "example": "Remote staff need a reliable connection."
+    },
+    {
+      "text": "keep communication asynchronous",
+      "cn": "保持异步沟通",
+      "example": "We keep routine communication asynchronous to protect focused time."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I work at home since 2022.",
+      "correct": "I have worked from home since 2022.",
+      "why": "since 引出的持续状态用现在完成时；固定说法 work from home。"
+    },
+    {
+      "wrong": "We had an online meeting with three hours.",
+      "correct": "We had a three-hour online meeting.",
+      "why": "表示时长作前置定语用 three-hour。"
+    },
+    {
+      "wrong": "Remote work saves my commuting time.",
+      "correct": "Remote work saves me commuting time.",
+      "why": "save somebody time 是自然搭配。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Remote-first teams should write down decisions.",
+      "topicSentence": "Clear asynchronous records prevent location and time zone from determining who has access to information.",
+      "collocations": [
+        "document a decision",
+        "share project context",
+        "work across time zones",
+        "reduce unnecessary meetings"
+      ],
+      "argument": "Office teams can repair missing information through a quick conversation, but remote colleagues may not know that the conversation occurred. A brief written decision should state the choice, reason, owner and next step. This helps new members and prevents the same issue from being debated repeatedly. It also allows staff in another time zone to contribute without attending every call. Documentation becomes shared infrastructure rather than administrative decoration."
+    },
+    {
+      "viewpoint": "Hybrid work should be designed around activities, not fixed attendance quotas.",
+      "topicSentence": "Office time creates most value when colleagues know why they are gathering.",
+      "collocations": [
+        "coordinate in person",
+        "protect focused work",
+        "use office space purposefully",
+        "support informal learning"
+      ],
+      "argument": "Requiring everyone to attend on different days produces commuting without collaboration. Teams should identify tasks that benefit from physical presence, such as difficult planning, practical training or relationship-building. Individual analysis may be performed more effectively elsewhere if tools and home conditions are suitable. Agreed anchor days can preserve informal contact without making presence an end in itself. A purposeful hybrid model treats location as part of task design."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Would you like to work from home regularly?",
+      "answer": "I would like a mixed arrangement rather than working remotely every day. At home I can concentrate without commuting, especially on writing or analysis. In the office, quick questions and informal conversations are easier. Two remote days would give me flexibility without making me feel disconnected from the team. That balance would suit both my concentration and my need for regular human contact."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a place where you can work or study effectively.",
+      "answer": "There is a small desk beside a window in my home where I work well. It is not a separate office, but I keep the surface clear and use headphones when the building is noisy. The important feature is that I leave the desk when I finish instead of using it for entertainment. That routine creates a boundary in a limited space. I can concentrate there for about an hour before taking a short break. Natural light helps, although I close the curtain when reflections appear on the screen. I keep water nearby and write the next task on paper before opening email. During video calls the background is plain enough not to distract people. The arrangement is inexpensive, but each small choice reduces a source of friction, which is why I can begin work there quickly."
+    }
+  ],
+  "reading": {
+    "title": "The Meeting Created by Missing Documentation",
+    "paragraphs": [
+      "Remote teams are often accused of holding too many meetings, but the calendar may reveal a deeper information problem. When decisions, responsibilities and project history exist only in conversation, every new participant needs another conversation. A meeting becomes the search engine for organisational memory. The immediate exchange feels efficient, yet the same context must be reconstructed repeatedly.",
+      "Written documentation changes the timing of coordination. A short proposal circulated before discussion allows colleagues to examine evidence at their own pace, including those working in another time zone or communicating in a second language. The live meeting can then focus on disagreement and choice rather than presentation. Afterwards, a decision record prevents absence from becoming permanent exclusion.",
+      "Writing has costs. Recording every minor exchange produces an archive that nobody can navigate, and documents become misleading when circumstances change without an update. Teams need conventions: where a final decision lives, who maintains it and how superseded guidance is marked. Searchable titles and concise summaries matter more than polished prose. The aim is a usable trail, not a complete transcript.",
+      "Some work will remain conversational. Sensitive feedback, early relationship-building and ambiguous conflict often require immediate human response. The useful distinction is not between meetings and documents but between purposes. Information that must survive should be recorded; issues that require rapid mutual adjustment may deserve a call. A well-documented remote team can hold fewer meetings without communicating less, because shared knowledge no longer disappears when the call ends.",
+      "Onboarding shows the value of this infrastructure clearly. A new remote employee cannot absorb context by overhearing experienced colleagues. A concise map of current goals, recurring terms, decision owners and recent changes provides an initial route through the organisation. Scheduled conversations can then address interpretation and relationships instead of forcing the newcomer to collect basic facts from a series of unrelated calls."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why does the writer call a meeting a “search engine”?",
+        "answer": "A",
+        "explanation": "People use it to reconstruct information that was not recorded.",
+        "options": [
+          "People use it to reconstruct information that was not recorded.",
+          "Remote software automatically schedules it.",
+          "Participants search the internet during it.",
+          "It produces a complete transcript."
+        ]
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The passage recommends recording every minor exchange.",
+        "answer": "False",
+        "explanation": "Paragraph 3 says this creates an unusable archive."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "The writer says that information which must ______ should be recorded.",
+        "answer": "survive",
+        "explanation": "The final paragraph states “Information that must survive should be recorded”."
+      }
+    ]
+  }
+}

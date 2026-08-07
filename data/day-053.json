@@ -1,0 +1,349 @@
+{
+  "id": 53,
+  "topic": "History and Heritage",
+  "topicCN": "历史与遗产",
+  "category": "Culture",
+  "vocabulary": [
+    {
+      "word": "cultural landmark",
+      "ipa": "/ˌkʌltʃərəl ˈlændmɑːk/",
+      "meaning": "文化地标",
+      "collocation": "protect a cultural landmark",
+      "collocationCN": "保护文化地标"
+    },
+    {
+      "word": "historic building",
+      "ipa": "/hɪˌstɒrɪk ˈbɪldɪŋ/",
+      "meaning": "历史建筑",
+      "collocation": "restore a historic building",
+      "collocationCN": "修复历史建筑"
+    },
+    {
+      "word": "monument",
+      "ipa": "/ˈmɒnjəmənt/",
+      "meaning": "纪念碑；历史遗迹",
+      "collocation": "preserve a national monument",
+      "collocationCN": "保护国家纪念建筑"
+    },
+    {
+      "word": "ruins",
+      "ipa": "/ˈruːɪnz/",
+      "meaning": "遗址；废墟",
+      "collocation": "explore ancient ruins",
+      "collocationCN": "探访古代遗址"
+    },
+    {
+      "word": "archaeology",
+      "ipa": "/ˌɑːkiˈɒlədʒi/",
+      "meaning": "考古学",
+      "collocation": "study field archaeology",
+      "collocationCN": "学习田野考古"
+    },
+    {
+      "word": "excavation",
+      "ipa": "/ˌekskəˈveɪʃən/",
+      "meaning": "考古发掘",
+      "collocation": "conduct an archaeological excavation",
+      "collocationCN": "进行考古发掘"
+    },
+    {
+      "word": "historical record",
+      "ipa": "/hɪˌstɒrɪkəl ˈrekɔːd/",
+      "meaning": "历史记录",
+      "collocation": "consult the historical record",
+      "collocationCN": "查阅历史记录"
+    },
+    {
+      "word": "primary source",
+      "ipa": "/ˌpraɪməri ˈsɔːs/",
+      "meaning": "一手史料",
+      "collocation": "analyse a primary source",
+      "collocationCN": "分析一手史料"
+    },
+    {
+      "word": "eyewitness account",
+      "ipa": "/ˈaɪwɪtnəs əˌkaʊnt/",
+      "meaning": "目击者叙述",
+      "collocation": "compare eyewitness accounts",
+      "collocationCN": "比较目击者叙述"
+    },
+    {
+      "word": "timeline",
+      "ipa": "/ˈtaɪmlaɪn/",
+      "meaning": "时间线",
+      "collocation": "construct a historical timeline",
+      "collocationCN": "制作历史时间线"
+    },
+    {
+      "word": "chronology",
+      "ipa": "/krəˈnɒlədʒi/",
+      "meaning": "年代顺序",
+      "collocation": "establish the chronology of events",
+      "collocationCN": "确定事件的年代顺序"
+    },
+    {
+      "word": "legacy",
+      "ipa": "/ˈleɡəsi/",
+      "meaning": "历史遗产；影响",
+      "collocation": "leave a lasting legacy",
+      "collocationCN": "留下长久影响"
+    },
+    {
+      "word": "civilisation",
+      "ipa": "/ˌsɪvəlaɪˈzeɪʃən/",
+      "meaning": "文明",
+      "collocation": "trace the rise of a civilisation",
+      "collocationCN": "追溯一个文明的兴起"
+    },
+    {
+      "word": "historical context",
+      "ipa": "/hɪˌstɒrɪkəl ˈkɒntekst/",
+      "meaning": "历史背景",
+      "collocation": "place an event in historical context",
+      "collocationCN": "把事件置于历史背景中"
+    },
+    {
+      "word": "collective memory",
+      "ipa": "/kəˌlektɪv ˈmeməri/",
+      "meaning": "集体记忆",
+      "collocation": "shape collective memory",
+      "collocationCN": "塑造集体记忆"
+    },
+    {
+      "word": "conservation area",
+      "ipa": "/ˌkɒnsəˈveɪʃən ˈeəriə/",
+      "meaning": "历史建筑保护区",
+      "collocation": "designate a conservation area",
+      "collocationCN": "划定历史建筑保护区"
+    },
+    {
+      "word": "listed building",
+      "ipa": "/ˈlɪstɪd ˌbɪldɪŋ/",
+      "meaning": "受保护建筑",
+      "collocation": "convert a listed building",
+      "collocationCN": "改造受保护建筑"
+    },
+    {
+      "word": "adaptive reuse",
+      "ipa": "/əˌdæptɪv riːˈjuːs/",
+      "meaning": "适应性再利用",
+      "collocation": "support adaptive reuse of old buildings",
+      "collocationCN": "支持老建筑的适应性再利用"
+    },
+    {
+      "word": "authenticity",
+      "ipa": "/ˌɔːθenˈtɪsəti/",
+      "meaning": "真实性；原真性",
+      "collocation": "maintain historical authenticity",
+      "collocationCN": "保持历史原真性"
+    },
+    {
+      "word": "heritage tourism",
+      "ipa": "/ˈherɪtɪdʒ ˌtʊərɪzəm/",
+      "meaning": "遗产旅游",
+      "collocation": "manage heritage tourism responsibly",
+      "collocationCN": "负责任地管理遗产旅游"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "different",
+      "options": [
+        "distinct",
+        "varied",
+        "diverse"
+      ],
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论历史与遗产。"
+    },
+    {
+      "base": "common",
+      "options": [
+        "widespread",
+        "frequently observed",
+        "part of everyday life"
+      ],
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论历史与遗产。"
+    },
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论历史与遗产。"
+    },
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论历史与遗产。"
+    },
+    {
+      "base": "change",
+      "options": [
+        "shift",
+        "development",
+        "transformation"
+      ],
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论历史与遗产。"
+    },
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论历史与遗产。"
+    },
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论历史与遗产。"
+    },
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise the quality of"
+      ],
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论历史与遗产。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Preserving + heritage site + is worthwhile insofar as + present benefit/knowledge.",
+      "cn": "保护遗产地之所以值得，在于……。",
+      "example": "Preserving an industrial site is worthwhile insofar as it helps communities understand how work shaped the town."
+    },
+    {
+      "pattern": "The absence of + physical evidence + makes it harder to + historical action.",
+      "cn": "缺少实物证据使某种历史行为更困难。",
+      "example": "The absence of workers’ housing makes it harder to interpret the factory as a social system."
+    },
+    {
+      "pattern": "Rather than restoring + building + to one chosen date, conservators may + layered approach.",
+      "cn": "保护人员不把建筑恢复到某一日期，而可能采取分层方法。",
+      "example": "Rather than restoring the house to one chosen date, conservators may retain evidence from several periods."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "trace something back to",
+      "cn": "追溯到",
+      "example": "The settlement can be traced back to the twelfth century."
+    },
+    {
+      "text": "stand the test of time",
+      "cn": "经受时间考验",
+      "example": "The bridge has stood the test of time."
+    },
+    {
+      "text": "preserve for future generations",
+      "cn": "为后代保存",
+      "example": "Archives preserve fragile records for future generations."
+    },
+    {
+      "text": "shed light on the past",
+      "cn": "揭示过去",
+      "example": "Household accounts shed light on ordinary life."
+    },
+    {
+      "text": "strike a balance between old and new",
+      "cn": "在新旧之间取得平衡",
+      "example": "The project strikes a balance between old and new uses."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "This building has 500 years history.",
+      "correct": "This building has a 500-year history.",
+      "why": "复合形容词 500-year 用单数并加连字符。"
+    },
+    {
+      "wrong": "The castle was built since centuries.",
+      "correct": "The castle was built centuries ago.",
+      "why": "具体建造发生在过去，用 ago。"
+    },
+    {
+      "wrong": "We should protect these heritages.",
+      "correct": "We should protect these heritage sites.",
+      "why": "heritage 通常不可数；具体地点用 heritage sites。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Adaptive reuse can sustain heritage better than empty preservation.",
+      "topicSentence": "Giving an old building a compatible function can finance maintenance and keep it part of daily life.",
+      "collocations": [
+        "adapt a historic building",
+        "retain significant features",
+        "fund ongoing maintenance",
+        "serve a contemporary use"
+      ],
+      "argument": "A protected structure without a practical use may deteriorate while funds are repeatedly sought for emergency repair. Conversion into housing, workshops or public space can create income and regular oversight. New work should remain distinguishable and avoid destroying features that explain historical significance. Not every building can accept every function, and some places deserve limited access. Where compatible use exists, occupation can be a form of conservation rather than a threat to it."
+    },
+    {
+      "viewpoint": "Heritage decisions should include difficult histories.",
+      "topicSentence": "Public preservation should not select only stories that produce pride or attract visitors.",
+      "collocations": [
+        "confront a difficult past",
+        "preserve material evidence",
+        "include marginalised voices",
+        "support informed interpretation"
+      ],
+      "argument": "Factories, prisons and colonial sites may record exploitation as well as achievement. Removing uncomfortable evidence can make later understanding dependent on abstract text and allow communities to deny what occurred. Interpretation should include affected groups and distinguish explanation from celebration. Preserving a place does not endorse every value associated with it. It creates an opportunity to examine how past institutions shaped present conditions and responsibilities."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Are there many historic places where you live?",
+      "answer": "There are several older streets and one former industrial area, although many individual buildings have been replaced. I enjoy places where traces of different periods remain visible rather than everything being restored to look new. Clear information helps because an ordinary wall may have an interesting history that is easy to miss."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a historic place you would like to visit.",
+      "answer": "I would like to visit an ancient trading city whose streets and warehouses reflect contact between several cultures. I am interested less in one famous monument than in how the harbour, markets, places of worship and homes fitted together. I would join a guided walk because the remaining stones probably make little sense without maps and explanation. I would also like to see objects recovered through archaeology, especially everyday tools and records of trade. The place appeals to me because history there was created by movement and exchange rather than by a single ruler. Visiting would help me connect broad historical claims with the physical distances and practical systems that made trade possible."
+    }
+  ],
+  "reading": {
+    "title": "The Building Restored to a Date That Never Existed",
+    "paragraphs": [
+      "Restoration often promises to return a building to its original appearance. The phrase sounds precise, but long-lived buildings rarely have one authentic state. A house may gain a new staircase, lose a workshop and acquire windows over three centuries. Choosing which period to reveal is an interpretation, not a reversal of time.",
+      "Earlier restorers sometimes removed later additions to create stylistic unity. Their work preserved important structures but also erased evidence of changing use. A medieval wall and a twentieth-century repair can both explain how a community valued and adapted the place. Conservation now often favours minimum intervention, retaining sound material while documenting necessary change.",
+      "Visitors may find layered buildings harder to understand. Different floor levels, blocked doors and exposed fragments require explanation. Digital reconstruction can show several phases without rebuilding any one of them physically. However, vivid images may appear more certain than the archaeological evidence allows, so hypothetical elements should be clearly marked.",
+      "Function adds another layer. Modern safety, heating and accessibility standards require alteration if a building is to be used. A discreet lift may change historic fabric while enabling visitors who were previously excluded. Conservators weigh significance, reversibility and public benefit rather than applying a rule that all new material is harmful.",
+      "The result may look less perfect than a complete reconstruction. Its irregularities are part of the evidence. A building that shows successive choices allows visitors to ask why people repaired, divided or abandoned spaces. Conservation protects this capacity to investigate. It does not manufacture a visually consistent past that the building itself never experienced. Maintenance records are themselves historical evidence. Notes about leaking roofs, scarce materials or disputed repairs show how later generations understood the building. Archiving surveys and intervention decisions enables future conservators to distinguish old fabric from modern assumptions. Without that record, a careful repair can become another unexplained layer that later specialists mistakenly treat as original."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for paragraph 2.",
+        "answer": "The historical evidence lost through visual unity",
+        "explanation": "Paragraph 2 describes later additions being removed."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer opposes every modern alteration to a historic building.",
+        "answer": "No",
+        "explanation": "Paragraph 4 describes balancing access and significance."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What should happen to hypothetical elements in a digital reconstruction?",
+        "answer": "They should be clearly marked.",
+        "explanation": "Paragraph 3 states this."
+      }
+    ]
+  }
+}

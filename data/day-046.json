@@ -1,0 +1,355 @@
+{
+  "id": 46,
+  "topic": "Social Media",
+  "topicCN": "社交媒体",
+  "category": "Technology",
+  "vocabulary": [
+    {
+      "word": "feed",
+      "ipa": "/fiːd/",
+      "meaning": "信息流",
+      "collocation": "scroll through a social media feed",
+      "collocationCN": "浏览社交媒体信息流"
+    },
+    {
+      "word": "follower",
+      "ipa": "/ˈfɒləʊə/",
+      "meaning": "关注者；粉丝",
+      "collocation": "gain new followers",
+      "collocationCN": "获得新关注者"
+    },
+    {
+      "word": "viral",
+      "ipa": "/ˈvaɪrəl/",
+      "meaning": "迅速走红的",
+      "collocation": "go viral overnight",
+      "collocationCN": "一夜之间走红"
+    },
+    {
+      "word": "hashtag",
+      "ipa": "/ˈhæʃtæɡ/",
+      "meaning": "话题标签",
+      "collocation": "create a campaign hashtag",
+      "collocationCN": "创建活动话题标签"
+    },
+    {
+      "word": "influencer",
+      "ipa": "/ˈɪnfluənsə/",
+      "meaning": "网络博主；影响者",
+      "collocation": "partner with an influencer",
+      "collocationCN": "与网络博主合作"
+    },
+    {
+      "word": "user-generated",
+      "ipa": "/ˌjuːzə ˈdʒenəreɪtɪd/",
+      "meaning": "用户生成的",
+      "collocation": "share user-generated content",
+      "collocationCN": "分享用户生成的内容"
+    },
+    {
+      "word": "algorithm",
+      "ipa": "/ˈælɡərɪðəm/",
+      "meaning": "算法",
+      "collocation": "recommend content through an algorithm",
+      "collocationCN": "通过算法推荐内容"
+    },
+    {
+      "word": "notification",
+      "ipa": "/ˌnəʊtɪfɪˈkeɪʃən/",
+      "meaning": "通知提醒",
+      "collocation": "turn off notifications",
+      "collocationCN": "关闭通知"
+    },
+    {
+      "word": "privacy setting",
+      "ipa": "/ˈprɪvəsi ˌsetɪŋ/",
+      "meaning": "隐私设置",
+      "collocation": "review your privacy settings",
+      "collocationCN": "检查隐私设置"
+    },
+    {
+      "word": "digital footprint",
+      "ipa": "/ˌdɪdʒɪtəl ˈfʊtprɪnt/",
+      "meaning": "数字足迹",
+      "collocation": "manage a digital footprint",
+      "collocationCN": "管理数字足迹"
+    },
+    {
+      "word": "doomscrolling",
+      "ipa": "/ˈduːmskrəʊlɪŋ/",
+      "meaning": "不停刷负面消息",
+      "collocation": "fall into doomscrolling",
+      "collocationCN": "陷入不断刷负面消息的状态"
+    },
+    {
+      "word": "mute",
+      "ipa": "/mjuːt/",
+      "meaning": "静音；屏蔽",
+      "collocation": "mute an unwanted account",
+      "collocationCN": "屏蔽不想看的账号"
+    },
+    {
+      "word": "content creator",
+      "ipa": "/ˈkɒntent kriˌeɪtə/",
+      "meaning": "内容创作者",
+      "collocation": "support independent content creators",
+      "collocationCN": "支持独立内容创作者"
+    },
+    {
+      "word": "comment thread",
+      "ipa": "/ˈkɒment θred/",
+      "meaning": "评论串",
+      "collocation": "join a comment thread",
+      "collocationCN": "参与评论讨论"
+    },
+    {
+      "word": "curate",
+      "ipa": "/kjʊəˈreɪt/",
+      "meaning": "筛选并组织",
+      "collocation": "curate an online profile",
+      "collocationCN": "精心经营网络主页"
+    },
+    {
+      "word": "echo chamber",
+      "ipa": "/ˈekəʊ ˌtʃeɪmbə/",
+      "meaning": "信息茧房",
+      "collocation": "be trapped in an echo chamber",
+      "collocationCN": "困在信息茧房中"
+    },
+    {
+      "word": "screen break",
+      "ipa": "/ˈskriːn breɪk/",
+      "meaning": "暂离屏幕",
+      "collocation": "take a screen break",
+      "collocationCN": "暂时离开屏幕"
+    },
+    {
+      "word": "direct message",
+      "ipa": "/dəˌrekt ˈmesɪdʒ/",
+      "meaning": "私信",
+      "collocation": "send a direct message",
+      "collocationCN": "发送私信"
+    },
+    {
+      "word": "online harassment",
+      "ipa": "/ˌɒnlaɪn ˈhærəsmənt/",
+      "meaning": "网络骚扰",
+      "collocation": "report online harassment",
+      "collocationCN": "举报网络骚扰"
+    },
+    {
+      "word": "fact-check",
+      "ipa": "/ˈfækt tʃek/",
+      "meaning": "核实信息",
+      "collocation": "fact-check a widely shared post",
+      "collocationCN": "核查广泛转发的帖子"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "choice",
+      "options": [
+        "option",
+        "alternative",
+        "decision"
+      ],
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论社交媒体。"
+    },
+    {
+      "base": "cause",
+      "options": [
+        "lead to",
+        "contribute to",
+        "give rise to"
+      ],
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论社交媒体。"
+    },
+    {
+      "base": "benefit",
+      "options": [
+        "advantage",
+        "positive effect",
+        "gain"
+      ],
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论社交媒体。"
+    },
+    {
+      "base": "harm",
+      "options": [
+        "damage",
+        "negative effect",
+        "undermine"
+      ],
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论社交媒体。"
+    },
+    {
+      "base": "support",
+      "options": [
+        "assistance",
+        "backing",
+        "provision"
+      ],
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论社交媒体。"
+    },
+    {
+      "base": "different",
+      "options": [
+        "distinct",
+        "varied",
+        "diverse"
+      ],
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论社交媒体。"
+    },
+    {
+      "base": "common",
+      "options": [
+        "widespread",
+        "frequently observed",
+        "part of everyday life"
+      ],
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论社交媒体。"
+    },
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论社交媒体。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "The content users see is shaped not only by + choice, but also by + platform mechanism.",
+      "cn": "用户看到的内容不仅由个人选择决定，也受平台机制影响。",
+      "example": "The content users see is shaped not only by their follows, but also by recommendation algorithms."
+    },
+    {
+      "pattern": "By rewarding + metric, platforms may unintentionally encourage + behaviour.",
+      "cn": "平台通过奖励某指标，可能无意中鼓励某行为。",
+      "example": "By rewarding rapid engagement, platforms may unintentionally encourage provocative posts."
+    },
+    {
+      "pattern": "Not until + user action + does + platform effect + become visible.",
+      "cn": "直到用户采取某行动，平台影响才变得明显。",
+      "example": "Not until a user compares feeds does the effect of personalisation become visible."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "scroll through my feed",
+      "cn": "浏览动态",
+      "example": "I scroll through my feed on the train."
+    },
+    {
+      "text": "go viral",
+      "cn": "迅速走红",
+      "example": "The clip went viral before its context was checked."
+    },
+    {
+      "text": "take a break from social media",
+      "cn": "暂停使用社交媒体",
+      "example": "I take a break from social media when it affects my sleep."
+    },
+    {
+      "text": "curate an online identity",
+      "cn": "塑造网络身份",
+      "example": "Users often curate an online identity through selective posts."
+    },
+    {
+      "text": "drive online engagement",
+      "cn": "推动线上互动",
+      "example": "Controversial headlines can drive online engagement."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I use social medias every day.",
+      "correct": "I use social media every day.",
+      "why": "social media 通常作不可数集合概念。"
+    },
+    {
+      "wrong": "The post made me to feel angry.",
+      "correct": "The post made me feel angry.",
+      "why": "make somebody do 不带 to。"
+    },
+    {
+      "wrong": "I shared it to my friends.",
+      "correct": "I shared it with my friends.",
+      "why": "share something with somebody。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Users need meaningful control over recommendation systems.",
+      "topicSentence": "A choice between accepting personalisation and leaving a platform is not sufficient control.",
+      "collocations": [
+        "adjust recommendation settings",
+        "explain content ranking",
+        "protect user autonomy",
+        "reset a personal profile"
+      ],
+      "argument": "Recommendation systems influence attention by deciding which posts become visible first. Users should be able to reduce particular signals, inspect why content was suggested and reset accumulated assumptions. These options need plain language rather than technical labels hidden in settings. Full transparency about complex code is unrealistic and may enable manipulation. Meaningful control means altering the practical effect of personalisation without requiring specialist knowledge."
+    },
+    {
+      "viewpoint": "Engagement is an inadequate measure of social value.",
+      "topicSentence": "Platforms should not assume that content generating the most reaction creates the best user experience.",
+      "collocations": [
+        "maximise engagement",
+        "amplify emotional content",
+        "measure user well-being",
+        "reward constructive interaction"
+      ],
+      "argument": "Anger, shock and conflict can keep users clicking even when they later regret the time spent. A ranking system optimised only for immediate reaction may therefore amplify content that weakens trust or concentration. Platforms can include satisfaction surveys, repeated unwanted exposure and meaningful interaction in evaluation. No single metric captures social value, and commercial incentives remain powerful. Broader measurement at least makes harmful side effects visible instead of classifying every extra minute as success."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What do you mainly use social media for?",
+      "answer": "I mainly use it to keep up with friends who live elsewhere and to follow a few specialist accounts. I rarely post daily updates, but I send articles or photographs directly. The useful part is maintaining weak contact; the unhelpful part is opening the app for one message and scrolling much longer than intended."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe something useful you found through social media.",
+      "answer": "I found a free public lecture through a local museum’s social-media page. The post contained a short video from the speaker and a clear booking link, so I could judge whether the topic interested me. I attended with a friend and later followed the reading list that the speaker shared. Without the post, I would not have searched the museum’s events page that week. What made the discovery useful was that it connected online information to an offline experience. I also appreciated that the post was informative rather than exaggerated. It gave the date, level and purpose directly, which helped the right audience find it without pretending that everyone needed to attend."
+    }
+  ],
+  "reading": {
+    "title": "The Feed That Learns From a Pause",
+    "paragraphs": [
+      "A social-media user does not need to press “like” for a platform to learn from behaviour. A pause over a video, a replay or a decision not to scroll can all become signals. Recommendation systems combine these traces with follows, searches and the behaviour of similar users to predict which item is most likely to hold attention next.",
+      "The prediction is not a direct reading of preference. Someone may pause because a post is confusing, offensive or difficult to believe. If the system interprets attention as approval, it can supply more of the same material. The user then sees repetition created partly by a misunderstanding of the first response. Strong emotion is particularly ambiguous because fascination and distress can look similar in behavioural data.",
+      "Feedback loops develop over time. A small initial difference in clicking can produce a more specialised feed, which offers fewer opportunities to demonstrate other interests. Personalisation may be convenient for music or hobbies, yet risky when it narrows political or health information. The system does not need to conceal opposing views deliberately; ranking alone can make them practically invisible.",
+      "Researchers audit recommendations by creating controlled accounts, varying one behaviour and comparing what follows. This method reveals patterns but cannot reproduce the history of a real user or every version of a changing platform. Independent access to suitable data would improve scrutiny, although privacy and commercial confidentiality place reasonable limits on what can be shared.",
+      "For users, the practical lesson is that a feed is neither a neutral window nor a perfect portrait of personal desire. It is an evolving prediction shaped by measurable behaviour and a platform objective. Controls that allow people to remove signals, request chronological order or understand a recommendation can interrupt the loop. They do not remove influence, but they make it more open to correction."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "A pause always indicates that a user approves of a post.",
+        "answer": "False",
+        "explanation": "Paragraph 2 lists confusion and offence as other reasons."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "How can opposing views become invisible without being deliberately hidden?",
+        "answer": "C",
+        "explanation": "Ranking can repeatedly prioritise specialised content.",
+        "options": [
+          "Users delete every opposing account.",
+          "Auditors remove the posts.",
+          "Ranking can repeatedly prioritise specialised content.",
+          "Chronological feeds block them."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Controlled accounts cannot reproduce the complete ______ of a real user.",
+        "answer": "history",
+        "explanation": "Paragraph 4 uses this limitation."
+      }
+    ]
+  }
+}

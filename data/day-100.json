@@ -1,0 +1,355 @@
+{
+  "id": 100,
+  "topic": "Global Citizenship",
+  "topicCN": "全球公民意识",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "global citizenship",
+      "ipa": "/ˈɡləʊbəl ˈsɪtɪzənʃɪp/",
+      "meaning": "全球公民意识",
+      "collocation": "foster global citizenship",
+      "collocationCN": "培养全球公民意识"
+    },
+    {
+      "word": "shared responsibility",
+      "ipa": "/ʃeəd rɪˌspɒnsəˈbɪləti/",
+      "meaning": "共同责任",
+      "collocation": "accept shared responsibility",
+      "collocationCN": "承担共同责任"
+    },
+    {
+      "word": "cultural awareness",
+      "ipa": "/ˈkʌltʃərəl əˈweənəs/",
+      "meaning": "文化意识",
+      "collocation": "develop cultural awareness",
+      "collocationCN": "培养文化意识"
+    },
+    {
+      "word": "interdependence",
+      "ipa": "/ˌɪntədɪˈpendəns/",
+      "meaning": "相互依存",
+      "collocation": "recognise global interdependence",
+      "collocationCN": "认识全球相互依存"
+    },
+    {
+      "word": "civic participation",
+      "ipa": "/ˈsɪvɪk pɑːˌtɪsɪˈpeɪʃən/",
+      "meaning": "公民参与",
+      "collocation": "encourage civic participation",
+      "collocationCN": "鼓励公民参与"
+    },
+    {
+      "word": "cross-border issue",
+      "ipa": "/ˌkrɒs ˈbɔːdə ˈɪʃuː/",
+      "meaning": "跨境问题",
+      "collocation": "address a cross-border issue",
+      "collocationCN": "应对跨境问题"
+    },
+    {
+      "word": "human dignity",
+      "ipa": "/ˈhjuːmən ˈdɪɡnəti/",
+      "meaning": "人的尊严",
+      "collocation": "respect human dignity",
+      "collocationCN": "尊重人的尊严"
+    },
+    {
+      "word": "global perspective",
+      "ipa": "/ˈɡləʊbəl pəˈspektɪv/",
+      "meaning": "全球视角",
+      "collocation": "adopt a global perspective",
+      "collocationCN": "采取全球视角"
+    },
+    {
+      "word": "informed engagement",
+      "ipa": "/ɪnˌfɔːmd ɪnˈɡeɪdʒmənt/",
+      "meaning": "知情参与",
+      "collocation": "promote informed engagement",
+      "collocationCN": "促进知情参与"
+    },
+    {
+      "word": "mutual understanding",
+      "ipa": "/ˈmjuːtʃuəl ˌʌndəˈstændɪŋ/",
+      "meaning": "相互理解",
+      "collocation": "build mutual understanding",
+      "collocationCN": "增进相互理解"
+    },
+    {
+      "word": "ethical consumption",
+      "ipa": "/ˈeθɪkəl kənˈsʌmpʃən/",
+      "meaning": "合乎道德的消费",
+      "collocation": "practise ethical consumption",
+      "collocationCN": "践行道德消费"
+    },
+    {
+      "word": "media literacy",
+      "ipa": "/ˈmiːdiə ˈlɪtərəsi/",
+      "meaning": "媒体素养",
+      "collocation": "improve media literacy",
+      "collocationCN": "提高媒体素养"
+    },
+    {
+      "word": "stereotype",
+      "ipa": "/ˈsteriətaɪp/",
+      "meaning": "刻板印象",
+      "collocation": "challenge a stereotype",
+      "collocationCN": "质疑刻板印象"
+    },
+    {
+      "word": "solidarity",
+      "ipa": "/ˌsɒlɪˈdærəti/",
+      "meaning": "团结互助",
+      "collocation": "show solidarity with others",
+      "collocationCN": "声援他人"
+    },
+    {
+      "word": "collective action",
+      "ipa": "/kəˈlektɪv ˈækʃən/",
+      "meaning": "集体行动",
+      "collocation": "mobilise collective action",
+      "collocationCN": "推动集体行动"
+    },
+    {
+      "word": "hear another side",
+      "ipa": "/hɪər əˈnʌðə saɪd/",
+      "meaning": "听取另一方观点",
+      "collocation": "be willing to hear another side",
+      "collocationCN": "愿意听取另一方观点"
+    },
+    {
+      "word": "look beyond headlines",
+      "ipa": "/lʊk bɪˈjɒnd ˈhedlaɪnz/",
+      "meaning": "不只看新闻标题",
+      "collocation": "look beyond the headlines",
+      "collocationCN": "深入了解标题之外的信息"
+    },
+    {
+      "word": "speak up",
+      "ipa": "/spiːk ʌp/",
+      "meaning": "公开表达立场",
+      "collocation": "speak up against unfairness",
+      "collocationCN": "公开反对不公"
+    },
+    {
+      "word": "do your part",
+      "ipa": "/duː jɔː pɑːt/",
+      "meaning": "尽自己的一份力",
+      "collocation": "do your part locally",
+      "collocationCN": "在本地尽一份力"
+    },
+    {
+      "word": "find common ground",
+      "ipa": "/faɪnd ˈkɒmən ɡraʊnd/",
+      "meaning": "寻找共同点",
+      "collocation": "find common ground across differences",
+      "collocationCN": "跨越分歧寻找共同点"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "global citizen",
+      "options": [
+        "an internationally minded citizen",
+        "a person aware of global responsibilities",
+        "someone who connects local choices with wider consequences"
+      ],
+      "note": "internationally minded强调视野，后两项强调责任与行动。"
+    },
+    {
+      "base": "understand other cultures",
+      "options": [
+        "develop intercultural understanding",
+        "appreciate different cultural perspectives",
+        "interpret unfamiliar practices in context"
+      ],
+      "note": "in context提醒学习者避免孤立判断。"
+    },
+    {
+      "base": "worldwide problems",
+      "options": [
+        "global challenges",
+        "issues that cross national borders",
+        "problems requiring international cooperation"
+      ],
+      "note": "requiring international cooperation突出解决方式。"
+    },
+    {
+      "base": "help other people",
+      "options": [
+        "support others",
+        "act in solidarity with affected communities",
+        "contribute to collective well-being"
+      ],
+      "note": "solidarity不仅是帮助，也含平等合作。"
+    },
+    {
+      "base": "take part in society",
+      "options": [
+        "participate in civic life",
+        "engage with public issues",
+        "contribute to community decision-making"
+      ],
+      "note": "engage适合从讨论到行动的多种参与。"
+    },
+    {
+      "base": "reliable information",
+      "options": [
+        "credible evidence",
+        "information from trustworthy sources",
+        "claims supported by verifiable evidence"
+      ],
+      "note": "verifiable强调能够核实。"
+    },
+    {
+      "base": "different opinions",
+      "options": [
+        "diverse perspectives",
+        "contrasting points of view",
+        "interpretations shaped by different experiences"
+      ],
+      "note": "最后一项说明观点差异的来源。"
+    },
+    {
+      "base": "responsible choices",
+      "options": [
+        "ethically informed decisions",
+        "choices made with wider consequences in mind",
+        "decisions that consider effects on other people"
+      ],
+      "note": "ethically informed不等于存在唯一正确答案。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Being aware of + global issue + is valuable only if it leads to + realistic action.",
+      "cn": "了解某个全球问题固然有价值，但这种认识只有转化为现实行动才真正有意义。",
+      "example": "Being aware of unfair working conditions is valuable only if it leads to more informed purchasing decisions."
+    },
+    {
+      "pattern": "While + local action + cannot solve + global problem + on its own, it can + meaningful contribution.",
+      "cn": "虽然某项本地行动无法独自解决全球问题，但它能够作出有意义的贡献。",
+      "example": "While a school exchange cannot solve international conflict on its own, it can challenge stereotypes among participants."
+    },
+    {
+      "pattern": "Rather than assuming that + group + shares one view, we should + action that recognises diversity.",
+      "cn": "与其假定某一群体持有同一种观点，我们更应采取承认其内部多样性的行动。",
+      "example": "Rather than assuming that young people share one view, we should listen to experiences from different regions and backgrounds."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "see an issue from another angle",
+      "cn": "从另一个角度看问题",
+      "example": "Talking to an exchange student helped me see the issue from another angle."
+    },
+    {
+      "text": "do something useful close to home",
+      "cn": "在身边做些有用的事",
+      "example": "You can care about global problems and still do something useful close to home."
+    },
+    {
+      "text": "question what you see online",
+      "cn": "质疑并核实网上内容",
+      "example": "Responsible citizens question what they see online before sharing it."
+    },
+    {
+      "text": "connect local action with global goals",
+      "cn": "把本地行动与全球目标联系起来",
+      "example": "The campaign connects local action with global goals."
+    },
+    {
+      "text": "participate on equal terms",
+      "cn": "以平等身份参与",
+      "example": "Partnerships work better when communities participate on equal terms."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "We should respect every cultures.",
+      "correct": "We should respect every culture.",
+      "why": "every后接可数名词单数。"
+    },
+    {
+      "wrong": "Global citizens care about the issues happened abroad.",
+      "correct": "Global citizens care about issues happening abroad.",
+      "why": "happen是不及物动词，不能用过去分词happened作后置修饰。"
+    },
+    {
+      "wrong": "People from different countries should understand with each other.",
+      "correct": "People from different countries should understand each other.",
+      "why": "understand是及物动词，直接接each other，不加with。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Global citizenship education should begin with evidence, not slogans.",
+      "topicSentence": "Students become responsible global participants by learning how to investigate claims and recognise whose voices are missing.",
+      "collocations": [
+        "evaluate credible sources",
+        "recognise multiple perspectives",
+        "avoid simplistic stereotypes",
+        "make informed judgements"
+      ],
+      "argument": "A memorable campaign can raise concern about a distant crisis, but concern based on an inaccurate story may reinforce stereotypes instead of helping. Students should compare sources, trace images to their origin and ask whether affected communities describe the issue in the same way. For example, analysing competing reports about a supply chain teaches both media literacy and economic interdependence. This method may produce fewer easy answers, yet it develops judgement that can be applied beyond one lesson. Global education should therefore assess how students reason, not how readily they repeat approved language."
+    },
+    {
+      "viewpoint": "Local participation is a credible form of global responsibility.",
+      "topicSentence": "Citizens do not need to work abroad in order to contribute meaningfully to global goals.",
+      "collocations": [
+        "translate principles into practice",
+        "strengthen local participation",
+        "address shared challenges",
+        "create cumulative impact"
+      ],
+      "argument": "Climate resilience, public health and social inclusion are international concerns, but their effects are experienced in particular neighbourhoods. A resident who helps design a safer heat plan is acting locally while contributing to a challenge shared by cities worldwide. Local involvement also provides feedback: broad ideals are tested against budgets, competing needs and lived experience. When communities exchange the lessons from such projects, small actions become knowledge that others can adapt. Global citizenship is therefore strongest when wider awareness and sustained local commitment reinforce each other."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe an experience that helped you understand people from another background.",
+      "answer": "I worked on a short online project with students from three different countries. We had to design a campaign about reducing food waste, and at first I assumed everyone would focus on household habits. One teammate explained that in her area the larger problem was unreliable refrigerated transport, while another described strict supermarket appearance standards. Those examples changed our campaign because they showed that the same issue can have quite different causes. We occasionally misunderstood each other’s humour and meeting times, but asking simple questions solved most problems. The experience did not make me an expert on anyone else’s culture. It did teach me to delay quick conclusions and to look for local context before proposing a universal solution."
+    },
+    {
+      "part": "Part 3",
+      "question": "Can global citizenship conflict with national identity?",
+      "answer": "It can if either identity is presented as demanding unquestioning loyalty, but they do not inherently conflict. People usually learn responsibility through families, towns and national institutions; those attachments can motivate them to protect others rather than exclude them. Global citizenship adds an awareness that some decisions affect people beyond national borders and that human dignity is not limited by nationality. Genuine tensions still arise over taxes, migration or environmental costs, so vague appeals to unity are insufficient. Citizens should be able to debate those trade-offs while recognising obligations at several levels. In my view, identities can overlap without becoming identical."
+    }
+  ],
+  "reading": {
+    "title": "A Classroom Map with Moving Borders",
+    "paragraphs": [
+      "On the first day of a global citizenship course, students were asked to place coloured pins on a world map showing where their clothes, breakfast and mobile phones had come from. The activity quickly filled the map and illustrated interdependence. It also produced a misleadingly tidy picture: one pin represented an entire country, and each product appeared to have a single origin, although its materials, labour, finance and transport connected several places.",
+      "The teacher did not discard the exercise. Instead, the class chose one cotton shirt and replaced its pin with a chain of questions. Where was the cotton grown? Who dyed the fabric, under what safety rules, and where did the retailer pay tax? Published company data answered some questions, while independent reports contradicted several claims. Students discovered that uncertainty was not a reason to stop investigating; it was information about what consumers and regulators could not readily see.",
+      "A second complication concerned voice. Early presentations described factory workers chiefly as victims awaiting help from wealthier consumers. When the class watched interviews produced by a workers’ association, its members spoke about wages but also transport, childcare and the right to organise. Their priorities did not always match the campaign proposed by the students. The shift was uncomfortable, since it required participants to surrender a simple story in which good intentions guaranteed useful action.",
+      "The final assignment was deliberately local. Groups examined uniforms purchased by their own school and submitted questions about supplier standards, repair and reuse. They could recommend changes, but had to estimate costs and consult cleaning staff, parents and the purchasing manager. One group abandoned a proposal to replace every uniform immediately after calculating the waste this would create; it suggested a phased purchasing policy instead.",
+      "Critics sometimes dismiss global citizenship lessons as either abstract idealism or political persuasion. This course offered a narrower claim. It did not tell students that one label or campaign could resolve an international supply chain. It taught them to follow connections, test evidence, hear from people represented in their arguments and revise a proposal when consequences became visible. The map remained on the wall, but by the end its most useful features were not the pins. They were the lines, questions and corrections between them."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for paragraph C.",
+        "answer": "Listening changes the story",
+        "explanation": "Paragraph C shows how workers’ own accounts challenged the students’ victim narrative.",
+        "options": [
+          "A product with one clear origin",
+          "Listening changes the story",
+          "Why schools stopped buying uniforms",
+          "A map that answered every question"
+        ]
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The students’ first proposal about replacing uniforms was implemented immediately.",
+        "answer": "False",
+        "explanation": "Paragraph 4 states that the group abandoned immediate replacement and proposed a phased policy."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "Which group produced the interviews that changed how students viewed factory workers?",
+        "answer": "a workers’ association",
+        "explanation": "Paragraph 3 identifies a workers’ association as the producer of the interviews."
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "id": 37,
+  "topic": "Job Satisfaction",
+  "topicCN": "工作满意度",
+  "category": "Work",
+  "vocabulary": [
+    {
+      "word": "job satisfaction",
+      "ipa": "/ˈdʒɒb sætɪsˌfækʃən/",
+      "meaning": "工作满意度",
+      "collocation": "report high levels of job satisfaction",
+      "collocationCN": "表示具有较高工作满意度"
+    },
+    {
+      "word": "meaningful work",
+      "ipa": "/ˌmiːnɪŋfəl ˈwɜːk/",
+      "meaning": "有意义的工作",
+      "collocation": "derive purpose from meaningful work",
+      "collocationCN": "从有意义的工作中获得使命感"
+    },
+    {
+      "word": "intrinsic motivation",
+      "ipa": "/ɪnˌtrɪnsɪk məʊtɪˈveɪʃən/",
+      "meaning": "内在动机",
+      "collocation": "strengthen employees’ intrinsic motivation",
+      "collocationCN": "增强员工的内在动机"
+    },
+    {
+      "word": "autonomy",
+      "ipa": "/ɔːˈtɒnəmi/",
+      "meaning": "自主权",
+      "collocation": "give employees greater autonomy",
+      "collocationCN": "给予员工更大的自主权"
+    },
+    {
+      "word": "recognition",
+      "ipa": "/ˌrekəɡˈnɪʃən/",
+      "meaning": "认可；表彰",
+      "collocation": "receive recognition for good work",
+      "collocationCN": "因出色工作获得认可"
+    },
+    {
+      "word": "sense of purpose",
+      "ipa": "/ˌsens əv ˈpɜːpəs/",
+      "meaning": "使命感",
+      "collocation": "develop a strong sense of purpose",
+      "collocationCN": "形成强烈的使命感"
+    },
+    {
+      "word": "employee engagement",
+      "ipa": "/ɪmˌplɔɪiː ɪnˈɡeɪdʒmənt/",
+      "meaning": "员工敬业度",
+      "collocation": "measure employee engagement regularly",
+      "collocationCN": "定期衡量员工敬业度"
+    },
+    {
+      "word": "professional growth",
+      "ipa": "/prəˌfeʃənəl ˈɡrəʊθ/",
+      "meaning": "职业成长",
+      "collocation": "create opportunities for professional growth",
+      "collocationCN": "创造职业成长机会"
+    },
+    {
+      "word": "workplace well-being",
+      "ipa": "/ˌwɜːkpleɪs welˈbiːɪŋ/",
+      "meaning": "职场幸福感",
+      "collocation": "prioritise workplace well-being",
+      "collocationCN": "优先考虑职场幸福感"
+    },
+    {
+      "word": "fair compensation",
+      "ipa": "/ˌfeə kɒmpenˈseɪʃən/",
+      "meaning": "公平薪酬",
+      "collocation": "provide fair compensation",
+      "collocationCN": "提供公平薪酬"
+    },
+    {
+      "word": "supportive supervisor",
+      "ipa": "/səˌpɔːtɪv ˈsuːpəvaɪzə/",
+      "meaning": "给予支持的主管",
+      "collocation": "work under a supportive supervisor",
+      "collocationCN": "在支持员工的主管手下工作"
+    },
+    {
+      "word": "employee retention",
+      "ipa": "/ɪmˌplɔɪiː rɪˈtenʃən/",
+      "meaning": "员工留任",
+      "collocation": "improve employee retention",
+      "collocationCN": "提高员工留任率"
+    },
+    {
+      "word": "occupational burnout",
+      "ipa": "/ˌɒkjəˈpeɪʃənəl ˈbɜːnaʊt/",
+      "meaning": "职业倦怠",
+      "collocation": "recover from occupational burnout",
+      "collocationCN": "从职业倦怠中恢复"
+    },
+    {
+      "word": "monotonous",
+      "ipa": "/məˈnɒtənəs/",
+      "meaning": "单调乏味的",
+      "collocation": "find repetitive tasks monotonous",
+      "collocationCN": "觉得重复性任务单调乏味"
+    },
+    {
+      "word": "underappreciated",
+      "ipa": "/ˌʌndərəˈpriːʃieɪtɪd/",
+      "meaning": "未得到充分赏识的",
+      "collocation": "feel underappreciated by management",
+      "collocationCN": "觉得没有得到管理层充分赏识"
+    },
+    {
+      "word": "take pride in your work",
+      "ipa": "/teɪk ˈpraɪd ɪn jɔː wɜːk/",
+      "meaning": "为自己的工作感到自豪",
+      "collocation": "take genuine pride in your work",
+      "collocationCN": "真心为自己的工作感到自豪"
+    },
+    {
+      "word": "feel valued",
+      "ipa": "/fiːl ˈvæljuːd/",
+      "meaning": "感到被重视",
+      "collocation": "make every team member feel valued",
+      "collocationCN": "让每位团队成员感到受重视"
+    },
+    {
+      "word": "get on with colleagues",
+      "ipa": "/ɡet ˈɒn wɪð ˌkɒliːɡz/",
+      "meaning": "与同事相处融洽",
+      "collocation": "get on well with your colleagues",
+      "collocationCN": "与同事相处融洽"
+    },
+    {
+      "word": "look forward to work",
+      "ipa": "/lʊk ˌfɔːwəd tə ˈwɜːk/",
+      "meaning": "期待上班",
+      "collocation": "have a reason to look forward to work",
+      "collocationCN": "有期待上班的理由"
+    },
+    {
+      "word": "feel stuck in a rut",
+      "ipa": "/fiːl stʌk ɪn ə ˈrʌt/",
+      "meaning": "感觉工作一成不变、难有进展",
+      "collocation": "feel stuck in a rut after years in the same role",
+      "collocationCN": "多年担任同一职位后感到停滞不前"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "enjoy my job",
+      "options": [
+        "experience job satisfaction",
+        "find work rewarding",
+        "feel fulfilled at work"
+      ],
+      "note": "fulfilment 比 enjoyment 更深。"
+    },
+    {
+      "base": "work feels important",
+      "options": [
+        "experience meaningful work",
+        "see a valuable contribution",
+        "connect tasks to outcomes"
+      ],
+      "note": "meaningful 不等于条件良好。"
+    },
+    {
+      "base": "freedom in a job",
+      "options": [
+        "workplace autonomy",
+        "discretion over methods",
+        "independent professional judgement"
+      ],
+      "note": "autonomy 需配合清晰目标。"
+    },
+    {
+      "base": "praise from a manager",
+      "options": [
+        "specific recognition",
+        "acknowledgement of contribution",
+        "credible positive feedback"
+      ],
+      "note": "recognition 应说明贡献。"
+    },
+    {
+      "base": "chance to improve",
+      "options": [
+        "room to grow",
+        "development opportunity",
+        "prospect of skill progression"
+      ],
+      "note": "growth 不只指升职。"
+    },
+    {
+      "base": "tired of repetition",
+      "options": [
+        "stuck in a rut",
+        "bored by routine",
+        "limited by monotonous work"
+      ],
+      "note": "stuck in a rut 偏口语。"
+    },
+    {
+      "base": "good job conditions",
+      "options": [
+        "acceptable employment conditions",
+        "supportive management",
+        "a well-designed role"
+      ],
+      "note": "job design 会影响满意度。"
+    },
+    {
+      "base": "leave because unhappy",
+      "options": [
+        "voluntary turnover",
+        "resign from the position",
+        "seek more satisfying work"
+      ],
+      "note": "turnover 是组织层面的离职率。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Employees tend to find work more satisfying when + psychological condition.",
+      "cn": "当某种心理条件得到满足时，员工往往更满意。",
+      "example": "Employees tend to find work more satisfying when they can see the result of their effort."
+    },
+    {
+      "pattern": "Even a well-paid role may become + negative quality + if + condition.",
+      "cn": "如果存在某种情况，即使薪资不错的岗位也可能变得……。",
+      "example": "Even a well-paid role may become exhausting if every decision requires approval."
+    },
+    {
+      "pattern": "What matters is not simply whether + feedback exists, but whether + useful property.",
+      "cn": "重要的不只是有没有反馈，还在于反馈是否……。",
+      "example": "What matters is not simply whether feedback exists, but whether it is fair and actionable."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "get a sense of achievement",
+      "cn": "获得成就感",
+      "example": "Finishing a difficult repair gives me a sense of achievement."
+    },
+    {
+      "text": "feel valued at work",
+      "cn": "在工作中感到被重视",
+      "example": "People feel valued at work when their contribution is recognised."
+    },
+    {
+      "text": "be stuck in a rut",
+      "cn": "陷入一成不变的状态",
+      "example": "I changed responsibilities because I felt stuck in a rut."
+    },
+    {
+      "text": "have room to grow",
+      "cn": "有成长空间",
+      "example": "The role is demanding, but I have room to grow."
+    },
+    {
+      "text": "take pride in my work",
+      "cn": "为自己的工作感到自豪",
+      "example": "Craft workers often take pride in the quality of the finished object."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I am satisfied of my job.",
+      "correct": "I am satisfied with my job.",
+      "why": "satisfied with 是固定搭配。"
+    },
+    {
+      "wrong": "The work gives me many satisfactions.",
+      "correct": "The work gives me a great deal of satisfaction.",
+      "why": "satisfaction 表示满足感时通常不可数。"
+    },
+    {
+      "wrong": "My salary is not enough high.",
+      "correct": "My salary is not high enough.",
+      "why": "enough 修饰形容词时置于其后。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Autonomy increases satisfaction when expectations remain clear.",
+      "topicSentence": "Employees are more motivated when they can choose how to meet an understood objective.",
+      "collocations": [
+        "exercise workplace autonomy",
+        "set clear expectations",
+        "take ownership of a task",
+        "use professional judgement"
+      ],
+      "argument": "Detailed control can signal that judgement is neither trusted nor required. Giving employees discretion allows them to adapt a method to real conditions and feel responsible for the result. However, autonomy without priorities or resources becomes abandonment rather than freedom. Managers should define outcomes, limits and review points, then avoid controlling every step. This balance supports both accountability and professional satisfaction."
+    },
+    {
+      "viewpoint": "Recognition should describe contribution rather than distribute empty praise.",
+      "topicSentence": "Specific acknowledgement strengthens motivation because employees can see which effort mattered.",
+      "collocations": [
+        "recognise a contribution",
+        "provide specific feedback",
+        "acknowledge invisible work",
+        "reinforce effective practice"
+      ],
+      "argument": "Generic praise may feel pleasant briefly but offers little evidence that work was noticed. A manager who identifies how a careful handover prevented delay makes the contribution visible and encourages repetition. Recognition should include routine coordination and support, not only dramatic sales or public achievements. It must also be credible; constant exaggerated praise loses meaning. Specific acknowledgement helps connect individual effort with a shared result."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What makes a job enjoyable for you?",
+      "answer": "I enjoy work when I can finish a meaningful piece of it and see what changed. Clear priorities help because I dislike spending energy on tasks that nobody can explain. I also value colleagues who are reliable without needing constant conversation. Pay matters, of course, but daily frustration can outweigh a modest salary difference."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a task that gave you a sense of achievement.",
+      "answer": "I once reorganised a confusing set of instructions used by several colleagues. I interviewed the people who used them, removed repeated steps and tested the new version with someone unfamiliar with the process. The task was not prestigious, but questions dropped noticeably afterwards. I felt satisfied because the improvement was concrete and continued saving other people time. It also showed me that small operational problems can be worth solving carefully. The first version looked cleaner but removed a warning that experienced users considered essential. Restoring it taught me not to confuse visual simplicity with practical clarity. I documented why each remaining step existed, so the guide would be easier to update later. The achievement came less from writing elegant sentences than from listening carefully and making the process more dependable."
+    }
+  ],
+  "reading": {
+    "title": "Why Meaningful Work Can Still Be Bad Work",
+    "paragraphs": [
+      "Meaning is frequently presented as a substitute for other employment benefits. People who care deeply about teaching, conservation or social care may accept low pay and heavy workloads because the outcome matters to them. Employers can then treat commitment as an unlimited resource. The language of vocation hides the fact that purposeful work still requires staffing, recovery and fair treatment.",
+      "Researchers distinguish the meaningfulness of a task from the quality of the conditions surrounding it. A nurse may value helping patients while being frustrated by inadequate time; a museum worker may believe in public education while living with repeated short contracts. These attitudes are not contradictory. Satisfaction contains several dimensions, and strength in one does not cancel serious weakness in another.",
+      "Meaning can even increase vulnerability to overwork. When stopping feels equivalent to abandoning a person or cause, employees find it difficult to maintain boundaries. Organisations may praise sacrifice rather than correcting the shortage that made sacrifice necessary. Over time, exhaustion can detach workers from the purpose that originally motivated them, producing cynicism as well as turnover.",
+      "A sustainable organisation protects meaning from exploitation. It connects routine tasks to outcomes, gives staff some influence over methods and ensures that urgent effort is exceptional rather than normal. Pay cannot create purpose by itself, but purpose cannot pay rent or restore sleep. Job satisfaction is strongest when meaningful contribution, competent management and acceptable conditions reinforce one another instead of being offered as alternatives.",
+      "Individual expectations still differ. Some employees seek rapid progression, while others value stable hours or deep expertise without management responsibility. Regular conversations should therefore ask which conditions matter rather than assuming that one promotion ladder motivates everyone. A role can be redesigned through greater variety, mentoring or clearer ownership even when salary and title remain unchanged. Satisfaction improves when the available form of growth matches the person."
+    ],
+    "questions": [
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "People cannot value their work while disliking its conditions.",
+        "answer": "No",
+        "explanation": "Paragraph 2 says these attitudes are not contradictory."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains how commitment may weaken personal boundaries?",
+        "answer": "C",
+        "explanation": "Paragraph C says stopping can feel like abandoning a cause."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What three elements reinforce one another in the final sentence?",
+        "answer": "meaningful contribution, competent management and acceptable conditions",
+        "explanation": "These are listed in the final sentence."
+      }
+    ]
+  }
+}

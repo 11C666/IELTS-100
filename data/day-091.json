@@ -1,0 +1,355 @@
+{
+  "id": 91,
+  "topic": "Globalisation",
+  "topicCN": "全球化",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "globalisation",
+      "ipa": "/ˌɡləʊbəlaɪˈzeɪʃən/",
+      "meaning": "全球化",
+      "collocation": "the pace of globalisation",
+      "collocationCN": "全球化速度"
+    },
+    {
+      "word": "supply chain",
+      "ipa": "/səˈplaɪ tʃeɪn/",
+      "meaning": "供应链",
+      "collocation": "diversify a supply chain",
+      "collocationCN": "分散供应链"
+    },
+    {
+      "word": "trade barrier",
+      "ipa": "/ˈtreɪd ˌbæriə/",
+      "meaning": "贸易壁垒",
+      "collocation": "remove trade barriers",
+      "collocationCN": "消除贸易壁垒"
+    },
+    {
+      "word": "foreign investment",
+      "ipa": "/ˌfɒrən ɪnˈvestmənt/",
+      "meaning": "外国投资",
+      "collocation": "attract foreign investment",
+      "collocationCN": "吸引外资"
+    },
+    {
+      "word": "multinational company",
+      "ipa": "/ˌmʌltiˈnæʃənəl ˈkʌmpəni/",
+      "meaning": "跨国公司",
+      "collocation": "regulate multinational companies",
+      "collocationCN": "监管跨国公司"
+    },
+    {
+      "word": "outsourcing",
+      "ipa": "/ˈaʊtsɔːsɪŋ/",
+      "meaning": "外包",
+      "collocation": "rely on outsourcing",
+      "collocationCN": "依赖外包"
+    },
+    {
+      "word": "comparative advantage",
+      "ipa": "/kəmˌpærətɪv ədˈvɑːntɪdʒ/",
+      "meaning": "比较优势",
+      "collocation": "exploit comparative advantage",
+      "collocationCN": "利用比较优势"
+    },
+    {
+      "word": "economic interdependence",
+      "ipa": "/ˌiːkənɒmɪk ˌɪntədɪˈpendəns/",
+      "meaning": "经济相互依存",
+      "collocation": "increase economic interdependence",
+      "collocationCN": "增强经济相互依存"
+    },
+    {
+      "word": "cultural exchange",
+      "ipa": "/ˌkʌltʃərəl ɪksˈtʃeɪndʒ/",
+      "meaning": "文化交流",
+      "collocation": "encourage cultural exchange",
+      "collocationCN": "促进文化交流"
+    },
+    {
+      "word": "standardisation",
+      "ipa": "/ˌstændədaɪˈzeɪʃən/",
+      "meaning": "标准化",
+      "collocation": "global standardisation",
+      "collocationCN": "全球标准化"
+    },
+    {
+      "word": "local enterprise",
+      "ipa": "/ˌləʊkəl ˈentəpraɪz/",
+      "meaning": "本地企业",
+      "collocation": "support local enterprises",
+      "collocationCN": "支持本地企业"
+    },
+    {
+      "word": "market access",
+      "ipa": "/ˈmɑːkɪt ˌækses/",
+      "meaning": "市场准入",
+      "collocation": "gain market access",
+      "collocationCN": "获得市场准入"
+    },
+    {
+      "word": "cross-border",
+      "ipa": "/ˌkrɒs ˈbɔːdə/",
+      "meaning": "跨境的",
+      "collocation": "cross-border cooperation",
+      "collocationCN": "跨境合作"
+    },
+    {
+      "word": "economic shock",
+      "ipa": "/ˌiːkənɒmɪk ˈʃɒk/",
+      "meaning": "经济冲击",
+      "collocation": "absorb an economic shock",
+      "collocationCN": "承受经济冲击"
+    },
+    {
+      "word": "consumer choice",
+      "ipa": "/kənˌsjuːmə ˈtʃɔɪs/",
+      "meaning": "消费者选择",
+      "collocation": "expand consumer choice",
+      "collocationCN": "扩大消费选择"
+    },
+    {
+      "word": "source products overseas",
+      "ipa": "/sɔːs ˌprɒdʌkts ˌəʊvəˈsiːz/",
+      "meaning": "从海外采购产品",
+      "collocation": "source components overseas",
+      "collocationCN": "从海外采购零件"
+    },
+    {
+      "word": "compete on price",
+      "ipa": "/kəmˌpiːt ɒn ˈpraɪs/",
+      "meaning": "在价格上竞争",
+      "collocation": "struggle to compete on price",
+      "collocationCN": "难以进行价格竞争"
+    },
+    {
+      "word": "reach a wider market",
+      "ipa": "/riːtʃ ə ˌwaɪdə ˈmɑːkɪt/",
+      "meaning": "进入更广阔市场",
+      "collocation": "help artisans reach a wider market",
+      "collocationCN": "帮助手工艺者开拓市场"
+    },
+    {
+      "word": "spread the risk",
+      "ipa": "/spred ðə ˈrɪsk/",
+      "meaning": "分散风险",
+      "collocation": "spread the risk across suppliers",
+      "collocationCN": "在供应商间分散风险"
+    },
+    {
+      "word": "meet international standards",
+      "ipa": "/miːt ˌɪntəˈnæʃənəl ˈstændədz/",
+      "meaning": "达到国际标准",
+      "collocation": "meet international safety standards",
+      "collocationCN": "达到国际安全标准"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "world economies are connected",
+      "options": [
+        "economies are globally integrated",
+        "markets are increasingly interdependent",
+        "production and trade cross national borders"
+      ],
+      "note": "interdependent强调相互影响。"
+    },
+    {
+      "base": "companies move work abroad",
+      "options": [
+        "firms outsource operations",
+        "production is relocated overseas",
+        "business functions are transferred internationally"
+      ],
+      "note": "outsource不一定涉及生产。"
+    },
+    {
+      "base": "more products to choose from",
+      "options": [
+        "greater consumer choice",
+        "a wider range of imported goods",
+        "access to more diverse products"
+      ],
+      "note": "choice不等于质量提高。"
+    },
+    {
+      "base": "local firms suffer",
+      "options": [
+        "domestic businesses face pressure",
+        "local producers lose competitiveness",
+        "home-grown enterprises struggle against imports"
+      ],
+      "note": "lose competitiveness比suffer具体。"
+    },
+    {
+      "base": "sell to other countries",
+      "options": [
+        "export",
+        "enter overseas markets",
+        "reach consumers beyond national borders"
+      ],
+      "note": "reach consumers强调市场拓展。"
+    },
+    {
+      "base": "international companies",
+      "options": [
+        "multinational corporations",
+        "globally operating firms",
+        "businesses with operations in several countries"
+      ],
+      "note": "corporation更正式。"
+    },
+    {
+      "base": "countries rely on each other",
+      "options": [
+        "nations become interdependent",
+        "economies depend on cross-border networks",
+        "production links national markets together"
+      ],
+      "note": "interdependence是双向依赖。"
+    },
+    {
+      "base": "same culture everywhere",
+      "options": [
+        "cultural homogenisation",
+        "a decline in local distinctiveness",
+        "increasing uniformity across cultures"
+      ],
+      "note": "homogenisation常用于批评。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Although + global connection + gives + group + access to + benefit, it also exposes them to + risk.",
+      "cn": "虽然某种全球联系让某群体获得益处，但也使其面临风险。",
+      "example": "Although overseas sourcing gives manufacturers access to cheaper components, it also exposes them to distant disruptions."
+    },
+    {
+      "pattern": "A product that is + action in one country + may be + different action + in several others before + final stage.",
+      "cn": "一种产品在一个国家完成某环节后，可能在多个其他国家经历不同环节，最后才进入最终阶段。",
+      "example": "A product that is designed in one country may be assembled in several others before reaching consumers."
+    },
+    {
+      "pattern": "Rather than choosing between + global option + and + local option, businesses can + balanced response.",
+      "cn": "企业不必在全球方案与本地方案之间二选一，而可以采取兼顾两者的做法。",
+      "example": "Rather than choosing between global suppliers and local production, businesses can maintain a diversified network."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "shop around for the best price",
+      "cn": "多方比较寻找最优价格",
+      "example": "Online buyers can shop around for the best price."
+    },
+    {
+      "text": "feel the effects of a distant crisis",
+      "cn": "感受到远方危机的影响",
+      "example": "Local factories felt the effects of a distant shipping crisis."
+    },
+    {
+      "text": "open the door to new markets",
+      "cn": "打开新市场的大门",
+      "example": "Digital platforms can open the door to new markets."
+    },
+    {
+      "text": "build a resilient supply chain",
+      "cn": "建立有韧性的供应链",
+      "example": "Firms are trying to build a resilient supply chain."
+    },
+    {
+      "text": "balance global reach with local responsibility",
+      "cn": "兼顾全球市场与本地责任",
+      "example": "Brands should balance global reach with local responsibility."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Globalisation makes countries more dependence.",
+      "correct": "Globalisation makes countries more dependent.",
+      "why": "make后需用形容词dependent。"
+    },
+    {
+      "wrong": "The company imported products from abroad countries.",
+      "correct": "The company imported products from foreign countries.",
+      "why": "abroad通常作副词，不直接修饰名词。"
+    },
+    {
+      "wrong": "Consumers have more choices of products.",
+      "correct": "Consumers have a wider choice of products.",
+      "why": "表达商品种类更丰富常用a wider choice of。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Supply chains should be diversified, not simply shortened.",
+      "topicSentence": "Resilience depends more on avoiding a single point of failure than on producing everything domestically.",
+      "collocations": [
+        "diversify suppliers",
+        "reduce single-source dependence",
+        "maintain strategic reserves",
+        "absorb external shocks"
+      ],
+      "argument": "Domestic production can shorten transport routes, but a factory remains vulnerable if all its essential inputs come from one region. A diversified network spreads disruption across suppliers with different risks. During a temporary shortage, strategic reserves can then protect genuinely critical goods while firms switch orders. Recreating every stage at home would be extremely costly and could replace one foreign dependency with one domestic bottleneck. Governments should therefore map concentrated risks and support alternatives rather than equating resilience with economic isolation."
+    },
+    {
+      "viewpoint": "Global market access can strengthen small local producers.",
+      "topicSentence": "International trade need not erase local identity when producers retain control over design and value.",
+      "collocations": [
+        "reach overseas consumers",
+        "preserve local craftsmanship",
+        "secure a fair return",
+        "use digital marketplaces"
+      ],
+      "argument": "A craft business in a small town may have too few nearby customers to remain viable. Online export platforms can connect it with buyers who specifically value its distinctive methods, creating income that supports apprenticeships. However, an intermediary that controls branding and prices may capture most of that value or pressure the producer to standardise. Transparent fees, collective marketing and origin labels can improve bargaining power. Globalisation can therefore preserve local production when market reach expands without transferring ownership of the product’s identity."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe an international influence that changed something in your local area.",
+      "answer": "An international influence I noticed was the arrival of a night market inspired by food markets in several Asian cities. Local organisers did not copy one place exactly; they invited residents from different backgrounds to sell dishes, crafts and ingredients that were difficult to find nearby. The market encouraged an underused square to remain active in the evening, and established shops benefited from the extra visitors. It also introduced people to unfamiliar food through small, affordable portions rather than formal restaurants. There were early complaints about litter, so organisers introduced reusable cups and a deposit system. I like the example because global influence produced a local event with its own rules and participants instead of simply importing another international chain."
+    },
+    {
+      "part": "Part 3",
+      "question": "Does globalisation threaten local culture?",
+      "answer": "It can make commercial streets and entertainment more uniform because successful brands and formats spread quickly. However, contact with outside influences does not automatically remove local culture; people often adapt imported ideas to their own language and habits. Global platforms can even give regional music or crafts an audience that was previously unavailable. The larger threat may be unequal market power, where local creators cannot compete for space or income. Schools, cultural institutions and fair digital rules can help, but culture also remains alive when residents choose to practise it rather than preserve it only for tourists."
+    }
+  ],
+  "reading": {
+    "title": "Why a Bicycle’s Journey Is Hard to Map",
+    "paragraphs": [
+      "A bicycle sold in a European shop may carry the name of a company founded nearby, yet its physical history is far less local. Aluminium can be refined in one country, shaped into tubes in another and welded into a frame elsewhere; gears, tyres and brakes may follow separate routes before final assembly. For companies attempting to measure environmental or labour standards, the difficulty is not distance alone but the number of relationships hidden behind a finished object.",
+      "Traditional purchasing records identify the supplier that sends an invoice. That firm, however, may buy materials from subcontractors whose own sources change according to price and availability. A survey of mid-sized manufacturers found that most could name their direct suppliers, while only a small minority had reliable information two stages further back. Auditing the final assembly plant therefore offered reassurance about only a fraction of the production network.",
+      "One bicycle company tried to construct a digital “product passport”. Each major component received a record of its origin, material and processing site. Suppliers initially resisted, partly because revealing their sources could weaken their commercial position. Data also became outdated when a factory substituted an equivalent alloy during a shortage. The passport grew more accurate only after the company reduced the number of very small contracts and guaranteed longer orders in exchange for disclosure.",
+      "Traceability created choices rather than automatic improvement. Once managers learned that a particular metal process used substantial electricity, they still had to compare alternative materials, durability and cost. Moving production to a plant with cleaner power might lengthen shipping; a lighter component might fail sooner. The information made trade-offs visible, but it did not decide which one mattered most.",
+      "Consumers increasingly encounter codes promising to reveal where products came from. Such tools can be useful, provided that a neat screen is not mistaken for a simple supply chain. The bicycle’s journey remains a changing network of technical and commercial decisions. Mapping it is valuable precisely because the global connections are more complicated than the national name printed on the frame."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Most manufacturers in the survey had reliable information about suppliers two stages back.",
+        "answer": "False",
+        "explanation": "The passage says only a small minority had such information."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Suppliers received longer orders in exchange for greater ______.",
+        "answer": "disclosure",
+        "explanation": "Paragraph 3 states that guaranteed orders were exchanged for disclosure."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What is the writer’s main point about traceability?",
+        "answer": "D",
+        "explanation": "The passage argues that it reveals complex trade-offs but does not make decisions automatically.",
+        "options": [
+          "It always reduces shipping distances.",
+          "It makes subcontractors unnecessary.",
+          "It guarantees that consumers buy locally.",
+          "It exposes choices without resolving every trade-off."
+        ]
+      }
+    ]
+  }
+}

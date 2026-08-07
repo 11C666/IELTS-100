@@ -1,0 +1,355 @@
+{
+  "id": 15,
+  "topic": "Hometowns",
+  "topicCN": "家乡",
+  "category": "Daily Life",
+  "vocabulary": [
+    {
+      "word": "hometown",
+      "ipa": "/ˈhəʊmtaʊn/",
+      "meaning": "家乡",
+      "collocation": "return to my hometown",
+      "collocationCN": "回到家乡"
+    },
+    {
+      "word": "resident",
+      "ipa": "/ˈrezɪdənt/",
+      "meaning": "居民",
+      "collocation": "local residents",
+      "collocationCN": "当地居民"
+    },
+    {
+      "word": "landmark",
+      "ipa": "/ˈlændmɑːk/",
+      "meaning": "地标",
+      "collocation": "a historic landmark",
+      "collocationCN": "历史地标"
+    },
+    {
+      "word": "district",
+      "ipa": "/ˈdɪstrɪkt/",
+      "meaning": "区域",
+      "collocation": "a central district",
+      "collocationCN": "中心区"
+    },
+    {
+      "word": "outskirts",
+      "ipa": "/ˈaʊtskɜːts/",
+      "meaning": "市郊",
+      "collocation": "on the outskirts",
+      "collocationCN": "在市郊"
+    },
+    {
+      "word": "scenery",
+      "ipa": "/ˈsiːnəri/",
+      "meaning": "风景",
+      "collocation": "beautiful coastal scenery",
+      "collocationCN": "美丽海岸风景"
+    },
+    {
+      "word": "heritage",
+      "ipa": "/ˈherɪtɪdʒ/",
+      "meaning": "遗产",
+      "collocation": "preserve local heritage",
+      "collocationCN": "保护地方遗产"
+    },
+    {
+      "word": "dialect",
+      "ipa": "/ˈdaɪəlekt/",
+      "meaning": "方言",
+      "collocation": "speak a local dialect",
+      "collocationCN": "说当地方言"
+    },
+    {
+      "word": "community",
+      "ipa": "/kəˈmjuːnəti/",
+      "meaning": "社区",
+      "collocation": "a close-knit community",
+      "collocationCN": "关系紧密的社区"
+    },
+    {
+      "word": "industry",
+      "ipa": "/ˈɪndəstri/",
+      "meaning": "产业",
+      "collocation": "a traditional industry",
+      "collocationCN": "传统产业"
+    },
+    {
+      "word": "develop",
+      "ipa": "/dɪˈveləp/",
+      "meaning": "发展",
+      "collocation": "develop rapidly",
+      "collocationCN": "快速发展"
+    },
+    {
+      "word": "expand",
+      "ipa": "/ɪkˈspænd/",
+      "meaning": "扩张",
+      "collocation": "expand beyond the centre",
+      "collocationCN": "向中心区外扩张"
+    },
+    {
+      "word": "decline",
+      "ipa": "/dɪˈklaɪn/",
+      "meaning": "衰退",
+      "collocation": "experience economic decline",
+      "collocationCN": "经历经济衰退"
+    },
+    {
+      "word": "lively",
+      "ipa": "/ˈlaɪvli/",
+      "meaning": "热闹的",
+      "collocation": "a lively market",
+      "collocationCN": "热闹市场"
+    },
+    {
+      "word": "peaceful",
+      "ipa": "/ˈpiːsfl/",
+      "meaning": "宁静的",
+      "collocation": "a peaceful neighbourhood",
+      "collocationCN": "宁静街区"
+    },
+    {
+      "word": "sense of belonging",
+      "ipa": "/ˌsens əv bɪˈlɒŋɪŋ/",
+      "meaning": "归属感",
+      "collocation": "develop a sense of belonging",
+      "collocationCN": "形成归属感"
+    },
+    {
+      "word": "local identity",
+      "ipa": "/ˌləʊkl aɪˈdentəti/",
+      "meaning": "地方认同",
+      "collocation": "strengthen local identity",
+      "collocationCN": "增强地方认同"
+    },
+    {
+      "word": "job opportunity",
+      "ipa": "/ˈdʒɒb ˌɒpətjuːnəti/",
+      "meaning": "工作机会",
+      "collocation": "create job opportunities",
+      "collocationCN": "创造工作机会"
+    },
+    {
+      "word": "public facility",
+      "ipa": "/ˌpʌblɪk fəˈsɪləti/",
+      "meaning": "公共设施",
+      "collocation": "improve public facilities",
+      "collocationCN": "改善公共设施"
+    },
+    {
+      "word": "urban development",
+      "ipa": "/ˌɜːbən dɪˈveləpmənt/",
+      "meaning": "城市发展",
+      "collocation": "manage urban development",
+      "collocationCN": "管理城市发展"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "hometown",
+      "options": [
+        "place where I grew up",
+        "home town",
+        "place of origin"
+      ],
+      "note": "place of origin 较正式，不一定有情感含义。"
+    },
+    {
+      "base": "local people",
+      "options": [
+        "residents",
+        "the local community",
+        "people living in the area"
+      ],
+      "note": "residents 是正式高频词。"
+    },
+    {
+      "base": "changed a lot",
+      "options": [
+        "developed rapidly",
+        "undergone major change",
+        "been transformed"
+      ],
+      "note": "transformed 表示变化幅度大。"
+    },
+    {
+      "base": "famous place",
+      "options": [
+        "landmark",
+        "well-known site",
+        "local attraction"
+      ],
+      "note": "landmark 也可作为辨识地点的标志。"
+    },
+    {
+      "base": "quiet",
+      "options": [
+        "peaceful",
+        "relatively calm",
+        "free from heavy traffic"
+      ],
+      "note": "根据具体安静来源选择。"
+    },
+    {
+      "base": "city edge",
+      "options": [
+        "outskirts",
+        "urban fringe",
+        "edge of town"
+      ],
+      "note": "outskirts 通常用复数。"
+    },
+    {
+      "base": "feel connected",
+      "options": [
+        "have a sense of belonging",
+        "identify with the place",
+        "feel rooted"
+      ],
+      "note": "feel rooted 强调长期归属。"
+    },
+    {
+      "base": "old buildings",
+      "options": [
+        "historic buildings",
+        "built heritage",
+        "traditional architecture"
+      ],
+      "note": "built heritage 是较正式集合概念。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "What has changed most in my hometown is + noun.",
+      "cn": "我的家乡变化最大的是……",
+      "example": "What has changed most in my hometown is the public transport system."
+    },
+    {
+      "pattern": "Despite + development, the town has managed to retain + noun.",
+      "cn": "尽管经历发展，这座城镇仍保留了……",
+      "example": "Despite rapid development, the town has managed to retain its traditional market."
+    },
+    {
+      "pattern": "People who grow up in + place + often associate it with + memory.",
+      "cn": "在某地长大的人常把它与某种记忆联系起来。",
+      "example": "People who grow up near the sea often associate their hometown with the sound of waves."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "the place where I grew up",
+      "cn": "我长大的地方",
+      "example": "It’s the place where I grew up, so I know it extremely well."
+    },
+    {
+      "text": "know the area like the back of my hand",
+      "cn": "对这个地方了如指掌",
+      "example": "I know the old town like the back of my hand."
+    },
+    {
+      "text": "a strong sense of belonging",
+      "cn": "强烈归属感",
+      "example": "The local festival gives residents a strong sense of belonging."
+    },
+    {
+      "text": "have changed beyond recognition",
+      "cn": "变化大到认不出来",
+      "example": "Some streets have changed beyond recognition."
+    },
+    {
+      "text": "retain its character",
+      "cn": "保留自身特色",
+      "example": "The centre has modern shops but still retains its character."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "My hometown has a long distance from here.",
+      "correct": "My hometown is a long way from here.",
+      "why": "表达距离远使用 be a long way from。"
+    },
+    {
+      "wrong": "There are many changes happened.",
+      "correct": "Many changes have taken place.",
+      "why": "不能在 there be 后直接接 happened；可用 take place。"
+    },
+    {
+      "wrong": "I was born in a small city which has friendly.",
+      "correct": "I was born in a small city where people are friendly.",
+      "why": "friendly 描述人，关系副词 where 引出地点信息。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Hometown development should preserve distinctive local features.",
+      "topicSentence": "Economic growth is more sustainable when it strengthens rather than erases local identity.",
+      "collocations": [
+        "preserve local heritage",
+        "retain historic buildings",
+        "attract responsible tourism",
+        "support local businesses"
+      ],
+      "argument": "Generic shopping centres and apartment blocks can provide services, but they may make different towns look identical. Historic streets, markets and traditional industries give residents a shared reference point and attract visitors seeking a real local experience. Preservation does not require freezing every building in time. Old structures can be adapted for new uses while important features remain. Development should add opportunity without removing the qualities that make a place recognisable."
+    },
+    {
+      "viewpoint": "Smaller towns need opportunities for young adults.",
+      "topicSentence": "A hometown cannot remain socially balanced if most young residents must leave permanently for work.",
+      "collocations": [
+        "create skilled employment",
+        "retain young residents",
+        "support local enterprise",
+        "revitalise the town centre"
+      ],
+      "argument": "Migration to large cities can improve individual careers, yet it also reduces the working-age population of smaller towns. Local businesses lose customers and public services become harder to sustain. Investment in reliable internet, training and small enterprises can support a wider range of jobs. Not every graduate will stay, nor should they be forced to. The aim is to make remaining or returning a realistic choice."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What do you like most about your hometown?",
+      "answer": "I like its scale. It’s large enough to have good cafés, schools and public transport, but small enough that journeys rarely take more than half an hour. There’s also a river path through the centre, which gives people somewhere to walk away from traffic. That combination makes everyday life convenient without feeling too crowded."
+    },
+    {
+      "part": "Part 1",
+      "question": "Has your hometown changed since you were a child?",
+      "answer": "Yes, mainly around the edges. New apartment blocks and a shopping area have replaced fields where we used to cycle. The transport system is better, and there are more jobs, so the change isn’t entirely negative. Still, I miss a few independent shops in the old centre that disappeared when rents increased."
+    }
+  ],
+  "reading": {
+    "title": "When a Factory Town Finds a New Purpose",
+    "paragraphs": [
+      "Many towns grew around a single industry: mining, textiles, shipbuilding or metal production. Housing, transport and social life developed around the major employer. When that industry declined, the loss was larger than the number of jobs. Shops lost customers, young workers moved away and buildings designed for production became empty reminders of a more confident period.",
+      "Early regeneration plans often tried to attract another large employer. Success was limited because modern firms required different skills and fewer workers. Later approaches treated the industrial landscape itself as an asset. Warehouses became studios, markets or training centres, while machinery and workers’ stories formed the basis of museums. Such projects could preserve identity while giving neglected spaces a practical use.",
+      "Cultural regeneration is not a guaranteed solution. A renovated district may attract visitors but create mainly temporary service work. Rising property prices can also push out residents whose families built the town’s industrial history. Projects are more credible when local people help decide which stories are told and when training links new activity to stable employment.",
+      "A town cannot live entirely through memory, yet ignoring the past may weaken the sense of continuity needed for change. The most successful transitions combine preservation with new skills, transport and housing. An old factory can become a symbol of failure or a resource for a different economy. The outcome depends less on the building itself than on whether regeneration creates a place local residents can still recognise and afford to inhabit.",
+      "Regeneration also needs patience. Restoring a building can be completed within a few years, whereas rebuilding skills, businesses and confidence may take a generation. Short funding cycles encourage visible construction because it is easy to photograph and count. Less visible work—training apprentices, supporting local suppliers and maintaining affordable premises—often determines whether the physical investment produces a durable economy."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Industrial decline affected only factory employees.",
+        "answer": "False",
+        "explanation": "Paragraph 1 describes effects on shops, migration and buildings."
+      },
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for Paragraph C.",
+        "options": [
+          "Limits and risks of culture-led renewal",
+          "The construction of the first factory",
+          "Why all museums create permanent work",
+          "A return to heavy industry"
+        ],
+        "answer": "A",
+        "explanation": "Paragraph C describes temporary jobs, rising prices and resident displacement."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Regeneration is more credible when local people help decide which ______ are told.",
+        "answer": "stories",
+        "explanation": "The answer appears in Paragraph 3."
+      }
+    ]
+  }
+}

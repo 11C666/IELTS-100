@@ -1,0 +1,355 @@
+{
+  "id": 8,
+  "topic": "Reading Habits",
+  "topicCN": "阅读习惯",
+  "category": "Daily Life",
+  "vocabulary": [
+    {
+      "word": "fiction",
+      "ipa": "/ˈfɪkʃn/",
+      "meaning": "小说类作品",
+      "collocation": "read literary fiction",
+      "collocationCN": "阅读文学小说"
+    },
+    {
+      "word": "non-fiction",
+      "ipa": "/ˌnɒn ˈfɪkʃn/",
+      "meaning": "非虚构作品",
+      "collocation": "a non-fiction book",
+      "collocationCN": "非虚构书籍"
+    },
+    {
+      "word": "novel",
+      "ipa": "/ˈnɒvl/",
+      "meaning": "长篇小说",
+      "collocation": "a historical novel",
+      "collocationCN": "历史小说"
+    },
+    {
+      "word": "chapter",
+      "ipa": "/ˈtʃæptə/",
+      "meaning": "章节",
+      "collocation": "finish a chapter",
+      "collocationCN": "读完一章"
+    },
+    {
+      "word": "author",
+      "ipa": "/ˈɔːθə/",
+      "meaning": "作者",
+      "collocation": "a bestselling author",
+      "collocationCN": "畅销书作者"
+    },
+    {
+      "word": "narrative",
+      "ipa": "/ˈnærətɪv/",
+      "meaning": "叙事",
+      "collocation": "follow a complex narrative",
+      "collocationCN": "理解复杂叙事"
+    },
+    {
+      "word": "plot",
+      "ipa": "/plɒt/",
+      "meaning": "情节",
+      "collocation": "a gripping plot",
+      "collocationCN": "扣人心弦的情节"
+    },
+    {
+      "word": "character",
+      "ipa": "/ˈkærəktə/",
+      "meaning": "人物",
+      "collocation": "a well-developed character",
+      "collocationCN": "塑造充分的人物"
+    },
+    {
+      "word": "genre",
+      "ipa": "/ˈʒɒnrə/",
+      "meaning": "体裁",
+      "collocation": "a popular genre",
+      "collocationCN": "流行体裁"
+    },
+    {
+      "word": "review",
+      "ipa": "/rɪˈvjuː/",
+      "meaning": "评论",
+      "collocation": "read a book review",
+      "collocationCN": "阅读书评"
+    },
+    {
+      "word": "browse",
+      "ipa": "/braʊz/",
+      "meaning": "浏览",
+      "collocation": "browse the shelves",
+      "collocationCN": "浏览书架"
+    },
+    {
+      "word": "skim",
+      "ipa": "/skɪm/",
+      "meaning": "略读",
+      "collocation": "skim an article",
+      "collocationCN": "略读文章"
+    },
+    {
+      "word": "concentrate",
+      "ipa": "/ˈkɒnsntreɪt/",
+      "meaning": "集中注意力",
+      "collocation": "concentrate on a text",
+      "collocationCN": "专注于文本"
+    },
+    {
+      "word": "comprehension",
+      "ipa": "/ˌkɒmprɪˈhenʃn/",
+      "meaning": "理解力",
+      "collocation": "reading comprehension",
+      "collocationCN": "阅读理解"
+    },
+    {
+      "word": "attention span",
+      "ipa": "/əˈtenʃn spæn/",
+      "meaning": "注意力持续时间",
+      "collocation": "a limited attention span",
+      "collocationCN": "有限的注意力时长"
+    },
+    {
+      "word": "reading material",
+      "ipa": "/ˈriːdɪŋ məˌtɪəriəl/",
+      "meaning": "阅读材料",
+      "collocation": "choose suitable reading material",
+      "collocationCN": "选择合适材料"
+    },
+    {
+      "word": "digital edition",
+      "ipa": "/ˌdɪdʒɪtl ɪˈdɪʃn/",
+      "meaning": "电子版",
+      "collocation": "buy a digital edition",
+      "collocationCN": "购买电子版"
+    },
+    {
+      "word": "printed copy",
+      "ipa": "/ˌprɪntɪd ˈkɒpi/",
+      "meaning": "纸质本",
+      "collocation": "borrow a printed copy",
+      "collocationCN": "借阅纸质本"
+    },
+    {
+      "word": "read for pleasure",
+      "ipa": "/riːd fə ˈpleʒə/",
+      "meaning": "为兴趣阅读",
+      "collocation": "encourage children to read for pleasure",
+      "collocationCN": "鼓励儿童兴趣阅读"
+    },
+    {
+      "word": "reading routine",
+      "ipa": "/ˈriːdɪŋ ruːˌtiːn/",
+      "meaning": "阅读习惯",
+      "collocation": "establish a reading routine",
+      "collocationCN": "建立阅读习惯"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "book",
+      "options": [
+        "publication",
+        "volume",
+        "work"
+      ],
+      "note": "work 可指某位作者的作品；volume 常指一册。"
+    },
+    {
+      "base": "interesting",
+      "options": [
+        "engaging",
+        "absorbing",
+        "thought-provoking"
+      ],
+      "note": "thought-provoking 强调引发思考，不一定轻松有趣。"
+    },
+    {
+      "base": "read quickly",
+      "options": [
+        "skim",
+        "read at speed",
+        "scan for information"
+      ],
+      "note": "scan 是寻找具体信息，skim 是了解大意。"
+    },
+    {
+      "base": "understand",
+      "options": [
+        "comprehend",
+        "follow the argument",
+        "make sense of"
+      ],
+      "note": "follow the argument 常用于学术文章。"
+    },
+    {
+      "base": "read often",
+      "options": [
+        "read regularly",
+        "maintain a reading habit",
+        "be an avid reader"
+      ],
+      "note": "avid reader 指阅读热情很高的人。"
+    },
+    {
+      "base": "electronic book",
+      "options": [
+        "e-book",
+        "digital edition",
+        "electronic text"
+      ],
+      "note": "e-book 最自然常用。"
+    },
+    {
+      "base": "story",
+      "options": [
+        "narrative",
+        "plot",
+        "account"
+      ],
+      "note": "plot 是事件安排；narrative 是讲述方式。"
+    },
+    {
+      "base": "give an opinion on a book",
+      "options": [
+        "review a book",
+        "evaluate a work",
+        "comment on a text"
+      ],
+      "note": "review 可作动词，包含评价。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "I find it easier to concentrate on + printed or digital material + when + clause.",
+      "cn": "当……时，我发现更容易专注于某类阅读材料。",
+      "example": "I find it easier to concentrate on printed books when I read before bed."
+    },
+    {
+      "pattern": "The kind of book I am most likely to choose is + genre + because + clause.",
+      "cn": "我最可能选择的书籍类型是……，因为……",
+      "example": "The kind of book I am most likely to choose is biography because I enjoy real experiences."
+    },
+    {
+      "pattern": "Regular reading exposes people not only to + noun, but also to + noun.",
+      "cn": "规律阅读不仅让人接触……，也让人接触……",
+      "example": "Regular reading exposes people not only to new vocabulary, but also to unfamiliar viewpoints."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "get into the habit of reading",
+      "cn": "养成阅读习惯",
+      "example": "I got into the habit of reading on my commute."
+    },
+    {
+      "text": "a real page-turner",
+      "cn": "让人爱不释手的书",
+      "example": "The plot is simple, but the novel is a real page-turner."
+    },
+    {
+      "text": "read for pleasure",
+      "cn": "为兴趣而阅读",
+      "example": "I read for pleasure at weekends rather than taking notes."
+    },
+    {
+      "text": "dip into a book",
+      "cn": "随手翻阅一本书",
+      "example": "It’s a collection of essays, so you can dip into it."
+    },
+    {
+      "text": "broaden my perspective",
+      "cn": "拓宽我的视角",
+      "example": "Reading about other societies has broadened my perspective."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I like reading book.",
+      "correct": "I like reading books.",
+      "why": "泛指可数名词 book 时使用复数。"
+    },
+    {
+      "wrong": "This novel is very interested.",
+      "correct": "This novel is very interesting.",
+      "why": "事物令人感兴趣用 interesting；人的感受用 interested。"
+    },
+    {
+      "wrong": "I read this book since Monday.",
+      "correct": "I have been reading this book since Monday.",
+      "why": "从过去持续到现在的动作使用现在完成进行时。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Reading for pleasure supports academic development.",
+      "topicSentence": "Voluntary reading can strengthen language and thinking skills without feeling like formal study.",
+      "collocations": [
+        "develop reading fluency",
+        "expand vocabulary",
+        "sustain concentration",
+        "encounter unfamiliar ideas"
+      ],
+      "argument": "Readers meet words repeatedly in meaningful contexts, which helps vocabulary become usable rather than merely recognised. Longer texts also require them to remember earlier information and follow an argument or plot. These habits support concentration in subjects beyond language learning. Because the reader chooses the material, motivation may be stronger than during compulsory exercises. Schools should therefore make appealing books available as well as teaching examination skills."
+    },
+    {
+      "viewpoint": "Digital reading is convenient but can encourage fragmented attention.",
+      "topicSentence": "The device used for reading may influence how consistently a reader remains with a text.",
+      "collocations": [
+        "receive constant notifications",
+        "interrupt sustained attention",
+        "search within a text",
+        "adjust the reading environment"
+      ],
+      "argument": "A phone or tablet gives immediate access to books, articles and dictionaries. The same device, however, also contains messages, videos and alerts that invite the reader to switch tasks. Frequent interruption makes it harder to maintain the argument of a demanding text. Readers can reduce this problem by disabling notifications or using a dedicated e-reader. The issue is not that screens prevent comprehension, but that digital environments often compete for attention."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "How often do you read books or long articles?",
+      "answer": "I read something substantial most days, usually for half an hour before bed. During the week it’s often a novel because I want a break from work-related material. At weekends I’m more likely to read a long newspaper article or biography. I’m not a very fast reader, but I’m fairly consistent, which matters more to me."
+    },
+    {
+      "part": "Part 1",
+      "question": "Do you prefer printed books or e-books?",
+      "answer": "For novels, I still prefer a printed copy. I like seeing how far I’ve progressed, and there are no notifications to distract me. E-books are more practical when I’m travelling, though, because I can carry several without adding weight. So my preference really depends on where I’m reading rather than a strong dislike of screens."
+    }
+  ],
+  "reading": {
+    "title": "Why Deep Reading Takes Time",
+    "paragraphs": [
+      "Reading appears instantaneous because skilled readers recognise many words without conscious effort. Understanding a demanding text, however, involves several slower processes. A reader connects a sentence with earlier information, decides which details matter and sometimes revises an interpretation after reaching a later paragraph. Deep reading is therefore not simply the rapid movement of the eyes across a page.",
+      "Experiments on comprehension often distinguish between locating information and building a mental model. A person can scan a timetable for a departure time without understanding the document as a whole. By contrast, following an argument requires the reader to hold claims in memory and recognise relationships such as cause, contrast and qualification. Speed is useful only if these connections survive it.",
+      "Digital formats have complicated the picture. Search functions and links make reference faster, while adjustable text benefits readers with visual difficulties. Yet scrolling can make the physical location of information less memorable, and connected devices offer easy routes away from the text. Researchers have not concluded that one medium is always superior. Task, device design and reading habits all influence the result.",
+      "The desire to read faster is understandable when information is abundant. Nevertheless, efficiency sometimes means choosing a suitable pace rather than maximising words per minute. A report may deserve close annotation; a familiar news story may require only a quick scan. Skilled readers vary their method according to purpose. In this view, slow reading is not evidence of weakness when the material demands reflection—it is one of several strategies available to an experienced reader.",
+      "Deep reading is also affected by prior knowledge. A specialist can process a difficult article quickly because many concepts are already organised in memory; a newcomer must pause to build those connections. Comparing their speed without considering background is misleading. Fluency develops partly through reading widely enough for common structures and ideas to become familiar."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "What does the passage say deep reading requires?",
+        "options": [
+          "Recognising every word consciously",
+          "Connecting and revising information",
+          "Moving the eyes at maximum speed",
+          "Avoiding all digital formats"
+        ],
+        "answer": "B",
+        "explanation": "Paragraph 1 describes connecting earlier information and revising interpretations."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Following an argument requires readers to hold claims in ______.",
+        "answer": "memory",
+        "explanation": "The answer appears in Paragraph 2."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Researchers have proved that printed texts are always better for comprehension.",
+        "answer": "False",
+        "explanation": "Paragraph 3 states that no medium is always superior."
+      }
+    ]
+  }
+}

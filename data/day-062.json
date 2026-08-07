@@ -1,0 +1,349 @@
+{
+  "id": 62,
+  "topic": "Artificial Intelligence",
+  "topicCN": "人工智能",
+  "category": "Technology",
+  "vocabulary": [
+    {
+      "word": "algorithm",
+      "ipa": "/ˈælɡərɪðəm/",
+      "meaning": "算法",
+      "collocation": "train an algorithm",
+      "collocationCN": "训练算法"
+    },
+    {
+      "word": "automation",
+      "ipa": "/ˌɔːtəˈmeɪʃn/",
+      "meaning": "自动化",
+      "collocation": "introduce workplace automation",
+      "collocationCN": "引入工作场所自动化"
+    },
+    {
+      "word": "bias",
+      "ipa": "/ˈbaɪəs/",
+      "meaning": "偏见；偏差",
+      "collocation": "detect algorithmic bias",
+      "collocationCN": "发现算法偏差"
+    },
+    {
+      "word": "dataset",
+      "ipa": "/ˈdeɪtəset/",
+      "meaning": "数据集",
+      "collocation": "compile a representative dataset",
+      "collocationCN": "编制有代表性的数据集"
+    },
+    {
+      "word": "predict",
+      "ipa": "/prɪˈdɪkt/",
+      "meaning": "预测",
+      "collocation": "predict an outcome",
+      "collocationCN": "预测结果"
+    },
+    {
+      "word": "transparent",
+      "ipa": "/trænsˈpærənt/",
+      "meaning": "透明的",
+      "collocation": "make decisions transparent",
+      "collocationCN": "使决策透明"
+    },
+    {
+      "word": "oversight",
+      "ipa": "/ˈəʊvəsaɪt/",
+      "meaning": "监督",
+      "collocation": "maintain human oversight",
+      "collocationCN": "保留人工监督"
+    },
+    {
+      "word": "deploy",
+      "ipa": "/dɪˈplɔɪ/",
+      "meaning": "部署",
+      "collocation": "deploy an AI system",
+      "collocationCN": "部署人工智能系统"
+    },
+    {
+      "word": "accurate",
+      "ipa": "/ˈækjərət/",
+      "meaning": "准确的",
+      "collocation": "improve diagnostic accuracy",
+      "collocationCN": "提高诊断准确率"
+    },
+    {
+      "word": "accountable",
+      "ipa": "/əˈkaʊntəbl/",
+      "meaning": "负有责任的",
+      "collocation": "hold developers accountable",
+      "collocationCN": "追究开发者责任"
+    },
+    {
+      "word": "generate",
+      "ipa": "/ˈdʒenəreɪt/",
+      "meaning": "生成",
+      "collocation": "generate a draft",
+      "collocationCN": "生成草稿"
+    },
+    {
+      "word": "detect",
+      "ipa": "/dɪˈtekt/",
+      "meaning": "检测",
+      "collocation": "detect unusual patterns",
+      "collocationCN": "检测异常模式"
+    },
+    {
+      "word": "hallucination",
+      "ipa": "/həˌluːsɪˈneɪʃn/",
+      "meaning": "人工智能幻觉",
+      "collocation": "verify an AI hallucination",
+      "collocationCN": "核查人工智能幻觉"
+    },
+    {
+      "word": "prompt",
+      "ipa": "/prɒmpt/",
+      "meaning": "提示词；提示",
+      "collocation": "write a clear prompt",
+      "collocationCN": "编写清晰提示词"
+    },
+    {
+      "word": "double-check",
+      "ipa": "/ˌdʌbl ˈtʃek/",
+      "meaning": "复核",
+      "collocation": "double-check the output",
+      "collocationCN": "复核输出结果"
+    },
+    {
+      "word": "take over a task",
+      "ipa": "/ˌteɪk ˈəʊvə ə tɑːsk/",
+      "meaning": "接手一项任务",
+      "collocation": "let software take over a task",
+      "collocationCN": "让软件接手任务"
+    },
+    {
+      "word": "work alongside",
+      "ipa": "/ˌwɜːk əˈlɒŋsaɪd/",
+      "meaning": "与……协同工作",
+      "collocation": "work alongside specialists",
+      "collocationCN": "与专家协同工作"
+    },
+    {
+      "word": "make a judgement call",
+      "ipa": "/ˌmeɪk ə ˈdʒʌdʒmənt kɔːl/",
+      "meaning": "作出判断性决定",
+      "collocation": "make a difficult judgement call",
+      "collocationCN": "作出困难的判断性决定"
+    },
+    {
+      "word": "machine learning",
+      "ipa": "/məˌʃiːn ˈlɜːnɪŋ/",
+      "meaning": "机器学习",
+      "collocation": "apply machine learning",
+      "collocationCN": "应用机器学习"
+    },
+    {
+      "word": "responsible use",
+      "ipa": "/rɪˌspɒnsəbl ˈjuːs/",
+      "meaning": "负责任的使用",
+      "collocation": "promote responsible use",
+      "collocationCN": "促进负责任的使用"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "AI makes work faster",
+      "options": [
+        "AI accelerates routine processes",
+        "automated tools improve efficiency",
+        "machine assistance saves staff time"
+      ],
+      "note": "避免把 faster 用于所有效率论证"
+    },
+    {
+      "base": "replace workers",
+      "options": [
+        "displace certain roles",
+        "substitute for human labour",
+        "take over selected tasks"
+      ],
+      "note": "通常是 tasks 而非全部 workers"
+    },
+    {
+      "base": "human control",
+      "options": [
+        "meaningful human oversight",
+        "professional supervision",
+        "human review of decisions"
+      ],
+      "note": "适用于高风险场景"
+    },
+    {
+      "base": "unfair result",
+      "options": [
+        "a biased outcome",
+        "unequal treatment",
+        "systematic disadvantage"
+      ],
+      "note": "区分偶然错误与系统偏差"
+    },
+    {
+      "base": "use AI",
+      "options": [
+        "adopt an AI tool",
+        "deploy an automated system",
+        "integrate machine assistance"
+      ],
+      "note": "体现不同实施阶段"
+    },
+    {
+      "base": "very accurate",
+      "options": [
+        "highly reliable",
+        "capable of strong predictive performance",
+        "accurate under defined conditions"
+      ],
+      "note": "学术写作应注明适用条件"
+    },
+    {
+      "base": "cannot explain",
+      "options": [
+        "lacks interpretability",
+        "offers no clear rationale",
+        "operates as a black box"
+      ],
+      "note": "black box 较形象"
+    },
+    {
+      "base": "help people decide",
+      "options": [
+        "support human judgement",
+        "inform professional decisions",
+        "provide decision assistance"
+      ],
+      "note": "避免暗示机器必须作最终决定"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Although + an AI system + can identify patterns in data, it cannot make + an ethical or professional judgement + without human input.",
+      "cn": "尽管某人工智能系统能够识别某种规律，但没有人工参与，它无法决定价值判断。",
+      "example": "Although an AI system can identify patients at higher statistical risk, it cannot determine how limited treatment should be allocated without human input."
+    },
+    {
+      "pattern": "The more serious the consequences of + an automated decision + are, the stronger + human oversight + should be.",
+      "cn": "自动化决定的影响越重大，监督或保障措施就应越严格。",
+      "example": "The more consequential an automated hiring decision is, the stronger the opportunity for human review should be."
+    },
+    {
+      "pattern": "Rather than asking whether AI can + perform a task, institutions should ask whether it can do so + accurately and fairly.",
+      "cn": "与其问人工智能能否完成某项任务，机构更应问它在什么条件下能够达到某项标准。",
+      "example": "Rather than asking whether AI can mark essays, schools should ask under what conditions it can do so consistently and fairly."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "take the guesswork out of something",
+      "cn": "消除某事中的猜测成分",
+      "example": "A forecasting tool can take some of the guesswork out of stock planning."
+    },
+    {
+      "text": "do the heavy lifting",
+      "cn": "承担繁重工作",
+      "example": "Software can do the heavy lifting when thousands of records need sorting."
+    },
+    {
+      "text": "use your own judgement",
+      "cn": "运用自己的判断",
+      "example": "You still need to use your own judgement when the answer affects a client."
+    },
+    {
+      "text": "improve decision-making",
+      "cn": "改善决策",
+      "example": "AI can improve decision-making when its evidence is clearly presented."
+    },
+    {
+      "text": "remain accountable for the outcome",
+      "cn": "仍对结果负责",
+      "example": "Managers must remain accountable for the outcome of an automated process."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "AI can replace human totally.",
+      "correct": "AI can replace humans entirely in some tasks.",
+      "why": "human 作可数名词时需用 humans；entirely 比 totally 更适合正式语境。"
+    },
+    {
+      "wrong": "The system gave me many useful advices.",
+      "correct": "The system gave me a great deal of useful advice.",
+      "why": "advice 是不可数名词。"
+    },
+    {
+      "wrong": "We depend in AI to make decisions.",
+      "correct": "We depend on AI to support decisions.",
+      "why": "depend 与 on 搭配；support decisions 也比代替人类决定更准确。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "AI should augment professional expertise in high-stakes fields.",
+      "topicSentence": "In medicine and law, artificial intelligence is most valuable when it extends rather than replaces expert judgement.",
+      "collocations": [
+        "analyse large datasets",
+        "flag unusual cases",
+        "retain human oversight",
+        "take responsibility for outcomes"
+      ],
+      "argument": "An algorithm can scan more records than one professional and draw attention to patterns that might otherwise be missed. However, an unusual patient or legal case may fall outside the examples on which the system was trained. A qualified professional can interpret context, explain uncertainty and accept responsibility for the final choice. Combining computational speed with accountable judgement therefore offers a safer advantage than allowing either component to operate alone."
+    },
+    {
+      "viewpoint": "Public bodies must test unequal effects before deployment.",
+      "topicSentence": "An automated system that performs well on average may still disadvantage a particular group.",
+      "collocations": [
+        "audit performance across groups",
+        "use representative training data",
+        "provide a route of appeal",
+        "suspend harmful deployment"
+      ],
+      "argument": "Suppose a voice-recognition service is highly accurate for the speakers most common in its dataset but frequently misunderstands a regional accent. If access to benefits depends on that service, average accuracy conceals a serious barrier. Agencies should test results separately across relevant populations and offer an accessible human alternative. Where a consistent gap cannot be corrected, efficiency is not a sufficient reason to keep the system in use."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe an AI-based tool that you have found useful.",
+      "answer": "I use a transcription tool after online meetings. It produces a rough written record, separates speakers and lets me search for a particular decision instead of replaying an hour of audio. The main benefit is not perfect accuracy but speed. Names and technical terms are sometimes wrong, so I compare important sections with the recording before sharing the notes. I also tell participants that transcription is being used because conversations can contain sensitive information. The tool has reduced a repetitive task, while the responsibility for checking and summarising still belongs to me. That balance is why I find it genuinely useful rather than simply impressive."
+    },
+    {
+      "part": "Part 3",
+      "question": "Which decisions should never be left entirely to artificial intelligence?",
+      "answer": "Decisions involving basic rights, severe punishment or life-changing medical treatment should always include accountable human judgement. AI may organise evidence or estimate risk, but statistics cannot settle questions about compassion, acceptable uncertainty or competing public values. People also need a meaningful explanation and a route of appeal. Human involvement is not automatically fair, of course, so reviewers need evidence and clear standards too. The essential point is that an institution cannot avoid responsibility by saying a system made the decision."
+    }
+  ],
+  "reading": {
+    "title": "The Quiet Work of Labelling Data",
+    "paragraphs": [
+      "Public discussion of artificial intelligence often concentrates on powerful models and specialist engineers. Less visible is the human labour used to prepare examples from which many systems learn. Workers label road signs in photographs, judge whether comments are offensive or outline organs in medical scans. Their decisions convert complicated reality into categories a computer can process.",
+      "The task can appear straightforward until cases become uncertain. Is a partly hidden bicycle still a bicycle? Does a sarcastic sentence express hostility, humour or both? Project instructions, usually written before every ambiguity is known, may not provide an answer. Labelers then rely on experience or make inconsistent choices, which later appear to the model as if they were objective facts. A dataset of millions of examples can therefore contain the accumulated interpretation of workers whose names never accompany it.",
+      "Working conditions influence quality. Tight deadlines reward speed, while payment per item may discourage careful consultation. Some content-moderation datasets also expose workers to disturbing material. Companies have improved guidance and wellbeing support in certain projects, yet long subcontracting chains can make responsibility difficult to locate. The organisation deploying a system may know little about the people who produced its training categories.",
+      "Researchers increasingly measure disagreement instead of forcing every item into one accepted label. If several careful reviewers interpret a sentence differently, that variation can be useful evidence about the sentence rather than mere noise to remove. Models designed to express uncertainty may preserve such information, whereas a single-label dataset hides it. This approach requires more time and complicates performance scores, which helps explain why it is not universal.",
+      "Data labelling is neither an insignificant preliminary step nor a guarantee of intelligence. It is a sequence of human judgements, made under particular instructions and economic conditions, that shapes what a system can recognise. Evaluating AI responsibly consequently involves looking behind the final interface—not only at code and accuracy figures, but also at whose interpretations became data and whose uncertainty disappeared."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for Paragraph B.",
+        "answer": "The difficulty of turning ambiguous cases into fixed categories",
+        "explanation": "Paragraph B focuses on unclear examples and inconsistent human interpretations."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "All companies provide wellbeing support to workers who label disturbing content.",
+        "answer": "False",
+        "explanation": "Paragraph 3 says support has improved only in certain projects."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Some researchers treat disagreement among reviewers as useful ______ rather than unwanted noise.",
+        "answer": "evidence",
+        "explanation": "Paragraph 4 explicitly describes disagreement as useful evidence."
+      }
+    ]
+  }
+}

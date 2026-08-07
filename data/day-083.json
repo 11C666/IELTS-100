@@ -1,0 +1,354 @@
+{
+  "id": 83,
+  "topic": "Economic Inequality",
+  "topicCN": "经济不平等",
+  "category": "Economy",
+  "vocabulary": [
+    {
+      "word": "income inequality",
+      "ipa": "/ˈɪnkʌm ˌɪnɪˈkwɒləti/",
+      "meaning": "收入不平等",
+      "collocation": "reduce income inequality",
+      "collocationCN": "缩小收入不平等"
+    },
+    {
+      "word": "wealth gap",
+      "ipa": "/welθ ɡæp/",
+      "meaning": "财富差距",
+      "collocation": "widen the wealth gap",
+      "collocationCN": "扩大财富差距"
+    },
+    {
+      "word": "social mobility",
+      "ipa": "/ˈsəʊʃəl məʊˈbɪləti/",
+      "meaning": "社会流动性",
+      "collocation": "promote social mobility",
+      "collocationCN": "促进社会流动"
+    },
+    {
+      "word": "minimum wage",
+      "ipa": "/ˈmɪnɪməm weɪdʒ/",
+      "meaning": "最低工资",
+      "collocation": "raise the minimum wage",
+      "collocationCN": "提高最低工资"
+    },
+    {
+      "word": "progressive taxation",
+      "ipa": "/prəˌɡresɪv tækˈseɪʃən/",
+      "meaning": "累进税制",
+      "collocation": "introduce progressive taxation",
+      "collocationCN": "实行累进税制"
+    },
+    {
+      "word": "redistribution",
+      "ipa": "/ˌriːdɪstrɪˈbjuːʃən/",
+      "meaning": "再分配",
+      "collocation": "support income redistribution",
+      "collocationCN": "支持收入再分配"
+    },
+    {
+      "word": "deprivation",
+      "ipa": "/ˌdeprɪˈveɪʃən/",
+      "meaning": "匮乏",
+      "collocation": "experience material deprivation",
+      "collocationCN": "经历物质匮乏"
+    },
+    {
+      "word": "living wage",
+      "ipa": "/ˈlɪvɪŋ weɪdʒ/",
+      "meaning": "生活工资",
+      "collocation": "pay a living wage",
+      "collocationCN": "支付足以生活的工资"
+    },
+    {
+      "word": "intergenerational",
+      "ipa": "/ˌɪntədʒenəˈreɪʃənəl/",
+      "meaning": "代际的",
+      "collocation": "intergenerational inequality",
+      "collocationCN": "代际不平等"
+    },
+    {
+      "word": "safety net",
+      "ipa": "/ˈseɪfti net/",
+      "meaning": "社会保障网",
+      "collocation": "strengthen the safety net",
+      "collocationCN": "加强社会保障网"
+    },
+    {
+      "word": "equal opportunity",
+      "ipa": "/ˌiːkwəl ɒpəˈtjuːnəti/",
+      "meaning": "机会平等",
+      "collocation": "ensure equal opportunity",
+      "collocationCN": "确保机会平等"
+    },
+    {
+      "word": "concentrated wealth",
+      "ipa": "/ˈkɒnsəntreɪtɪd welθ/",
+      "meaning": "集中的财富",
+      "collocation": "tax concentrated wealth",
+      "collocationCN": "对集中财富征税"
+    },
+    {
+      "word": "regional disparity",
+      "ipa": "/ˈriːdʒənəl dɪˈspærəti/",
+      "meaning": "地区差距",
+      "collocation": "address regional disparities",
+      "collocationCN": "解决地区差距"
+    },
+    {
+      "word": "upward mobility",
+      "ipa": "/ˈʌpwəd məʊˈbɪləti/",
+      "meaning": "向上流动",
+      "collocation": "enable upward mobility",
+      "collocationCN": "促进向上流动"
+    },
+    {
+      "word": "affordable childcare",
+      "ipa": "/əˌfɔːdəbəl ˈtʃaɪldkeə/",
+      "meaning": "可负担的儿童照护",
+      "collocation": "provide affordable childcare",
+      "collocationCN": "提供可负担的儿童照护"
+    },
+    {
+      "word": "get by on",
+      "ipa": "/ɡet ˈbaɪ ɒn/",
+      "meaning": "靠……勉强度日",
+      "collocation": "get by on a low wage",
+      "collocationCN": "靠低工资勉强度日"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "落后；拖欠",
+      "collocation": "fall behind with rent",
+      "collocationCN": "拖欠房租"
+    },
+    {
+      "word": "move up the ladder",
+      "ipa": "/muːv ʌp ðə ˈlædə/",
+      "meaning": "逐步提升社会或职业地位",
+      "collocation": "move up the career ladder",
+      "collocationCN": "在职业阶梯上晋升"
+    },
+    {
+      "word": "level the playing field",
+      "ipa": "/ˈlevəl ðə ˈpleɪɪŋ fiːld/",
+      "meaning": "创造更公平的竞争条件",
+      "collocation": "level the educational playing field",
+      "collocationCN": "创造更公平的教育条件"
+    },
+    {
+      "word": "break the cycle",
+      "ipa": "/breɪk ðə ˈsaɪkəl/",
+      "meaning": "打破循环",
+      "collocation": "break the cycle of poverty",
+      "collocationCN": "打破贫困循环"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "rich and poor gap",
+      "options": [
+        "income inequality",
+        "economic disparity",
+        "an unequal distribution of resources"
+      ],
+      "note": "distribution强调资源如何分配。"
+    },
+    {
+      "base": "poor families",
+      "options": [
+        "low-income households",
+        "economically disadvantaged families",
+        "households with limited financial resources"
+      ],
+      "note": "disadvantaged较正式且避免贴标签。"
+    },
+    {
+      "base": "chance to succeed",
+      "options": [
+        "opportunity for advancement",
+        "scope for upward mobility",
+        "a realistic route to improved circumstances"
+      ],
+      "note": "upward mobility侧重社会经济地位。"
+    },
+    {
+      "base": "government help",
+      "options": [
+        "public support",
+        "state assistance",
+        "provision through the social safety net"
+      ],
+      "note": "safety net指多项保障制度。"
+    },
+    {
+      "base": "high earners",
+      "options": [
+        "people on high incomes",
+        "top-income households",
+        "those at the upper end of the income distribution"
+      ],
+      "note": "最后一种最适合数据描述。"
+    },
+    {
+      "base": "basic needs",
+      "options": [
+        "essential living requirements",
+        "fundamental material needs",
+        "the goods and services required for a decent life"
+      ],
+      "note": "decent life常见于生活工资讨论。"
+    },
+    {
+      "base": "unfair advantage",
+      "options": [
+        "unequal starting point",
+        "structural advantage",
+        "a benefit arising from existing social conditions"
+      ],
+      "note": "structural避免把问题仅归因个人。"
+    },
+    {
+      "base": "reduce inequality",
+      "options": [
+        "narrow economic disparities",
+        "limit excessive income gaps",
+        "make resources and opportunities more evenly distributed"
+      ],
+      "note": "narrow disparities是常用搭配。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A policy may reduce + immediate problem + without addressing + deeper cause + that keeps + group + disadvantaged.",
+      "cn": "一项政策可能减轻眼前问题，却未解决使某群体持续处于劣势的深层原因。",
+      "example": "A food subsidy may reduce immediate hardship without addressing insecure employment that keeps families disadvantaged."
+    },
+    {
+      "pattern": "What matters is not only how much + resource + is provided, but whether + group + can actually access it.",
+      "cn": "重要的不只是提供了多少资源，还在于特定群体能否真正获得。",
+      "example": "What matters is not only how much training is provided, but whether low-paid workers can actually attend it."
+    },
+    {
+      "pattern": "Unless + barrier + is removed, + opportunity + is likely to benefit those who + existing advantage.",
+      "cn": "除非消除某项障碍，否则某种机会很可能主要惠及已有优势的人。",
+      "example": "Unless course fees are removed, professional training is likely to benefit those who already have financial support."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "struggle to get by",
+      "cn": "勉强维持生活",
+      "example": "Some full-time workers still struggle to get by."
+    },
+    {
+      "text": "start from a different position",
+      "cn": "起点不同",
+      "example": "Children start from a different position before entering school."
+    },
+    {
+      "text": "have a fair shot",
+      "cn": "拥有公平的机会",
+      "example": "Everyone should have a fair shot at secure employment."
+    },
+    {
+      "text": "narrow socioeconomic disparities",
+      "cn": "缩小社会经济差距",
+      "example": "Early support can narrow socioeconomic disparities."
+    },
+    {
+      "text": "remove structural barriers",
+      "cn": "消除结构性障碍",
+      "example": "Affordable transport helps remove structural barriers to work."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The gap between rich and poor is becoming more wider.",
+      "correct": "The gap between rich and poor is becoming wider.",
+      "why": "比较级wider前不能再加more。"
+    },
+    {
+      "wrong": "Poor people have less opportunities.",
+      "correct": "Low-income people have fewer opportunities.",
+      "why": "opportunities可数，使用fewer；low-income也更中性。"
+    },
+    {
+      "wrong": "Inequality makes people cannot succeed.",
+      "correct": "Inequality prevents some people from succeeding.",
+      "why": "不能用make somebody cannot；可用prevent somebody from doing。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Affordable childcare can reduce inequality through employment.",
+      "topicSentence": "Childcare provision is an economic policy because it determines whether many parents can remain in paid work.",
+      "collocations": [
+        "remove a barrier to employment",
+        "maintain household earnings",
+        "improve career continuity",
+        "support parental choice"
+      ],
+      "argument": "When childcare costs approach a parent’s wage, leaving employment may appear to be the only sensible choice. The resulting career break lowers current household income and can reduce later pay and pension contributions. Affordable provision allows parents, particularly those on modest wages, to keep skills and work experience. It also gives families a genuine choice rather than forcing one arrangement through price. Childcare can therefore narrow inequality across both income groups and generations."
+    },
+    {
+      "viewpoint": "Universal public services may create broader equality than cash transfers alone.",
+      "topicSentence": "Accessible services can reduce the effect of income differences on essential opportunities.",
+      "collocations": [
+        "provide universal access",
+        "reduce household costs",
+        "maintain public support",
+        "avoid administrative exclusion"
+      ],
+      "argument": "A cash payment helps a household choose what it needs, but its value may be absorbed by high local rents or medical charges. Good schools, transport and healthcare deliver essential resources directly and can serve people across income levels. Because eligibility is not narrowly tested, fewer vulnerable residents are excluded by complex forms or changing earnings. Universal programmes also tend to retain wider political support than benefits associated with one group. Targeted cash remains necessary for particular hardship, but strong services can change the conditions that repeatedly produce it."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a service that gives people in your area better opportunities.",
+      "answer": "A public library near my home gives people access to computers, quiet study space and free short courses. It is especially useful for job seekers who need to prepare applications but may not own a laptop or have a stable internet connection. Staff also help visitors use government websites, which can be confusing. I once attended a free workshop there on spreadsheet skills, and the group included students, older workers and a parent returning to employment. The library cannot remove every economic barrier, but it provides practical tools without asking people to prove that they are disadvantaged. The experience also changed how I understood the relationship between talent, support and access to opportunity."
+    },
+    {
+      "part": "Part 3",
+      "question": "Is some economic inequality unavoidable?",
+      "answer": "Some difference is probably unavoidable because occupations require different training, involve different risks and attract different levels of demand. The more important question is how large the gap becomes and whether people can still meet basic needs. Inequality is particularly troubling when family wealth determines access to education, housing or healthcare, because achievement then reflects starting position as much as effort. A society can accept varied rewards while using wages, taxation and public services to prevent disadvantage from becoming permanent."
+    }
+  ],
+  "reading": {
+    "title": "A Shorter Journey to Opportunity",
+    "paragraphs": [
+      "Economic opportunity is often discussed as though it were located inside a person: education, motivation and talent are expected to determine how far someone advances. Yet opportunity also has an address of its own. A resident may possess suitable skills for a vacancy and still be unable to accept it if the workplace is reached only by an expensive, unreliable journey. Transport researchers describe this mismatch as a problem of accessibility rather than distance alone.",
+      "One regional study linked anonymised employment records with public-transport timetables in three cities. Low-income districts were not always geographically remote from major job centres, but shift workers living there had far fewer usable connections before 7 a.m. A route that took forty minutes at midday could require two hours early in the morning. Women with childcare responsibilities faced an additional constraint because a nursery and workplace had to be reached in a workable sequence.",
+      "The cities responded differently. One extended a rail line, an expensive project expected to take eight years. Another adjusted existing bus schedules after employers supplied shift times, while the third offered discounted fares but left routes unchanged. Eighteen months later, the timetable reform had produced the clearest short-term increase in reachable vacancies. Fare reductions helped current passengers, whereas they could not make an absent early bus appear.",
+      "This does not mean that timetables always outperform infrastructure. Crowded or indirect networks may require new routes, and employment itself can move before a major line opens. The study instead changes what planners measure. Counting kilometres of track or average citywide journey times may conceal whether a cleaner, care worker or warehouse employee can arrive when a shift begins. If social mobility partly depends on connecting actual homes to actual working hours, transport policy belongs inside the debate about inequality rather than at its edge."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for paragraph 2.",
+        "answer": "C",
+        "explanation": "Paragraph 2 explains how work schedules and childcare create hidden access limits.",
+        "options": [
+          "A costly railway solution",
+          "Why workers prefer driving",
+          "The hidden importance of timing",
+          "A decline in city-centre employment"
+        ]
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The fare-reduction city also introduced new early-morning routes.",
+        "answer": "False",
+        "explanation": "It offered discounted fares but left routes unchanged."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What information did employers provide to help the second city revise buses?",
+        "answer": "shift times",
+        "explanation": "Paragraph 3 states that employers supplied shift times."
+      }
+    ]
+  }
+}

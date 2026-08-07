@@ -1,0 +1,355 @@
+{
+  "id": 12,
+  "topic": "Food and Cooking",
+  "topicCN": "食物与烹饪",
+  "category": "Daily Life",
+  "vocabulary": [
+    {
+      "word": "ingredient",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "meaning": "食材",
+      "collocation": "fresh ingredients",
+      "collocationCN": "新鲜食材"
+    },
+    {
+      "word": "recipe",
+      "ipa": "/ˈresəpi/",
+      "meaning": "食谱",
+      "collocation": "follow a recipe",
+      "collocationCN": "按照食谱"
+    },
+    {
+      "word": "dish",
+      "ipa": "/dɪʃ/",
+      "meaning": "菜肴",
+      "collocation": "prepare a dish",
+      "collocationCN": "准备菜肴"
+    },
+    {
+      "word": "cuisine",
+      "ipa": "/kwɪˈziːn/",
+      "meaning": "菜系",
+      "collocation": "regional cuisine",
+      "collocationCN": "地方菜系"
+    },
+    {
+      "word": "flavour",
+      "ipa": "/ˈfleɪvə/",
+      "meaning": "味道",
+      "collocation": "a rich flavour",
+      "collocationCN": "浓郁风味"
+    },
+    {
+      "word": "spicy",
+      "ipa": "/ˈspaɪsi/",
+      "meaning": "辛辣的",
+      "collocation": "spicy food",
+      "collocationCN": "辛辣食物"
+    },
+    {
+      "word": "nutritious",
+      "ipa": "/njuˈtrɪʃəs/",
+      "meaning": "有营养的",
+      "collocation": "a nutritious meal",
+      "collocationCN": "营养餐"
+    },
+    {
+      "word": "portion",
+      "ipa": "/ˈpɔːʃn/",
+      "meaning": "一份；分量",
+      "collocation": "a generous portion",
+      "collocationCN": "分量充足的一份"
+    },
+    {
+      "word": "appetite",
+      "ipa": "/ˈæpɪtaɪt/",
+      "meaning": "食欲",
+      "collocation": "have a good appetite",
+      "collocationCN": "胃口好"
+    },
+    {
+      "word": "leftovers",
+      "ipa": "/ˈleftəʊvəz/",
+      "meaning": "剩饭菜",
+      "collocation": "use up leftovers",
+      "collocationCN": "吃完或利用剩菜"
+    },
+    {
+      "word": "bake",
+      "ipa": "/beɪk/",
+      "meaning": "烘烤",
+      "collocation": "bake fresh bread",
+      "collocationCN": "烤新鲜面包"
+    },
+    {
+      "word": "steam",
+      "ipa": "/stiːm/",
+      "meaning": "蒸",
+      "collocation": "steam vegetables",
+      "collocationCN": "蒸蔬菜"
+    },
+    {
+      "word": "chop",
+      "ipa": "/tʃɒp/",
+      "meaning": "切碎",
+      "collocation": "finely chop an onion",
+      "collocationCN": "把洋葱切细"
+    },
+    {
+      "word": "season",
+      "ipa": "/ˈsiːzn/",
+      "meaning": "调味",
+      "collocation": "season the soup",
+      "collocationCN": "给汤调味"
+    },
+    {
+      "word": "homemade",
+      "ipa": "/ˌhəʊmˈmeɪd/",
+      "meaning": "自制的",
+      "collocation": "a homemade meal",
+      "collocationCN": "家常饭"
+    },
+    {
+      "word": "processed food",
+      "ipa": "/ˌprəʊsest ˈfuːd/",
+      "meaning": "加工食品",
+      "collocation": "limit processed food",
+      "collocationCN": "限制加工食品"
+    },
+    {
+      "word": "balanced diet",
+      "ipa": "/ˌbælənst ˈdaɪət/",
+      "meaning": "均衡饮食",
+      "collocation": "maintain a balanced diet",
+      "collocationCN": "保持均衡饮食"
+    },
+    {
+      "word": "food waste",
+      "ipa": "/ˈfuːd weɪst/",
+      "meaning": "食物浪费",
+      "collocation": "reduce food waste",
+      "collocationCN": "减少食物浪费"
+    },
+    {
+      "word": "meal preparation",
+      "ipa": "/ˈmiːl prepəˌreɪʃn/",
+      "meaning": "备餐",
+      "collocation": "do meal preparation",
+      "collocationCN": "准备餐食"
+    },
+    {
+      "word": "eat out",
+      "ipa": "/iːt aʊt/",
+      "meaning": "外出就餐",
+      "collocation": "eat out occasionally",
+      "collocationCN": "偶尔外出就餐"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "cook",
+      "options": [
+        "prepare a meal",
+        "make a dish",
+        "do the cooking"
+      ],
+      "note": "do the cooking 指承担做饭这件事。"
+    },
+    {
+      "base": "healthy food",
+      "options": [
+        "nutritious food",
+        "a balanced meal",
+        "food with high nutritional value"
+      ],
+      "note": "balanced 强调多种营养合理组合。"
+    },
+    {
+      "base": "traditional food",
+      "options": [
+        "regional cuisine",
+        "local speciality",
+        "traditional dish"
+      ],
+      "note": "speciality 指某地特别出名的食物。"
+    },
+    {
+      "base": "throw food away",
+      "options": [
+        "waste food",
+        "discard leftovers",
+        "dispose of unused food"
+      ],
+      "note": "discard 和 dispose of 较正式。"
+    },
+    {
+      "base": "very tasty",
+      "options": [
+        "flavourful",
+        "delicious",
+        "full of flavour"
+      ],
+      "note": "flavourful 强调味道丰富。"
+    },
+    {
+      "base": "restaurant food",
+      "options": [
+        "a meal out",
+        "commercially prepared food",
+        "dining-out option"
+      ],
+      "note": "meal out 更适合口语。"
+    },
+    {
+      "base": "amount of food",
+      "options": [
+        "portion",
+        "serving",
+        "quantity"
+      ],
+      "note": "portion 和 serving 常指一人份。"
+    },
+    {
+      "base": "learn cooking",
+      "options": [
+        "develop cooking skills",
+        "learn basic techniques",
+        "become confident in the kitchen"
+      ],
+      "note": "confident in the kitchen 是自然表达。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "If I have + ingredients + available, I usually + cooking action.",
+      "cn": "如果手边有某些食材，我通常会……",
+      "example": "If I have fresh vegetables available, I usually make a simple soup."
+    },
+    {
+      "pattern": "What distinguishes + cuisine + from + cuisine + is + feature.",
+      "cn": "区分两种菜系的是……",
+      "example": "What distinguishes this regional cuisine from others is its use of fresh herbs."
+    },
+    {
+      "pattern": "Cooking at home gives people greater control over + noun.",
+      "cn": "在家做饭让人们更能控制……",
+      "example": "Cooking at home gives people greater control over portion size and salt."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "cook from scratch",
+      "cn": "从原材料开始烹饪",
+      "example": "At weekends I have time to cook from scratch."
+    },
+    {
+      "text": "grab a quick bite",
+      "cn": "快速吃点东西",
+      "example": "I grabbed a quick bite before the meeting."
+    },
+    {
+      "text": "have a sweet tooth",
+      "cn": "爱吃甜食",
+      "example": "I have a sweet tooth, so I rarely refuse cake."
+    },
+    {
+      "text": "use up the leftovers",
+      "cn": "把剩菜利用完",
+      "example": "We used up the leftovers in a fried rice dish."
+    },
+    {
+      "text": "turn out well",
+      "cn": "做出来效果很好",
+      "example": "The bread took hours, but it turned out well."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I usually cook by myself dinner.",
+      "correct": "I usually cook dinner myself.",
+      "why": "宾语 dinner 放在 cook 后；myself 放句末表示亲自做。"
+    },
+    {
+      "wrong": "There are too many food.",
+      "correct": "There is too much food.",
+      "why": "food 泛指食物时不可数。"
+    },
+    {
+      "wrong": "This dish tastes very deliciously.",
+      "correct": "This dish tastes delicious.",
+      "why": "感官系动词 taste 后使用形容词。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Basic cooking should be taught at school.",
+      "topicSentence": "Cooking is a practical life skill that supports health and financial independence.",
+      "collocations": [
+        "prepare a balanced meal",
+        "understand food labels",
+        "manage a food budget",
+        "develop practical skills"
+      ],
+      "argument": "Young people who cannot prepare simple meals may depend on expensive takeaway or highly processed food. Lessons can teach safe knife use, basic nutrition and how to plan several meals from affordable ingredients. Students would then be better prepared to live independently. The subject need not replace academic study; short practical courses would be sufficient. Cooking education could therefore improve both health and confidence."
+    },
+    {
+      "viewpoint": "Households can reduce food waste through better planning.",
+      "topicSentence": "A large share of avoidable food waste begins with purchasing more than a household can use.",
+      "collocations": [
+        "plan meals in advance",
+        "check expiry dates",
+        "store food correctly",
+        "use up leftovers"
+      ],
+      "argument": "Special offers encourage shoppers to buy large quantities even when they have no plan for them. Fresh food then spoils unseen at the back of a refrigerator. Writing a list after checking existing supplies can prevent duplicate purchases. Freezing portions and using leftovers creatively also extend the useful life of food. These small habits save money while reducing the resources wasted in production and transport."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you enjoy cooking?",
+      "answer": "Yes, especially when I’m not in a hurry. On weekdays I make simple things such as noodles or soup, but at weekends I sometimes try a new recipe. I like the practical side of turning a few ingredients into a proper meal. Cleaning the kitchen afterwards is the part I could happily avoid."
+    },
+    {
+      "part": "Part 1",
+      "question": "Is there a dish you learned to cook from someone else?",
+      "answer": "My grandmother taught me to make dumplings. She never measures anything, so at first I found it difficult to copy her. I had to watch the texture of the filling and learn by trial and error. Mine still don’t look as neat as hers, but making them reminds me of family gatherings, which matters more than perfect shapes."
+    }
+  ],
+  "reading": {
+    "title": "The Recipe That Never Stays the Same",
+    "paragraphs": [
+      "Recipes appear to offer certainty: a list of ingredients followed by ordered instructions. In practice, the same recipe produces different results in different kitchens. Flour absorbs water according to storage and climate, ovens vary in temperature, and vegetables contain changing amounts of moisture. Experienced cooks respond to these variations almost automatically, while beginners may follow every number and still wonder what went wrong.",
+      "Historically, many recipes were not written for beginners. They served as reminders for people who already understood basic methods, so instructions such as ‘cook until ready’ were considered sufficient. Exact weights became more common with domestic scales, standardised measures and mass publishing. This made recipes easier to share, but it also encouraged the belief that cooking could be separated entirely from judgement.",
+      "Sensory information fills the gap left by numbers. Dough may need to feel smooth, onions should become translucent, and a sauce can be reduced until it coats a spoon. These descriptions are harder to standardise, yet they teach readers what change to observe. Video demonstrations add movement and sound, although they cannot reproduce smell, taste or the heat of a particular stove.",
+      "A recipe is therefore best understood as a tested route rather than an unbreakable rule. Substitution may be necessary because of allergies, cost or local availability. Changing one ingredient can alter texture as well as flavour, so adaptation still requires knowledge. The confident cook follows instructions closely when precision matters, but also recognises when the food itself provides better evidence than the clock.",
+      "Cooks also learn through comparison. Preparing the same dish several times makes small differences easier to notice: a hotter pan changes browning, while resting dough alters texture. This repeated practice turns written instructions into practical knowledge. The recipe remains useful, but the cook gradually understands which details are essential and which can respond to preference or circumstance."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Identical recipes always produce identical results.",
+        "answer": "False",
+        "explanation": "Paragraph 1 lists several reasons results vary."
+      },
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for Paragraph B.",
+        "options": [
+          "From assumed knowledge to exact measurement",
+          "Why vegetables contain water",
+          "The disappearance of home cooking",
+          "A universal oven temperature"
+        ],
+        "answer": "A",
+        "explanation": "Paragraph B contrasts early reminder-style recipes with standardised modern ones."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What should a reduced sauce coat? (NO MORE THAN TWO WORDS)",
+        "answer": "a spoon",
+        "explanation": "Paragraph 3 gives this sensory test."
+      }
+    ]
+  }
+}

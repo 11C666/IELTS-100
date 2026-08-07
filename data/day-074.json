@@ -1,0 +1,349 @@
+{
+  "id": 74,
+  "topic": "Waste and Recycling",
+  "topicCN": "垃圾与回收",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "municipal waste",
+      "ipa": "/mjuːˈnɪsɪpəl weɪst/",
+      "meaning": "城市生活垃圾",
+      "collocation": "collect municipal waste",
+      "collocationCN": "收集城市生活垃圾"
+    },
+    {
+      "word": "landfill",
+      "ipa": "/ˈlændfɪl/",
+      "meaning": "垃圾填埋场",
+      "collocation": "divert waste from landfill",
+      "collocationCN": "使垃圾免于填埋"
+    },
+    {
+      "word": "recyclable",
+      "ipa": "/ˌriːˈsaɪkləbəl/",
+      "meaning": "可回收的",
+      "collocation": "recyclable packaging",
+      "collocationCN": "可回收包装"
+    },
+    {
+      "word": "contamination",
+      "ipa": "/kənˌtæmɪˈneɪʃən/",
+      "meaning": "污染；混入杂物",
+      "collocation": "reduce recycling contamination",
+      "collocationCN": "减少回收物污染"
+    },
+    {
+      "word": "compost",
+      "ipa": "/ˈkɒmpɒst/",
+      "meaning": "堆肥",
+      "collocation": "turn food scraps into compost",
+      "collocationCN": "把厨余变成堆肥"
+    },
+    {
+      "word": "single-use",
+      "ipa": "/ˌsɪŋɡəl ˈjuːs/",
+      "meaning": "一次性的",
+      "collocation": "phase out single-use plastics",
+      "collocationCN": "逐步淘汰一次性塑料"
+    },
+    {
+      "word": "collection scheme",
+      "ipa": "/kəˈlekʃən skiːm/",
+      "meaning": "收集计划",
+      "collocation": "run a kerbside collection scheme",
+      "collocationCN": "实行路边回收计划"
+    },
+    {
+      "word": "sorting facility",
+      "ipa": "/ˈsɔːtɪŋ fəˌsɪləti/",
+      "meaning": "分拣设施",
+      "collocation": "upgrade a sorting facility",
+      "collocationCN": "升级分拣设施"
+    },
+    {
+      "word": "circular economy",
+      "ipa": "/ˌsɜːkjələr ɪˈkɒnəmi/",
+      "meaning": "循环经济",
+      "collocation": "move towards a circular economy",
+      "collocationCN": "迈向循环经济"
+    },
+    {
+      "word": "recover materials",
+      "ipa": "/rɪˈkʌvə məˈtɪəriəlz/",
+      "meaning": "回收材料",
+      "collocation": "recover valuable materials",
+      "collocationCN": "回收有价值的材料"
+    },
+    {
+      "word": "product lifespan",
+      "ipa": "/ˈprɒdʌkt ˈlaɪfspæn/",
+      "meaning": "产品寿命",
+      "collocation": "extend a product’s lifespan",
+      "collocationCN": "延长产品寿命"
+    },
+    {
+      "word": "repairable",
+      "ipa": "/rɪˈpeərəbəl/",
+      "meaning": "可维修的",
+      "collocation": "design repairable appliances",
+      "collocationCN": "设计可维修电器"
+    },
+    {
+      "word": "disposable",
+      "ipa": "/dɪˈspəʊzəbəl/",
+      "meaning": "用后即弃的",
+      "collocation": "avoid disposable items",
+      "collocationCN": "避免一次性用品"
+    },
+    {
+      "word": "deposit-return scheme",
+      "ipa": "/dɪˈpɒzɪt rɪˌtɜːn skiːm/",
+      "meaning": "押金返还制度",
+      "collocation": "introduce a deposit-return scheme",
+      "collocationCN": "引入押金返还制度"
+    },
+    {
+      "word": "separate waste",
+      "ipa": "/ˈsepəreɪt weɪst/",
+      "meaning": "垃圾分类",
+      "collocation": "separate waste at home",
+      "collocationCN": "在家进行垃圾分类"
+    },
+    {
+      "word": "cut down on waste",
+      "ipa": "/kʌt daʊn ɒn weɪst/",
+      "meaning": "减少垃圾",
+      "collocation": "cut down on food waste",
+      "collocationCN": "减少食物浪费"
+    },
+    {
+      "word": "throw something away",
+      "ipa": "/θrəʊ ˌsʌmθɪŋ əˈweɪ/",
+      "meaning": "扔掉某物",
+      "collocation": "think before throwing it away",
+      "collocationCN": "扔掉前先考虑"
+    },
+    {
+      "word": "use something up",
+      "ipa": "/juːz ˌsʌmθɪŋ ˈʌp/",
+      "meaning": "用完某物",
+      "collocation": "use up leftovers",
+      "collocationCN": "吃完剩饭"
+    },
+    {
+      "word": "collection day",
+      "ipa": "/kəˈlekʃən deɪ/",
+      "meaning": "垃圾收集日",
+      "collocation": "put the bins out on collection day",
+      "collocationCN": "收集日把垃圾桶推出去"
+    },
+    {
+      "word": "waste hierarchy",
+      "ipa": "/weɪst ˈhaɪərɑːki/",
+      "meaning": "废物管理层级",
+      "collocation": "follow the waste hierarchy",
+      "collocationCN": "遵循废物管理层级"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "reduce waste",
+      "options": [
+        "prevent waste",
+        "cut waste generation",
+        "minimise discarded material"
+      ],
+      "note": "prevent强调从源头避免，minimise适合正式写作。"
+    },
+    {
+      "base": "recycle",
+      "options": [
+        "reprocess",
+        "recover materials from",
+        "return to productive use"
+      ],
+      "note": "reprocess强调工业处理过程。"
+    },
+    {
+      "base": "throw away",
+      "options": [
+        "discard",
+        "dispose of",
+        "send to waste"
+      ],
+      "note": "dispose of较正式，后接具体物品。"
+    },
+    {
+      "base": "too much packaging",
+      "options": [
+        "excessive packaging",
+        "unnecessary wrapping",
+        "an overuse of packaging"
+      ],
+      "note": "excessive可直接用于Task 2批评过度包装。"
+    },
+    {
+      "base": "household rubbish",
+      "options": [
+        "domestic waste",
+        "residential refuse",
+        "waste produced at home"
+      ],
+      "note": "domestic waste是常见学术搭配。"
+    },
+    {
+      "base": "reuse products",
+      "options": [
+        "use items again",
+        "give products a second life",
+        "keep goods in circulation"
+      ],
+      "note": "keep goods in circulation适合循环经济语境。"
+    },
+    {
+      "base": "make producers responsible",
+      "options": [
+        "extend producer responsibility",
+        "hold manufacturers accountable",
+        "shift disposal costs to producers"
+      ],
+      "note": "三种表达侧重点分别是制度、问责和成本。"
+    },
+    {
+      "base": "a recycling system",
+      "options": [
+        "a recovery programme",
+        "a material-collection network",
+        "a resource-recovery system"
+      ],
+      "note": "resource recovery比单纯recycling范围更广。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Rather than treating + a used product + as waste, + a company or household + can + repair, reuse or recover it.",
+      "cn": "与其把某种废弃物当作垃圾，相关主体可以采取回收利用措施。",
+      "example": "Rather than treating old laptops as waste, repair centres can recover working components."
+    },
+    {
+      "pattern": "Whether + a material + can be recycled depends less on + the symbol on its package + than on + local collection and processing facilities.",
+      "cn": "某种材料能否回收，与其说取决于通常的假设，不如说取决于实际条件。",
+      "example": "Whether plastic can be recycled depends less on its symbol than on the facilities available locally."
+    },
+    {
+      "pattern": "Only when + recyclable materials are collected separately + does + high-quality recycling become possible.",
+      "cn": "只有满足某种收集条件，理想的回收结果才会出现。",
+      "example": "Only when food residue is removed does recycled paper retain sufficient quality."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "put the recycling out",
+      "cn": "把回收物拿出去等待收集",
+      "example": "I put the recycling out before leaving for work."
+    },
+    {
+      "text": "give it a second life",
+      "cn": "让某物得到二次利用",
+      "example": "Repairing the chair gave it a second life."
+    },
+    {
+      "text": "end up in landfill",
+      "cn": "最终进入填埋场",
+      "example": "Many usable objects still end up in landfill."
+    },
+    {
+      "text": "reduce waste at source",
+      "cn": "从源头减少废物",
+      "example": "Refill systems reduce waste at source."
+    },
+    {
+      "text": "keep materials in circulation",
+      "cn": "让材料持续循环使用",
+      "example": "Repair and resale keep materials in circulation."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "This bottle can be recycled again and again forever.",
+      "correct": "This bottle can be recycled several times, although its quality may decline.",
+      "why": "多数材料会降级，forever属于不准确的绝对化表达。"
+    },
+    {
+      "wrong": "We should classify the rubbish at home.",
+      "correct": "We should separate the rubbish at home.",
+      "why": "日常垃圾分类通常用separate或sort，不用classify。"
+    },
+    {
+      "wrong": "There are many wastes in the bin.",
+      "correct": "There is a lot of waste in the bin.",
+      "why": "表示废弃物总称时，waste通常不可数。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Prevention deserves priority over recycling.",
+      "topicSentence": "Governments should focus first on preventing unnecessary waste rather than relying on recycling after consumption.",
+      "collocations": [
+        "prevent waste at source",
+        "extend product lifespans",
+        "discourage disposable consumption",
+        "reduce demand for raw materials"
+      ],
+      "argument": "Recycling recovers some resources, but collection and reprocessing still require energy and infrastructure. Preventing an item from becoming waste avoids those costs altogether. For example, repair guarantees can keep appliances in use while refill services eliminate repeated packaging. Recycling remains necessary for unavoidable waste, yet it should follow reduction and reuse in the policy hierarchy."
+    },
+    {
+      "viewpoint": "Producers should bear more end-of-life responsibility.",
+      "topicSentence": "Making manufacturers responsible for discarded products can improve design as well as waste collection.",
+      "collocations": [
+        "extend producer responsibility",
+        "cover disposal costs",
+        "design for disassembly",
+        "create a financial incentive"
+      ],
+      "argument": "At present, local taxpayers often fund the disposal of goods whose packaging and construction they did not choose. If producers must collect or finance those products at the end of their lives, difficult-to-recycle designs become more expensive. Manufacturers then have an incentive to reduce mixed materials and make components replaceable. Deposit schemes for bottles show how responsibility can also create a convenient return route. Carefully designed rules can therefore shift waste prevention upstream without removing consumer choice."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe something you repaired instead of throwing away.",
+      "answer": "I repaired a desk lamp that had stopped working after several years. At first I assumed the whole lamp was broken, but a local repair shop found that only the switch needed replacing. The repair took about twenty minutes and cost far less than a new lamp. I was pleased because the metal body and shade were still in excellent condition, so throwing them away would have made no sense. Since then, I have become more willing to ask whether an object has one faulty part rather than treating it as completely useless. I still replace things when repair is unsafe or impractical, but that small experience made repair feel like a normal option rather than a specialist hobby."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why do some people fail to recycle even when collection services are available?",
+      "answer": "Convenience is only part of the explanation. People may be unsure which materials belong in each bin, especially when labels vary between neighbourhoods or packaging combines several materials. Limited space in small homes can also make sorting difficult. In addition, some residents doubt that separated waste is genuinely recycled, so they see little value in making an effort. Clear instructions, reliable collection and honest reporting about what happens afterwards can address these barriers. Penalties alone are unlikely to work if the system itself remains confusing."
+    }
+  ],
+  "reading": {
+    "title": "What a Recycling Symbol Cannot Tell You",
+    "paragraphs": [
+      "A triangle of arrows on a package appears to offer a simple instruction: recycle this item. In practice, the symbol may identify the type of plastic rather than confirm that a local service accepts it. Residents who place every marked package in a recycling bin are therefore acting reasonably, yet their well-intentioned decisions can create contamination at sorting facilities.",
+      "Local variation explains much of the confusion. A council that has a buyer for clear plastic trays may collect them, whereas a neighbouring authority, using different machinery and serving a smaller market, may reject the same objects. Packaging design changes faster than collection contracts, which are often agreed for several years. Consequently, a label printed for a national market cannot always describe a recycling route that depends on local equipment, transport costs and demand for recovered material.",
+      "Contamination is not merely an untidy bin. Food residue can damage paper fibres, and plastic film, wrapping itself around rotating equipment, may force a processing line to stop while workers remove it. Some facilities accept mixed recyclables because participation is higher when households use one container; others require separation because cleaner material commands a better price. Neither arrangement is automatically superior, although instructions must match the system actually operating.",
+      "Several governments are developing labels that combine material information with disposal guidance. For such labels to remain accurate, producers, retailers and waste authorities need a shared database that can reflect regional differences. Digital codes could provide local instructions, but requiring a phone to understand a packet would disadvantage some users. The essential message still needs to be visible at the moment of disposal.",
+      "Better labels will not solve weak markets for recovered material or make every composite package recyclable. They can, however, replace a hopeful symbol with a realistic action. That modest improvement matters: a recycling system works not when every object carries green arrows, but when people can identify the correct route and trust that the route leads somewhere useful."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "A recycling symbol always confirms that a local authority accepts the package.",
+        "answer": "False",
+        "explanation": "Paragraph 1 states that the symbol may only identify the plastic type."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains why plastic film can interrupt machinery?",
+        "answer": "C",
+        "explanation": "Paragraph C describes film wrapping around rotating equipment."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Cleaner recovered material may command a better ______.",
+        "answer": "price",
+        "explanation": "Paragraph 3 states that cleaner material commands a better price."
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "id": 38,
+  "topic": "Entrepreneurship",
+  "topicCN": "创业",
+  "category": "Economy",
+  "vocabulary": [
+    {
+      "word": "entrepreneurial mindset",
+      "ipa": "/ˌɒntrəprəˈnɜːriəl ˈmaɪndset/",
+      "meaning": "创业思维",
+      "collocation": "cultivate an entrepreneurial mindset",
+      "collocationCN": "培养创业思维"
+    },
+    {
+      "word": "business venture",
+      "ipa": "/ˈbɪznəs ˌventʃə/",
+      "meaning": "商业项目；创业企业",
+      "collocation": "launch a new business venture",
+      "collocationCN": "创办新的商业项目"
+    },
+    {
+      "word": "start-up capital",
+      "ipa": "/ˈstɑːt ʌp ˌkæpɪtəl/",
+      "meaning": "创业资本",
+      "collocation": "raise sufficient start-up capital",
+      "collocationCN": "筹集充足的创业资本"
+    },
+    {
+      "word": "value proposition",
+      "ipa": "/ˈvæljuː ˌprɒpəˈzɪʃən/",
+      "meaning": "价值主张",
+      "collocation": "define a compelling value proposition",
+      "collocationCN": "明确有吸引力的价值主张"
+    },
+    {
+      "word": "market niche",
+      "ipa": "/ˈmɑːkɪt niːʃ/",
+      "meaning": "细分市场",
+      "collocation": "identify an underserved market niche",
+      "collocationCN": "发现服务不足的细分市场"
+    },
+    {
+      "word": "proof of concept",
+      "ipa": "/ˌpruːf əv ˈkɒnsept/",
+      "meaning": "概念验证",
+      "collocation": "develop a proof of concept",
+      "collocationCN": "开发概念验证方案"
+    },
+    {
+      "word": "minimum viable product",
+      "ipa": "/ˌmɪnɪməm ˌvaɪəbəl ˈprɒdʌkt/",
+      "meaning": "最小可行产品",
+      "collocation": "test a minimum viable product",
+      "collocationCN": "测试最小可行产品"
+    },
+    {
+      "word": "cash flow",
+      "ipa": "/ˈkæʃ fləʊ/",
+      "meaning": "现金流",
+      "collocation": "manage cash flow carefully",
+      "collocationCN": "谨慎管理现金流"
+    },
+    {
+      "word": "break-even point",
+      "ipa": "/ˈbreɪk iːvən pɔɪnt/",
+      "meaning": "盈亏平衡点",
+      "collocation": "reach the break-even point",
+      "collocationCN": "达到盈亏平衡点"
+    },
+    {
+      "word": "scalability",
+      "ipa": "/ˌskeɪləˈbɪləti/",
+      "meaning": "可扩展性",
+      "collocation": "evaluate a business model’s scalability",
+      "collocationCN": "评估商业模式的可扩展性"
+    },
+    {
+      "word": "angel investor",
+      "ipa": "/ˈeɪndʒəl ɪnˌvestə/",
+      "meaning": "天使投资人",
+      "collocation": "pitch an idea to angel investors",
+      "collocationCN": "向天使投资人推介创意"
+    },
+    {
+      "word": "equity stake",
+      "ipa": "/ˈekwəti steɪk/",
+      "meaning": "股权份额",
+      "collocation": "give up an equity stake",
+      "collocationCN": "让出一部分股权"
+    },
+    {
+      "word": "customer acquisition",
+      "ipa": "/ˌkʌstəmər ˌækwɪˈzɪʃən/",
+      "meaning": "客户获取",
+      "collocation": "lower customer-acquisition costs",
+      "collocationCN": "降低获客成本"
+    },
+    {
+      "word": "revenue stream",
+      "ipa": "/ˈrevənjuː striːm/",
+      "meaning": "收入来源",
+      "collocation": "diversify revenue streams",
+      "collocationCN": "使收入来源多样化"
+    },
+    {
+      "word": "calculated risk",
+      "ipa": "/ˌkælkjəleɪtɪd ˈrɪsk/",
+      "meaning": "经过权衡的风险",
+      "collocation": "take a calculated risk",
+      "collocationCN": "承担经过评估的风险"
+    },
+    {
+      "word": "bootstrap",
+      "ipa": "/ˈbuːtstræp/",
+      "meaning": "依靠自有资金创业",
+      "collocation": "bootstrap a company in its early stages",
+      "collocationCN": "在初期用自有资金经营公司"
+    },
+    {
+      "word": "get a business off the ground",
+      "ipa": "/ɡet ə ˌbɪznəs ɒf ðə ˈɡraʊnd/",
+      "meaning": "让企业顺利起步",
+      "collocation": "secure funding to get the business off the ground",
+      "collocationCN": "获得资金让企业顺利起步"
+    },
+    {
+      "word": "wear many hats",
+      "ipa": "/weə ˌmeni ˈhæts/",
+      "meaning": "身兼多职",
+      "collocation": "wear many hats in a small start-up",
+      "collocationCN": "在小型初创企业中身兼多职"
+    },
+    {
+      "word": "spot a gap in the market",
+      "ipa": "/spɒt ə ɡæp ɪn ðə ˈmɑːkɪt/",
+      "meaning": "发现市场空白",
+      "collocation": "spot a gap in the local market",
+      "collocationCN": "发现本地市场空白"
+    },
+    {
+      "word": "pivot",
+      "ipa": "/ˈpɪvət/",
+      "meaning": "调整商业方向",
+      "collocation": "pivot in response to customer feedback",
+      "collocationCN": "根据客户反馈调整商业方向"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "start a business",
+      "options": [
+        "launch a venture",
+        "set up an enterprise",
+        "found a company"
+      ],
+      "note": "venture 强调风险与新项目。"
+    },
+    {
+      "base": "see if people will buy",
+      "options": [
+        "test market demand",
+        "validate customer interest",
+        "observe willingness to pay"
+      ],
+      "note": "praise 不等于 willingness to pay。"
+    },
+    {
+      "base": "simple first product",
+      "options": [
+        "minimum viable product",
+        "early prototype",
+        "limited trial offer"
+      ],
+      "note": "MVP 用于验证关键假设。"
+    },
+    {
+      "base": "money coming in",
+      "options": [
+        "revenue",
+        "sales income",
+        "business receipts"
+      ],
+      "note": "revenue 不等于 profit。"
+    },
+    {
+      "base": "cover all costs",
+      "options": [
+        "break even",
+        "reach the break-even point",
+        "generate neither profit nor loss"
+      ],
+      "note": "break even 可作动词短语。"
+    },
+    {
+      "base": "change the business idea",
+      "options": [
+        "pivot",
+        "revise the business model",
+        "change strategic direction"
+      ],
+      "note": "pivot 强调根据证据调整。"
+    },
+    {
+      "base": "risk that has been considered",
+      "options": [
+        "calculated risk",
+        "evaluated uncertainty",
+        "limited financial exposure"
+      ],
+      "note": "calculated 不等于无风险。"
+    },
+    {
+      "base": "customers who return",
+      "options": [
+        "loyal customer base",
+        "repeat clients",
+        "established clientele"
+      ],
+      "note": "clientele 多指某商家的顾客群。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A business idea becomes viable only if + customer condition + and + financial condition.",
+      "cn": "只有当顾客条件和财务条件都满足时，商业想法才可行。",
+      "example": "A business idea becomes viable only if customers value the solution and revenue can cover its cost."
+    },
+    {
+      "pattern": "Before investing heavily in + product, entrepreneurs can test + assumption + by + small experiment.",
+      "cn": "在大量投资某产品前，创业者可通过小实验检验某假设。",
+      "example": "Before investing heavily in an app, entrepreneurs can test demand with a simple manual service."
+    },
+    {
+      "pattern": "The failure of + venture + does not necessarily imply that + original problem + was unimportant.",
+      "cn": "某项创业失败不一定意味着原问题不重要。",
+      "example": "The failure of a venture does not necessarily imply that the customer problem was unimportant."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "start my own business",
+      "cn": "自己创业",
+      "example": "I would start my own business only after testing demand."
+    },
+    {
+      "text": "get an idea off the ground",
+      "cn": "让想法启动",
+      "example": "A small grant helped them get the idea off the ground."
+    },
+    {
+      "text": "take a calculated risk",
+      "cn": "承担经过评估的风险",
+      "example": "She took a calculated risk rather than borrowing the maximum amount."
+    },
+    {
+      "text": "break even",
+      "cn": "实现收支平衡",
+      "example": "The café took a year to break even."
+    },
+    {
+      "text": "build a customer base",
+      "cn": "建立客户群",
+      "example": "Reliable service helped the firm build a customer base."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "He opened a company last year.",
+      "correct": "He started a company last year.",
+      "why": "创办公司通常用 start/set up；open 多用于店铺或场所。"
+    },
+    {
+      "wrong": "The business made a big loss of money.",
+      "correct": "The business made a substantial loss.",
+      "why": "make a loss 已包含金钱含义。"
+    },
+    {
+      "wrong": "They invested on new equipment.",
+      "correct": "They invested in new equipment.",
+      "why": "invest in 是固定搭配。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Entrepreneurs should test assumptions before scaling.",
+      "topicSentence": "Small experiments can reveal whether a customer problem is real before resources are committed irreversibly.",
+      "collocations": [
+        "test market demand",
+        "build a minimum viable product",
+        "collect customer feedback",
+        "limit financial exposure"
+      ],
+      "argument": "Founders often become attached to a polished solution before confirming that customers will change their behaviour or pay for it. A manual service, prototype or limited trial can test the riskiest assumption cheaply. Negative feedback then arrives while revision remains possible. Early tests are not perfectly representative, but they are better than confidence based only on friends’ enthusiasm. Responsible experimentation reduces the cost of learning."
+    },
+    {
+      "viewpoint": "Entrepreneurship policy should not romanticise personal risk.",
+      "topicSentence": "New businesses contribute innovation, but failure should not threaten an owner’s basic security indefinitely.",
+      "collocations": [
+        "encourage business formation",
+        "access start-up finance",
+        "limit personal liability",
+        "provide a social safety net"
+      ],
+      "argument": "Starting a venture involves uncertainty that cannot be removed by motivation. When health cover, housing or lifelong debt depend on success, only wealthy households can tolerate the risk. Limited liability, proportionate bankruptcy rules and access to basic protection widen participation. These measures should not rescue fraud or careless borrowing. They recognise that useful experimentation requires a way to fail, learn and re-enter economic life."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Would you like to run your own business?",
+      "answer": "Possibly, but only on a small scale at first. I like the freedom to improve a service directly, although uncertain income and administration would worry me. I would test the idea alongside regular work before making a full commitment. Independence is attractive, but I would not confuse it with having fewer responsibilities."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a small business you admire.",
+      "answer": "I admire a neighbourhood bakery that produces only a limited range each day. The owner posts the menu early, takes pre-orders and donates the few remaining items instead of overproducing. Staff remember regular customers, but the service remains quick. The business seems carefully designed around quality and low waste rather than endless expansion. I admire it because its operating choices clearly support the values it advertises. The shop also tells customers when a popular loaf is likely to sell out rather than pretending that unlimited choice is possible. Its narrow menu probably simplifies training and purchasing, which supports consistency. I do not know its finances, but the visible decisions form a coherent model. It shows that a small enterprise can define success through reliability and community trust as well as growth."
+    }
+  ],
+  "reading": {
+    "title": "The Useful Failure of a Small Experiment",
+    "paragraphs": [
+      "Entrepreneurs are often told to persist, yet persistence can preserve a weak idea as easily as a strong one. The practical question is what should remain constant. Commitment to solving a customer problem may justify many changes in product, price or delivery. Commitment to the first solution, by contrast, can turn previous investment into a reason for further loss.",
+      "A small experiment separates assumptions. Suppose a founder believes restaurants will pay for software that reduces food waste. Building the full system tests design, pricing, installation and demand simultaneously at high cost. A manual weekly report prepared for five restaurants can first test whether managers use the recommendation and consider the saving valuable. The experiment is incomplete as a product but precise as a question.",
+      "Results require careful interpretation. A customer may praise a trial without agreeing to pay, while low use may reflect poor instructions rather than weak demand. Entrepreneurs should decide in advance what behaviour would support or weaken the assumption. Otherwise, every outcome can be described as encouragement. Talking to people remains useful, but observed choices usually provide stronger evidence than polite opinions.",
+      "The purpose of testing is not to eliminate risk. A small group may differ from the later market, and competitors can respond. It is to move uncertainty forward, when changing direction is still affordable. A failed experiment can therefore be commercially valuable if it prevents a larger mistaken investment. Learning counts as progress only when the evidence is allowed to alter the plan.",
+      "The discipline is emotional as well as analytical. Founders may treat criticism of a trial as criticism of their identity, especially after explaining the idea repeatedly to investors and friends. Naming the assumption before the result arrives creates some distance between person and proposal. A team can then abandon a feature without describing months of effort as worthless, because the effort purchased evidence that changes the next decision."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The writer recommends remaining committed to the first proposed solution.",
+        "answer": "False",
+        "explanation": "Paragraph 1 contrasts problem commitment with harmful attachment to the first solution."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why is the manual restaurant report useful?",
+        "answer": "C",
+        "explanation": "It isolates a question about whether managers value and use the recommendation.",
+        "options": [
+          "It completes every feature cheaply.",
+          "It guarantees that later customers will behave identically.",
+          "It isolates a question about whether managers value and use the recommendation.",
+          "It removes the need to discuss pricing."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Observed choices usually provide stronger evidence than polite ______.",
+        "answer": "opinions",
+        "explanation": "Paragraph 3 uses this comparison."
+      }
+    ]
+  }
+}

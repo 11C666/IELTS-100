@@ -1,0 +1,355 @@
+{
+  "id": 17,
+  "topic": "Clothing and Fashion",
+  "topicCN": "服装与时尚",
+  "category": "Culture",
+  "vocabulary": [
+    {
+      "word": "outfit",
+      "ipa": "/ˈaʊtfɪt/",
+      "meaning": "一套服装",
+      "collocation": "choose an outfit",
+      "collocationCN": "选择穿搭"
+    },
+    {
+      "word": "garment",
+      "ipa": "/ˈɡɑːmənt/",
+      "meaning": "衣服；服装",
+      "collocation": "manufacture a garment",
+      "collocationCN": "生产服装"
+    },
+    {
+      "word": "fabric",
+      "ipa": "/ˈfæbrɪk/",
+      "meaning": "面料",
+      "collocation": "natural fabric",
+      "collocationCN": "天然面料"
+    },
+    {
+      "word": "cotton",
+      "ipa": "/ˈkɒtn/",
+      "meaning": "棉",
+      "collocation": "organic cotton",
+      "collocationCN": "有机棉"
+    },
+    {
+      "word": "wool",
+      "ipa": "/wʊl/",
+      "meaning": "羊毛",
+      "collocation": "a wool coat",
+      "collocationCN": "羊毛外套"
+    },
+    {
+      "word": "size",
+      "ipa": "/saɪz/",
+      "meaning": "尺码",
+      "collocation": "the right size",
+      "collocationCN": "合适尺码"
+    },
+    {
+      "word": "fit",
+      "ipa": "/fɪt/",
+      "meaning": "合身",
+      "collocation": "fit properly",
+      "collocationCN": "合身"
+    },
+    {
+      "word": "style",
+      "ipa": "/staɪl/",
+      "meaning": "风格",
+      "collocation": "personal style",
+      "collocationCN": "个人风格"
+    },
+    {
+      "word": "trend",
+      "ipa": "/trend/",
+      "meaning": "潮流",
+      "collocation": "follow a fashion trend",
+      "collocationCN": "追随时尚潮流"
+    },
+    {
+      "word": "fashionable",
+      "ipa": "/ˈfæʃnəbl/",
+      "meaning": "时尚的",
+      "collocation": "highly fashionable",
+      "collocationCN": "非常时尚"
+    },
+    {
+      "word": "casual",
+      "ipa": "/ˈkæʒuəl/",
+      "meaning": "休闲的",
+      "collocation": "casual clothing",
+      "collocationCN": "休闲服装"
+    },
+    {
+      "word": "formal",
+      "ipa": "/ˈfɔːml/",
+      "meaning": "正式的",
+      "collocation": "formal dress",
+      "collocationCN": "正式着装"
+    },
+    {
+      "word": "comfortable",
+      "ipa": "/ˈkʌmftəbl/",
+      "meaning": "舒适的",
+      "collocation": "comfortable shoes",
+      "collocationCN": "舒适鞋子"
+    },
+    {
+      "word": "second-hand",
+      "ipa": "/ˌsekənd ˈhænd/",
+      "meaning": "二手的",
+      "collocation": "buy second-hand clothes",
+      "collocationCN": "购买二手衣物"
+    },
+    {
+      "word": "affordable",
+      "ipa": "/əˈfɔːdəbl/",
+      "meaning": "负担得起的",
+      "collocation": "affordable fashion",
+      "collocationCN": "价格可负担的时装"
+    },
+    {
+      "word": "durable",
+      "ipa": "/ˈdjʊərəbl/",
+      "meaning": "耐穿的",
+      "collocation": "durable material",
+      "collocationCN": "耐用材料"
+    },
+    {
+      "word": "dress code",
+      "ipa": "/ˈdres kəʊd/",
+      "meaning": "着装规范",
+      "collocation": "follow a dress code",
+      "collocationCN": "遵守着装规范"
+    },
+    {
+      "word": "fast fashion",
+      "ipa": "/ˌfɑːst ˈfæʃn/",
+      "meaning": "快时尚",
+      "collocation": "the fast-fashion industry",
+      "collocationCN": "快时尚行业"
+    },
+    {
+      "word": "clothing brand",
+      "ipa": "/ˈkləʊðɪŋ brænd/",
+      "meaning": "服装品牌",
+      "collocation": "an independent clothing brand",
+      "collocationCN": "独立服装品牌"
+    },
+    {
+      "word": "go out of style",
+      "ipa": "/ɡəʊ aʊt əv staɪl/",
+      "meaning": "过时",
+      "collocation": "quickly go out of style",
+      "collocationCN": "很快过时"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "clothes",
+      "options": [
+        "clothing",
+        "garments",
+        "items of clothing"
+      ],
+      "note": "clothing 不可数；garment 是单件服装。"
+    },
+    {
+      "base": "look good",
+      "options": [
+        "look stylish",
+        "be flattering",
+        "suit someone"
+      ],
+      "note": "flattering 指显得人好看；suit 指适合。"
+    },
+    {
+      "base": "in fashion",
+      "options": [
+        "fashionable",
+        "on trend",
+        "currently popular"
+      ],
+      "note": "on trend 较口语。"
+    },
+    {
+      "base": "cheap clothes",
+      "options": [
+        "low-cost clothing",
+        "affordable garments",
+        "inexpensive fashion"
+      ],
+      "note": "low-cost 更中性，不暗示质量。"
+    },
+    {
+      "base": "last a long time",
+      "options": [
+        "be durable",
+        "wear well",
+        "have a long lifespan"
+      ],
+      "note": "wear well 专门表示衣物经穿。"
+    },
+    {
+      "base": "used clothes",
+      "options": [
+        "second-hand clothing",
+        "pre-owned garments",
+        "previously worn items"
+      ],
+      "note": "pre-owned 常见于销售语境。"
+    },
+    {
+      "base": "way of dressing",
+      "options": [
+        "personal style",
+        "clothing choices",
+        "dress sense"
+      ],
+      "note": "dress sense 表示搭配判断力。"
+    },
+    {
+      "base": "rules about clothes",
+      "options": [
+        "dress code",
+        "clothing requirements",
+        "standards of dress"
+      ],
+      "note": "dress code 最自然。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "I tend to choose + clothing + based on + practical factor.",
+      "cn": "我通常根据某个实际因素选择服装。",
+      "example": "I tend to choose clothes based on comfort rather than current trends."
+    },
+    {
+      "pattern": "An item may look + adjective, but it is only useful if + clause.",
+      "cn": "一件衣物可能看起来……，但只有在……时才实用。",
+      "example": "A jacket may look stylish, but it is only useful if it keeps me warm."
+    },
+    {
+      "pattern": "The way people dress can signal + noun without + gerund.",
+      "cn": "人们的穿着方式无需……就能传达……",
+      "example": "The way people dress can signal professional identity without anyone speaking."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "dress up",
+      "cn": "穿得正式或精心打扮",
+      "example": "We had to dress up for the wedding."
+    },
+    {
+      "text": "dress down",
+      "cn": "穿得较随意",
+      "example": "Our office lets staff dress down on Fridays."
+    },
+    {
+      "text": "suit me",
+      "cn": "适合我",
+      "example": "Bright colours don’t really suit me."
+    },
+    {
+      "text": "wear something out",
+      "cn": "把衣物穿坏",
+      "example": "I wore those shoes out because I used them every day."
+    },
+    {
+      "text": "mix and match",
+      "cn": "混合搭配",
+      "example": "I buy simple pieces that are easy to mix and match."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I usually wear casual cloth.",
+      "correct": "I usually wear casual clothes.",
+      "why": "cloth 是布料；clothes 表示衣服。"
+    },
+    {
+      "wrong": "This colour is fit for me.",
+      "correct": "This colour suits me.",
+      "why": "颜色适合某人通常用 suit。"
+    },
+    {
+      "wrong": "I bought a new trousers.",
+      "correct": "I bought a new pair of trousers.",
+      "why": "trousers 是复数形式，单件用 a pair of。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Clothing durability should be easier to assess.",
+      "topicSentence": "Consumers cannot make sustainable choices when information about garment quality is hidden.",
+      "collocations": [
+        "assess fabric quality",
+        "withstand regular wear",
+        "provide care instructions",
+        "extend a garment’s life"
+      ],
+      "argument": "Online photographs reveal colour and style but say little about stitching, fabric weight or repair. As a result, shoppers may choose a cheaper garment that loses shape after a few washes. Clear construction details and realistic care information would support better comparison. Brands that make durable clothes could compete on quality rather than constant novelty. Better information would reduce replacement costs and unnecessary textile waste."
+    },
+    {
+      "viewpoint": "School dress codes should focus on function and fairness.",
+      "topicSentence": "Clothing rules are legitimate when they support safety and learning rather than enforce narrow tastes.",
+      "collocations": [
+        "apply rules consistently",
+        "avoid gender stereotypes",
+        "ensure practical safety",
+        "reduce visible inequality"
+      ],
+      "argument": "A basic uniform can reduce competition over expensive brands and make preparation simpler. Rules become problematic when they target one gender more heavily or punish harmless cultural styles. Students also need clothing suitable for weather and physical activity. Schools should explain the practical purpose of each requirement and consult families about cost. A fair dress code is clear, affordable and consistently applied."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you enjoy buying clothes?",
+      "answer": "Only when I know what I need. I find browsing without a purpose tiring because there are too many similar choices. I normally replace an item that has worn out and look for something comfortable that works with clothes I already own. Finding the right fit is more satisfying to me than following a new trend."
+    },
+    {
+      "part": "Part 1",
+      "question": "Do you wear different clothes for work and your free time?",
+      "answer": "Yes, although the difference isn’t dramatic. For work I wear simple shirts, trousers and fairly formal shoes because they look neat on video calls and in meetings. In my free time I choose softer fabrics and trainers. Having that change also helps me feel that the working day has ended when I get home."
+    }
+  ],
+  "reading": {
+    "title": "What a Label Cannot Tell You",
+    "paragraphs": [
+      "A clothing label can identify fibre content, country of manufacture and washing instructions. These facts are useful, but they do not reveal how long the garment will last. Two shirts made from the same percentage of cotton may perform differently because of fibre length, fabric density, stitching and finishing. Durability is produced by construction, not by a single material name.",
+      "Consumers often judge quality through price or brand reputation. Both can provide clues, yet neither is reliable. A high price may reflect advertising, a central shop location or limited production rather than stronger fabric. Meanwhile, an inexpensive garment can wear well if its design is simple and the seams are secure. The difficulty is that many weaknesses appear only after repeated washing.",
+      "Care also changes lifespan. Heat, aggressive detergent and unnecessary washing place stress on fibres and colour. Repairing a loose button or small tear can prevent greater damage, but modern garments are not always designed for easy repair. Decorative linings may hide seams, and replacement fasteners can be difficult to match. Skills once common in households have also become less widespread.",
+      "A meaningful durability label would need standard tests, such as resistance to rubbing, colour loss and seam failure. It would still be an estimate because wear depends on use and care. Nevertheless, comparable information could shift attention from the purchase price to cost per use. The most sustainable garment is not automatically the one with a particular fibre; it is often the one that remains useful and is worn repeatedly.",
+      "Rental and resale markets offer another source of durability evidence. A garment that retains shape and colour can circulate through several owners, spreading its production impact across more uses. However, second-hand trade cannot correct extremely weak construction: if an item fails quickly, there is nothing useful to pass on. Longevity must begin when the garment is designed."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "All shirts with the same cotton percentage have equal durability.",
+        "answer": "False",
+        "explanation": "Paragraph 1 explains that construction creates different performance."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why is price an unreliable measure of clothing quality?",
+        "options": [
+          "All expensive clothes are handmade.",
+          "Price can reflect marketing and location costs.",
+          "Cheap clothes never use cotton.",
+          "Labels always show construction quality."
+        ],
+        "answer": "B",
+        "explanation": "Paragraph 2 lists advertising and shop location."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "Name one type of damage a durability test could measure. (NO MORE THAN TWO WORDS)",
+        "answer": "seam failure",
+        "explanation": "Paragraph 4 lists rubbing, colour loss and seam failure; seam failure fits the limit."
+      }
+    ]
+  }
+}

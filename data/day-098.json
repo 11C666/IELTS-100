@@ -1,0 +1,355 @@
+{
+  "id": 98,
+  "topic": "Responsible AI",
+  "topicCN": "负责任的人工智能",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "algorithmic bias",
+      "ipa": "/ˌælɡəˈrɪðmɪk baɪəs/",
+      "meaning": "算法偏见",
+      "collocation": "detect algorithmic bias",
+      "collocationCN": "发现算法偏见"
+    },
+    {
+      "word": "accountability",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "meaning": "问责；责任归属",
+      "collocation": "establish clear accountability",
+      "collocationCN": "建立明确的问责机制"
+    },
+    {
+      "word": "transparency",
+      "ipa": "/trænsˈpærənsi/",
+      "meaning": "透明度",
+      "collocation": "improve system transparency",
+      "collocationCN": "提高系统透明度"
+    },
+    {
+      "word": "explainability",
+      "ipa": "/ɪkˌspleɪnəˈbɪləti/",
+      "meaning": "可解释性",
+      "collocation": "provide meaningful explainability",
+      "collocationCN": "提供有意义的可解释性"
+    },
+    {
+      "word": "human oversight",
+      "ipa": "/ˈhjuːmən ˈəʊvəsaɪt/",
+      "meaning": "人工监督",
+      "collocation": "retain human oversight",
+      "collocationCN": "保留人工监督"
+    },
+    {
+      "word": "training data",
+      "ipa": "/ˈtreɪnɪŋ ˌdeɪtə/",
+      "meaning": "训练数据",
+      "collocation": "audit training data",
+      "collocationCN": "审查训练数据"
+    },
+    {
+      "word": "data privacy",
+      "ipa": "/ˈdeɪtə ˌprɪvəsi/",
+      "meaning": "数据隐私",
+      "collocation": "protect data privacy",
+      "collocationCN": "保护数据隐私"
+    },
+    {
+      "word": "automated decision",
+      "ipa": "/ˈɔːtəmeɪtɪd dɪˈsɪʒən/",
+      "meaning": "自动化决策",
+      "collocation": "challenge an automated decision",
+      "collocationCN": "对自动化决策提出异议"
+    },
+    {
+      "word": "risk assessment",
+      "ipa": "/rɪsk əˈsesmənt/",
+      "meaning": "风险评估",
+      "collocation": "conduct a risk assessment",
+      "collocationCN": "开展风险评估"
+    },
+    {
+      "word": "safeguard",
+      "ipa": "/ˈseɪfɡɑːd/",
+      "meaning": "保障措施",
+      "collocation": "put safeguards in place",
+      "collocationCN": "落实保障措施"
+    },
+    {
+      "word": "unintended consequence",
+      "ipa": "/ˌʌnɪnˈtendɪd ˈkɒnsɪkwəns/",
+      "meaning": "意外后果",
+      "collocation": "anticipate unintended consequences",
+      "collocationCN": "预见意外后果"
+    },
+    {
+      "word": "discriminatory outcome",
+      "ipa": "/dɪˈskrɪmɪnətəri ˈaʊtkʌm/",
+      "meaning": "歧视性结果",
+      "collocation": "prevent discriminatory outcomes",
+      "collocationCN": "防止歧视性结果"
+    },
+    {
+      "word": "digital literacy",
+      "ipa": "/ˈdɪdʒɪtəl ˈlɪtərəsi/",
+      "meaning": "数字素养",
+      "collocation": "strengthen digital literacy",
+      "collocationCN": "提升数字素养"
+    },
+    {
+      "word": "high-stakes application",
+      "ipa": "/ˌhaɪ ˈsteɪks ˌæplɪˈkeɪʃən/",
+      "meaning": "高风险应用",
+      "collocation": "regulate high-stakes applications",
+      "collocationCN": "监管高风险应用"
+    },
+    {
+      "word": "redress",
+      "ipa": "/rɪˈdres/",
+      "meaning": "申诉与补救",
+      "collocation": "offer accessible redress",
+      "collocationCN": "提供便捷的申诉补救"
+    },
+    {
+      "word": "flag an error",
+      "ipa": "/flæɡ ən ˈerə/",
+      "meaning": "标记错误",
+      "collocation": "flag an error promptly",
+      "collocationCN": "及时标记错误"
+    },
+    {
+      "word": "double-check the output",
+      "ipa": "/ˌdʌbəl tʃek ði ˈaʊtpʊt/",
+      "meaning": "复核输出结果",
+      "collocation": "double-check the output before use",
+      "collocationCN": "使用前复核结果"
+    },
+    {
+      "word": "use your judgement",
+      "ipa": "/juːz jɔː ˈdʒʌdʒmənt/",
+      "meaning": "运用自己的判断",
+      "collocation": "use your judgement at work",
+      "collocationCN": "在工作中运用自己的判断"
+    },
+    {
+      "word": "draw the line",
+      "ipa": "/drɔː ðə laɪn/",
+      "meaning": "划定界限",
+      "collocation": "draw the line at surveillance",
+      "collocationCN": "对监控划定界限"
+    },
+    {
+      "word": "build trust",
+      "ipa": "/bɪld trʌst/",
+      "meaning": "建立信任",
+      "collocation": "build public trust",
+      "collocationCN": "建立公众信任"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "responsible AI",
+      "options": [
+        "trustworthy AI",
+        "ethically governed AI",
+        "AI developed with safeguards"
+      ],
+      "note": "trustworthy强调系统值得依赖，ethically governed强调治理过程。"
+    },
+    {
+      "base": "biased result",
+      "options": [
+        "an unfair outcome",
+        "a systematically distorted result",
+        "a decision that disadvantages certain groups"
+      ],
+      "note": "systematically distorted强调偏差并非偶然。"
+    },
+    {
+      "base": "make AI clear",
+      "options": [
+        "increase transparency",
+        "make automated processes understandable",
+        "disclose how the system is used"
+      ],
+      "note": "disclose适合讨论机构应公开的信息。"
+    },
+    {
+      "base": "people remain in control",
+      "options": [
+        "retain human oversight",
+        "keep humans involved in final decisions",
+        "ensure meaningful human control"
+      ],
+      "note": "meaningful说明监督不能只是形式。"
+    },
+    {
+      "base": "protect personal information",
+      "options": [
+        "safeguard personal data",
+        "preserve users’ privacy",
+        "limit inappropriate data use"
+      ],
+      "note": "safeguard常用于政策和制度语境。"
+    },
+    {
+      "base": "check an AI system",
+      "options": [
+        "audit the system",
+        "evaluate its performance and risks",
+        "subject the model to independent scrutiny"
+      ],
+      "note": "scrutiny表示严格、细致的审查。"
+    },
+    {
+      "base": "fix harm",
+      "options": [
+        "provide redress",
+        "remedy the harm caused",
+        "create an effective appeals process"
+      ],
+      "note": "redress兼指纠正结果和补偿受影响者。"
+    },
+    {
+      "base": "rules for AI",
+      "options": [
+        "AI governance",
+        "a regulatory framework for automated systems",
+        "standards governing AI development and use"
+      ],
+      "note": "framework适合指成套而非单项规则。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "When + AI system + is used to + high-stakes purpose, + organisation + should + safeguard.",
+      "cn": "当人工智能系统用于某种高风险用途时，相关机构应采取具体保障措施。",
+      "example": "When an AI system is used to screen job applicants, employers should allow candidates to challenge obvious errors."
+    },
+    {
+      "pattern": "The more + organisation + relies on + automated process, the more important it becomes to + human action.",
+      "cn": "机构越依赖某种自动化流程，采取相应人工措施就越重要。",
+      "example": "The more a hospital relies on automated triage, the more important it becomes to retain clinical oversight."
+    },
+    {
+      "pattern": "Although + AI benefit, it should not be assumed that + unjustified conclusion.",
+      "cn": "尽管人工智能具有某项优势，也不应因此想当然地得出某个不合理结论。",
+      "example": "Although AI can process applications quickly, it should not be assumed that its decisions are automatically fair."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "double-check what it gives you",
+      "cn": "复核它给出的内容",
+      "example": "I always double-check what it gives me before sending a report."
+    },
+    {
+      "text": "know when not to use it",
+      "cn": "知道何时不该使用它",
+      "example": "Responsible staff need to know when not to use an AI tool."
+    },
+    {
+      "text": "keep a human in the loop",
+      "cn": "让人工参与关键环节",
+      "example": "Banks should keep a human in the loop when loans are rejected."
+    },
+    {
+      "text": "embed safeguards from the outset",
+      "cn": "从一开始就纳入保障措施",
+      "example": "Developers should embed safeguards from the outset."
+    },
+    {
+      "text": "earn public trust",
+      "cn": "赢得公众信任",
+      "example": "Transparent complaint procedures can help institutions earn public trust."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "AI can avoid all the human biases.",
+      "correct": "AI can reduce some human biases, but it may reproduce others.",
+      "why": "bias表示一类现象时通常不可数，而且绝对化的all不准确。"
+    },
+    {
+      "wrong": "The system suggested me to reject the application.",
+      "correct": "The system suggested rejecting the application.",
+      "why": "suggest后接动名词，不能使用suggest somebody to do。"
+    },
+    {
+      "wrong": "People should be explained how the decision was made.",
+      "correct": "People should be told how the decision was made.",
+      "why": "explain的对象是内容；应说explain the decision to people或tell people。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "High-stakes AI requires a right to human review.",
+      "topicSentence": "People affected by consequential automated decisions should be able to request a genuine human review.",
+      "collocations": [
+        "challenge an automated decision",
+        "provide accessible redress",
+        "retain meaningful oversight",
+        "correct contextual errors"
+      ],
+      "argument": "Automated assessment can process thousands of cases consistently, yet it may overlook unusual circumstances that its data does not represent. A rejected welfare applicant, for instance, may have been recorded under two slightly different names rather than being ineligible. Human review allows evidence and context to be reconsidered before an error causes lasting harm. It also reveals recurring faults that developers can correct. An appeal should therefore involve real authority to change the result, not merely a person repeating the machine’s conclusion."
+    },
+    {
+      "viewpoint": "AI literacy should accompany workplace adoption.",
+      "topicSentence": "Training employees to question AI output is as important as teaching them to operate the software.",
+      "collocations": [
+        "use professional judgement",
+        "recognise system limitations",
+        "verify critical information",
+        "report recurring errors"
+      ],
+      "argument": "A company may purchase an efficient AI assistant, but productivity will not improve if staff either distrust every answer or accept each one without thought. Role-specific training can show employees which tasks the tool handles reliably and where verification remains essential. In accounting, for example, software might classify routine expenses while a qualified employee investigates unusual transactions. This division preserves speed without surrendering professional responsibility. Employers should measure successful adoption through sound decisions, rather than the sheer volume of AI use."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a time when you had to check information produced by a digital tool.",
+      "answer": "I once used an AI writing assistant to summarise a long set of meeting notes. The summary looked polished and saved me a lot of time, but one sentence attributed a deadline to the wrong department. I noticed the mistake because I remembered that part of the discussion, so I compared every action point with the original notes before sharing it. Most of the summary was accurate, and I still found the tool useful, but the experience changed the way I use it. I now treat generated text as a draft that needs checking rather than as a finished record. That approach takes a few extra minutes, yet it is much safer when other people will act on the information."
+    },
+    {
+      "part": "Part 3",
+      "question": "Who should be responsible when an AI-assisted decision causes harm?",
+      "answer": "Responsibility should depend on who designed, supplied and used the system, rather than being shifted vaguely onto the technology. A developer may be responsible for a known technical defect, while an organisation may be at fault for using the product in an unsuitable setting or ignoring warnings. The employee who clicks a button should not automatically carry the entire burden if they lacked training or authority. Clear records can show how a decision was reached, and regulation can assign duties before harm occurs. Most importantly, the affected person needs one identifiable organisation from which to seek an explanation and remedy."
+    }
+  ],
+  "reading": {
+    "title": "When an Explanation Becomes Another Screen",
+    "paragraphs": [
+      "A tenant whose housing application is rejected by an automated system may receive an explanation such as “insufficient stability score”. Although this statement is technically more informative than a blank refusal, it does not tell the applicant which information was considered, whether it was accurate or how the outcome can be challenged. As public agencies and businesses respond to demands for transparent artificial intelligence, a new question has emerged: what makes an explanation genuinely useful?",
+      "Early work on explainable AI often concentrated on describing which variables influenced a model. This can help engineers diagnose performance, but a list of weighted factors may be almost meaningless to somebody seeking a service. Researchers conducting user studies have found that different audiences need different accounts. An auditor may require technical evidence across thousands of cases, whereas an individual applicant needs a concise reason connected to a possible next step. The most detailed explanation is therefore not necessarily the most effective one.",
+      "Timing also matters. A bank that discloses its general use of automation only after a customer complains has provided information, but not meaningful notice. By contrast, explaining the process before data is submitted allows a person to decide whether to proceed and to correct obvious inaccuracies. Yet complete disclosure has limits: publishing every feature of a fraud-detection model could enable deliberate evasion, while exposing training records might violate other people’s privacy.",
+      "Some organisations have introduced layered explanations. A short notice identifies the decision, the principal factors and an appeal route; further material, available on request, describes testing, data sources and known limitations. Independent reviewers can inspect confidential technical details without placing them all in the public notice. This arrangement, which separates practical guidance from specialist evidence, recognises that transparency is a relationship between information and its intended user, not simply a quantity of documents.",
+      "No explanation can make an unsuitable system fair. Nevertheless, useful explanations can reveal incorrect data, support appeals and expose patterns of harm. Their success should be measured not by whether a box labelled “explanation” appears on screen, but by whether the people receiving it can understand the decision and do something informed in response."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why might a list of weighted variables be inadequate for an applicant?",
+        "answer": "B",
+        "explanation": "Paragraph 2 says technical detail may not give an individual a concise reason or useful next step.",
+        "options": [
+          "It always reveals private training records.",
+          "It may not provide a reason linked to practical action.",
+          "It prevents engineers from testing the model.",
+          "It contains too little information for auditors."
+        ]
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The writer argues that every technical feature of a fraud-detection model should be published.",
+        "answer": "False",
+        "explanation": "Paragraph 3 explains that full publication could enable evasion."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "In a layered approach, independent reviewers may inspect confidential ______ details.",
+        "answer": "technical",
+        "explanation": "Paragraph 4 states that reviewers can inspect confidential technical details."
+      }
+    ]
+  }
+}

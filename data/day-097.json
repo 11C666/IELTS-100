@@ -1,0 +1,355 @@
+{
+  "id": 97,
+  "topic": "Peace and Conflict",
+  "topicCN": "和平与冲突",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "armed conflict",
+      "ipa": "/ɑːmd ˈkɒnflɪkt/",
+      "meaning": "武装冲突",
+      "collocation": "prevent armed conflict",
+      "collocationCN": "防止武装冲突"
+    },
+    {
+      "word": "ceasefire",
+      "ipa": "/ˈsiːsfaɪə/",
+      "meaning": "停火协议",
+      "collocation": "negotiate a ceasefire",
+      "collocationCN": "谈判达成停火"
+    },
+    {
+      "word": "peace agreement",
+      "ipa": "/piːs əˈɡriːmənt/",
+      "meaning": "和平协议",
+      "collocation": "implement a peace agreement",
+      "collocationCN": "落实和平协议"
+    },
+    {
+      "word": "mediation",
+      "ipa": "/ˌmiːdiˈeɪʃən/",
+      "meaning": "调解",
+      "collocation": "facilitate international mediation",
+      "collocationCN": "促成国际调解"
+    },
+    {
+      "word": "reconciliation",
+      "ipa": "/ˌrekənsɪliˈeɪʃən/",
+      "meaning": "和解",
+      "collocation": "promote national reconciliation",
+      "collocationCN": "推动民族和解"
+    },
+    {
+      "word": "displaced person",
+      "ipa": "/dɪsˈpleɪst ˈpɜːsn/",
+      "meaning": "流离失所者",
+      "collocation": "support displaced people",
+      "collocationCN": "援助流离失所者"
+    },
+    {
+      "word": "humanitarian corridor",
+      "ipa": "/hjuːˌmænɪˈteəriən ˈkɒrɪdɔː/",
+      "meaning": "人道主义通道",
+      "collocation": "establish a humanitarian corridor",
+      "collocationCN": "建立人道主义通道"
+    },
+    {
+      "word": "civilian protection",
+      "ipa": "/səˈvɪliən prəˈtekʃən/",
+      "meaning": "平民保护",
+      "collocation": "prioritise civilian protection",
+      "collocationCN": "优先保护平民"
+    },
+    {
+      "word": "peacekeeping mission",
+      "ipa": "/ˈpiːskiːpɪŋ ˈmɪʃən/",
+      "meaning": "维和行动",
+      "collocation": "deploy a peacekeeping mission",
+      "collocationCN": "部署维和行动"
+    },
+    {
+      "word": "post-conflict recovery",
+      "ipa": "/ˌpəʊst ˈkɒnflɪkt rɪˈkʌvəri/",
+      "meaning": "冲突后恢复",
+      "collocation": "fund post-conflict recovery",
+      "collocationCN": "资助冲突后恢复"
+    },
+    {
+      "word": "transitional justice",
+      "ipa": "/trænˌzɪʃənəl ˈdʒʌstɪs/",
+      "meaning": "过渡时期正义",
+      "collocation": "pursue transitional justice",
+      "collocationCN": "推进过渡时期正义"
+    },
+    {
+      "word": "security guarantee",
+      "ipa": "/sɪˈkjʊərəti ˌɡærənˈtiː/",
+      "meaning": "安全保障",
+      "collocation": "provide credible security guarantees",
+      "collocationCN": "提供可信的安全保障"
+    },
+    {
+      "word": "demobilisation",
+      "ipa": "/diːˌməʊbəlaɪˈzeɪʃən/",
+      "meaning": "复员；解除军事动员",
+      "collocation": "support fighter demobilisation",
+      "collocationCN": "支持战斗人员复员"
+    },
+    {
+      "word": "root cause",
+      "ipa": "/ruːt kɔːz/",
+      "meaning": "根本原因",
+      "collocation": "address the root causes of conflict",
+      "collocationCN": "处理冲突根源"
+    },
+    {
+      "word": "lasting peace",
+      "ipa": "/ˈlɑːstɪŋ piːs/",
+      "meaning": "持久和平",
+      "collocation": "build a lasting peace",
+      "collocationCN": "建立持久和平"
+    },
+    {
+      "word": "ease tensions",
+      "ipa": "/iːz ˈtenʃənz/",
+      "meaning": "缓和紧张局势",
+      "collocation": "take steps to ease tensions",
+      "collocationCN": "采取措施缓和紧张局势"
+    },
+    {
+      "word": "rebuild trust",
+      "ipa": "/ˌriːˈbɪld trʌst/",
+      "meaning": "重建信任",
+      "collocation": "rebuild trust between communities",
+      "collocationCN": "重建社区之间的信任"
+    },
+    {
+      "word": "keep talks on track",
+      "ipa": "/kiːp tɔːks ɒn træk/",
+      "meaning": "使谈判保持正轨",
+      "collocation": "help keep peace talks on track",
+      "collocationCN": "帮助和平谈判保持正轨"
+    },
+    {
+      "word": "return home safely",
+      "ipa": "/rɪˈtɜːn həʊm ˈseɪfli/",
+      "meaning": "安全返乡",
+      "collocation": "enable families to return home safely",
+      "collocationCN": "使家庭能够安全返乡"
+    },
+    {
+      "word": "find common ground",
+      "ipa": "/faɪnd ˈkɒmən ɡraʊnd/",
+      "meaning": "找到共同点",
+      "collocation": "find common ground on local issues",
+      "collocationCN": "在地方议题上找到共同点"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "stop fighting",
+      "options": [
+        "end hostilities",
+        "suspend armed confrontation",
+        "bring active combat to a halt"
+      ],
+      "note": "ceasefire通常只是停止战斗，不等于冲突已经解决。"
+    },
+    {
+      "base": "make peace",
+      "options": [
+        "reach a settlement",
+        "negotiate a peace agreement",
+        "establish a mutually accepted political arrangement"
+      ],
+      "note": "settlement强调经谈判形成的安排。"
+    },
+    {
+      "base": "people forced from home",
+      "options": [
+        "displaced people",
+        "populations uprooted by conflict",
+        "civilians compelled to leave their homes"
+      ],
+      "note": "displaced不代表一定跨越国境。"
+    },
+    {
+      "base": "help two sides talk",
+      "options": [
+        "mediate between the parties",
+        "facilitate dialogue",
+        "create a channel for negotiation"
+      ],
+      "note": "mediate表示调解者协助双方，而非替双方决定。"
+    },
+    {
+      "base": "peace that lasts",
+      "options": [
+        "durable peace",
+        "a sustainable settlement",
+        "long-term stability supported by legitimate institutions"
+      ],
+      "note": "durable和sustainable都强调协议能经受压力。"
+    },
+    {
+      "base": "reasons for war",
+      "options": [
+        "drivers of conflict",
+        "underlying sources of violence",
+        "political and social conditions fuelling conflict"
+      ],
+      "note": "drivers适合指多种相互作用的因素。"
+    },
+    {
+      "base": "protect ordinary people",
+      "options": [
+        "protect civilians",
+        "safeguard non-combatants",
+        "reduce harm to conflict-affected communities"
+      ],
+      "note": "civilian是正式而准确的政策用词。"
+    },
+    {
+      "base": "become friendly again",
+      "options": [
+        "rebuild relationships",
+        "pursue reconciliation",
+        "restore sufficient trust for peaceful coexistence"
+      ],
+      "note": "reconciliation不一定意味着遗忘或完全一致。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A ceasefire can + immediate benefit without necessarily + long-term outcome.",
+      "cn": "停火可以带来某项即时益处，但未必自然产生长期结果。",
+      "example": "A ceasefire can allow aid to reach civilians without necessarily resolving the dispute over political power."
+    },
+    {
+      "pattern": "For + group + to accept + peace measure, they need confidence that + security or fairness condition.",
+      "cn": "要让某一群体接受和平措施，他们需要相信某项安全或公平条件能够得到满足。",
+      "example": "For displaced families to accept return plans, they need confidence that their homes are safe and their rights will be recognised."
+    },
+    {
+      "pattern": "Lasting peace depends not only on + formal agreement but also on + local process.",
+      "cn": "持久和平不仅取决于正式协议，也取决于地方层面的具体进程。",
+      "example": "Lasting peace depends not only on a signed agreement but also on whether local disputes can be resolved without violence."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "keep the lines of communication open",
+      "cn": "保持沟通渠道畅通",
+      "example": "Mediators tried to keep the lines of communication open during the crisis."
+    },
+    {
+      "text": "live side by side",
+      "cn": "和平共处；比邻而居",
+      "example": "The two communities had lived side by side for generations."
+    },
+    {
+      "text": "break the cycle of violence",
+      "cn": "打破暴力循环",
+      "example": "Schools and local institutions can help break the cycle of violence."
+    },
+    {
+      "text": "create the conditions for dialogue",
+      "cn": "为对话创造条件",
+      "example": "A verified pause can create the conditions for dialogue."
+    },
+    {
+      "text": "address legitimate grievances",
+      "cn": "处理合理诉求",
+      "example": "A settlement must address legitimate grievances without rewarding violence."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The two sides made a ceasefire.",
+      "correct": "The two sides agreed to a ceasefire.",
+      "why": "ceasefire通常与agree to、negotiate或declare搭配，不说make a ceasefire。"
+    },
+    {
+      "wrong": "Many civilians escaped to neighbouring regions and became refugees inside the country.",
+      "correct": "Many civilians fled to neighbouring regions and became internally displaced people.",
+      "why": "refugee按定义跨越国际边界；在本国境内流离失所应称internally displaced person。"
+    },
+    {
+      "wrong": "Peace depends of mutual trust.",
+      "correct": "Peace depends on mutual trust.",
+      "why": "depend固定与介词on搭配。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Local peacebuilding should continue alongside national negotiations.",
+      "topicSentence": "National agreements are more durable when communities have practical ways to resolve disputes peacefully.",
+      "collocations": [
+        "support local mediation",
+        "resolve everyday disputes",
+        "include community representatives",
+        "strengthen social trust"
+      ],
+      "argument": "Senior negotiators can settle constitutional or security questions, but they rarely manage conflicts over farmland, water or the return of displaced families. If these disputes remain unresolved, a local incident may undermine confidence in the national agreement. Trained mediators and representative councils can address tensions before they escalate while feeding local concerns into formal talks. Such mechanisms do not replace national leadership; they make a high-level settlement workable in daily life. Peacebuilding should therefore connect negotiation rooms with the communities expected to live under the agreement."
+    },
+    {
+      "viewpoint": "Post-conflict justice needs both accountability and social repair.",
+      "topicSentence": "Ignoring serious abuses may preserve short-term calm, yet punishment alone cannot rebuild relationships or institutions.",
+      "collocations": [
+        "investigate serious violations",
+        "recognise victims’ experiences",
+        "restore legitimate institutions",
+        "support social reconciliation"
+      ],
+      "argument": "Survivors reasonably expect crimes to be acknowledged and the most serious offenders to face credible investigation. However, a court can determine individual guilt without restoring lost livelihoods, locating missing relatives or enabling neighbours to cooperate again. A balanced process might combine focused prosecutions with truth-seeking, compensation and institutional reform. The appropriate mix will differ according to legal capacity and the wishes of affected communities. Justice contributes to peace when it addresses harm while reducing the likelihood that abusive systems will reappear."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a time when you helped resolve a disagreement.",
+      "answer": "I once helped two classmates resolve a disagreement during a group presentation. One wanted a detailed, research-heavy talk, while the other wanted to simplify everything for the audience. Their messages were becoming personal, so I suggested that we stop discussing whose idea was better and look at the assessment criteria. We agreed to keep the evidence in the main argument but move technical details to one optional slide. I also divided the speaking roles so that both people had clear responsibility. The final presentation was balanced, and the atmosphere improved once each person felt heard. I learned that resolving a disagreement is not always about finding a perfect compromise; sometimes it means identifying the shared goal and making the practical choices more specific."
+    },
+    {
+      "part": "Part 3",
+      "question": "What makes mediation effective in serious conflicts?",
+      "answer": "The mediator needs enough trust from all parties to maintain communication, but neutrality alone is not sufficient. They must understand the history, recognise unequal power and avoid pushing an agreement that one side cannot safely implement. Timing also matters, because parties may negotiate seriously only when continued conflict appears more costly than compromise. Effective mediation creates a process with clear steps, confidential discussion where necessary and some way to verify commitments. External mediators can offer guarantees or expertise, while respected local figures often understand concerns that formal delegations overlook. Ultimately, the parties themselves must regard the settlement as preferable to returning to violence."
+    }
+  ],
+  "reading": {
+    "title": "The Market Road Ceasefire",
+    "paragraphs": [
+      "For six weeks, traders in Lenda had reached the regional market by a rough northern track, adding two hours to a journey once made along the main road. Armed groups had established positions near a bridge, and an earlier promise to let civilian vehicles pass had collapsed after each side accused the other of moving supplies under cover of trade. Prices rose in villages beyond the bridge, while farmers approaching harvest risked losing produce they could not transport.",
+      "The eventual arrangement began with a narrow question rather than a comprehensive peace proposal: could the road open safely on two market days each week? Village elders, women’s associations and transport unions met representatives of both armed groups separately. They mapped checkpoints, agreed on daylight hours and created a list of vehicle types permitted to cross. No group was asked to withdraw permanently or recognise the other’s political claims.",
+      "Verification proved more difficult than negotiation. Each armed group rejected monitors associated with the opposing side, and outside observers could not arrive quickly. The mediators therefore formed mixed teams of local residents from communities on both sides of the bridge. Team members wore numbered vests, recorded crossing times in identical paper logs and reported incidents through a shared radio channel. When one truck arrived carrying fuel, a prohibited item, monitors turned it back without closing the route.",
+      "Trade resumed, but the limited ceasefire created new disputes. Villages away from the road complained that they received no comparable protection, and some fighters demanded informal payments from passengers before they reached the monitored section. Rather than describing the arrangement as a model ready for expansion, organisers published these failures and invited neighbouring communities to design different measures suited to their routes.",
+      "After four months, the main conflict remained unresolved. Nevertheless, food prices had fallen, civilian travel had become more predictable and representatives who had previously communicated only through accusation were discussing breaches by radio. The road agreement mattered not because it delivered peace in miniature, but because it protected a specific activity and established a procedure for correcting violations without immediately returning to force."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why did organisers initially focus on opening the road only on market days?",
+        "answer": "B",
+        "explanation": "They pursued a limited practical arrangement without trying to settle the whole political conflict.",
+        "options": [
+          "Outside monitors were available only twice a week.",
+          "They pursued a limited practical arrangement without trying to settle the whole political conflict.",
+          "Farmers refused to travel on other days.",
+          "Both armed groups had already agreed to withdraw permanently."
+        ]
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The mixed monitoring teams included residents from communities on both sides of the bridge.",
+        "answer": "True",
+        "explanation": "Paragraph 3 states that local residents from both sides formed mixed teams."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph mentions criticism from places that did not benefit equally from the agreement?",
+        "answer": "D",
+        "explanation": "Paragraph D says villages away from the road complained that they lacked comparable protection."
+      }
+    ]
+  }
+}

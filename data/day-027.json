@@ -1,0 +1,349 @@
+{
+  "id": 27,
+  "topic": "Languages and Communication",
+  "topicCN": "语言与沟通",
+  "category": "Education",
+  "vocabulary": [
+    {
+      "word": "fluency",
+      "ipa": "/ˈfluːənsi/",
+      "meaning": "流利度",
+      "collocation": "develop speaking fluency",
+      "collocationCN": "提升口语流利度"
+    },
+    {
+      "word": "pronunciation",
+      "ipa": "/prəˌnʌnsiˈeɪʃən/",
+      "meaning": "发音",
+      "collocation": "improve English pronunciation",
+      "collocationCN": "改善英语发音"
+    },
+    {
+      "word": "intonation",
+      "ipa": "/ˌɪntəˈneɪʃən/",
+      "meaning": "语调",
+      "collocation": "use natural intonation",
+      "collocationCN": "使用自然语调"
+    },
+    {
+      "word": "accent",
+      "ipa": "/ˈæksent/",
+      "meaning": "口音",
+      "collocation": "have a noticeable accent",
+      "collocationCN": "有明显口音"
+    },
+    {
+      "word": "vocabulary range",
+      "ipa": "/vəˈkæbjələri reɪndʒ/",
+      "meaning": "词汇广度",
+      "collocation": "display a wide vocabulary range",
+      "collocationCN": "展现丰富的词汇量"
+    },
+    {
+      "word": "idiom",
+      "ipa": "/ˈɪdiəm/",
+      "meaning": "习语",
+      "collocation": "use an idiom appropriately",
+      "collocationCN": "恰当地使用习语"
+    },
+    {
+      "word": "bilingual",
+      "ipa": "/baɪˈlɪŋɡwəl/",
+      "meaning": "双语的；双语使用者",
+      "collocation": "grow up bilingual",
+      "collocationCN": "在双语环境中长大"
+    },
+    {
+      "word": "mother tongue",
+      "ipa": "/ˌmʌðə ˈtʌŋ/",
+      "meaning": "母语",
+      "collocation": "speak in one’s mother tongue",
+      "collocationCN": "用母语说话"
+    },
+    {
+      "word": "native speaker",
+      "ipa": "/ˌneɪtɪv ˈspiːkə/",
+      "meaning": "母语使用者",
+      "collocation": "talk with native speakers",
+      "collocationCN": "与母语使用者交谈"
+    },
+    {
+      "word": "language barrier",
+      "ipa": "/ˈlæŋɡwɪdʒ ˌbæriə/",
+      "meaning": "语言障碍",
+      "collocation": "overcome a language barrier",
+      "collocationCN": "克服语言障碍"
+    },
+    {
+      "word": "body language",
+      "ipa": "/ˈbɒdi ˌlæŋɡwɪdʒ/",
+      "meaning": "肢体语言",
+      "collocation": "read someone’s body language",
+      "collocationCN": "理解某人的肢体语言"
+    },
+    {
+      "word": "eye contact",
+      "ipa": "/ˈaɪ ˌkɒntækt/",
+      "meaning": "眼神交流",
+      "collocation": "maintain appropriate eye contact",
+      "collocationCN": "保持恰当的眼神交流"
+    },
+    {
+      "word": "misunderstanding",
+      "ipa": "/ˌmɪsʌndəˈstændɪŋ/",
+      "meaning": "误解",
+      "collocation": "clear up a misunderstanding",
+      "collocationCN": "消除误解"
+    },
+    {
+      "word": "interpretation",
+      "ipa": "/ɪnˌtɜːprɪˈteɪʃən/",
+      "meaning": "口译；理解",
+      "collocation": "provide simultaneous interpretation",
+      "collocationCN": "提供同声传译"
+    },
+    {
+      "word": "translate",
+      "ipa": "/trænzˈleɪt/",
+      "meaning": "翻译",
+      "collocation": "translate meaning accurately",
+      "collocationCN": "准确翻译含义"
+    },
+    {
+      "word": "convey",
+      "ipa": "/kənˈveɪ/",
+      "meaning": "传达",
+      "collocation": "convey a clear message",
+      "collocationCN": "传达清晰的信息"
+    },
+    {
+      "word": "express oneself",
+      "ipa": "/ɪkˈspres wʌnˌself/",
+      "meaning": "表达自己",
+      "collocation": "express oneself with confidence",
+      "collocationCN": "自信地表达自己"
+    },
+    {
+      "word": "get the message across",
+      "ipa": "/ˌɡet ðə ˈmesɪdʒ əˌkrɒs/",
+      "meaning": "把意思讲清楚",
+      "collocation": "get the message across clearly",
+      "collocationCN": "把信息清楚地传达出去"
+    },
+    {
+      "word": "clarify",
+      "ipa": "/ˈklærɪfaɪ/",
+      "meaning": "澄清",
+      "collocation": "ask a question to clarify meaning",
+      "collocationCN": "通过提问澄清含义"
+    },
+    {
+      "word": "active listening",
+      "ipa": "/ˌæktɪv ˈlɪsənɪŋ/",
+      "meaning": "积极倾听",
+      "collocation": "practise active listening",
+      "collocationCN": "练习积极倾听"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "say it differently",
+      "options": [
+        "rephrase the idea",
+        "reformulate the message",
+        "put it another way"
+      ],
+      "note": "reformulate 较正式，常用于语言学习。"
+    },
+    {
+      "base": "not understand",
+      "options": [
+        "experience a misunderstanding",
+        "misinterpret the message",
+        "miss the intended meaning"
+      ],
+      "note": "misinterpret 强调作出错误解释。"
+    },
+    {
+      "base": "ask for explanation",
+      "options": [
+        "request clarification",
+        "check the intended meaning",
+        "seek a clearer account"
+      ],
+      "note": "clarification 是沟通修复关键词。"
+    },
+    {
+      "base": "speak smoothly",
+      "options": [
+        "communicate fluently",
+        "speak with ease",
+        "maintain conversational flow"
+      ],
+      "note": "fluency 不等于完全无停顿。"
+    },
+    {
+      "base": "meaning from the situation",
+      "options": [
+        "contextual meaning",
+        "contextual clues",
+        "implied meaning"
+      ],
+      "note": "implied meaning 并非字面直接表达。"
+    },
+    {
+      "base": "different language backgrounds",
+      "options": [
+        "linguistically diverse speakers",
+        "multilingual participants",
+        "speakers of different first languages"
+      ],
+      "note": "linguistically diverse 适合学术写作。"
+    },
+    {
+      "base": "correct what was said",
+      "options": [
+        "repair an utterance",
+        "self-correct",
+        "revise the wording"
+      ],
+      "note": "utterance 指一次具体话语。"
+    },
+    {
+      "base": "make meaning clear",
+      "options": [
+        "convey an idea accurately",
+        "get the point across",
+        "communicate an intention"
+      ],
+      "note": "convey 常用于正式写作。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "The ability to + language skill + enables people to + communicative outcome.",
+      "cn": "某种语言能力使人们能够……。",
+      "example": "The ability to reformulate an idea enables people to repair misunderstandings."
+    },
+    {
+      "pattern": "What sounds + quality + in one language may sound + contrasting quality + when translated literally.",
+      "cn": "在一种语言中听来自然的表达，直译后可能显得……。",
+      "example": "What sounds respectful in one language may sound distant when translated literally."
+    },
+    {
+      "pattern": "Only when + speaker + notices + signal + can + repair begin.",
+      "cn": "只有当说话者注意到某个信号时，沟通修复才能开始。",
+      "example": "Only when a speaker notices confusion can clarification begin."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "get my point across",
+      "cn": "把意思表达清楚",
+      "example": "I used a simple example to get my point across."
+    },
+    {
+      "text": "pick up on someone’s tone",
+      "cn": "注意到某人的语气",
+      "example": "It is harder to pick up on someone’s tone in a text message."
+    },
+    {
+      "text": "put something another way",
+      "cn": "换一种方式表达",
+      "example": "Let me put the idea another way."
+    },
+    {
+      "text": "lose something in translation",
+      "cn": "在翻译中丢失含义",
+      "example": "The joke lost something in translation."
+    },
+    {
+      "text": "overcome a language barrier",
+      "cn": "克服语言障碍",
+      "example": "Pictures helped us overcome the language barrier."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "We communicated each other by email.",
+      "correct": "We communicated with each other by email.",
+      "why": "communicate with somebody。"
+    },
+    {
+      "wrong": "Can you explain it more clear?",
+      "correct": "Can you explain it more clearly?",
+      "why": "修饰动词 explain 要用副词 clearly。"
+    },
+    {
+      "wrong": "I have difficulty to express this idea.",
+      "correct": "I have difficulty expressing this idea.",
+      "why": "have difficulty 后接动名词。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Successful communication requires repair, not perfect first attempts.",
+      "topicSentence": "The capacity to notice and correct misunderstanding is a central communicative skill.",
+      "collocations": [
+        "clarify an intention",
+        "rephrase an idea",
+        "interpret contextual clues",
+        "avoid a misunderstanding"
+      ],
+      "argument": "Even fluent speakers cannot predict every interpretation of their words. Differences in background, tone and assumed knowledge mean that confusion is inevitable in some conversations. Skilled communicators watch for hesitation, ask checking questions and reformulate an idea without blaming the listener. These small repairs keep a minor ambiguity from becoming conflict. Language education should therefore practise clarification strategies alongside grammar and vocabulary."
+    },
+    {
+      "viewpoint": "Learning another language can change how people interpret difference.",
+      "topicSentence": "Language study provides access to social meanings that translation alone may conceal.",
+      "collocations": [
+        "gain cultural insight",
+        "understand social conventions",
+        "interpret implied meaning",
+        "challenge assumptions"
+      ],
+      "argument": "Words encode distinctions that a learner may not previously have noticed, including levels of formality and ways of showing respect. Encountering these patterns demonstrates that familiar habits are not universal. Direct contact with speakers also reveals humour and implied meaning that literal translation often weakens. This does not guarantee tolerance, since languages can be learned without curiosity. Nevertheless, thoughtful language education can make cultural judgement slower and more informed."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "When do you find communication most difficult?",
+      "answer": "I find it hardest when a message is short and written, especially at work. Without tone of voice, a direct sentence can look annoyed even when the sender is simply busy. I usually avoid guessing and ask a neutral follow-up question. That small check has prevented several unnecessary misunderstandings. A quick clarification is usually kinder than silently forming a negative conclusion."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a time when you had to explain something carefully.",
+      "answer": "I once had to explain a payment problem to a visitor who spoke limited English. Repeating the original sentence did not help, so I removed technical terms, wrote down the two amounts and pointed to the relevant dates. I also asked the visitor to tell me what would happen next, which confirmed that we understood each other. The conversation took longer than usual, but it reminded me that clear communication depends on adaptation, not volume. The visitor then used the written figures to ask one further question, which showed exactly where uncertainty remained. I avoided pretending that the conversation was effortless; instead, we both paused when necessary. In the end the payment was corrected without involving a translator. The experience changed my view of fluency because simple language, checking and patience mattered more than producing sophisticated sentences quickly."
+    }
+  ],
+  "reading": {
+    "title": "Why Conversation Contains So Much Repair",
+    "paragraphs": [
+      "Printed dialogue often appears orderly: one speaker finishes, another responds, and every sentence is complete. Natural conversation is different. People pause, restart, replace words and interrupt themselves. Far from showing failure, many of these disruptions are repairs—small adjustments that protect shared understanding while speech is still unfolding.",
+      "A speaker may detect a problem before anyone responds. Someone who says “Turn left on Thurs—sorry, on Thompson Street” corrects both sound and reference immediately. At other times, a listener signals trouble with a question, a repeated word or even a delayed response. The original speaker can then define a term, add context or choose a simpler expression. Conversation analysts have found that speakers generally prefer to correct their own talk, which allows meaning to be restored without openly criticising the other person.",
+      "Repair becomes more visible in communication between language learners and fluent speakers, but the underlying process is universal. Technical meetings, medical appointments and family discussions all contain terms whose meaning is not equally shared. Expertise can make matters worse when a specialist no longer recognises which words require explanation. A listener may also pretend to understand in order to avoid embarrassment, allowing the problem to emerge only later.",
+      "Good communication therefore includes ways to make uncertainty safe. A doctor can ask a patient to describe instructions in their own words rather than asking “Do you understand?”, which invites an automatic yes. In classrooms, teachers can treat requests for clarification as evidence of attention. Digital communication offers fewer immediate signals, so writers may need explicit checks or examples. Fluency is often imagined as uninterrupted speech, yet practical fluency includes the ability to stop, notice a mismatch and rebuild the connection.",
+      "Repair can also protect relationships because it gives speakers a route back from an unintended effect. Saying “That sounded more critical than I meant” acknowledges the listener’s experience without claiming that harm was deliberate. The next sentence can then state the intended concern more precisely. This is different from insisting that only the speaker’s intention matters, which closes the opportunity for mutual correction."
+    ],
+    "questions": [
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains why a listener may hide confusion?",
+        "answer": "C",
+        "explanation": "Paragraph C says a listener may pretend to understand to avoid embarrassment."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Conversation analysts say listeners should normally correct a speaker directly.",
+        "answer": "False",
+        "explanation": "Paragraph 2 says speakers generally prefer to correct their own talk."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What can a doctor ask a patient to do to check understanding?",
+        "answer": "describe the instructions in their own words",
+        "explanation": "The final paragraph gives this method explicitly."
+      }
+    ]
+  }
+}

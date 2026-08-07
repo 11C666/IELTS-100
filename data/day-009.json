@@ -1,0 +1,355 @@
+{
+  "id": 9,
+  "topic": "Films and Cinema",
+  "topicCN": "电影与影院",
+  "category": "Culture",
+  "vocabulary": [
+    {
+      "word": "film",
+      "ipa": "/fɪlm/",
+      "meaning": "电影",
+      "collocation": "watch a film",
+      "collocationCN": "看电影"
+    },
+    {
+      "word": "cinema",
+      "ipa": "/ˈsɪnəmə/",
+      "meaning": "电影院；电影艺术",
+      "collocation": "go to the cinema",
+      "collocationCN": "去电影院"
+    },
+    {
+      "word": "director",
+      "ipa": "/dəˈrektə/",
+      "meaning": "导演",
+      "collocation": "an award-winning director",
+      "collocationCN": "获奖导演"
+    },
+    {
+      "word": "actor",
+      "ipa": "/ˈæktə/",
+      "meaning": "演员",
+      "collocation": "a leading actor",
+      "collocationCN": "主演"
+    },
+    {
+      "word": "cast",
+      "ipa": "/kɑːst/",
+      "meaning": "全体演员",
+      "collocation": "a talented cast",
+      "collocationCN": "有才华的演员阵容"
+    },
+    {
+      "word": "screenplay",
+      "ipa": "/ˈskriːnpleɪ/",
+      "meaning": "电影剧本",
+      "collocation": "write a screenplay",
+      "collocationCN": "写电影剧本"
+    },
+    {
+      "word": "scene",
+      "ipa": "/siːn/",
+      "meaning": "场景",
+      "collocation": "a memorable scene",
+      "collocationCN": "难忘场景"
+    },
+    {
+      "word": "soundtrack",
+      "ipa": "/ˈsaʊndtræk/",
+      "meaning": "电影配乐",
+      "collocation": "compose a soundtrack",
+      "collocationCN": "创作配乐"
+    },
+    {
+      "word": "sequel",
+      "ipa": "/ˈsiːkwəl/",
+      "meaning": "续集",
+      "collocation": "release a sequel",
+      "collocationCN": "发行续集"
+    },
+    {
+      "word": "documentary",
+      "ipa": "/ˌdɒkjuˈmentri/",
+      "meaning": "纪录片",
+      "collocation": "a nature documentary",
+      "collocationCN": "自然纪录片"
+    },
+    {
+      "word": "animation",
+      "ipa": "/ˌænɪˈmeɪʃn/",
+      "meaning": "动画片；动画制作",
+      "collocation": "computer animation",
+      "collocationCN": "电脑动画"
+    },
+    {
+      "word": "subtitles",
+      "ipa": "/ˈsʌbtaɪtlz/",
+      "meaning": "字幕",
+      "collocation": "read the subtitles",
+      "collocationCN": "阅读字幕"
+    },
+    {
+      "word": "performance",
+      "ipa": "/pəˈfɔːməns/",
+      "meaning": "表演",
+      "collocation": "give a convincing performance",
+      "collocationCN": "呈现有说服力的表演"
+    },
+    {
+      "word": "adaptation",
+      "ipa": "/ˌædæpˈteɪʃn/",
+      "meaning": "改编作品",
+      "collocation": "a film adaptation",
+      "collocationCN": "电影改编"
+    },
+    {
+      "word": "cinematography",
+      "ipa": "/ˌsɪnəməˈtɒɡrəfi/",
+      "meaning": "摄影艺术",
+      "collocation": "striking cinematography",
+      "collocationCN": "引人注目的摄影"
+    },
+    {
+      "word": "box-office hit",
+      "ipa": "/ˌbɒks ɒfɪs ˈhɪt/",
+      "meaning": "票房大片",
+      "collocation": "become a box-office hit",
+      "collocationCN": "成为票房大片"
+    },
+    {
+      "word": "special effects",
+      "ipa": "/ˌspeʃl ɪˈfekts/",
+      "meaning": "特效",
+      "collocation": "use special effects",
+      "collocationCN": "使用特效"
+    },
+    {
+      "word": "film industry",
+      "ipa": "/ˈfɪlm ˌɪndəstri/",
+      "meaning": "电影产业",
+      "collocation": "support the film industry",
+      "collocationCN": "支持电影产业"
+    },
+    {
+      "word": "critical acclaim",
+      "ipa": "/ˌkrɪtɪkl əˈkleɪm/",
+      "meaning": "评论界赞誉",
+      "collocation": "receive critical acclaim",
+      "collocationCN": "获得评论界好评"
+    },
+    {
+      "word": "streaming service",
+      "ipa": "/ˈstriːmɪŋ ˌsɜːvɪs/",
+      "meaning": "流媒体服务",
+      "collocation": "subscribe to a streaming service",
+      "collocationCN": "订阅流媒体"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "movie",
+      "options": [
+        "film",
+        "motion picture",
+        "cinematic work"
+      ],
+      "note": "film 最常用；cinematic work 较正式。"
+    },
+    {
+      "base": "very popular film",
+      "options": [
+        "box-office hit",
+        "commercial success",
+        "widely watched release"
+      ],
+      "note": "box-office hit 特指影院票房成功。"
+    },
+    {
+      "base": "based on a book",
+      "options": [
+        "adapted from a novel",
+        "a screen adaptation",
+        "derived from a literary work"
+      ],
+      "note": "adapted from 是最自然的表达。"
+    },
+    {
+      "base": "good acting",
+      "options": [
+        "convincing performance",
+        "strong cast",
+        "believable portrayal"
+      ],
+      "note": "portrayal 指对具体人物的塑造。"
+    },
+    {
+      "base": "beautiful images",
+      "options": [
+        "striking cinematography",
+        "visually impressive scenes",
+        "distinctive visual style"
+      ],
+      "note": "cinematography 包含摄影和画面处理。"
+    },
+    {
+      "base": "film story",
+      "options": [
+        "plot",
+        "narrative",
+        "storyline"
+      ],
+      "note": "plot 强调事件安排。"
+    },
+    {
+      "base": "comments from experts",
+      "options": [
+        "critical reviews",
+        "professional criticism",
+        "critical response"
+      ],
+      "note": "critical 在此表示评论性的，不一定负面。"
+    },
+    {
+      "base": "watch at home",
+      "options": [
+        "stream a film",
+        "view on demand",
+        "use a streaming service"
+      ],
+      "note": "stream 强调在线播放。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Although + film + is set in + place or period, its central theme is + noun.",
+      "cn": "虽然电影以某地或某时期为背景，但核心主题是……",
+      "example": "Although the film is set in the distant future, its central theme is family loyalty."
+    },
+    {
+      "pattern": "What makes the performance convincing is the way + actor + verb.",
+      "cn": "让表演可信的是演员……的方式。",
+      "example": "What makes the performance convincing is the way the actor shows fear without speaking."
+    },
+    {
+      "pattern": "The film raises the question of whether + complete clause.",
+      "cn": "这部电影提出了是否……的问题。",
+      "example": "The film raises the question of whether technological progress always improves human life."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "worth watching",
+      "cn": "值得一看",
+      "example": "It isn’t perfect, but it’s definitely worth watching."
+    },
+    {
+      "text": "live up to the hype",
+      "cn": "不负盛名或宣传",
+      "example": "The sequel didn’t quite live up to the hype."
+    },
+    {
+      "text": "keep me on the edge of my seat",
+      "cn": "让我高度紧张投入",
+      "example": "The final twenty minutes kept me on the edge of my seat."
+    },
+    {
+      "text": "steal the show",
+      "cn": "抢尽风头",
+      "example": "The supporting actor completely stole the show."
+    },
+    {
+      "text": "based on a true story",
+      "cn": "根据真实故事改编",
+      "example": "It’s based on a true story, although some details were changed."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I saw a film in the cinema yesterday night.",
+      "correct": "I saw a film at the cinema last night.",
+      "why": "固定表达是 at the cinema 和 last night。"
+    },
+    {
+      "wrong": "The movie was very bored.",
+      "correct": "The movie was very boring.",
+      "why": "电影令人无聊用 boring；人感到无聊用 bored。"
+    },
+    {
+      "wrong": "It is adapted by a novel.",
+      "correct": "It is adapted from a novel.",
+      "why": "表示改编来源使用 adapted from。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Films can encourage interest in history but should not replace historical study.",
+      "topicSentence": "Historical films make past events accessible, yet dramatic storytelling can distort evidence.",
+      "collocations": [
+        "bring history to life",
+        "take creative liberties",
+        "historical accuracy",
+        "consult reliable sources"
+      ],
+      "argument": "A well-made film can give viewers a vivid sense of clothing, setting and social conflict. This emotional connection may encourage them to learn more about a period. Directors, however, often combine characters or alter events to create a clearer plot. Viewers who treat every scene as fact may develop a misleading picture. Historical cinema is therefore a useful starting point, provided that important claims are checked against reliable sources."
+    },
+    {
+      "viewpoint": "Local film production deserves public support.",
+      "topicSentence": "A domestic film industry can preserve cultural voices while creating skilled employment.",
+      "collocations": [
+        "support local production",
+        "represent diverse experiences",
+        "create skilled jobs",
+        "reach an international audience"
+      ],
+      "argument": "Large international studios dominate distribution because they possess extensive finance and marketing networks. Smaller local filmmakers may struggle even when their stories are relevant to domestic audiences. Grants or shared production facilities can help them develop work without dictating its message. Successful films also employ writers, technicians, designers and musicians. Carefully allocated support can therefore strengthen both cultural representation and the creative economy."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What kind of films do you enjoy watching?",
+      "answer": "I enjoy character-driven dramas and the occasional science-fiction film. I’m less interested in constant action than in a story where people have to make difficult choices. If the dialogue feels natural, I can forgive a modest budget. I also like documentaries, particularly when they explain a familiar issue from an angle I hadn’t considered."
+    },
+    {
+      "part": "Part 1",
+      "question": "Do you prefer watching films at home or at the cinema?",
+      "answer": "For a visually impressive film, I prefer the cinema because the screen and sound make it easier to concentrate. At home, I’m tempted to pause the film or check my phone. Still, streaming is far more convenient for an ordinary weekday, and I can choose subtitles. I probably watch more at home but remember cinema trips more clearly."
+    }
+  ],
+  "reading": {
+    "title": "How Subtitles Changed the Audience",
+    "paragraphs": [
+      "For much of cinema history, the international movement of films depended on translation. Dubbing replaced the original voices, while subtitles placed a written version of the dialogue at the bottom of the screen. Each method had supporters. Dubbing allowed viewers to focus on the image, but subtitles preserved the actors’ voices and the rhythm of the original language.",
+      "The growth of streaming has made subtitled material ordinary for audiences who once encountered it mainly at festivals or specialist cinemas. Viewers can move from a Korean drama to a Spanish documentary without waiting for a domestic remake. This change has expanded the market for smaller production industries and weakened the assumption that popular entertainment must be in English. It has also made audiences more familiar with differences in speech, humour and social convention.",
+      "Reading subtitles is not a neutral process. Text must be shortened because viewers need enough time to read while following the image. Jokes, dialect and culturally specific references may have no direct equivalent. A translator therefore makes continual choices about what information can be preserved. Two accurate subtitle versions may use noticeably different wording because they prioritise tone, clarity or literal meaning differently.",
+      "Subtitles also have educational uses. Language learners can compare spoken words with written text, while captions for viewers with hearing loss may include music and sound descriptions. However, relying on translated subtitles can draw attention away from the original speech. The most useful setting depends on the viewer’s purpose. What began as a practical solution for distributing films has become a flexible tool for access, learning and cultural exchange.",
+      "Translation choices can even influence a film’s reputation abroad. A character whose speech is playful in the original may sound formal if the subtitles preserve literal meaning but lose tone. Viewers then judge not only the filmmaker’s work but also an invisible layer created for them. Good subtitles attract little attention precisely because they allow both layers to function together."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Dubbing preserves the original actors’ voices.",
+        "answer": "False",
+        "explanation": "Paragraph 1 says dubbing replaces the voices, while subtitles preserve them."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Subtitle text is often shortened because viewers need enough ______ to read it.",
+        "answer": "time",
+        "explanation": "Paragraph 3 states this directly."
+      },
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for Paragraph D.",
+        "options": [
+          "Additional uses beyond translation",
+          "The end of international cinema",
+          "Why all learners need identical subtitles",
+          "The invention of film sound"
+        ],
+        "answer": "A",
+        "explanation": "Paragraph D discusses accessibility and language learning."
+      }
+    ]
+  }
+}

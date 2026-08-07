@@ -1,0 +1,349 @@
+{
+  "id": 47,
+  "topic": "News and Media",
+  "topicCN": "新闻与媒体",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "headline",
+      "ipa": "/ˈhedlaɪn/",
+      "meaning": "新闻标题",
+      "collocation": "write an accurate headline",
+      "collocationCN": "撰写准确的新闻标题"
+    },
+    {
+      "word": "editorial",
+      "ipa": "/ˌedɪˈtɔːriəl/",
+      "meaning": "社论",
+      "collocation": "publish an editorial",
+      "collocationCN": "发表社论"
+    },
+    {
+      "word": "correspondent",
+      "ipa": "/ˌkɒrəˈspɒndənt/",
+      "meaning": "记者；通讯员",
+      "collocation": "a foreign correspondent",
+      "collocationCN": "驻外记者"
+    },
+    {
+      "word": "newsroom",
+      "ipa": "/ˈnjuːzruːm/",
+      "meaning": "新闻编辑部",
+      "collocation": "work in a busy newsroom",
+      "collocationCN": "在繁忙的新闻编辑部工作"
+    },
+    {
+      "word": "source",
+      "ipa": "/sɔːs/",
+      "meaning": "消息来源",
+      "collocation": "verify an anonymous source",
+      "collocationCN": "核实匿名消息来源"
+    },
+    {
+      "word": "breaking news",
+      "ipa": "/ˌbreɪkɪŋ ˈnjuːz/",
+      "meaning": "突发新闻",
+      "collocation": "cover breaking news",
+      "collocationCN": "报道突发新闻"
+    },
+    {
+      "word": "byline",
+      "ipa": "/ˈbaɪlaɪn/",
+      "meaning": "署名行",
+      "collocation": "check the reporter’s byline",
+      "collocationCN": "查看记者署名"
+    },
+    {
+      "word": "coverage",
+      "ipa": "/ˈkʌvərɪdʒ/",
+      "meaning": "新闻报道",
+      "collocation": "provide balanced coverage",
+      "collocationCN": "提供平衡报道"
+    },
+    {
+      "word": "press freedom",
+      "ipa": "/ˈpres ˌfriːdəm/",
+      "meaning": "新闻自由",
+      "collocation": "defend press freedom",
+      "collocationCN": "捍卫新闻自由"
+    },
+    {
+      "word": "misinformation",
+      "ipa": "/ˌmɪsɪnfəˈmeɪʃən/",
+      "meaning": "错误信息",
+      "collocation": "counter online misinformation",
+      "collocationCN": "应对网络错误信息"
+    },
+    {
+      "word": "news bulletin",
+      "ipa": "/ˈnjuːz ˌbʊlətɪn/",
+      "meaning": "新闻简报",
+      "collocation": "listen to the morning news bulletin",
+      "collocationCN": "收听早间新闻简报"
+    },
+    {
+      "word": "eyewitness",
+      "ipa": "/ˈaɪwɪtnəs/",
+      "meaning": "目击者",
+      "collocation": "interview an eyewitness",
+      "collocationCN": "采访目击者"
+    },
+    {
+      "word": "retraction",
+      "ipa": "/rɪˈtrækʃən/",
+      "meaning": "撤稿；更正声明",
+      "collocation": "issue a full retraction",
+      "collocationCN": "发布完整撤稿声明"
+    },
+    {
+      "word": "paywall",
+      "ipa": "/ˈpeɪwɔːl/",
+      "meaning": "付费墙",
+      "collocation": "place an article behind a paywall",
+      "collocationCN": "将文章置于付费墙后"
+    },
+    {
+      "word": "news outlet",
+      "ipa": "/ˈnjuːz aʊtlet/",
+      "meaning": "新闻机构",
+      "collocation": "a reputable news outlet",
+      "collocationCN": "信誉良好的新闻机构"
+    },
+    {
+      "word": "media bias",
+      "ipa": "/ˈmiːdiə baɪəs/",
+      "meaning": "媒体偏见",
+      "collocation": "recognise media bias",
+      "collocationCN": "识别媒体偏见"
+    },
+    {
+      "word": "public-interest reporting",
+      "ipa": "/ˌpʌblɪk ˈɪntrəst rɪˌpɔːtɪŋ/",
+      "meaning": "公共利益报道",
+      "collocation": "fund public-interest reporting",
+      "collocationCN": "资助公共利益报道"
+    },
+    {
+      "word": "on the record",
+      "ipa": "/ˌɒn ðə ˈrekɔːd/",
+      "meaning": "可公开引用的",
+      "collocation": "speak on the record",
+      "collocationCN": "公开接受采访"
+    },
+    {
+      "word": "live update",
+      "ipa": "/ˌlaɪv ˈʌpdeɪt/",
+      "meaning": "实时更新",
+      "collocation": "follow live updates",
+      "collocationCN": "关注实时更新"
+    },
+    {
+      "word": "news agenda",
+      "ipa": "/ˈnjuːz əˌdʒendə/",
+      "meaning": "新闻议程",
+      "collocation": "shape the national news agenda",
+      "collocationCN": "影响全国新闻议程"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "harm",
+      "options": [
+        "damage",
+        "negative effect",
+        "undermine"
+      ],
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论新闻与媒体。"
+    },
+    {
+      "base": "support",
+      "options": [
+        "assistance",
+        "backing",
+        "provision"
+      ],
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论新闻与媒体。"
+    },
+    {
+      "base": "different",
+      "options": [
+        "distinct",
+        "varied",
+        "diverse"
+      ],
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论新闻与媒体。"
+    },
+    {
+      "base": "common",
+      "options": [
+        "widespread",
+        "frequently observed",
+        "part of everyday life"
+      ],
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论新闻与媒体。"
+    },
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论新闻与媒体。"
+    },
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论新闻与媒体。"
+    },
+    {
+      "base": "change",
+      "options": [
+        "shift",
+        "development",
+        "transformation"
+      ],
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论新闻与媒体。"
+    },
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论新闻与媒体。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A news report becomes more trustworthy when + evidence practice + rather than + weak practice.",
+      "cn": "当新闻采用某证据做法而不是较弱做法时，它更可信。",
+      "example": "A news report becomes more trustworthy when sources are independently verified rather than merely repeated."
+    },
+    {
+      "pattern": "The speed with which + story + spreads can exceed the time required to + verification.",
+      "cn": "某报道传播的速度可能超过核实所需时间。",
+      "example": "The speed with which a claim spreads can exceed the time required to check its origin."
+    },
+    {
+      "pattern": "Even if + factual statement + is accurate, its placement may + framing effect.",
+      "cn": "即使某事实陈述准确，其位置也可能产生框架效应。",
+      "example": "Even if a statistic is accurate, its placement may exaggerate the importance of one trend."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "keep up with current affairs",
+      "cn": "了解时事",
+      "example": "I use a morning newsletter to keep up with current affairs."
+    },
+    {
+      "text": "break a news story",
+      "cn": "率先报道新闻",
+      "example": "The local paper broke the news story."
+    },
+    {
+      "text": "check the original source",
+      "cn": "核查原始来源",
+      "example": "I check the original source before sharing a dramatic claim."
+    },
+    {
+      "text": "take a headline at face value",
+      "cn": "轻信标题",
+      "example": "Readers should not take a headline at face value."
+    },
+    {
+      "text": "provide balanced coverage",
+      "cn": "提供平衡报道",
+      "example": "Balanced coverage does not require treating unequal evidence as equal."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I saw a news about the election.",
+      "correct": "I saw a news report about the election.",
+      "why": "news 不可数，不能说 a news。"
+    },
+    {
+      "wrong": "The journalist said me that it was false.",
+      "correct": "The journalist told me that it was false.",
+      "why": "tell 后直接接人；say 后需 to。"
+    },
+    {
+      "wrong": "According to the article says, prices rose.",
+      "correct": "According to the article, prices rose.",
+      "why": "according to 与 says 不能叠加。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "News organisations should correct visibly.",
+      "topicSentence": "Corrections strengthen trust when audiences can see what changed and why.",
+      "collocations": [
+        "publish a correction",
+        "acknowledge an error",
+        "preserve editorial accountability",
+        "restore public trust"
+      ],
+      "argument": "Fast reporting makes some mistakes unavoidable, but silent alteration prevents readers from understanding the record. A correction should identify the inaccurate claim, provide the verified information and state when the change occurred. Prominence should reflect the significance of the original error. This practice may briefly draw attention to failure, yet it demonstrates that accuracy matters more than appearance. Trust grows from accountable correction, not from pretending journalism is infallible."
+    },
+    {
+      "viewpoint": "Media literacy should include attention to framing.",
+      "topicSentence": "Evaluating news requires more than deciding whether individual statements are factually true.",
+      "collocations": [
+        "identify editorial framing",
+        "compare multiple sources",
+        "examine missing context",
+        "interpret statistical evidence"
+      ],
+      "argument": "A report can use accurate quotations while selecting only voices that support one interpretation. A large percentage change may concern a very small starting number, and an image may imply that an unusual event is typical. Readers should ask what comparison, time period and source produced the claim. Comparing outlets can reveal choices of emphasis without assuming truth lies exactly between them. Media literacy should examine construction as well as detect obvious falsehoods."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "How do you usually get the news?",
+      "answer": "I read a short daily briefing and then open the original report if something matters to me. I avoid relying on social-media captions because they often remove context. For local news, I still find a regional website useful. I prefer reading to watching because I can slow down and compare details."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a news story that interested you.",
+      "answer": "A story that interested me concerned a city converting an abandoned railway into a walking route. The report combined maps, historical photographs and interviews with residents who supported and opposed the plan. I liked that it did not present the project as an obvious success. Some businesses expected more visitors, while nearby households worried about noise and privacy. The journalist also explained the funding and the stages that still required approval. I followed later updates because the story showed how one apparently simple improvement involved transport, heritage and neighbourhood interests. It was memorable not because it was dramatic, but because careful local reporting made an ordinary planning decision understandable."
+    }
+  ],
+  "reading": {
+    "title": "The Correction at the Bottom of the Page",
+    "paragraphs": [
+      "Digital news can be updated within seconds, which allows errors to be repaired faster than in print. The same flexibility creates a record problem. A reader who returns to an article may not know that a name, quotation or central claim has changed. When an alteration is invisible, correction improves the current text while leaving earlier readers with no reason to reconsider what they learned.",
+      "Newsrooms distinguish minor edits from substantive corrections. Fixing spelling may require no notice, whereas changing a figure that alters the meaning should. The boundary is not always clear. A revised headline can affect interpretation even when every fact in the body remains unchanged. Transparent organisations publish a note stating what was wrong, what replaced it and when.",
+      "Corrections are sometimes viewed as evidence of poor journalism. Studies of audience trust suggest a more complicated response: repeated serious errors damage credibility, but clear correction can demonstrate accountability. The tone matters. Vague phrases such as “the article has been updated” provide little information, while defensive explanations shift attention away from the inaccurate statement.",
+      "Distribution complicates repair. A corrected article may continue circulating as a screenshot, cached page or quoted social-media post. News organisations can update their own channels and contact partners, but they cannot retrieve every copy. This makes verification before publication especially important for claims likely to harm an individual. Speed has benefits, yet the cost of a false first version may survive the accurate second one.",
+      "A correction policy therefore serves readers and journalists. It establishes a predictable threshold for disclosure and gives staff a method for acknowledging error without negotiation each time. The small note at the bottom of a page is not merely housekeeping. It is part of the evidence that a news organisation treats its published record as something for which it remains responsible."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for paragraph 4.",
+        "answer": "Why corrected information may not reach every earlier reader",
+        "explanation": "Paragraph 4 discusses screenshots, cached pages and quotations."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "Every spelling correction should receive a formal notice.",
+        "answer": "No",
+        "explanation": "Paragraph 2 says spelling fixes may require no notice."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What three details should a transparent correction note state?",
+        "answer": "what was wrong, what replaced it and when",
+        "explanation": "Paragraph 2 lists these elements."
+      }
+    ]
+  }
+}

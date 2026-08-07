@@ -1,0 +1,354 @@
+{
+  "id": 86,
+  "topic": "Housing Affordability",
+  "topicCN": "住房可负担性",
+  "category": "Economy",
+  "vocabulary": [
+    {
+      "word": "housing affordability",
+      "ipa": "/ˈhaʊzɪŋ əˌfɔːdəˈbɪləti/",
+      "meaning": "住房可负担性",
+      "collocation": "improve housing affordability",
+      "collocationCN": "改善住房可负担性"
+    },
+    {
+      "word": "rental market",
+      "ipa": "/ˈrentəl ˌmɑːkɪt/",
+      "meaning": "租赁市场",
+      "collocation": "enter the rental market",
+      "collocationCN": "进入租赁市场"
+    },
+    {
+      "word": "mortgage",
+      "ipa": "/ˈmɔːɡɪdʒ/",
+      "meaning": "住房贷款",
+      "collocation": "apply for a mortgage",
+      "collocationCN": "申请住房贷款"
+    },
+    {
+      "word": "down payment",
+      "ipa": "/ˈdaʊn ˌpeɪmənt/",
+      "meaning": "首付款",
+      "collocation": "save a down payment",
+      "collocationCN": "攒首付款"
+    },
+    {
+      "word": "housing supply",
+      "ipa": "/ˈhaʊzɪŋ səˌplaɪ/",
+      "meaning": "住房供应",
+      "collocation": "increase housing supply",
+      "collocationCN": "增加住房供应"
+    },
+    {
+      "word": "social housing",
+      "ipa": "/ˈsəʊʃəl ˌhaʊzɪŋ/",
+      "meaning": "社会住房",
+      "collocation": "build social housing",
+      "collocationCN": "建设社会住房"
+    },
+    {
+      "word": "rent burden",
+      "ipa": "/rent ˈbɜːdən/",
+      "meaning": "租金负担",
+      "collocation": "face a severe rent burden",
+      "collocationCN": "面临沉重租金负担"
+    },
+    {
+      "word": "tenant protection",
+      "ipa": "/ˈtenənt prəˌtekʃən/",
+      "meaning": "租户保护",
+      "collocation": "strengthen tenant protection",
+      "collocationCN": "加强租户保护"
+    },
+    {
+      "word": "vacancy rate",
+      "ipa": "/ˈveɪkənsi reɪt/",
+      "meaning": "空置率",
+      "collocation": "record a low vacancy rate",
+      "collocationCN": "出现低空置率"
+    },
+    {
+      "word": "planning permission",
+      "ipa": "/ˈplænɪŋ pəˌmɪʃən/",
+      "meaning": "规划许可",
+      "collocation": "grant planning permission",
+      "collocationCN": "授予规划许可"
+    },
+    {
+      "word": "high-density housing",
+      "ipa": "/ˌhaɪ ˈdensəti ˌhaʊzɪŋ/",
+      "meaning": "高密度住宅",
+      "collocation": "approve high-density housing",
+      "collocationCN": "批准高密度住宅"
+    },
+    {
+      "word": "commuter town",
+      "ipa": "/kəˈmjuːtə taʊn/",
+      "meaning": "通勤城镇",
+      "collocation": "move to a commuter town",
+      "collocationCN": "搬到通勤城镇"
+    },
+    {
+      "word": "housing shortage",
+      "ipa": "/ˈhaʊzɪŋ ˌʃɔːtɪdʒ/",
+      "meaning": "住房短缺",
+      "collocation": "ease a housing shortage",
+      "collocationCN": "缓解住房短缺"
+    },
+    {
+      "word": "land value",
+      "ipa": "/lænd ˈvæljuː/",
+      "meaning": "土地价值",
+      "collocation": "capture rising land values",
+      "collocationCN": "获取土地增值收益"
+    },
+    {
+      "word": "long-term lease",
+      "ipa": "/ˌlɒŋ tɜːm ˈliːs/",
+      "meaning": "长期租约",
+      "collocation": "sign a long-term lease",
+      "collocationCN": "签长期租约"
+    },
+    {
+      "word": "put down roots",
+      "ipa": "/pʊt daʊn ruːts/",
+      "meaning": "安家扎根",
+      "collocation": "put down roots in a neighbourhood",
+      "collocationCN": "在社区安家"
+    },
+    {
+      "word": "move further out",
+      "ipa": "/muːv ˌfɜːðər ˈaʊt/",
+      "meaning": "搬到更远的郊区",
+      "collocation": "move further out to find cheaper rent",
+      "collocationCN": "为更低租金搬远"
+    },
+    {
+      "word": "get on the property ladder",
+      "ipa": "/ɡet ɒn ðə ˈprɒpəti ˌlædə/",
+      "meaning": "首次购房进入房产市场",
+      "collocation": "struggle to get on the property ladder",
+      "collocationCN": "难以首次购房"
+    },
+    {
+      "word": "keep up with the rent",
+      "ipa": "/kiːp ʌp wɪð ðə rent/",
+      "meaning": "按时负担租金",
+      "collocation": "work overtime to keep up with the rent",
+      "collocationCN": "加班以付得起租金"
+    },
+    {
+      "word": "live within commuting distance",
+      "ipa": "/lɪv wɪˈðɪn kəˈmjuːtɪŋ ˌdɪstəns/",
+      "meaning": "住在可通勤范围内",
+      "collocation": "live within commuting distance of work",
+      "collocationCN": "住在工作地点通勤范围内"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "expensive housing",
+      "options": [
+        "unaffordable housing",
+        "high-cost accommodation",
+        "homes priced beyond many households’ means"
+      ],
+      "note": "beyond one’s means强调超出支付能力。"
+    },
+    {
+      "base": "not enough homes",
+      "options": [
+        "a housing shortage",
+        "insufficient residential supply",
+        "a mismatch between housing demand and available dwellings"
+      ],
+      "note": "mismatch适合解释供需问题。"
+    },
+    {
+      "base": "people who rent",
+      "options": [
+        "tenants",
+        "private renters",
+        "households living in rented accommodation"
+      ],
+      "note": "private renter区别于社会住房租户。"
+    },
+    {
+      "base": "build more homes",
+      "options": [
+        "expand housing supply",
+        "increase residential construction",
+        "add dwellings to the existing housing stock"
+      ],
+      "note": "housing stock指现有住房总量。"
+    },
+    {
+      "base": "monthly housing cost",
+      "options": [
+        "rent or mortgage payment",
+        "recurring housing expenditure",
+        "the regular cost of occupying a home"
+      ],
+      "note": "occupying不等于拥有。"
+    },
+    {
+      "base": "far from work",
+      "options": [
+        "distant from employment centres",
+        "beyond a practical commuting range",
+        "poorly located in relation to available jobs"
+      ],
+      "note": "最后一种突出位置关系。"
+    },
+    {
+      "base": "stable home",
+      "options": [
+        "secure accommodation",
+        "long-term residential stability",
+        "a home that can be occupied with predictable tenure"
+      ],
+      "note": "tenure指居住或持有安排。"
+    },
+    {
+      "base": "help first-time buyers",
+      "options": [
+        "support new purchasers",
+        "assist first-time homebuyers",
+        "make initial home ownership more accessible"
+      ],
+      "note": "accessible不保证房价真正下降。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Building + housing type + will improve affordability only if + condition + rather than + unwanted outcome.",
+      "cn": "建设某类住房只有在满足特定条件、而非出现不良结果时，才能改善可负担性。",
+      "example": "Building apartments near a station will improve affordability only if ordinary households can rent them rather than investors leaving them empty."
+    },
+    {
+      "pattern": "When + housing cost + rises faster than + income measure, households have less money left for + essential need.",
+      "cn": "当住房成本上涨快于收入时，家庭用于其他基本需求的钱就会减少。",
+      "example": "When rent rises faster than wages, households have less money left for food, transport and savings."
+    },
+    {
+      "pattern": "A home that appears + cheap feature + may become + costly outcome + once + hidden cost + is considered.",
+      "cn": "一套看似具有低价优势的住房，在计入隐性成本后可能变得昂贵。",
+      "example": "A home that appears cheap may become unaffordable once a lengthy daily commute is considered."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "be priced out of an area",
+      "cn": "因价格过高而无法在某地居住",
+      "example": "Young families are being priced out of the neighbourhood."
+    },
+    {
+      "text": "share a place",
+      "cn": "与人合租",
+      "example": "I shared a place with two colleagues after university."
+    },
+    {
+      "text": "feel settled",
+      "cn": "感到安定",
+      "example": "A longer lease helps tenants feel settled."
+    },
+    {
+      "text": "increase the affordable housing stock",
+      "cn": "增加可负担住房存量",
+      "example": "The city needs to increase the affordable housing stock."
+    },
+    {
+      "text": "link housing with transport planning",
+      "cn": "把住房与交通规划结合",
+      "example": "Regional authorities should link housing with transport planning."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The house price is too expensive.",
+      "correct": "The house is too expensive.",
+      "why": "expensive描述物品；price应搭配high。"
+    },
+    {
+      "wrong": "Many young people cannot afford buying a flat.",
+      "correct": "Many young people cannot afford to buy a flat.",
+      "why": "afford后接to do。"
+    },
+    {
+      "wrong": "There are a shortage of affordable homes.",
+      "correct": "There is a shortage of affordable homes.",
+      "why": "a shortage是单数中心词，搭配there is。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Housing policy must consider transport costs alongside rent.",
+      "topicSentence": "Cheap homes at the urban edge may not reduce household costs when residents depend on long commutes.",
+      "collocations": [
+        "calculate combined housing costs",
+        "connect homes to employment",
+        "provide frequent public transport",
+        "avoid car dependence"
+      ],
+      "argument": "A lower rent can attract a household to an outer district, but the apparent saving may disappear through fuel, fares and travel time. Poor connections also restrict which jobs residents can accept, making the location financially risky if employment changes. New housing should therefore be assessed against access to several employment centres, not distance from one station alone. Frequent public transport can make lower-cost land genuinely useful for housing. Affordability belongs to the whole daily journey, not simply the front door."
+    },
+    {
+      "viewpoint": "First-buyer subsidies can raise prices when supply is fixed.",
+      "topicSentence": "Increasing purchasers’ budgets without adding homes may benefit existing owners more than new buyers.",
+      "collocations": [
+        "subsidise housing demand",
+        "constrain residential supply",
+        "push up sale prices",
+        "direct funds towards construction"
+      ],
+      "argument": "Suppose ten households compete for five similar flats and each receives a larger purchase grant. Their ability to bid increases, but the number of homes does not. Sellers can capture part of the subsidy through higher prices, leaving access little improved. In areas with severe shortages, public money would be better used to unlock sites, build affordable homes or expand infrastructure. Buyer support may work where supply responds quickly; otherwise, assistance aimed at demand can intensify the problem it was designed to solve."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a home or neighbourhood where you would like to live.",
+      "answer": "I would like to live in a medium-sized flat in a neighbourhood where daily errands can be done on foot. I do not need a large garden, but I would value good natural light, reliable sound insulation and a small balcony. The area should have a supermarket, a park and public transport within a short walk, because I would rather not depend on a car. I would also prefer a mixed neighbourhood with families, students and older residents instead of a development used mainly as an investment. For me, a convenient location and stable housing cost matter more than extra space."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why is building more housing sometimes politically difficult?",
+      "answer": "Existing residents may worry about traffic, pressure on schools or the loss of familiar buildings and open space. Those concerns can be reasonable, although homeowners may also benefit financially when supply remains limited. Planning decisions create visible local disruption, while the people who would occupy future homes are not yet present to express support. Authorities need to show where infrastructure will come from, involve residents early and distinguish genuine design problems from opposition to any new neighbours. Transport costs should be included as well."
+    }
+  ],
+  "reading": {
+    "title": "Affordable on Paper, Costly in Practice",
+    "paragraphs": [
+      "A widely used affordability measure defines a home as affordable when housing consumes no more than a fixed share of household income. The threshold is easy to calculate and compare across neighbourhoods and over time, but families moving into a new development beyond the city boundary soon exposed its weakness. Their rents met the official test. Their combined spending on housing and transport did not.",
+      "The development had been approved beside a proposed rail station, which appeared on planning maps but was postponed after construction costs rose. Meanwhile, the nearest large employment area was twelve kilometres away and buses ended before many evening shifts finished. Residents who bought cars faced fuel, insurance and loan payments; those without cars declined jobs or paid for occasional taxis. A follow-up survey found that transport absorbed a substantial share of income in some lower-paid households.",
+      "Planners began testing a combined index. It estimated rent or mortgage payments alongside typical travel costs for a household at each location. The method revealed expensive central districts where high rent was partly offset by walking and cheap outer areas where two cars were effectively required. Yet averages created new problems. A nurse working nights, a retired resident and a remote employee could occupy identical flats while facing entirely different mobility costs.",
+      "The agency did not abandon the fixed-share measure, which remains useful for identifying a severe rent burden. Instead, it added transport scenarios and required developers seeking public support to describe access to jobs at different times of day, including weekends and early mornings. No index can predict every household’s routine, and a longer journey may be a voluntary exchange for more space. Nevertheless, labelling housing affordable without examining how residents reach ordinary destinations risks measuring the price of shelter while ignoring the cost of living there. The calculation changes further when transport and household energy costs are included."
+    ],
+    "questions": [
+      {
+        "type": "Summary Completion",
+        "prompt": "The planned rail station was delayed because construction ______ increased.",
+        "answer": "costs",
+        "explanation": "Paragraph 2 says construction costs rose."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer argues that the thirty-per-cent measure has no remaining value.",
+        "answer": "No",
+        "explanation": "The agency retained it for identifying severe rent burden."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What weakness did the combined index still have?",
+        "answer": "C",
+        "explanation": "Average travel costs could not represent residents with different routines.",
+        "options": [
+          "It excluded all mortgage payments.",
+          "It considered only central neighbourhoods.",
+          "It could not represent residents with different routines.",
+          "It required every resident to own two cars."
+        ]
+      }
+    ]
+  }
+}

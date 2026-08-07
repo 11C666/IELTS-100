@@ -1,0 +1,355 @@
+{
+  "id": 11,
+  "topic": "Sports and Fitness",
+  "topicCN": "运动与健身",
+  "category": "Health",
+  "vocabulary": [
+    {
+      "word": "workout",
+      "ipa": "/ˈwɜːkaʊt/",
+      "meaning": "锻炼",
+      "collocation": "complete a short workout",
+      "collocationCN": "完成短时锻炼"
+    },
+    {
+      "word": "fitness",
+      "ipa": "/ˈfɪtnəs/",
+      "meaning": "健康水平",
+      "collocation": "improve overall fitness",
+      "collocationCN": "提高整体健康水平"
+    },
+    {
+      "word": "stamina",
+      "ipa": "/ˈstæmɪnə/",
+      "meaning": "耐力",
+      "collocation": "build stamina",
+      "collocationCN": "增强耐力"
+    },
+    {
+      "word": "endurance",
+      "ipa": "/ɪnˈdjʊərəns/",
+      "meaning": "持久力",
+      "collocation": "improve cardiovascular endurance",
+      "collocationCN": "提高心肺耐力"
+    },
+    {
+      "word": "strength",
+      "ipa": "/streŋθ/",
+      "meaning": "力量",
+      "collocation": "develop core strength",
+      "collocationCN": "增强核心力量"
+    },
+    {
+      "word": "flexibility",
+      "ipa": "/ˌfleksəˈbɪləti/",
+      "meaning": "柔韧性",
+      "collocation": "increase flexibility",
+      "collocationCN": "提高柔韧性"
+    },
+    {
+      "word": "coordination",
+      "ipa": "/kəʊˌɔːdɪˈneɪʃn/",
+      "meaning": "协调性",
+      "collocation": "improve hand-eye coordination",
+      "collocationCN": "提高手眼协调"
+    },
+    {
+      "word": "warm-up",
+      "ipa": "/ˈwɔːm ʌp/",
+      "meaning": "热身",
+      "collocation": "do a proper warm-up",
+      "collocationCN": "充分热身"
+    },
+    {
+      "word": "recovery",
+      "ipa": "/rɪˈkʌvəri/",
+      "meaning": "恢复",
+      "collocation": "allow time for recovery",
+      "collocationCN": "留出恢复时间"
+    },
+    {
+      "word": "injury",
+      "ipa": "/ˈɪndʒəri/",
+      "meaning": "受伤",
+      "collocation": "prevent a sports injury",
+      "collocationCN": "预防运动损伤"
+    },
+    {
+      "word": "coach",
+      "ipa": "/kəʊtʃ/",
+      "meaning": "教练",
+      "collocation": "work with a coach",
+      "collocationCN": "跟教练训练"
+    },
+    {
+      "word": "teammate",
+      "ipa": "/ˈtiːmmeɪt/",
+      "meaning": "队友",
+      "collocation": "support a teammate",
+      "collocationCN": "支持队友"
+    },
+    {
+      "word": "tournament",
+      "ipa": "/ˈtʊənəmənt/",
+      "meaning": "锦标赛",
+      "collocation": "enter a tournament",
+      "collocationCN": "参加锦标赛"
+    },
+    {
+      "word": "competitive",
+      "ipa": "/kəmˈpetətɪv/",
+      "meaning": "竞争性的",
+      "collocation": "competitive sport",
+      "collocationCN": "竞技体育"
+    },
+    {
+      "word": "recreational",
+      "ipa": "/ˌrekriˈeɪʃənl/",
+      "meaning": "休闲性的",
+      "collocation": "recreational exercise",
+      "collocationCN": "休闲锻炼"
+    },
+    {
+      "word": "physical activity",
+      "ipa": "/ˌfɪzɪkl ækˈtɪvəti/",
+      "meaning": "身体活动",
+      "collocation": "increase physical activity",
+      "collocationCN": "增加身体活动"
+    },
+    {
+      "word": "resistance training",
+      "ipa": "/rɪˈzɪstəns ˌtreɪnɪŋ/",
+      "meaning": "抗阻训练",
+      "collocation": "do resistance training",
+      "collocationCN": "进行抗阻训练"
+    },
+    {
+      "word": "cardiovascular exercise",
+      "ipa": "/ˌkɑːdiəʊˈvæskjələ ˈeksəsaɪz/",
+      "meaning": "有氧运动",
+      "collocation": "regular cardiovascular exercise",
+      "collocationCN": "规律有氧运动"
+    },
+    {
+      "word": "training routine",
+      "ipa": "/ˈtreɪnɪŋ ruːˌtiːn/",
+      "meaning": "训练计划",
+      "collocation": "follow a training routine",
+      "collocationCN": "遵循训练计划"
+    },
+    {
+      "word": "sedentary lifestyle",
+      "ipa": "/ˈsedntri ˌlaɪfstaɪl/",
+      "meaning": "久坐生活方式",
+      "collocation": "avoid a sedentary lifestyle",
+      "collocationCN": "避免久坐生活"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "exercise",
+      "options": [
+        "work out",
+        "be physically active",
+        "take regular exercise"
+      ],
+      "note": "work out 偏口语；physical activity 范围更广。"
+    },
+    {
+      "base": "get fit",
+      "options": [
+        "improve fitness",
+        "get into shape",
+        "build physical capacity"
+      ],
+      "note": "get into shape 是自然口语。"
+    },
+    {
+      "base": "strong",
+      "options": [
+        "physically strong",
+        "powerful",
+        "have good muscular strength"
+      ],
+      "note": "powerful 常用于动作或运动员。"
+    },
+    {
+      "base": "not active",
+      "options": [
+        "sedentary",
+        "physically inactive",
+        "do little exercise"
+      ],
+      "note": "sedentary 常描述生活方式或工作。"
+    },
+    {
+      "base": "continue longer",
+      "options": [
+        "build endurance",
+        "improve stamina",
+        "sustain effort"
+      ],
+      "note": "stamina 和 endurance 在日常语境常接近。"
+    },
+    {
+      "base": "avoid injury",
+      "options": [
+        "prevent injury",
+        "reduce injury risk",
+        "train safely"
+      ],
+      "note": "injury risk 是自然搭配。"
+    },
+    {
+      "base": "play for fun",
+      "options": [
+        "take part recreationally",
+        "play casually",
+        "do sport for enjoyment"
+      ],
+      "note": "recreationally 与竞技性相对。"
+    },
+    {
+      "base": "team member",
+      "options": [
+        "teammate",
+        "fellow player",
+        "member of the squad"
+      ],
+      "note": "squad 常用于正式队伍。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "The main reason I keep exercising is not + noun, but + noun.",
+      "cn": "我坚持锻炼的主要原因不是……，而是……",
+      "example": "The main reason I keep exercising is not appearance, but the energy it gives me."
+    },
+    {
+      "pattern": "People are more likely to stick to a training routine if + clause.",
+      "cn": "如果……，人们更可能坚持训练计划。",
+      "example": "People are more likely to stick to a training routine if the activity is convenient and enjoyable."
+    },
+    {
+      "pattern": "While competitive sport teaches + noun, it can also create + noun.",
+      "cn": "竞技体育在培养……的同时，也可能带来……",
+      "example": "While competitive sport teaches discipline, it can also create excessive pressure."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "stay in shape",
+      "cn": "保持良好体形和状态",
+      "example": "I swim twice a week to stay in shape."
+    },
+    {
+      "text": "work out regularly",
+      "cn": "规律锻炼",
+      "example": "I work out regularly, but the sessions are usually short."
+    },
+    {
+      "text": "get back into training",
+      "cn": "恢复训练",
+      "example": "I’m trying to get back into training after a long break."
+    },
+    {
+      "text": "push myself too hard",
+      "cn": "把自己逼得太狠",
+      "example": "I pushed myself too hard and needed several days to recover."
+    },
+    {
+      "text": "take it at my own pace",
+      "cn": "按自己的节奏进行",
+      "example": "I’m a beginner, so I take it at my own pace."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I do exercise three times a week.",
+      "correct": "I exercise three times a week. / I work out three times a week.",
+      "why": "exercise 可直接作动词；日常口语也常用 work out。"
+    },
+    {
+      "wrong": "Sport is good to our health.",
+      "correct": "Sport is good for our health.",
+      "why": "表示“对……有益”使用 be good for。"
+    },
+    {
+      "wrong": "I hurt my leg when I made sport.",
+      "correct": "I injured my leg while playing sport.",
+      "why": "英语不说 make sport；受伤可说 injure。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Cities should make everyday exercise convenient.",
+      "topicSentence": "Public health improves when physical activity fits naturally into daily routines.",
+      "collocations": [
+        "lead an active lifestyle",
+        "provide public facilities",
+        "build safe cycle routes",
+        "reduce health risks"
+      ],
+      "argument": "Many people understand the value of exercise but struggle to find extra time for a gym. Safe pavements, cycle routes and accessible parks allow movement to become part of commuting or family leisure. These facilities benefit residents across different income groups. They may also reduce later public spending associated with inactivity. Urban planning should therefore make active choices easy rather than relying only on health advice."
+    },
+    {
+      "viewpoint": "Youth sport should emphasise participation as well as competition.",
+      "topicSentence": "An excessive focus on winning can drive less confident children away from exercise.",
+      "collocations": [
+        "encourage broad participation",
+        "develop teamwork",
+        "place pressure on children",
+        "maintain lifelong fitness"
+      ],
+      "argument": "Competitive matches can teach discipline and help talented players improve. However, children who develop later or make mistakes may receive little playing time. If they associate sport mainly with embarrassment, they are unlikely to remain active as adults. Schools should provide competitive teams alongside inclusive sessions where progress and enjoyment matter. A broader model can preserve excellence without excluding the majority."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What kind of exercise do you enjoy?",
+      "answer": "I enjoy swimming because it works the whole body without putting too much pressure on my knees. I’m not particularly fast, so I usually choose a quiet lane and swim at a steady pace. It also has a calming effect because I can’t check my phone or think about work while I’m in the water."
+    },
+    {
+      "part": "Part 1",
+      "question": "Did you play much sport when you were a child?",
+      "answer": "Yes, but mostly informal games rather than organised training. After school, a group of us played football in a small park until it got dark. Nobody kept proper scores and the teams changed constantly. I wasn’t especially talented, but I enjoyed the social side. Looking back, it was an easy way to stay active without thinking of it as exercise."
+    }
+  ],
+  "reading": {
+    "title": "Why Exercise Plans Are Often Abandoned",
+    "paragraphs": [
+      "January brings a familiar rise in gym memberships, training applications and ambitious exercise plans. Within weeks, many of these plans have disappeared. The usual explanation is a lack of willpower, but research into habit formation suggests a more practical problem: the routine often demands too much change at once. A distant gym, an hour-long session and an unfamiliar programme create several opportunities to stop.",
+      "Regular activity becomes easier when the starting action is clear and convenient. Leaving walking shoes beside the door removes one small decision; arranging to meet a friend creates a social commitment. These details seem minor compared with motivation, yet they shape whether exercise begins on a tired or busy day. Once someone has started, continuing for another ten minutes is often easier than beginning from nothing.",
+      "Intensity also affects consistency. New exercisers sometimes copy routines designed for experienced athletes, then suffer extreme soreness or a minor injury. The unpleasant result confirms their belief that exercise is difficult. Gradual progression produces less dramatic early improvement, but it allows muscles, joints and confidence to adapt. Recovery is part of training rather than time lost from it.",
+      "No single activity suits everyone. Competitive classes motivate some people, while others prefer walking alone or learning a skill without comparison. Enjoyment is not an unimportant extra: an activity repeated for months is more valuable than a theoretically perfect workout abandoned after a week. Sustainable fitness plans therefore begin with honest questions about schedule, access and preference. Discipline matters, but good design reduces how often discipline has to rescue an inconvenient plan.",
+      "Tracking progress can encourage consistency when the measure matches the goal. A runner may record distance, whereas someone exercising for stress relief may pay more attention to mood and sleep. Problems arise when a convenient number, such as calories or daily steps, becomes the only definition of success. Measurement should support the activity rather than control it."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "What does the passage identify as a common weakness in new exercise plans?",
+        "options": [
+          "They contain no physical movement.",
+          "They require several difficult changes at once.",
+          "They are designed only for older adults.",
+          "They include too much recovery."
+        ],
+        "answer": "B",
+        "explanation": "Paragraph 1 explains that ambitious routines create several barriers."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Gradual training produces faster early results than intense training.",
+        "answer": "False",
+        "explanation": "Paragraph 3 says gradual progression produces less dramatic early improvement."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "An activity continued for months is more valuable than a perfect workout abandoned after a ______.",
+        "answer": "week",
+        "explanation": "The final paragraph provides the answer."
+      }
+    ]
+  }
+}

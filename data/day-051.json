@@ -1,0 +1,349 @@
+{
+  "id": 51,
+  "topic": "Cultural Traditions",
+  "topicCN": "文化传统",
+  "category": "Culture",
+  "vocabulary": [
+    {
+      "word": "custom",
+      "ipa": "/ˈkʌstəm/",
+      "meaning": "习俗",
+      "collocation": "observe a local custom",
+      "collocationCN": "遵循当地习俗"
+    },
+    {
+      "word": "ritual",
+      "ipa": "/ˈrɪtʃuəl/",
+      "meaning": "仪式；惯例",
+      "collocation": "perform a traditional ritual",
+      "collocationCN": "举行传统仪式"
+    },
+    {
+      "word": "ceremony",
+      "ipa": "/ˈserəməni/",
+      "meaning": "典礼；仪式",
+      "collocation": "hold a formal ceremony",
+      "collocationCN": "举行正式典礼"
+    },
+    {
+      "word": "festivity",
+      "ipa": "/feˈstɪvəti/",
+      "meaning": "庆祝活动",
+      "collocation": "join in the festivities",
+      "collocationCN": "参加庆祝活动"
+    },
+    {
+      "word": "procession",
+      "ipa": "/prəˈseʃən/",
+      "meaning": "游行队伍",
+      "collocation": "watch a ceremonial procession",
+      "collocationCN": "观看仪式游行"
+    },
+    {
+      "word": "folk dance",
+      "ipa": "/ˈfəʊk dɑːns/",
+      "meaning": "民间舞蹈",
+      "collocation": "perform a folk dance",
+      "collocationCN": "表演民间舞蹈"
+    },
+    {
+      "word": "traditional costume",
+      "ipa": "/trəˌdɪʃənəl ˈkɒstjuːm/",
+      "meaning": "传统服饰",
+      "collocation": "wear traditional costume",
+      "collocationCN": "穿传统服饰"
+    },
+    {
+      "word": "craftsmanship",
+      "ipa": "/ˈkrɑːftsmənʃɪp/",
+      "meaning": "工艺；手艺",
+      "collocation": "preserve traditional craftsmanship",
+      "collocationCN": "保护传统工艺"
+    },
+    {
+      "word": "oral tradition",
+      "ipa": "/ˌɔːrəl trəˈdɪʃən/",
+      "meaning": "口述传统",
+      "collocation": "pass down an oral tradition",
+      "collocationCN": "传承口述传统"
+    },
+    {
+      "word": "folklore",
+      "ipa": "/ˈfəʊklɔː/",
+      "meaning": "民间传说",
+      "collocation": "record local folklore",
+      "collocationCN": "记录当地民间传说"
+    },
+    {
+      "word": "ancestor",
+      "ipa": "/ˈænsestə/",
+      "meaning": "祖先",
+      "collocation": "honour one’s ancestors",
+      "collocationCN": "缅怀祖先"
+    },
+    {
+      "word": "cultural etiquette",
+      "ipa": "/ˌkʌltʃərəl ˈetɪket/",
+      "meaning": "文化礼仪",
+      "collocation": "follow local cultural etiquette",
+      "collocationCN": "遵循当地文化礼仪"
+    },
+    {
+      "word": "coming-of-age",
+      "ipa": "/ˌkʌmɪŋ əv ˈeɪdʒ/",
+      "meaning": "成年的",
+      "collocation": "mark a coming-of-age event",
+      "collocationCN": "庆祝成年礼"
+    },
+    {
+      "word": "commemorate",
+      "ipa": "/kəˈmeməreɪt/",
+      "meaning": "纪念",
+      "collocation": "commemorate a historic event",
+      "collocationCN": "纪念历史事件"
+    },
+    {
+      "word": "symbolise",
+      "ipa": "/ˈsɪmbəlaɪz/",
+      "meaning": "象征",
+      "collocation": "symbolise good fortune",
+      "collocationCN": "象征好运"
+    },
+    {
+      "word": "hand down",
+      "ipa": "/ˌhænd ˈdaʊn/",
+      "meaning": "代代相传",
+      "collocation": "hand down a family recipe",
+      "collocationCN": "传承家庭食谱"
+    },
+    {
+      "word": "keep alive",
+      "ipa": "/ˌkiːp əˈlaɪv/",
+      "meaning": "使继续存在",
+      "collocation": "keep an old tradition alive",
+      "collocationCN": "让古老传统延续下去"
+    },
+    {
+      "word": "cultural identity",
+      "ipa": "/ˌkʌltʃərəl aɪˈdentəti/",
+      "meaning": "文化认同",
+      "collocation": "strengthen cultural identity",
+      "collocationCN": "增强文化认同"
+    },
+    {
+      "word": "sense of continuity",
+      "ipa": "/ˌsens əv ˌkɒntɪˈnjuːəti/",
+      "meaning": "延续感",
+      "collocation": "provide a sense of continuity",
+      "collocationCN": "带来文化延续感"
+    },
+    {
+      "word": "commercialisation",
+      "ipa": "/kəˌmɜːʃəlaɪˈzeɪʃən/",
+      "meaning": "商业化",
+      "collocation": "resist excessive commercialisation",
+      "collocationCN": "抵制过度商业化"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "use",
+      "options": [
+        "make use of",
+        "adopt",
+        "rely on"
+      ],
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论文化传统。"
+    },
+    {
+      "base": "choice",
+      "options": [
+        "option",
+        "alternative",
+        "decision"
+      ],
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论文化传统。"
+    },
+    {
+      "base": "cause",
+      "options": [
+        "lead to",
+        "contribute to",
+        "give rise to"
+      ],
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论文化传统。"
+    },
+    {
+      "base": "benefit",
+      "options": [
+        "advantage",
+        "positive effect",
+        "gain"
+      ],
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论文化传统。"
+    },
+    {
+      "base": "harm",
+      "options": [
+        "damage",
+        "negative effect",
+        "undermine"
+      ],
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论文化传统。"
+    },
+    {
+      "base": "support",
+      "options": [
+        "assistance",
+        "backing",
+        "provision"
+      ],
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论文化传统。"
+    },
+    {
+      "base": "different",
+      "options": [
+        "distinct",
+        "varied",
+        "diverse"
+      ],
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论文化传统。"
+    },
+    {
+      "base": "common",
+      "options": [
+        "widespread",
+        "frequently observed",
+        "part of everyday life"
+      ],
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论文化传统。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A tradition remains meaningful when + community + can adapt + practice + without losing + value.",
+      "cn": "当社区能在不失去某价值的情况下调整做法，传统仍有意义。",
+      "example": "A tradition remains meaningful when families can adapt the ceremony without losing its purpose."
+    },
+    {
+      "pattern": "What outsiders describe as + single tradition + may contain + internal diversity.",
+      "cn": "外界所称的单一传统，内部可能包含多样性。",
+      "example": "What outsiders describe as one tradition may contain strong regional differences."
+    },
+    {
+      "pattern": "Having been passed down through + generations, + practice + carries + shared meaning.",
+      "cn": "某做法传承多代，承载着……。",
+      "example": "Having been passed down through generations, the song carries memories beyond its words."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "pass a tradition down",
+      "cn": "传承传统",
+      "example": "Grandparents pass the tradition down through stories and practice."
+    },
+    {
+      "text": "keep a custom alive",
+      "cn": "让习俗延续",
+      "example": "Community events help keep the custom alive."
+    },
+    {
+      "text": "mark a special occasion",
+      "cn": "纪念特殊场合",
+      "example": "The meal marks a special occasion for the whole family."
+    },
+    {
+      "text": "have cultural significance",
+      "cn": "具有文化意义",
+      "example": "The colour has cultural significance beyond decoration."
+    },
+    {
+      "text": "adapt to modern life",
+      "cn": "适应现代生活",
+      "example": "Traditions often adapt to modern life in order to remain practised."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "This custom has a long histories.",
+      "correct": "This custom has a long history.",
+      "why": "a 后接单数 history。"
+    },
+    {
+      "wrong": "The tradition was passed generation by generation.",
+      "correct": "The tradition was passed down from generation to generation.",
+      "why": "固定表达是 pass down from generation to generation。"
+    },
+    {
+      "wrong": "People celebrate this festival since centuries.",
+      "correct": "People have celebrated this festival for centuries.",
+      "why": "持续到现在用现在完成时，时间段用 for。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Adaptation can preserve rather than weaken tradition.",
+      "topicSentence": "Cultural practices remain alive when communities can adjust form while retaining shared meaning.",
+      "collocations": [
+        "preserve cultural meaning",
+        "adapt a traditional practice",
+        "respond to social change",
+        "maintain community participation"
+      ],
+      "argument": "A ceremony fixed in every detail may become impossible when families move, working patterns change or materials disappear. Shortening an event or using digital communication can allow younger members to participate. The change should be led by the people for whom the tradition has meaning, not imposed solely for tourist convenience. Debate over adaptation is itself evidence that the practice remains important. Preservation should support continuity of purpose rather than freeze one historical version."
+    },
+    {
+      "viewpoint": "Commercial presentation should not replace community ownership.",
+      "topicSentence": "Tourism can support traditions financially, but local participants must control how practices are represented.",
+      "collocations": [
+        "retain cultural ownership",
+        "avoid cultural distortion",
+        "share tourism revenue",
+        "set limits on access"
+      ],
+      "argument": "Performances and craft sales can fund skills that might otherwise disappear. However, schedules designed only for visitors may remove religious meaning, simplify internal diversity or pressure people to display private practices. Communities should decide which elements are public and how revenue is distributed. Explanation can help visitors understand that they are seeing one context rather than an unchanging national symbol. Economic support is valuable when it strengthens, rather than directs, cultural life."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Are traditional celebrations important in your family?",
+      "answer": "Yes, mainly because they create a reason for relatives to meet. We do not follow every old detail, but we prepare a familiar meal and contact family members who live elsewhere. The celebration gives the year a rhythm. Its emotional value is stronger than any formal rule. Keeping those few elements consistent gives the gathering a recognisable identity."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a tradition that is important to people you know.",
+      "answer": "A tradition important in my family is preparing a large shared meal at the beginning of the new year. Different relatives are responsible for particular dishes, and younger people learn by helping rather than reading recipes. The meal has changed because some family members now live far away and join by video for part of the evening. We also make fewer dishes than my grandparents did, since wasting food would contradict the spirit of care behind the event. What remains constant is the effort to gather, remember absent relatives and begin the year without unresolved arguments. I value the tradition because it connects ordinary practical work—shopping, chopping and washing up—with a sense of continuity."
+    }
+  ],
+  "reading": {
+    "title": "A Tradition With No Single Original Form",
+    "paragraphs": [
+      "Calls to preserve tradition often assume that an original version can be identified and protected. Historical evidence frequently shows otherwise. Songs change as they move between villages, festival dates shift with work patterns, and recipes respond to available crops. Variation may be a feature of transmission rather than proof of decline.",
+      "Written records can create false certainty. A collector may document one performance and later institutions treat it as the standard, although it represented one family, season or performer. Recording protects valuable detail but also gives authority to the version easiest to archive. Oral traditions leave fewer fixed traces precisely because each performance responds to an audience.",
+      "Communities still distinguish acceptable adaptation from loss. The boundary may concern purpose: changing clothing material is tolerated, while removing an act of remembrance is not. Different members disagree, particularly when age, religion and migration shape experience. There is no neutral outsider who can settle every dispute by locating a date in the past.",
+      "Heritage organisations increasingly document processes as well as products. They record who teaches a skill, where materials come from and how decisions are made. Support may fund apprenticeships or spaces for practice rather than purchase a finished object for display. This approach recognises that living heritage depends on people with time and authority to continue it.",
+      "Continuity therefore does not mean repetition without change. A tradition survives when participants recognise themselves in its development and can explain why certain elements matter. The search for one authentic form can sometimes silence the very variation that allowed the practice to cross generations. Preservation is strongest when it protects the capacity to transmit, discuss and adapt. Migration adds another form of adaptation. A festival practised abroad may use substitute ingredients, a different public date or a smaller group, while gaining new importance as a connection to language and family history. Comparing it with practice in the place of origin reveals divergence, but neither version alone contains the entire meaning of the tradition for its participants."
+    ],
+    "questions": [
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "Variation can be part of how a tradition is transmitted.",
+        "answer": "Yes",
+        "explanation": "Paragraph 1 states this directly."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph discusses a recorded example becoming an unintended standard?",
+        "answer": "B",
+        "explanation": "Paragraph B describes collectors and archives."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What three capacities does the final sentence say preservation should protect?",
+        "answer": "the capacity to transmit, discuss and adapt",
+        "explanation": "The final sentence lists them."
+      }
+    ]
+  }
+}

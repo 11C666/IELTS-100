@@ -1,0 +1,354 @@
+{
+  "id": 87,
+  "topic": "Population Change",
+  "topicCN": "人口变化",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "population growth",
+      "ipa": "/ˌpɒpjəˈleɪʃən ɡrəʊθ/",
+      "meaning": "人口增长",
+      "collocation": "manage population growth",
+      "collocationCN": "管理人口增长"
+    },
+    {
+      "word": "population decline",
+      "ipa": "/ˌpɒpjəˈleɪʃən dɪˈklaɪn/",
+      "meaning": "人口下降",
+      "collocation": "reverse population decline",
+      "collocationCN": "扭转人口下降"
+    },
+    {
+      "word": "ageing population",
+      "ipa": "/ˈeɪdʒɪŋ ˌpɒpjəˈleɪʃən/",
+      "meaning": "人口老龄化",
+      "collocation": "support an ageing population",
+      "collocationCN": "支持老龄人口"
+    },
+    {
+      "word": "birth rate",
+      "ipa": "/ˈbɜːθ reɪt/",
+      "meaning": "出生率",
+      "collocation": "record a falling birth rate",
+      "collocationCN": "出现出生率下降"
+    },
+    {
+      "word": "life expectancy",
+      "ipa": "/ˈlaɪf ɪkˌspektənsi/",
+      "meaning": "预期寿命",
+      "collocation": "increase life expectancy",
+      "collocationCN": "提高预期寿命"
+    },
+    {
+      "word": "dependency ratio",
+      "ipa": "/dɪˈpendənsi ˌreɪʃiəʊ/",
+      "meaning": "抚养比",
+      "collocation": "face a rising dependency ratio",
+      "collocationCN": "面临抚养比上升"
+    },
+    {
+      "word": "working-age population",
+      "ipa": "/ˌwɜːkɪŋ eɪdʒ ˌpɒpjəˈleɪʃən/",
+      "meaning": "劳动年龄人口",
+      "collocation": "expand the working-age population",
+      "collocationCN": "扩大劳动年龄人口"
+    },
+    {
+      "word": "rural depopulation",
+      "ipa": "/ˌrʊərəl diːˌpɒpjəˈleɪʃən/",
+      "meaning": "农村人口减少",
+      "collocation": "slow rural depopulation",
+      "collocationCN": "减缓农村人口减少"
+    },
+    {
+      "word": "urban migration",
+      "ipa": "/ˈɜːbən maɪˈɡreɪʃən/",
+      "meaning": "向城市迁移",
+      "collocation": "experience rapid urban migration",
+      "collocationCN": "经历快速城市迁移"
+    },
+    {
+      "word": "demographic shift",
+      "ipa": "/ˌdeməˈɡræfɪk ʃɪft/",
+      "meaning": "人口结构变化",
+      "collocation": "adapt to a demographic shift",
+      "collocationCN": "适应人口结构变化"
+    },
+    {
+      "word": "population density",
+      "ipa": "/ˌpɒpjəˈleɪʃən ˈdensəti/",
+      "meaning": "人口密度",
+      "collocation": "measure population density",
+      "collocationCN": "测量人口密度"
+    },
+    {
+      "word": "care workforce",
+      "ipa": "/keə ˈwɜːkfɔːs/",
+      "meaning": "照护劳动力",
+      "collocation": "expand the care workforce",
+      "collocationCN": "扩大照护人员队伍"
+    },
+    {
+      "word": "pension system",
+      "ipa": "/ˈpenʃən ˌsɪstəm/",
+      "meaning": "养老金制度",
+      "collocation": "finance a pension system",
+      "collocationCN": "为养老金制度筹资"
+    },
+    {
+      "word": "family formation",
+      "ipa": "/ˈfæməli fɔːˌmeɪʃən/",
+      "meaning": "组建家庭",
+      "collocation": "delay family formation",
+      "collocationCN": "推迟组建家庭"
+    },
+    {
+      "word": "regional population",
+      "ipa": "/ˈriːdʒənəl ˌpɒpjəˈleɪʃən/",
+      "meaning": "地区人口",
+      "collocation": "stabilise a regional population",
+      "collocationCN": "稳定地区人口"
+    },
+    {
+      "word": "move away for work",
+      "ipa": "/muːv əˈweɪ fə wɜːk/",
+      "meaning": "为工作迁离",
+      "collocation": "move away for work after graduation",
+      "collocationCN": "毕业后为工作迁离"
+    },
+    {
+      "word": "settle in a city",
+      "ipa": "/ˈsetəl ɪn ə ˈsɪti/",
+      "meaning": "在城市定居",
+      "collocation": "settle in a city permanently",
+      "collocationCN": "在城市永久定居"
+    },
+    {
+      "word": "care for an elderly relative",
+      "ipa": "/keə fər ən ˈeldəli ˈrelətɪv/",
+      "meaning": "照顾年长亲属",
+      "collocation": "care for an elderly relative at home",
+      "collocationCN": "在家照顾年长亲属"
+    },
+    {
+      "word": "raise a family",
+      "ipa": "/reɪz ə ˈfæməli/",
+      "meaning": "养育家庭",
+      "collocation": "find an affordable place to raise a family",
+      "collocationCN": "找到适合养家的可负担地点"
+    },
+    {
+      "word": "keep a community alive",
+      "ipa": "/kiːp ə kəˈmjuːnəti əˈlaɪv/",
+      "meaning": "维持社区活力",
+      "collocation": "keep a remote community alive",
+      "collocationCN": "维持偏远社区活力"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "more old people",
+      "options": [
+        "an ageing population",
+        "a growing share of older residents",
+        "a population with an increasing median age"
+      ],
+      "note": "median age是常用人口指标。"
+    },
+    {
+      "base": "fewer babies",
+      "options": [
+        "a declining birth rate",
+        "a reduction in annual births",
+        "a fall in the number of children being born"
+      ],
+      "note": "birth rate与出生总数并不完全相同。"
+    },
+    {
+      "base": "people leaving villages",
+      "options": [
+        "rural out-migration",
+        "population loss from rural areas",
+        "the movement of residents away from small communities"
+      ],
+      "note": "out-migration强调迁出。"
+    },
+    {
+      "base": "people who can work",
+      "options": [
+        "the working-age population",
+        "potential labour-force participants",
+        "residents within the conventional working-age range"
+      ],
+      "note": "working-age不代表一定就业。"
+    },
+    {
+      "base": "people live longer",
+      "options": [
+        "longevity has increased",
+        "life expectancy has risen",
+        "average survival into later life has improved"
+      ],
+      "note": "life expectancy是群体统计指标。"
+    },
+    {
+      "base": "change in population",
+      "options": [
+        "demographic change",
+        "a shift in population structure",
+        "a change in the size or composition of a population"
+      ],
+      "note": "composition包括年龄等结构。"
+    },
+    {
+      "base": "need more carers",
+      "options": [
+        "face rising demand for care workers",
+        "require an expanded care workforce",
+        "experience greater labour demand in social care"
+      ],
+      "note": "social care有具体行业含义。"
+    },
+    {
+      "base": "encourage people to stay",
+      "options": [
+        "retain residents",
+        "limit outward migration",
+        "make continued residence locally more attractive"
+      ],
+      "note": "retain不代表限制迁徙自由。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "As + demographic group + accounts for a larger share of + population, demand for + service + is likely to rise.",
+      "cn": "随着某人口群体在总人口中的占比提高，对某项服务的需求可能上升。",
+      "example": "As older adults account for a larger share of the population, demand for home-based care is likely to rise."
+    },
+    {
+      "pattern": "A fall in + population measure + does not necessarily mean + common conclusion; it may instead reflect + explanation.",
+      "cn": "某项人口指标下降并不一定意味着常见结论，也可能反映另一种解释。",
+      "example": "A fall in school enrolment does not necessarily mean families dislike the area; it may instead reflect a smaller generation of children."
+    },
+    {
+      "pattern": "For + place + to retain + group, it needs both + opportunity + and + everyday condition.",
+      "cn": "某地若要留住某群体，既需要发展机会，也需要日常生活条件。",
+      "example": "For a rural town to retain young adults, it needs both suitable jobs and reliable transport and internet access."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "move closer to family",
+      "cn": "搬到离家人更近的地方",
+      "example": "My grandparents moved closer to family as they grew older."
+    },
+    {
+      "text": "leave for better opportunities",
+      "cn": "为更好的机会而离开",
+      "example": "Many graduates leave for better opportunities in larger cities."
+    },
+    {
+      "text": "stay active later in life",
+      "cn": "晚年保持活跃",
+      "example": "Flexible work can help people stay active later in life."
+    },
+    {
+      "text": "adapt public services to demographic change",
+      "cn": "使公共服务适应人口变化",
+      "example": "Councils must adapt public services to demographic change."
+    },
+    {
+      "text": "maintain a viable local population",
+      "cn": "维持有活力的当地人口规模",
+      "example": "Remote regions need jobs to maintain a viable local population."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The population is becoming more older.",
+      "correct": "The population is becoming older.",
+      "why": "older本身是比较级，前面不加more。"
+    },
+    {
+      "wrong": "There are less young people in the village.",
+      "correct": "There are fewer young people in the village.",
+      "why": "people可数，使用fewer。"
+    },
+    {
+      "wrong": "The birth rate has reduced in recent years.",
+      "correct": "The birth rate has fallen in recent years.",
+      "why": "指标自身下降用fall；reduce通常需要施动者。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "An ageing population requires redesigned work, not only higher pension spending.",
+      "topicSentence": "Longer healthy lives make flexible later-life employment both possible and economically useful.",
+      "collocations": [
+        "offer phased retirement",
+        "retain experienced workers",
+        "adapt workplace duties",
+        "support lifelong training"
+      ],
+      "argument": "A fixed retirement age treats workers of the same age as if they had identical health and occupations. An office employee may wish to reduce hours gradually, whereas someone in physically demanding work may need to leave earlier. Phased retirement and retraining can retain valuable experience without forcing everybody to remain full time. The resulting tax contributions can ease fiscal pressure, while individual choice protects those unable to continue. Adaptation should therefore focus on varied pathways through later working life rather than one higher age for all."
+    },
+    {
+      "viewpoint": "Regional population decline should be managed selectively, not reversed at any cost.",
+      "topicSentence": "Some shrinking towns need better services at a smaller scale rather than unrealistic promises of rapid growth.",
+      "collocations": [
+        "consolidate essential services",
+        "maintain transport connections",
+        "reuse vacant buildings",
+        "plan for managed decline"
+      ],
+      "argument": "A town losing residents may try to attract a major employer with costly subsidies, but global competition makes such success uncertain. Meanwhile, maintaining half-empty schools and extensive infrastructure can weaken the services that remaining residents use. Combining facilities, providing transport to regional centres and converting vacant homes may produce a more liveable smaller settlement. Investment is still necessary, particularly in digital access and healthcare. The aim should be dignity and connection, not growth treated as the only acceptable demographic outcome."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a place whose population has changed noticeably.",
+      "answer": "A small town where some of my relatives live has become noticeably older over the past decade. Many school-leavers move to a nearby city for university or work, while retired people often remain because housing is affordable and they know the community well. The primary school now has fewer classes, but the health centre is busier and a former shop has become a daytime club for older residents. The town is not disappearing, yet its needs have clearly changed. Better buses and remote-working facilities might help younger adults stay without pretending that the old employment pattern will return. It made population change visible through ordinary services rather than through an abstract national statistic."
+    },
+    {
+      "part": "Part 3",
+      "question": "How does population ageing affect families?",
+      "answer": "Families may spend more time and money caring for older relatives, especially when formal services are limited. Adult children can face difficult choices between employment, childcare and travelling to provide support. At the same time, older people often contribute by caring for grandchildren, sharing knowledge or offering financial help. The effect is therefore not simply a burden. Policies such as flexible leave, accessible healthcare and suitable housing can help families manage care without assuming that relatives—usually women—will provide unlimited unpaid work."
+    }
+  ],
+  "reading": {
+    "title": "When the School Bus Has Fewer Passengers",
+    "paragraphs": [
+      "Population decline rarely arrives as a single dramatic event. In the northern district of Valmere, it first appeared as empty seats on a school bus. Births had fallen gradually, and young adults who left for college were returning less often than earlier generations. The total population decreased by only six per cent over a decade, yet the number of primary-age children fell by almost a quarter.",
+      "This uneven change mattered because public services are organised around particular groups, not an abstract resident count. Three village schools still required buildings, heating and specialist staff even as classes shrank. Closing two sites would save money and widen the range of subjects at the remaining school, but some children would travel for more than an hour. Parents feared that removing a school would also make their village less attractive to the few young families considering a move there.",
+      "The district tested a shared model before closing anything. Teachers of science and languages travelled between schools on fixed days, while older pupils used joint online lessons for subjects with very small groups. One building opened its kitchen and library to the wider community, combining education with services that would otherwise have occupied separate premises. The arrangement did not eliminate costs, and poor winter roads sometimes disrupted staff travel, but it bought time for better evidence.",
+      "After four years, one school eventually merged with another when enrolment fell below a workable level. The building remained a childcare and community centre, and the bus route was redesigned around parents’ working hours rather than the old school timetable alone. Valmere did not reverse its demographic trend. Instead, it learned that adaptation involves deciding which function must survive, not necessarily preserving every institution in its original form. A smaller population can still be served well, provided change is planned before empty seats become empty buildings."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Valmere’s number of primary-age children fell faster than its total population.",
+        "answer": "True",
+        "explanation": "The figures are almost one quarter compared with six per cent."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph describes one building serving educational and community purposes?",
+        "answer": "C",
+        "explanation": "Paragraph C describes its kitchen and library serving the wider community."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What is the main lesson from Valmere?",
+        "answer": "B",
+        "explanation": "Preserving essential functions may matter more than preserving every institution unchanged.",
+        "options": [
+          "Population decline can always be reversed through online learning.",
+          "Essential functions can survive without every institution remaining unchanged.",
+          "School closures have no effect on family decisions.",
+          "A larger bus network is the main solution to ageing."
+        ]
+      }
+    ]
+  }
+}

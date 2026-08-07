@@ -1,0 +1,355 @@
+{
+  "id": 48,
+  "topic": "Advertising",
+  "topicCN": "广告",
+  "category": "Economy",
+  "vocabulary": [
+    {
+      "word": "advert",
+      "ipa": "/ˈædvɜːt/",
+      "meaning": "广告",
+      "collocation": "place an advert online",
+      "collocationCN": "在网上投放广告"
+    },
+    {
+      "word": "slogan",
+      "ipa": "/ˈsləʊɡən/",
+      "meaning": "广告口号",
+      "collocation": "coin a memorable slogan",
+      "collocationCN": "创作令人难忘的广告语"
+    },
+    {
+      "word": "endorsement",
+      "ipa": "/ɪnˈdɔːsmənt/",
+      "meaning": "代言；公开支持",
+      "collocation": "secure a celebrity endorsement",
+      "collocationCN": "获得名人代言"
+    },
+    {
+      "word": "target audience",
+      "ipa": "/ˌtɑːɡɪt ˈɔːdiəns/",
+      "meaning": "目标受众",
+      "collocation": "reach a younger target audience",
+      "collocationCN": "触达更年轻的目标受众"
+    },
+    {
+      "word": "brand awareness",
+      "ipa": "/ˈbrænd əˌweənəs/",
+      "meaning": "品牌知名度",
+      "collocation": "build brand awareness",
+      "collocationCN": "建立品牌知名度"
+    },
+    {
+      "word": "product placement",
+      "ipa": "/ˈprɒdʌkt ˌpleɪsmənt/",
+      "meaning": "植入式广告",
+      "collocation": "use subtle product placement",
+      "collocationCN": "使用不明显的产品植入"
+    },
+    {
+      "word": "sponsored content",
+      "ipa": "/ˈspɒnsəd ˌkɒntent/",
+      "meaning": "赞助内容",
+      "collocation": "label sponsored content clearly",
+      "collocationCN": "清楚标注赞助内容"
+    },
+    {
+      "word": "billboard",
+      "ipa": "/ˈbɪlbɔːd/",
+      "meaning": "大型广告牌",
+      "collocation": "display an advert on a billboard",
+      "collocationCN": "在大型广告牌上展示广告"
+    },
+    {
+      "word": "catchphrase",
+      "ipa": "/ˈkætʃfreɪz/",
+      "meaning": "流行广告语",
+      "collocation": "repeat a catchy catchphrase",
+      "collocationCN": "重复朗朗上口的广告语"
+    },
+    {
+      "word": "campaign",
+      "ipa": "/kæmˈpeɪn/",
+      "meaning": "广告活动",
+      "collocation": "launch a nationwide campaign",
+      "collocationCN": "发起全国性广告活动"
+    },
+    {
+      "word": "consumer profile",
+      "ipa": "/kənˈsjuːmə ˌprəʊfaɪl/",
+      "meaning": "消费者画像",
+      "collocation": "build a detailed consumer profile",
+      "collocationCN": "建立详细的消费者画像"
+    },
+    {
+      "word": "click-through rate",
+      "ipa": "/ˈklɪk θruː reɪt/",
+      "meaning": "点击率",
+      "collocation": "measure the click-through rate",
+      "collocationCN": "衡量点击率"
+    },
+    {
+      "word": "fine print",
+      "ipa": "/ˈfaɪn prɪnt/",
+      "meaning": "小字条款",
+      "collocation": "read the fine print",
+      "collocationCN": "阅读小字条款"
+    },
+    {
+      "word": "misleading",
+      "ipa": "/ˌmɪsˈliːdɪŋ/",
+      "meaning": "误导性的",
+      "collocation": "ban misleading claims",
+      "collocationCN": "禁止误导性宣传"
+    },
+    {
+      "word": "hard sell",
+      "ipa": "/ˌhɑːd ˈsel/",
+      "meaning": "强势推销",
+      "collocation": "avoid the hard sell",
+      "collocationCN": "避免强势推销"
+    },
+    {
+      "word": "call to action",
+      "ipa": "/ˌkɔːl tu ˈækʃən/",
+      "meaning": "行动号召",
+      "collocation": "include a clear call to action",
+      "collocationCN": "加入明确的行动号召"
+    },
+    {
+      "word": "market segment",
+      "ipa": "/ˈmɑːkɪt ˌseɡmənt/",
+      "meaning": "细分市场",
+      "collocation": "appeal to a niche market segment",
+      "collocationCN": "吸引利基细分市场"
+    },
+    {
+      "word": "brand loyalty",
+      "ipa": "/ˈbrænd ˌlɔɪəlti/",
+      "meaning": "品牌忠诚度",
+      "collocation": "encourage long-term brand loyalty",
+      "collocationCN": "培养长期品牌忠诚度"
+    },
+    {
+      "word": "ad blocker",
+      "ipa": "/ˈæd ˌblɒkə/",
+      "meaning": "广告拦截器",
+      "collocation": "install an ad blocker",
+      "collocationCN": "安装广告拦截器"
+    },
+    {
+      "word": "word of mouth",
+      "ipa": "/ˌwɜːd əv ˈmaʊθ/",
+      "meaning": "口碑传播",
+      "collocation": "grow through word of mouth",
+      "collocationCN": "通过口碑传播发展"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "common",
+      "options": [
+        "widespread",
+        "frequently observed",
+        "part of everyday life"
+      ],
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论广告。"
+    },
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论广告。"
+    },
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论广告。"
+    },
+    {
+      "base": "change",
+      "options": [
+        "shift",
+        "development",
+        "transformation"
+      ],
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论广告。"
+    },
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论广告。"
+    },
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论广告。"
+    },
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise the quality of"
+      ],
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论广告。"
+    },
+    {
+      "base": "reduce",
+      "options": [
+        "decrease",
+        "limit",
+        "bring down"
+      ],
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论广告。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Advertising influences consumers not only by + information, but by associating + product + with + feeling/identity.",
+      "cn": "广告不仅通过信息影响消费者，还把产品与感受或身份联系起来。",
+      "example": "Advertising influences consumers not only by describing a product, but by associating it with social status."
+    },
+    {
+      "pattern": "The less able + audience + is to recognise + commercial intent, the stronger the case for + protection.",
+      "cn": "受众越难识别商业意图，就越有理由加强保护。",
+      "example": "The less able children are to recognise commercial intent, the stronger the case for advertising restrictions."
+    },
+    {
+      "pattern": "A claim that is technically true may still mislead if + omitted context.",
+      "cn": "某主张即使技术上真实，若缺少语境仍可能误导。",
+      "example": "A claim that is technically true may still mislead if the comparison uses an unusually weak competitor."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "catch someone’s attention",
+      "cn": "吸引某人注意",
+      "example": "Bright movement catches attention before the brand is understood."
+    },
+    {
+      "text": "target a particular audience",
+      "cn": "针对特定受众",
+      "example": "The campaign targets first-time buyers."
+    },
+    {
+      "text": "make an exaggerated claim",
+      "cn": "作夸大宣传",
+      "example": "Advertisers should not make an exaggerated health claim."
+    },
+    {
+      "text": "influence purchasing decisions",
+      "cn": "影响购买决定",
+      "example": "Repeated exposure can influence purchasing decisions."
+    },
+    {
+      "text": "clearly label sponsored content",
+      "cn": "清楚标注赞助内容",
+      "example": "Influencers should clearly label sponsored content."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The advertisement persuaded me buying it.",
+      "correct": "The advertisement persuaded me to buy it.",
+      "why": "persuade somebody to do。"
+    },
+    {
+      "wrong": "I saw an advertise online.",
+      "correct": "I saw an advertisement online.",
+      "why": "advertise 是动词，advertisement 是名词。"
+    },
+    {
+      "wrong": "This product is more cheaper.",
+      "correct": "This product is cheaper.",
+      "why": "比较级 cheaper 前不加 more。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Sponsored content must be identifiable before engagement.",
+      "topicSentence": "Audiences should recognise commercial material without having to investigate the creator’s relationship with a brand.",
+      "collocations": [
+        "disclose a commercial relationship",
+        "label sponsored content",
+        "protect consumer understanding",
+        "avoid hidden persuasion"
+      ],
+      "argument": "An influencer’s recommendation may resemble an ordinary personal opinion even when payment or free products are involved. A small label revealed only after a user opens more text does not inform the first impression. Disclosures should appear clearly in the same language and medium as the promotion. This does not prevent creators from advertising or audiences from choosing the product. It ensures that apparent independence is not itself part of the sales technique."
+    },
+    {
+      "viewpoint": "Children require stronger advertising protection.",
+      "topicSentence": "Young audiences are less able to recognise persuasive intent and separate entertainment from promotion.",
+      "collocations": [
+        "recognise persuasive intent",
+        "restrict behavioural targeting",
+        "protect young consumers",
+        "limit commercial pressure"
+      ],
+      "argument": "Children may remember a character or game without understanding that its purpose is to sell. Personalised advertising can use detailed behaviour to reach them at moments of vulnerability. Restrictions on data-based targeting and clear separation from entertainment reduce this imbalance. Parents still influence purchases, but they cannot supervise every screen or peer conversation. Regulation is justified because the audience has limited capacity to evaluate the commercial strategy being used."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do advertisements often affect what you buy?",
+      "answer": "They probably affect what I notice more than what I finally choose. An advertisement may introduce a product, but I usually compare reviews and prices before buying anything expensive. Repetition can create familiarity, though, and I sometimes recognise a brand without remembering where I saw it. Awareness of that familiarity effect helps me pause before choosing."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe an advertisement you remember well.",
+      "answer": "I remember an outdoor advertisement for a reusable bottle. It showed a row of disposable bottles representing the amount one person might use in a year, with the reusable bottle placed beside them. The visual comparison was immediate and required almost no text. I later checked the company because the image made the waste problem concrete, although I did not buy that exact product. What I admired was the simplicity of the message; what made me cautious was that the environmental claim said little about how the bottle itself was produced. The advertisement succeeded in attracting attention and changing how I thought about the category, even though it did not directly produce a sale."
+    }
+  ],
+  "reading": {
+    "title": "When an Advertisement Looks Like Advice",
+    "paragraphs": [
+      "Traditional advertisements interrupt other content and are usually easy to identify. Native advertising does the opposite: it adopts the style of the article, video or social post surrounding it. The format can provide useful information, but it also borrows credibility from an editorial or personal setting. The central question is whether audiences recognise who is speaking and why.",
+      "Recognition depends on more than a label. Terms such as “partner content” may be understood by media professionals but remain unclear to ordinary readers. Placement, colour and timing influence whether disclosure is noticed before the promotional claim. Research using eye-tracking suggests that a technically visible label can still receive little attention when design directs the eye elsewhere.",
+      "Influencer promotion adds the language of personal experience. A creator may genuinely like a product and also receive payment, so sincerity does not remove the commercial relationship. Followers often value a creator’s apparent independence and may interpret an enthusiastic story as advice from a familiar person. Clear disclosure allows them to consider that incentive without assuming the opinion is necessarily false.",
+      "Advertisers argue that rigid labels can disrupt creative communication. However, the purpose of disclosure is precisely to interrupt one possible interpretation: that no commercial motive exists. Rules can permit different formats while requiring ordinary words, sufficient prominence and appearance before a purchasing link. Regulators can test understanding rather than prescribe one permanent design.",
+      "The boundary between information and persuasion will remain flexible as platforms change. Ethical advertising does not require every message to look unattractive. It requires that design skill is not used to hide the category of communication itself. Audiences may welcome recommendations and branded stories, but their consent to persuasion is meaningful only when the commercial role is apparent. Media education can help audiences recognise these formats, but the burden cannot rest entirely on individuals. Advertising systems are tested professionally and repeated at scale, whereas a user may encounter them while tired or distracted. Clear design standards reduce the need for constant suspicion and allow education to focus on evaluating claims after the commercial relationship is visible."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "A promotional label is effective whenever it is technically visible.",
+        "answer": "False",
+        "explanation": "Paragraph 2 says visible labels may receive little attention."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why does sincerity not remove the need for influencer disclosure?",
+        "answer": "B",
+        "explanation": "A genuine opinion can still be connected to payment.",
+        "options": [
+          "Followers never trust sincere opinions.",
+          "A genuine opinion can still be connected to payment.",
+          "All influencers dislike promoted products.",
+          "The product link is always hidden."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Disclosure rules can test audience ______ instead of prescribing one permanent design.",
+        "answer": "understanding",
+        "explanation": "Paragraph 4 uses this word."
+      }
+    ]
+  }
+}

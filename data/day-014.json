@@ -1,0 +1,355 @@
+{
+  "id": 14,
+  "topic": "Home and Housing",
+  "topicCN": "住房",
+  "category": "Daily Life",
+  "vocabulary": [
+    {
+      "word": "property",
+      "ipa": "/ˈprɒpəti/",
+      "meaning": "房产",
+      "collocation": "buy a property",
+      "collocationCN": "购买房产"
+    },
+    {
+      "word": "tenant",
+      "ipa": "/ˈtenənt/",
+      "meaning": "租户",
+      "collocation": "a long-term tenant",
+      "collocationCN": "长期租户"
+    },
+    {
+      "word": "landlord",
+      "ipa": "/ˈlændlɔːd/",
+      "meaning": "房东",
+      "collocation": "contact the landlord",
+      "collocationCN": "联系房东"
+    },
+    {
+      "word": "rent",
+      "ipa": "/rent/",
+      "meaning": "租金；租用",
+      "collocation": "pay monthly rent",
+      "collocationCN": "支付月租"
+    },
+    {
+      "word": "mortgage",
+      "ipa": "/ˈmɔːɡɪdʒ/",
+      "meaning": "房贷",
+      "collocation": "apply for a mortgage",
+      "collocationCN": "申请房贷"
+    },
+    {
+      "word": "deposit",
+      "ipa": "/dɪˈpɒzɪt/",
+      "meaning": "押金；首付",
+      "collocation": "pay a security deposit",
+      "collocationCN": "支付押金"
+    },
+    {
+      "word": "neighbourhood",
+      "ipa": "/ˈneɪbəhʊd/",
+      "meaning": "街区",
+      "collocation": "a quiet neighbourhood",
+      "collocationCN": "安静街区"
+    },
+    {
+      "word": "suburb",
+      "ipa": "/ˈsʌbɜːb/",
+      "meaning": "郊区",
+      "collocation": "live in the suburbs",
+      "collocationCN": "住在郊区"
+    },
+    {
+      "word": "apartment",
+      "ipa": "/əˈpɑːtmənt/",
+      "meaning": "公寓",
+      "collocation": "rent an apartment",
+      "collocationCN": "租公寓"
+    },
+    {
+      "word": "detached house",
+      "ipa": "/dɪˌtætʃt ˈhaʊs/",
+      "meaning": "独立住宅",
+      "collocation": "a spacious detached house",
+      "collocationCN": "宽敞独立住宅"
+    },
+    {
+      "word": "furnished",
+      "ipa": "/ˈfɜːnɪʃt/",
+      "meaning": "配有家具的",
+      "collocation": "a fully furnished flat",
+      "collocationCN": "家具齐全的公寓"
+    },
+    {
+      "word": "spacious",
+      "ipa": "/ˈspeɪʃəs/",
+      "meaning": "宽敞的",
+      "collocation": "a spacious living room",
+      "collocationCN": "宽敞客厅"
+    },
+    {
+      "word": "renovate",
+      "ipa": "/ˈrenəveɪt/",
+      "meaning": "翻修",
+      "collocation": "renovate an old house",
+      "collocationCN": "翻修旧房"
+    },
+    {
+      "word": "maintenance",
+      "ipa": "/ˈmeɪntənəns/",
+      "meaning": "维护",
+      "collocation": "regular maintenance",
+      "collocationCN": "定期维护"
+    },
+    {
+      "word": "repair",
+      "ipa": "/rɪˈpeə/",
+      "meaning": "修理",
+      "collocation": "carry out repairs",
+      "collocationCN": "进行维修"
+    },
+    {
+      "word": "housing costs",
+      "ipa": "/ˈhaʊzɪŋ kɒsts/",
+      "meaning": "住房成本",
+      "collocation": "rising housing costs",
+      "collocationCN": "上涨的住房成本"
+    },
+    {
+      "word": "affordable housing",
+      "ipa": "/əˌfɔːdəbl ˈhaʊzɪŋ/",
+      "meaning": "可负担住房",
+      "collocation": "provide affordable housing",
+      "collocationCN": "提供可负担住房"
+    },
+    {
+      "word": "living space",
+      "ipa": "/ˈlɪvɪŋ speɪs/",
+      "meaning": "生活空间",
+      "collocation": "limited living space",
+      "collocationCN": "有限生活空间"
+    },
+    {
+      "word": "residential area",
+      "ipa": "/ˌrezɪˈdenʃl ˈeəriə/",
+      "meaning": "住宅区",
+      "collocation": "a densely populated residential area",
+      "collocationCN": "人口密集住宅区"
+    },
+    {
+      "word": "public transport link",
+      "ipa": "/ˌpʌblɪk ˈtrænspɔːt lɪŋk/",
+      "meaning": "公共交通连接",
+      "collocation": "good public transport links",
+      "collocationCN": "便利公共交通"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "home",
+      "options": [
+        "residence",
+        "place to live",
+        "household setting"
+      ],
+      "note": "residence 较正式；home 带有归属感。"
+    },
+    {
+      "base": "rent a home",
+      "options": [
+        "lease a property",
+        "be a tenant",
+        "live in rented accommodation"
+      ],
+      "note": "lease 常用于正式合同。"
+    },
+    {
+      "base": "expensive housing",
+      "options": [
+        "high housing costs",
+        "unaffordable property",
+        "costly accommodation"
+      ],
+      "note": "unaffordable 表示超出支付能力。"
+    },
+    {
+      "base": "fix a house",
+      "options": [
+        "carry out repairs",
+        "maintain the property",
+        "renovate the building"
+      ],
+      "note": "renovate 是整体翻修，不等于普通维修。"
+    },
+    {
+      "base": "big room",
+      "options": [
+        "spacious room",
+        "generous living space",
+        "roomy interior"
+      ],
+      "note": "spacious 最自然。"
+    },
+    {
+      "base": "near transport",
+      "options": [
+        "well connected",
+        "served by public transport",
+        "within easy reach of a station"
+      ],
+      "note": "well connected 可概括交通便利。"
+    },
+    {
+      "base": "area where people live",
+      "options": [
+        "residential area",
+        "neighbourhood",
+        "housing district"
+      ],
+      "note": "neighbourhood 也包括社区关系。"
+    },
+    {
+      "base": "cheap enough to pay for",
+      "options": [
+        "affordable",
+        "within one’s budget",
+        "reasonably priced"
+      ],
+      "note": "affordable 取决于收入，而非单纯便宜。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "The feature I value most in a home is + noun because + clause.",
+      "cn": "我最看重住房的特点是……，因为……",
+      "example": "The feature I value most in a home is natural light because it changes how the space feels."
+    },
+    {
+      "pattern": "Living close to + place + makes it easier to + verb.",
+      "cn": "住在……附近让做……更方便。",
+      "example": "Living close to a railway station makes it easier to commute without a car."
+    },
+    {
+      "pattern": "Although + housing option + offers more space, it may involve + drawback.",
+      "cn": "虽然某种住房提供更多空间，但可能伴随……",
+      "example": "Although a suburban house offers more space, it may involve a much longer journey to work."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "feel at home",
+      "cn": "感觉自在如在家",
+      "example": "The neighbours were friendly, so I quickly felt at home."
+    },
+    {
+      "text": "within walking distance",
+      "cn": "步行可达",
+      "example": "There’s a supermarket within walking distance."
+    },
+    {
+      "text": "move house",
+      "cn": "搬家",
+      "example": "We moved house twice when I was a child."
+    },
+    {
+      "text": "a place of my own",
+      "cn": "属于自己的住处",
+      "example": "I’d like a place of my own, even if it’s small."
+    },
+    {
+      "text": "need some work",
+      "cn": "房屋需要修缮",
+      "example": "The flat is affordable, but the kitchen needs some work."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I live in the countryside area.",
+      "correct": "I live in the countryside. / I live in a rural area.",
+      "why": "countryside 前不与 area 连用。"
+    },
+    {
+      "wrong": "The house has three bedroom.",
+      "correct": "The house has three bedrooms.",
+      "why": "three 后接可数名词复数。"
+    },
+    {
+      "wrong": "I have lived here since five years.",
+      "correct": "I have lived here for five years.",
+      "why": "时长前用 for；起点前用 since。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Stable renting should be a realistic long-term option.",
+      "topicSentence": "Tenants need reasonable security if renting is to function as a genuine form of housing.",
+      "collocations": [
+        "long-term tenancy",
+        "reasonable rent increase",
+        "security of tenure",
+        "maintain the property"
+      ],
+      "argument": "Short contracts can force families to move even when they have paid rent reliably. Frequent moves disrupt children’s schooling, commuting arrangements and neighbourhood ties. Clear rules on notice periods and reasonable rent increases would give tenants more stability. Landlords would retain the right to manage their property and address serious breaches. A fair rental system should balance ownership rights with the need for a secure home."
+    },
+    {
+      "viewpoint": "New housing should be built near transport and services.",
+      "topicSentence": "Location is as important as the number of homes constructed.",
+      "collocations": [
+        "public transport links",
+        "access essential services",
+        "reduce car dependence",
+        "plan residential development"
+      ],
+      "argument": "Cheap land on the edge of a city may allow rapid construction, but residents can face long and costly journeys. Housing near employment, schools and frequent transport gives people more practical choices. It also reduces pressure to own a car and can support local shops. Planning authorities should coordinate housing with infrastructure rather than treating them as separate projects. A home is affordable only when the cost of reaching daily needs is considered."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What is your favourite room in your home?",
+      "answer": "My favourite room is the small study near the window. It isn’t beautifully decorated, but it gets good natural light and is quieter than the rest of the flat. I use it for reading and work, and I keep the desk fairly clear. Having one place associated with concentration helps me settle down quickly."
+    },
+    {
+      "part": "Part 1",
+      "question": "What would you like to change about your home?",
+      "answer": "I’d improve the storage. The flat itself is large enough, but there aren’t many cupboards, so everyday objects easily make the rooms look untidy. Built-in shelves would use the vertical space without taking up much floor area. I’d also replace one harsh ceiling light with several warmer lamps, which would make the living room more comfortable."
+    }
+  ],
+  "reading": {
+    "title": "The Flexible Rooms of the Past",
+    "paragraphs": [
+      "Modern property advertisements usually name each room: bedroom, dining room, study and living room. The label suggests a fixed purpose. In many earlier homes, however, rooms changed function throughout the day. Furniture was moved, beds were folded or shared, and the same space might be used for work, meals and sleep. Limited space made flexibility ordinary rather than fashionable.",
+      "Industrialisation gradually altered this pattern for many urban households. Work moved from homes into factories and offices, while mass-produced furniture became cheaper. Rising incomes allowed some families to separate private sleeping areas from spaces used for guests. These changes were uneven; overcrowded housing continued, and domestic workers often occupied rooms with several functions.",
+      "Flexible design has returned in response to smaller apartments and remote work. Sliding partitions, folding tables and movable storage allow residents to change a room without increasing its size. Yet flexibility has limits. A worker who packs away a desk every evening may never gain a quiet place for concentration, and family members can compete for the same adaptable space at the same time.",
+      "Housing quality therefore cannot be measured by floor area alone. Layout, daylight, sound and storage affect whether space can genuinely serve several purposes. A smaller home with well-positioned doors and adequate cupboards may function better than a larger one divided into awkward rooms. Flexibility is most useful when it expands choice; it is less convincing when it merely gives a positive name to insufficient space.",
+      "Household composition makes flexible space more complicated. A studio may suit one resident but become difficult when two people work from home or a child needs quiet sleep. Designers cannot predict every future arrangement, yet sufficient electrical points, sound separation and storage allow residents to adapt later without major rebuilding. Adaptability begins with practical capacity, not movable furniture alone."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Rooms in many earlier homes often had more than one function.",
+        "answer": "True",
+        "explanation": "Paragraph 1 describes spaces used for work, meals and sleep."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph mentions competition for adaptable space?",
+        "answer": "C",
+        "explanation": "Paragraph C describes family members needing the same space simultaneously."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What is the writer’s conclusion about flexible design?",
+        "options": [
+          "It always compensates for a small home.",
+          "It is valuable only when it increases real choice.",
+          "It should replace all fixed rooms.",
+          "It is measured entirely by floor area."
+        ],
+        "answer": "B",
+        "explanation": "The final paragraph makes this distinction."
+      }
+    ]
+  }
+}

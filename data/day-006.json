@@ -1,0 +1,355 @@
+{
+  "id": 6,
+  "topic": "Personality",
+  "topicCN": "性格",
+  "category": "Daily Life",
+  "vocabulary": [
+    {
+      "word": "personality",
+      "ipa": "/ˌpɜːsəˈnæləti/",
+      "meaning": "性格",
+      "collocation": "shape a personality",
+      "collocationCN": "塑造性格"
+    },
+    {
+      "word": "trait",
+      "ipa": "/treɪt/",
+      "meaning": "特征",
+      "collocation": "a personality trait",
+      "collocationCN": "性格特征"
+    },
+    {
+      "word": "confident",
+      "ipa": "/ˈkɒnfɪdənt/",
+      "meaning": "自信的",
+      "collocation": "appear confident",
+      "collocationCN": "显得自信"
+    },
+    {
+      "word": "patient",
+      "ipa": "/ˈpeɪʃnt/",
+      "meaning": "有耐心的",
+      "collocation": "remain patient",
+      "collocationCN": "保持耐心"
+    },
+    {
+      "word": "curious",
+      "ipa": "/ˈkjʊəriəs/",
+      "meaning": "好奇的",
+      "collocation": "naturally curious",
+      "collocationCN": "天生好奇"
+    },
+    {
+      "word": "generous",
+      "ipa": "/ˈdʒenərəs/",
+      "meaning": "慷慨的",
+      "collocation": "a generous person",
+      "collocationCN": "慷慨的人"
+    },
+    {
+      "word": "considerate",
+      "ipa": "/kənˈsɪdərət/",
+      "meaning": "体贴的",
+      "collocation": "be considerate of others",
+      "collocationCN": "体谅他人"
+    },
+    {
+      "word": "reliable",
+      "ipa": "/rɪˈlaɪəbl/",
+      "meaning": "可靠的",
+      "collocation": "a reliable colleague",
+      "collocationCN": "可靠的同事"
+    },
+    {
+      "word": "ambitious",
+      "ipa": "/æmˈbɪʃəs/",
+      "meaning": "有抱负的",
+      "collocation": "highly ambitious",
+      "collocationCN": "雄心勃勃"
+    },
+    {
+      "word": "stubborn",
+      "ipa": "/ˈstʌbən/",
+      "meaning": "固执的",
+      "collocation": "become stubborn",
+      "collocationCN": "变得固执"
+    },
+    {
+      "word": "reserved",
+      "ipa": "/rɪˈzɜːvd/",
+      "meaning": "含蓄寡言的",
+      "collocation": "a reserved manner",
+      "collocationCN": "含蓄的举止"
+    },
+    {
+      "word": "outgoing",
+      "ipa": "/ˌaʊtˈɡəʊɪŋ/",
+      "meaning": "外向的",
+      "collocation": "an outgoing personality",
+      "collocationCN": "外向性格"
+    },
+    {
+      "word": "adaptable",
+      "ipa": "/əˈdæptəbl/",
+      "meaning": "适应性强的",
+      "collocation": "remain adaptable",
+      "collocationCN": "保持适应性"
+    },
+    {
+      "word": "self-aware",
+      "ipa": "/ˌself əˈweə/",
+      "meaning": "有自我认知的",
+      "collocation": "become more self-aware",
+      "collocationCN": "增强自我认知"
+    },
+    {
+      "word": "open-minded",
+      "ipa": "/ˌəʊpən ˈmaɪndɪd/",
+      "meaning": "思想开放的",
+      "collocation": "an open-minded attitude",
+      "collocationCN": "开放的态度"
+    },
+    {
+      "word": "sense of humour",
+      "ipa": "/ˌsens əv ˈhjuːmə/",
+      "meaning": "幽默感",
+      "collocation": "have a good sense of humour",
+      "collocationCN": "有幽默感"
+    },
+    {
+      "word": "first impression",
+      "ipa": "/ˌfɜːst ɪmˈpreʃn/",
+      "meaning": "第一印象",
+      "collocation": "create a first impression",
+      "collocationCN": "形成第一印象"
+    },
+    {
+      "word": "social confidence",
+      "ipa": "/ˌsəʊʃl ˈkɒnfɪdəns/",
+      "meaning": "社交自信",
+      "collocation": "build social confidence",
+      "collocationCN": "建立社交自信"
+    },
+    {
+      "word": "deal with pressure",
+      "ipa": "/diːl wɪð ˈpreʃə/",
+      "meaning": "应对压力",
+      "collocation": "deal with pressure calmly",
+      "collocationCN": "冷静应对压力"
+    },
+    {
+      "word": "take criticism",
+      "ipa": "/teɪk ˈkrɪtɪsɪzəm/",
+      "meaning": "接受批评",
+      "collocation": "take criticism well",
+      "collocationCN": "善于接受批评"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "friendly",
+      "options": [
+        "approachable",
+        "warm",
+        "easy to talk to"
+      ],
+      "note": "approachable 强调让人愿意接近和交谈。"
+    },
+    {
+      "base": "quiet",
+      "options": [
+        "reserved",
+        "soft-spoken",
+        "introverted"
+      ],
+      "note": "quiet 不一定等于 introverted；内向与社交偏好有关。"
+    },
+    {
+      "base": "confident",
+      "options": [
+        "self-assured",
+        "comfortable with oneself",
+        "assertive"
+      ],
+      "note": "assertive 强调能清楚表达立场，并非强势。"
+    },
+    {
+      "base": "kind",
+      "options": [
+        "considerate",
+        "thoughtful",
+        "compassionate"
+      ],
+      "note": "compassionate 尤其强调对困难中的人有同情心。"
+    },
+    {
+      "base": "changeable",
+      "options": [
+        "adaptable",
+        "flexible",
+        "open to change"
+      ],
+      "note": "adaptable 通常是积极含义。"
+    },
+    {
+      "base": "hard-working",
+      "options": [
+        "diligent",
+        "committed",
+        "willing to make an effort"
+      ],
+      "note": "diligent 较正式。"
+    },
+    {
+      "base": "honest about oneself",
+      "options": [
+        "self-aware",
+        "reflective",
+        "aware of one’s limitations"
+      ],
+      "note": "reflective 强调愿意回顾和思考。"
+    },
+    {
+      "base": "determined",
+      "options": [
+        "persistent",
+        "strong-willed",
+        "motivated"
+      ],
+      "note": "strong-willed 有时也暗示不易被说服。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "People who are + adjective + tend to + verb, although + clause.",
+      "cn": "性格……的人往往会……，不过……",
+      "example": "People who are naturally curious tend to ask more questions, although they may not accept simple answers."
+    },
+    {
+      "pattern": "Being + personality trait + can be an advantage when + clause.",
+      "cn": "在……时，具备某种性格可能是一项优势。",
+      "example": "Being adaptable can be an advantage when someone starts a new job."
+    },
+    {
+      "pattern": "A person may appear + adjective + at first, but + clause.",
+      "cn": "一个人起初可能显得……，但……",
+      "example": "A person may appear reserved at first, but become very talkative among close friends."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "come out of my shell",
+      "cn": "变得不再害羞",
+      "example": "Joining the drama club helped me come out of my shell."
+    },
+    {
+      "text": "speak my mind",
+      "cn": "坦率表达想法",
+      "example": "I speak my mind, but I try not to be rude."
+    },
+    {
+      "text": "keep an open mind",
+      "cn": "保持开放心态",
+      "example": "I try to keep an open mind when someone disagrees with me."
+    },
+    {
+      "text": "have a short temper",
+      "cn": "脾气急",
+      "example": "I had a short temper as a teenager, but I’m calmer now."
+    },
+    {
+      "text": "be comfortable in my own skin",
+      "cn": "对真实的自己感到自在",
+      "example": "I’ve become more comfortable in my own skin with age."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "He has a very good character.",
+      "correct": "He has a very pleasant personality.",
+      "why": "character 常指品格；描述日常性格通常用 personality。"
+    },
+    {
+      "wrong": "I am an outgoing person since childhood.",
+      "correct": "I have been outgoing since childhood.",
+      "why": "since 表示持续至今，使用现在完成时。"
+    },
+    {
+      "wrong": "She is very confidence.",
+      "correct": "She is very confident.",
+      "why": "confidence 是名词，此处需要形容词 confident。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Personality is shaped by experience as well as biology.",
+      "topicSentence": "Although people may be born with certain tendencies, their behaviour develops through social experience.",
+      "collocations": [
+        "inborn tendency",
+        "early childhood experience",
+        "adapt to circumstances",
+        "develop social confidence"
+      ],
+      "argument": "Some children are naturally cautious or energetic from an early age. However, family responses, school experiences and later responsibilities influence how these tendencies are expressed. A reserved child who receives patient encouragement may gradually become confident in group discussions. Conversely, repeated criticism can make an outgoing child reluctant to speak. Personality should therefore be understood as developing rather than completely fixed at birth."
+    },
+    {
+      "viewpoint": "Employers should not favour extroverts automatically.",
+      "topicSentence": "A confident interview style does not necessarily predict strong performance in every role.",
+      "collocations": [
+        "create a strong impression",
+        "evaluate job performance",
+        "work independently",
+        "contribute thoughtful ideas"
+      ],
+      "argument": "Outgoing applicants often speak easily and form a quick connection with interviewers. Yet many jobs also require concentration, careful listening and independent judgement. A reserved employee may contribute fewer ideas in a large meeting but produce excellent analysis afterwards. Recruitment should use work samples and structured criteria instead of relying heavily on social confidence. This would allow different personality strengths to be recognised fairly."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Would you describe yourself as an outgoing person?",
+      "answer": "Not especially. I’m comfortable talking to people I know, but in a large group I usually listen for a while before joining in. I don’t think that means I’m shy; I simply prefer having something meaningful to say. In a small group, or when the subject interests me, I can actually be quite talkative."
+    },
+    {
+      "part": "Part 1",
+      "question": "Is there a personality trait you would like to develop?",
+      "answer": "I’d like to be more patient when plans change unexpectedly. I’m organised, which is useful, but I can become irritated when someone is late or a task takes longer than expected. I’ve been trying to leave more spare time in my schedule. That small change helps me respond more calmly instead of blaming people immediately."
+    }
+  ],
+  "reading": {
+    "title": "The Limits of a First Impression",
+    "paragraphs": [
+      "Within seconds of meeting someone, people begin forming judgements about confidence, warmth and trustworthiness. Voice, facial expression, clothing and posture all contribute. These rapid impressions once had an obvious practical value: deciding quickly whether a stranger represented a threat could be safer than waiting for complete information. In modern settings, however, the same mental shortcut can influence interviews, classrooms and social encounters where speed is less important than accuracy.",
+      "First impressions are not random, but neither are they reliable portraits of personality. A person who avoids eye contact may be nervous, following a cultural norm or simply concentrating on a question. An energetic speaking style can signal enthusiasm, yet it can also hide poor preparation. Observers tend to select the explanation that fits their existing expectations, then notice later behaviour which confirms the original judgement.",
+      "The workplace provides a clear example. Interviewers may favour applicants who answer immediately and maintain an easy conversation. Those behaviours demonstrate social confidence, but the job itself might require patient analysis rather than frequent interaction. Structured interviews attempt to reduce this problem by asking every applicant comparable questions and scoring evidence against defined criteria. Work samples can add information that appearance and conversational style cannot supply.",
+      "People can revise an impression, although correction requires attention. Once a label such as ‘unfriendly’ or ‘capable’ has formed, ambiguous behaviour is often interpreted through it. Regular contact helps because it provides examples across different situations: someone quiet in meetings may be supportive with new colleagues, while a charming acquaintance may repeatedly miss commitments. The sensible response is not to ignore first impressions completely, but to treat them as early guesses which need testing.",
+      "Awareness of impression bias is useful, although simply telling people to be objective has limited effect. Specific procedures work better: delaying a final judgement, recording behavioural evidence and asking what alternative explanation could fit the same action. These steps create room for correction before an early guess becomes the basis for an important decision."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for Paragraph C.",
+        "options": [
+          "How recruitment can reduce impression bias",
+          "Why applicants should dress formally",
+          "The biological origin of confidence",
+          "Why every job requires social confidence"
+        ],
+        "answer": "A",
+        "explanation": "Paragraph C explains structured interviews and work samples."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Avoiding eye contact always indicates nervousness.",
+        "answer": "False",
+        "explanation": "Paragraph B provides several possible explanations."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What can provide evidence that appearance and conversation cannot? (NO MORE THAN TWO WORDS)",
+        "answer": "work samples",
+        "explanation": "The answer appears at the end of Paragraph C."
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "id": 28,
+  "topic": "Creativity",
+  "topicCN": "创造力",
+  "category": "Education",
+  "vocabulary": [
+    {
+      "word": "imagination",
+      "ipa": "/ɪˌmædʒɪˈneɪʃən/",
+      "meaning": "想象力",
+      "collocation": "use one’s imagination",
+      "collocationCN": "发挥想象力"
+    },
+    {
+      "word": "originality",
+      "ipa": "/əˌrɪdʒəˈnæləti/",
+      "meaning": "原创性",
+      "collocation": "demonstrate originality",
+      "collocationCN": "展现原创性"
+    },
+    {
+      "word": "inspiration",
+      "ipa": "/ˌɪnspəˈreɪʃən/",
+      "meaning": "灵感",
+      "collocation": "draw inspiration from nature",
+      "collocationCN": "从自然中汲取灵感"
+    },
+    {
+      "word": "brainstorm",
+      "ipa": "/ˈbreɪnstɔːm/",
+      "meaning": "头脑风暴；集思广益",
+      "collocation": "brainstorm possible solutions",
+      "collocationCN": "集思广益寻找可能的解决方案"
+    },
+    {
+      "word": "rough sketch",
+      "ipa": "/ˌrʌf ˈsketʃ/",
+      "meaning": "草图",
+      "collocation": "produce a rough sketch",
+      "collocationCN": "画一张草图"
+    },
+    {
+      "word": "prototype",
+      "ipa": "/ˈprəʊtətaɪp/",
+      "meaning": "原型",
+      "collocation": "build a working prototype",
+      "collocationCN": "制作一个可用的原型"
+    },
+    {
+      "word": "experiment",
+      "ipa": "/ɪkˈsperɪment/",
+      "meaning": "尝试；实验",
+      "collocation": "experiment with different materials",
+      "collocationCN": "尝试使用不同材料"
+    },
+    {
+      "word": "refine",
+      "ipa": "/rɪˈfaɪn/",
+      "meaning": "改进；完善",
+      "collocation": "refine an initial idea",
+      "collocationCN": "完善最初的想法"
+    },
+    {
+      "word": "creative block",
+      "ipa": "/kriˌeɪtɪv ˈblɒk/",
+      "meaning": "创作瓶颈",
+      "collocation": "overcome a creative block",
+      "collocationCN": "克服创作瓶颈"
+    },
+    {
+      "word": "think outside the box",
+      "ipa": "/ˌθɪŋk aʊtsaɪd ðə ˈbɒks/",
+      "meaning": "跳出常规思考",
+      "collocation": "think outside the box at work",
+      "collocationCN": "在工作中跳出常规思考"
+    },
+    {
+      "word": "come up with",
+      "ipa": "/ˌkʌm ˈʌp wɪð/",
+      "meaning": "想出",
+      "collocation": "come up with a fresh approach",
+      "collocationCN": "想出一种新方法"
+    },
+    {
+      "word": "trial and error",
+      "ipa": "/ˌtraɪəl ən ˈerə/",
+      "meaning": "反复试验",
+      "collocation": "learn through trial and error",
+      "collocationCN": "通过反复试验学习"
+    },
+    {
+      "word": "take a creative risk",
+      "ipa": "/ˌteɪk ə kriːˌeɪtɪv ˈrɪsk/",
+      "meaning": "进行创造性冒险",
+      "collocation": "be willing to take a creative risk",
+      "collocationCN": "愿意进行创造性尝试"
+    },
+    {
+      "word": "divergent thinking",
+      "ipa": "/daɪˌvɜːdʒənt ˈθɪŋkɪŋ/",
+      "meaning": "发散思维",
+      "collocation": "encourage divergent thinking",
+      "collocationCN": "鼓励发散思维"
+    },
+    {
+      "word": "design constraint",
+      "ipa": "/dɪˈzaɪn kənˌstreɪnt/",
+      "meaning": "设计限制条件",
+      "collocation": "work within design constraints",
+      "collocationCN": "在设计限制条件下工作"
+    },
+    {
+      "word": "creative process",
+      "ipa": "/kriˌeɪtɪv ˈprəʊses/",
+      "meaning": "创作过程",
+      "collocation": "trust the creative process",
+      "collocationCN": "相信创作过程"
+    },
+    {
+      "word": "collaborate",
+      "ipa": "/kəˈlæbəreɪt/",
+      "meaning": "合作",
+      "collocation": "collaborate on a creative project",
+      "collocationCN": "合作完成创意项目"
+    },
+    {
+      "word": "feedback loop",
+      "ipa": "/ˈfiːdbæk luːp/",
+      "meaning": "反馈循环",
+      "collocation": "create a rapid feedback loop",
+      "collocationCN": "建立快速反馈循环"
+    },
+    {
+      "word": "innovation",
+      "ipa": "/ˌɪnəˈveɪʃən/",
+      "meaning": "创新",
+      "collocation": "turn creativity into innovation",
+      "collocationCN": "把创造力转化为创新"
+    },
+    {
+      "word": "intellectual property",
+      "ipa": "/ˌɪntəlektʃuəl ˈprɒpəti/",
+      "meaning": "知识产权",
+      "collocation": "protect intellectual property",
+      "collocationCN": "保护知识产权"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "new idea",
+      "options": [
+        "original concept",
+        "novel proposal",
+        "creative possibility"
+      ],
+      "note": "novel 作形容词表示新颖的。"
+    },
+    {
+      "base": "think creatively",
+      "options": [
+        "generate alternatives",
+        "explore unconventional approaches",
+        "use divergent thinking"
+      ],
+      "note": "divergent thinking 强调扩展可能性。"
+    },
+    {
+      "base": "first version",
+      "options": [
+        "initial draft",
+        "early prototype",
+        "preliminary concept"
+      ],
+      "note": "prototype 强调可测试的早期模型。"
+    },
+    {
+      "base": "improve an idea",
+      "options": [
+        "refine the concept",
+        "develop the proposal",
+        "iterate on the design"
+      ],
+      "note": "iterate 强调多轮测试与修改。"
+    },
+    {
+      "base": "limit",
+      "options": [
+        "constraint",
+        "restriction",
+        "boundary condition"
+      ],
+      "note": "constraint 可成为创造性设计条件。"
+    },
+    {
+      "base": "judge ideas",
+      "options": [
+        "evaluate proposals",
+        "apply selection criteria",
+        "assess creative options"
+      ],
+      "note": "criteria 是 criterion 的复数。"
+    },
+    {
+      "base": "work alone first",
+      "options": [
+        "generate ideas independently",
+        "begin with individual ideation",
+        "think before group discussion"
+      ],
+      "note": "ideation 指产生创意的过程。"
+    },
+    {
+      "base": "creative failure",
+      "options": [
+        "unsuccessful experiment",
+        "fruitless attempt",
+        "non-viable design"
+      ],
+      "note": "unsuccessful 不代表没有学习价值。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Creativity often emerges from + constraint + rather than from + assumed condition.",
+      "cn": "创造力往往来自某种限制，而不是人们以为的条件。",
+      "example": "Creativity often emerges from limited materials rather than from unlimited choice."
+    },
+    {
+      "pattern": "The purpose of + early draft/prototype + is not to + perfect outcome, but to + learning action.",
+      "cn": "早期草稿或原型的目的不是达到完美，而是……。",
+      "example": "The purpose of an early prototype is not to impress users, but to reveal weak assumptions."
+    },
+    {
+      "pattern": "Once + idea + has been treated as + status, people become less willing to + revision.",
+      "cn": "一旦某想法被视为某种成果，人们就更不愿意……。",
+      "example": "Once an idea has been treated as a finished product, people become less willing to question it."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "think outside the box",
+      "cn": "跳出固有思维",
+      "example": "The team had to think outside the box when the budget was cut."
+    },
+    {
+      "text": "come up with an idea",
+      "cn": "想出一个点子",
+      "example": "I often come up with ideas while walking."
+    },
+    {
+      "text": "have a creative block",
+      "cn": "遇到创作瓶颈",
+      "example": "When I have a creative block, I switch to a simpler task."
+    },
+    {
+      "text": "try a different angle",
+      "cn": "换个角度尝试",
+      "example": "We tried a different angle and redesigned the opening."
+    },
+    {
+      "text": "turn an idea into practice",
+      "cn": "把想法付诸实践",
+      "example": "A prototype helps turn an idea into practice."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "She is a very creativity person.",
+      "correct": "She is a very creative person.",
+      "why": "修饰 person 要用形容词 creative。"
+    },
+    {
+      "wrong": "The activity inspired me a new idea.",
+      "correct": "The activity inspired me to develop a new idea.",
+      "why": "inspire somebody to do；不能直接接双宾语。"
+    },
+    {
+      "wrong": "We discussed about several designs.",
+      "correct": "We discussed several designs.",
+      "why": "discuss 是及物动词，不加 about。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Constraints can stimulate creative problem-solving.",
+      "topicSentence": "A limited budget or material can force designers to question familiar solutions.",
+      "collocations": [
+        "work within constraints",
+        "challenge an assumption",
+        "generate alternative solutions",
+        "use resources imaginatively"
+      ],
+      "argument": "Unlimited choice encourages people to select the first acceptable convention because every path remains open. A clear constraint narrows the search and makes the central problem visible. Architects working with reused materials, for example, may invent forms that a standard supply catalogue would never suggest. Restrictions can certainly become oppressive when they remove essential time or safety. Within reasonable limits, however, they can provide the resistance against which original thinking develops."
+    },
+    {
+      "viewpoint": "Schools should assess creative processes as well as polished products.",
+      "topicSentence": "Judging only the final result discourages experimentation and hides what a learner discovered.",
+      "collocations": [
+        "develop an original response",
+        "revise an early draft",
+        "take an intellectual risk",
+        "reflect on the process"
+      ],
+      "argument": "Creative work often contains unsuccessful attempts that lead to a stronger solution. If only the polished product receives credit, pupils may choose a safe idea or obtain excessive help outside school. Process notes, drafts and short reflections show how decisions changed and why. Teachers can then reward purposeful experimentation without pretending every unusual result is successful. Assessment should recognise both quality and the thinking that produced it."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What kind of activity makes you feel creative?",
+      "answer": "Cooking makes me feel creative because I have to respond to what is available. I normally begin with a familiar dish, then change one ingredient or texture instead of inventing everything from nothing. Occasionally the result is poor, but the risk is small and I learn something. I enjoy that immediate cycle of trying and adjusting."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a creative project you enjoyed.",
+      "answer": "I helped make a photo book for a relative’s birthday. Several family members sent pictures in different sizes and qualities, so the challenge was to create a coherent story rather than simply fill pages. I organised the photographs by places instead of dates and added very short captions from people who were there. The finished book felt personal without being overly decorative. I enjoyed the project because the limitations gave every design choice a clear purpose. I initially wanted every page to use the same grid, but older photographs looked awkward when enlarged. Allowing a few pages to break the rule produced a more natural rhythm. We printed one inexpensive test copy and found several captions that were too small. Revising those details taught me that creative satisfaction often comes from patient editing rather than the first idea."
+    }
+  ],
+  "reading": {
+    "title": "Why the First Idea Is Often Too Familiar",
+    "paragraphs": [
+      "In group discussions, the first plausible suggestion can gain an advantage unrelated to its quality. Once it is written on a board, later comments tend to modify it rather than question the original direction. Psychologists describe this as anchoring. The group is no longer searching the whole problem space; it is searching the neighbourhood around one early idea.",
+      "Brainstorming was developed partly to delay judgement and increase the number of possibilities. Yet speaking in a group creates other limits. Only one person can talk at a time, participants forget ideas while waiting, and junior members may avoid contradicting a confident colleague. Experiments comparing methods often find that individuals who first generate ideas separately produce a wider range before discussion begins.",
+      "Quantity alone is not creativity. Twenty minor variations may be less useful than three proposals based on genuinely different assumptions. Some teams therefore separate divergence from evaluation. During divergence, members seek alternatives and use prompts such as reversing a process or removing a component. During evaluation, criteria such as cost, safety and user need become explicit. Keeping the phases distinct prevents practical objections from ending exploration too soon.",
+      "The strongest process is neither solitary nor purely collective. Independent thought protects variety; exchange allows one person’s knowledge to extend another’s incomplete proposal. A facilitator can invite written ideas before a meeting, group them without names and ask which assumptions each group shares. This procedure does not guarantee originality, and familiar solutions are sometimes best. It does, however, make the first suggestion compete with alternatives. Creativity then becomes less dependent on who speaks fastest and more dependent on the range of possibilities examined.",
+      "Physical arrangements can support the separation of phases. Some workshops keep incomplete models visible, making revision normal rather than embarrassing. Digital teams may use one board for unfiltered proposals and another for choices that have met agreed criteria. These simple boundaries remind participants which kind of thinking is required and reduce the temptation to defend an early sketch as if it were a final commitment."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "What effect does anchoring have on a group?",
+        "answer": "A",
+        "explanation": "It concentrates later thought near the first plausible idea.",
+        "options": [
+          "It concentrates later thought near the first plausible idea.",
+          "It prevents anyone from evaluating cost.",
+          "It guarantees a practical final answer.",
+          "It increases anonymous participation."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "During evaluation, teams make criteria such as cost, safety and user need ______.",
+        "answer": "explicit",
+        "explanation": "Paragraph 3 uses the word “explicit”."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer believes familiar solutions should never be selected.",
+        "answer": "No",
+        "explanation": "The final paragraph says familiar solutions are sometimes best."
+      }
+    ]
+  }
+}

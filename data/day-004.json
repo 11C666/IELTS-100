@@ -1,0 +1,355 @@
+{
+  "id": 4,
+  "topic": "Family Relationships",
+  "topicCN": "家庭关系",
+  "category": "Daily Life",
+  "vocabulary": [
+    {
+      "word": "relative",
+      "ipa": "/ˈrelətɪv/",
+      "meaning": "亲属",
+      "collocation": "a close relative",
+      "collocationCN": "近亲"
+    },
+    {
+      "word": "sibling",
+      "ipa": "/ˈsɪblɪŋ/",
+      "meaning": "兄弟姐妹",
+      "collocation": "an older sibling",
+      "collocationCN": "哥哥或姐姐"
+    },
+    {
+      "word": "upbringing",
+      "ipa": "/ˈʌpbrɪŋɪŋ/",
+      "meaning": "成长环境；教养",
+      "collocation": "a strict upbringing",
+      "collocationCN": "严格的家庭教育"
+    },
+    {
+      "word": "generation",
+      "ipa": "/ˌdʒenəˈreɪʃn/",
+      "meaning": "一代人",
+      "collocation": "a younger generation",
+      "collocationCN": "年轻一代"
+    },
+    {
+      "word": "bond",
+      "ipa": "/bɒnd/",
+      "meaning": "情感纽带",
+      "collocation": "form a strong bond",
+      "collocationCN": "建立牢固纽带"
+    },
+    {
+      "word": "affection",
+      "ipa": "/əˈfekʃn/",
+      "meaning": "关爱；感情",
+      "collocation": "show affection",
+      "collocationCN": "表达关爱"
+    },
+    {
+      "word": "household",
+      "ipa": "/ˈhaʊshəʊld/",
+      "meaning": "家庭；住户",
+      "collocation": "share a household",
+      "collocationCN": "共同居住"
+    },
+    {
+      "word": "supportive",
+      "ipa": "/səˈpɔːtɪv/",
+      "meaning": "给予支持的",
+      "collocation": "a supportive family",
+      "collocationCN": "相互支持的家庭"
+    },
+    {
+      "word": "independence",
+      "ipa": "/ˌɪndɪˈpendəns/",
+      "meaning": "独立",
+      "collocation": "gain independence",
+      "collocationCN": "获得独立"
+    },
+    {
+      "word": "responsibility",
+      "ipa": "/rɪˌspɒnsəˈbɪləti/",
+      "meaning": "责任",
+      "collocation": "share family responsibilities",
+      "collocationCN": "分担家庭责任"
+    },
+    {
+      "word": "conflict",
+      "ipa": "/ˈkɒnflɪkt/",
+      "meaning": "冲突",
+      "collocation": "resolve a conflict",
+      "collocationCN": "化解冲突"
+    },
+    {
+      "word": "compromise",
+      "ipa": "/ˈkɒmprəmaɪz/",
+      "meaning": "妥协",
+      "collocation": "reach a compromise",
+      "collocationCN": "达成妥协"
+    },
+    {
+      "word": "boundary",
+      "ipa": "/ˈbaʊndri/",
+      "meaning": "界限",
+      "collocation": "set healthy boundaries",
+      "collocationCN": "设定健康界限"
+    },
+    {
+      "word": "expectation",
+      "ipa": "/ˌekspekˈteɪʃn/",
+      "meaning": "期望",
+      "collocation": "meet family expectations",
+      "collocationCN": "满足家庭期望"
+    },
+    {
+      "word": "misunderstanding",
+      "ipa": "/ˌmɪsʌndəˈstændɪŋ/",
+      "meaning": "误解",
+      "collocation": "clear up a misunderstanding",
+      "collocationCN": "消除误解"
+    },
+    {
+      "word": "generation gap",
+      "ipa": "/ˌdʒenəˈreɪʃn ɡæp/",
+      "meaning": "代沟",
+      "collocation": "bridge the generation gap",
+      "collocationCN": "缩小代沟"
+    },
+    {
+      "word": "family gathering",
+      "ipa": "/ˈfæməli ˌɡæðərɪŋ/",
+      "meaning": "家庭聚会",
+      "collocation": "attend a family gathering",
+      "collocationCN": "参加家庭聚会"
+    },
+    {
+      "word": "emotional support",
+      "ipa": "/ɪˌməʊʃənl səˈpɔːt/",
+      "meaning": "情感支持",
+      "collocation": "provide emotional support",
+      "collocationCN": "提供情感支持"
+    },
+    {
+      "word": "keep in contact",
+      "ipa": "/kiːp ɪn ˈkɒntækt/",
+      "meaning": "保持联系",
+      "collocation": "keep in regular contact",
+      "collocationCN": "经常保持联系"
+    },
+    {
+      "word": "rely on",
+      "ipa": "/rɪˈlaɪ ɒn/",
+      "meaning": "依靠",
+      "collocation": "rely on one another",
+      "collocationCN": "相互依靠"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "family members",
+      "options": [
+        "relatives",
+        "members of the household",
+        "immediate family"
+      ],
+      "note": "immediate family 通常指父母、配偶、子女和兄弟姐妹。"
+    },
+    {
+      "base": "close relationship",
+      "options": [
+        "strong bond",
+        "close connection",
+        "supportive relationship"
+      ],
+      "note": "bond 强调长期形成的情感联系。"
+    },
+    {
+      "base": "argue",
+      "options": [
+        "disagree",
+        "have a conflict",
+        "fall out"
+      ],
+      "note": "fall out 较口语，通常指争吵后关系变差。"
+    },
+    {
+      "base": "help",
+      "options": [
+        "support",
+        "assist",
+        "be there for"
+      ],
+      "note": "be there for somebody 常用于情感支持。"
+    },
+    {
+      "base": "raise a child",
+      "options": [
+        "bring up a child",
+        "care for a child",
+        "parent a child"
+      ],
+      "note": "bring up 最常见；parent 作动词时较正式。"
+    },
+    {
+      "base": "different ages",
+      "options": [
+        "different generations",
+        "age groups",
+        "generational differences"
+      ],
+      "note": "根据是指人群还是差异选择表达。"
+    },
+    {
+      "base": "live together",
+      "options": [
+        "share a home",
+        "live under one roof",
+        "belong to one household"
+      ],
+      "note": "under one roof 是自然口语表达。"
+    },
+    {
+      "base": "become independent",
+      "options": [
+        "gain independence",
+        "stand on one’s own feet",
+        "live independently"
+      ],
+      "note": "stand on one’s own feet 强调经济或生活自立。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Even when + family members + disagree, they can still + verb.",
+      "cn": "即使家人意见不合，他们仍然可以……",
+      "example": "Even when family members disagree, they can still listen to each other respectfully."
+    },
+    {
+      "pattern": "The fact that + family members + share a history often means that + clause.",
+      "cn": "家人拥有共同经历这一事实往往意味着……",
+      "example": "The fact that siblings share a history often means that they understand each other’s habits."
+    },
+    {
+      "pattern": "As children become more independent, parents may need to + verb.",
+      "cn": "随着孩子更加独立，父母可能需要……",
+      "example": "As children become more independent, parents may need to give them more personal space."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "be there for someone",
+      "cn": "在某人需要时支持他",
+      "example": "My sister has always been there for me when things go wrong."
+    },
+    {
+      "text": "take after someone",
+      "cn": "长得或性格像某位家人",
+      "example": "I take after my dad because we’re both fairly quiet."
+    },
+    {
+      "text": "see eye to eye",
+      "cn": "意见一致",
+      "example": "We don’t always see eye to eye, but we respect each other."
+    },
+    {
+      "text": "grow apart",
+      "cn": "关系逐渐疏远",
+      "example": "Some cousins grow apart when they move to different cities."
+    },
+    {
+      "text": "have a close bond with",
+      "cn": "与……关系亲密",
+      "example": "I have a particularly close bond with my grandmother."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "My family have five people.",
+      "correct": "There are five people in my family.",
+      "why": "表达家庭人数时用 There are，而不是 family have。"
+    },
+    {
+      "wrong": "I am similar with my mother.",
+      "correct": "I am similar to my mother.",
+      "why": "similar 后使用介词 to。"
+    },
+    {
+      "wrong": "My parents always support to me.",
+      "correct": "My parents always support me.",
+      "why": "support 是及物动词，后面直接接人。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Regular family contact can protect emotional well-being.",
+      "topicSentence": "Strong family relationships often provide a dependable source of emotional support.",
+      "collocations": [
+        "provide emotional support",
+        "develop a sense of security",
+        "cope with personal difficulties",
+        "maintain close contact"
+      ],
+      "argument": "Family members usually know one another’s history and can recognise changes in mood or behaviour. This allows them to offer practical help before a problem becomes overwhelming. A student living away from home, for example, may cope better with stress when regular calls provide reassurance and perspective. Such support does not remove every difficulty, but it can reduce isolation. Maintaining contact is therefore valuable even when relatives live far apart."
+    },
+    {
+      "viewpoint": "Adult children need space to make their own decisions.",
+      "topicSentence": "Healthy family support should not prevent young adults from developing independence.",
+      "collocations": [
+        "respect personal boundaries",
+        "make independent decisions",
+        "take responsibility for",
+        "learn from mistakes"
+      ],
+      "argument": "Parents naturally want to protect their children, yet constant intervention can weaken confidence. Young adults learn judgement by making choices and accepting the consequences, including occasional mistakes. Families can still offer advice without deciding every detail on their behalf. Clear boundaries also reduce resentment and make conversations more honest. Independence and family closeness should therefore be treated as compatible rather than opposing goals."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Who are you closest to in your family?",
+      "answer": "I’m probably closest to my older sister. We have quite different personalities, but she’s the first person I call when I need sensible advice. She doesn’t simply agree with me; she’ll point out when I’m being unrealistic. We also share a similar sense of humour, so even serious conversations usually end with us laughing about something."
+    },
+    {
+      "part": "Part 1",
+      "question": "How often does your family spend time together?",
+      "answer": "We normally have dinner together a few times a week, although everyone’s schedule is different. The meal itself isn’t elaborate; it’s mainly a chance to catch up without looking at our phones. On major holidays, the wider family meets at my grandparents’ home, which is much noisier but also quite memorable."
+    }
+  ],
+  "reading": {
+    "title": "When Families Learn to Negotiate",
+    "paragraphs": [
+      "Families are often described as stable units, yet the relationships inside them are continually renegotiated. A child who once depended on adults for every decision eventually expects privacy and freedom. Parents, meanwhile, may still feel responsible for preventing avoidable mistakes. The resulting tension is not necessarily evidence of a weak relationship. It may simply show that roles which worked at one stage of life no longer fit the next.",
+      "Researchers who study family communication have observed that conflict often concerns process rather than the decision itself. A teenager may object less to a household rule than to having no opportunity to discuss it. Similarly, an older parent may resist help because it is offered as an instruction rather than a choice. In both cases, the person wants some control over a change that affects daily life. Listening therefore matters not only as a sign of respect but as a way of discovering the real source of disagreement.",
+      "Negotiation within a family differs from a formal bargain. Relatives cannot measure every favour or divide emotional work with perfect equality. Circumstances also change: one sibling may provide more care during an illness, while another contributes money or handles practical arrangements from a distance. Problems arise when these contributions remain invisible and assumptions replace explicit conversation. A brief discussion about expectations can prevent minor frustration from becoming a lasting grievance.",
+      "Successful negotiation does not require family members to share the same opinion. It requires them to recognise changing roles, explain their concerns and accept that compromise may be temporary. A rule about curfews, money or caring duties can be reviewed when circumstances alter. In this sense, family closeness is not maintained by avoiding disagreement. It is maintained by creating enough trust for disagreement to occur without threatening the relationship itself.",
+      "A further difficulty appears when family members communicate through assumptions about age or duty. Advice intended as care may be heard as criticism, while silence intended to prevent an argument may be interpreted as indifference. Naming the intention behind an action does not guarantee agreement, but it gives the other person more accurate information from which to respond."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Conflict in a family always indicates that the relationship is weak.",
+        "answer": "False",
+        "explanation": "Paragraph 1 says tension may simply reflect changing roles."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why may an older parent resist help?",
+        "options": [
+          "The help is too expensive.",
+          "It is offered without allowing personal choice.",
+          "The parent does not trust any relatives.",
+          "The practical task is unnecessary."
+        ],
+        "answer": "B",
+        "explanation": "Paragraph 2 says help may be resisted when presented as an instruction rather than a choice."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Unspoken contributions can cause problems when assumptions replace explicit ______.",
+        "answer": "conversation",
+        "explanation": "Paragraph 3 uses this phrase directly."
+      }
+    ]
+  }
+}

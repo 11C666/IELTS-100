@@ -1,0 +1,349 @@
+{
+  "id": 45,
+  "topic": "Public Health",
+  "topicCN": "公共卫生",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "vaccination",
+      "ipa": "/ˌvæksɪˈneɪʃən/",
+      "meaning": "疫苗接种",
+      "collocation": "increase vaccination coverage",
+      "collocationCN": "提高疫苗接种覆盖率"
+    },
+    {
+      "word": "outbreak",
+      "ipa": "/ˈaʊtbreɪk/",
+      "meaning": "疫情暴发",
+      "collocation": "contain a disease outbreak",
+      "collocationCN": "控制疾病暴发"
+    },
+    {
+      "word": "screening",
+      "ipa": "/ˈskriːnɪŋ/",
+      "meaning": "筛查",
+      "collocation": "attend a screening programme",
+      "collocationCN": "参加筛查项目"
+    },
+    {
+      "word": "immunity",
+      "ipa": "/ɪˈmjuːnəti/",
+      "meaning": "免疫力",
+      "collocation": "build population immunity",
+      "collocationCN": "建立人群免疫力"
+    },
+    {
+      "word": "contagious",
+      "ipa": "/kənˈteɪdʒəs/",
+      "meaning": "有传染性的",
+      "collocation": "a highly contagious infection",
+      "collocationCN": "高度传染性疾病"
+    },
+    {
+      "word": "sanitation",
+      "ipa": "/ˌsænɪˈteɪʃən/",
+      "meaning": "环境卫生设施",
+      "collocation": "improve basic sanitation",
+      "collocationCN": "改善基本卫生设施"
+    },
+    {
+      "word": "prevention",
+      "ipa": "/prɪˈvenʃən/",
+      "meaning": "预防",
+      "collocation": "focus on disease prevention",
+      "collocationCN": "重视疾病预防"
+    },
+    {
+      "word": "health inequality",
+      "ipa": "/ˈhelθ ɪnɪˌkwɒləti/",
+      "meaning": "健康不平等",
+      "collocation": "reduce health inequalities",
+      "collocationCN": "缩小健康差距"
+    },
+    {
+      "word": "risk factor",
+      "ipa": "/ˈrɪsk fæktə/",
+      "meaning": "风险因素",
+      "collocation": "identify a major risk factor",
+      "collocationCN": "识别主要风险因素"
+    },
+    {
+      "word": "contact tracing",
+      "ipa": "/ˈkɒntækt ˌtreɪsɪŋ/",
+      "meaning": "接触者追踪",
+      "collocation": "carry out contact tracing",
+      "collocationCN": "开展接触者追踪"
+    },
+    {
+      "word": "public advisory",
+      "ipa": "/ˌpʌblɪk ədˈvaɪzəri/",
+      "meaning": "公众健康提示",
+      "collocation": "issue a public health advisory",
+      "collocationCN": "发布公众健康提示"
+    },
+    {
+      "word": "case rate",
+      "ipa": "/ˈkeɪs reɪt/",
+      "meaning": "病例率",
+      "collocation": "monitor the weekly case rate",
+      "collocationCN": "监测每周病例率"
+    },
+    {
+      "word": "quarantine",
+      "ipa": "/ˈkwɒrəntiːn/",
+      "meaning": "隔离",
+      "collocation": "remain in quarantine",
+      "collocationCN": "处于隔离状态"
+    },
+    {
+      "word": "primary care",
+      "ipa": "/ˌpraɪməri ˈkeə/",
+      "meaning": "初级医疗",
+      "collocation": "strengthen primary care",
+      "collocationCN": "加强初级医疗"
+    },
+    {
+      "word": "health literacy",
+      "ipa": "/ˈhelθ ˌlɪtərəsi/",
+      "meaning": "健康素养",
+      "collocation": "raise health literacy",
+      "collocationCN": "提高健康素养"
+    },
+    {
+      "word": "antibiotic resistance",
+      "ipa": "/ˌæntibaɪˈɒtɪk rɪˌzɪstəns/",
+      "meaning": "抗生素耐药性",
+      "collocation": "combat antibiotic resistance",
+      "collocationCN": "应对抗生素耐药性"
+    },
+    {
+      "word": "mortality",
+      "ipa": "/mɔːˈtæləti/",
+      "meaning": "死亡率",
+      "collocation": "reduce infant mortality",
+      "collocationCN": "降低婴儿死亡率"
+    },
+    {
+      "word": "surveillance",
+      "ipa": "/sɜːˈveɪləns/",
+      "meaning": "疾病监测",
+      "collocation": "maintain disease surveillance",
+      "collocationCN": "持续开展疾病监测"
+    },
+    {
+      "word": "vulnerable group",
+      "ipa": "/ˈvʌlnərəbəl ɡruːp/",
+      "meaning": "易受影响群体",
+      "collocation": "protect vulnerable groups",
+      "collocationCN": "保护易受影响群体"
+    },
+    {
+      "word": "preventive measure",
+      "ipa": "/prɪˈventɪv ˌmeʒə/",
+      "meaning": "预防措施",
+      "collocation": "introduce preventive measures",
+      "collocationCN": "采取预防措施"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "reduce",
+      "options": [
+        "decrease",
+        "limit",
+        "bring down"
+      ],
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论公共卫生。"
+    },
+    {
+      "base": "people",
+      "options": [
+        "individuals",
+        "members of the public",
+        "residents"
+      ],
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论公共卫生。"
+    },
+    {
+      "base": "use",
+      "options": [
+        "make use of",
+        "adopt",
+        "rely on"
+      ],
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论公共卫生。"
+    },
+    {
+      "base": "choice",
+      "options": [
+        "option",
+        "alternative",
+        "decision"
+      ],
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论公共卫生。"
+    },
+    {
+      "base": "cause",
+      "options": [
+        "lead to",
+        "contribute to",
+        "give rise to"
+      ],
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论公共卫生。"
+    },
+    {
+      "base": "benefit",
+      "options": [
+        "advantage",
+        "positive effect",
+        "gain"
+      ],
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论公共卫生。"
+    },
+    {
+      "base": "harm",
+      "options": [
+        "damage",
+        "negative effect",
+        "undermine"
+      ],
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论公共卫生。"
+    },
+    {
+      "base": "support",
+      "options": [
+        "assistance",
+        "backing",
+        "provision"
+      ],
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论公共卫生。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Public health measures are most effective when + population + can understand both + benefit + and + burden.",
+      "cn": "当公众能理解益处与负担时，公共卫生措施最有效。",
+      "example": "Public health measures are most effective when residents can understand both the collective benefit and the personal burden."
+    },
+    {
+      "pattern": "Preventing + health problem + requires action before + visible outcome.",
+      "cn": "预防某健康问题需要在明显结果出现之前行动。",
+      "example": "Preventing infectious disease requires action before hospitals become overwhelmed."
+    },
+    {
+      "pattern": "The fact that + risk + is unevenly distributed means that + targeted response.",
+      "cn": "某风险分布不均这一事实意味着需要针对性应对。",
+      "example": "The fact that air-pollution risk is unevenly distributed means that city-wide averages are insufficient."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "prevent the spread of disease",
+      "cn": "防止疾病传播",
+      "example": "Clean water systems prevent the spread of disease."
+    },
+    {
+      "text": "raise public awareness",
+      "cn": "提高公众意识",
+      "example": "The campaign raised public awareness without explaining where to seek help."
+    },
+    {
+      "text": "at greater risk of",
+      "cn": "面临更高风险",
+      "example": "Older adults may be at greater risk of severe illness."
+    },
+    {
+      "text": "place pressure on health services",
+      "cn": "给医疗服务带来压力",
+      "example": "A severe outbreak can place pressure on health services."
+    },
+    {
+      "text": "address the root causes",
+      "cn": "处理根本原因",
+      "example": "Public health policy should address the root causes of unequal outcomes."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The government should improve people health.",
+      "correct": "The government should improve public health.",
+      "why": "people health 不是自然搭配；群体健康用 public health。"
+    },
+    {
+      "wrong": "This disease can spread between people easily.",
+      "correct": "This disease can spread easily from person to person.",
+      "why": "from person to person 是常用传播表达。"
+    },
+    {
+      "wrong": "There is a lack of medical staffs.",
+      "correct": "There is a shortage of medical staff.",
+      "why": "staff 是集合名词；shortage 更适合人员不足。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Prevention deserves investment even when success is invisible.",
+      "topicSentence": "Public health programmes often create value by preventing events that would otherwise be counted only after harm occurs.",
+      "collocations": [
+        "invest in prevention",
+        "reduce avoidable illness",
+        "detect risk early",
+        "lower long-term demand"
+      ],
+      "argument": "Vaccination, screening and safer street design may appear costly before a crisis because the avoided case cannot be observed directly. Decision-makers can estimate likely outcomes by comparing populations and trends over time. When prevention works, lower demand may incorrectly be interpreted as evidence that the programme was unnecessary. Stable funding should reflect expected harm and the strength of evidence, not only immediate pressure. Waiting for visible failure is usually the more expensive test."
+    },
+    {
+      "viewpoint": "Universal programmes may need targeted delivery.",
+      "topicSentence": "A service offered to everyone can still produce unequal results when barriers differ between groups.",
+      "collocations": [
+        "provide universal access",
+        "target additional support",
+        "remove practical barriers",
+        "reduce health inequalities"
+      ],
+      "argument": "A screening programme may be free, yet shift workers, rural residents or people with limited language proficiency can struggle to attend. Evening appointments, mobile services and translated guidance improve participation without changing eligibility. Data should be examined by location and group so that a strong average does not conceal a missing population. Targeted delivery is not unfair preference; it is a way of making a universal promise real. Public health equality requires attention to who can actually use the service."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you pay much attention to public health advice?",
+      "answer": "I pay attention when the advice is specific and explains the evidence. General messages like “live more healthily” are easy to ignore because they do not suggest a practical next step. I also check whether the guidance comes from a health authority rather than an anonymous social-media post. Clear sourcing makes me more willing to follow the recommendation consistently."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a public health campaign you remember.",
+      "answer": "I remember a campaign encouraging people to wash their hands more carefully during an outbreak. The posters were placed near sinks and showed the sequence visually rather than relying on a long paragraph. They also explained when handwashing mattered most, such as before preparing food and after returning home. What made the campaign effective was its location: the reminder appeared exactly where the action could happen. Some messages later became repetitive, but this one remained practical. It did not promise complete protection or use frightening images. Instead, it connected a small personal behaviour with reduced transmission in the wider community. I remember it because the design was simple, timely and easy for people of different ages to follow."
+    }
+  ],
+  "reading": {
+    "title": "The Map That Revealed a Health Inequality",
+    "paragraphs": [
+      "A city-wide average can suggest improvement while particular neighbourhoods move in the opposite direction. Public health analysts therefore map outcomes such as asthma admissions, heat-related illness or access to screening. The purpose is not merely to colour areas on a map. Spatial patterns can reveal exposures and barriers that disappear when data are combined.",
+      "Interpretation requires care. A neighbourhood with high hospital admissions may have more illness, better access to a hospital or both. Boundaries used for data collection rarely match the area residents identify as their community. Small populations also produce unstable rates: a change of a few cases can look dramatic. Analysts often combine several years and compare related indicators before drawing conclusions.",
+      "Maps become more informative when joined with local knowledge. Residents may identify a bus route that makes clinic attendance difficult, housing that overheats or heavy traffic beside a school. These observations suggest mechanisms that administrative records cannot contain. They do not replace measurement, but they direct further investigation and help distinguish a statistical cluster from a plausible cause.",
+      "There are ethical risks. Publishing a map of disease can stigmatise an area or affect property values, especially if uncertainty is hidden. Individual privacy must be protected when rare conditions could make a person identifiable. Good reports explain limits, use sufficiently broad areas and involve communities before attaching labels to places.",
+      "Used responsibly, mapping changes the policy question from “Is the city healthier?” to “Who is not benefiting, and why?” Resources can then be directed towards mobile clinics, housing improvements or pollution control. The map does not prescribe which intervention will work, but it prevents a favourable average from ending the enquiry before unequal experience has been examined. Maps can also guide evaluation after an intervention. If a mobile clinic is introduced, analysts can compare attendance and outcomes in the intended area while watching for unchanged barriers nearby. A visually persuasive map should not replace statistical testing, but it helps decision-makers ask whether resources reached the population and place for which they were designed."
+    ],
+    "questions": [
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "High hospital admission rates can have more than one explanation.",
+        "answer": "Yes",
+        "explanation": "Paragraph 2 says they may reflect illness, hospital access or both."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph discusses possible harm to an area’s reputation?",
+        "answer": "D",
+        "explanation": "Paragraph D describes stigma and property effects."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What may analysts combine to make rates in small populations more stable?",
+        "answer": "several years of data",
+        "explanation": "Paragraph 2 states that analysts often combine several years."
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "id": 18,
+  "topic": "Sleep and Rest",
+  "topicCN": "睡眠与休息",
+  "category": "Health",
+  "vocabulary": [
+    {
+      "word": "sleep",
+      "ipa": "/sliːp/",
+      "meaning": "睡眠",
+      "collocation": "get enough sleep",
+      "collocationCN": "获得充足睡眠"
+    },
+    {
+      "word": "rest",
+      "ipa": "/rest/",
+      "meaning": "休息",
+      "collocation": "take a proper rest",
+      "collocationCN": "充分休息"
+    },
+    {
+      "word": "tiredness",
+      "ipa": "/ˈtaɪədnəs/",
+      "meaning": "疲劳",
+      "collocation": "persistent tiredness",
+      "collocationCN": "持续疲劳"
+    },
+    {
+      "word": "drowsy",
+      "ipa": "/ˈdraʊzi/",
+      "meaning": "困倦的",
+      "collocation": "feel drowsy",
+      "collocationCN": "感到困倦"
+    },
+    {
+      "word": "alert",
+      "ipa": "/əˈlɜːt/",
+      "meaning": "警觉的",
+      "collocation": "remain alert",
+      "collocationCN": "保持清醒"
+    },
+    {
+      "word": "insomnia",
+      "ipa": "/ɪnˈsɒmniə/",
+      "meaning": "失眠",
+      "collocation": "suffer from insomnia",
+      "collocationCN": "遭受失眠"
+    },
+    {
+      "word": "nap",
+      "ipa": "/næp/",
+      "meaning": "小睡",
+      "collocation": "take a short nap",
+      "collocationCN": "短暂小睡"
+    },
+    {
+      "word": "bedtime",
+      "ipa": "/ˈbedtaɪm/",
+      "meaning": "就寝时间",
+      "collocation": "a regular bedtime",
+      "collocationCN": "规律就寝时间"
+    },
+    {
+      "word": "wake up",
+      "ipa": "/weɪk ʌp/",
+      "meaning": "醒来",
+      "collocation": "wake up naturally",
+      "collocationCN": "自然醒来"
+    },
+    {
+      "word": "oversleep",
+      "ipa": "/ˌəʊvəˈsliːp/",
+      "meaning": "睡过头",
+      "collocation": "accidentally oversleep",
+      "collocationCN": "不小心睡过头"
+    },
+    {
+      "word": "snore",
+      "ipa": "/snɔː/",
+      "meaning": "打鼾",
+      "collocation": "snore loudly",
+      "collocationCN": "鼾声很大"
+    },
+    {
+      "word": "dream",
+      "ipa": "/driːm/",
+      "meaning": "梦",
+      "collocation": "remember a dream",
+      "collocationCN": "记得梦境"
+    },
+    {
+      "word": "fatigue",
+      "ipa": "/fəˈtiːɡ/",
+      "meaning": "疲劳",
+      "collocation": "mental fatigue",
+      "collocationCN": "精神疲劳"
+    },
+    {
+      "word": "recovery",
+      "ipa": "/rɪˈkʌvəri/",
+      "meaning": "恢复",
+      "collocation": "support physical recovery",
+      "collocationCN": "支持身体恢复"
+    },
+    {
+      "word": "sleep quality",
+      "ipa": "/ˈsliːp ˌkwɒləti/",
+      "meaning": "睡眠质量",
+      "collocation": "improve sleep quality",
+      "collocationCN": "改善睡眠质量"
+    },
+    {
+      "word": "sleep deprivation",
+      "ipa": "/ˈsliːp deprɪˌveɪʃn/",
+      "meaning": "睡眠不足",
+      "collocation": "chronic sleep deprivation",
+      "collocationCN": "长期睡眠不足"
+    },
+    {
+      "word": "body clock",
+      "ipa": "/ˈbɒdi klɒk/",
+      "meaning": "生物钟",
+      "collocation": "disrupt the body clock",
+      "collocationCN": "扰乱生物钟"
+    },
+    {
+      "word": "sleep schedule",
+      "ipa": "/ˈsliːp ˌʃedjuːl/",
+      "meaning": "睡眠作息",
+      "collocation": "maintain a sleep schedule",
+      "collocationCN": "保持睡眠作息"
+    },
+    {
+      "word": "fall asleep",
+      "ipa": "/fɔːl əˈsliːp/",
+      "meaning": "入睡",
+      "collocation": "struggle to fall asleep",
+      "collocationCN": "难以入睡"
+    },
+    {
+      "word": "get a good night’s sleep",
+      "ipa": "/ɡet ə ɡʊd naɪts sliːp/",
+      "meaning": "睡个好觉",
+      "collocation": "need a good night’s sleep",
+      "collocationCN": "需要好好睡一晚"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "sleep well",
+      "options": [
+        "get restful sleep",
+        "sleep soundly",
+        "have a good night’s sleep"
+      ],
+      "note": "sleep soundly 强调睡得沉。"
+    },
+    {
+      "base": "very tired",
+      "options": [
+        "exhausted",
+        "fatigued",
+        "worn out"
+      ],
+      "note": "fatigued 较正式；worn out 常用于口语。"
+    },
+    {
+      "base": "cannot sleep",
+      "options": [
+        "struggle to fall asleep",
+        "experience insomnia",
+        "lie awake"
+      ],
+      "note": "insomnia 通常指持续问题。"
+    },
+    {
+      "base": "sleeping time",
+      "options": [
+        "sleep duration",
+        "hours of sleep",
+        "time spent asleep"
+      ],
+      "note": "duration 较正式。"
+    },
+    {
+      "base": "short sleep",
+      "options": [
+        "nap",
+        "brief rest",
+        "short period of sleep"
+      ],
+      "note": "nap 通常发生在白天。"
+    },
+    {
+      "base": "sleep regularly",
+      "options": [
+        "keep a consistent schedule",
+        "maintain a regular bedtime",
+        "follow a stable sleep routine"
+      ],
+      "note": "consistent 强调每天相近。"
+    },
+    {
+      "base": "awake and focused",
+      "options": [
+        "alert",
+        "mentally sharp",
+        "able to concentrate"
+      ],
+      "note": "alert 强调清醒反应快。"
+    },
+    {
+      "base": "not enough sleep",
+      "options": [
+        "sleep deprivation",
+        "insufficient sleep",
+        "a lack of rest"
+      ],
+      "note": "sleep deprivation 较正式且程度较重。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "I find it difficult to fall asleep if + clause.",
+      "cn": "如果……，我会很难入睡。",
+      "example": "I find it difficult to fall asleep if I keep checking messages in bed."
+    },
+    {
+      "pattern": "The less sleep people get, the harder it becomes to + verb.",
+      "cn": "人们睡得越少，做……就越困难。",
+      "example": "The less sleep people get, the harder it becomes to make careful decisions."
+    },
+    {
+      "pattern": "A short nap can + benefit, provided that + condition.",
+      "cn": "只要……，短暂小睡可以……",
+      "example": "A short nap can restore alertness, provided that it does not continue too long."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "sleep like a log",
+      "cn": "睡得很沉",
+      "example": "After the hike, I slept like a log."
+    },
+    {
+      "text": "have a lie-in",
+      "cn": "睡懒觉",
+      "example": "I sometimes have a lie-in on Sunday."
+    },
+    {
+      "text": "be wide awake",
+      "cn": "完全清醒",
+      "example": "I was tired all evening but wide awake at midnight."
+    },
+    {
+      "text": "catch up on sleep",
+      "cn": "补觉",
+      "example": "I tried to catch up on sleep over the weekend."
+    },
+    {
+      "text": "toss and turn",
+      "cn": "辗转难眠",
+      "example": "I tossed and turned before the early flight."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I slept very late yesterday.",
+      "correct": "I went to bed very late yesterday.",
+      "why": "sleep late 常可能指睡到很晚；晚睡用 go to bed late。"
+    },
+    {
+      "wrong": "I didn’t have enough sleeps.",
+      "correct": "I didn’t get enough sleep.",
+      "why": "sleep 表示睡眠时不可数。"
+    },
+    {
+      "wrong": "I feel difficult to fall asleep.",
+      "correct": "I find it difficult to fall asleep.",
+      "why": "英语用 find it difficult to do，不说 feel difficult。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Schools and employers should take sleep seriously.",
+      "topicSentence": "Chronic sleep loss reduces attention and increases avoidable mistakes.",
+      "collocations": [
+        "suffer from sleep deprivation",
+        "maintain concentration",
+        "reduce accident risk",
+        "support healthy schedules"
+      ],
+      "argument": "A tired person may remain at a desk for the required hours while processing information slowly. In schools, this affects learning and emotional control; in safety-critical work, it can put others at risk. Institutions cannot control private bedtime, but they can avoid schedules that repeatedly demand very early starts after late duties. Education about sleep should accompany realistic timetables. Treating exhaustion as dedication is harmful and inefficient."
+    },
+    {
+      "viewpoint": "Weekend sleeping cannot fully repair an irregular routine.",
+      "topicSentence": "A consistent sleep schedule is generally more useful than alternating between severe restriction and long recovery.",
+      "collocations": [
+        "disrupt the body clock",
+        "accumulate sleep debt",
+        "follow a regular schedule",
+        "restore alertness"
+      ],
+      "argument": "Sleeping longer after a busy week may reduce immediate tiredness. However, a large change in waking time can shift the body clock and make Sunday-night sleep more difficult. The person then begins Monday tired and repeats the cycle. A modest weekend lie-in is unlikely to be harmful, but it cannot replace adequate weekday rest. Regularity should be the foundation, with recovery sleep used only occasionally."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "How many hours do you usually sleep?",
+      "answer": "Usually about seven and a half hours. I know roughly when I need to go to bed because I wake at the same time for work. If I get less than six hours, I can function, but my concentration drops in the afternoon. I’d rather protect my sleep during the week than spend the whole weekend trying to recover."
+    },
+    {
+      "part": "Part 1",
+      "question": "What do you do when you cannot fall asleep?",
+      "answer": "I get out of bed for a short while instead of becoming frustrated. I keep the lights low and read something undemanding until I feel sleepy again. Looking at the time makes the problem worse, so I turn the clock away. Fortunately, this doesn’t happen often unless I’ve had coffee too late or I’m worried about an early journey."
+    }
+  ],
+  "reading": {
+    "title": "Why the Body Keeps Time",
+    "paragraphs": [
+      "Sleepiness is not controlled only by the number of hours since a person last slept. The body also follows a roughly twenty-four-hour rhythm that influences alertness, temperature and hormone release. This internal clock is adjusted each day by external signals, of which light is the most powerful. Morning light generally moves the clock earlier, while bright light late in the evening can delay it.",
+      "The rhythm explains why crossing time zones is uncomfortable. A traveller may arrive at breakfast time while the body still expects the middle of the night. Meals and social activity provide additional signals, but the clock cannot shift instantly. Travelling east often requires falling asleep earlier than usual, which many people find harder than staying awake later after westward travel.",
+      "Modern indoor life creates a milder form of confusion. People may receive too little natural light during the day and strong artificial light at night. Screens are one source, although duration, brightness and content all matter. An exciting conversation on a dim device may delay sleep through mental stimulation, while a calm task on a brighter screen has a different effect. Blaming the colour of light alone oversimplifies the problem.",
+      "Regular timing helps the body predict when sleep should occur. This does not mean everyone needs an identical schedule: natural preferences and work demands vary. The practical goal is to keep waking time reasonably stable and obtain daylight after rising. Sleep advice often focuses on what happens in the final hour before bed, but the clock has been collecting time signals throughout the entire day.",
+      "The timing of exercise, meals and caffeine can reinforce or compete with light signals. These influences are weaker than light but become relevant when a person is adjusting after travel or shift work. Because several signals operate together, changing one evening habit may produce little benefit if the rest of the daily schedule continues to push the clock in another direction."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Light is described as the strongest external signal for the body clock.",
+        "answer": "True",
+        "explanation": "Paragraph 1 states this directly."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why may eastward travel be especially difficult?",
+        "options": [
+          "It requires people to eat breakfast twice.",
+          "It often requires sleeping earlier than usual.",
+          "Morning light stops affecting the body.",
+          "The destination has less artificial light."
+        ],
+        "answer": "B",
+        "explanation": "Paragraph 2 gives this reason."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Keeping waking time stable and getting ______ after rising can support regular timing.",
+        "answer": "daylight",
+        "explanation": "The final paragraph provides the answer."
+      }
+    ]
+  }
+}

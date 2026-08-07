@@ -1,0 +1,355 @@
+{
+  "id": 30,
+  "topic": "Skills for the Future",
+  "topicCN": "未来技能",
+  "category": "Education",
+  "vocabulary": [
+    {
+      "word": "adaptability",
+      "ipa": "/əˌdæptəˈbɪləti/",
+      "meaning": "适应能力",
+      "collocation": "show adaptability at work",
+      "collocationCN": "在工作中展现适应能力"
+    },
+    {
+      "word": "critical thinking",
+      "ipa": "/ˌkrɪtɪkəl ˈθɪŋkɪŋ/",
+      "meaning": "批判性思维",
+      "collocation": "apply critical thinking to a claim",
+      "collocationCN": "运用批判性思维审视观点"
+    },
+    {
+      "word": "problem-solving",
+      "ipa": "/ˈprɒbləm ˌsɒlvɪŋ/",
+      "meaning": "解决问题的能力",
+      "collocation": "develop practical problem-solving skills",
+      "collocationCN": "培养实际问题解决能力"
+    },
+    {
+      "word": "digital literacy",
+      "ipa": "/ˌdɪdʒɪtəl ˈlɪtərəsi/",
+      "meaning": "数字素养",
+      "collocation": "strengthen digital literacy",
+      "collocationCN": "提升数字素养"
+    },
+    {
+      "word": "data literacy",
+      "ipa": "/ˈdeɪtə ˌlɪtərəsi/",
+      "meaning": "数据素养",
+      "collocation": "build basic data literacy",
+      "collocationCN": "培养基本数据素养"
+    },
+    {
+      "word": "media literacy",
+      "ipa": "/ˈmiːdiə ˌlɪtərəsi/",
+      "meaning": "媒体素养",
+      "collocation": "promote media literacy",
+      "collocationCN": "促进媒体素养"
+    },
+    {
+      "word": "collaboration",
+      "ipa": "/kəˌlæbəˈreɪʃən/",
+      "meaning": "协作",
+      "collocation": "support cross-team collaboration",
+      "collocationCN": "支持跨团队协作"
+    },
+    {
+      "word": "communication",
+      "ipa": "/kəˌmjuːnɪˈkeɪʃən/",
+      "meaning": "沟通能力",
+      "collocation": "communicate complex ideas clearly",
+      "collocationCN": "清楚表达复杂观点"
+    },
+    {
+      "word": "leadership",
+      "ipa": "/ˈliːdəʃɪp/",
+      "meaning": "领导力",
+      "collocation": "develop leadership skills",
+      "collocationCN": "培养领导能力"
+    },
+    {
+      "word": "initiative",
+      "ipa": "/ɪˈnɪʃətɪv/",
+      "meaning": "主动性",
+      "collocation": "show initiative at work",
+      "collocationCN": "在工作中展现主动性"
+    },
+    {
+      "word": "resilience",
+      "ipa": "/rɪˈzɪliəns/",
+      "meaning": "韧性；复原力",
+      "collocation": "build professional resilience",
+      "collocationCN": "培养职业韧性"
+    },
+    {
+      "word": "emotional intelligence",
+      "ipa": "/ɪˌməʊʃənəl ɪnˈtelɪdʒəns/",
+      "meaning": "情商",
+      "collocation": "demonstrate emotional intelligence",
+      "collocationCN": "展现情商"
+    },
+    {
+      "word": "time management",
+      "ipa": "/ˈtaɪm ˌmænɪdʒmənt/",
+      "meaning": "时间管理",
+      "collocation": "improve time-management skills",
+      "collocationCN": "提高时间管理能力"
+    },
+    {
+      "word": "prioritise",
+      "ipa": "/praɪˈɒrətaɪz/",
+      "meaning": "确定优先次序",
+      "collocation": "prioritise competing tasks",
+      "collocationCN": "确定多项任务的优先顺序"
+    },
+    {
+      "word": "meet deadlines",
+      "ipa": "/ˌmiːt ˈdedlaɪnz/",
+      "meaning": "按时完成任务",
+      "collocation": "meet tight deadlines",
+      "collocationCN": "赶上紧迫的截止日期"
+    },
+    {
+      "word": "think on your feet",
+      "ipa": "/ˌθɪŋk ɒn jə ˈfiːt/",
+      "meaning": "迅速应变",
+      "collocation": "think on your feet in a meeting",
+      "collocationCN": "在会议中快速应变"
+    },
+    {
+      "word": "work independently",
+      "ipa": "/ˌwɜːk ˌɪndɪˈpendəntli/",
+      "meaning": "独立工作",
+      "collocation": "work independently when required",
+      "collocationCN": "在需要时独立工作"
+    },
+    {
+      "word": "make informed decisions",
+      "ipa": "/ˌmeɪk ɪnˌfɔːmd dɪˈsɪʒənz/",
+      "meaning": "作出明智决定",
+      "collocation": "use evidence to make informed decisions",
+      "collocationCN": "利用证据作出明智决定"
+    },
+    {
+      "word": "learn on the job",
+      "ipa": "/ˌlɜːn ɒn ðə ˈdʒɒb/",
+      "meaning": "在工作中学习",
+      "collocation": "learn new systems on the job",
+      "collocationCN": "在工作中学习新系统"
+    },
+    {
+      "word": "future-proof",
+      "ipa": "/ˈfjuːtʃə pruːf/",
+      "meaning": "使能适应未来变化",
+      "collocation": "future-proof one’s career",
+      "collocationCN": "使自己的职业发展更能适应未来变化"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "future skills",
+      "options": [
+        "capabilities for future work",
+        "emerging workplace competencies",
+        "long-term employability skills"
+      ],
+      "note": "competency 强调可展示的能力。"
+    },
+    {
+      "base": "learn new systems",
+      "options": [
+        "adapt to unfamiliar tools",
+        "update technical competence",
+        "acquire new procedures"
+      ],
+      "note": "adapt 强调面对变化。"
+    },
+    {
+      "base": "skills useful in many jobs",
+      "options": [
+        "transferable skills",
+        "cross-occupational capabilities",
+        "portable competencies"
+      ],
+      "note": "transferable 是 IELTS 写作常用词。"
+    },
+    {
+      "base": "solve new problems",
+      "options": [
+        "handle unfamiliar cases",
+        "address novel challenges",
+        "respond to non-routine situations"
+      ],
+      "note": "non-routine 与自动化讨论常搭配。"
+    },
+    {
+      "base": "understand basic ideas",
+      "options": [
+        "develop conceptual understanding",
+        "grasp underlying principles",
+        "build a mental model"
+      ],
+      "note": "underlying principle 比界面操作更持久。"
+    },
+    {
+      "base": "learn while working",
+      "options": [
+        "learn on the job",
+        "undertake workplace training",
+        "develop through practice"
+      ],
+      "note": "on the job 偏口语。"
+    },
+    {
+      "base": "explain a decision",
+      "options": [
+        "justify a judgement",
+        "articulate one’s reasoning",
+        "give a reasoned account"
+      ],
+      "note": "justify 需要提供依据。"
+    },
+    {
+      "base": "keep skills current",
+      "options": [
+        "maintain employability",
+        "update professional knowledge",
+        "avoid skill obsolescence"
+      ],
+      "note": "obsolescence 指技能过时。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "The skill most likely to remain valuable is not + narrow skill, but the ability to + adaptable action.",
+      "cn": "最可能长期有价值的技能不是某项狭窄技能，而是……的能力。",
+      "example": "The skill most likely to remain valuable is not one software command, but the ability to learn unfamiliar systems."
+    },
+    {
+      "pattern": "As routine tasks become + automated, greater value is placed on + human capability.",
+      "cn": "随着常规任务变得自动化，人类某项能力会更受重视。",
+      "example": "As routine tasks become automated, greater value is placed on interpreting unusual cases."
+    },
+    {
+      "pattern": "It is through + practice + that learners develop + transferable skill.",
+      "cn": "学习者正是通过某种实践培养可迁移技能。",
+      "example": "It is through explaining decisions that learners develop reflective judgement."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "adapt to a changing workplace",
+      "cn": "适应变化中的职场",
+      "example": "Graduates need to adapt to a changing workplace."
+    },
+    {
+      "text": "learn on the job",
+      "cn": "在工作中学习",
+      "example": "Much of the software was learned on the job."
+    },
+    {
+      "text": "transfer skills between roles",
+      "cn": "在岗位间迁移技能",
+      "example": "Clear writing helps people transfer skills between roles."
+    },
+    {
+      "text": "deal with unfamiliar problems",
+      "cn": "处理陌生问题",
+      "example": "Projects teach students to deal with unfamiliar problems."
+    },
+    {
+      "text": "make a sound judgement",
+      "cn": "作出可靠判断",
+      "example": "Employees must make a sound judgement when rules conflict."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Students need to improve their problem-solving abilitys.",
+      "correct": "Students need to improve their problem-solving abilities.",
+      "why": "ability 的复数是 abilities。"
+    },
+    {
+      "wrong": "Technology changes very rapid.",
+      "correct": "Technology changes very rapidly.",
+      "why": "修饰动词 changes 用副词 rapidly。"
+    },
+    {
+      "wrong": "This skill is useful for my future career development.",
+      "correct": "This skill will be useful in my future career.",
+      "why": "原句名词堆叠生硬；此处用 in my future career 更自然。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Transferable skills should be taught through subject knowledge.",
+      "topicSentence": "Problem-solving and communication develop most effectively when learners apply them to substantial content.",
+      "collocations": [
+        "apply subject knowledge",
+        "justify a decision",
+        "solve an unfamiliar problem",
+        "communicate complex ideas"
+      ],
+      "argument": "Generic advice to “think critically” gives learners little material on which to exercise judgement. In science, history or vocational study, they can compare evidence, identify constraints and explain a conclusion. The subject supplies standards for deciding whether an answer is strong. Reflection can then make the underlying process visible and transferable. Future-oriented education should integrate broad skills with knowledge rather than treating the two as competitors."
+    },
+    {
+      "viewpoint": "Adaptability should not mean accepting permanent insecurity.",
+      "topicSentence": "Employers share responsibility for creating conditions in which workers can update their skills.",
+      "collocations": [
+        "provide structured training",
+        "allocate learning time",
+        "respond to technological change",
+        "share adjustment costs"
+      ],
+      "argument": "Workers are often told to remain adaptable as technology changes, yet serious retraining requires time, guidance and opportunities to practise. Expecting employees to finance every transition privately shifts all risk onto individuals. Employers benefit from role-specific knowledge and should provide protected learning time when systems change. Public support may be justified where an entire industry is affected. Adaptability is most realistic when adjustment costs are shared rather than hidden."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Which skill do you think will be useful in your future?",
+      "answer": "I think clear writing will remain useful whatever job I do. It forces me to organise an idea, and it also leaves a record that colleagues can check later. Even when software produces a first draft, someone still has to notice missing context or a weak conclusion. I would like to become faster without losing precision."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a skill that took you a long time to develop.",
+      "answer": "The skill was speaking confidently in front of a group. At first I memorised every sentence, which made me panic if I forgot a word. I improved by using brief notes, rehearsing the transitions and volunteering for small updates rather than avoiding them. Progress was gradual, but I can now focus on whether people understand instead of on how nervous I look. The skill has become useful in meetings as well as formal presentations. Recording myself was uncomfortable at first, but it revealed that I rushed the opening and slowed down on minor details. A supportive colleague later asked questions after each practice, forcing me to leave room for interaction. I am not naturally theatrical, and I no longer try to be. My aim is to make the structure easy to follow and respond calmly when the audience needs clarification."
+    }
+  ],
+  "reading": {
+    "title": "The Half-Life of a Technical Skill",
+    "paragraphs": [
+      "Claims that skills are becoming obsolete faster are common, but obsolescence has several meanings. A programming language may decline while the logic learned through using it remains relevant. A machine operator may stop pressing particular controls yet retain an understanding of materials, faults and safe sequences. The visible procedure changes more quickly than the deeper model that allowed a worker to judge what was happening.",
+      "This distinction affects training decisions. Short courses can teach the current interface efficiently, especially when workers already understand the underlying task. Beginners need more: concepts, varied practice and feedback that helps them recognise why one case differs from another. Training based only on step-by-step instructions produces speed under familiar conditions but leaves the learner dependent when a screen or rule changes.",
+      "Employers sometimes respond to uncertainty by listing an expanding collection of desirable attributes: creativity, resilience, communication, data literacy and adaptability. Such lists can become meaningless unless each quality is connected to actual work. Communication in nursing is not identical to communication in engineering, and “problem-solving” requires knowledge of which outcomes are safe or lawful. Broad capability exists, but it is demonstrated through a context.",
+      "A durable learning strategy therefore has layers. Workers need immediate procedures to perform today’s tasks, conceptual understanding to diagnose variation and habits that support later learning. Documentation, peer explanation and opportunities to investigate errors strengthen all three. No curriculum can predict every tool a person will encounter over a forty-year career. It can, however, help learners distinguish a temporary interface from a lasting principle—and give them experience of rebuilding competence when the temporary part changes.",
+      "Assessment must reflect these layers too. A quiz can confirm that a worker remembers a procedure, but observation across varied cases shows whether the principle can be applied. Asking learners to explain an error reveals whether they can update their model. Organisations that measure only course completion may therefore report successful training while dependence on the old interface remains unchanged."
+    ],
+    "questions": [
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer believes a declining programming language leaves no useful knowledge behind.",
+        "answer": "No",
+        "explanation": "Paragraph 1 says the logic may remain relevant."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why can a list of broad attributes become meaningless?",
+        "answer": "D",
+        "explanation": "The qualities are not connected to the context of actual work.",
+        "options": [
+          "It contains too few technical procedures.",
+          "Workers already possess every attribute.",
+          "The qualities can only be taught at university.",
+          "The qualities are not connected to the context of actual work."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Learners should distinguish a temporary interface from a lasting ______.",
+        "answer": "principle",
+        "explanation": "The final sentence provides this contrast."
+      }
+    ]
+  }
+}

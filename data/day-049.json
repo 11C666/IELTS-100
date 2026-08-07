@@ -1,0 +1,349 @@
+{
+  "id": 49,
+  "topic": "Consumer Behaviour",
+  "topicCN": "消费行为",
+  "category": "Economy",
+  "vocabulary": [
+    {
+      "word": "impulse buy",
+      "ipa": "/ˈɪmpʌls baɪ/",
+      "meaning": "冲动购买",
+      "collocation": "make an impulse buy",
+      "collocationCN": "进行冲动消费"
+    },
+    {
+      "word": "bargain",
+      "ipa": "/ˈbɑːɡɪn/",
+      "meaning": "便宜货；划算交易",
+      "collocation": "pick up a genuine bargain",
+      "collocationCN": "淘到真正划算的商品"
+    },
+    {
+      "word": "brand-conscious",
+      "ipa": "/ˈbrænd kɒnʃəs/",
+      "meaning": "注重品牌的",
+      "collocation": "brand-conscious shoppers",
+      "collocationCN": "注重品牌的消费者"
+    },
+    {
+      "word": "compare prices",
+      "ipa": "/kəmˌpeə ˈpraɪsɪz/",
+      "meaning": "比价",
+      "collocation": "compare prices online",
+      "collocationCN": "在网上比较价格"
+    },
+    {
+      "word": "refund",
+      "ipa": "/ˈriːfʌnd/",
+      "meaning": "退款",
+      "collocation": "request a full refund",
+      "collocationCN": "申请全额退款"
+    },
+    {
+      "word": "warranty",
+      "ipa": "/ˈwɒrənti/",
+      "meaning": "保修",
+      "collocation": "come with a two-year warranty",
+      "collocationCN": "附带两年保修"
+    },
+    {
+      "word": "checkout",
+      "ipa": "/ˈtʃekaʊt/",
+      "meaning": "收银台；结账页面",
+      "collocation": "abandon an online checkout",
+      "collocationCN": "放弃网上结账"
+    },
+    {
+      "word": "subscription",
+      "ipa": "/səbˈskrɪpʃən/",
+      "meaning": "订阅服务",
+      "collocation": "cancel an unwanted subscription",
+      "collocationCN": "取消不需要的订阅"
+    },
+    {
+      "word": "customer review",
+      "ipa": "/ˈkʌstəmə rɪˌvjuː/",
+      "meaning": "顾客评价",
+      "collocation": "read verified customer reviews",
+      "collocationCN": "阅读经过验证的顾客评价"
+    },
+    {
+      "word": "value for money",
+      "ipa": "/ˌvæljuː fə ˈmʌni/",
+      "meaning": "物有所值",
+      "collocation": "offer good value for money",
+      "collocationCN": "物有所值"
+    },
+    {
+      "word": "buy in bulk",
+      "ipa": "/ˌbaɪ ɪn ˈbʌlk/",
+      "meaning": "批量购买",
+      "collocation": "save money by buying in bulk",
+      "collocationCN": "通过批量购买省钱"
+    },
+    {
+      "word": "return policy",
+      "ipa": "/rɪˈtɜːn ˌpɒləsi/",
+      "meaning": "退货政策",
+      "collocation": "check the return policy",
+      "collocationCN": "查看退货政策"
+    },
+    {
+      "word": "loyalty scheme",
+      "ipa": "/ˈlɔɪəlti skiːm/",
+      "meaning": "会员积分计划",
+      "collocation": "join a store loyalty scheme",
+      "collocationCN": "加入商店会员计划"
+    },
+    {
+      "word": "ethical consumer",
+      "ipa": "/ˌeθɪkəl kənˈsjuːmə/",
+      "meaning": "道德消费人士",
+      "collocation": "appeal to ethical consumers",
+      "collocationCN": "吸引重视道德消费的人"
+    },
+    {
+      "word": "scarcity",
+      "ipa": "/ˈskeəsəti/",
+      "meaning": "稀缺性",
+      "collocation": "create an artificial sense of scarcity",
+      "collocationCN": "制造人为稀缺感"
+    },
+    {
+      "word": "shop around",
+      "ipa": "/ˌʃɒp əˈraʊnd/",
+      "meaning": "货比三家",
+      "collocation": "shop around for a better deal",
+      "collocationCN": "货比三家寻找更好价格"
+    },
+    {
+      "word": "disposable income",
+      "ipa": "/dɪˌspəʊzəbəl ˈɪnkʌm/",
+      "meaning": "可支配收入",
+      "collocation": "have less disposable income",
+      "collocationCN": "可支配收入减少"
+    },
+    {
+      "word": "purchase decision",
+      "ipa": "/ˈpɜːtʃəs dɪˌsɪʒən/",
+      "meaning": "购买决定",
+      "collocation": "make an informed purchase decision",
+      "collocationCN": "作出知情购买决定"
+    },
+    {
+      "word": "hidden charge",
+      "ipa": "/ˌhɪdən ˈtʃɑːdʒ/",
+      "meaning": "隐藏收费",
+      "collocation": "avoid unexpected hidden charges",
+      "collocationCN": "避免意外隐藏收费"
+    },
+    {
+      "word": "buyer’s remorse",
+      "ipa": "/ˌbaɪəz rɪˈmɔːs/",
+      "meaning": "购买后的后悔",
+      "collocation": "experience buyer’s remorse",
+      "collocationCN": "产生购买后的后悔"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "change",
+      "options": [
+        "shift",
+        "development",
+        "transformation"
+      ],
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论消费行为。"
+    },
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论消费行为。"
+    },
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论消费行为。"
+    },
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise the quality of"
+      ],
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论消费行为。"
+    },
+    {
+      "base": "reduce",
+      "options": [
+        "decrease",
+        "limit",
+        "bring down"
+      ],
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论消费行为。"
+    },
+    {
+      "base": "people",
+      "options": [
+        "individuals",
+        "members of the public",
+        "residents"
+      ],
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论消费行为。"
+    },
+    {
+      "base": "use",
+      "options": [
+        "make use of",
+        "adopt",
+        "rely on"
+      ],
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论消费行为。"
+    },
+    {
+      "base": "choice",
+      "options": [
+        "option",
+        "alternative",
+        "decision"
+      ],
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论消费行为。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Consumers are more likely to choose + option + when it is presented as + default/status.",
+      "cn": "当某选项被设为默认或特定状态时，消费者更可能选择它。",
+      "example": "Consumers are more likely to choose paperless billing when it is presented as the default."
+    },
+    {
+      "pattern": "What appears to be + personal preference + may partly reflect + market/design condition.",
+      "cn": "看似个人偏好的事物，可能部分反映市场或设计条件。",
+      "example": "What appears to be brand loyalty may partly reflect the effort required to compare alternatives."
+    },
+    {
+      "pattern": "Having paid + sunk cost, buyers may continue + behaviour + even when + disadvantage.",
+      "cn": "支付沉没成本后，购买者可能继续某行为，即使……。",
+      "example": "Having paid an annual fee, buyers may continue using a poor service even when better options exist."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "shop around",
+      "cn": "货比三家",
+      "example": "I shop around before signing a long contract."
+    },
+    {
+      "text": "make an impulse purchase",
+      "cn": "冲动购物",
+      "example": "Limited-time offers encourage people to make an impulse purchase."
+    },
+    {
+      "text": "get value for money",
+      "cn": "物有所值",
+      "example": "Durability often provides better value for money than a low initial price."
+    },
+    {
+      "text": "stick with a familiar brand",
+      "cn": "坚持熟悉品牌",
+      "example": "Some consumers stick with a familiar brand to avoid search effort."
+    },
+    {
+      "text": "change my mind at the checkout",
+      "cn": "结账时改变主意",
+      "example": "A clear total price can make buyers change their mind at the checkout."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I bought it with a cheap price.",
+      "correct": "I bought it at a low price.",
+      "why": "价格高低用 at a low/high price。"
+    },
+    {
+      "wrong": "The shop offered me a discount of ten percents.",
+      "correct": "The shop offered me a discount of ten percent.",
+      "why": "percent 在具体数字后不加 s。"
+    },
+    {
+      "wrong": "I prefer buying online than in shops.",
+      "correct": "I prefer buying online to shopping in stores.",
+      "why": "prefer A to B。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Consumer choice depends on how options are presented.",
+      "topicSentence": "Markets should not assume that every accepted default reflects an active preference.",
+      "collocations": [
+        "set a default option",
+        "reduce choice friction",
+        "obtain informed consent",
+        "design a fair interface"
+      ],
+      "argument": "People often retain a preselected option because changing it requires attention, not because they examined every alternative. Defaults can support beneficial choices such as paperless communication, but they can also add insurance or data sharing that customers do not want. Important costs and commitments should require a clear action rather than passive acceptance. Choice architecture is unavoidable; fairness depends on whose interest it serves and how easily a decision can be reversed."
+    },
+    {
+      "viewpoint": "Durability information can improve consumer decisions.",
+      "topicSentence": "Buyers need comparable evidence about expected product life and repairability, not only purchase price.",
+      "collocations": [
+        "assess product durability",
+        "compare lifetime cost",
+        "access spare parts",
+        "make an informed purchase"
+      ],
+      "argument": "A cheap appliance may cost more over time if it fails quickly and cannot be repaired. Consumers rarely know expected lifespan because manufacturers present features more prominently than maintenance. Standard repair scores, warranty terms and access to spare parts can make long-term cost visible. Such information may reward firms that design for durability. It also gives buyers a basis for choosing quality without relying entirely on brand reputation or uncertain online reviews."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you compare products carefully before buying them?",
+      "answer": "For expensive items, yes. I compare the total price, warranty and a few detailed reviews rather than looking only at star ratings. For ordinary groceries, I rely more on habit because the search would take too long. The amount of effort I spend depends on how costly a mistake would be."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe something you bought after careful consideration.",
+      "answer": "I bought a desk chair after several weeks of comparison. My old chair looked acceptable but became uncomfortable during long periods of work. I measured the desk, read about adjustment ranges and visited a shop to test several models. The chair I chose was not the cheapest or most stylish, but its back support could be adjusted and replacement parts were available. I waited for a genuine discount rather than responding to the first countdown offer I saw. After using it for months, I think the careful choice was worthwhile because the relevant feature was comfort over time, which was difficult to judge from photographs. The process taught me to define the problem before comparing products."
+    }
+  ],
+  "reading": {
+    "title": "The Price That Appears Too Late",
+    "paragraphs": [
+      "A consumer searching online may select a service because its advertised price is lower than competitors. During checkout, compulsory booking, processing or facility fees appear. The buyer can leave, but by then time has been invested, alternatives may no longer be available and the event itself has become psychologically real. Economists describe these as drip pricing practices.",
+      "The harm is not limited to paying more. When sellers reveal different components at different stages, consumers cannot compare offers on a common basis. A company advertising the full price looks expensive beside one that postpones charges, even when its final total is lower. This creates an incentive for transparent firms to copy the less transparent practice.",
+      "Businesses argue that some fees depend on payment method or customer choice. Variable charges can be legitimate if the unavoidable minimum is clear and optional additions are genuinely optional. A seat fee is not optional when every usable seat requires it. The distinction should reflect whether a reasonable customer can complete the advertised purchase at the displayed amount.",
+      "Requiring an upfront total changes competition rather than eliminating separate cost components. Sellers may still explain taxes or delivery, but the prominent figure enables comparison. Experiments in consumer behaviour indicate that some buyers choose differently when the full cost is visible earlier, suggesting that late disclosure affects decisions rather than merely presenting the same information in another order.",
+      "Clear pricing also reduces frustration and abandoned transactions. Firms may fear losing the attention gained by a low first number, yet a market in which all sellers follow the same rule removes that disadvantage. The ethical and economic principle is straightforward: the price used to attract a consumer should resemble the price that consumer is realistically able to pay. Subscriptions create a related timing problem. A free trial can be useful, but cancellation dates and later charges should be as easy to find as the initial offer. Reminder messages before renewal allow a consumer to reassess value with actual experience. Making exit deliberately harder than entry converts inertia into revenue and weakens evidence that continued payment represents satisfaction."
+    ],
+    "questions": [
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains how hidden fees disadvantage transparent competitors?",
+        "answer": "B",
+        "explanation": "Paragraph B describes distorted comparison and incentives."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "Every separate fee is necessarily illegitimate.",
+        "answer": "No",
+        "explanation": "Paragraph 3 says variable charges can be legitimate under conditions."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What practice requires compulsory charges to be shown gradually during checkout?",
+        "answer": "drip pricing",
+        "explanation": "Paragraph 1 names the practice."
+      }
+    ]
+  }
+}

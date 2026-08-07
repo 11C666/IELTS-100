@@ -1,0 +1,355 @@
+{
+  "id": 56,
+  "topic": "Generation Gaps",
+  "topicCN": "代际差异",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "generation gap",
+      "ipa": "/ˌdʒenəˈreɪʃən ɡæp/",
+      "meaning": "代沟",
+      "collocation": "bridge the generation gap",
+      "collocationCN": "弥合代沟"
+    },
+    {
+      "word": "age group",
+      "ipa": "/ˈeɪdʒ ɡruːp/",
+      "meaning": "年龄群体",
+      "collocation": "compare different age groups",
+      "collocationCN": "比较不同年龄群体"
+    },
+    {
+      "word": "upbringing",
+      "ipa": "/ˈʌpbrɪŋɪŋ/",
+      "meaning": "成长环境；教养",
+      "collocation": "have a strict upbringing",
+      "collocationCN": "有严格的家庭教养"
+    },
+    {
+      "word": "family value",
+      "ipa": "/ˌfæməli ˈvæljuː/",
+      "meaning": "家庭价值观",
+      "collocation": "share similar family values",
+      "collocationCN": "拥有相似的家庭价值观"
+    },
+    {
+      "word": "life experience",
+      "ipa": "/ˈlaɪf ɪkˌspɪəriəns/",
+      "meaning": "生活经验",
+      "collocation": "draw on life experience",
+      "collocationCN": "借鉴生活经验"
+    },
+    {
+      "word": "younger generation",
+      "ipa": "/ˌjʌŋɡə dʒenəˈreɪʃən/",
+      "meaning": "年轻一代",
+      "collocation": "appeal to the younger generation",
+      "collocationCN": "吸引年轻一代"
+    },
+    {
+      "word": "older adult",
+      "ipa": "/ˌəʊldə ˈædʌlt/",
+      "meaning": "老年人",
+      "collocation": "support older adults",
+      "collocationCN": "支持老年人"
+    },
+    {
+      "word": "digital native",
+      "ipa": "/ˌdɪdʒɪtəl ˈneɪtɪv/",
+      "meaning": "数字原住民",
+      "collocation": "describe teenagers as digital natives",
+      "collocationCN": "把青少年称为数字原住民"
+    },
+    {
+      "word": "stereotype",
+      "ipa": "/ˈsteriətaɪp/",
+      "meaning": "刻板印象",
+      "collocation": "challenge an age stereotype",
+      "collocationCN": "挑战年龄刻板印象"
+    },
+    {
+      "word": "miscommunication",
+      "ipa": "/ˌmɪskəˌmjuːnɪˈkeɪʃən/",
+      "meaning": "沟通不畅",
+      "collocation": "avoid family miscommunication",
+      "collocationCN": "避免家庭沟通不畅"
+    },
+    {
+      "word": "see eye to eye",
+      "ipa": "/ˌsiː aɪ tə ˈaɪ/",
+      "meaning": "意见一致",
+      "collocation": "rarely see eye to eye on money",
+      "collocationCN": "在金钱问题上很少意见一致"
+    },
+    {
+      "word": "have different priorities",
+      "ipa": "/hæv ˌdɪfrənt praɪˈɒrətiz/",
+      "meaning": "有不同的优先事项",
+      "collocation": "have different priorities in life",
+      "collocationCN": "生活中的优先事项不同"
+    },
+    {
+      "word": "set boundaries",
+      "ipa": "/ˌset ˈbaʊndəriz/",
+      "meaning": "设定界限",
+      "collocation": "set clear family boundaries",
+      "collocationCN": "设定清晰的家庭界限"
+    },
+    {
+      "word": "mutual respect",
+      "ipa": "/ˌmjuːtʃuəl rɪˈspekt/",
+      "meaning": "相互尊重",
+      "collocation": "build mutual respect",
+      "collocationCN": "建立相互尊重"
+    },
+    {
+      "word": "intergenerational",
+      "ipa": "/ˌɪntədʒenəˈreɪʃənəl/",
+      "meaning": "代际的",
+      "collocation": "encourage intergenerational contact",
+      "collocationCN": "鼓励代际接触"
+    },
+    {
+      "word": "shared household",
+      "ipa": "/ˌʃeəd ˈhaʊshəʊld/",
+      "meaning": "共同居住的家庭",
+      "collocation": "live in a shared household",
+      "collocationCN": "在多代同堂家庭中生活"
+    },
+    {
+      "word": "care responsibility",
+      "ipa": "/ˈkeə rɪˌspɒnsəˈbɪləti/",
+      "meaning": "照护责任",
+      "collocation": "share care responsibilities",
+      "collocationCN": "分担照护责任"
+    },
+    {
+      "word": "financial independence",
+      "ipa": "/faɪˌnænʃəl ˌɪndɪˈpendəns/",
+      "meaning": "经济独立",
+      "collocation": "achieve financial independence",
+      "collocationCN": "实现经济独立"
+    },
+    {
+      "word": "social expectation",
+      "ipa": "/ˌsəʊʃəl ˌekspekˈteɪʃən/",
+      "meaning": "社会期望",
+      "collocation": "face changing social expectations",
+      "collocationCN": "面对不断变化的社会期望"
+    },
+    {
+      "word": "common ground",
+      "ipa": "/ˌkɒmən ˈɡraʊnd/",
+      "meaning": "共同点；共同立场",
+      "collocation": "find common ground",
+      "collocationCN": "找到共同点"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "people",
+      "options": [
+        "individuals",
+        "members of the public",
+        "residents"
+      ],
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论代际差异。"
+    },
+    {
+      "base": "use",
+      "options": [
+        "make use of",
+        "adopt",
+        "rely on"
+      ],
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论代际差异。"
+    },
+    {
+      "base": "choice",
+      "options": [
+        "option",
+        "alternative",
+        "decision"
+      ],
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论代际差异。"
+    },
+    {
+      "base": "cause",
+      "options": [
+        "lead to",
+        "contribute to",
+        "give rise to"
+      ],
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论代际差异。"
+    },
+    {
+      "base": "benefit",
+      "options": [
+        "advantage",
+        "positive effect",
+        "gain"
+      ],
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论代际差异。"
+    },
+    {
+      "base": "harm",
+      "options": [
+        "damage",
+        "negative effect",
+        "undermine"
+      ],
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论代际差异。"
+    },
+    {
+      "base": "support",
+      "options": [
+        "assistance",
+        "backing",
+        "provision"
+      ],
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论代际差异。"
+    },
+    {
+      "base": "different",
+      "options": [
+        "distinct",
+        "varied",
+        "diverse"
+      ],
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论代际差异。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Differences between generations often reflect + conditions + rather than + personal flaw.",
+      "cn": "代际差异往往反映条件，而不是个人缺陷。",
+      "example": "Differences between generations often reflect housing conditions rather than a lack of ambition."
+    },
+    {
+      "pattern": "What one generation regards as + norm + may appear + contrast + to another.",
+      "cn": "一代人视为常态的事物，对另一代可能显得……。",
+      "example": "What one generation regards as loyalty may appear like limited mobility to another."
+    },
+    {
+      "pattern": "Only by comparing + historical circumstances + can people avoid + unfair judgement.",
+      "cn": "只有比较历史条件，人们才能避免不公判断。",
+      "example": "Only by comparing labour markets can people avoid judging career choices unfairly."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "see eye to eye",
+      "cn": "意见一致",
+      "example": "We do not always see eye to eye on spending."
+    },
+    {
+      "text": "bridge the generation gap",
+      "cn": "缩小代沟",
+      "example": "Shared projects can bridge the generation gap."
+    },
+    {
+      "text": "have a different outlook on life",
+      "cn": "人生观不同",
+      "example": "My grandparents have a different outlook on job security."
+    },
+    {
+      "text": "grow up in a different era",
+      "cn": "成长于不同时代",
+      "example": "They grew up in a different era with fewer educational choices."
+    },
+    {
+      "text": "learn from one another",
+      "cn": "相互学习",
+      "example": "Different generations can learn from one another without agreeing on everything."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Old generation thinks differently.",
+      "correct": "The older generation thinks differently.",
+      "why": "表示较年长的一代用 the older generation。"
+    },
+    {
+      "wrong": "My parents disagree with me about to move.",
+      "correct": "My parents disagree with me about moving.",
+      "why": "介词 about 后接动名词。"
+    },
+    {
+      "wrong": "Young people are more easier with technology.",
+      "correct": "Young people are more comfortable with technology.",
+      "why": "easier 不能再加 more，且 comfortable with 更自然。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Many generation gaps are economic rather than moral.",
+      "topicSentence": "Differences in housing and work choices should be interpreted in relation to the opportunities available at the time.",
+      "collocations": [
+        "face different economic conditions",
+        "enter the housing market",
+        "experience insecure employment",
+        "avoid moral judgement"
+      ],
+      "argument": "An older person who bought a home on one salary may underestimate current deposits and prices, while a younger worker may not understand earlier restrictions on education or credit. Each group can mistake an outcome produced by conditions for evidence of character. Comparing wages, costs and institutional rules makes the disagreement more specific. Values still differ, but evidence prevents broad claims about laziness or irresponsibility. Intergenerational debate improves when circumstances are separated from stereotypes."
+    },
+    {
+      "viewpoint": "Structured contact can reduce age stereotypes.",
+      "topicSentence": "Projects based on shared tasks create stronger understanding than campaigns that merely praise intergenerational harmony.",
+      "collocations": [
+        "challenge age stereotypes",
+        "share practical knowledge",
+        "work towards a common task",
+        "build mutual respect"
+      ],
+      "argument": "People often meet other age groups only within family roles, where authority and dependence shape the conversation. Community gardening, mentoring or local research gives participants a purpose that is not defined by age. Competence becomes visible in both directions: one person may contribute technical confidence and another long experience of the area. Disagreement remains possible, but it concerns the task rather than an imagined generation. Repeated cooperation provides evidence against simple stereotypes."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you often talk to people much older than you?",
+      "answer": "Yes, mainly relatives and a few neighbours. Our conversations are easiest when they concern something specific, such as food, local changes or a practical problem. We sometimes disagree about work and technology, but I learn useful background from them. I try not to assume that age alone explains every opinion."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe something you learned from a person of another generation.",
+      "answer": "An older relative taught me how to repair a loose button and make a simple alteration to clothing. She had learned because replacing things was expensive when she was young, whereas I had become used to buying another item. She showed me how to choose thread, secure the first stitch and check the tension without rushing. The practical skill was simple, but the conversation changed how I viewed maintenance. She did not lecture me about waste; her competence made the alternative visible. I now repair minor damage more often, and I have shown the method to a younger cousin. The experience demonstrated that knowledge can travel across generations through an ordinary shared task."
+    }
+  ],
+  "reading": {
+    "title": "The Generation Label That Moves With Time",
+    "paragraphs": [
+      "Labels such as “baby boomers” or “digital natives” suggest that people born within a period share defining qualities. They are convenient for headlines and market reports, but the boundaries vary between countries and researchers. War, economic reform or the arrival of technology does not occur at the same time everywhere.",
+      "Age, period and cohort effects are also difficult to separate. Young adults may hold different attitudes because they are at an early life stage, because everyone is responding to a current event, or because a formative experience affected their birth group. A single survey comparing twenty-year-olds with sixty-year-olds cannot identify which explanation is correct.",
+      "Economic diversity within a generation can exceed the average difference between generations. A wealthy young homeowner and a young renter do not share the same opportunity merely because they use similar technology. Gender, region, education and family wealth shape experience. Broad labels can hide these divisions while presenting one highly visible subgroup as typical.",
+      "Longitudinal studies follow people or repeat comparable surveys over time. They can show whether attitudes change as individuals age and whether gaps persist. Such research is slow and still faces migration and changing question meanings, but it provides stronger evidence than anecdotes about one difficult family conversation.",
+      "Generational language can begin useful questions if treated as a hypothesis rather than a personality test. Asking what event affected a group, through which mechanism and for how long is more informative than assuming a permanent mindset. People are shaped by historical time, yet they also change, differ and respond to circumstances that no birth-year label can contain. The labels can affect behaviour after they are published. Employers may design benefits for an imagined generation, and individuals may explain preferences through a category they have repeatedly heard. This does not prove the category was accurate at the start. Researchers need to consider whether a reported difference describes experience or partly reflects a story that institutions and media taught people to expect."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Generational boundaries are identical in every country.",
+        "answer": "False",
+        "explanation": "Paragraph 1 says they vary."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why is one age-comparison survey insufficient?",
+        "answer": "A",
+        "explanation": "It cannot separate age, period and cohort effects.",
+        "options": [
+          "It cannot separate age, period and cohort effects.",
+          "It excludes all wealthy people.",
+          "It follows respondents for too long.",
+          "It contains no questions about technology."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "The writer says generational labels should be treated as a ______ rather than a personality test.",
+        "answer": "hypothesis",
+        "explanation": "The final paragraph uses this contrast."
+      }
+    ]
+  }
+}

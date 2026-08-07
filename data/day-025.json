@@ -1,0 +1,349 @@
+{
+  "id": 25,
+  "topic": "Examinations",
+  "topicCN": "考试",
+  "category": "Education",
+  "vocabulary": [
+    {
+      "word": "candidate",
+      "ipa": "/ˈkændɪdət/",
+      "meaning": "考生",
+      "collocation": "brief examination candidates",
+      "collocationCN": "向考生说明考试事项"
+    },
+    {
+      "word": "invigilator",
+      "ipa": "/ɪnˈvɪdʒɪleɪtə/",
+      "meaning": "监考员",
+      "collocation": "ask the invigilator for help",
+      "collocationCN": "向监考员求助"
+    },
+    {
+      "word": "exam paper",
+      "ipa": "/ɪɡˈzæm ˌpeɪpə/",
+      "meaning": "试卷",
+      "collocation": "read the exam paper carefully",
+      "collocationCN": "仔细阅读试卷"
+    },
+    {
+      "word": "mark scheme",
+      "ipa": "/ˈmɑːk skiːm/",
+      "meaning": "评分标准",
+      "collocation": "apply the mark scheme consistently",
+      "collocationCN": "一致地执行评分标准"
+    },
+    {
+      "word": "time limit",
+      "ipa": "/ˈtaɪm ˌlɪmɪt/",
+      "meaning": "时间限制",
+      "collocation": "work within a time limit",
+      "collocationCN": "在规定时间内作答"
+    },
+    {
+      "word": "revision",
+      "ipa": "/rɪˈvɪʒən/",
+      "meaning": "复习",
+      "collocation": "draw up a revision timetable",
+      "collocationCN": "制定复习时间表"
+    },
+    {
+      "word": "mock exam",
+      "ipa": "/ˈmɒk ɪɡˌzæm/",
+      "meaning": "模拟考试",
+      "collocation": "sit a mock exam",
+      "collocationCN": "参加模拟考试"
+    },
+    {
+      "word": "past paper",
+      "ipa": "/ˌpɑːst ˈpeɪpə/",
+      "meaning": "历年真题",
+      "collocation": "practise with past papers",
+      "collocationCN": "用历年真题练习"
+    },
+    {
+      "word": "exam technique",
+      "ipa": "/ɪɡˈzæm tekˌniːk/",
+      "meaning": "应试技巧",
+      "collocation": "improve exam technique",
+      "collocationCN": "提高应试技巧"
+    },
+    {
+      "word": "cram",
+      "ipa": "/kræm/",
+      "meaning": "临时突击备考",
+      "collocation": "cram for a final exam",
+      "collocationCN": "为期末考试临时突击"
+    },
+    {
+      "word": "learn by heart",
+      "ipa": "/ˌlɜːn baɪ ˈhɑːt/",
+      "meaning": "背熟",
+      "collocation": "learn key formulas by heart",
+      "collocationCN": "背熟关键公式"
+    },
+    {
+      "word": "blank out",
+      "ipa": "/ˌblæŋk ˈaʊt/",
+      "meaning": "突然脑中一片空白",
+      "collocation": "blank out under pressure",
+      "collocationCN": "在压力下突然大脑空白"
+    },
+    {
+      "word": "exam anxiety",
+      "ipa": "/ɪɡˈzæm æŋˌzaɪəti/",
+      "meaning": "考试焦虑",
+      "collocation": "manage exam anxiety",
+      "collocationCN": "管理考试焦虑"
+    },
+    {
+      "word": "high-stakes",
+      "ipa": "/ˌhaɪ ˈsteɪks/",
+      "meaning": "影响重大的",
+      "collocation": "take a high-stakes test",
+      "collocationCN": "参加一场高风险考试"
+    },
+    {
+      "word": "coursework",
+      "ipa": "/ˈkɔːswɜːk/",
+      "meaning": "课程作业",
+      "collocation": "assess students through coursework",
+      "collocationCN": "通过课程作业评估学生"
+    },
+    {
+      "word": "continuous assessment",
+      "ipa": "/kənˌtɪnjuəs əˈsesmənt/",
+      "meaning": "持续性评估",
+      "collocation": "use continuous assessment",
+      "collocationCN": "采用持续性评估"
+    },
+    {
+      "word": "standardised test",
+      "ipa": "/ˈstændədaɪzd test/",
+      "meaning": "标准化考试",
+      "collocation": "administer a standardised test",
+      "collocationCN": "实施标准化考试"
+    },
+    {
+      "word": "reliability",
+      "ipa": "/rɪˌlaɪəˈbɪləti/",
+      "meaning": "可靠性；信度",
+      "collocation": "improve test reliability",
+      "collocationCN": "提高考试信度"
+    },
+    {
+      "word": "validity",
+      "ipa": "/vəˈlɪdəti/",
+      "meaning": "有效性；效度",
+      "collocation": "establish assessment validity",
+      "collocationCN": "确认评估效度"
+    },
+    {
+      "word": "grade boundary",
+      "ipa": "/ˈɡreɪd ˌbaʊndəri/",
+      "meaning": "成绩等级分界线",
+      "collocation": "set grade boundaries",
+      "collocationCN": "设定成绩等级分界线"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "take an exam",
+      "options": [
+        "sit an examination",
+        "complete a timed paper",
+        "undergo formal assessment"
+      ],
+      "note": "sit an exam 常见于英式英语。"
+    },
+    {
+      "base": "exam result",
+      "options": [
+        "test score",
+        "assessment outcome",
+        "academic result"
+      ],
+      "note": "score 是具体分数，outcome 范围更广。"
+    },
+    {
+      "base": "fair test",
+      "options": [
+        "equitable assessment",
+        "unbiased examination",
+        "fair measure of attainment"
+      ],
+      "note": "equitable 关注不同考生能否公平参与。"
+    },
+    {
+      "base": "measure ability",
+      "options": [
+        "assess competence",
+        "evaluate attainment",
+        "gauge performance"
+      ],
+      "note": "attainment 强调已达到的学习水平。"
+    },
+    {
+      "base": "remember facts",
+      "options": [
+        "recall information",
+        "reproduce learned material",
+        "retrieve factual knowledge"
+      ],
+      "note": "recall 是考试语境常用词。"
+    },
+    {
+      "base": "same testing conditions",
+      "options": [
+        "standardised conditions",
+        "consistent administration",
+        "comparable examination settings"
+      ],
+      "note": "standardised 强调统一程序。"
+    },
+    {
+      "base": "other kinds of assessment",
+      "options": [
+        "multiple forms of evidence",
+        "alternative assessment methods",
+        "a broader assessment portfolio"
+      ],
+      "note": "portfolio 可指一组长期作品。"
+    },
+    {
+      "base": "reliable exam",
+      "options": [
+        "consistent assessment",
+        "stable measurement",
+        "dependable test result"
+      ],
+      "note": "reliability 不等于 validity。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "No matter how carefully + examination + is designed, it cannot fully capture + ability.",
+      "cn": "无论考试设计得多么仔细，它都无法完全衡量某种能力。",
+      "example": "No matter how carefully an examination is designed, it cannot fully capture a student’s curiosity."
+    },
+    {
+      "pattern": "By requiring + candidates + to + task, the assessment tests + ability + as well as + ability.",
+      "cn": "通过要求考生完成某项任务，该评估既测试……也测试……。",
+      "example": "By requiring candidates to compare sources, the assessment tests judgement as well as factual knowledge."
+    },
+    {
+      "pattern": "Were + assessment + the only measure, + group/quality + would be overlooked.",
+      "cn": "如果某种评估是唯一标准，某类人或品质就会被忽视。",
+      "example": "Were timed tests the only measure, careful students who work slowly would be overlooked."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "sit an exam",
+      "cn": "参加考试",
+      "example": "I have to sit an exam at the end of the term."
+    },
+    {
+      "text": "revise under pressure",
+      "cn": "在压力下复习",
+      "example": "I find it difficult to revise under pressure."
+    },
+    {
+      "text": "learn something by heart",
+      "cn": "背熟某内容",
+      "example": "We had to learn several formulas by heart."
+    },
+    {
+      "text": "perform well on the day",
+      "cn": "考试当天发挥良好",
+      "example": "A capable student may not perform well on the day."
+    },
+    {
+      "text": "assess a broad range of skills",
+      "cn": "评估广泛技能",
+      "example": "Coursework can assess a broader range of skills than a short test."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I will attend an exam tomorrow.",
+      "correct": "I will take an exam tomorrow.",
+      "why": "英语用 take/sit an exam，不用 attend an exam。"
+    },
+    {
+      "wrong": "The exam was very stress.",
+      "correct": "The exam was very stressful.",
+      "why": "stress 是名词；描述事物令人紧张用 stressful。"
+    },
+    {
+      "wrong": "I passed the exam with a high mark successfully.",
+      "correct": "I passed the exam with a high mark.",
+      "why": "passed 已表示成功通过，successfully 在此重复。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Examinations can provide comparability but should not stand alone.",
+      "topicSentence": "A common test is useful for comparing performance, yet it offers only a narrow sample of ability.",
+      "collocations": [
+        "apply consistent criteria",
+        "compare academic performance",
+        "measure recall under pressure",
+        "use multiple forms of assessment"
+      ],
+      "argument": "When candidates answer the same questions under similar conditions, institutions gain evidence that is relatively easy to compare. This can limit the influence of generous marking or unequal outside help. Nevertheless, a timed paper mainly captures what a student can recall and produce on one occasion. Projects and presentations reveal planning, revision and communication over time. A balanced system should therefore combine common examinations with other independently verified work."
+    },
+    {
+      "viewpoint": "High-stakes exams can distort classroom learning.",
+      "topicSentence": "When one test determines progression, teaching may become excessively focused on predictable question formats.",
+      "collocations": [
+        "teach to the test",
+        "narrow the curriculum",
+        "practise examination technique",
+        "develop lasting understanding"
+      ],
+      "argument": "Schools are accountable for results, so teachers naturally devote time to tasks that will be scored. If consequences are severe, untested discussion, experimentation and creative work may disappear from lessons. Pupils can become skilled at recognising question types without understanding how knowledge applies elsewhere. Moderate examination practice is necessary, but it should not define the entire curriculum. Assessment policy should reward broad learning instead of making it risky."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "How do you usually prepare for an important exam?",
+      "answer": "I begin by looking at the syllabus and dividing it into small sections. After reviewing one section, I try questions without my notes because rereading alone gives me false confidence. During the final week, I practise under a time limit and then analyse the mistakes. I still feel nervous, but having a routine stops me from studying randomly."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe an examination or test you remember well.",
+      "answer": "I remember a practical driving test because it measured very different skills from a written exam. The examiner gave short directions while I dealt with ordinary traffic, so I had to stay calm and observe several things at once. I made one minor mistake but recovered instead of panicking. When I was told I had passed, the relief was immediate. The experience taught me that preparation includes managing attention, not simply knowing the rules. I had practised the route, but the test introduced a road closure that forced me to adapt. The examiner remained neutral, so I could not judge my performance from facial expressions. Afterwards I understood why practical assessments feel intense: knowledge must be applied while conditions continue to change. Passing gave me confidence, though it also made me more aware of how much experience still lay ahead."
+    }
+  ],
+  "reading": {
+    "title": "What Happens When an Examination Is Repeated?",
+    "paragraphs": [
+      "A test score is often treated as a stable description of ability, yet performance can change when the same person sits a different version of an examination. Illness, unfamiliar wording, noise and chance gaps in revision all influence the result. Measurement specialists call this problem reliability. A reliable assessment does not require identical scores on every occasion, but random conditions should not determine major educational opportunities.",
+      "Length generally improves reliability because a larger sample reduces the influence of one unusual question. However, longer examinations create fatigue and cost more to administer. Designers therefore study how individual items behave. A question answered correctly by almost everyone reveals little about differences between candidates; one missed by nearly everyone may be unclear or far beyond the intended level. Useful items distinguish between stronger and weaker performance without relying on tricks.",
+      "Consistency alone is insufficient. A bathroom scale that always adds five kilograms is reliable but inaccurate. In assessment, validity asks whether the test supports the interpretation made from its scores. A multiple-choice paper might consistently measure knowledge of grammatical rules, yet provide weak evidence of spontaneous conversation. If the stated goal is communicative ability, the format leaves an important part of the construct unobserved.",
+      "There is also a trade-off between standardisation and authenticity. Strictly controlled tasks are easier to compare, while real-world projects allow collaboration, revision and access to information. Many assessment systems respond by combining evidence: a common examination, teacher-assessed work and a practical task. Agreement among these sources strengthens confidence; disagreement prompts investigation. The aim is not to find a perfect test, because none exists, but to avoid allowing one uncertain observation to carry more weight than it can justify.",
+      "Repeating an assessment can provide further evidence, although practice effects complicate interpretation. A higher second score may reflect improved ability, greater familiarity with instructions or both. Where decisions are important, designers can use equivalent forms and combine results rather than selecting whichever attempt appears most favourable. The procedure must be stated in advance so that repetition does not become another source of inconsistency."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for paragraph 3.",
+        "answer": "Consistency does not guarantee the right measurement",
+        "explanation": "Paragraph 3 contrasts reliability with validity through the scale and speaking examples."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Making an examination longer has no disadvantages.",
+        "answer": "False",
+        "explanation": "Paragraph 2 says longer exams cause fatigue and cost more."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "When different assessment sources disagree, this should prompt an ______.",
+        "answer": "investigation",
+        "explanation": "The final paragraph states that disagreement prompts investigation."
+      }
+    ]
+  }
+}

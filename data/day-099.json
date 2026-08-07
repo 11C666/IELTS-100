@@ -1,0 +1,349 @@
+{
+  "id": 99,
+  "topic": "Sustainable Development",
+  "topicCN": "可持续发展",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "sustainable development",
+      "ipa": "/səˌsteɪnəbəl dɪˈveləpmənt/",
+      "meaning": "可持续发展",
+      "collocation": "pursue sustainable development",
+      "collocationCN": "推动可持续发展"
+    },
+    {
+      "word": "intergenerational equity",
+      "ipa": "/ˌɪntədʒenəˈreɪʃənəl ˈekwəti/",
+      "meaning": "代际公平",
+      "collocation": "promote intergenerational equity",
+      "collocationCN": "促进代际公平"
+    },
+    {
+      "word": "resource efficiency",
+      "ipa": "/rɪˈzɔːs ɪˌfɪʃənsi/",
+      "meaning": "资源效率",
+      "collocation": "improve resource efficiency",
+      "collocationCN": "提高资源效率"
+    },
+    {
+      "word": "renewable energy",
+      "ipa": "/rɪˈnjuːəbəl ˈenədʒi/",
+      "meaning": "可再生能源",
+      "collocation": "expand renewable energy",
+      "collocationCN": "扩大可再生能源使用"
+    },
+    {
+      "word": "resilient infrastructure",
+      "ipa": "/rɪˈzɪliənt ˈɪnfrəstrʌktʃə/",
+      "meaning": "有韧性的基础设施",
+      "collocation": "invest in resilient infrastructure",
+      "collocationCN": "投资韧性基础设施"
+    },
+    {
+      "word": "inclusive growth",
+      "ipa": "/ɪnˈkluːsɪv ɡrəʊθ/",
+      "meaning": "包容性增长",
+      "collocation": "support inclusive growth",
+      "collocationCN": "支持包容性增长"
+    },
+    {
+      "word": "living standard",
+      "ipa": "/ˈlɪvɪŋ ˌstændəd/",
+      "meaning": "生活水平",
+      "collocation": "raise living standards",
+      "collocationCN": "提高生活水平"
+    },
+    {
+      "word": "ecological limit",
+      "ipa": "/ˌiːkəˈlɒdʒɪkəl ˈlɪmɪt/",
+      "meaning": "生态限度",
+      "collocation": "remain within ecological limits",
+      "collocationCN": "不突破生态限度"
+    },
+    {
+      "word": "long-term viability",
+      "ipa": "/ˌlɒŋ tɜːm ˌvaɪəˈbɪləti/",
+      "meaning": "长期可行性",
+      "collocation": "ensure long-term viability",
+      "collocationCN": "确保长期可行性"
+    },
+    {
+      "word": "policy trade-off",
+      "ipa": "/ˈpɒləsi ˈtreɪd ɒf/",
+      "meaning": "政策权衡",
+      "collocation": "manage a policy trade-off",
+      "collocationCN": "处理政策权衡"
+    },
+    {
+      "word": "local livelihood",
+      "ipa": "/ˈləʊkəl ˈlaɪvlihʊd/",
+      "meaning": "当地生计",
+      "collocation": "protect local livelihoods",
+      "collocationCN": "保障当地生计"
+    },
+    {
+      "word": "supply chain",
+      "ipa": "/səˈplaɪ tʃeɪn/",
+      "meaning": "供应链",
+      "collocation": "build a resilient supply chain",
+      "collocationCN": "建立有韧性的供应链"
+    },
+    {
+      "word": "environmental footprint",
+      "ipa": "/ɪnˌvaɪrənˈmentəl ˈfʊtprɪnt/",
+      "meaning": "环境足迹",
+      "collocation": "reduce an environmental footprint",
+      "collocationCN": "减少环境足迹"
+    },
+    {
+      "word": "public-private partnership",
+      "ipa": "/ˌpʌblɪk ˌpraɪvət ˈpɑːtnəʃɪp/",
+      "meaning": "公私合作关系",
+      "collocation": "form a public-private partnership",
+      "collocationCN": "建立公私合作"
+    },
+    {
+      "word": "measurable target",
+      "ipa": "/ˈmeʒərəbəl ˈtɑːɡɪt/",
+      "meaning": "可衡量目标",
+      "collocation": "set a measurable target",
+      "collocationCN": "设定可衡量目标"
+    },
+    {
+      "word": "make ends meet",
+      "ipa": "/meɪk endz miːt/",
+      "meaning": "维持收支平衡",
+      "collocation": "struggle to make ends meet",
+      "collocationCN": "难以维持生计"
+    },
+    {
+      "word": "cut energy bills",
+      "ipa": "/kʌt ˈenədʒi bɪlz/",
+      "meaning": "降低能源账单",
+      "collocation": "help households cut energy bills",
+      "collocationCN": "帮助家庭降低能源账单"
+    },
+    {
+      "word": "plan for the long term",
+      "ipa": "/plæn fə ðə ˌlɒŋ ˈtɜːm/",
+      "meaning": "作长远规划",
+      "collocation": "plan for the long term",
+      "collocationCN": "作长远规划"
+    },
+    {
+      "word": "bring people on board",
+      "ipa": "/brɪŋ ˈpiːpəl ɒn bɔːd/",
+      "meaning": "争取人们支持",
+      "collocation": "bring local residents on board",
+      "collocationCN": "争取当地居民支持"
+    },
+    {
+      "word": "deliver lasting benefits",
+      "ipa": "/dɪˈlɪvə ˈlɑːstɪŋ ˈbenɪfɪts/",
+      "meaning": "带来持久效益",
+      "collocation": "deliver lasting benefits",
+      "collocationCN": "带来持久效益"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "sustainable progress",
+      "options": [
+        "durable development",
+        "long-term social and economic advancement",
+        "development within environmental limits"
+      ],
+      "note": "within environmental limits点明可持续性的边界。"
+    },
+    {
+      "base": "help poor communities",
+      "options": [
+        "support disadvantaged communities",
+        "improve opportunities in underserved areas",
+        "direct benefits towards people most in need"
+      ],
+      "note": "direct benefits强调资源配置。"
+    },
+    {
+      "base": "use fewer resources",
+      "options": [
+        "improve resource efficiency",
+        "reduce material and energy inputs",
+        "produce more value with less consumption"
+      ],
+      "note": "produce more value突出效率而非单纯削减。"
+    },
+    {
+      "base": "future generations",
+      "options": [
+        "people in the future",
+        "generations yet to come",
+        "those who will inherit today’s decisions"
+      ],
+      "note": "inherit适合强调当代决策的长期后果。"
+    },
+    {
+      "base": "economic growth",
+      "options": [
+        "economic expansion",
+        "an increase in productive activity",
+        "rising output and incomes"
+      ],
+      "note": "output and incomes比单一GDP概念更具体。"
+    },
+    {
+      "base": "protect nature",
+      "options": [
+        "conserve ecosystems",
+        "safeguard natural assets",
+        "prevent the degradation of ecological systems"
+      ],
+      "note": "degradation适合描述逐步恶化。"
+    },
+    {
+      "base": "a balanced policy",
+      "options": [
+        "an integrated approach",
+        "a policy combining social, economic and environmental goals",
+        "a strategy that manages competing priorities"
+      ],
+      "note": "integrated强调目标之间相互联系。"
+    },
+    {
+      "base": "results that last",
+      "options": [
+        "durable outcomes",
+        "long-term benefits",
+        "improvements that remain viable over time"
+      ],
+      "note": "viable表示能够持续运作。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A project cannot be considered sustainable merely because + green feature; it must also + social or economic condition.",
+      "cn": "一个项目不能仅因具有某项绿色特征就被视为可持续；它还必须满足社会或经济条件。",
+      "example": "A project cannot be considered sustainable merely because it uses solar power; it must also provide affordable services to local residents."
+    },
+    {
+      "pattern": "By investing in + present action, governments can + current benefit while reducing + future cost.",
+      "cn": "政府通过投资当前行动，既能获得眼前效益，也能降低未来成本。",
+      "example": "By investing in efficient housing, governments can create jobs now while reducing future energy costs."
+    },
+    {
+      "pattern": "Unless + affected group + is involved in + process, + well-intended policy + may + adverse outcome.",
+      "cn": "除非让受影响群体参与相关过程，否则出发点良好的政策也可能产生不良后果。",
+      "example": "Unless farming communities are involved in water planning, a well-intended conservation policy may threaten local livelihoods."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "work in the long run",
+      "cn": "长期行得通",
+      "example": "The subsidy must work in the long run, not just before an election."
+    },
+    {
+      "text": "balance today’s needs with tomorrow’s",
+      "cn": "平衡当下与未来的需要",
+      "example": "Good planning balances today’s needs with tomorrow’s."
+    },
+    {
+      "text": "bring the community on board",
+      "cn": "争取社区支持",
+      "example": "Officials brought the community on board before construction began."
+    },
+    {
+      "text": "align economic and environmental goals",
+      "cn": "协调经济与环境目标",
+      "example": "Efficient buildings can align economic and environmental goals."
+    },
+    {
+      "text": "create lasting value",
+      "cn": "创造持久价值",
+      "example": "Skills training can create lasting value beyond the original project."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The policy is good for the sustainable development.",
+      "correct": "The policy supports sustainable development.",
+      "why": "sustainable development表示一般概念时不加the，supports也比is good for更准确。"
+    },
+    {
+      "wrong": "We must develop the economy sustainably development.",
+      "correct": "We must pursue sustainable economic development.",
+      "why": "sustainably是副词，不能直接修饰名词development。"
+    },
+    {
+      "wrong": "This project will benefit to local people.",
+      "correct": "This project will benefit local people.",
+      "why": "benefit作动词时直接接宾语，不与to连用。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Housing renovation can unite social and environmental goals.",
+      "topicSentence": "Retrofitting inefficient homes offers a practical route to lower emissions without asking low-income households to bear higher costs.",
+      "collocations": [
+        "upgrade building insulation",
+        "cut household energy bills",
+        "create skilled employment",
+        "target vulnerable households"
+      ],
+      "argument": "Older homes often waste heat, leaving residents with a choice between high bills and uncomfortable rooms. Publicly supported insulation solves the environmental problem at its source while reducing everyday costs. A city can begin with low-income districts and train local workers to install the improvements, thereby sharing both jobs and savings. Unlike a temporary energy payment, renovation continues to deliver benefits each winter. Governments should therefore evaluate climate spending partly by whether it improves material living conditions."
+    },
+    {
+      "viewpoint": "Development indicators should reflect resilience, not output alone.",
+      "topicSentence": "Economic output can rise while the natural and social foundations of future prosperity are being weakened.",
+      "collocations": [
+        "measure long-term resilience",
+        "account for resource depletion",
+        "track household security",
+        "look beyond headline growth"
+      ],
+      "argument": "A region that clears forests for rapid commodity production may record impressive income in the short term. However, soil loss, unstable employment and dependence on one export can leave it vulnerable to a price fall or extreme weather. A broader scorecard could compare income gains with ecosystem condition, job stability and access to essential services. Such measures do not require governments to reject growth; they reveal whether its foundations are durable. Public investment can then favour activities that generate value without exhausting the assets on which later development depends."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a project in your area that could provide long-term benefits.",
+      "answer": "I would like my neighbourhood to renovate its older apartment buildings, especially by improving insulation and replacing inefficient heating systems. Many flats become extremely cold in winter and hot in summer, so residents spend a great deal on electricity without feeling comfortable. The work would be disruptive for a few months, but it could reduce bills, improve health and lower energy use for many years. It could also create work for local electricians and builders if training were included. I prefer this kind of project to a purely decorative redevelopment because people would notice the benefit in daily life. Its success would be easy to measure through energy consumption and residents’ costs before and after the renovation."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why do governments sometimes favour short-term development projects?",
+      "answer": "Political cycles reward results that can be photographed or announced quickly, whereas benefits from education, conservation or maintenance may emerge after current leaders have left office. Funding systems can create the same bias by providing money for construction but not long-term operation. In addition, voters facing immediate unemployment or high prices may reasonably prioritise relief now. Governments can respond by publishing life-cycle costs, setting independent long-term targets and dividing large strategies into visible milestones. Long-term thinking is more credible when it addresses present needs rather than asking people to sacrifice indefinitely."
+    }
+  ],
+  "reading": {
+    "title": "The Second Life of a Rural Solar Pump",
+    "paragraphs": [
+      "In a dry agricultural district, a development programme replaced diesel water pumps with solar-powered equipment. The initial figures were impressive: fuel purchases fell, irrigation became more reliable and farmers could water crops without travelling to a distant filling station. Five years later, however, several pumps stood unused. Their panels still generated electricity, but inexpensive electronic controllers had failed and no nearby technician could identify the fault.",
+      "The outcome was not evidence that solar irrigation was inherently unsuitable. Rather, it exposed how narrowly the project had defined sustainability. Procurement officers had compared purchase prices and predicted carbon savings, yet maintenance knowledge, spare-part supply and responsibility after the warranty expired received little attention. The imported model, selected partly for its high laboratory efficiency, used components unavailable in the domestic market.",
+      "A farmers’ cooperative subsequently tested a different arrangement. It chose a slightly less efficient pump assembled from standard parts, paid two local trainees to work with the supplier and collected a small maintenance fee after each harvest. Because the fee varied with farm size, poorer members did not face an identical charge. The cooperative also recorded water use, since cheaper pumping, if left unmanaged, could encourage extraction from the aquifer faster than rainfall replaced it.",
+      "This second system cost more to organise than simply delivering equipment. Meetings delayed installation, and training reduced the number of pumps that the first-year budget could purchase. Nevertheless, breakdowns were repaired within days rather than months, while water records allowed members to agree seasonal limits. After four years, a larger proportion of the less advanced pumps remained operational than of the technically superior original machines.",
+      "Development agencies increasingly use “whole-life” assessments, which examine who will operate an asset, how recurrent costs will be paid and whether solving one problem may intensify another. Such questions do not guarantee success, nor do they make advanced technology undesirable. They change the unit of evaluation: the product is no longer a machine delivered on opening day, but a service that local people can maintain without undermining the resource on which it depends."
+    ],
+    "questions": [
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains why a technically efficient pump was difficult to repair?",
+        "answer": "B",
+        "explanation": "Paragraph B states that the imported model used components unavailable domestically."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The cooperative charged every farmer the same maintenance fee.",
+        "answer": "No",
+        "explanation": "Paragraph 3 says the fee varied with farm size."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "The newer arrangement monitored water use to prevent excessive extraction from the ______.",
+        "answer": "aquifer",
+        "explanation": "Paragraph 3 identifies the aquifer as the water source at risk."
+      }
+    ]
+  }
+}

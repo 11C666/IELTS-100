@@ -1,0 +1,349 @@
+{
+  "id": 66,
+  "topic": "The Digital Divide",
+  "topicCN": "数字鸿沟",
+  "category": "Technology",
+  "vocabulary": [
+    {
+      "word": "digital divide",
+      "ipa": "/ˌdɪdʒɪtl dɪˈvaɪd/",
+      "meaning": "数字鸿沟",
+      "collocation": "bridge the digital divide",
+      "collocationCN": "弥合数字鸿沟"
+    },
+    {
+      "word": "broadband coverage",
+      "ipa": "/ˈbrɔːdbænd ˌkʌvərɪdʒ/",
+      "meaning": "宽带覆盖",
+      "collocation": "expand broadband coverage",
+      "collocationCN": "扩大宽带覆盖"
+    },
+    {
+      "word": "affordability",
+      "ipa": "/əˌfɔːdəˈbɪləti/",
+      "meaning": "可负担性",
+      "collocation": "improve affordability",
+      "collocationCN": "提高可负担性"
+    },
+    {
+      "word": "digital literacy",
+      "ipa": "/ˌdɪdʒɪtl ˈlɪtərəsi/",
+      "meaning": "数字素养",
+      "collocation": "build digital literacy",
+      "collocationCN": "培养数字素养"
+    },
+    {
+      "word": "connectivity",
+      "ipa": "/ˌkɒnekˈtɪvəti/",
+      "meaning": "连接条件",
+      "collocation": "lack reliable connectivity",
+      "collocationCN": "缺少可靠连接"
+    },
+    {
+      "word": "data allowance",
+      "ipa": "/ˈdeɪtə əˌlaʊəns/",
+      "meaning": "流量额度",
+      "collocation": "exceed a data allowance",
+      "collocationCN": "超出流量额度"
+    },
+    {
+      "word": "device sharing",
+      "ipa": "/dɪˈvaɪs ˌʃeərɪŋ/",
+      "meaning": "设备共用",
+      "collocation": "rely on device sharing",
+      "collocationCN": "依赖共用设备"
+    },
+    {
+      "word": "accessible design",
+      "ipa": "/əkˌsesəbl dɪˈzaɪn/",
+      "meaning": "无障碍设计",
+      "collocation": "adopt accessible design",
+      "collocationCN": "采用无障碍设计"
+    },
+    {
+      "word": "public access point",
+      "ipa": "/ˌpʌblɪk ˈækses pɔɪnt/",
+      "meaning": "公共接入点",
+      "collocation": "provide a public access point",
+      "collocationCN": "提供公共接入点"
+    },
+    {
+      "word": "offline option",
+      "ipa": "/ˌɒflaɪn ˈɒpʃn/",
+      "meaning": "线下选项",
+      "collocation": "retain an offline option",
+      "collocationCN": "保留线下选项"
+    },
+    {
+      "word": "get online",
+      "ipa": "/ɡet ˈɒnlaɪn/",
+      "meaning": "上网",
+      "collocation": "help households get online",
+      "collocationCN": "帮助家庭上网"
+    },
+    {
+      "word": "stay connected",
+      "ipa": "/steɪ kəˈnektɪd/",
+      "meaning": "保持联系",
+      "collocation": "stay connected with relatives",
+      "collocationCN": "与亲友保持联系"
+    },
+    {
+      "word": "fill in an online form",
+      "ipa": "/fɪl ɪn ən ˌɒnlaɪn ˈfɔːm/",
+      "meaning": "填写在线表格",
+      "collocation": "struggle to fill in an online form",
+      "collocationCN": "难以填写在线表格"
+    },
+    {
+      "word": "keep up with technology",
+      "ipa": "/kiːp ʌp wɪð tekˈnɒlədʒi/",
+      "meaning": "跟上技术发展",
+      "collocation": "find it hard to keep up with technology",
+      "collocationCN": "难以跟上技术发展"
+    },
+    {
+      "word": "technical support",
+      "ipa": "/ˈteknɪkl səˌpɔːt/",
+      "meaning": "技术支持",
+      "collocation": "offer face-to-face technical support",
+      "collocationCN": "提供面对面技术支持"
+    },
+    {
+      "word": "underserved",
+      "ipa": "/ˌʌndəˈsɜːvd/",
+      "meaning": "服务不足的",
+      "collocation": "reach underserved communities",
+      "collocationCN": "覆盖服务不足的社区"
+    },
+    {
+      "word": "infrastructure gap",
+      "ipa": "/ˈɪnfrəstrʌktʃə ɡæp/",
+      "meaning": "基础设施差距",
+      "collocation": "close an infrastructure gap",
+      "collocationCN": "缩小基础设施差距"
+    },
+    {
+      "word": "meaningful access",
+      "ipa": "/ˈmiːnɪŋfl ˈækses/",
+      "meaning": "有实际意义的接入",
+      "collocation": "measure meaningful access",
+      "collocationCN": "衡量有效接入"
+    },
+    {
+      "word": "digital exclusion",
+      "ipa": "/ˌdɪdʒɪtl ɪkˈskluːʒn/",
+      "meaning": "数字排斥",
+      "collocation": "reduce digital exclusion",
+      "collocationCN": "减少数字排斥"
+    },
+    {
+      "word": "essential service",
+      "ipa": "/ɪˌsenʃl ˈsɜːvɪs/",
+      "meaning": "基本服务",
+      "collocation": "access an essential service",
+      "collocationCN": "获得基本服务"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "no internet access",
+      "options": [
+        "remain unconnected",
+        "lack reliable connectivity",
+        "experience digital exclusion"
+      ],
+      "note": "unconnected 侧重连接缺失。"
+    },
+    {
+      "base": "cheap enough",
+      "options": [
+        "affordable",
+        "within household budgets",
+        "available at a manageable cost"
+      ],
+      "note": "affordable 最简洁正式。"
+    },
+    {
+      "base": "know how to use",
+      "options": [
+        "possess the necessary digital skills",
+        "navigate confidently",
+        "use competently"
+      ],
+      "note": "navigate 常指平台或流程。"
+    },
+    {
+      "base": "online service",
+      "options": [
+        "digital service",
+        "web-based provision",
+        "remotely delivered service"
+      ],
+      "note": "web-based 更具体。"
+    },
+    {
+      "base": "different groups",
+      "options": [
+        "distinct user groups",
+        "communities with different needs",
+        "demographic groups"
+      ],
+      "note": "demographic groups 适合研究语境。"
+    },
+    {
+      "base": "give equipment",
+      "options": [
+        "provide suitable devices",
+        "subsidise hardware",
+        "support device access"
+      ],
+      "note": "subsidise 表示资助部分成本。"
+    },
+    {
+      "base": "difficult to use",
+      "options": [
+        "poorly accessible",
+        "demanding to navigate",
+        "unsuitable for inexperienced users"
+      ],
+      "note": "accessible 涉及能力和设计。"
+    },
+    {
+      "base": "equal opportunity",
+      "options": [
+        "equitable access",
+        "a fair chance to participate",
+        "meaningful digital inclusion"
+      ],
+      "note": "equitable 强调按需要提供支持。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Access to + a digital device + is of limited value unless + the user + can also access + suitable skills or support.",
+      "cn": "如果使用者不能同时获得技能或支持，拥有某设备的价值有限。",
+      "example": "Access to a laptop is of limited value unless a job seeker can also navigate recruitment websites confidently."
+    },
+    {
+      "pattern": "Even where + a reliable network + is available, households whose + budgets are already stretched + may remain digitally excluded.",
+      "cn": "即使网络可用，受到某种限制的家庭仍可能事实上被排除。",
+      "example": "Even where fibre broadband is available, households whose budgets are already stretched may remain effectively excluded."
+    },
+    {
+      "pattern": "By requiring + an online process + without retaining + an offline alternative, institutions risk + excluding people who need assistance.",
+      "cn": "机构若强制数字流程而不保留替代方式，可能导致……",
+      "example": "By requiring online identification without retaining face-to-face support, institutions risk excluding the very users who need assistance most."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "struggle to get online",
+      "cn": "难以上网",
+      "example": "Some residents still struggle to get online reliably."
+    },
+    {
+      "text": "be left behind",
+      "cn": "被落下",
+      "example": "Older users should not be left behind as services move online."
+    },
+    {
+      "text": "ask someone to walk me through it",
+      "cn": "请别人一步步教我",
+      "example": "I asked a colleague to walk me through the booking system."
+    },
+    {
+      "text": "bridge the digital divide",
+      "cn": "弥合数字鸿沟",
+      "example": "Affordable broadband alone will not bridge the digital divide."
+    },
+    {
+      "text": "ensure equitable access",
+      "cn": "确保公平使用机会",
+      "example": "Libraries help ensure equitable access to devices and guidance."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "access to internet",
+      "correct": "access to the internet",
+      "why": "internet 前通常使用 the。"
+    },
+    {
+      "wrong": "Many old people are digital illiteracy.",
+      "correct": "Many older people have limited digital literacy.",
+      "why": "illiteracy 是名词；表达群体时 limited digital literacy 更自然。"
+    },
+    {
+      "wrong": "The government should provide them computers.",
+      "correct": "The government should provide them with computers.",
+      "why": "provide somebody with something 是固定结构。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Digital inclusion requires support, not merely infrastructure.",
+      "topicSentence": "A reliable connection becomes meaningful only when people can afford suitable devices and use services with confidence.",
+      "collocations": [
+        "expand network coverage",
+        "subsidise device access",
+        "develop practical skills",
+        "provide trusted support"
+      ],
+      "argument": "A broadband cable reaching a street removes one physical barrier but does not pay a monthly bill or teach a resident to recognise fraud. Low-income households may share one phone, while an inexperienced user can abandon a complicated application after a minor error. Libraries and community centres can combine equipment with patient, face-to-face guidance. A learner who completes a real benefits form with support is more likely to repeat the task independently. Policy should therefore measure successful use of essential services rather than coverage alone."
+    },
+    {
+      "viewpoint": "Essential services should retain a workable non-digital route.",
+      "topicSentence": "Digital efficiency does not justify making healthcare, welfare or legal access conditional on confidence with technology.",
+      "collocations": [
+        "retain an offline channel",
+        "avoid administrative exclusion",
+        "serve users with complex needs",
+        "design complementary services"
+      ],
+      "argument": "Online systems reduce routine costs and allow many people to complete tasks outside office hours. Nevertheless, disability, language barriers or a lost device can make the same system temporarily unusable. If the only alternative is a long telephone queue, the supposed choice is not genuine. A staffed route can handle exceptional cases and reveal recurring design problems that digital statistics conceal. Maintaining it may cost more per transaction, but it prevents efficiency gains from being achieved by excluding difficult cases."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a time when you helped someone use technology.",
+      "answer": "I helped an older relative make a hospital appointment through a mobile app. She could use messages and video calls, but the identity check was unfamiliar and she was worried that one wrong tap would cancel everything. I sat beside her and explained each screen rather than taking the phone and doing it myself. The most confusing part was a verification code that arrived in a separate message, because the app gave almost no explanation. Once the appointment was confirmed, we wrote down the steps in plain language. A few weeks later she booked another visit without help. The experience showed me that access is not simply owning a smartphone; confidence grows when a system is understandable and support allows someone to remain in control."
+    },
+    {
+      "part": "Part 3",
+      "question": "Can public libraries reduce digital inequality?",
+      "answer": "They can make a substantial difference, although they cannot solve every cause. Libraries provide computers, stable internet and a safe place to complete applications, which is valuable for people who share devices or have no quiet space at home. Staff can also answer small practical questions that formal training courses often miss. Their opening hours and funding are limitations, and users may need privacy for medical or financial tasks. Even so, a local, trusted access point connects infrastructure with human support. Libraries should be part of a wider strategy that also addresses affordability and accessible service design."
+    }
+  ],
+  "reading": {
+    "title": "Why a Connected Household May Still Be Offline",
+    "paragraphs": [
+      "National connectivity statistics usually classify a household according to whether an internet subscription is present. The measure is convenient, but it can hide substantial differences in actual use. One family may have fibre broadband, several computers and confident users; another, recorded in the same connected category, may depend on a limited phone plan shared among adults and children.",
+      "Researchers increasingly describe meaningful connectivity through several dimensions: reliability, affordability, device suitability and skill. These factors interact. A school pupil cannot participate fully in a video lesson if the household connection fails repeatedly, yet a stable signal is equally insufficient when homework must be typed on a small screen. Affordability also includes the sacrifices required to maintain access, not simply whether a bill was paid in the survey month.",
+      "Service design can widen or narrow the gap. A government portal that functions on an inexpensive phone, saves incomplete forms and uses clear language places fewer demands on users. By contrast, an application requiring scanned documents and a continuous session assumes access to equipment, time and technical confidence. When institutions move online, the characteristics of the service therefore become part of the infrastructure through which access is judged.",
+      "Community organisations reveal needs that household surveys overlook. Library staff may notice residents repeatedly seeking help with passwords, attachments or identity checks. Such encounters are sometimes counted as successful digital transactions because the final form was submitted. The statistic records the outcome but not the informal labour that made it possible, nor whether the user could repeat the process alone.",
+      "A more useful assessment would combine network availability with device data, service usability and evidence of independent completion. No single indicator will capture every disadvantage, and demanding perfect measurement could delay obvious improvements. Nevertheless, the distinction between connection and participation matters. If policy celebrates the number of households technically online while essential tasks remain impractical, it mistakes the presence of a doorway for the ability to pass through it."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "All households counted as connected have similar equipment and user skills.",
+        "answer": "False",
+        "explanation": "Paragraph A contrasts households with very different resources in the same category."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph discusses unpaid assistance that is absent from transaction statistics?",
+        "answer": "D",
+        "explanation": "Paragraph D describes library staff's informal labour."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "The writer compares a technical connection without practical participation to a doorway that people cannot ______.",
+        "answer": "pass through",
+        "explanation": "The final sentence uses this comparison."
+      }
+    ]
+  }
+}

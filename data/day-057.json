@@ -1,0 +1,349 @@
+{
+  "id": 57,
+  "topic": "Volunteering",
+  "topicCN": "志愿服务",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "volunteer",
+      "ipa": "/ˌvɒlənˈtɪə/",
+      "meaning": "志愿者；自愿服务",
+      "collocation": "volunteer at a food bank",
+      "collocationCN": "在食品救助站做志愿服务"
+    },
+    {
+      "word": "charity",
+      "ipa": "/ˈtʃærəti/",
+      "meaning": "慈善机构",
+      "collocation": "support a local charity",
+      "collocationCN": "支持当地慈善机构"
+    },
+    {
+      "word": "non-profit",
+      "ipa": "/ˌnɒn ˈprɒfɪt/",
+      "meaning": "非营利组织",
+      "collocation": "work for a non-profit",
+      "collocationCN": "为非营利组织工作"
+    },
+    {
+      "word": "fundraiser",
+      "ipa": "/ˈfʌndreɪzə/",
+      "meaning": "募款活动",
+      "collocation": "organise a community fundraiser",
+      "collocationCN": "组织社区募款活动"
+    },
+    {
+      "word": "donation",
+      "ipa": "/dəʊˈneɪʃən/",
+      "meaning": "捐赠",
+      "collocation": "make a regular donation",
+      "collocationCN": "定期捐赠"
+    },
+    {
+      "word": "sponsor",
+      "ipa": "/ˈspɒnsə/",
+      "meaning": "赞助",
+      "collocation": "sponsor a charity walk",
+      "collocationCN": "赞助慈善步行活动"
+    },
+    {
+      "word": "food bank",
+      "ipa": "/ˈfuːd bæŋk/",
+      "meaning": "食品救助站",
+      "collocation": "collect supplies for a food bank",
+      "collocationCN": "为食品救助站募集物资"
+    },
+    {
+      "word": "soup kitchen",
+      "ipa": "/ˈsuːp ˌkɪtʃən/",
+      "meaning": "施粥所；公益食堂",
+      "collocation": "serve meals at a soup kitchen",
+      "collocationCN": "在公益食堂供餐"
+    },
+    {
+      "word": "community outreach",
+      "ipa": "/kəˌmjuːnəti ˈaʊtriːtʃ/",
+      "meaning": "社区外展服务",
+      "collocation": "run a community outreach programme",
+      "collocationCN": "开展社区外展项目"
+    },
+    {
+      "word": "good cause",
+      "ipa": "/ˌɡʊd ˈkɔːz/",
+      "meaning": "公益事业",
+      "collocation": "raise money for a good cause",
+      "collocationCN": "为公益事业筹款"
+    },
+    {
+      "word": "give back",
+      "ipa": "/ˌɡɪv ˈbæk/",
+      "meaning": "回馈社会",
+      "collocation": "give back to the community",
+      "collocationCN": "回馈社区"
+    },
+    {
+      "word": "lend a hand",
+      "ipa": "/ˌlend ə ˈhænd/",
+      "meaning": "帮忙",
+      "collocation": "lend a hand at an event",
+      "collocationCN": "在活动中帮忙"
+    },
+    {
+      "word": "make a difference",
+      "ipa": "/ˌmeɪk ə ˈdɪfrəns/",
+      "meaning": "带来积极改变",
+      "collocation": "make a difference locally",
+      "collocationCN": "在当地带来积极改变"
+    },
+    {
+      "word": "unpaid role",
+      "ipa": "/ˌʌnpeɪd ˈrəʊl/",
+      "meaning": "无薪岗位",
+      "collocation": "take on an unpaid role",
+      "collocationCN": "承担无薪工作"
+    },
+    {
+      "word": "time commitment",
+      "ipa": "/ˈtaɪm kəˌmɪtmənt/",
+      "meaning": "时间投入",
+      "collocation": "make a realistic time commitment",
+      "collocationCN": "作出切合实际的时间承诺"
+    },
+    {
+      "word": "volunteer coordinator",
+      "ipa": "/ˌvɒlənˈtɪə kəʊˈɔːdɪneɪtə/",
+      "meaning": "志愿者协调员",
+      "collocation": "contact the volunteer coordinator",
+      "collocationCN": "联系志愿者协调员"
+    },
+    {
+      "word": "background check",
+      "ipa": "/ˈbækɡraʊnd tʃek/",
+      "meaning": "背景审查",
+      "collocation": "complete a background check",
+      "collocationCN": "完成背景审查"
+    },
+    {
+      "word": "safeguarding",
+      "ipa": "/ˈseɪfɡɑːdɪŋ/",
+      "meaning": "安全保护制度",
+      "collocation": "follow safeguarding procedures",
+      "collocationCN": "遵守安全保护程序"
+    },
+    {
+      "word": "volunteer retention",
+      "ipa": "/ˌvɒlənˈtɪə rɪˈtenʃən/",
+      "meaning": "志愿者留任",
+      "collocation": "improve volunteer retention",
+      "collocationCN": "提高志愿者留任率"
+    },
+    {
+      "word": "civic participation",
+      "ipa": "/ˌsɪvɪk pɑːˌtɪsɪˈpeɪʃən/",
+      "meaning": "公民参与",
+      "collocation": "encourage civic participation",
+      "collocationCN": "鼓励公民参与"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "cause",
+      "options": [
+        "lead to",
+        "contribute to",
+        "give rise to"
+      ],
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论志愿服务。"
+    },
+    {
+      "base": "benefit",
+      "options": [
+        "advantage",
+        "positive effect",
+        "gain"
+      ],
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论志愿服务。"
+    },
+    {
+      "base": "harm",
+      "options": [
+        "damage",
+        "negative effect",
+        "undermine"
+      ],
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论志愿服务。"
+    },
+    {
+      "base": "support",
+      "options": [
+        "assistance",
+        "backing",
+        "provision"
+      ],
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论志愿服务。"
+    },
+    {
+      "base": "different",
+      "options": [
+        "distinct",
+        "varied",
+        "diverse"
+      ],
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论志愿服务。"
+    },
+    {
+      "base": "common",
+      "options": [
+        "widespread",
+        "frequently observed",
+        "part of everyday life"
+      ],
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论志愿服务。"
+    },
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论志愿服务。"
+    },
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论志愿服务。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Volunteering benefits + recipient + only when + service + responds to + actual need.",
+      "cn": "只有当服务回应真实需求时，志愿活动才使受助方受益。",
+      "example": "Volunteering benefits a community only when the project responds to priorities identified locally."
+    },
+    {
+      "pattern": "While + volunteer + may contribute + resource, they should not + replace role.",
+      "cn": "志愿者可以贡献某资源，但不应替代某角色。",
+      "example": "While volunteers may contribute time, they should not replace qualified care staff."
+    },
+    {
+      "pattern": "Having committed to + role, volunteers are expected to + responsibility.",
+      "cn": "承诺某岗位后，志愿者应……。",
+      "example": "Having committed to a weekly role, volunteers are expected to give notice when unavailable."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "give something back to the community",
+      "cn": "回馈社区",
+      "example": "I volunteer because I want to give something back to the community."
+    },
+    {
+      "text": "lend a hand",
+      "cn": "搭把手",
+      "example": "Several residents lent a hand at the event."
+    },
+    {
+      "text": "make a meaningful contribution",
+      "cn": "作出有意义的贡献",
+      "example": "Reliable administrative work can make a meaningful contribution."
+    },
+    {
+      "text": "commit time regularly",
+      "cn": "定期投入时间",
+      "example": "The shelter needs volunteers who can commit time regularly."
+    },
+    {
+      "text": "work for a good cause",
+      "cn": "为公益事业工作",
+      "example": "A good cause still requires careful organisation."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I joined a volunteer work.",
+      "correct": "I did some volunteer work.",
+      "why": "work 不可数；用 do volunteer work。"
+    },
+    {
+      "wrong": "She volunteered to the charity.",
+      "correct": "She volunteered for the charity.",
+      "why": "为组织做志愿服务用 volunteer for。"
+    },
+    {
+      "wrong": "Volunteers can help to poor people.",
+      "correct": "Volunteers can help people in need.",
+      "why": "help 是及物动词，不加 to；people in need 更自然。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Volunteer roles require proper design and supervision.",
+      "topicSentence": "Good intentions do not remove the need for training, boundaries and reliable coordination.",
+      "collocations": [
+        "define a volunteer role",
+        "provide appropriate training",
+        "protect service users",
+        "supervise participants"
+      ],
+      "argument": "Volunteers may work with children, confidential data or vulnerable adults, where an unclear task can cause harm. Organisations should state responsibilities, screen where necessary and provide a named person for questions. Training need not be excessive, but it must match the risk. Volunteers also deserve notice and feedback rather than being treated as free labour. Thoughtful role design converts willingness into dependable service."
+    },
+    {
+      "viewpoint": "Short-term volunteering should be judged by community value.",
+      "topicSentence": "A project is worthwhile only if the benefit exceeds the resources required to host inexperienced visitors.",
+      "collocations": [
+        "identify local priorities",
+        "avoid dependency",
+        "transfer useful skills",
+        "evaluate community benefit"
+      ],
+      "argument": "Brief volunteers may need accommodation, translation and supervision from staff whose time is scarce. Painting a wall can be useful, but not when local workers lose income or the building needs technical repair. Host organisations should define the task and say no when participation mainly serves the visitor’s experience. Learning for volunteers is a legitimate secondary benefit. The primary measure must remain whether the community receives something it actually values."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Have you ever done any volunteer work?",
+      "answer": "Yes, I helped at a weekend book collection. My role was to sort donations and record which subjects were needed, so it was practical rather than public-facing. I enjoyed working with people I had not met before. The experience also showed me how much organisation is required behind a simple charitable event."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a volunteering activity that you think is valuable.",
+      "answer": "I think a regular homework club in a public library is valuable. Volunteers can help pupils organise tasks, practise reading and find reliable information, while a trained coordinator sets boundaries and handles concerns. The regular schedule matters because trust and progress are difficult to build in a one-day event. Volunteers do not replace teachers; they provide quiet attention that a busy household or classroom may not always offer. The library is also a neutral, accessible location. I would be interested in supporting such a programme after suitable training. Its value comes from consistency and a clearly limited role, not from the volunteer trying to solve every difficulty in a child’s life."
+    }
+  ],
+  "reading": {
+    "title": "The Hidden Cost of Hosting Volunteers",
+    "paragraphs": [
+      "Volunteer programmes are often described in terms of donated hours. For the host organisation, those hours are not free. Staff recruit, screen, train, schedule and support participants. Equipment and insurance may be required, and inconsistent attendance creates work that a paid employee must absorb. These costs do not make volunteering undesirable; they determine which roles genuinely add value.",
+      "A useful role has a clear task, manageable risk and enough continuity for the volunteer to become competent. Specialist volunteers can contribute legal, technical or language skills, but credentials still need verification. General enthusiasm is better suited to work that can be learned safely and does not expose service users to repeated changes in relationship.",
+      "Retention improves when people understand the purpose of routine work. Volunteers who expect dramatic impact may be disappointed by data entry, cleaning or repeated phone calls, although these tasks keep a service operating. Honest descriptions help applicants select roles that fit their motivation and availability. Recognition should explain contribution rather than offer constant praise.",
+      "Organisations must also consider substitution. Using volunteers to replace necessary paid posts can weaken service quality and turn stable employment into unpaid expectation. A better distinction is that volunteers extend, enrich or connect services while core safeguarding and continuity remain professionally accountable. The boundary varies by sector but should be explicit.",
+      "Measuring success requires more than counting participants. A programme may recruit hundreds of one-time volunteers while consuming staff capacity, whereas a small group of reliable people provides sustained benefit. Host time, service-user outcomes and volunteer learning should all be considered. The best programme respects generosity by directing it where the contribution remains greater than the coordination it requires. Exit matters alongside recruitment. Volunteers should be able to leave without guilt, and organisations need handover methods that protect service users when they do. A short closing conversation can capture learning and reveal problems that current participants hesitate to raise. Respectful endings make future return more likely and prevent a programme from depending on personal sacrifice that cannot be sustained."
+    ],
+    "questions": [
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains why routine volunteer tasks need honest descriptions?",
+        "answer": "C",
+        "explanation": "Paragraph C discusses expectations and routine work."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer argues that volunteers should replace permanent staff whenever possible.",
+        "answer": "No",
+        "explanation": "Paragraph 4 warns against substitution."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What three areas should success measures consider?",
+        "answer": "host time, service-user outcomes and volunteer learning",
+        "explanation": "The final paragraph lists these."
+      }
+    ]
+  }
+}

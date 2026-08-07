@@ -1,0 +1,355 @@
+{
+  "id": 24,
+  "topic": "Teachers and Mentors",
+  "topicCN": "教师与导师",
+  "category": "Education",
+  "vocabulary": [
+    {
+      "word": "mentor",
+      "ipa": "/ˈmentɔː/",
+      "meaning": "导师；指导者",
+      "collocation": "seek advice from a mentor",
+      "collocationCN": "向导师寻求建议"
+    },
+    {
+      "word": "role model",
+      "ipa": "/ˈrəʊl ˌmɒdəl/",
+      "meaning": "榜样",
+      "collocation": "act as a positive role model",
+      "collocationCN": "成为积极的榜样"
+    },
+    {
+      "word": "subject knowledge",
+      "ipa": "/ˈsʌbdʒekt ˌnɒlɪdʒ/",
+      "meaning": "学科知识",
+      "collocation": "demonstrate strong subject knowledge",
+      "collocationCN": "展现扎实的学科知识"
+    },
+    {
+      "word": "lesson plan",
+      "ipa": "/ˈlesən plæn/",
+      "meaning": "教案；课程计划",
+      "collocation": "prepare a detailed lesson plan",
+      "collocationCN": "准备详细教案"
+    },
+    {
+      "word": "learning outcome",
+      "ipa": "/ˈlɜːnɪŋ ˌaʊtkʌm/",
+      "meaning": "学习成果",
+      "collocation": "define clear learning outcomes",
+      "collocationCN": "明确学习成果"
+    },
+    {
+      "word": "classroom management",
+      "ipa": "/ˈklɑːsruːm ˌmænɪdʒmənt/",
+      "meaning": "课堂管理",
+      "collocation": "improve classroom management",
+      "collocationCN": "改善课堂管理"
+    },
+    {
+      "word": "differentiation",
+      "ipa": "/ˌdɪfərenʃiˈeɪʃən/",
+      "meaning": "差异化教学",
+      "collocation": "use classroom differentiation",
+      "collocationCN": "采用课堂差异化教学"
+    },
+    {
+      "word": "scaffolding",
+      "ipa": "/ˈskæfəldɪŋ/",
+      "meaning": "教学支架；循序支持",
+      "collocation": "provide appropriate scaffolding",
+      "collocationCN": "提供适当的学习支架"
+    },
+    {
+      "word": "misconception",
+      "ipa": "/ˌmɪskənˈsepʃən/",
+      "meaning": "错误观念",
+      "collocation": "identify a common misconception",
+      "collocationCN": "识别常见的错误观念"
+    },
+    {
+      "word": "constructive feedback",
+      "ipa": "/kənˈstrʌktɪv ˈfiːdbæk/",
+      "meaning": "建设性反馈",
+      "collocation": "give constructive feedback",
+      "collocationCN": "给予建设性反馈"
+    },
+    {
+      "word": "guidance",
+      "ipa": "/ˈɡaɪdəns/",
+      "meaning": "指导；建议",
+      "collocation": "offer practical guidance",
+      "collocationCN": "提供实用指导"
+    },
+    {
+      "word": "encouragement",
+      "ipa": "/ɪnˈkʌrɪdʒmənt/",
+      "meaning": "鼓励",
+      "collocation": "give a learner encouragement",
+      "collocationCN": "鼓励学习者"
+    },
+    {
+      "word": "rapport",
+      "ipa": "/ræˈpɔː/",
+      "meaning": "融洽关系",
+      "collocation": "build rapport with students",
+      "collocationCN": "与学生建立融洽关系"
+    },
+    {
+      "word": "approachable",
+      "ipa": "/əˈprəʊtʃəbəl/",
+      "meaning": "平易近人的",
+      "collocation": "remain approachable to learners",
+      "collocationCN": "对学习者保持亲切易沟通"
+    },
+    {
+      "word": "patient",
+      "ipa": "/ˈpeɪʃənt/",
+      "meaning": "有耐心的",
+      "collocation": "be patient with beginners",
+      "collocationCN": "耐心对待初学者"
+    },
+    {
+      "word": "inspire",
+      "ipa": "/ɪnˈspaɪə/",
+      "meaning": "激励；启发",
+      "collocation": "inspire curiosity in students",
+      "collocationCN": "激发学生的好奇心"
+    },
+    {
+      "word": "challenge",
+      "ipa": "/ˈtʃælɪndʒ/",
+      "meaning": "激发；向……提出挑战",
+      "collocation": "challenge learners to think deeply",
+      "collocationCN": "促使学习者深入思考"
+    },
+    {
+      "word": "model",
+      "ipa": "/ˈmɒdəl/",
+      "meaning": "示范",
+      "collocation": "model an effective strategy",
+      "collocationCN": "示范一种有效策略"
+    },
+    {
+      "word": "one-to-one",
+      "ipa": "/ˌwʌn tə ˈwʌn/",
+      "meaning": "一对一的",
+      "collocation": "hold a one-to-one meeting",
+      "collocationCN": "进行一对一会谈"
+    },
+    {
+      "word": "professional development",
+      "ipa": "/prəˌfeʃənəl dɪˈveləpmənt/",
+      "meaning": "职业发展培训",
+      "collocation": "undertake professional development",
+      "collocationCN": "参加职业发展培训"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "a good teacher",
+      "options": [
+        "an effective educator",
+        "a skilled instructor",
+        "an accomplished teacher"
+      ],
+      "note": "effective 强调教学产生结果。"
+    },
+    {
+      "base": "give advice",
+      "options": [
+        "offer guidance",
+        "provide direction",
+        "point a learner towards"
+      ],
+      "note": "guidance 比 advice 更强调持续引导。"
+    },
+    {
+      "base": "help someone improve",
+      "options": [
+        "support a learner’s development",
+        "enable progress",
+        "scaffold improvement"
+      ],
+      "note": "scaffold 指提供阶段性支架。"
+    },
+    {
+      "base": "teacher comments",
+      "options": [
+        "constructive feedback",
+        "actionable comments",
+        "formative guidance"
+      ],
+      "note": "actionable 表示可以据此采取行动。"
+    },
+    {
+      "base": "understand a beginner",
+      "options": [
+        "reconstruct the novice perspective",
+        "recognise a learner’s difficulty",
+        "see the task through a beginner’s eyes"
+      ],
+      "note": "novice 是正式语境中的初学者。"
+    },
+    {
+      "base": "show how to do something",
+      "options": [
+        "model a process",
+        "demonstrate a technique",
+        "make expert thinking visible"
+      ],
+      "note": "model 在教育中指示范过程。"
+    },
+    {
+      "base": "learn independently",
+      "options": [
+        "develop learner autonomy",
+        "exercise independent judgement",
+        "take ownership of learning"
+      ],
+      "note": "autonomy 强调自主管理能力。"
+    },
+    {
+      "base": "common error",
+      "options": [
+        "recurring misconception",
+        "typical learner mistake",
+        "frequent misunderstanding"
+      ],
+      "note": "misconception 指概念理解错误。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A teacher can encourage + quality + not by + action, but by + alternative.",
+      "cn": "教师可以通过……而不是……来培养某种品质。",
+      "example": "A teacher can encourage independence not by withholding help, but by asking guiding questions."
+    },
+    {
+      "pattern": "Had it not been for + mentor/support, + learner + might have + past participle.",
+      "cn": "如果没有某位导师或某种支持，学习者可能已经……。",
+      "example": "Had it not been for my mentor’s advice, I might have abandoned the project too early."
+    },
+    {
+      "pattern": "The value of + feedback + lies in its ability to + verb, rather than merely to + verb.",
+      "cn": "某种反馈的价值在于它能……，而不只是……。",
+      "example": "The value of feedback lies in its ability to guide revision, rather than merely to justify a grade."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "bring out the best in someone",
+      "cn": "激发某人的最佳状态",
+      "example": "A patient teacher can bring out the best in a hesitant pupil."
+    },
+    {
+      "text": "point me in the right direction",
+      "cn": "给我正确方向的指引",
+      "example": "My mentor did not solve the problem, but she pointed me in the right direction."
+    },
+    {
+      "text": "give constructive feedback",
+      "cn": "给予建设性反馈",
+      "example": "Good teachers give constructive feedback that students can act on."
+    },
+    {
+      "text": "set a good example",
+      "cn": "树立好榜样",
+      "example": "A mentor sets a good example by admitting uncertainty."
+    },
+    {
+      "text": "build a learner’s confidence",
+      "cn": "建立学习者的信心",
+      "example": "Specific praise can build a learner’s confidence without exaggerating progress."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "My teacher suggested me to practise more.",
+      "correct": "My teacher suggested that I practise more.",
+      "why": "suggest 不能使用 suggest somebody to do 结构。"
+    },
+    {
+      "wrong": "She explained me the method.",
+      "correct": "She explained the method to me.",
+      "why": "explain 后先接事物，再用 to 引出人。"
+    },
+    {
+      "wrong": "He is very patient to his students.",
+      "correct": "He is very patient with his students.",
+      "why": "表示“对某人有耐心”用 patient with。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Useful feedback must be specific enough to guide action.",
+      "topicSentence": "Comments improve learning only when students can understand what to change next.",
+      "collocations": [
+        "give constructive feedback",
+        "identify a weakness",
+        "revise a first draft",
+        "set an achievable target"
+      ],
+      "argument": "A mark shows the level reached, but it rarely explains how to improve. Specific comments can identify one successful choice and one priority for revision, making the next step manageable. When pupils receive ten vague criticisms at once, they may focus on disappointment instead of action. Teachers can also ask students to apply feedback to a short second draft. The value of assessment therefore lies in the improvement it produces, not in the quantity of comments written."
+    },
+    {
+      "viewpoint": "Mentors should support decisions without creating dependence.",
+      "topicSentence": "Effective mentoring increases a learner’s capacity to judge rather than replacing personal judgement.",
+      "collocations": [
+        "offer informed guidance",
+        "ask reflective questions",
+        "develop independent judgement",
+        "take ownership of decisions"
+      ],
+      "argument": "An experienced mentor can reveal options and risks that a beginner has not noticed. If the mentor always supplies the answer, however, the learner may become less confident when working alone. Questions such as “What evidence supports that choice?” require the learner to explain and refine a decision. Over time, responsibility can shift as competence grows. Successful mentoring is therefore measured partly by how little direction the learner eventually needs."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Did you have a teacher who made a subject more interesting?",
+      "answer": "Yes, my history teacher made the subject feel like an investigation rather than a list of dates. She often showed us two accounts of the same event and asked why they differed. That made every lesson slightly unpredictable, and I began reading beyond the textbook. Her enthusiasm mattered, but the questions she chose mattered even more."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe someone who gave you useful guidance.",
+      "answer": "A senior colleague once guided me through my first large presentation. Instead of rewriting my slides, he asked me to state the one idea the audience should remember. I realised that half the material did not support that goal, so I removed it. He then watched a rehearsal and pointed out where my explanation became too technical. His advice was useful because it changed how I plan presentations, not just that single piece of work. Before that conversation, I had assumed that more detail would make me sound better prepared. He showed me that an audience needs selection, not a record of everything I know. I still use his question when editing reports. The guidance was memorable because he respected my ownership of the work while helping me see it from the listener’s perspective."
+    }
+  ],
+  "reading": {
+    "title": "When Expertise Becomes Teachable",
+    "paragraphs": [
+      "Expertise does not automatically produce good teaching. An accomplished musician may perform a movement without consciously recalling its separate actions, while a fluent reader recognises patterns too quickly to describe them. Skills that once demanded attention have become automatic. This efficiency benefits the expert, but it can create a gap when a beginner needs each hidden decision made visible.",
+      "Researchers studying instruction describe a related “curse of knowledge”: once people understand a concept, they find it difficult to imagine not understanding it. A teacher may omit an intermediate step because it seems obvious or use a technical word without noticing that it contains the whole problem for a novice. Repeating the same explanation more slowly does not necessarily help, since the missing connection remains missing.",
+      "Experienced teachers develop ways to reconstruct the learner’s view. They examine common errors, ask pupils to explain their reasoning and use questions that reveal where understanding changed direction. An incorrect answer then becomes evidence rather than merely failure. A student who adds fractions incorrectly, for example, may be applying a sensible rule learned for whole numbers. Addressing that rule is more useful than simply demonstrating the calculation again.",
+      "Mentoring presents the same challenge in less formal settings. A mentor must decide when to model a process, when to offer a hint and when to allow productive struggle. Too much intervention completes the task but removes the learner’s opportunity to make a judgement. Too little can leave difficulty without meaning. Teachable expertise therefore involves more than possessing answers. It requires an accurate picture of what the other person can currently see and a choice of support that extends that view by one manageable step.",
+      "Examples and analogies are particularly revealing tests of teachable knowledge. An expert who can present the same principle through a diagram, a concrete case and a counterexample is less dependent on one memorised explanation. Learners can then connect new material to different prior experiences. Variety is not decoration; it increases the chance that the underlying relationship, rather than the surface wording, becomes understood."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why may an expert omit an important step?",
+        "answer": "C",
+        "explanation": "The step has become so familiar that it appears obvious.",
+        "options": [
+          "The learner has already mastered it.",
+          "The expert wants the task to remain difficult.",
+          "The step has become so familiar that it appears obvious.",
+          "The technical term has no definition."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "An incorrect answer can be treated as ______ about a learner’s reasoning.",
+        "answer": "evidence",
+        "explanation": "Paragraph 3 says an incorrect answer becomes evidence."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "A mentor should always allow a learner to struggle without assistance.",
+        "answer": "No",
+        "explanation": "The final paragraph says too little intervention can leave difficulty without meaning."
+      }
+    ]
+  }
+}

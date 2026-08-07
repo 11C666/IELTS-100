@@ -1,0 +1,349 @@
+{
+  "id": 29,
+  "topic": "Libraries",
+  "topicCN": "图书馆",
+  "category": "Education",
+  "vocabulary": [
+    {
+      "word": "library card",
+      "ipa": "/ˈlaɪbrəri kɑːd/",
+      "meaning": "借书证",
+      "collocation": "apply for a library card",
+      "collocationCN": "申请借书证"
+    },
+    {
+      "word": "catalogue",
+      "ipa": "/ˈkætəlɒɡ/",
+      "meaning": "馆藏目录",
+      "collocation": "search the online catalogue",
+      "collocationCN": "检索在线馆藏目录"
+    },
+    {
+      "word": "shelf",
+      "ipa": "/ʃelf/",
+      "meaning": "书架",
+      "collocation": "return a book to the shelf",
+      "collocationCN": "把书放回书架"
+    },
+    {
+      "word": "borrower",
+      "ipa": "/ˈbɒrəʊə/",
+      "meaning": "借阅者",
+      "collocation": "register as a borrower",
+      "collocationCN": "登记成为借阅者"
+    },
+    {
+      "word": "loan period",
+      "ipa": "/ˈləʊn ˌpɪəriəd/",
+      "meaning": "借阅期限",
+      "collocation": "extend the loan period",
+      "collocationCN": "延长借阅期限"
+    },
+    {
+      "word": "renew",
+      "ipa": "/rɪˈnjuː/",
+      "meaning": "续借",
+      "collocation": "renew a book online",
+      "collocationCN": "在线续借图书"
+    },
+    {
+      "word": "reserve",
+      "ipa": "/rɪˈzɜːv/",
+      "meaning": "预约借阅",
+      "collocation": "reserve a popular title",
+      "collocationCN": "预约一本热门书"
+    },
+    {
+      "word": "overdue",
+      "ipa": "/ˌəʊvəˈdjuː/",
+      "meaning": "逾期未还的",
+      "collocation": "return an overdue book",
+      "collocationCN": "归还逾期图书"
+    },
+    {
+      "word": "fine",
+      "ipa": "/faɪn/",
+      "meaning": "罚款",
+      "collocation": "pay an overdue fine",
+      "collocationCN": "支付逾期罚款"
+    },
+    {
+      "word": "reference section",
+      "ipa": "/ˈrefərəns ˌsekʃən/",
+      "meaning": "参考资料区",
+      "collocation": "consult the reference section",
+      "collocationCN": "查阅参考资料区"
+    },
+    {
+      "word": "archive",
+      "ipa": "/ˈɑːkaɪv/",
+      "meaning": "档案馆；档案",
+      "collocation": "preserve material in an archive",
+      "collocationCN": "在档案馆保存资料"
+    },
+    {
+      "word": "manuscript",
+      "ipa": "/ˈmænjəskrɪpt/",
+      "meaning": "手稿",
+      "collocation": "examine a rare manuscript",
+      "collocationCN": "查看珍贵手稿"
+    },
+    {
+      "word": "database",
+      "ipa": "/ˈdeɪtəbeɪs/",
+      "meaning": "数据库",
+      "collocation": "search an academic database",
+      "collocationCN": "检索学术数据库"
+    },
+    {
+      "word": "journal subscription",
+      "ipa": "/ˈdʒɜːnəl səbˌskrɪpʃən/",
+      "meaning": "期刊订阅",
+      "collocation": "provide journal subscriptions",
+      "collocationCN": "提供期刊订阅服务"
+    },
+    {
+      "word": "digital collection",
+      "ipa": "/ˌdɪdʒɪtəl kəˈlekʃən/",
+      "meaning": "数字馆藏",
+      "collocation": "browse a digital collection",
+      "collocationCN": "浏览数字馆藏"
+    },
+    {
+      "word": "reading room",
+      "ipa": "/ˈriːdɪŋ ruːm/",
+      "meaning": "阅览室",
+      "collocation": "work quietly in the reading room",
+      "collocationCN": "在阅览室安静学习"
+    },
+    {
+      "word": "study space",
+      "ipa": "/ˈstʌdi speɪs/",
+      "meaning": "学习空间",
+      "collocation": "book a group study space",
+      "collocationCN": "预约小组学习空间"
+    },
+    {
+      "word": "librarian",
+      "ipa": "/laɪˈbreəriən/",
+      "meaning": "图书管理员",
+      "collocation": "ask a librarian for assistance",
+      "collocationCN": "向图书管理员求助"
+    },
+    {
+      "word": "information literacy",
+      "ipa": "/ˌɪnfəˈmeɪʃən ˈlɪtərəsi/",
+      "meaning": "信息素养",
+      "collocation": "teach information literacy",
+      "collocationCN": "教授信息素养"
+    },
+    {
+      "word": "community hub",
+      "ipa": "/kəˈmjuːnəti hʌb/",
+      "meaning": "社区活动中心",
+      "collocation": "serve as a community hub",
+      "collocationCN": "充当社区活动中心"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "borrow a book",
+      "options": [
+        "take out a library book",
+        "check out a title",
+        "use a library loan"
+      ],
+      "note": "check out 在美式英语中常见。"
+    },
+    {
+      "base": "library users",
+      "options": [
+        "patrons",
+        "members",
+        "readers"
+      ],
+      "note": "patron 是图书馆服务语境的正式用词。"
+    },
+    {
+      "base": "free use of computers",
+      "options": [
+        "public digital access",
+        "shared computer provision",
+        "free access to devices"
+      ],
+      "note": "provision 强调公共服务供给。"
+    },
+    {
+      "base": "place to study",
+      "options": [
+        "quiet workspace",
+        "shared study area",
+        "independent learning space"
+      ],
+      "note": "workspace 可用于学习和工作。"
+    },
+    {
+      "base": "find trustworthy sources",
+      "options": [
+        "access reliable information",
+        "locate credible material",
+        "evaluate information sources"
+      ],
+      "note": "credible 强调值得相信。"
+    },
+    {
+      "base": "library activity",
+      "options": [
+        "community programme",
+        "public workshop",
+        "library-based event"
+      ],
+      "note": "programme 比 activity 更正式。"
+    },
+    {
+      "base": "lend objects",
+      "options": [
+        "operate a library of things",
+        "share practical equipment",
+        "offer non-book loans"
+      ],
+      "note": "library of things 是特定服务模式。"
+    },
+    {
+      "base": "keep a collection useful",
+      "options": [
+        "maintain the collection",
+        "respond to local demand",
+        "manage shared resources"
+      ],
+      "note": "maintain 包括修理与更新。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Far from being merely + outdated role, the library now + modern function.",
+      "cn": "图书馆远不只是某种过时场所，如今还……。",
+      "example": "Far from being merely a storehouse of books, the library now provides access to digital services."
+    },
+    {
+      "pattern": "For people who lack + resource, + library provision + may be the only way to + action.",
+      "cn": "对于缺少某种资源的人，图书馆服务可能是……的唯一途径。",
+      "example": "For people who lack a quiet room, a library desk may be the only way to study effectively."
+    },
+    {
+      "pattern": "Not only does + library service + provide + resource, but it also + social benefit.",
+      "cn": "某项图书馆服务不仅提供……，还……。",
+      "example": "Not only does a reading group provide motivation, but it also reduces social isolation."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "borrow a book from the library",
+      "cn": "从图书馆借书",
+      "example": "I borrowed the novel from the local library."
+    },
+    {
+      "text": "browse the shelves",
+      "cn": "浏览书架",
+      "example": "I like to browse the shelves without a fixed title in mind."
+    },
+    {
+      "text": "renew a loan",
+      "cn": "续借",
+      "example": "You can renew the loan online unless another reader has reserved it."
+    },
+    {
+      "text": "a quiet place to study",
+      "cn": "安静的学习场所",
+      "example": "The library gives residents a quiet place to study."
+    },
+    {
+      "text": "access reliable information",
+      "cn": "获取可靠信息",
+      "example": "A librarian can help users access reliable information."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I borrowed my friend a book.",
+      "correct": "I lent my friend a book.",
+      "why": "borrow 表示借入，lend 表示借出。"
+    },
+    {
+      "wrong": "The library has many useful informations.",
+      "correct": "The library has a lot of useful information.",
+      "why": "information 不可数。"
+    },
+    {
+      "wrong": "I returned back the book yesterday.",
+      "correct": "I returned the book yesterday.",
+      "why": "return 已含“归还/返回”，不再加 back。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Public libraries reduce inequalities that digital expansion can hide.",
+      "topicSentence": "Free shared access to space, devices and guidance remains essential in an online society.",
+      "collocations": [
+        "provide free access",
+        "bridge the digital divide",
+        "use a shared workspace",
+        "seek expert guidance"
+      ],
+      "argument": "Many applications for work, housing and public services now assume that users own a device and understand online forms. People without either can be excluded even when the service is described as universally available. Libraries provide computers, connectivity and staff who can explain a process without selling a product. They also offer a quiet workspace that crowded homes may lack. Their digital role therefore extends the traditional principle of equal access to knowledge."
+    },
+    {
+      "viewpoint": "Library value should not be judged only by book-loan totals.",
+      "topicSentence": "Modern libraries produce educational and social benefits that circulation figures cannot fully represent.",
+      "collocations": [
+        "evaluate public value",
+        "host community programmes",
+        "support independent learning",
+        "reduce social isolation"
+      ],
+      "argument": "An advice session may prevent a user from abandoning an important form, while a weekly reading group can rebuild social contact for an isolated resident. Neither outcome appears as a conventional book loan. Counting visits, programme participation and successful referrals provides a broader picture, although not every benefit can be reduced to a number. Qualitative feedback can show why particular services matter. Funding decisions should reflect the library’s actual functions rather than a historical measure alone."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "When was the last time you used a library?",
+      "answer": "I used one about two weeks ago because I needed a quiet place for concentrated work. I also borrowed a travel book that I had noticed on display, even though that was not why I went in. The building was busy but not noisy, and I stayed much longer than planned. It reminded me how useful a shared study space can be."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a library you have visited.",
+      "answer": "The library I remember best is a small branch inside a renovated market building. The original brick walls remain, but the interior has bright reading tables, computers and a children’s corner. What impressed me was the mixture of users: pupils doing homework, older residents reading newspapers and jobseekers asking staff for help. It was not silent, yet each area had a clear purpose. The place felt more like public infrastructure than a room containing books. Staff had placed local-history material near the entrance, which connected the old building with the neighbourhood it now served. There was also a small room for workshops, so louder group activity did not disturb readers. I would return because the design made different uses compatible. It demonstrated that a modern library can be sociable without giving up spaces for concentration."
+    }
+  ],
+  "reading": {
+    "title": "The Library of Things",
+    "paragraphs": [
+      "A growing number of public libraries lend objects as well as books. Their catalogues may include drills, sewing machines, musical instruments, cake tins and equipment for measuring household energy use. The idea is simple: many useful objects are needed occasionally, yet every household is expected to buy and store its own. A shared collection applies the familiar lending model to material goods.",
+      "The environmental argument is attractive. Manufacturing a power tool requires metals, energy, packaging and transport, although the tool may operate for only a few minutes each year. If one durable item serves many users, demand for rarely used products can fall. Savings are not automatic, however. Objects must survive repeated handling, and extra journeys to collect them may offset part of the benefit. Libraries need repair procedures rather than treating damaged equipment as disposable.",
+      "Access is another objective. A person can test an activity before spending money, while a tenant can borrow a tool for a small repair. Some schemes include demonstrations or safety checks, turning a transaction into practical learning. Liability is more complicated than with books: staff must decide which items require training, how cleanliness is maintained and what happens when equipment fails. These duties increase cost and may limit what can be offered.",
+      "The model also changes the meaning of a collection. Traditional libraries organise published knowledge for shared use; a library of things organises practical capacity. Both depend on trust, clear records and the principle that temporary access can be more valuable than ownership. Such schemes will not replace ordinary retail or private possessions. They are most convincing where an object is expensive, robust and infrequently required—precisely the circumstances in which individual ownership is least efficient.",
+      "Demand is also highly local. Musical instruments may circulate well near schools, whereas gardening tools may be useful in an area with shared allotments. Starting with a small collection and examining reservations, waiting times and repairs allows the service to respond to actual use. Copying another city’s catalogue without considering housing, transport and community partnerships can leave expensive objects untouched."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Every object in a library of things is related to reading.",
+        "answer": "False",
+        "explanation": "Paragraph 1 lists tools, instruments and household equipment."
+      },
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for paragraph 3.",
+        "answer": "Wider access accompanied by new responsibilities",
+        "explanation": "Paragraph 3 contrasts access and learning with safety and liability duties."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What three qualities make an object particularly suitable for shared lending?",
+        "answer": "It is expensive, robust and infrequently required.",
+        "explanation": "The final sentence lists these three qualities."
+      }
+    ]
+  }
+}

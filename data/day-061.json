@@ -1,0 +1,355 @@
+{
+  "id": 61,
+  "topic": "Digital Privacy",
+  "topicCN": "数字隐私",
+  "category": "Technology",
+  "vocabulary": [
+    {
+      "word": "privacy",
+      "ipa": "/ˈprɪvəsi/",
+      "meaning": "隐私",
+      "collocation": "protect personal privacy",
+      "collocationCN": "保护个人隐私"
+    },
+    {
+      "word": "consent",
+      "ipa": "/kənˈsent/",
+      "meaning": "同意；许可",
+      "collocation": "obtain informed consent",
+      "collocationCN": "取得知情同意"
+    },
+    {
+      "word": "surveillance",
+      "ipa": "/səˈveɪləns/",
+      "meaning": "监控",
+      "collocation": "conduct mass surveillance",
+      "collocationCN": "开展大规模监控"
+    },
+    {
+      "word": "anonymous",
+      "ipa": "/əˈnɒnɪməs/",
+      "meaning": "匿名的",
+      "collocation": "remain anonymous online",
+      "collocationCN": "在网上保持匿名"
+    },
+    {
+      "word": "confidential",
+      "ipa": "/ˌkɒnfɪˈdenʃl/",
+      "meaning": "保密的",
+      "collocation": "keep records confidential",
+      "collocationCN": "对记录保密"
+    },
+    {
+      "word": "breach",
+      "ipa": "/briːtʃ/",
+      "meaning": "泄露；违反",
+      "collocation": "report a data breach",
+      "collocationCN": "报告数据泄露"
+    },
+    {
+      "word": "disclose",
+      "ipa": "/dɪsˈkləʊz/",
+      "meaning": "披露",
+      "collocation": "disclose sensitive information",
+      "collocationCN": "披露敏感信息"
+    },
+    {
+      "word": "permission",
+      "ipa": "/pəˈmɪʃn/",
+      "meaning": "许可",
+      "collocation": "review app permissions",
+      "collocationCN": "检查应用权限"
+    },
+    {
+      "word": "traceable",
+      "ipa": "/ˈtreɪsəbl/",
+      "meaning": "可追踪的",
+      "collocation": "make activity traceable",
+      "collocationCN": "使活动可追踪"
+    },
+    {
+      "word": "intrusive",
+      "ipa": "/ɪnˈtruːsɪv/",
+      "meaning": "侵扰性的",
+      "collocation": "intrusive data collection",
+      "collocationCN": "侵扰性数据收集"
+    },
+    {
+      "word": "encrypt",
+      "ipa": "/ɪnˈkrɪpt/",
+      "meaning": "加密",
+      "collocation": "encrypt a message",
+      "collocationCN": "加密信息"
+    },
+    {
+      "word": "retain",
+      "ipa": "/rɪˈteɪn/",
+      "meaning": "保留",
+      "collocation": "retain customer data",
+      "collocationCN": "保留客户数据"
+    },
+    {
+      "word": "profile",
+      "ipa": "/ˈprəʊfaɪl/",
+      "meaning": "用户画像；描绘",
+      "collocation": "build a user profile",
+      "collocationCN": "建立用户画像"
+    },
+    {
+      "word": "opt out",
+      "ipa": "/ˌɒpt ˈaʊt/",
+      "meaning": "选择退出",
+      "collocation": "opt out of tracking",
+      "collocationCN": "选择退出追踪"
+    },
+    {
+      "word": "fine print",
+      "ipa": "/ˌfaɪn ˈprɪnt/",
+      "meaning": "细则；小字条款",
+      "collocation": "read the fine print",
+      "collocationCN": "阅读细则"
+    },
+    {
+      "word": "digital footprint",
+      "ipa": "/ˌdɪdʒɪtl ˈfʊtprɪnt/",
+      "meaning": "数字足迹",
+      "collocation": "reduce a digital footprint",
+      "collocationCN": "减少数字足迹"
+    },
+    {
+      "word": "share location",
+      "ipa": "/ˌʃeə ləʊˈkeɪʃn/",
+      "meaning": "共享位置",
+      "collocation": "stop sharing location",
+      "collocationCN": "停止共享位置"
+    },
+    {
+      "word": "targeted advertising",
+      "ipa": "/ˌtɑːɡɪtɪd ˈædvətaɪzɪŋ/",
+      "meaning": "定向广告",
+      "collocation": "limit targeted advertising",
+      "collocationCN": "限制定向广告"
+    },
+    {
+      "word": "data minimisation",
+      "ipa": "/ˈdeɪtə ˌmɪnɪmaɪˈzeɪʃn/",
+      "meaning": "数据最小化",
+      "collocation": "apply data minimisation",
+      "collocationCN": "实行数据最小化"
+    },
+    {
+      "word": "accountability",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "meaning": "问责",
+      "collocation": "ensure corporate accountability",
+      "collocationCN": "确保企业问责"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "protect privacy",
+      "options": [
+        "safeguard personal information",
+        "preserve confidentiality",
+        "limit unwanted access"
+      ],
+      "note": "强调保护个人资料免遭不当使用"
+    },
+    {
+      "base": "collect data",
+      "options": [
+        "gather user information",
+        "record digital activity",
+        "acquire personal details"
+      ],
+      "note": "可根据数据类型选择表达"
+    },
+    {
+      "base": "without permission",
+      "options": [
+        "without explicit consent",
+        "without prior authorisation",
+        "without the user’s knowledge"
+      ],
+      "note": "最后一项强调不知情"
+    },
+    {
+      "base": "personal information",
+      "options": [
+        "private data",
+        "identifiable details",
+        "user-specific records"
+      ],
+      "note": "避免反复使用 information"
+    },
+    {
+      "base": "monitor users",
+      "options": [
+        "track online behaviour",
+        "observe digital activity",
+        "follow browsing patterns"
+      ],
+      "note": "适用于平台追踪语境"
+    },
+    {
+      "base": "strict rules",
+      "options": [
+        "robust safeguards",
+        "tight privacy controls",
+        "rigorous regulation"
+      ],
+      "note": "rules 可换为更学术的名词"
+    },
+    {
+      "base": "give users control",
+      "options": [
+        "enable informed choice",
+        "let individuals manage access",
+        "return control to users"
+      ],
+      "note": "突出用户自主权"
+    },
+    {
+      "base": "a serious risk",
+      "options": [
+        "a substantial privacy threat",
+        "a significant source of harm",
+        "a cause for considerable concern"
+      ],
+      "note": "用于评价潜在危害"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Only when + an organisation + explains how it uses data + can users make an informed choice.",
+      "cn": "只有当某机构解释清楚数据处理方式时，用户才能作出知情选择。",
+      "example": "Only when a platform explains how location data are retained can users make an informed choice."
+    },
+    {
+      "pattern": "Information collected to + original purpose + should not be used to + new purpose + unless users give consent.",
+      "cn": "为某一原始目的收集的信息不应被用于新的目的，除非满足同意条件。",
+      "example": "Information collected for navigation should not be used to price insurance unless the driver gives explicit consent."
+    },
+    {
+      "pattern": "The fact that + personal data + are publicly accessible does not mean that + companies + may use them without limits.",
+      "cn": "某些数据在技术上可以获取，并不意味着相关使用在社会层面可以接受。",
+      "example": "The fact that public posts are technically accessible does not mean that compiling them into employment profiles is socially acceptable."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "have nothing to hide",
+      "cn": "没什么可隐瞒的",
+      "example": "People sometimes say they have nothing to hide, but privacy is not the same as secrecy."
+    },
+    {
+      "text": "think twice before sharing",
+      "cn": "分享前再三考虑",
+      "example": "I think twice before sharing photographs that reveal my location."
+    },
+    {
+      "text": "keep something to yourself",
+      "cn": "不把某事告诉别人",
+      "example": "Everyone should be able to keep some personal matters to themselves."
+    },
+    {
+      "text": "respect someone’s boundaries",
+      "cn": "尊重某人的界限",
+      "example": "Apps should respect users’ boundaries instead of requesting every permission."
+    },
+    {
+      "text": "strike a balance between privacy and convenience",
+      "cn": "在隐私与便利之间取得平衡",
+      "example": "Services must strike a balance between privacy and convenience."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The app stole my privacy.",
+      "correct": "The app invaded my privacy.",
+      "why": "英语通常用 invade/violate privacy，而不是 steal privacy。"
+    },
+    {
+      "wrong": "My informations were leaked.",
+      "correct": "My personal information was leaked.",
+      "why": "information 是不可数名词，搭配单数谓语。"
+    },
+    {
+      "wrong": "I did not consent them to use my data.",
+      "correct": "I did not consent to their use of my data.",
+      "why": "consent 作动词时通常接 to 名词或动名词。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Convenience does not justify unlimited collection.",
+      "topicSentence": "Digital services should collect only the information required to provide the feature a user has requested.",
+      "collocations": [
+        "collect only necessary data",
+        "limit secondary use",
+        "reduce exposure to breaches",
+        "earn users’ trust"
+      ],
+      "argument": "A map application may need a person’s location while giving directions, but it does not need to retain every journey indefinitely. Keeping additional records creates commercial opportunities for the company while transferring the risk of misuse to the user. If a breach occurs, data that were never stored cannot be exposed. Data minimisation therefore preserves useful services without demanding that people surrender information unrelated to the immediate task."
+    },
+    {
+      "viewpoint": "Privacy controls must be understandable in ordinary use.",
+      "topicSentence": "A legal right to privacy has limited value when exercising it requires expert knowledge and excessive time.",
+      "collocations": [
+        "provide meaningful consent",
+        "use plain language",
+        "offer accessible controls",
+        "prevent manipulative design"
+      ],
+      "argument": "Many platforms technically allow tracking to be disabled, yet hide the option across several menus while presenting acceptance in one bright button. This unequal design causes people to share data through fatigue rather than genuine agreement. Regulators should require equally visible choices and concise explanations at the moment information is requested. Such rules would not prevent personalised services; they would ensure that participation reflects a deliberate decision."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a time when you decided not to share some information online.",
+      "answer": "I once installed a fitness app that immediately asked for access to my contacts, precise location and photographs. Location made sense for mapping a run, but the other permissions seemed unrelated. I checked the settings and discovered that contact access was mainly intended for finding friends on the platform. I declined it and allowed location only while the app was open. The decision took a few minutes, and the app still performed the function I wanted. It made me realise that people often press “allow” simply because they are eager to start using a service. Since then, I have paid closer attention to whether a request is essential or merely useful to the company."
+    },
+    {
+      "part": "Part 3",
+      "question": "Should employers be allowed to examine applicants’ social-media accounts?",
+      "answer": "Only to a very limited extent. Public posts that directly demonstrate professional misconduct may be relevant, but casual photographs and old opinions rarely predict job performance. Screening also disadvantages applicants who use social media actively and can expose employers to information about religion, health or family status that should not influence selection. A better process would assess evidence related to the role and tell applicants in advance if a public professional profile will be reviewed. Private accounts should remain outside the recruitment process."
+    }
+  ],
+  "reading": {
+    "title": "The Afterlife of Location Data",
+    "paragraphs": [
+      "A location record appears temporary: a phone notes where it is, supplies directions and moves on. In practice, repeated coordinates can reveal a person’s home, workplace, medical visits and religious attendance. The sensitive information is often not a single point but the pattern produced when thousands of ordinary points are joined. For this reason, location privacy cannot be evaluated solely by asking whether a name has been removed.",
+      "A 2013 study examined fifteen months of mobile-phone mobility records from 1.5 million people. At the dataset’s hourly and carrier-antenna resolution, researchers found that four randomly selected points in time and space were enough to distinguish 95 per cent of individual traces. The finding did not mean that every person’s name was already present in the records; it showed how distinctive movement patterns can make supposedly anonymous data vulnerable when outside information is available.",
+      "Location services nevertheless have clear value. Transport authorities can estimate crowding, emergency teams can locate callers, and retailers can examine how customers move through a building. The relevant question is therefore not whether coordinates should ever be collected, but how much detail is necessary, how long it should survive and who may reuse it. Aggregating journeys into broad flows may answer a planning question without preserving individual routes.",
+      "Retention changes the balance of risk. Information gathered to manage today’s traffic may still exist years later, when it could be purchased by a different company or requested under rules that did not exist at collection. Users, who generally make a decision while opening an app, cannot realistically predict every future combination. Clear deletion schedules and restrictions on secondary use are consequently more meaningful than a promise that data will simply be handled responsibly.",
+      "Good governance begins by defining the task before collecting the trail. A service can reduce precision, process information on the device or discard raw coordinates after producing an aggregate. These choices may limit profitable future uses, which is precisely why voluntary restraint is difficult. Location data are not dangerous because movement should be secret; they require care because an unremarkable journey, preserved and connected to others, can become an intimate biography."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Removing a person’s name always makes location records anonymous.",
+        "answer": "False",
+        "explanation": "Paragraph 2 explains that movement patterns can allow individuals to be identified."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What does the writer identify as a useful way to answer some planning questions?",
+        "answer": "C",
+        "explanation": "Paragraph 3 says broad aggregate flows may be sufficient.",
+        "options": [
+          "Keeping every individual route permanently",
+          "Selling records to another organisation",
+          "Combining journeys into broad flows",
+          "Asking users to predict future uses"
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "The writer argues that good governance should define the ______ before collecting location data.",
+        "answer": "task",
+        "explanation": "The final paragraph begins by saying the task should be defined first."
+      }
+    ]
+  }
+}

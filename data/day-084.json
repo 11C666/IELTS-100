@@ -1,0 +1,348 @@
+{
+  "id": 84,
+  "topic": "Global Trade",
+  "topicCN": "全球贸易",
+  "category": "Economy",
+  "vocabulary": [
+    {
+      "word": "international trade",
+      "ipa": "/ˌɪntəˈnæʃənəl treɪd/",
+      "meaning": "国际贸易",
+      "collocation": "facilitate international trade",
+      "collocationCN": "促进国际贸易"
+    },
+    {
+      "word": "tariff",
+      "ipa": "/ˈtærɪf/",
+      "meaning": "关税",
+      "collocation": "impose a tariff",
+      "collocationCN": "征收关税"
+    },
+    {
+      "word": "trade barrier",
+      "ipa": "/treɪd ˈbæriə/",
+      "meaning": "贸易壁垒",
+      "collocation": "remove a trade barrier",
+      "collocationCN": "消除贸易壁垒"
+    },
+    {
+      "word": "comparative advantage",
+      "ipa": "/kəmˌpærətɪv ədˈvɑːntɪdʒ/",
+      "meaning": "比较优势",
+      "collocation": "exploit a comparative advantage",
+      "collocationCN": "利用比较优势"
+    },
+    {
+      "word": "supply chain",
+      "ipa": "/səˈplaɪ tʃeɪn/",
+      "meaning": "供应链",
+      "collocation": "strengthen a supply chain",
+      "collocationCN": "加强供应链"
+    },
+    {
+      "word": "customs clearance",
+      "ipa": "/ˈkʌstəmz ˌklɪərəns/",
+      "meaning": "清关",
+      "collocation": "speed up customs clearance",
+      "collocationCN": "加快清关"
+    },
+    {
+      "word": "trade agreement",
+      "ipa": "/treɪd əˈɡriːmənt/",
+      "meaning": "贸易协定",
+      "collocation": "negotiate a trade agreement",
+      "collocationCN": "谈判贸易协定"
+    },
+    {
+      "word": "export market",
+      "ipa": "/ˈekspɔːt ˌmɑːkɪt/",
+      "meaning": "出口市场",
+      "collocation": "enter an export market",
+      "collocationCN": "进入出口市场"
+    },
+    {
+      "word": "domestic producer",
+      "ipa": "/dəˌmestɪk prəˈdjuːsə/",
+      "meaning": "国内生产商",
+      "collocation": "protect domestic producers",
+      "collocationCN": "保护国内生产商"
+    },
+    {
+      "word": "foreign investment",
+      "ipa": "/ˈfɒrən ɪnˈvestmənt/",
+      "meaning": "外国投资",
+      "collocation": "attract foreign investment",
+      "collocationCN": "吸引外国投资"
+    },
+    {
+      "word": "trade deficit",
+      "ipa": "/treɪd ˈdefɪsɪt/",
+      "meaning": "贸易逆差",
+      "collocation": "reduce a trade deficit",
+      "collocationCN": "减少贸易逆差"
+    },
+    {
+      "word": "port capacity",
+      "ipa": "/pɔːt kəˈpæsəti/",
+      "meaning": "港口吞吐能力",
+      "collocation": "expand port capacity",
+      "collocationCN": "扩大港口吞吐能力"
+    },
+    {
+      "word": "rules of origin",
+      "ipa": "/ruːlz əv ˈɒrɪdʒɪn/",
+      "meaning": "原产地规则",
+      "collocation": "comply with rules of origin",
+      "collocationCN": "遵守原产地规则"
+    },
+    {
+      "word": "trade dependence",
+      "ipa": "/treɪd dɪˈpendəns/",
+      "meaning": "贸易依赖",
+      "collocation": "reduce trade dependence",
+      "collocationCN": "降低贸易依赖"
+    },
+    {
+      "word": "export-oriented",
+      "ipa": "/ˈekspɔːt ˌɔːrientɪd/",
+      "meaning": "出口导向的",
+      "collocation": "an export-oriented industry",
+      "collocationCN": "出口导向型产业"
+    },
+    {
+      "word": "source locally",
+      "ipa": "/sɔːs ˈləʊkəli/",
+      "meaning": "在本地采购",
+      "collocation": "source materials locally",
+      "collocationCN": "在本地采购材料"
+    },
+    {
+      "word": "ship goods",
+      "ipa": "/ʃɪp ɡʊdz/",
+      "meaning": "运输货物",
+      "collocation": "ship goods overseas",
+      "collocationCN": "把货物运往海外"
+    },
+    {
+      "word": "pass costs on",
+      "ipa": "/pɑːs kɒsts ɒn/",
+      "meaning": "转嫁成本",
+      "collocation": "pass costs on to consumers",
+      "collocationCN": "把成本转嫁给消费者"
+    },
+    {
+      "word": "open up a market",
+      "ipa": "/ˈəʊpən ʌp ə ˈmɑːkɪt/",
+      "meaning": "开放市场",
+      "collocation": "open up a regional market",
+      "collocationCN": "开放区域市场"
+    },
+    {
+      "word": "weather disruption",
+      "ipa": "/ˈweðə dɪsˈrʌpʃən/",
+      "meaning": "天气造成的中断",
+      "collocation": "deal with weather disruption",
+      "collocationCN": "应对天气中断"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "buy from abroad",
+      "options": [
+        "import goods",
+        "purchase from overseas suppliers",
+        "source products internationally"
+      ],
+      "note": "source强调采购过程。"
+    },
+    {
+      "base": "sell overseas",
+      "options": [
+        "export",
+        "serve foreign markets",
+        "supply customers in other countries"
+      ],
+      "note": "serve a market是自然商业搭配。"
+    },
+    {
+      "base": "make trade easier",
+      "options": [
+        "facilitate trade",
+        "reduce commercial friction",
+        "simplify cross-border exchange"
+      ],
+      "note": "commercial friction包括程序和成本障碍。"
+    },
+    {
+      "base": "protect local firms",
+      "options": [
+        "support domestic producers",
+        "shield home industries",
+        "limit foreign competition faced by local businesses"
+      ],
+      "note": "shield通常暗示保护措施。"
+    },
+    {
+      "base": "depend on one country",
+      "options": [
+        "rely on a single supplier nation",
+        "have concentrated trade dependence",
+        "source essential goods from one external market"
+      ],
+      "note": "concentrated突出风险集中。"
+    },
+    {
+      "base": "delivery delay",
+      "options": [
+        "shipping disruption",
+        "an interruption to freight movement",
+        "a delay within an international supply chain"
+      ],
+      "note": "freight movement适合物流语境。"
+    },
+    {
+      "base": "trade rules",
+      "options": [
+        "commercial regulations",
+        "cross-border trading requirements",
+        "rules governing international exchange"
+      ],
+      "note": "governing表示管理约束。"
+    },
+    {
+      "base": "lower prices",
+      "options": [
+        "more affordable goods",
+        "reduced consumer prices",
+        "a decline in the retail cost of products"
+      ],
+      "note": "retail cost明确消费者端。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Although importing + product + can lower + cost, relying on + narrow source + leaves + group + vulnerable to + disruption.",
+      "cn": "虽然进口某产品可以降低成本，但依赖单一来源会使某群体容易受到中断影响。",
+      "example": "Although importing medical equipment can lower procurement costs, relying on one supplier leaves hospitals vulnerable to shipping disruption."
+    },
+    {
+      "pattern": "The extent to which + policy + benefits + group + depends on whether + practical condition.",
+      "cn": "某项政策在多大程度上使某群体受益，取决于某个实际条件是否成立。",
+      "example": "The extent to which a trade agreement benefits small exporters depends on whether customs procedures become easier to navigate."
+    },
+    {
+      "pattern": "Rather than choosing between + option A + and + option B, governments can + balanced action.",
+      "cn": "政府不必在两个选项中二选一，而可以采取兼顾双方的措施。",
+      "example": "Rather than choosing between open trade and complete self-sufficiency, governments can diversify suppliers for essential goods."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "get held up at customs",
+      "cn": "在海关被耽搁",
+      "example": "Our order got held up at customs for a week."
+    },
+    {
+      "text": "shop around for suppliers",
+      "cn": "比较多家供应商",
+      "example": "Small retailers shop around for suppliers when prices rise."
+    },
+    {
+      "text": "keep goods moving",
+      "cn": "维持货物流通",
+      "example": "Digital paperwork can keep goods moving through ports."
+    },
+    {
+      "text": "diversify supply chains",
+      "cn": "使供应链多元化",
+      "example": "Manufacturers diversified supply chains after repeated delays."
+    },
+    {
+      "text": "gain access to overseas markets",
+      "cn": "进入海外市场",
+      "example": "Trade agreements may help small firms gain access to overseas markets."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The country exports products to abroad.",
+      "correct": "The country exports products abroad.",
+      "why": "abroad前不使用to。"
+    },
+    {
+      "wrong": "Trade brings many economical benefits.",
+      "correct": "Trade brings many economic benefits.",
+      "why": "economic表示与经济有关；economical表示节省的。"
+    },
+    {
+      "wrong": "The tariff made prices to rise.",
+      "correct": "The tariff made prices rise.",
+      "why": "make后接不带to的动词原形。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Resilience requires diversification rather than full self-sufficiency.",
+      "topicSentence": "Countries can reduce trade risk without attempting to produce every essential good domestically.",
+      "collocations": [
+        "diversify external suppliers",
+        "maintain strategic reserves",
+        "avoid concentrated dependence",
+        "preserve gains from trade"
+      ],
+      "argument": "Domestic production can appear secure, but a local drought, strike or equipment failure may still interrupt supply. Buying from several regions spreads this exposure while allowing firms to retain the efficiency of specialised production. Strategic reserves can provide time to switch suppliers when essential goods are delayed. Complete self-sufficiency would duplicate capacity and raise prices for products that are rarely scarce. A mixed strategy therefore protects supply more effectively than replacing international trade altogether."
+    },
+    {
+      "viewpoint": "Trade support should focus on small firms’ administrative costs.",
+      "topicSentence": "Reducing paperwork can widen participation in export markets more fairly than offering general promotional campaigns.",
+      "collocations": [
+        "simplify customs documentation",
+        "meet product standards",
+        "lower fixed compliance costs",
+        "enter overseas markets"
+      ],
+      "argument": "A large company can employ specialists to interpret origin rules and product standards, whereas a small producer faces the same requirements with far fewer staff. This fixed cost may prevent an otherwise competitive firm from exporting at all. Shared advisory services and digital customs forms would reduce the burden at the point where it blocks entry. A general advertising campaign, by contrast, may mainly assist companies already operating abroad. Practical administrative support can make the benefits of a trade agreement accessible to a broader range of businesses."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a product from another country that you often use.",
+      "answer": "I regularly use a small Italian coffee maker that sits directly on the stove. I bought it several years ago because it is simple, durable and does not require paper filters or electrical parts. Although similar products are now made in many countries, I associate this particular design with Italian home coffee culture. It was not expensive, but importing it obviously involved transport and retail costs. What I value most is that replacement seals are widely available, so I can repair it rather than replace the whole item. I also like that the design has lasted for years, which makes the international purchase feel less wasteful."
+    },
+    {
+      "part": "Part 3",
+      "question": "Should countries try to produce more essential goods themselves?",
+      "answer": "They should maintain some domestic capacity, especially where a sudden shortage would threaten health or basic services. However, producing every component locally would be expensive and may simply replace external risk with dependence on one domestic factory. A better approach is to combine local capability, several foreign suppliers and sensible reserves. Governments also need to identify what is genuinely essential rather than using security as a reason to protect any industry from competition. Strategic reserves can then cover the time needed to switch suppliers when an unexpected disruption occurs."
+    }
+  ],
+  "reading": {
+    "title": "The Border Delay Hidden in a Small Parcel",
+    "paragraphs": [
+      "For a multinational exporter, customs paperwork is a routine cost distributed across thousands of containers. For a craft business sending one parcel abroad, the same border can occupy an entire afternoon. The difference helps explain why lowering tariffs does not automatically enable small firms to trade internationally. A product may face no import duty and still be delayed because its maker selected the wrong commodity code or supplied inadequate evidence of origin.",
+      "Researchers examining parcel records from an electronic marketplace found that first-time exporters experienced substantially more returns than established sellers. Most failures were not caused by prohibited goods. Addresses had been entered in the wrong format, tax had not been collected through the required system, or a product description was too vague for customs staff to classify it. After a seller completed five successful shipments, delay rates fell sharply, suggesting that experience—not product quality—was removing friction.",
+      "The marketplace responded by embedding guidance in the order process. Instead of directing sellers to a long customs manual, it requested specific information when a destination required it and translated ordinary descriptions into likely classification codes. Human review remained available for unusual goods. Within a year, unsuccessful first shipments declined, although sellers in food and cosmetics still faced complex safety requirements that no redesigned form could eliminate.",
+      "Simplification has limits. Customs authorities need accurate information to collect revenue, protect consumers and enforce environmental rules. An effortless border for the sender may transfer work to officials or create opportunities for fraud. The useful distinction is therefore between necessary control and avoidable confusion. Small exporters do not require the absence of rules; they require rules presented at the moment a decision is made. When trade policy overlooks this practical layer, an agreement celebrated in national statistics may never reach the workshop that has only one parcel to send."
+    ],
+    "questions": [
+      {
+        "type": "Sentence Completion",
+        "prompt": "For large exporters, paperwork costs are spread across thousands of ______.",
+        "answer": "containers",
+        "explanation": "Paragraph 1 provides this comparison."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Most first-time export failures involved goods that were legally prohibited.",
+        "answer": "False",
+        "explanation": "Paragraph 2 says most failures were not caused by prohibited goods."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains why all customs procedures cannot simply be removed?",
+        "answer": "D",
+        "explanation": "Paragraph D lists revenue, consumer and environmental functions."
+      }
+    ]
+  }
+}

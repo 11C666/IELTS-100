@@ -1,0 +1,355 @@
+{
+  "id": 42,
+  "topic": "City Life",
+  "topicCN": "城市生活",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "neighbourhood",
+      "ipa": "/ˈneɪbəhʊd/",
+      "meaning": "社区；街区",
+      "collocation": "a lively neighbourhood",
+      "collocationCN": "充满活力的街区"
+    },
+    {
+      "word": "amenity",
+      "ipa": "/əˈmiːnəti/",
+      "meaning": "生活便利设施",
+      "collocation": "access local amenities",
+      "collocationCN": "使用本地生活设施"
+    },
+    {
+      "word": "high-rise",
+      "ipa": "/ˈhaɪ raɪz/",
+      "meaning": "高层建筑",
+      "collocation": "live in a high-rise",
+      "collocationCN": "住在高层住宅中"
+    },
+    {
+      "word": "suburb",
+      "ipa": "/ˈsʌbɜːb/",
+      "meaning": "郊区",
+      "collocation": "move to the suburbs",
+      "collocationCN": "搬到郊区"
+    },
+    {
+      "word": "walkable",
+      "ipa": "/ˈwɔːkəbəl/",
+      "meaning": "适宜步行的",
+      "collocation": "create a walkable neighbourhood",
+      "collocationCN": "建设适宜步行的社区"
+    },
+    {
+      "word": "green space",
+      "ipa": "/ˈɡriːn speɪs/",
+      "meaning": "城市绿地",
+      "collocation": "preserve urban green space",
+      "collocationCN": "保护城市绿地"
+    },
+    {
+      "word": "rent",
+      "ipa": "/rent/",
+      "meaning": "租金",
+      "collocation": "afford the monthly rent",
+      "collocationCN": "负担每月房租"
+    },
+    {
+      "word": "skyline",
+      "ipa": "/ˈskaɪlaɪn/",
+      "meaning": "城市天际线",
+      "collocation": "transform the city skyline",
+      "collocationCN": "改变城市天际线"
+    },
+    {
+      "word": "regeneration",
+      "ipa": "/rɪˌdʒenəˈreɪʃən/",
+      "meaning": "城市更新",
+      "collocation": "an urban regeneration project",
+      "collocationCN": "城市更新项目"
+    },
+    {
+      "word": "gentrification",
+      "ipa": "/ˌdʒentrɪfɪˈkeɪʃən/",
+      "meaning": "中产阶层化；绅士化",
+      "collocation": "gentrification displaces residents",
+      "collocationCN": "社区绅士化迫使居民迁离"
+    },
+    {
+      "word": "public realm",
+      "ipa": "/ˌpʌblɪk ˈrelm/",
+      "meaning": "公共空间系统",
+      "collocation": "improve the public realm",
+      "collocationCN": "改善公共空间"
+    },
+    {
+      "word": "zoning",
+      "ipa": "/ˈzəʊnɪŋ/",
+      "meaning": "土地用途分区",
+      "collocation": "relax zoning rules",
+      "collocationCN": "放宽土地分区规定"
+    },
+    {
+      "word": "communal",
+      "ipa": "/kəˈmjuːnəl/",
+      "meaning": "公共共用的",
+      "collocation": "a communal garden",
+      "collocationCN": "公共花园"
+    },
+    {
+      "word": "street vendor",
+      "ipa": "/ˈstriːt vendə/",
+      "meaning": "街头摊贩",
+      "collocation": "support licensed street vendors",
+      "collocationCN": "支持持证街头摊贩"
+    },
+    {
+      "word": "mixed-use",
+      "ipa": "/ˌmɪkst ˈjuːs/",
+      "meaning": "混合用途的",
+      "collocation": "a mixed-use development",
+      "collocationCN": "混合用途开发项目"
+    },
+    {
+      "word": "housing shortage",
+      "ipa": "/ˈhaʊzɪŋ ˌʃɔːtɪdʒ/",
+      "meaning": "住房短缺",
+      "collocation": "tackle the housing shortage",
+      "collocationCN": "应对住房短缺"
+    },
+    {
+      "word": "nightlife",
+      "ipa": "/ˈnaɪtlaɪf/",
+      "meaning": "夜生活",
+      "collocation": "enjoy the city nightlife",
+      "collocationCN": "享受城市夜生活"
+    },
+    {
+      "word": "inner city",
+      "ipa": "/ˌɪnə ˈsɪti/",
+      "meaning": "市中心城区",
+      "collocation": "revitalise an inner-city district",
+      "collocationCN": "振兴市中心城区"
+    },
+    {
+      "word": "noise nuisance",
+      "ipa": "/ˈnɔɪz njuːsəns/",
+      "meaning": "噪声扰民",
+      "collocation": "report a noise nuisance",
+      "collocationCN": "举报噪声扰民"
+    },
+    {
+      "word": "sense of place",
+      "ipa": "/ˌsens əv ˈpleɪs/",
+      "meaning": "地方感；地域特色",
+      "collocation": "retain a strong sense of place",
+      "collocationCN": "保留鲜明的地域特色"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "support",
+      "options": [
+        "assistance",
+        "backing",
+        "provision"
+      ],
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论城市生活。"
+    },
+    {
+      "base": "different",
+      "options": [
+        "distinct",
+        "varied",
+        "diverse"
+      ],
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论城市生活。"
+    },
+    {
+      "base": "common",
+      "options": [
+        "widespread",
+        "frequently observed",
+        "part of everyday life"
+      ],
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论城市生活。"
+    },
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论城市生活。"
+    },
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论城市生活。"
+    },
+    {
+      "base": "change",
+      "options": [
+        "shift",
+        "development",
+        "transformation"
+      ],
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论城市生活。"
+    },
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论城市生活。"
+    },
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论城市生活。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "What draws people to + city feature + is not merely + attraction, but + opportunity.",
+      "cn": "吸引人们来到某城市事物的不只是……，还有……。",
+      "example": "What draws people to city centres is not merely entertainment, but the chance for unplanned encounters."
+    },
+    {
+      "pattern": "As + urban area + becomes denser, access to + resource + becomes increasingly important.",
+      "cn": "随着城市地区更加密集，获得某种资源变得愈发重要。",
+      "example": "As neighbourhoods become denser, access to quiet green space becomes increasingly important."
+    },
+    {
+      "pattern": "Unless + urban service + keeps pace with + growth, + negative outcome.",
+      "cn": "除非城市服务跟上某种增长，否则……。",
+      "example": "Unless public services keep pace with population growth, residents may experience declining living standards."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "the hustle and bustle",
+      "cn": "熙熙攘攘",
+      "example": "I enjoy the hustle and bustle of the city centre in small doses."
+    },
+    {
+      "text": "right on my doorstep",
+      "cn": "近在家门口",
+      "example": "Shops and cafés are right on my doorstep."
+    },
+    {
+      "text": "a fast pace of life",
+      "cn": "快节奏生活",
+      "example": "Some people find the fast pace of city life exhausting."
+    },
+    {
+      "text": "feel anonymous in a crowd",
+      "cn": "在人群中感到匿名或疏离",
+      "example": "It is possible to feel anonymous in a crowd despite living near thousands of people."
+    },
+    {
+      "text": "improve urban liveability",
+      "cn": "提升城市宜居性",
+      "example": "Quiet streets and local parks improve urban liveability."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "There are too much people in the city.",
+      "correct": "There are too many people in the city.",
+      "why": "people 是可数复数，用 many。"
+    },
+    {
+      "wrong": "The city is convenient to live.",
+      "correct": "The city is a convenient place to live.",
+      "why": "convenient 不能直接用此结构描述居住。"
+    },
+    {
+      "wrong": "I am used to live in a noisy area.",
+      "correct": "I am used to living in a noisy area.",
+      "why": "be used to 中的 to 是介词，后接动名词。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Density can improve access when services grow with population.",
+      "topicSentence": "Compact urban development can shorten journeys and support local facilities, but only when infrastructure is adequate.",
+      "collocations": [
+        "support compact development",
+        "provide local amenities",
+        "reduce travel distances",
+        "expand public capacity"
+      ],
+      "argument": "More residents within walking distance can support frequent transport, shops and public services that would not survive in a dispersed area. This reduces the need for long car journeys and gives people more daily choices nearby. However, density without schools, drainage or open space produces crowding rather than convenience. Planning permission should therefore be linked to timely investment in shared infrastructure. A compact city succeeds by concentrating access, not simply buildings."
+    },
+    {
+      "viewpoint": "Cities need places where spending money is optional.",
+      "topicSentence": "Public urban life depends on accessible spaces that do not require residents to become customers.",
+      "collocations": [
+        "protect public space",
+        "encourage social contact",
+        "host informal activity",
+        "serve diverse residents"
+      ],
+      "argument": "Cafés and shopping centres provide comfortable meeting places, but entry is indirectly conditional on consumption. Parks, squares and libraries allow teenagers, older people and low-income residents to remain without purchasing anything. Such spaces support observation, rest and weak social ties between neighbours who may not know one another well. Their maintenance is a public expense, yet the benefit is broad participation in city life. Commercial vitality should complement rather than replace a genuinely public realm."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What do you like most about living in a city?",
+      "answer": "I value having several useful places within a short distance. I can reach a supermarket, clinic and metro station without planning a whole trip. There is also more variety in food and cultural events. The convenience matters most on ordinary weekdays, not only when I want entertainment. That combination makes everyday urban life much easier to manage."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe an area of a city that you enjoy visiting.",
+      "answer": "I enjoy visiting an older riverside district that has narrow streets and small independent shops. The area is busiest at weekends, but I prefer going on weekday mornings when local residents are using the market. I usually walk along the river, buy something simple for lunch and spend time in a public garden nearby. What I like is the mixture of activity and quiet space. Historic buildings have been reused rather than turned into a single tourist attraction, so the district still feels lived in. Public transport is convenient, and I do not need a fixed plan once I arrive. The visit reminds me that a good urban area can support commerce, housing and ordinary relaxation at the same time."
+    }
+  ],
+  "reading": {
+    "title": "The Night-time City Is Not the Daytime City",
+    "paragraphs": [
+      "City plans often describe permanent features—roads, buildings and land uses—while urban experience changes sharply by the hour. A business district crowded at noon may be almost empty after offices close. A residential street that feels calm in daylight may become difficult to cross during an evening delivery period. Understanding city life therefore requires attention to time as well as space.",
+      "Night workers expose this difference. Hospital staff, cleaners, security guards and food workers travel when frequent daytime services have ended. A journey that requires one direct bus at six in the evening may require two connections at midnight. Survey data from several cities indicate that reduced off-peak frequency particularly affects workers with lower incomes, who are less able to substitute a taxi.",
+      "Public space also changes function. A square used by office workers for lunch may host teenagers later and early-morning deliveries afterwards. Conflict occurs when one group’s presence is treated as abnormal even though the design never stated whose use should take priority. Lighting can improve visibility, but excessive brightness disturbs residents and does not address harassment or an absence of open businesses.",
+      "Some authorities conduct night-time audits in which planners travel routes with workers, residents and disabled users. The exercise reveals locked entrances, long waits and streets where activity disappears suddenly. Small changes—coordinated timetables, a later public toilet or a well-positioned crossing—may improve access more than a major visual redesign.",
+      "A twenty-four-hour city need not remain equally active everywhere. Quiet periods are valuable, and residential areas require sleep. The aim is to recognise that essential life continues outside the hours when most planning meetings occur. When evidence is collected only from daytime conditions, the needs of night-time users remain visible in employment statistics but invisible in the design of the city that they keep operating. Seasonal darkness adds another variation. A route used comfortably at seven in summer may feel entirely different at the same hour in winter. Audits repeated across seasons can reveal vegetation blocking light, changes in footfall and weather exposure that a single visit misses. Time-sensitive planning therefore includes the calendar as well as the clock."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why are lower-income night workers especially affected by reduced services?",
+        "answer": "B",
+        "explanation": "They are less able to use taxis as an alternative.",
+        "options": [
+          "They work only in business districts.",
+          "They are less able to use taxis as an alternative.",
+          "They prefer travelling through dark squares.",
+          "They cannot use direct daytime buses."
+        ]
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer believes every district should be equally active throughout the night.",
+        "answer": "No",
+        "explanation": "The final paragraph says equal activity everywhere is unnecessary."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "Who participates with planners in the night-time audits described?",
+        "answer": "workers, residents and disabled users",
+        "explanation": "Paragraph 4 lists these groups."
+      }
+    ]
+  }
+}

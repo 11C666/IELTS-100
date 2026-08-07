@@ -1,0 +1,355 @@
+{
+  "id": 71,
+  "topic": "Animals and Conservation",
+  "topicCN": "动物与保护",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "habitat",
+      "ipa": "/ˈhæbɪtæt/",
+      "meaning": "栖息地",
+      "collocation": "restore a natural habitat",
+      "collocationCN": "恢复自然栖息地"
+    },
+    {
+      "word": "endangered",
+      "ipa": "/ɪnˈdeɪndʒəd/",
+      "meaning": "濒危的",
+      "collocation": "protect endangered species",
+      "collocationCN": "保护濒危物种"
+    },
+    {
+      "word": "extinction",
+      "ipa": "/ɪkˈstɪŋkʃn/",
+      "meaning": "灭绝",
+      "collocation": "prevent species extinction",
+      "collocationCN": "防止物种灭绝"
+    },
+    {
+      "word": "conservation",
+      "ipa": "/ˌkɒnsəˈveɪʃn/",
+      "meaning": "自然保护",
+      "collocation": "fund wildlife conservation",
+      "collocationCN": "资助野生动物保护"
+    },
+    {
+      "word": "poaching",
+      "ipa": "/ˈpəʊtʃɪŋ/",
+      "meaning": "偷猎",
+      "collocation": "combat illegal poaching",
+      "collocationCN": "打击非法偷猎"
+    },
+    {
+      "word": "ecosystem",
+      "ipa": "/ˈiːkəʊsɪstəm/",
+      "meaning": "生态系统",
+      "collocation": "maintain a healthy ecosystem",
+      "collocationCN": "维持健康的生态系统"
+    },
+    {
+      "word": "migration corridor",
+      "ipa": "/maɪˈɡreɪʃn ˌkɒrɪdɔː(r)/",
+      "meaning": "迁徙廊道",
+      "collocation": "protect a migration corridor",
+      "collocationCN": "保护迁徙廊道"
+    },
+    {
+      "word": "breeding programme",
+      "ipa": "/ˈbriːdɪŋ ˌprəʊɡræm/",
+      "meaning": "繁育计划",
+      "collocation": "run a captive breeding programme",
+      "collocationCN": "实施人工繁育计划"
+    },
+    {
+      "word": "population decline",
+      "ipa": "/ˌpɒpjuˈleɪʃn dɪklaɪn/",
+      "meaning": "种群数量下降",
+      "collocation": "reverse population decline",
+      "collocationCN": "扭转种群数量下降"
+    },
+    {
+      "word": "native species",
+      "ipa": "/ˈneɪtɪv ˌspiːʃiːz/",
+      "meaning": "本土物种",
+      "collocation": "reintroduce a native species",
+      "collocationCN": "重新引入本土物种"
+    },
+    {
+      "word": "invasive",
+      "ipa": "/ɪnˈveɪsɪv/",
+      "meaning": "入侵性的",
+      "collocation": "control invasive species",
+      "collocationCN": "控制入侵物种"
+    },
+    {
+      "word": "predator",
+      "ipa": "/ˈpredətə(r)/",
+      "meaning": "捕食者",
+      "collocation": "restore an apex predator",
+      "collocationCN": "恢复顶级捕食者"
+    },
+    {
+      "word": "biodiversity hotspot",
+      "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti ˈhɒtspɒt/",
+      "meaning": "生物多样性热点地区",
+      "collocation": "safeguard a biodiversity hotspot",
+      "collocationCN": "保护生物多样性热点地区"
+    },
+    {
+      "word": "wildlife trade",
+      "ipa": "/ˈwaɪldlaɪf treɪd/",
+      "meaning": "野生动物贸易",
+      "collocation": "regulate the wildlife trade",
+      "collocationCN": "规范野生动物贸易"
+    },
+    {
+      "word": "stewardship",
+      "ipa": "/ˈstjuːədʃɪp/",
+      "meaning": "管护",
+      "collocation": "support community stewardship",
+      "collocationCN": "支持社区管护"
+    },
+    {
+      "word": "track an animal",
+      "ipa": "/træk ən ˈænɪml/",
+      "meaning": "追踪动物",
+      "collocation": "track an animal by satellite",
+      "collocationCN": "通过卫星追踪动物"
+    },
+    {
+      "word": "keep a safe distance",
+      "ipa": "/kiːp ə ˌseɪf ˈdɪstəns/",
+      "meaning": "保持安全距离",
+      "collocation": "keep a safe distance from wildlife",
+      "collocationCN": "与野生动物保持安全距离"
+    },
+    {
+      "word": "come into conflict with",
+      "ipa": "/kʌm ˌɪntə ˈkɒnflɪkt wɪð/",
+      "meaning": "与某方发生冲突",
+      "collocation": "come into conflict with farmers",
+      "collocationCN": "与农民发生冲突"
+    },
+    {
+      "word": "release into the wild",
+      "ipa": "/rɪˌliːs ɪntə ðə ˈwaɪld/",
+      "meaning": "放归野外",
+      "collocation": "release rescued birds into the wild",
+      "collocationCN": "将获救鸟类放归野外"
+    },
+    {
+      "word": "raise public awareness",
+      "ipa": "/reɪz ˌpʌblɪk əˈweənəs/",
+      "meaning": "提高公众意识",
+      "collocation": "raise public awareness of illegal trade",
+      "collocationCN": "提高公众对非法贸易的认识"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "protect wildlife",
+      "options": [
+        "conserve animal populations",
+        "safeguard wild species",
+        "preserve fauna"
+      ],
+      "note": "fauna 是某地区动物群的正式表达。"
+    },
+    {
+      "base": "animals are disappearing",
+      "options": [
+        "populations are declining",
+        "species are becoming scarce",
+        "wildlife numbers are falling"
+      ],
+      "note": "population decline 比 disappearing 更准确。"
+    },
+    {
+      "base": "natural home",
+      "options": [
+        "habitat",
+        "ecological range",
+        "the environment a species occupies"
+      ],
+      "note": "ecological range 侧重物种活动分布范围。"
+    },
+    {
+      "base": "illegal hunting",
+      "options": [
+        "poaching",
+        "unlawful killing of wildlife",
+        "prohibited hunting"
+      ],
+      "note": "poaching 常指为交易或获取动物部位而非法猎捕。"
+    },
+    {
+      "base": "bring a species back",
+      "options": [
+        "reintroduce a species",
+        "restore a native population",
+        "return animals to their former range"
+      ],
+      "note": "reintroduce 强调人为放归原栖息范围。"
+    },
+    {
+      "base": "animals and people compete",
+      "options": [
+        "human–wildlife conflict occurs",
+        "wildlife comes into conflict with communities",
+        "people and animals make competing claims on resources"
+      ],
+      "note": "competing claims 适合土地和水资源讨论。"
+    },
+    {
+      "base": "variety of life",
+      "options": [
+        "biological diversity",
+        "the range of living species",
+        "ecosystem diversity"
+      ],
+      "note": "biological diversity 是 biodiversity 的完整表达。"
+    },
+    {
+      "base": "successful protection",
+      "options": [
+        "effective conservation",
+        "a positive recovery outcome",
+        "measurable ecological improvement"
+      ],
+      "note": "recovery outcome 常用于种群恢复项目。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Protecting + a threatened species + requires not only + action against direct harm, but also + protection of its habitat.",
+      "cn": "保护某物种不仅需要采取直接行动，还需要采取栖息地层面的措施。",
+      "example": "Protecting sea turtles requires not only preventing egg collection, but also reducing artificial light near nesting beaches."
+    },
+    {
+      "pattern": "Where + an animal + depends on + a migration corridor, the loss of even a narrow area can + divide the population.",
+      "cn": "当某种动物依赖某类景观要素时，即使失去一小片区域也会造成某种后果。",
+      "example": "Where elephants depend on seasonal migration routes, the loss of even a narrow corridor can isolate entire populations."
+    },
+    {
+      "pattern": "Unless conservation provides + a fair benefit to local communities, residents who bear + its costs + may be unwilling to + support it.",
+      "cn": "除非自然保护能为社区带来某种益处，否则承担某种成本的居民可能不愿采取相关行动。",
+      "example": "Unless conservation provides reliable local income, residents who bear crop losses may be unwilling to tolerate large animals nearby."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "in the wild",
+      "cn": "在野外",
+      "example": "Only a few hundred individuals remain in the wild."
+    },
+    {
+      "text": "on the brink of extinction",
+      "cn": "濒临灭绝",
+      "example": "The species was once on the brink of extinction."
+    },
+    {
+      "text": "leave wildlife undisturbed",
+      "cn": "不打扰野生动物",
+      "example": "Visitors should leave nesting birds undisturbed."
+    },
+    {
+      "text": "strike a balance between conservation and livelihoods",
+      "cn": "在保护与生计之间取得平衡",
+      "example": "The reserve must strike a balance between conservation and livelihoods."
+    },
+    {
+      "text": "play a vital role in the ecosystem",
+      "cn": "在生态系统中发挥关键作用",
+      "example": "Pollinating insects play a vital role in the ecosystem."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "This animal is in danger of extinct.",
+      "correct": "This animal is in danger of extinction.",
+      "why": "介词 of 后需要名词 extinction。"
+    },
+    {
+      "wrong": "Many wild animals have lost their habitats because human activity.",
+      "correct": "Many wild animals have lost their habitats because of human activity.",
+      "why": "because 后接从句，because of 后接名词短语。"
+    },
+    {
+      "wrong": "The government should protect animals from to be hunted.",
+      "correct": "The government should protect animals from being hunted.",
+      "why": "protect somebody from 后接动名词。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Conservation should reward people who live with wildlife.",
+      "topicSentence": "Species protection is more durable when local communities receive benefits and practical help with its costs.",
+      "collocations": [
+        "share tourism revenue",
+        "compensate verified losses",
+        "support community rangers",
+        "reduce human–wildlife conflict"
+      ],
+      "argument": "A distant public may value elephants simply because they exist, while a nearby farmer may lose a season’s crop to them overnight. Asking that farmer to absorb the entire cost turns a global conservation benefit into a private burden. Revenue-sharing, rapid compensation and locally employed ranger teams can make wildlife an asset rather than only a risk. In Namibia, community conservancies have linked tourism income and local management in several regions. Such arrangements do not remove every conflict, but they give residents a practical reason to report poaching and maintain habitat."
+    },
+    {
+      "viewpoint": "Connectivity can matter more than the total size of protected land.",
+      "topicSentence": "A network of linked habitats may protect mobile species better than isolated reserves with a larger combined area.",
+      "collocations": [
+        "connect fragmented habitats",
+        "maintain migration routes",
+        "preserve genetic diversity",
+        "plan across boundaries"
+      ],
+      "argument": "Animals that migrate cannot complete their life cycle inside a reserve drawn around only a breeding or feeding site. Roads and farms between protected areas may block movement, separate breeding populations and increase collisions. Wildlife crossings or negotiated corridors can reconnect key sections without excluding all human use from the wider landscape. Their design must follow tracking evidence because an attractive strip of vegetation is useless if animals do not use it. Comparing isolated acreage alone can therefore conceal whether conservation land functions as an ecological network."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a wild animal that you would like to learn more about.",
+      "answer": "I would like to learn more about the pangolin. I first saw one in a short wildlife documentary and was surprised by its scales and the way it curls into a ball when threatened. It looks almost prehistoric, but it is a shy mammal that mainly eats ants and termites. I later read that several pangolin species are threatened by illegal trade, which made me wonder how conservation teams monitor an animal that is active at night and difficult to observe. I’d especially like to know how large an area it needs and whether rescued animals can adapt after being released. Learning those details would make the conservation problem feel more concrete than simply hearing that the animal is endangered."
+    },
+    {
+      "part": "Part 3",
+      "question": "Is it reasonable to spend money protecting species that most people will never see?",
+      "answer": "Yes, because direct human enjoyment is not the only measure of value. An unfamiliar insect or amphibian may perform an ecological function that supports soil, water or other species. We also do not fully understand every relationship before a population disappears, so extinction closes options permanently. However, conservation budgets should use evidence and consider local people rather than funding an animal only because it has an appealing image. Protecting habitat can often benefit several species and communities at once. The strongest case combines ecological importance, feasibility and fairness, not simply popularity."
+    }
+  ],
+  "reading": {
+    "title": "The Fence with a Seasonal Gate",
+    "paragraphs": [
+      "A fence around a reserve seems to draw a clear line between protection and threat. It can reduce poaching, prevent livestock from transmitting disease and keep large animals away from crops. In landscapes where wildlife moves with rainfall, however, a permanent barrier may also separate animals from the water and grazing that enabled them to survive before the reserve existed. Managers in one semi-arid region addressed this problem not by removing the entire fence, but by opening selected gates during part of the year.",
+      "The timing is based on satellite collars fitted to a small number of antelope and on reports from herders beyond the reserve. When temporary pools form after rain, animals historically move north; during the dry season, they return towards permanent water inside the protected area. A gate opened according to a fixed calendar would fail in years when rain arrives late. Rangers therefore use vegetation, water and movement data to decide when access is useful.",
+      "Opening a gate transfers risk as well as opportunity. Antelope may reach better grazing, yet they may also encounter roads, farms and unprotected land. Herders fear competition with cattle, while veterinary officers worry that contact could spread disease in either direction. Before the first trial, local representatives mapped livestock routes and agreed on zones where additional water troughs would reduce crowding. Compensation rules were established for verified crop damage, although claims have remained rare.",
+      "Monitoring produced an unexpected result. The gate was used not only by the target antelope but by smaller mammals whose movements had not been studied. This strengthened the ecological case for seasonal access, while making it harder to attribute changes in vegetation to one species. Researchers, who had initially planned to count only crossings, expanded the project to compare grazing pressure and predator activity on both sides.",
+      "The scheme does not prove that every conservation fence needs a gate. Some boundaries protect animals from intense settlement or an active disease outbreak, and opening them would be irresponsible. It does show that a barrier can be managed as a changing tool rather than treated as a permanent answer. In an environment governed by irregular rain, flexible protection may be more realistic than a line that ignores the season."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why is the gate not opened according to a fixed calendar?",
+        "answer": "C",
+        "explanation": "Paragraph 2 explains that rainfall and useful grazing do not occur at the same time every year.",
+        "options": [
+          "Satellite collars stop working in the dry season.",
+          "Herders refuse to report animal movements.",
+          "The timing of rainfall varies from year to year.",
+          "Antelope always remain near permanent water."
+        ]
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph mentions researchers broadening what they measured?",
+        "answer": "D",
+        "explanation": "Paragraph D explains that the monitoring expanded beyond counting crossings."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The writer argues that all reserve fences should include seasonal gates.",
+        "answer": "False",
+        "explanation": "The final paragraph explicitly says the scheme does not apply to every fence."
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/ielts-day.schema.json",
+  "title": "IELTS 100-Day Topic",
+  "type": "object",
+  "required": ["id","topic","topicCN","category","vocabulary","paraphrases","sentences","expressions","mistakes","writingIdeas","speaking","reading"],
+  "properties": {
+    "id":{"type":"integer","minimum":1,"maximum":100},"topic":{"type":"string"},"topicCN":{"type":"string"},"category":{"type":"string"},
+    "vocabulary":{"type":"array","minItems":20,"maxItems":20,"items":{"type":"object","required":["word","ipa","meaning","collocation","collocationCN"]}},
+    "paraphrases":{"type":"array","minItems":8,"maxItems":8},"sentences":{"type":"array","minItems":3,"maxItems":3},"expressions":{"type":"array","minItems":5,"maxItems":5},"mistakes":{"type":"array","minItems":3,"maxItems":3},
+    "writingIdeas":{"type":"array","minItems":2,"maxItems":2},"speaking":{"type":"array","minItems":2,"maxItems":2},
+    "reading":{"type":"object","required":["title","paragraphs","questions"],"properties":{"paragraphs":{"type":"array","minItems":3,"maxItems":5},"questions":{"type":"array","minItems":3,"maxItems":3}}}
+  }
+}

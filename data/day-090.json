@@ -1,0 +1,349 @@
+{
+  "id": 90,
+  "topic": "Urbanisation",
+  "topicCN": "城市化",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "urbanisation",
+      "ipa": "/ˌɜːbənaɪˈzeɪʃən/",
+      "meaning": "城市化",
+      "collocation": "rapid urbanisation",
+      "collocationCN": "快速城市化"
+    },
+    {
+      "word": "population density",
+      "ipa": "/ˌpɒpjəˈleɪʃən ˈdensəti/",
+      "meaning": "人口密度",
+      "collocation": "manage population density",
+      "collocationCN": "管理人口密度"
+    },
+    {
+      "word": "urban sprawl",
+      "ipa": "/ˈɜːbən sprɔːl/",
+      "meaning": "城市蔓延",
+      "collocation": "contain urban sprawl",
+      "collocationCN": "遏制城市蔓延"
+    },
+    {
+      "word": "informal settlement",
+      "ipa": "/ɪnˌfɔːməl ˈsetəlmənt/",
+      "meaning": "非正规住区",
+      "collocation": "upgrade informal settlements",
+      "collocationCN": "改善非正规住区"
+    },
+    {
+      "word": "housing supply",
+      "ipa": "/ˈhaʊzɪŋ səˌplaɪ/",
+      "meaning": "住房供应",
+      "collocation": "expand housing supply",
+      "collocationCN": "扩大住房供应"
+    },
+    {
+      "word": "public transit",
+      "ipa": "/ˌpʌblɪk ˈtrænzɪt/",
+      "meaning": "公共交通",
+      "collocation": "invest in public transit",
+      "collocationCN": "投资公共交通"
+    },
+    {
+      "word": "land-use planning",
+      "ipa": "/ˈlænd juːs ˌplænɪŋ/",
+      "meaning": "土地利用规划",
+      "collocation": "coordinate land-use planning",
+      "collocationCN": "协调土地规划"
+    },
+    {
+      "word": "infrastructure deficit",
+      "ipa": "/ˈɪnfrəstrʌktʃə ˌdefɪsɪt/",
+      "meaning": "基础设施缺口",
+      "collocation": "address an infrastructure deficit",
+      "collocationCN": "弥补基础设施缺口"
+    },
+    {
+      "word": "commuter belt",
+      "ipa": "/kəˈmjuːtə belt/",
+      "meaning": "通勤带",
+      "collocation": "live in the commuter belt",
+      "collocationCN": "住在通勤带"
+    },
+    {
+      "word": "mixed-use district",
+      "ipa": "/ˌmɪkst juːs ˈdɪstrɪkt/",
+      "meaning": "混合用途城区",
+      "collocation": "develop a mixed-use district",
+      "collocationCN": "建设混合功能区"
+    },
+    {
+      "word": "zoning regulation",
+      "ipa": "/ˈzəʊnɪŋ ˌreɡjəleɪʃən/",
+      "meaning": "分区规划条例",
+      "collocation": "relax zoning regulations",
+      "collocationCN": "放宽分区条例"
+    },
+    {
+      "word": "urban renewal",
+      "ipa": "/ˌɜːbən rɪˈnjuːəl/",
+      "meaning": "城市更新",
+      "collocation": "undertake urban renewal",
+      "collocationCN": "开展城市更新"
+    },
+    {
+      "word": "gentrification",
+      "ipa": "/ˌdʒentrɪfɪˈkeɪʃən/",
+      "meaning": "社区士绅化",
+      "collocation": "limit displacement through gentrification",
+      "collocationCN": "限制士绅化造成的迁离"
+    },
+    {
+      "word": "municipal service",
+      "ipa": "/mjuːˌnɪsɪpəl ˈsɜːvɪs/",
+      "meaning": "市政服务",
+      "collocation": "deliver municipal services",
+      "collocationCN": "提供市政服务"
+    },
+    {
+      "word": "affordable housing",
+      "ipa": "/əˌfɔːdəbəl ˈhaʊzɪŋ/",
+      "meaning": "可负担住房",
+      "collocation": "secure affordable housing",
+      "collocationCN": "保障可负担住房"
+    },
+    {
+      "word": "get around the city",
+      "ipa": "/ɡet əˌraʊnd ðə ˈsɪti/",
+      "meaning": "在城市中出行",
+      "collocation": "get around the city easily",
+      "collocationCN": "轻松在城中出行"
+    },
+    {
+      "word": "face a long commute",
+      "ipa": "/feɪs ə lɒŋ kəˈmjuːt/",
+      "meaning": "面临长时间通勤",
+      "collocation": "face a long daily commute",
+      "collocationCN": "每天长途通勤"
+    },
+    {
+      "word": "live within walking distance",
+      "ipa": "/lɪv wɪˌðɪn ˈwɔːkɪŋ ˌdɪstəns/",
+      "meaning": "住在步行距离内",
+      "collocation": "live within walking distance of work",
+      "collocationCN": "住在工作地点步行范围内"
+    },
+    {
+      "word": "price residents out",
+      "ipa": "/praɪs ˈrezɪdənts aʊt/",
+      "meaning": "使居民因价格上涨而被迫迁出",
+      "collocation": "price long-term residents out",
+      "collocationCN": "使长期居民无力留下"
+    },
+    {
+      "word": "make better use of space",
+      "ipa": "/meɪk ˌbetər juːs əv ˈspeɪs/",
+      "meaning": "更有效利用空间",
+      "collocation": "make better use of urban space",
+      "collocationCN": "更好利用城市空间"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "cities grow",
+      "options": [
+        "urban areas expand",
+        "urban populations increase",
+        "settlement becomes more concentrated"
+      ],
+      "note": "concentrated强调人口聚集。"
+    },
+    {
+      "base": "too many people",
+      "options": [
+        "high population density",
+        "intense pressure on urban space",
+        "a concentration of residents beyond service capacity"
+      ],
+      "note": "密度本身不一定负面。"
+    },
+    {
+      "base": "city spreads out",
+      "options": [
+        "urban sprawl occurs",
+        "development extends outwards",
+        "low-density settlement consumes peripheral land"
+      ],
+      "note": "sprawl通常含负面意味。"
+    },
+    {
+      "base": "cheap homes",
+      "options": [
+        "affordable housing",
+        "lower-cost accommodation",
+        "homes within ordinary households’ budgets"
+      ],
+      "note": "affordable取决于收入。"
+    },
+    {
+      "base": "improve old areas",
+      "options": [
+        "regenerate neighbourhoods",
+        "renew ageing districts",
+        "upgrade existing urban fabric"
+      ],
+      "note": "regenerate可能伴随居民迁离。"
+    },
+    {
+      "base": "travel to work",
+      "options": [
+        "commute",
+        "make a daily work journey",
+        "travel between home and the workplace"
+      ],
+      "note": "commute可作动词或名词。"
+    },
+    {
+      "base": "services cannot keep up",
+      "options": [
+        "infrastructure lags behind growth",
+        "urban systems become overstretched",
+        "service capacity fails to match demand"
+      ],
+      "note": "overstretched适合公共服务。"
+    },
+    {
+      "base": "people have to leave",
+      "options": [
+        "residents are displaced",
+        "households are priced out",
+        "long-standing communities are forced to relocate"
+      ],
+      "note": "priced out特指负担不起。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A city can accommodate + growth + without + negative result + if + planning condition.",
+      "cn": "如果满足某项规划条件，城市可以容纳增长而不造成某种负面结果。",
+      "example": "A city can accommodate more residents without longer commutes if housing is built near reliable transit."
+    },
+    {
+      "pattern": "What appears to be + urban improvement + may, for + affected group, mean + adverse effect.",
+      "cn": "表面上的城市改善，对受影响群体而言可能意味着某种不利后果。",
+      "example": "What appears to be neighbourhood renewal may, for low-income tenants, mean an unaffordable rent increase."
+    },
+    {
+      "pattern": "The closer + homes or services + are to + destination, the less + resource or time + residents need to + action.",
+      "cn": "住房或服务离目的地越近，居民完成某事所需的资源或时间就越少。",
+      "example": "The closer homes are to frequent bus routes, the less time residents need to spend driving."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "be priced out of the area",
+      "cn": "因价格上涨无法继续居住",
+      "example": "Young families are being priced out of the area."
+    },
+    {
+      "text": "spend hours in traffic",
+      "cn": "花数小时堵在路上",
+      "example": "Many commuters spend hours in traffic each week."
+    },
+    {
+      "text": "have everything close at hand",
+      "cn": "所需设施近在手边",
+      "example": "In a mixed-use district, residents have everything close at hand."
+    },
+    {
+      "text": "keep pace with urban growth",
+      "cn": "跟上城市增长速度",
+      "example": "Water networks must keep pace with urban growth."
+    },
+    {
+      "text": "create a liveable neighbourhood",
+      "cn": "营造宜居社区",
+      "example": "Good planning can create a liveable neighbourhood."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "More and more population moves to cities.",
+      "correct": "A growing proportion of the population is moving to cities.",
+      "why": "population通常不直接用more and more修饰。"
+    },
+    {
+      "wrong": "The city is convenient to live.",
+      "correct": "The city is convenient to live in.",
+      "why": "live是不及物动词，此处需保留介词in。"
+    },
+    {
+      "wrong": "Urbanisation causes the traffic crowded.",
+      "correct": "Urbanisation can make roads congested.",
+      "why": "crowded不用于cause something crowded这一结构；道路拥堵常说congested。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Compact development can shorten daily travel.",
+      "topicSentence": "Building homes near employment and public transport is more sustainable than allowing cities to spread indefinitely.",
+      "collocations": [
+        "contain urban sprawl",
+        "support public transit",
+        "reduce travel distances",
+        "develop mixed-use districts"
+      ],
+      "argument": "Low-density expansion usually separates housing from jobs and shops, making a private car the practical default. By contrast, a mixed-use district can place daily needs within walking distance and give frequent public transport enough passengers to operate efficiently. For example, new apartments above shops near a rail station use existing routes rather than requiring an entirely new road network. Density must still be accompanied by parks and adequate services. When designed around access rather than merely tall buildings, compact growth can save both land and commuting time."
+    },
+    {
+      "viewpoint": "Urban renewal must protect existing residents.",
+      "topicSentence": "Physical improvement should not be judged successful if the community that endured years of neglect can no longer afford to remain.",
+      "collocations": [
+        "prevent forced displacement",
+        "stabilise rental costs",
+        "upgrade public facilities",
+        "retain local businesses"
+      ],
+      "argument": "An ageing district may need safer buildings and better public space, but these changes often attract investment that raises rents. Long-term tenants and small shops then face displacement just as conditions improve. Requiring affordable units, offering secure leases and supporting local businesses can distribute the gains more fairly. A renewal programme in which only property values rise solves a construction problem while creating a social one. Its success should instead be measured by better living conditions and the proportion of original residents able to benefit from them."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a change in a city that improved people’s daily lives.",
+      "answer": "A useful change in my city was the conversion of a wide road beside a metro station into a mixed transport street. One traffic lane was replaced by a protected cycle route, wider pavements and safer crossings. Before the work, pedestrians had to wait through several signal changes, and buses were often trapped behind turning cars. The redesign looked disruptive while it was being built, but the finished street is easier to cross and the bus stops have proper shelters. Small shops have added outdoor seating because traffic noise has fallen. What impressed me is that the project did not depend on a landmark building. It improved ordinary journeys by giving limited street space to more kinds of users."
+    },
+    {
+      "part": "Part 3",
+      "question": "What problems arise when cities grow too quickly?",
+      "answer": "Housing and infrastructure often expand at different speeds. If formal housing is scarce, rents rise and lower-income residents may have to accept unsafe or distant accommodation. Roads, schools, drainage and clinics can become overcrowded because they were designed for a smaller population. Rapid growth can also consume agricultural land when planning is weak. The answer is not to stop people moving to cities, where genuine opportunities may exist, but to coordinate land, transport and service investment early enough. Local government also needs reliable population data, including residents of informal areas who are often missed."
+    }
+  ],
+  "reading": {
+    "title": "The Bus Route That Changed the Housing Map",
+    "paragraphs": [
+      "When a growing city opened a rapid bus corridor, transport officials measured success mainly through passenger numbers and journey times. Both improved. Years later, however, planners examining the neighbourhoods around its stations found a less straightforward result: access to fast transport had altered where developers built homes, but not always where lower-income passengers could afford to live.",
+      "The corridor used dedicated lanes and frequent services to connect peripheral districts with the employment centre. Land within an eight-minute walk of a station soon attracted apartment construction. Over the following years, these station areas added substantially more housing than comparable districts away from the route. Because zoning permitted shops below flats, several stops also developed into compact local centres, reducing the need for some journeys altogether.",
+      "Yet rents near the best-connected stations rose faster than the city average. Tenants whose work schedules made them particularly dependent on buses began moving beyond walking distance, where housing was cheaper but feeder services were infrequent. The infrastructure that had reduced geographical disadvantage was, through its effect on land value, gradually shifting some intended beneficiaries away from it. This outcome was not evidence that the bus corridor had failed; rather, it exposed the danger of treating transport and housing as separate policies.",
+      "The city later changed its planning rules. Public land beside three stations was reserved for below-market homes, while private projects received permission for additional floors if they included affordable units. Critics argued that construction would be slower and that the definition of affordability remained too broad. Supporters replied that a route financed by all taxpayers should not become an amenity available mainly to higher earners.",
+      "A transport map shows lines and stations, not rent contracts. Nevertheless, the usefulness of each line depends on who can reach it from home and at what cost. The city’s experience suggests that successful transit can create valuable urban land; planning determines whether that value broadens access or quietly rearranges exclusion."
+    ],
+    "questions": [
+      {
+        "type": "Summary Completion",
+        "prompt": "Complete the summary: Station areas gained more housing, but rising ______ pushed some bus-dependent tenants farther away.",
+        "answer": "rents",
+        "explanation": "Paragraph 3 identifies faster-rising rents as the cause."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer believes the rent increase proves the bus corridor was unsuccessful.",
+        "answer": "No",
+        "explanation": "The writer explicitly says it was not evidence of failure."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph describes incentives offered to private developers?",
+        "answer": "D",
+        "explanation": "Paragraph D mentions extra floors in exchange for affordable units."
+      }
+    ]
+  }
+}

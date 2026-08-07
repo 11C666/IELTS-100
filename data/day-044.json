@@ -1,0 +1,355 @@
+{
+  "id": 44,
+  "topic": "Health and Well-being",
+  "topicCN": "健康与幸福",
+  "category": "Health",
+  "vocabulary": [
+    {
+      "word": "well-being",
+      "ipa": "/ˌwel ˈbiːɪŋ/",
+      "meaning": "身心健康",
+      "collocation": "support emotional well-being",
+      "collocationCN": "促进情绪健康"
+    },
+    {
+      "word": "balanced diet",
+      "ipa": "/ˌbælənst ˈdaɪət/",
+      "meaning": "均衡饮食",
+      "collocation": "maintain a balanced diet",
+      "collocationCN": "保持均衡饮食"
+    },
+    {
+      "word": "sleep quality",
+      "ipa": "/ˈsliːp kwɒləti/",
+      "meaning": "睡眠质量",
+      "collocation": "improve sleep quality",
+      "collocationCN": "改善睡眠质量"
+    },
+    {
+      "word": "sedentary",
+      "ipa": "/ˈsedəntri/",
+      "meaning": "久坐不动的",
+      "collocation": "lead a sedentary lifestyle",
+      "collocationCN": "过久坐的生活"
+    },
+    {
+      "word": "stamina",
+      "ipa": "/ˈstæmɪnə/",
+      "meaning": "耐力",
+      "collocation": "build physical stamina",
+      "collocationCN": "增强体力耐力"
+    },
+    {
+      "word": "burnout",
+      "ipa": "/ˈbɜːnaʊt/",
+      "meaning": "身心耗竭",
+      "collocation": "recognise signs of burnout",
+      "collocationCN": "识别身心耗竭的迹象"
+    },
+    {
+      "word": "unwind",
+      "ipa": "/ʌnˈwaɪnd/",
+      "meaning": "放松",
+      "collocation": "unwind after work",
+      "collocationCN": "下班后放松"
+    },
+    {
+      "word": "hydrated",
+      "ipa": "/haɪˈdreɪtɪd/",
+      "meaning": "水分充足的",
+      "collocation": "stay properly hydrated",
+      "collocationCN": "保持充足水分"
+    },
+    {
+      "word": "mindfulness",
+      "ipa": "/ˈmaɪndfəlnəs/",
+      "meaning": "正念",
+      "collocation": "practise mindfulness",
+      "collocationCN": "练习正念"
+    },
+    {
+      "word": "self-care",
+      "ipa": "/ˌself ˈkeə/",
+      "meaning": "自我照护",
+      "collocation": "make time for self-care",
+      "collocationCN": "留时间照顾自己"
+    },
+    {
+      "word": "circadian rhythm",
+      "ipa": "/sɜːˌkeɪdiən ˈrɪðəm/",
+      "meaning": "昼夜节律",
+      "collocation": "maintain a regular circadian rhythm",
+      "collocationCN": "保持规律的昼夜节律"
+    },
+    {
+      "word": "nutritious",
+      "ipa": "/njuːˈtrɪʃəs/",
+      "meaning": "营养丰富的",
+      "collocation": "prepare a nutritious meal",
+      "collocationCN": "准备营养餐"
+    },
+    {
+      "word": "aches and pains",
+      "ipa": "/ˌeɪks ən ˈpeɪnz/",
+      "meaning": "身体酸痛",
+      "collocation": "ease everyday aches and pains",
+      "collocationCN": "缓解日常身体酸痛"
+    },
+    {
+      "word": "workout",
+      "ipa": "/ˈwɜːkaʊt/",
+      "meaning": "锻炼",
+      "collocation": "fit in a quick workout",
+      "collocationCN": "抽空快速锻炼"
+    },
+    {
+      "word": "coping strategy",
+      "ipa": "/ˈkəʊpɪŋ ˌstrætədʒi/",
+      "meaning": "应对策略",
+      "collocation": "adopt a healthy coping strategy",
+      "collocationCN": "采取健康的应对策略"
+    },
+    {
+      "word": "recharge",
+      "ipa": "/ˌriːˈtʃɑːdʒ/",
+      "meaning": "恢复精力",
+      "collocation": "take a break to recharge",
+      "collocationCN": "休息一下恢复精力"
+    },
+    {
+      "word": "portion",
+      "ipa": "/ˈpɔːʃən/",
+      "meaning": "一份食物；食量",
+      "collocation": "control portion sizes",
+      "collocationCN": "控制每餐分量"
+    },
+    {
+      "word": "screen time",
+      "ipa": "/ˈskriːn taɪm/",
+      "meaning": "屏幕使用时间",
+      "collocation": "cut down on screen time",
+      "collocationCN": "减少屏幕使用时间"
+    },
+    {
+      "word": "social connection",
+      "ipa": "/ˌsəʊʃəl kəˈnekʃən/",
+      "meaning": "社会联系",
+      "collocation": "maintain meaningful social connections",
+      "collocationCN": "维持有意义的社会联系"
+    },
+    {
+      "word": "health check-up",
+      "ipa": "/ˈhelθ tʃek ʌp/",
+      "meaning": "健康检查",
+      "collocation": "book a routine health check-up",
+      "collocationCN": "预约常规体检"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论健康与幸福。"
+    },
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论健康与幸福。"
+    },
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise the quality of"
+      ],
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论健康与幸福。"
+    },
+    {
+      "base": "reduce",
+      "options": [
+        "decrease",
+        "limit",
+        "bring down"
+      ],
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论健康与幸福。"
+    },
+    {
+      "base": "people",
+      "options": [
+        "individuals",
+        "members of the public",
+        "residents"
+      ],
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论健康与幸福。"
+    },
+    {
+      "base": "use",
+      "options": [
+        "make use of",
+        "adopt",
+        "rely on"
+      ],
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论健康与幸福。"
+    },
+    {
+      "base": "choice",
+      "options": [
+        "option",
+        "alternative",
+        "decision"
+      ],
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论健康与幸福。"
+    },
+    {
+      "base": "cause",
+      "options": [
+        "lead to",
+        "contribute to",
+        "give rise to"
+      ],
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论健康与幸福。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Well-being depends not only on + individual behaviour, but also on + surrounding condition.",
+      "cn": "幸福感不仅取决于个人行为，也取决于周围条件。",
+      "example": "Well-being depends not only on exercise, but also on whether people have time and safe places to be active."
+    },
+    {
+      "pattern": "People are more likely to maintain + healthy habit + when it is + practical property.",
+      "cn": "当健康习惯具有某种实际特征时，人们更可能坚持。",
+      "example": "People are more likely to maintain physical activity when it fits naturally into their routine."
+    },
+    {
+      "pattern": "Although + indicator + is associated with + health outcome, it should not be treated as + complete measure.",
+      "cn": "虽然某指标与健康结果相关，但不应把它当作完整衡量。",
+      "example": "Although body weight is associated with some health outcomes, it should not be treated as a complete measure of well-being."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "feel under the weather",
+      "cn": "感觉身体不适",
+      "example": "I felt under the weather and decided to rest."
+    },
+    {
+      "text": "get into a healthy routine",
+      "cn": "养成健康规律",
+      "example": "Walking after lunch helped me get into a healthy routine."
+    },
+    {
+      "text": "take care of my mental health",
+      "cn": "照顾心理健康",
+      "example": "I protect time alone to take care of my mental health."
+    },
+    {
+      "text": "get a good night’s sleep",
+      "cn": "睡个好觉",
+      "example": "I concentrate much better after a good night’s sleep."
+    },
+    {
+      "text": "improve overall well-being",
+      "cn": "改善整体幸福感",
+      "example": "Regular social contact can improve overall well-being."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Exercise is good for our healthy.",
+      "correct": "Exercise is good for our health.",
+      "why": "healthy 是形容词，介词后需要名词 health。"
+    },
+    {
+      "wrong": "I sleep very late every night.",
+      "correct": "I go to bed very late every night.",
+      "why": "sleep late 通常表示起床晚；入睡晚用 go to bed late。"
+    },
+    {
+      "wrong": "People should do more exercises.",
+      "correct": "People should get more exercise.",
+      "why": "exercise 表示运动量时通常不可数。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Health advice should be designed around sustainable routines.",
+      "topicSentence": "Small behaviours that fit daily life are often more valuable than demanding short-term programmes.",
+      "collocations": [
+        "establish a healthy routine",
+        "maintain regular activity",
+        "set realistic goals",
+        "support long-term adherence"
+      ],
+      "argument": "An intensive plan may produce rapid change but fail when work, care or illness interrupts it. Walking during an existing journey or preparing one reliable meal requires less motivation and can be repeated under ordinary conditions. Early success also builds confidence for further change. This does not mean every health need can be solved by small steps, particularly when clinical treatment is required. For population advice, however, sustainability should be treated as a central outcome rather than an afterthought."
+    },
+    {
+      "viewpoint": "Well-being policy must consider time and environment.",
+      "topicSentence": "Telling individuals to make healthy choices is inadequate when daily conditions make those choices costly or unsafe.",
+      "collocations": [
+        "address social conditions",
+        "provide safe public space",
+        "reduce time pressure",
+        "enable healthy choices"
+      ],
+      "argument": "A worker with unpredictable shifts cannot easily maintain sleep or attend a fixed exercise class. A neighbourhood without pavements turns walking into a risk rather than a free option. Information campaigns may increase knowledge while leaving these constraints unchanged. Employers and local authorities can influence schedules, green space and access to affordable food. Personal responsibility remains important, but it operates within conditions that policy helps create."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What helps you feel well during a busy week?",
+      "answer": "Regular sleep makes the biggest difference. If I stay up late several nights, exercise and healthy food become harder as well. I also try to take a short walk without my phone. It gives me a clear pause and usually improves my concentration afterwards. Even a brief routine helps me recover before the next demanding task."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a healthy habit you have developed.",
+      "answer": "A habit I developed is taking a walk after lunch on most working days. I began because I was sitting for several hours without noticing how stiff and unfocused I became. The walk is only about twenty minutes, so it does not require special clothes or a large block of time. I usually follow the same quiet route and leave my phone in my pocket. After a few weeks, it became connected to lunch rather than to motivation, which made it easier to maintain. It has not transformed my fitness dramatically, but I return to work more alert and sleep slightly better. I value the habit because it is modest enough to survive a busy schedule."
+    }
+  ],
+  "reading": {
+    "title": "Why Measuring Well-being Changes the Question",
+    "paragraphs": [
+      "Governments have traditionally used income, employment and life expectancy to describe how populations are doing. These measures remain important, but they do not capture whether people feel secure, connected or able to influence daily life. Well-being surveys attempt to add this perspective by asking respondents to evaluate life satisfaction, purpose or recent emotions.",
+      "The wording matters. A question about happiness yesterday may be strongly affected by weather or an argument, while a question about overall life satisfaction invites a broader judgement. Purpose is different again: someone caring for a sick relative may experience stress and meaning at the same time. Combining these responses into one number can hide distinctions that matter for policy.",
+      "Cultural comparison creates further difficulty. People use response scales differently and vary in how acceptable it is to claim high satisfaction. Translation may preserve literal meaning while changing the social tone of a question. Researchers therefore compare patterns over time and use several indicators rather than treating a small difference between countries as a precise ranking.",
+      "Subjective evidence can reveal problems that material measures miss. Two neighbourhoods with similar income may report different security because traffic, noise or social trust differs. Yet a high satisfaction score should not excuse unsafe housing or discrimination. People can adapt expectations to difficult circumstances, so objective conditions and personal evaluations need to be read together.",
+      "Measuring well-being does not provide an automatic policy target. Its value lies in changing what decision-makers investigate. If longer commuting is associated with lower satisfaction despite higher earnings, transport and housing enter the discussion. The survey is most useful not as a national happiness contest but as evidence about where apparently successful systems impose hidden costs on everyday life. Distribution within the population matters too. An average rise in life satisfaction can coexist with a severe decline among carers, unemployed residents or young adults. Reporting the range and examining repeated responses prevents the national figure from representing only the middle. Policy needs to know not just the typical score, but whose experience departs from it and under which conditions."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why is purpose different from recent happiness?",
+        "answer": "C",
+        "explanation": "A stressful activity such as caring can still feel meaningful.",
+        "options": [
+          "Purpose is measured only through income.",
+          "Purpose changes entirely with the weather.",
+          "A stressful activity such as caring can still feel meaningful.",
+          "Purpose cannot be translated into another language."
+        ]
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "A high satisfaction score proves that housing conditions are acceptable.",
+        "answer": "False",
+        "explanation": "Paragraph 4 warns that satisfaction should not excuse unsafe housing."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Well-being surveys are most useful as evidence of hidden ______ in everyday life.",
+        "answer": "costs",
+        "explanation": "The final sentence uses this phrase."
+      }
+    ]
+  }
+}

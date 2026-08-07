@@ -1,0 +1,355 @@
+{
+  "id": 13,
+  "topic": "Shopping Habits",
+  "topicCN": "购物习惯",
+  "category": "Daily Life",
+  "vocabulary": [
+    {
+      "word": "consumer",
+      "ipa": "/kənˈsjuːmə/",
+      "meaning": "消费者",
+      "collocation": "consumer behaviour",
+      "collocationCN": "消费者行为"
+    },
+    {
+      "word": "purchase",
+      "ipa": "/ˈpɜːtʃəs/",
+      "meaning": "购买",
+      "collocation": "make a purchase",
+      "collocationCN": "购买商品"
+    },
+    {
+      "word": "retailer",
+      "ipa": "/ˈriːteɪlə/",
+      "meaning": "零售商",
+      "collocation": "an online retailer",
+      "collocationCN": "网络零售商"
+    },
+    {
+      "word": "bargain",
+      "ipa": "/ˈbɑːɡən/",
+      "meaning": "便宜货",
+      "collocation": "find a bargain",
+      "collocationCN": "买到便宜货"
+    },
+    {
+      "word": "discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "meaning": "折扣",
+      "collocation": "offer a discount",
+      "collocationCN": "提供折扣"
+    },
+    {
+      "word": "refund",
+      "ipa": "/ˈriːfʌnd/",
+      "meaning": "退款",
+      "collocation": "request a refund",
+      "collocationCN": "申请退款"
+    },
+    {
+      "word": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "meaning": "收据",
+      "collocation": "keep the receipt",
+      "collocationCN": "保留收据"
+    },
+    {
+      "word": "budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "meaning": "预算",
+      "collocation": "stay within a budget",
+      "collocationCN": "不超预算"
+    },
+    {
+      "word": "affordable",
+      "ipa": "/əˈfɔːdəbl/",
+      "meaning": "负担得起的",
+      "collocation": "an affordable option",
+      "collocationCN": "价格可负担的选择"
+    },
+    {
+      "word": "durable",
+      "ipa": "/ˈdjʊərəbl/",
+      "meaning": "耐用的",
+      "collocation": "a durable product",
+      "collocationCN": "耐用产品"
+    },
+    {
+      "word": "brand",
+      "ipa": "/brænd/",
+      "meaning": "品牌",
+      "collocation": "a well-known brand",
+      "collocationCN": "知名品牌"
+    },
+    {
+      "word": "quality",
+      "ipa": "/ˈkwɒləti/",
+      "meaning": "质量",
+      "collocation": "assess product quality",
+      "collocationCN": "评估产品质量"
+    },
+    {
+      "word": "delivery",
+      "ipa": "/dɪˈlɪvəri/",
+      "meaning": "配送",
+      "collocation": "free home delivery",
+      "collocationCN": "免费送货上门"
+    },
+    {
+      "word": "return",
+      "ipa": "/rɪˈtɜːn/",
+      "meaning": "退货",
+      "collocation": "return an item",
+      "collocationCN": "退回商品"
+    },
+    {
+      "word": "impulse purchase",
+      "ipa": "/ˈɪmpʌls ˌpɜːtʃəs/",
+      "meaning": "冲动消费",
+      "collocation": "avoid impulse purchases",
+      "collocationCN": "避免冲动购买"
+    },
+    {
+      "word": "customer review",
+      "ipa": "/ˈkʌstəmə rɪˌvjuː/",
+      "meaning": "顾客评价",
+      "collocation": "read customer reviews",
+      "collocationCN": "阅读顾客评价"
+    },
+    {
+      "word": "compare prices",
+      "ipa": "/kəmˌpeə ˈpraɪsɪz/",
+      "meaning": "比价",
+      "collocation": "compare prices online",
+      "collocationCN": "在线比价"
+    },
+    {
+      "word": "shop around",
+      "ipa": "/ʃɒp əˈraʊnd/",
+      "meaning": "货比三家",
+      "collocation": "shop around for a better deal",
+      "collocationCN": "货比三家找优惠"
+    },
+    {
+      "word": "out of stock",
+      "ipa": "/ˌaʊt əv ˈstɒk/",
+      "meaning": "缺货",
+      "collocation": "temporarily out of stock",
+      "collocationCN": "暂时缺货"
+    },
+    {
+      "word": "value for money",
+      "ipa": "/ˌvæljuː fə ˈmʌni/",
+      "meaning": "物有所值",
+      "collocation": "offer good value for money",
+      "collocationCN": "物有所值"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "buy",
+      "options": [
+        "purchase",
+        "make a purchase",
+        "pay for"
+      ],
+      "note": "purchase 较正式，可作名词或动词。"
+    },
+    {
+      "base": "cheap",
+      "options": [
+        "affordable",
+        "inexpensive",
+        "low-cost"
+      ],
+      "note": "cheap 有时暗示质量差；affordable 更中性。"
+    },
+    {
+      "base": "good price",
+      "options": [
+        "good value for money",
+        "reasonable price",
+        "competitive price"
+      ],
+      "note": "value for money 同时考虑价格和质量。"
+    },
+    {
+      "base": "look at different shops",
+      "options": [
+        "shop around",
+        "compare retailers",
+        "explore alternatives"
+      ],
+      "note": "shop around 是高频口语。"
+    },
+    {
+      "base": "unplanned buying",
+      "options": [
+        "impulse purchase",
+        "spontaneous purchase",
+        "buy on impulse"
+      ],
+      "note": "buy on impulse 是动词表达。"
+    },
+    {
+      "base": "send back",
+      "options": [
+        "return an item",
+        "request an exchange",
+        "seek a refund"
+      ],
+      "note": "退货、换货和退款不是完全同义。"
+    },
+    {
+      "base": "last a long time",
+      "options": [
+        "be durable",
+        "have a long lifespan",
+        "stand up to regular use"
+      ],
+      "note": "stand up to 强调经受使用。"
+    },
+    {
+      "base": "internet shopping",
+      "options": [
+        "online retail",
+        "e-commerce",
+        "shop online"
+      ],
+      "note": "e-commerce 常指行业或商业模式。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Before buying + item, I usually check whether + clause.",
+      "cn": "购买某物前，我通常会确认是否……",
+      "example": "Before buying an appliance, I usually check whether replacement parts are available."
+    },
+    {
+      "pattern": "A lower price does not necessarily mean that + clause.",
+      "cn": "更低的价格不一定意味着……",
+      "example": "A lower price does not necessarily mean that a product offers better value."
+    },
+    {
+      "pattern": "I am more willing to pay extra for + product + if + clause.",
+      "cn": "如果……，我更愿意为某产品多付钱。",
+      "example": "I am more willing to pay extra for shoes if they are comfortable and durable."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "shop around",
+      "cn": "货比三家",
+      "example": "I shopped around before choosing a new laptop."
+    },
+    {
+      "text": "buy something on impulse",
+      "cn": "冲动购买",
+      "example": "I bought the headphones on impulse and regretted it."
+    },
+    {
+      "text": "get a good deal",
+      "cn": "买到划算的商品",
+      "example": "We booked early and got a good deal."
+    },
+    {
+      "text": "worth the money",
+      "cn": "值得花这个钱",
+      "example": "The coat was expensive, but it was worth the money."
+    },
+    {
+      "text": "send something back",
+      "cn": "退回商品",
+      "example": "The size was wrong, so I sent it back."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I bought it with a cheap price.",
+      "correct": "I bought it at a low price.",
+      "why": "价格前使用介词 at；cheap 通常描述商品。"
+    },
+    {
+      "wrong": "This shop has many choices.",
+      "correct": "This shop offers a wide range of products.",
+      "why": "表达商品种类多时用 a wide range 更自然。"
+    },
+    {
+      "wrong": "I did an online shopping.",
+      "correct": "I did some shopping online.",
+      "why": "shopping 通常不可数，online 可放句末。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Repair information should be available before purchase.",
+      "topicSentence": "Consumers need durability and repair information to judge the true value of a product.",
+      "collocations": [
+        "expected lifespan",
+        "replacement parts",
+        "make an informed choice",
+        "reduce electronic waste"
+      ],
+      "argument": "Price and appearance are visible immediately, whereas repairability becomes important only after something fails. A cheap device with no replacement parts may cost more over time than a durable alternative. Clear labels could state whether batteries, screens or common components can be replaced. This would reward manufacturers that design products to last. Better information would help consumers save money and reduce waste simultaneously."
+    },
+    {
+      "viewpoint": "Online reviews are useful but should be read critically.",
+      "topicSentence": "Customer reviews provide practical details, although ratings can create a misleading impression of certainty.",
+      "collocations": [
+        "customer feedback",
+        "verified purchase",
+        "artificial review",
+        "evaluate a product"
+      ],
+      "argument": "Reviews often mention sizing, delivery or long-term use that advertisements ignore. However, extremely positive comments may be paid for, while dissatisfied customers can be more motivated to post than ordinary users. A single average score also hides whether complaints concern the product or the courier. Shoppers should read several detailed reviews and look for repeated observations. Reviews are evidence, but they are not a substitute for judgement."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you make a shopping list before buying things?",
+      "answer": "For groceries, yes, because otherwise I forget one essential item and buy three things I don’t need. I keep a simple list on my phone and add to it during the week. For clothes, I don’t use a written list, but I normally decide what gap I’m trying to fill before entering a shop."
+    },
+    {
+      "part": "Part 1",
+      "question": "What was the last thing you bought that you were pleased with?",
+      "answer": "It was a small desk lamp with adjustable brightness. I bought it because my old one produced a harsh light in the evening. This one takes up very little space and makes reading much more comfortable. It wasn’t a dramatic purchase, but I use it every day, so it has turned out to be excellent value."
+    }
+  ],
+  "reading": {
+    "title": "Why a Discount Feels Like a Gain",
+    "paragraphs": [
+      "A price reduction changes more than the amount paid. It creates a reference point: shoppers compare the sale price with the original figure and experience the difference as a gain. This can make an unwanted item feel attractive. The question quietly shifts from ‘Do I need this?’ to ‘How much am I saving?’, even though buying nothing would save more.",
+      "Retailers have long used temporary discounts to create urgency. A deadline suggests that delay has a cost, while a low-stock message implies competition from other buyers. These signals may contain genuine information, but they also reduce the time available for reflection. Online shops can repeat them continuously through countdowns, notifications and personalised offers.",
+      "Not every discounted purchase is irrational. Seasonal sales allow households to buy planned items for less, and reduced food near its expiry date can benefit both the shopper and retailer. The crucial difference is whether the need existed before the offer appeared. A written list or a waiting period restores the original question by separating the product from the excitement of the deal.",
+      "Consumers also judge discounts poorly when the starting price is unfamiliar. A claim of ‘half price’ is meaningful only if the earlier price was genuine and comparable products cost more. Price-comparison tools help, but quality, delivery and lifespan still matter. A bargain is not simply an item with a large percentage beside it; it is a suitable product whose total value remains good after the promotional language is removed.",
+      "Payment design creates another moment for reflection or haste. Stored card details and one-click checkout remove useful friction, making purchase almost immediate. Some shoppers deliberately leave items in an online basket overnight. The delay is short enough not to disrupt a necessary purchase but long enough for the excitement of scarcity or a discount to weaken."
+    ],
+    "questions": [
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer believes every discounted purchase is irrational.",
+        "answer": "No",
+        "explanation": "Paragraph 3 gives examples of reasonable discounted purchases."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "A deadline suggests that delaying a purchase has a ______.",
+        "answer": "cost",
+        "explanation": "Paragraph 2 states this directly."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What does the writer say is essential for judging a bargain?",
+        "options": [
+          "The largest possible percentage reduction",
+          "A product that remains suitable and good value",
+          "A message saying stock is low",
+          "Buying before comparing alternatives"
+        ],
+        "answer": "B",
+        "explanation": "The final sentence defines a bargain in these terms."
+      }
+    ]
+  }
+}

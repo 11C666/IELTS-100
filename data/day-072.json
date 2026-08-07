@@ -1,0 +1,355 @@
+{
+  "id": 72,
+  "topic": "Water Resources",
+  "topicCN": "水资源",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "freshwater",
+      "ipa": "/ˈfreʃwɔːtə(r)/",
+      "meaning": "淡水",
+      "collocation": "protect freshwater supplies",
+      "collocationCN": "保护淡水供应"
+    },
+    {
+      "word": "watershed",
+      "ipa": "/ˈwɔːtəʃed/",
+      "meaning": "流域",
+      "collocation": "manage an entire watershed",
+      "collocationCN": "管理整个流域"
+    },
+    {
+      "word": "aquifer",
+      "ipa": "/ˈækwɪfə(r)/",
+      "meaning": "含水层",
+      "collocation": "recharge an aquifer",
+      "collocationCN": "补充含水层"
+    },
+    {
+      "word": "groundwater",
+      "ipa": "/ˈɡraʊndwɔːtə(r)/",
+      "meaning": "地下水",
+      "collocation": "extract groundwater",
+      "collocationCN": "开采地下水"
+    },
+    {
+      "word": "reservoir",
+      "ipa": "/ˈrezəvwɑː(r)/",
+      "meaning": "水库",
+      "collocation": "maintain a reservoir",
+      "collocationCN": "维护水库"
+    },
+    {
+      "word": "scarcity",
+      "ipa": "/ˈskeəsəti/",
+      "meaning": "短缺",
+      "collocation": "address water scarcity",
+      "collocationCN": "应对水资源短缺"
+    },
+    {
+      "word": "drought",
+      "ipa": "/draʊt/",
+      "meaning": "干旱",
+      "collocation": "prepare for prolonged drought",
+      "collocationCN": "为长期干旱做准备"
+    },
+    {
+      "word": "runoff",
+      "ipa": "/ˈrʌnɒf/",
+      "meaning": "地表径流",
+      "collocation": "capture stormwater runoff",
+      "collocationCN": "收集雨水径流"
+    },
+    {
+      "word": "contamination",
+      "ipa": "/kənˌtæmɪˈneɪʃn/",
+      "meaning": "污染",
+      "collocation": "prevent groundwater contamination",
+      "collocationCN": "防止地下水污染"
+    },
+    {
+      "word": "sanitation",
+      "ipa": "/ˌsænɪˈteɪʃn/",
+      "meaning": "环境卫生设施",
+      "collocation": "improve sanitation services",
+      "collocationCN": "改善环境卫生服务"
+    },
+    {
+      "word": "leakage",
+      "ipa": "/ˈliːkɪdʒ/",
+      "meaning": "渗漏；漏损",
+      "collocation": "reduce network leakage",
+      "collocationCN": "减少供水管网漏损"
+    },
+    {
+      "word": "desalination",
+      "ipa": "/diːˌsælɪˈneɪʃn/",
+      "meaning": "海水淡化",
+      "collocation": "invest in desalination",
+      "collocationCN": "投资海水淡化"
+    },
+    {
+      "word": "allocation",
+      "ipa": "/ˌæləˈkeɪʃn/",
+      "meaning": "分配",
+      "collocation": "reform water allocation",
+      "collocationCN": "改革水资源分配"
+    },
+    {
+      "word": "water-intensive",
+      "ipa": "/ˈwɔːtər ɪnˌtensɪv/",
+      "meaning": "耗水量大的",
+      "collocation": "grow water-intensive crops",
+      "collocationCN": "种植耗水量大的作物"
+    },
+    {
+      "word": "conservation measure",
+      "ipa": "/ˌkɒnsəˈveɪʃn ˈmeʒə(r)/",
+      "meaning": "节水措施",
+      "collocation": "introduce conservation measures",
+      "collocationCN": "采取节水措施"
+    },
+    {
+      "word": "fix a leak",
+      "ipa": "/fɪks ə ˈliːk/",
+      "meaning": "修复漏水处",
+      "collocation": "fix a leak promptly",
+      "collocationCN": "及时修复漏水处"
+    },
+    {
+      "word": "turn off the tap",
+      "ipa": "/tɜːn ˌɒf ðə ˈtæp/",
+      "meaning": "关掉水龙头",
+      "collocation": "turn off the tap while brushing",
+      "collocationCN": "刷牙时关掉水龙头"
+    },
+    {
+      "word": "run out of water",
+      "ipa": "/rʌn ˌaʊt əv ˈwɔːtə(r)/",
+      "meaning": "用完水",
+      "collocation": "avoid running out of water",
+      "collocationCN": "避免断水"
+    },
+    {
+      "word": "meet peak demand",
+      "ipa": "/miːt ˌpiːk dɪˈmɑːnd/",
+      "meaning": "满足高峰需求",
+      "collocation": "meet peak summer demand",
+      "collocationCN": "满足夏季高峰需求"
+    },
+    {
+      "word": "share a water source",
+      "ipa": "/ʃeə(r) ə ˈwɔːtə sɔːs/",
+      "meaning": "共用水源",
+      "collocation": "communities that share a water source",
+      "collocationCN": "共用水源的社区"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "not enough water",
+      "options": [
+        "water scarcity",
+        "an insufficient supply",
+        "limited water availability"
+      ],
+      "note": "availability 强调可获得的水量。"
+    },
+    {
+      "base": "use less water",
+      "options": [
+        "reduce consumption",
+        "conserve water",
+        "curb demand"
+      ],
+      "note": "curb demand 常用于政策层面的需求管理。"
+    },
+    {
+      "base": "dirty water",
+      "options": [
+        "contaminated water",
+        "unsafe water",
+        "polluted supplies"
+      ],
+      "note": "unsafe 强调不适合饮用或使用。"
+    },
+    {
+      "base": "water below the ground",
+      "options": [
+        "groundwater",
+        "subsurface water",
+        "water held in an aquifer"
+      ],
+      "note": "aquifer 是储存和传导地下水的地层。"
+    },
+    {
+      "base": "share water fairly",
+      "options": [
+        "allocate water equitably",
+        "balance competing demands",
+        "ensure fair access to water"
+      ],
+      "note": "balance competing demands 适合农业、城市与生态比较。"
+    },
+    {
+      "base": "collect rain",
+      "options": [
+        "harvest rainwater",
+        "capture stormwater",
+        "store rainfall"
+      ],
+      "note": "harvest rainwater 是常见可持续用水搭配。"
+    },
+    {
+      "base": "old pipes lose water",
+      "options": [
+        "ageing networks leak",
+        "distribution systems waste water",
+        "pipe leakage reduces supply"
+      ],
+      "note": "distribution system 指从水源到用户的输水网络。"
+    },
+    {
+      "base": "a long dry period",
+      "options": [
+        "prolonged drought",
+        "an extended absence of rain",
+        "persistent dry conditions"
+      ],
+      "note": "persistent 强调情况持续不退。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Although + a region + receives + substantial rainfall, only a fraction of it can be + stored and used safely.",
+      "cn": "虽然某地区具备某种降雨条件，但其中只有一部分能够被有效利用。",
+      "example": "Although the city receives heavy seasonal rain, only a fraction of it can be stored for the dry months."
+    },
+    {
+      "pattern": "Water saved through + repairing leaks + can be used to + meet essential demand, reducing the need to + develop an expensive new supply.",
+      "cn": "通过某项干预节省的水可以用于其他用途，从而减少采取高成本措施的需要。",
+      "example": "Water saved through leak repair can be used to meet household demand, reducing the need to develop a distant reservoir."
+    },
+    {
+      "pattern": "Because an aquifer may extend beneath + several regions or countries, extraction by one area can + reduce water available elsewhere.",
+      "cn": "由于含水层可能横跨多个行政区域，一地的开采会造成跨区域后果。",
+      "example": "Because an aquifer may extend beneath several provinces, extraction by one area can lower wells across an administrative boundary."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "every drop counts",
+      "cn": "每一滴水都很重要",
+      "example": "During a severe drought, every drop counts."
+    },
+    {
+      "text": "a drop in the ocean",
+      "cn": "杯水车薪",
+      "example": "One repaired tap is a drop in the ocean if the main pipe is leaking."
+    },
+    {
+      "text": "weather a dry spell",
+      "cn": "度过一段少雨期",
+      "example": "Stored rainwater helps gardens weather a dry spell."
+    },
+    {
+      "text": "manage water sustainably",
+      "cn": "可持续管理水资源",
+      "example": "Cities must manage water sustainably across wet and dry years."
+    },
+    {
+      "text": "ease pressure on freshwater supplies",
+      "cn": "缓解淡水供应压力",
+      "example": "Reusing treated water can ease pressure on freshwater supplies."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "People should save the water in daily life.",
+      "correct": "People should save water in daily life.",
+      "why": "泛指水资源时 water 前通常不加 the。"
+    },
+    {
+      "wrong": "The reservoir supplies water for the city.",
+      "correct": "The reservoir supplies the city with water.",
+      "why": "supply a place with something 是更自然的固定结构。"
+    },
+    {
+      "wrong": "The drought caused many farmers lose their crops.",
+      "correct": "The drought caused many farmers to lose their crops.",
+      "why": "cause somebody to do something 中不定式必须带 to。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Utilities should repair networks before asking households for sacrifice.",
+      "topicSentence": "Demand campaigns are more credible when water providers first address losses under their own control.",
+      "collocations": [
+        "detect hidden leaks",
+        "replace ageing pipes",
+        "reduce non-revenue water",
+        "build public cooperation"
+      ],
+      "argument": "Households can shorten showers, but a cracked main may lose more water each hour than many families save in a day. If utilities ignore visible leakage while warning residents, conservation begins to look like an unfair transfer of responsibility. Pressure monitoring and targeted pipe replacement can recover supply and reduce treatment costs, although they require upfront investment. Publishing leakage rates also shows consumers that the provider is meeting deadlines as well as issuing advice. Once institutional waste is addressed, temporary household restrictions are more likely to receive cooperation during drought."
+    },
+    {
+      "viewpoint": "Scarcity should be managed through priorities as well as price.",
+      "topicSentence": "Water pricing can discourage waste, but essential access must not depend solely on ability to pay.",
+      "collocations": [
+        "set a lifeline tariff",
+        "discourage excessive use",
+        "protect basic household needs",
+        "signal the cost of scarcity"
+      ],
+      "argument": "A uniform low price gives heavy users little reason to conserve, whereas a steep price can force poor households to reduce hygiene or cooking. A tiered tariff offers one response: a basic quantity is affordable, while unusually high consumption costs progressively more. This comparison distinguishes a necessary bucket of water from a private swimming pool without declaring either use invisible. Meter accuracy and assistance for large low-income households are essential to prevent unfair bills. Price can signal scarcity, but public rules must decide which needs receive protection."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe something you do to avoid wasting water.",
+      "answer": "One simple thing I do is keep a bottle beside the kitchen sink and fill it while I’m waiting for the tap water to become warm. I use that water later for plants or cleaning instead of letting it disappear down the drain. I started doing this during a particularly dry summer when the local authority asked residents to reduce unnecessary use. It does not require any special equipment, and after a week it became automatic. I know the amount is modest compared with industrial or agricultural demand, but it made me notice other habits, such as running a half-empty washing machine. The useful part is not feeling virtuous; it is turning a repeated waste into a practical resource."
+    },
+    {
+      "part": "Part 3",
+      "question": "Should water cost more when supplies are limited?",
+      "answer": "Higher prices can discourage luxury use, but a basic supply is essential for health and should remain affordable. I would support a tiered system in which normal household consumption is charged at a modest rate and unusually high use becomes progressively more expensive. That sends a conservation signal without punishing a low-income family for cooking or washing. The system would need accurate meters and adjustments for household size. Authorities should also repair leaks and regulate major users, because asking residents to pay more is difficult to justify if the network itself wastes a large share of treated water."
+    }
+  ],
+  "reading": {
+    "title": "The River That Disappears Below the Fields",
+    "paragraphs": [
+      "Residents living beside the lower section of the Arven River say it has become seasonal. Upstream gauges, however, record only a modest decline in annual flow. The apparent contradiction is explained partly by what happens beneath irrigated fields: water diverted from the river does not simply vanish after crops use it. Some evaporates, some returns to the channel and some passes through soil to an aquifer, emerging much later—or in a different place.",
+      "For decades, planners treated groundwater and river water as separate accounts. Farmers needed one permit to pump from a well and another to divert from the river. Hydrogeologists have since shown that the two sources are closely connected. A powerful well near the channel lowers the underground water table, reducing the groundwater that would otherwise feed the river during dry months. The effect may take years to appear, by which time several permits have been issued and no single user seems responsible.",
+      "Improved irrigation creates another puzzle. Replacing open channels with sealed pipes reduces leakage and allows a farmer to produce the same crop with less diverted water. At field level this is efficient. Yet part of the former leakage may have recharged the aquifer and eventually returned to the river. If the saved allocation is then used to expand irrigated land, total crop consumption can rise while downstream flow falls further. Engineers therefore distinguish water withdrawn from water actually consumed.",
+      "The regional authority is now combining permits within a shared water budget. Satellite estimates of crop evaporation are compared with well readings and river gauges, while farmers can trade limited allocations. Environmental groups support the recognition of connected sources but worry that uncertain models may legalise excessive extraction. Farmers, by contrast, want rules stable enough to plan crops and repay equipment loans.",
+      "No measurement will account perfectly for every drop moving through rock and soil. The practical aim is to make uncertainty visible and adjust the budget when evidence changes. Managing the river alone produced a reassuring annual figure while its lower reaches dried. The new approach asks a harder question: not only how much water enters the system, but where, when and for whom it remains available."
+    ],
+    "questions": [
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "Earlier permit systems treated wells and river diversions as connected uses of one resource.",
+        "answer": "No",
+        "explanation": "Paragraph 2 states that planners treated groundwater and river water as separate accounts."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why can more efficient irrigation still reduce downstream flow?",
+        "answer": "D",
+        "explanation": "Paragraph 3 explains that saved water may support expanded cultivation and former leakage may have returned to the system.",
+        "options": [
+          "Sealed pipes increase evaporation immediately.",
+          "Efficient systems require larger riverside wells.",
+          "Farmers stop growing crops after installing pipes.",
+          "Saved water may be consumed on additional irrigated land."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "The authority compares satellite estimates with well readings and river ______.",
+        "answer": "gauges",
+        "explanation": "Paragraph 4 lists river gauges."
+      }
+    ]
+  }
+}

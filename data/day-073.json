@@ -1,0 +1,355 @@
+{
+  "id": 73,
+  "topic": "Energy Choices",
+  "topicCN": "能源选择",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "renewable",
+      "ipa": "/rɪˈnjuːəbl/",
+      "meaning": "可再生的",
+      "collocation": "expand renewable energy",
+      "collocationCN": "扩大可再生能源"
+    },
+    {
+      "word": "fossil fuel",
+      "ipa": "/ˈfɒsl fjuːəl/",
+      "meaning": "化石燃料",
+      "collocation": "phase out fossil fuels",
+      "collocationCN": "逐步淘汰化石燃料"
+    },
+    {
+      "word": "solar panel",
+      "ipa": "/ˈsəʊlə ˌpænl/",
+      "meaning": "太阳能板",
+      "collocation": "install rooftop solar panels",
+      "collocationCN": "安装屋顶太阳能板"
+    },
+    {
+      "word": "wind turbine",
+      "ipa": "/ˈwɪnd ˌtɜːbaɪn/",
+      "meaning": "风力涡轮机",
+      "collocation": "operate an offshore wind turbine",
+      "collocationCN": "运行海上风力涡轮机"
+    },
+    {
+      "word": "grid",
+      "ipa": "/ɡrɪd/",
+      "meaning": "电网",
+      "collocation": "modernise the electricity grid",
+      "collocationCN": "升级电网"
+    },
+    {
+      "word": "intermittent",
+      "ipa": "/ˌɪntəˈmɪtənt/",
+      "meaning": "间歇性的",
+      "collocation": "manage intermittent generation",
+      "collocationCN": "管理间歇性发电"
+    },
+    {
+      "word": "storage capacity",
+      "ipa": "/ˈstɔːrɪdʒ kəˌpæsəti/",
+      "meaning": "储能容量",
+      "collocation": "increase storage capacity",
+      "collocationCN": "提高储能容量"
+    },
+    {
+      "word": "base load",
+      "ipa": "/ˈbeɪs ləʊd/",
+      "meaning": "基础负荷",
+      "collocation": "meet base-load demand",
+      "collocationCN": "满足基础负荷需求"
+    },
+    {
+      "word": "emissions",
+      "ipa": "/ɪˈmɪʃnz/",
+      "meaning": "排放量",
+      "collocation": "cut carbon emissions",
+      "collocationCN": "减少碳排放"
+    },
+    {
+      "word": "energy efficiency",
+      "ipa": "/ˈenədʒi ɪˌfɪʃnsi/",
+      "meaning": "能源效率",
+      "collocation": "improve energy efficiency",
+      "collocationCN": "提高能源效率"
+    },
+    {
+      "word": "subsidise",
+      "ipa": "/ˈsʌbsɪdaɪz/",
+      "meaning": "补贴",
+      "collocation": "subsidise home insulation",
+      "collocationCN": "补贴住宅保温改造"
+    },
+    {
+      "word": "electrification",
+      "ipa": "/ɪˌlektrɪfɪˈkeɪʃn/",
+      "meaning": "电气化",
+      "collocation": "support transport electrification",
+      "collocationCN": "支持交通电气化"
+    },
+    {
+      "word": "nuclear power",
+      "ipa": "/ˈnjuːkliə ˌpaʊə(r)/",
+      "meaning": "核电",
+      "collocation": "debate nuclear power",
+      "collocationCN": "讨论核电"
+    },
+    {
+      "word": "energy mix",
+      "ipa": "/ˈenədʒi mɪks/",
+      "meaning": "能源结构",
+      "collocation": "diversify the energy mix",
+      "collocationCN": "使能源结构多元化"
+    },
+    {
+      "word": "energy poverty",
+      "ipa": "/ˈenədʒi ˌpɒvəti/",
+      "meaning": "能源贫困",
+      "collocation": "reduce energy poverty",
+      "collocationCN": "减少能源贫困"
+    },
+    {
+      "word": "keep the lights on",
+      "ipa": "/kiːp ðə ˈlaɪts ɒn/",
+      "meaning": "维持稳定供电",
+      "collocation": "keep the lights on during peak demand",
+      "collocationCN": "在需求高峰维持供电"
+    },
+    {
+      "word": "shop around for a tariff",
+      "ipa": "/ʃɒp əˌraʊnd fər ə ˈtærɪf/",
+      "meaning": "比较选择能源资费",
+      "collocation": "shop around for a cheaper tariff",
+      "collocationCN": "比较选择更便宜的资费"
+    },
+    {
+      "word": "cut an energy bill",
+      "ipa": "/kʌt ən ˈenədʒi bɪl/",
+      "meaning": "降低能源账单",
+      "collocation": "cut an energy bill through insulation",
+      "collocationCN": "通过保温降低能源账单"
+    },
+    {
+      "word": "charge off-peak",
+      "ipa": "/tʃɑːdʒ ˌɒf ˈpiːk/",
+      "meaning": "在非高峰时段充电",
+      "collocation": "charge a vehicle off-peak",
+      "collocationCN": "在非高峰时段给车辆充电"
+    },
+    {
+      "word": "bring capacity online",
+      "ipa": "/brɪŋ kəˌpæsəti ˈɒnlaɪn/",
+      "meaning": "使新增发电容量投入运行",
+      "collocation": "bring new wind capacity online",
+      "collocationCN": "使新增风电容量投入运行"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "clean energy",
+      "options": [
+        "low-carbon power",
+        "renewable generation",
+        "energy with limited emissions"
+      ],
+      "note": "low-carbon 可包括核能，不完全等同 renewable。"
+    },
+    {
+      "base": "depend on coal",
+      "options": [
+        "rely on coal-fired power",
+        "remain reliant on coal",
+        "derive electricity mainly from coal"
+      ],
+      "note": "derive from 适合说明能源来源。"
+    },
+    {
+      "base": "use less power",
+      "options": [
+        "reduce energy consumption",
+        "improve efficiency",
+        "curb electricity demand"
+      ],
+      "note": "efficiency 指用更少能源取得同样服务。"
+    },
+    {
+      "base": "unreliable supply",
+      "options": [
+        "an unstable power system",
+        "frequent disruption",
+        "insecure electricity provision"
+      ],
+      "note": "insecure provision 强调长期可靠性不足。"
+    },
+    {
+      "base": "expensive electricity",
+      "options": [
+        "high energy costs",
+        "unaffordable power bills",
+        "costly electricity supply"
+      ],
+      "note": "unaffordable 突出支付困难。"
+    },
+    {
+      "base": "produce electricity",
+      "options": [
+        "generate power",
+        "supply electricity",
+        "create electrical energy"
+      ],
+      "note": "generate power 是最常用的正式搭配。"
+    },
+    {
+      "base": "different energy sources",
+      "options": [
+        "a diversified energy mix",
+        "multiple forms of generation",
+        "a range of power sources"
+      ],
+      "note": "energy mix 适合国家或地区能源结构。"
+    },
+    {
+      "base": "change to renewables",
+      "options": [
+        "make an energy transition",
+        "shift towards low-carbon power",
+        "replace fossil generation"
+      ],
+      "note": "transition 强调系统性转变过程。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Even if + an energy technology + becomes cheaper, its adoption may be constrained by + limited grid capacity or storage.",
+      "cn": "即使某项技术变得更便宜，它的应用仍可能受到某种系统限制。",
+      "example": "Even if solar panels become cheaper, their adoption may be constrained by limited grid capacity."
+    },
+    {
+      "pattern": "What matters for energy security is not simply how much + generating capacity + exists, but whether + electricity is available when demand is highest.",
+      "cn": "能源安全的关键不仅是拥有多少容量，还在于能否满足某种时机或可靠性条件。",
+      "example": "What matters for energy security is not simply how much wind capacity exists, but whether other resources can respond when output falls."
+    },
+    {
+      "pattern": "Provided that + workers and affected communities receive adequate protection, the transition to + cleaner energy + can + reduce emissions + without + causing unnecessary hardship.",
+      "cn": "只要落实某项保障，向某种能源转型就能在避免某种社会代价的同时取得益处。",
+      "example": "Provided that targeted bill support is in place, the transition to cleaner heating can cut emissions without worsening energy poverty."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "keep the lights on",
+      "cn": "维持稳定供电",
+      "example": "The grid must keep the lights on during a windless evening."
+    },
+    {
+      "text": "pay through the nose",
+      "cn": "付出高昂费用",
+      "example": "Households should not have to pay through the nose for basic heating."
+    },
+    {
+      "text": "a stopgap measure",
+      "cn": "权宜之计",
+      "example": "Temporary fuel support is a stopgap measure rather than a long-term strategy."
+    },
+    {
+      "text": "accelerate the energy transition",
+      "cn": "加快能源转型",
+      "example": "Grid investment can accelerate the energy transition."
+    },
+    {
+      "text": "reduce dependence on imported fuels",
+      "cn": "降低对进口燃料的依赖",
+      "example": "Domestic renewables can reduce dependence on imported fuels."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The country should develop more renewable energies.",
+      "correct": "The country should develop more renewable energy.",
+      "why": "energy 泛指能源时不可数；不同能源类型可说 energy sources。"
+    },
+    {
+      "wrong": "Solar power depends of the weather.",
+      "correct": "Solar power depends on the weather.",
+      "why": "depend on 是固定搭配。"
+    },
+    {
+      "wrong": "Installing insulation can save people from high bills.",
+      "correct": "Installing insulation can protect people from high bills or help them save money on bills.",
+      "why": "save somebody from 表示免遭某种处境；表达节省账单用 save money on。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "The cheapest generator does not necessarily create the cheapest system.",
+      "topicSentence": "Energy choices should be compared by the cost of delivering reliable power, not generation price alone.",
+      "collocations": [
+        "compare whole-system costs",
+        "balance variable generation",
+        "reinforce transmission networks",
+        "maintain reliable supply"
+      ],
+      "argument": "Solar and wind farms can produce very cheap electricity when conditions are favourable. A system dominated by either source may also need storage, flexible demand, stronger transmission and reserve capacity for periods of low output. By contrast, a more expensive generator that is available on demand may reduce some balancing costs, although it can create fuel or waste risks of its own. Governments should model the combined network under realistic weather and demand rather than rank technologies by a single auction price. The relevant comparison is the cost of reliable electricity across the year."
+    },
+    {
+      "viewpoint": "Efficiency is the fastest resource many countries neglect.",
+      "topicSentence": "Reducing wasted energy can lower bills and emissions before new generating capacity is completed.",
+      "collocations": [
+        "retrofit inefficient homes",
+        "lower peak demand",
+        "deliver immediate savings",
+        "avoid unnecessary generation"
+      ],
+      "argument": "A new power station may take years to approve and build, whereas insulation, efficient motors and better controls can start reducing demand much sooner. Lower consumption cuts emissions regardless of whether the displaced unit of electricity came from gas, coal or another source. A public retrofit programme can also reduce energy poverty by improving cold homes instead of repeatedly subsidising wasted heat. The difficulty is fragmented delivery: households need trusted advice, skilled installers and affordable finance. Treating efficiency as infrastructure can coordinate these pieces and buy time for larger supply projects."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a change that helped someone use less energy.",
+      "answer": "My parents replaced an old electric water heater with a more efficient model and added insulation around the hot-water pipes. Their main reason was the electricity bill, which had risen sharply, rather than an environmental target. The installer also showed them how to set a timer so the heater did not run throughout the night. The change was not visually exciting, but the next bills were noticeably lower and the water was still available when they needed it. It also changed their behaviour because they began checking which appliances were using power in the background. I liked this example because it showed that saving energy does not always require giving up comfort; sometimes better equipment and a sensible setting achieve the same service with less waste."
+    },
+    {
+      "part": "Part 3",
+      "question": "How should governments decide which energy sources to support?",
+      "answer": "They should consider reliability, total system cost, environmental impact and how quickly each option can be delivered. A technology with low emissions may still require new power lines or storage, while a dependable fuel may expose consumers to volatile prices. Local geography matters too, so copying another country’s mix is not necessarily sensible. I would favour competitive support with clear carbon and reliability requirements instead of committing everything to one technology. Governments also need transition plans for workers and low-income households. An energy policy is stronger when it can survive both technical problems and changes in public opinion."
+    }
+  ],
+  "reading": {
+    "title": "Electricity That Waits in a Water Heater",
+    "paragraphs": [
+      "Electricity systems have traditionally adjusted supply to follow demand: as households switch on ovens or factories start machinery, generators increase output. Wind and solar power complicate this arrangement because their production follows weather rather than instructions from a control room. One response is to store electricity in large batteries. Another is to alter when ordinary devices consume it. A water heater, although rarely described as part of the grid, is one such device.",
+      "Heating water accounts for a significant share of residential energy in many countries. Yet the exact minute at which a tank heats is often unimportant, provided that hot water is ready when a resident showers or washes dishes. A small controller can move the heating period away from the evening peak and towards hours of abundant renewable generation. Thousands of tanks coordinated together act, in effect, like a flexible power station: they absorb electricity when the system has excess supply and reduce demand when it is strained.",
+      "This flexibility has boundaries. A household must be able to override the schedule, and a poorly insulated tank may lose much of the heat before it is needed. Renters may have little control over equipment chosen by a landlord. Moreover, programmes that offer one flat reward can favour owners of large modern tanks while providing no benefit to households using shared or instantaneous systems. The people whose bills are hardest to afford could therefore be least able to participate.",
+      "Several utilities have tested opt-in schemes that guarantee a minimum water temperature and notify users when control events occur. Participants receive a reduced tariff or direct payment. Early trials suggest that most notice no difference in service, although results depend on honest estimates of household routines. If many residents shower unexpectedly at the same time, comfort must take priority and the grid benefit falls.",
+      "Flexible water heating will not replace transmission lines, generation or dedicated storage. Its attraction is that much of the physical capacity already sits inside homes, purchased for another purpose. Coordinating that capacity can make renewable power easier to use, but only if programme designers treat residents as customers with varied needs, not as batteries waiting to be switched."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for Paragraph B.",
+        "answer": "Turning household tanks into a flexible grid resource",
+        "explanation": "Paragraph B explains how coordinated heaters shift demand and collectively support the grid."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Every participant in utility trials receives both a reduced tariff and a direct payment.",
+        "answer": "False",
+        "explanation": "Paragraph D says participants receive a reduced tariff or direct payment."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What does the writer identify as a major limitation on flexible heating?",
+        "answer": "A",
+        "explanation": "Residents’ need for hot water must take priority over grid control.",
+        "options": [
+          "Residents’ need for hot water must take priority over grid control.",
+          "Water heaters cannot use renewable electricity.",
+          "All modern tanks lose heat immediately.",
+          "Utilities are unable to estimate electricity demand."
+        ]
+      }
+    ]
+  }
+}

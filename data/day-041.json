@@ -1,0 +1,349 @@
+{
+  "id": 41,
+  "topic": "Transport",
+  "topicCN": "交通",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "commute",
+      "ipa": "/kəˈmjuːt/",
+      "meaning": "通勤",
+      "collocation": "a daily commute",
+      "collocationCN": "每日通勤"
+    },
+    {
+      "word": "congestion",
+      "ipa": "/kənˈdʒestʃən/",
+      "meaning": "交通拥堵",
+      "collocation": "ease traffic congestion",
+      "collocationCN": "缓解交通拥堵"
+    },
+    {
+      "word": "fare",
+      "ipa": "/feə/",
+      "meaning": "车费；票价",
+      "collocation": "pay a flat fare",
+      "collocationCN": "支付统一票价"
+    },
+    {
+      "word": "headway",
+      "ipa": "/ˈhedweɪ/",
+      "meaning": "车次间隔时间",
+      "collocation": "maintain a regular headway",
+      "collocationCN": "保持稳定的发车间隔"
+    },
+    {
+      "word": "interchange",
+      "ipa": "/ˈɪntətʃeɪndʒ/",
+      "meaning": "换乘站",
+      "collocation": "a busy transport interchange",
+      "collocationCN": "繁忙的交通换乘枢纽"
+    },
+    {
+      "word": "punctual",
+      "ipa": "/ˈpʌŋktʃuəl/",
+      "meaning": "准时的",
+      "collocation": "run a punctual service",
+      "collocationCN": "提供准点的交通服务"
+    },
+    {
+      "word": "overcrowded",
+      "ipa": "/ˌəʊvəˈkraʊdɪd/",
+      "meaning": "过度拥挤的",
+      "collocation": "an overcrowded carriage",
+      "collocationCN": "拥挤不堪的车厢"
+    },
+    {
+      "word": "pedestrian",
+      "ipa": "/pəˈdestriən/",
+      "meaning": "行人",
+      "collocation": "protect pedestrians",
+      "collocationCN": "保护行人"
+    },
+    {
+      "word": "cycle lane",
+      "ipa": "/ˈsaɪkəl leɪn/",
+      "meaning": "自行车道",
+      "collocation": "install a protected cycle lane",
+      "collocationCN": "设置有隔离设施的自行车道"
+    },
+    {
+      "word": "gridlock",
+      "ipa": "/ˈɡrɪdlɒk/",
+      "meaning": "交通全面堵塞",
+      "collocation": "bring traffic to a gridlock",
+      "collocationCN": "使交通陷入全面瘫痪"
+    },
+    {
+      "word": "connection",
+      "ipa": "/kəˈnekʃən/",
+      "meaning": "转乘班次",
+      "collocation": "miss a connection",
+      "collocationCN": "错过转乘班次"
+    },
+    {
+      "word": "roadworthy",
+      "ipa": "/ˈrəʊdwɜːði/",
+      "meaning": "适合安全上路的",
+      "collocation": "keep vehicles roadworthy",
+      "collocationCN": "确保车辆适合安全上路"
+    },
+    {
+      "word": "tailback",
+      "ipa": "/ˈteɪlbæk/",
+      "meaning": "车辆长龙",
+      "collocation": "cause a long tailback",
+      "collocationCN": "造成长长的车龙"
+    },
+    {
+      "word": "carpool",
+      "ipa": "/ˈkɑːpuːl/",
+      "meaning": "拼车",
+      "collocation": "join a workplace carpool",
+      "collocationCN": "参加单位拼车"
+    },
+    {
+      "word": "reroute",
+      "ipa": "/ˌriːˈruːt/",
+      "meaning": "使改道",
+      "collocation": "reroute buses during roadworks",
+      "collocationCN": "施工期间让公交改道"
+    },
+    {
+      "word": "rush hour",
+      "ipa": "/ˈrʌʃ aʊə/",
+      "meaning": "交通高峰期",
+      "collocation": "avoid the morning rush hour",
+      "collocationCN": "避开早高峰"
+    },
+    {
+      "word": "lay-by",
+      "ipa": "/ˈleɪ baɪ/",
+      "meaning": "路边停车带",
+      "collocation": "pull into a lay-by",
+      "collocationCN": "驶入路边停车带"
+    },
+    {
+      "word": "accessible",
+      "ipa": "/əkˈsesəbəl/",
+      "meaning": "无障碍的；易到达的",
+      "collocation": "make stations wheelchair-accessible",
+      "collocationCN": "使车站适合轮椅通行"
+    },
+    {
+      "word": "roadworks",
+      "ipa": "/ˈrəʊdwɜːks/",
+      "meaning": "道路施工",
+      "collocation": "allow extra time for roadworks",
+      "collocationCN": "因道路施工预留更多时间"
+    },
+    {
+      "word": "last mile",
+      "ipa": "/ˌlɑːst ˈmaɪl/",
+      "meaning": "出行的最后一段",
+      "collocation": "solve the last-mile problem",
+      "collocationCN": "解决最后一公里问题"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "cause",
+      "options": [
+        "lead to",
+        "contribute to",
+        "give rise to"
+      ],
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论交通。"
+    },
+    {
+      "base": "benefit",
+      "options": [
+        "advantage",
+        "positive effect",
+        "gain"
+      ],
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论交通。"
+    },
+    {
+      "base": "harm",
+      "options": [
+        "damage",
+        "negative effect",
+        "undermine"
+      ],
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论交通。"
+    },
+    {
+      "base": "support",
+      "options": [
+        "assistance",
+        "backing",
+        "provision"
+      ],
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论交通。"
+    },
+    {
+      "base": "different",
+      "options": [
+        "distinct",
+        "varied",
+        "diverse"
+      ],
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论交通。"
+    },
+    {
+      "base": "common",
+      "options": [
+        "widespread",
+        "frequently observed",
+        "part of everyday life"
+      ],
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论交通。"
+    },
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论交通。"
+    },
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论交通。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "The more reliable + transport service + becomes, the more likely commuters are to + behaviour.",
+      "cn": "某种交通服务越可靠，通勤者就越可能……。",
+      "example": "The more reliable the bus service becomes, the more likely commuters are to leave their cars at home."
+    },
+    {
+      "pattern": "Had + transport investment + been planned around + users, + outcome + might have been avoided.",
+      "cn": "如果交通投资围绕某类使用者规划，某结果本可避免。",
+      "example": "Had the station been planned around pedestrians, the dangerous crossing might have been avoided."
+    },
+    {
+      "pattern": "A journey that takes + time + by + mode + may nevertheless be preferable when + reason.",
+      "cn": "乘某交通方式耗时……的旅程，在某种情况下仍可能更可取。",
+      "example": "A journey that takes longer by train may nevertheless be preferable when parking is scarce."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "get stuck in traffic",
+      "cn": "堵在路上",
+      "example": "I often get stuck in traffic during the evening rush hour."
+    },
+    {
+      "text": "miss a connection",
+      "cn": "错过换乘",
+      "example": "A delayed bus can make passengers miss a rail connection."
+    },
+    {
+      "text": "within walking distance",
+      "cn": "步行可达",
+      "example": "The station is within walking distance of my home."
+    },
+    {
+      "text": "ease traffic congestion",
+      "cn": "缓解交通拥堵",
+      "example": "Frequent buses can ease traffic congestion on busy corridors."
+    },
+    {
+      "text": "provide a reliable service",
+      "cn": "提供可靠服务",
+      "example": "Passengers need operators to provide a reliable service throughout the day."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I go to work by foot.",
+      "correct": "I go to work on foot.",
+      "why": "固定表达是 on foot。"
+    },
+    {
+      "wrong": "The traffic is very crowded.",
+      "correct": "The roads are very congested.",
+      "why": "crowded 通常描述人或场所；交通拥堵用 congested。"
+    },
+    {
+      "wrong": "I took off the bus at the next stop.",
+      "correct": "I got off the bus at the next stop.",
+      "why": "下公共交通工具用 get off。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Reliability is more important than headline speed.",
+      "topicSentence": "Public transport attracts regular users when arrival and journey times are dependable.",
+      "collocations": [
+        "provide a frequent service",
+        "reduce waiting time",
+        "publish real-time information",
+        "build passenger confidence"
+      ],
+      "argument": "A very fast train offers limited value if cancellations make arrival unpredictable. Commuters organise childcare and work around the time they expect to reach a destination, so uncertainty imposes costs beyond the minutes lost. Frequent services, protected connections and accurate disruption information make the network easier to trust. Once passengers can plan confidently, public transport becomes a realistic alternative to driving. Investment should therefore measure reliability across an ordinary week rather than advertise only maximum speed."
+    },
+    {
+      "viewpoint": "Street space should reflect the number of people moved, not only vehicles counted.",
+      "topicSentence": "Transport planning should allocate limited road space according to efficiency, safety and public value.",
+      "collocations": [
+        "reallocate road space",
+        "create a bus lane",
+        "protect vulnerable road users",
+        "move more passengers"
+      ],
+      "argument": "A private car may occupy many times the space of a bicycle or bus passenger. Giving every mode equal road width can therefore reduce the number of people able to travel along a crowded corridor. Dedicated lanes allow buses to avoid the congestion they help reduce, while safe crossings support short walking trips. Drivers may face less space initially, but a more efficient network can lower total traffic. Allocation should be judged by movement and access rather than vehicle throughput alone."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "How do you usually travel around your city?",
+      "answer": "I normally use the metro for longer journeys and walk for anything nearby. The metro is predictable, whereas buses can be delayed by traffic. I still take a taxi late at night if the route involves several changes. My choice depends more on reliability and convenience than on speed alone."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a journey that you make regularly.",
+      "answer": "I regularly travel across the city to visit a relative. I walk about ten minutes to the metro, change lines once and then take a short bus ride. The whole journey lasts just over an hour, but each stage is usually reliable. I use the train time to read, so it does not feel completely wasted. The difficult part is the final connection because the bus runs less frequently in the evening. If I miss it, I walk the remaining distance. I know the route so well now that I notice small changes, such as a new crossing or a delayed escalator. It is not an exciting journey, but it has made me appreciate how connections determine whether a transport network feels convenient."
+    }
+  ],
+  "reading": {
+    "title": "The Bus Stop as a Measure of Access",
+    "paragraphs": [
+      "Transport maps usually represent a bus stop as a dot. For passengers, however, access begins before the vehicle arrives. A person must reach the stop, identify the correct service, wait safely and board. Each step contains barriers that disappear from a route diagram. A bus passing close to a neighbourhood does not provide meaningful access if the only path crosses fast traffic or the timetable cannot be read.",
+      "Distance has different meanings for different users. Four hundred metres may be a comfortable walk for one passenger but impossible for someone with limited mobility, heavy shopping or a young child. Gradient, pavement condition and places to rest also influence the effort required. Researchers who audit stops therefore examine the surrounding street rather than measuring a straight line from nearby homes.",
+      "Waiting conditions affect perceived reliability. A ten-minute interval feels manageable when real-time information confirms that a bus is coming; the same interval feels uncertain without shelter, lighting or a visible timetable. At rural stops, low passenger numbers can make expensive infrastructure difficult to justify, yet a simple seat and clear information may determine whether an older resident can use the service independently.",
+      "Boarding is another link in the chain. A low-floor vehicle offers little benefit when parked cars prevent it from reaching the kerb. Drivers need training and sufficient schedule time to position the bus correctly. Ticket rules must also be understandable before passengers block the entrance while searching for payment. None of these details is dramatic, but together they decide who can travel.",
+      "A stop should consequently be assessed as a small transport system rather than a pole beside a road. Audits can follow several users from their door to a seat on the bus and record where assistance becomes necessary. Improvements may involve the transport operator, the highway authority and nearby property owners. The dot on the map becomes genuine access only when those separate responsibilities connect."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "A short straight-line distance always means a stop is easy to reach.",
+        "answer": "False",
+        "explanation": "Paragraph 2 explains that mobility, gradient and pavement condition alter accessibility."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph discusses vehicles being unable to reach the kerb?",
+        "answer": "D",
+        "explanation": "Paragraph D describes parked cars obstructing boarding."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "The writer recommends assessing a stop as a small transport ______.",
+        "answer": "system",
+        "explanation": "The final paragraph uses this phrase."
+      }
+    ]
+  }
+}

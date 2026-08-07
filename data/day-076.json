@@ -1,0 +1,355 @@
+{
+  "id": 76,
+  "topic": "Climate Change",
+  "topicCN": "气候变化",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "greenhouse gas",
+      "ipa": "/ˈɡriːnhaʊs ɡæs/",
+      "meaning": "温室气体",
+      "collocation": "cut greenhouse-gas emissions",
+      "collocationCN": "减少温室气体排放"
+    },
+    {
+      "word": "global warming",
+      "ipa": "/ˌɡləʊbəl ˈwɔːmɪŋ/",
+      "meaning": "全球变暖",
+      "collocation": "limit global warming",
+      "collocationCN": "限制全球变暖"
+    },
+    {
+      "word": "climate model",
+      "ipa": "/ˈklaɪmət ˌmɒdəl/",
+      "meaning": "气候模型",
+      "collocation": "run a climate model",
+      "collocationCN": "运行气候模型"
+    },
+    {
+      "word": "mitigation",
+      "ipa": "/ˌmɪtɪˈɡeɪʃən/",
+      "meaning": "减缓",
+      "collocation": "climate mitigation measures",
+      "collocationCN": "气候减缓措施"
+    },
+    {
+      "word": "adaptation",
+      "ipa": "/ˌædæpˈteɪʃən/",
+      "meaning": "适应",
+      "collocation": "invest in climate adaptation",
+      "collocationCN": "投资气候适应"
+    },
+    {
+      "word": "resilience",
+      "ipa": "/rɪˈzɪliəns/",
+      "meaning": "韧性",
+      "collocation": "strengthen coastal resilience",
+      "collocationCN": "增强沿海韧性"
+    },
+    {
+      "word": "sea-level rise",
+      "ipa": "/ˈsiː levəl raɪz/",
+      "meaning": "海平面上升",
+      "collocation": "prepare for sea-level rise",
+      "collocationCN": "为海平面上升做准备"
+    },
+    {
+      "word": "extreme weather",
+      "ipa": "/ɪkˌstriːm ˈweðə/",
+      "meaning": "极端天气",
+      "collocation": "face more extreme weather",
+      "collocationCN": "面对更多极端天气"
+    },
+    {
+      "word": "carbon budget",
+      "ipa": "/ˈkɑːbən ˌbʌdʒɪt/",
+      "meaning": "碳预算",
+      "collocation": "stay within a carbon budget",
+      "collocationCN": "控制在碳预算内"
+    },
+    {
+      "word": "decarbonise",
+      "ipa": "/diːˈkɑːbənaɪz/",
+      "meaning": "脱碳",
+      "collocation": "decarbonise electricity generation",
+      "collocationCN": "使发电脱碳"
+    },
+    {
+      "word": "climate projection",
+      "ipa": "/ˈklaɪmət prəˌdʒekʃən/",
+      "meaning": "气候预测",
+      "collocation": "use a regional climate projection",
+      "collocationCN": "使用区域气候预测"
+    },
+    {
+      "word": "heatwave",
+      "ipa": "/ˈhiːtweɪv/",
+      "meaning": "热浪",
+      "collocation": "cope with a prolonged heatwave",
+      "collocationCN": "应对持续热浪"
+    },
+    {
+      "word": "carbon sink",
+      "ipa": "/ˈkɑːbən sɪŋk/",
+      "meaning": "碳汇",
+      "collocation": "protect a natural carbon sink",
+      "collocationCN": "保护自然碳汇"
+    },
+    {
+      "word": "tipping point",
+      "ipa": "/ˈtɪpɪŋ pɔɪnt/",
+      "meaning": "临界点",
+      "collocation": "cross a climatic tipping point",
+      "collocationCN": "越过气候临界点"
+    },
+    {
+      "word": "climate finance",
+      "ipa": "/ˈklaɪmət ˌfaɪnæns/",
+      "meaning": "气候资金",
+      "collocation": "mobilise climate finance",
+      "collocationCN": "调动气候资金"
+    },
+    {
+      "word": "future-proof",
+      "ipa": "/ˈfjuːtʃə pruːf/",
+      "meaning": "使适应未来",
+      "collocation": "future-proof public infrastructure",
+      "collocationCN": "使公共设施适应未来"
+    },
+    {
+      "word": "weather the storm",
+      "ipa": "/ˈweðə ðə stɔːm/",
+      "meaning": "渡过难关",
+      "collocation": "help communities weather the storm",
+      "collocationCN": "帮助社区渡过难关"
+    },
+    {
+      "word": "plan ahead",
+      "ipa": "/plæn əˈhed/",
+      "meaning": "提前规划",
+      "collocation": "plan ahead for hotter summers",
+      "collocationCN": "为更热夏季提前规划"
+    },
+    {
+      "word": "make a low-carbon choice",
+      "ipa": "/meɪk ə ləʊ ˈkɑːbən tʃɔɪs/",
+      "meaning": "作出低碳选择",
+      "collocation": "make a low-carbon travel choice",
+      "collocationCN": "选择低碳出行"
+    },
+    {
+      "word": "shared responsibility",
+      "ipa": "/ʃeəd rɪˌspɒnsəˈbɪləti/",
+      "meaning": "共同责任",
+      "collocation": "recognise shared responsibility",
+      "collocationCN": "承认共同责任"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "climate change",
+      "options": [
+        "a changing climate",
+        "long-term climatic change",
+        "human-driven climate disruption"
+      ],
+      "note": "human-driven明确人为因素。"
+    },
+    {
+      "base": "cut carbon emissions",
+      "options": [
+        "decarbonise",
+        "reduce greenhouse-gas output",
+        "lower the carbon intensity of"
+      ],
+      "note": "carbon intensity适合比较单位产出。"
+    },
+    {
+      "base": "prepare for impacts",
+      "options": [
+        "adapt to change",
+        "build climate resilience",
+        "anticipate unavoidable effects"
+      ],
+      "note": "adaptation并不等于放弃减排。"
+    },
+    {
+      "base": "hotter weather",
+      "options": [
+        "rising temperatures",
+        "a warming climate",
+        "higher average and extreme temperatures"
+      ],
+      "note": "最后一项同时涵盖均值与极端值。"
+    },
+    {
+      "base": "uncertain forecast",
+      "options": [
+        "a range of projections",
+        "model uncertainty",
+        "several plausible future scenarios"
+      ],
+      "note": "uncertainty不表示完全无知。"
+    },
+    {
+      "base": "poor countries",
+      "options": [
+        "lower-income countries",
+        "climate-vulnerable states",
+        "nations with limited adaptive capacity"
+      ],
+      "note": "避免使用带判断色彩的poor countries。"
+    },
+    {
+      "base": "act now",
+      "options": [
+        "take early action",
+        "accelerate the response",
+        "bring forward investment"
+      ],
+      "note": "bring forward表示提前实施。"
+    },
+    {
+      "base": "cost of delay",
+      "options": [
+        "the price of inaction",
+        "higher future adjustment costs",
+        "the burden created by postponed action"
+      ],
+      "note": "inaction适合议论文。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Even if + an emissions-reduction target + is met, + adaptation measures + will remain necessary because + some climate change is already unavoidable.",
+      "cn": "即使减排目标实现，适应措施仍然必要，因为某些影响已经无法完全避免。",
+      "example": "Even if global emissions peak soon, heat adaptation will remain necessary because past emissions continue to affect the climate."
+    },
+    {
+      "pattern": "What climate models provide is not + a perfectly certain forecast + but + a useful range of possible outcomes.",
+      "cn": "气候模型提供的不是虚假的确定性，而是有用的范围。",
+      "example": "What climate models provide is not a single guaranteed future but a range within which planners can test decisions."
+    },
+    {
+      "pattern": "Infrastructure built today, much of which will remain in use for + several decades, must + withstand future climate conditions.",
+      "cn": "今天建设的基础设施，其中许多将使用一段很长时间，必须适应未来条件。",
+      "example": "Infrastructure built today, much of which will remain in use for decades, must withstand temperatures outside the historical range."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "feel the effects first-hand",
+      "cn": "切身体会影响",
+      "example": "Farmers are already feeling climate effects first-hand."
+    },
+    {
+      "text": "prepare for the worst",
+      "cn": "为最坏情况做准备",
+      "example": "Cities should prepare for the worst without assuming it is inevitable."
+    },
+    {
+      "text": "lock in emissions",
+      "cn": "锁定未来排放",
+      "example": "New coal plants can lock in emissions for decades."
+    },
+    {
+      "text": "build climate resilience",
+      "cn": "增强气候韧性",
+      "example": "Cool roofs can build climate resilience in dense districts."
+    },
+    {
+      "text": "keep warming within limits",
+      "cn": "把升温控制在一定范围",
+      "example": "Rapid cuts are needed to keep warming within agreed limits."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Climate is changing every day.",
+      "correct": "The weather changes every day, while the climate changes over longer periods.",
+      "why": "weather指短期天气，climate指长期统计规律。"
+    },
+    {
+      "wrong": "Global warming makes more natural disasters.",
+      "correct": "Climate change can increase the frequency or severity of some hazards.",
+      "why": "不能笼统声称气候变化制造所有自然灾害。"
+    },
+    {
+      "wrong": "Governments must adapt with climate change.",
+      "correct": "Governments must adapt to climate change.",
+      "why": "adapt to是固定搭配。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Mitigation and adaptation are complementary.",
+      "topicSentence": "Governments must reduce future warming while preparing for climatic changes that can no longer be avoided.",
+      "collocations": [
+        "cut future emissions",
+        "manage unavoidable impacts",
+        "coordinate public investment",
+        "avoid preventable losses"
+      ],
+      "argument": "Mitigation addresses the cause by limiting greenhouse-gas emissions, whereas adaptation reduces harm from effects already emerging. Treating the two as alternatives creates a false choice: flood barriers cannot prevent continued warming, and emissions cuts cannot remove next summer’s heat risk. A city might therefore electrify buses while expanding shade and heat-health warnings. The balance of spending will differ by location, but both objectives require early planning. Integrated investment can also prevent an adaptation measure, such as energy-intensive cooling, from undermining mitigation."
+    },
+    {
+      "viewpoint": "Climate finance should reflect unequal responsibility and capacity.",
+      "topicSentence": "Higher-income countries have both a stronger ability and a historical obligation to support climate action elsewhere.",
+      "collocations": [
+        "provide concessional finance",
+        "address historical emissions",
+        "strengthen adaptive capacity",
+        "fund locally led projects"
+      ],
+      "argument": "Many climate-vulnerable states contributed relatively little to accumulated emissions yet face severe adaptation costs. If limited domestic budgets are diverted from health or education, the burden of an international problem becomes still more unequal. Wealthier countries can provide grants and affordable finance for resilient infrastructure and clean energy. Funding should support priorities identified locally rather than impose unsuitable imported projects. Such cooperation is not charity alone; unmanaged climate disruption can also affect trade, migration and stability across borders."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a change made in your area because of hotter weather.",
+      "answer": "My local library changed its summer opening arrangements after several unusually hot periods. It now opens earlier on days when extreme heat is forecast, keeps one large room available as a cool public space and provides drinking-water stations. The building already had good insulation, so the main changes involved staffing and communication rather than expensive construction. Older residents seem to value the service most, particularly those whose homes become uncomfortable in the afternoon. I like the fact that it uses an existing public building instead of creating a separate emergency facility. It is a modest adaptation, but it shows how climate planning can improve an ordinary service for people who need it."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why is it difficult for governments to make long-term climate decisions?",
+      "answer": "The benefits of prevention may appear decades later, whereas the costs of a policy are visible immediately to voters and businesses. Climate projections also describe a range rather than one exact local outcome, which can make delay seem reasonable. In addition, responsibility crosses ministries and national borders, so no institution controls the whole problem. Governments can manage this difficulty by setting durable targets, reviewing evidence regularly and choosing investments that perform well under several future conditions. Uncertainty should influence the design of action, not become an excuse for doing nothing."
+    }
+  ],
+  "reading": {
+    "title": "Planning a Bridge for a Climate That Has Not Arrived",
+    "paragraphs": [
+      "Engineers traditionally design bridges using records of past river flow, temperature and wind. Climate change weakens the assumption behind that practice: a structure expected to last eighty years will operate under conditions partly outside the record used to design it. The challenge is not to predict the exact weather on a future date, but to make an expensive, long-lived asset reliable across several plausible climates.",
+      "One response is to select the most severe projection and build for it immediately. This may appear cautious, yet excessive initial construction consumes materials, raises emissions and can divert money from other safety needs. Using only the middle projection carries a different risk, because an average scenario may conceal a low-probability outcome with catastrophic consequences. Engineers therefore examine both the consequence of failure and the cost of adding protection.",
+      "Adaptive design offers a third approach. Foundations can be built strong enough for a higher deck, while the deck itself is raised only if monitoring shows faster sea-level rise. Drainage channels may include space for later widening. Such decisions, which preserve a practical route for modification without purchasing every component now, are valuable where uncertainty will narrow over time. They are less suitable when later alteration would require closing the bridge for years.",
+      "Choosing trigger points is difficult. A single flood may be exceptional rather than evidence of a trend, while waiting for repeated damage defeats the purpose of preparation. Planners can combine observed sea level, updated regional models and the remaining time needed for construction. Crucially, responsibility and funding for the later stage must be agreed when the original project is approved; otherwise, an adaptable design may never be adapted.",
+      "Climate-ready engineering is therefore neither blind overbuilding nor passive waiting. It asks which decisions are irreversible, which can be postponed safely and what evidence should prompt change. A bridge designed in this way embodies a different kind of confidence—not certainty about one future, but confidence that institutions can recognise change and respond before the structure fails."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for Paragraph C.",
+        "answer": "Designing a route for later modification",
+        "explanation": "Paragraph C explains adaptive design that preserves options for later changes.",
+        "options": [
+          "The limits of historical records",
+          "Designing a route for later modification",
+          "Why all bridges should be rebuilt",
+          "Funding past flood damage"
+        ]
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Building immediately for the most severe projection has no environmental cost.",
+        "answer": "False",
+        "explanation": "Paragraph 2 says excessive construction consumes materials and raises emissions."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "An adaptable design may fail in practice unless future responsibility and ______ are agreed.",
+        "answer": "funding",
+        "explanation": "Paragraph 4 names responsibility and funding."
+      }
+    ]
+  }
+}

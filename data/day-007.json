@@ -1,0 +1,355 @@
+{
+  "id": 7,
+  "topic": "Hobbies and Free Time",
+  "topicCN": "爱好与休闲",
+  "category": "Daily Life",
+  "vocabulary": [
+    {
+      "word": "hobby",
+      "ipa": "/ˈhɒbi/",
+      "meaning": "爱好",
+      "collocation": "take up a hobby",
+      "collocationCN": "开始一项爱好"
+    },
+    {
+      "word": "pastime",
+      "ipa": "/ˈpɑːstaɪm/",
+      "meaning": "消遣",
+      "collocation": "a popular pastime",
+      "collocationCN": "流行的消遣"
+    },
+    {
+      "word": "leisure",
+      "ipa": "/ˈleʒə/",
+      "meaning": "闲暇",
+      "collocation": "leisure time",
+      "collocationCN": "闲暇时间"
+    },
+    {
+      "word": "craft",
+      "ipa": "/krɑːft/",
+      "meaning": "手工艺",
+      "collocation": "learn a traditional craft",
+      "collocationCN": "学习传统手艺"
+    },
+    {
+      "word": "gardening",
+      "ipa": "/ˈɡɑːdnɪŋ/",
+      "meaning": "园艺",
+      "collocation": "do some gardening",
+      "collocationCN": "做园艺"
+    },
+    {
+      "word": "photography",
+      "ipa": "/fəˈtɒɡrəfi/",
+      "meaning": "摄影",
+      "collocation": "take up photography",
+      "collocationCN": "开始学习摄影"
+    },
+    {
+      "word": "collect",
+      "ipa": "/kəˈlekt/",
+      "meaning": "收藏",
+      "collocation": "collect old coins",
+      "collocationCN": "收藏旧硬币"
+    },
+    {
+      "word": "creative",
+      "ipa": "/kriˈeɪtɪv/",
+      "meaning": "有创造力的",
+      "collocation": "a creative outlet",
+      "collocationCN": "创造性的情绪出口"
+    },
+    {
+      "word": "rewarding",
+      "ipa": "/rɪˈwɔːdɪŋ/",
+      "meaning": "有成就感的",
+      "collocation": "a rewarding activity",
+      "collocationCN": "有成就感的活动"
+    },
+    {
+      "word": "absorbing",
+      "ipa": "/əbˈzɔːbɪŋ/",
+      "meaning": "引人入胜的",
+      "collocation": "an absorbing hobby",
+      "collocationCN": "让人投入的爱好"
+    },
+    {
+      "word": "recreational",
+      "ipa": "/ˌrekriˈeɪʃənl/",
+      "meaning": "娱乐性的",
+      "collocation": "recreational activity",
+      "collocationCN": "娱乐活动"
+    },
+    {
+      "word": "enthusiast",
+      "ipa": "/ɪnˈθjuːziæst/",
+      "meaning": "爱好者",
+      "collocation": "a photography enthusiast",
+      "collocationCN": "摄影爱好者"
+    },
+    {
+      "word": "master",
+      "ipa": "/ˈmɑːstə/",
+      "meaning": "掌握",
+      "collocation": "master a new technique",
+      "collocationCN": "掌握新技巧"
+    },
+    {
+      "word": "practise",
+      "ipa": "/ˈpræktɪs/",
+      "meaning": "练习",
+      "collocation": "practise regularly",
+      "collocationCN": "经常练习"
+    },
+    {
+      "word": "improve",
+      "ipa": "/ɪmˈpruːv/",
+      "meaning": "提高",
+      "collocation": "improve gradually",
+      "collocationCN": "逐渐提高"
+    },
+    {
+      "word": "switch off",
+      "ipa": "/swɪtʃ ɒf/",
+      "meaning": "放松；停止想工作",
+      "collocation": "switch off after work",
+      "collocationCN": "下班后放松"
+    },
+    {
+      "word": "spare time",
+      "ipa": "/ˌspeə ˈtaɪm/",
+      "meaning": "空闲时间",
+      "collocation": "in my spare time",
+      "collocationCN": "在空闲时间"
+    },
+    {
+      "word": "sense of achievement",
+      "ipa": "/ˌsens əv əˈtʃiːvmənt/",
+      "meaning": "成就感",
+      "collocation": "gain a sense of achievement",
+      "collocationCN": "获得成就感"
+    },
+    {
+      "word": "join a club",
+      "ipa": "/dʒɔɪn ə klʌb/",
+      "meaning": "参加俱乐部",
+      "collocation": "join a local club",
+      "collocationCN": "加入当地俱乐部"
+    },
+    {
+      "word": "develop a skill",
+      "ipa": "/dɪˌveləp ə ˈskɪl/",
+      "meaning": "培养技能",
+      "collocation": "develop a practical skill",
+      "collocationCN": "培养实用技能"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "hobby",
+      "options": [
+        "pastime",
+        "leisure activity",
+        "personal interest"
+      ],
+      "note": "pastime 强调消遣；interest 不一定经常实践。"
+    },
+    {
+      "base": "relax",
+      "options": [
+        "unwind",
+        "switch off",
+        "take my mind off work"
+      ],
+      "note": "take my mind off 强调暂时不再想烦心事。"
+    },
+    {
+      "base": "start a hobby",
+      "options": [
+        "take up a hobby",
+        "get into an activity",
+        "try my hand at something"
+      ],
+      "note": "try my hand at 表示首次尝试。"
+    },
+    {
+      "base": "enjoyable",
+      "options": [
+        "rewarding",
+        "absorbing",
+        "satisfying"
+      ],
+      "note": "rewarding 强调收获，absorbing 强调让人专注。"
+    },
+    {
+      "base": "get better",
+      "options": [
+        "improve steadily",
+        "develop greater skill",
+        "make progress"
+      ],
+      "note": "make progress 后不接复数 progresses。"
+    },
+    {
+      "base": "free time",
+      "options": [
+        "spare time",
+        "leisure time",
+        "time away from work"
+      ],
+      "note": "leisure time 稍正式。"
+    },
+    {
+      "base": "do often",
+      "options": [
+        "practise regularly",
+        "make time for",
+        "pursue consistently"
+      ],
+      "note": "pursue a hobby 是较正式搭配。"
+    },
+    {
+      "base": "meet people",
+      "options": [
+        "socialise",
+        "make new connections",
+        "meet like-minded people"
+      ],
+      "note": "like-minded 指兴趣或看法相近。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Whenever I have some spare time, I tend to + verb.",
+      "cn": "每当我有空时，我通常会……",
+      "example": "Whenever I have some spare time, I tend to work on a small photography project."
+    },
+    {
+      "pattern": "What makes + hobby + rewarding is the chance to + verb.",
+      "cn": "让某项爱好有成就感的是有机会……",
+      "example": "What makes gardening rewarding is the chance to see gradual progress."
+    },
+    {
+      "pattern": "I originally took up + activity + because + clause, but now + clause.",
+      "cn": "我最初因为……开始某项活动，但现在……",
+      "example": "I originally took up cooking because it was practical, but now I find it genuinely relaxing."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "take up a hobby",
+      "cn": "开始一项爱好",
+      "example": "I took up photography during a long summer holiday."
+    },
+    {
+      "text": "lose track of time",
+      "cn": "忘记时间",
+      "example": "I often lose track of time when I’m drawing."
+    },
+    {
+      "text": "do something for fun",
+      "cn": "为了乐趣做某事",
+      "example": "I play the guitar for fun rather than performing."
+    },
+    {
+      "text": "try my hand at",
+      "cn": "尝试做某事",
+      "example": "I’d like to try my hand at making pottery."
+    },
+    {
+      "text": "a good way to unwind",
+      "cn": "很好的放松方式",
+      "example": "Gardening is a good way to unwind after a busy day."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "My hobby is play badminton.",
+      "correct": "My hobby is playing badminton.",
+      "why": "be 动词后说明爱好时使用动名词。"
+    },
+    {
+      "wrong": "I do photography since two years.",
+      "correct": "I have been doing photography for two years.",
+      "why": "持续至今使用现在完成进行时，时长前用 for。"
+    },
+    {
+      "wrong": "It makes me feel relax.",
+      "correct": "It makes me feel relaxed.",
+      "why": "描述人的感受用形容词 relaxed。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Hobbies contribute to mental well-being.",
+      "topicSentence": "Regular leisure activities give people a necessary break from work-related pressure.",
+      "collocations": [
+        "reduce everyday stress",
+        "provide a creative outlet",
+        "focus on the present",
+        "maintain emotional well-being"
+      ],
+      "argument": "Many adults spend much of the day responding to deadlines or other people’s demands. A hobby creates a period in which attention can be directed towards an enjoyable task with no professional consequence. Activities such as painting or gardening may also make progress visible, which provides satisfaction. This mental change can reduce rumination after work. Leisure should therefore be viewed as part of a balanced life rather than wasted time."
+    },
+    {
+      "viewpoint": "Children should have some unstructured free time.",
+      "topicSentence": "Scheduling every hour of a child’s day can limit independent exploration.",
+      "collocations": [
+        "unstructured play",
+        "choose an activity independently",
+        "develop personal interests",
+        "an overloaded schedule"
+      ],
+      "argument": "Organised lessons expose children to useful skills, but adults usually select the content and goal. During unstructured time, children must decide what to do, manage boredom and create their own games or projects. This process can reveal interests that formal classes overlook. It also teaches them to direct attention without constant instruction. Parents can provide safe options while resisting the urge to organise every moment."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What do you usually do in your free time?",
+      "answer": "I normally do something fairly quiet, like reading, cooking or going for a walk with a podcast. My work involves a lot of screen time, so I try not to spend the whole evening watching short videos. At weekends I occasionally take photographs around the city. It gives me a reason to notice small details that I’d otherwise walk past."
+    },
+    {
+      "part": "Part 1",
+      "question": "Is there a hobby you would like to try in the future?",
+      "answer": "I’d like to try pottery. I enjoy practical activities where you can see an object gradually taking shape, and it would be a complete change from working on a computer. I’m sure my first attempts would look terrible, but that’s part of the appeal. I’d rather learn slowly than turn it into another thing I have to perform well."
+    }
+  ],
+  "reading": {
+    "title": "The Unexpected Value of Amateur Work",
+    "paragraphs": [
+      "The word ‘amateur’ is sometimes used dismissively, suggesting work of low quality. Its earlier meaning, however, was simply a person who pursued an activity out of love rather than for payment. Amateur astronomers, gardeners, musicians and craftspeople may lack formal qualifications, yet many devote years to developing detailed knowledge. Their activities occupy a space between casual entertainment and professional employment.",
+      "One advantage of amateur work is freedom from immediate commercial demand. A professional photographer must consider clients, deadlines and income; an enthusiast can spend weeks recording an unfashionable building or experimenting with an unusual process. This freedom does not guarantee originality, but it permits failure without threatening a career. Techniques discovered through play may later influence professional practice, while the participant gains a sense of ownership over the learning process.",
+      "Amateurs can also make useful contributions where observation must be spread across a large area or long period. Wildlife surveys, weather records and astronomical observations sometimes rely on members of the public who collect repeated local information. The value comes less from any single observation than from a consistent body of records. Training and clear methods remain necessary, since enthusiasm alone cannot ensure accurate data.",
+      "The boundary between amateur and professional has become less fixed as digital platforms allow people to teach, publish and sell work directly. A leisure activity can unexpectedly become a source of income, although this transition changes its character. Once customers and deadlines appear, an absorbing pastime may begin to feel like another job. Some people welcome that development; others deliberately keep their hobby separate, protecting a part of life where improvement matters but productivity does not.",
+      "The absence of external reward can change the way progress is judged. An amateur may repeat a difficult technique because the process itself is satisfying, not because a certificate or customer requires it. This private standard can support experimentation, although feedback from a club or experienced teacher still helps prevent enthusiasm from reinforcing avoidable mistakes."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The original meaning of amateur referred to motivation rather than poor quality.",
+        "answer": "True",
+        "explanation": "Paragraph 1 says it meant pursuing an activity out of love rather than payment."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph describes amateurs collecting information over an extended period?",
+        "answer": "C",
+        "explanation": "Paragraph C discusses repeated wildlife, weather and astronomy records."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why might someone keep a hobby separate from paid work?",
+        "options": [
+          "To avoid learning new techniques",
+          "To protect an activity from commercial pressure",
+          "Because online selling is impossible",
+          "Because professionals never enjoy their work"
+        ],
+        "answer": "B",
+        "explanation": "The final paragraph explains that customers and deadlines can change a pastime into another job."
+      }
+    ]
+  }
+}

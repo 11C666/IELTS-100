@@ -1,0 +1,349 @@
+{
+  "id": 35,
+  "topic": "Leadership",
+  "topicCN": "领导力",
+  "category": "Work",
+  "vocabulary": [
+    {
+      "word": "leadership style",
+      "ipa": "/ˈliːdəʃɪp staɪl/",
+      "meaning": "领导风格",
+      "collocation": "adapt a leadership style to the situation",
+      "collocationCN": "根据情况调整领导风格"
+    },
+    {
+      "word": "strategic vision",
+      "ipa": "/strəˌtiːdʒɪk ˈvɪʒən/",
+      "meaning": "战略愿景",
+      "collocation": "communicate a clear strategic vision",
+      "collocationCN": "传达清晰的战略愿景"
+    },
+    {
+      "word": "decisiveness",
+      "ipa": "/dɪˈsaɪsɪvnəs/",
+      "meaning": "果断",
+      "collocation": "show decisiveness in a crisis",
+      "collocationCN": "在危机中表现果断"
+    },
+    {
+      "word": "integrity",
+      "ipa": "/ɪnˈteɡrəti/",
+      "meaning": "正直；诚信",
+      "collocation": "lead with integrity",
+      "collocationCN": "以诚信领导"
+    },
+    {
+      "word": "credibility",
+      "ipa": "/ˌkredəˈbɪləti/",
+      "meaning": "可信度",
+      "collocation": "earn credibility through consistent action",
+      "collocationCN": "通过言行一致赢得信任"
+    },
+    {
+      "word": "situational awareness",
+      "ipa": "/ˌsɪtʃuˈeɪʃənəl əˈweənəs/",
+      "meaning": "情境意识",
+      "collocation": "exercise situational awareness before intervening",
+      "collocationCN": "介入前运用情境意识作出判断"
+    },
+    {
+      "word": "inclusive leadership",
+      "ipa": "/ɪnˌkluːsɪv ˈliːdəʃɪp/",
+      "meaning": "包容型领导方式",
+      "collocation": "practise inclusive leadership",
+      "collocationCN": "践行包容型领导"
+    },
+    {
+      "word": "succession planning",
+      "ipa": "/səkˈseʃən ˌplænɪŋ/",
+      "meaning": "继任规划",
+      "collocation": "invest in succession planning",
+      "collocationCN": "投入继任规划"
+    },
+    {
+      "word": "decision-making authority",
+      "ipa": "/dɪˈsɪʒən ˌmeɪkɪŋ ɔːˈθɒrəti/",
+      "meaning": "决策权",
+      "collocation": "give managers decision-making authority",
+      "collocationCN": "给予管理者决策权"
+    },
+    {
+      "word": "organisational resilience",
+      "ipa": "/ˌɔːɡənaɪˈzeɪʃənəl rɪˈzɪliəns/",
+      "meaning": "组织韧性",
+      "collocation": "strengthen organisational resilience",
+      "collocationCN": "增强组织韧性"
+    },
+    {
+      "word": "transparent communication",
+      "ipa": "/trænsˌpærənt kəˌmjuːnɪˈkeɪʃən/",
+      "meaning": "透明沟通",
+      "collocation": "maintain transparent communication during change",
+      "collocationCN": "在变革期间保持透明沟通"
+    },
+    {
+      "word": "staff morale",
+      "ipa": "/ˌstɑːf məˈrɑːl/",
+      "meaning": "员工士气",
+      "collocation": "boost staff morale",
+      "collocationCN": "提振员工士气"
+    },
+    {
+      "word": "stewardship",
+      "ipa": "/ˈstjuːədʃɪp/",
+      "meaning": "负责任的管理",
+      "collocation": "show responsible stewardship of public funds",
+      "collocationCN": "负责任地管理公共资金"
+    },
+    {
+      "word": "micromanage",
+      "ipa": "/ˈmaɪkrəʊˌmænɪdʒ/",
+      "meaning": "过度干预细节",
+      "collocation": "resist the urge to micromanage",
+      "collocationCN": "克制事无巨细干预的冲动"
+    },
+    {
+      "word": "empower",
+      "ipa": "/ɪmˈpaʊə/",
+      "meaning": "授权；使能够自主行动",
+      "collocation": "empower staff to solve problems",
+      "collocationCN": "授权员工解决问题"
+    },
+    {
+      "word": "take the lead",
+      "ipa": "/teɪk ðə ˈliːd/",
+      "meaning": "带头；负责牵头",
+      "collocation": "take the lead on a difficult project",
+      "collocationCN": "牵头负责困难项目"
+    },
+    {
+      "word": "lead by example",
+      "ipa": "/liːd baɪ ɪɡˈzɑːmpəl/",
+      "meaning": "以身作则",
+      "collocation": "lead by example during a demanding period",
+      "collocationCN": "在艰难时期以身作则"
+    },
+    {
+      "word": "own up to a mistake",
+      "ipa": "/əʊn ʌp tə ə mɪˈsteɪk/",
+      "meaning": "承认错误",
+      "collocation": "own up to a mistake promptly",
+      "collocationCN": "及时承认错误"
+    },
+    {
+      "word": "make a tough call",
+      "ipa": "/meɪk ə tʌf ˈkɔːl/",
+      "meaning": "作出艰难决定",
+      "collocation": "make a tough call under pressure",
+      "collocationCN": "在压力下作出艰难决定"
+    },
+    {
+      "word": "bring people on board",
+      "ipa": "/brɪŋ ˌpiːpəl ɒn ˈbɔːd/",
+      "meaning": "争取人们的支持",
+      "collocation": "bring sceptical employees on board",
+      "collocationCN": "争取持怀疑态度员工的支持"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "good leader",
+      "options": [
+        "effective leader",
+        "responsible decision-maker",
+        "trusted manager"
+      ],
+      "note": "effective 强调结果，trusted 强调关系。"
+    },
+    {
+      "base": "admit uncertainty",
+      "options": [
+        "acknowledge what is unknown",
+        "express justified doubt",
+        "recognise incomplete evidence"
+      ],
+      "note": "acknowledge 不等于软弱。"
+    },
+    {
+      "base": "ask staff for ideas",
+      "options": [
+        "consult team members",
+        "invite informed challenge",
+        "seek front-line evidence"
+      ],
+      "note": "consult 仍保留最终决策权。"
+    },
+    {
+      "base": "make a hard decision",
+      "options": [
+        "make a tough call",
+        "take an unpopular decision",
+        "exercise judgement under pressure"
+      ],
+      "note": "tough call 偏口语。"
+    },
+    {
+      "base": "give work to others",
+      "options": [
+        "delegate responsibility",
+        "transfer decision authority",
+        "assign ownership"
+      ],
+      "note": "delegation 应同时给予相应权力。"
+    },
+    {
+      "base": "accept blame",
+      "options": [
+        "take responsibility",
+        "remain accountable",
+        "own the outcome"
+      ],
+      "note": "accountable 强调需要解释与承担后果。"
+    },
+    {
+      "base": "change a decision",
+      "options": [
+        "correct course",
+        "revise the plan",
+        "update the judgement"
+      ],
+      "note": "correct course 强调根据证据调整。"
+    },
+    {
+      "base": "safe to speak",
+      "options": [
+        "psychological safety",
+        "an environment for candid reporting",
+        "freedom to raise concerns"
+      ],
+      "note": "psychological safety 不代表没有标准。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Leadership is demonstrated less by + symbolic action + than by + consistent behaviour.",
+      "cn": "领导力与其说体现在象征性行动，不如说体现在持续行为。",
+      "example": "Leadership is demonstrated less by speeches than by consistent decisions under pressure."
+    },
+    {
+      "pattern": "By admitting + uncertainty/error, a leader makes it easier for others to + beneficial action.",
+      "cn": "领导者承认不确定或错误，会让他人更容易……。",
+      "example": "By admitting uncertainty, a leader makes it easier for others to raise concerns."
+    },
+    {
+      "pattern": "A decision may be unpopular without being + negative quality, provided that + accountability condition.",
+      "cn": "只要满足问责条件，一个决定即使不受欢迎，也未必……。",
+      "example": "A decision may be unpopular without being unfair, provided that its reasons are transparent."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "lead by example",
+      "cn": "以身作则",
+      "example": "Managers should lead by example when workloads increase."
+    },
+    {
+      "text": "take responsibility for a decision",
+      "cn": "为决定承担责任",
+      "example": "A good leader takes responsibility for a decision that goes wrong."
+    },
+    {
+      "text": "bring people on board",
+      "cn": "争取人们支持",
+      "example": "She brought people on board by explaining the purpose of the change."
+    },
+    {
+      "text": "delegate effectively",
+      "cn": "有效授权",
+      "example": "Leaders need to delegate effectively instead of controlling every detail."
+    },
+    {
+      "text": "make a tough call",
+      "cn": "作出艰难决定",
+      "example": "Closing the unsafe site was a tough call, but it was necessary."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "He is a leader with many experiences.",
+      "correct": "He is a leader with extensive experience.",
+      "why": "experience 表示经验时不可数。"
+    },
+    {
+      "wrong": "She is good in managing people.",
+      "correct": "She is good at managing people.",
+      "why": "be good at 后接名词或动名词。"
+    },
+    {
+      "wrong": "The manager made us to work late.",
+      "correct": "The manager made us work late.",
+      "why": "主动语态 make somebody do 不带 to。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Psychological safety is a leadership responsibility.",
+      "topicSentence": "Leaders should make it possible to report errors and risks before they become crises.",
+      "collocations": [
+        "raise a concern",
+        "admit an error",
+        "respond without blame",
+        "prevent avoidable harm"
+      ],
+      "argument": "Employees remain silent when previous bad news has been punished or ignored. A leader can change this expectation by thanking people for early warnings and separating honest mistakes from reckless conduct. Open reporting allows a team to correct weak processes before damage spreads. It also gives leaders less flattering but more accurate information. Psychological safety does not remove accountability; it makes accountability informed."
+    },
+    {
+      "viewpoint": "Delegation should transfer authority as well as tasks.",
+      "topicSentence": "Assigning responsibility without decision-making power creates delay and frustration.",
+      "collocations": [
+        "delegate a responsibility",
+        "grant decision-making authority",
+        "define clear limits",
+        "review the outcome"
+      ],
+      "argument": "A manager may ask an employee to own a project while requiring approval for every minor choice. The employee then carries the risk but cannot control the work, and the manager remains a bottleneck. Effective delegation defines the result, available resources and decisions that can be made independently. Review points provide support without constant interference. This arrangement develops capability and leaves senior attention for genuinely strategic issues."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What qualities do you respect in a leader?",
+      "answer": "I respect leaders who are calm enough to listen before giving an answer. I also notice whether they apply the same standard to themselves and admit when information changes their mind. Charisma can make a meeting enjoyable, but consistency builds trust over time. I would rather have a predictable, honest leader than a dramatic one."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe someone you consider a good leader.",
+      "answer": "A former project manager was a good leader because she made responsibilities exceptionally clear. At the start of each week, she named the key decision and asked which information was still missing. If a problem emerged, she focused first on repairing the process rather than finding someone to blame. She also protected the team from last-minute requests that did not support the goal. People worked hard for her because her expectations were demanding but understandable. When deadlines slipped, she explained the trade-off to the client rather than transferring panic to the team. She also admitted when an early estimate had been unrealistic and changed the schedule openly. That behaviour made it safe for us to report difficulties early. I learned that good leadership can be quiet: it creates accurate information and steady action rather than relying on inspirational language."
+    }
+  ],
+  "reading": {
+    "title": "The Cost of the Leader Who Always Knows",
+    "paragraphs": [
+      "Leaders are often rewarded for confident answers. In uncertain situations, however, certainty can become a performance that blocks useful information. If a manager announces both the problem and the solution before others speak, employees adjust their contributions around that position. Doubt is interpreted as disloyalty, and evidence that does not fit may remain at the edge of the conversation.",
+      "The danger is greatest when information is distributed. Front-line staff may notice a small operational change, while analysts see a statistical pattern and customers describe a new frustration. No individual has the complete picture. A leader who says “I may be missing something” does not surrender authority; the phrase creates a legitimate opening for knowledge to move upward. The final decision can still remain clearly theirs.",
+      "Humility is useful only when paired with action. Endless requests for views can postpone a difficult choice and leave responsibility unclear. Effective leaders specify when consultation ends, explain the criteria and state which uncertainties remain. After implementation, they compare outcomes with the assumptions behind the decision. A failed prediction then becomes information for revision rather than something to hide.",
+      "This approach changes how competence is understood. Expertise includes recognising familiar patterns, but leadership operates precisely where consequences involve other people and evidence is incomplete. The strongest signal is not an uninterrupted record of being right. It is the capacity to gather inconvenient information, decide at an appropriate point and correct course without rewriting the history of the earlier choice. Confidence is valuable when it supports action; it is dangerous when it protects an image.",
+      "Corrections also need proportion. Constantly changing direction can be as disruptive as refusing to change at all. Leaders should distinguish new evidence about a central assumption from ordinary variation that the plan already anticipated. Stating in advance what would trigger review protects a team from both stubbornness and reaction. It also makes a later change easier to explain without presenting it as personal inconsistency."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Expressing uncertainty necessarily means giving up decision-making authority.",
+        "answer": "False",
+        "explanation": "Paragraph 2 explicitly says it does not surrender authority."
+      },
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for paragraph 3.",
+        "answer": "Consultation must eventually lead to accountable action",
+        "explanation": "Paragraph 3 balances humility with deadlines, criteria and review."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What should leaders compare with the assumptions behind a decision?",
+        "answer": "outcomes",
+        "explanation": "Paragraph 3 says they compare outcomes with assumptions."
+      }
+    ]
+  }
+}

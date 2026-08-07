@@ -1,0 +1,349 @@
+{
+  "id": 43,
+  "topic": "Rural Communities",
+  "topicCN": "乡村社区",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "village hall",
+      "ipa": "/ˈvɪlɪdʒ hɔːl/",
+      "meaning": "村民活动中心",
+      "collocation": "hold a meeting in the village hall",
+      "collocationCN": "在村民活动中心开会"
+    },
+    {
+      "word": "smallholding",
+      "ipa": "/ˈsmɔːlhəʊldɪŋ/",
+      "meaning": "小农场",
+      "collocation": "run a smallholding",
+      "collocationCN": "经营小农场"
+    },
+    {
+      "word": "harvest",
+      "ipa": "/ˈhɑːvɪst/",
+      "meaning": "收成；收获",
+      "collocation": "bring in the harvest",
+      "collocationCN": "收割庄稼"
+    },
+    {
+      "word": "livestock",
+      "ipa": "/ˈlaɪvstɒk/",
+      "meaning": "家畜",
+      "collocation": "raise livestock",
+      "collocationCN": "饲养家畜"
+    },
+    {
+      "word": "remote",
+      "ipa": "/rɪˈməʊt/",
+      "meaning": "偏远的",
+      "collocation": "a remote rural area",
+      "collocationCN": "偏远农村地区"
+    },
+    {
+      "word": "parish",
+      "ipa": "/ˈpærɪʃ/",
+      "meaning": "乡村行政区；教区",
+      "collocation": "serve the wider parish",
+      "collocationCN": "服务整个乡村行政区"
+    },
+    {
+      "word": "farm shop",
+      "ipa": "/ˈfɑːm ʃɒp/",
+      "meaning": "农场商店",
+      "collocation": "buy produce from a farm shop",
+      "collocationCN": "从农场商店购买农产品"
+    },
+    {
+      "word": "broadband",
+      "ipa": "/ˈbrɔːdbænd/",
+      "meaning": "宽带网络",
+      "collocation": "improve rural broadband",
+      "collocationCN": "改善农村宽带网络"
+    },
+    {
+      "word": "depopulation",
+      "ipa": "/diːˌpɒpjəˈleɪʃən/",
+      "meaning": "人口减少",
+      "collocation": "reverse rural depopulation",
+      "collocationCN": "扭转农村人口流失"
+    },
+    {
+      "word": "market town",
+      "ipa": "/ˈmɑːkɪt taʊn/",
+      "meaning": "集镇",
+      "collocation": "travel to the nearest market town",
+      "collocationCN": "前往最近的集镇"
+    },
+    {
+      "word": "hedgerow",
+      "ipa": "/ˈhedʒrəʊ/",
+      "meaning": "田边树篱",
+      "collocation": "maintain traditional hedgerows",
+      "collocationCN": "维护传统田边树篱"
+    },
+    {
+      "word": "footpath",
+      "ipa": "/ˈfʊtpɑːθ/",
+      "meaning": "乡间步道",
+      "collocation": "follow a public footpath",
+      "collocationCN": "沿公共步道行走"
+    },
+    {
+      "word": "tenant farmer",
+      "ipa": "/ˈtenənt ˌfɑːmə/",
+      "meaning": "佃农",
+      "collocation": "support tenant farmers",
+      "collocationCN": "支持佃农"
+    },
+    {
+      "word": "rural isolation",
+      "ipa": "/ˌrʊərəl aɪsəˈleɪʃən/",
+      "meaning": "乡村隔绝",
+      "collocation": "reduce rural isolation",
+      "collocationCN": "减少乡村隔绝"
+    },
+    {
+      "word": "mobile library",
+      "ipa": "/ˌməʊbaɪl ˈlaɪbrəri/",
+      "meaning": "流动图书馆",
+      "collocation": "operate a mobile library",
+      "collocationCN": "运营流动图书馆"
+    },
+    {
+      "word": "seasonal work",
+      "ipa": "/ˈsiːzənəl wɜːk/",
+      "meaning": "季节性工作",
+      "collocation": "rely on seasonal work",
+      "collocationCN": "依赖季节性工作"
+    },
+    {
+      "word": "crop yield",
+      "ipa": "/ˈkrɒp jiːld/",
+      "meaning": "作物产量",
+      "collocation": "improve crop yields",
+      "collocationCN": "提高作物产量"
+    },
+    {
+      "word": "local produce",
+      "ipa": "/ˌləʊkəl ˈprɒdjuːs/",
+      "meaning": "本地农产品",
+      "collocation": "sell local produce",
+      "collocationCN": "销售本地农产品"
+    },
+    {
+      "word": "community-run",
+      "ipa": "/kəˈmjuːnəti rʌn/",
+      "meaning": "社区运营的",
+      "collocation": "a community-run shop",
+      "collocationCN": "社区运营的商店"
+    },
+    {
+      "word": "rural livelihood",
+      "ipa": "/ˌrʊərəl ˈlaɪvlihʊd/",
+      "meaning": "农村生计",
+      "collocation": "protect rural livelihoods",
+      "collocationCN": "保障农村生计"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论乡村社区。"
+    },
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论乡村社区。"
+    },
+    {
+      "base": "change",
+      "options": [
+        "shift",
+        "development",
+        "transformation"
+      ],
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论乡村社区。"
+    },
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论乡村社区。"
+    },
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论乡村社区。"
+    },
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise the quality of"
+      ],
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论乡村社区。"
+    },
+    {
+      "base": "reduce",
+      "options": [
+        "decrease",
+        "limit",
+        "bring down"
+      ],
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论乡村社区。"
+    },
+    {
+      "base": "people",
+      "options": [
+        "individuals",
+        "members of the public",
+        "residents"
+      ],
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论乡村社区。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "For rural residents, the loss of + service + can mean not only + inconvenience, but also + wider consequence.",
+      "cn": "对乡村居民而言，失去某项服务不仅意味着不便，还意味着更广泛后果。",
+      "example": "For rural residents, the loss of a bus can mean not only inconvenience, but also reduced access to healthcare."
+    },
+    {
+      "pattern": "Because + rural resource + serves a dispersed population, its value cannot be judged solely by + volume measure.",
+      "cn": "由于乡村资源服务分散人口，其价值不能只按数量衡量。",
+      "example": "Because a village shop serves a dispersed population, its value cannot be judged solely by daily sales."
+    },
+    {
+      "pattern": "By sharing + facility/resource, neighbouring communities can + benefit + without + cost.",
+      "cn": "通过共享某设施或资源，相邻社区可以在不付出某代价的情况下……。",
+      "example": "By sharing specialist staff, neighbouring communities can maintain services without duplicating every post."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "a close-knit community",
+      "cn": "关系紧密的社区",
+      "example": "It is a close-knit community where neighbours notice when someone needs help."
+    },
+    {
+      "text": "live off the beaten track",
+      "cn": "住在偏僻处",
+      "example": "Some families live off the beaten track and depend on private transport."
+    },
+    {
+      "text": "move away for work",
+      "cn": "为工作搬离",
+      "example": "Young adults often move away for work or study."
+    },
+    {
+      "text": "keep a village alive",
+      "cn": "维持村庄活力",
+      "example": "A school and local shop can help keep a village alive."
+    },
+    {
+      "text": "access essential services",
+      "cn": "获得基本服务",
+      "example": "Reliable broadband can improve access to essential services."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "There are less jobs in villages.",
+      "correct": "There are fewer jobs in villages.",
+      "why": "jobs 是可数复数，用 fewer。"
+    },
+    {
+      "wrong": "People in countryside need cars.",
+      "correct": "People in the countryside often need cars.",
+      "why": "countryside 前通常使用 the。"
+    },
+    {
+      "wrong": "The village lacks of medical services.",
+      "correct": "The village lacks medical services.",
+      "why": "lack 作动词时直接接宾语，不加 of。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Rural services should be assessed by social value as well as usage volume.",
+      "topicSentence": "Low customer numbers do not necessarily make a rural service unimportant.",
+      "collocations": [
+        "maintain essential provision",
+        "serve a dispersed population",
+        "prevent social isolation",
+        "measure wider social value"
+      ],
+      "argument": "A village bus or post office may handle fewer transactions than an urban equivalent, yet each transaction can have greater importance where alternatives are distant. Closing the service may increase isolation, private travel and pressure on relatives who provide lifts. These secondary costs rarely appear in the service’s own budget. Authorities should evaluate access and community resilience before using volume alone. Targeted support can be justified when one modest facility enables several other parts of rural life."
+    },
+    {
+      "viewpoint": "Digital connectivity is infrastructure, not a complete rural strategy.",
+      "topicSentence": "Fast internet can reduce distance, but it cannot replace every physical service or social connection.",
+      "collocations": [
+        "expand broadband coverage",
+        "work remotely",
+        "access online services",
+        "retain face-to-face provision"
+      ],
+      "argument": "Reliable broadband allows some residents to work remotely, consult specialists and operate small businesses from rural locations. It can make a village more attractive to working-age households. Nevertheless, online access cannot transport a patient, provide childcare or reproduce the informal contact of a local shop. Digital-only systems may also disadvantage older residents and people with limited skills. Connectivity should strengthen a network of services rather than provide an excuse to withdraw them."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Would you enjoy living in the countryside?",
+      "answer": "I would enjoy the quieter surroundings and access to open land, but I might find the transport difficult. I like being able to walk to shops and services, which is less common in remote places. A small town near the countryside would probably suit me better than an isolated house."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a rural place you have visited.",
+      "answer": "I once stayed in a farming village surrounded by low hills. There was one main street, a small shop and a bus that ran only a few times a day. In the morning, local people stopped to talk outside the shop, so it functioned as a social place as well as a business. I walked along a path between fields and noticed how quiet the area became once I left the road. The visit was peaceful, but it also showed me the practical limits of rural life. Without a car, an appointment in the nearest town required careful planning. I remember the village because its beauty and its dependence on a few essential services were visible at the same time."
+    }
+  ],
+  "reading": {
+    "title": "When the Village Shop Becomes Infrastructure",
+    "paragraphs": [
+      "A small village shop appears to be an ordinary private business, yet its disappearance can affect far more than shopping. Where the nearest supermarket is fifteen kilometres away, the shop provides access to food for residents who do not drive. It may also receive parcels, display local notices and serve as the one indoor place where people meet without arranging an appointment.",
+      "Financially, such shops face structural disadvantages. Low population limits sales, deliveries cost more and seasonal demand creates uneven cash flow. Extending opening hours may help commuters but increases staffing costs during quiet periods. Owners often add postal services, a café or local products, not merely to increase revenue but to spread risk across several functions.",
+      "Community ownership has emerged as one response. Residents buy small shares or form a cooperative, then employ a manager or contribute volunteer hours. The model can mobilise local loyalty and allow modest profits to be reinvested. However, goodwill does not eliminate the need for retail expertise. Poor stock control and unclear responsibility can exhaust volunteers as quickly as financial loss.",
+      "The social value is difficult to price. A conversation at the counter may reveal that an older customer is unwell; a noticeboard can connect a new resident with a local group. These outcomes are informal and cannot justify every struggling business. Nevertheless, closing the shop may transfer costs to health services, transport providers and families without recording them as consequences of the closure.",
+      "Successful community shops usually combine sentiment with disciplined management. They survey what residents will actually buy, set realistic volunteer roles and revise services as the population changes. Their purpose is not to preserve an unchanged image of village life. It is to maintain a flexible point of access in a place where distance makes ordinary alternatives unusually expensive. Succession is another challenge. A shop built around one energetic owner may struggle when that person retires. Cooperatives can document supplier contacts, maintenance routines and financial decisions so that knowledge belongs to the organisation. Planning for leadership change is less visible than opening-day fundraising, but it determines whether the service survives beyond its founders."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Adding more services always makes a village shop profitable.",
+        "answer": "False",
+        "explanation": "Paragraph 2 says added services spread risk, not that they guarantee profit."
+      },
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for paragraph 4.",
+        "answer": "Benefits that conventional accounts do not capture",
+        "explanation": "Paragraph 4 discusses informal social value and transferred costs."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Community shops should establish realistic roles for ______.",
+        "answer": "volunteers",
+        "explanation": "The final paragraph uses this phrase."
+      }
+    ]
+  }
+}

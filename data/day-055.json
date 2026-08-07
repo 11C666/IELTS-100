@@ -1,0 +1,349 @@
+{
+  "id": 55,
+  "topic": "Language Change",
+  "topicCN": "语言变化",
+  "category": "Culture",
+  "vocabulary": [
+    {
+      "word": "coinage",
+      "ipa": "/ˈkɔɪnɪdʒ/",
+      "meaning": "新造词",
+      "collocation": "trace a recent coinage",
+      "collocationCN": "追溯一个新造词"
+    },
+    {
+      "word": "neologism",
+      "ipa": "/niˈɒlədʒɪzəm/",
+      "meaning": "新词；新义",
+      "collocation": "adopt a popular neologism",
+      "collocationCN": "采用一个流行新词"
+    },
+    {
+      "word": "slang",
+      "ipa": "/slæŋ/",
+      "meaning": "俚语",
+      "collocation": "use informal slang",
+      "collocationCN": "使用非正式俚语"
+    },
+    {
+      "word": "jargon",
+      "ipa": "/ˈdʒɑːɡən/",
+      "meaning": "行话；术语",
+      "collocation": "avoid unnecessary jargon",
+      "collocationCN": "避免不必要的行话"
+    },
+    {
+      "word": "dialect",
+      "ipa": "/ˈdaɪəlekt/",
+      "meaning": "方言",
+      "collocation": "speak a regional dialect",
+      "collocationCN": "说一种地方方言"
+    },
+    {
+      "word": "abbreviation",
+      "ipa": "/əˌbriːviˈeɪʃən/",
+      "meaning": "缩写",
+      "collocation": "use a standard abbreviation",
+      "collocationCN": "使用标准缩写"
+    },
+    {
+      "word": "acronym",
+      "ipa": "/ˈækrənɪm/",
+      "meaning": "首字母缩略词",
+      "collocation": "create a memorable acronym",
+      "collocationCN": "创造一个易记的首字母缩略词"
+    },
+    {
+      "word": "loanword",
+      "ipa": "/ˈləʊnwɜːd/",
+      "meaning": "外来词",
+      "collocation": "borrow a loanword from another language",
+      "collocationCN": "从另一种语言借用外来词"
+    },
+    {
+      "word": "word meaning",
+      "ipa": "/ˈwɜːd ˌmiːnɪŋ/",
+      "meaning": "词义",
+      "collocation": "undergo a change in word meaning",
+      "collocationCN": "经历词义变化"
+    },
+    {
+      "word": "semantic shift",
+      "ipa": "/sɪˌmæntɪk ˈʃɪft/",
+      "meaning": "语义演变",
+      "collocation": "document a semantic shift",
+      "collocationCN": "记录语义演变"
+    },
+    {
+      "word": "grammar rule",
+      "ipa": "/ˈɡræmə ruːl/",
+      "meaning": "语法规则",
+      "collocation": "challenge a traditional grammar rule",
+      "collocationCN": "质疑传统语法规则"
+    },
+    {
+      "word": "usage",
+      "ipa": "/ˈjuːsɪdʒ/",
+      "meaning": "语言用法",
+      "collocation": "reflect current usage",
+      "collocationCN": "反映当前语言用法"
+    },
+    {
+      "word": "standard English",
+      "ipa": "/ˌstændəd ˈɪŋɡlɪʃ/",
+      "meaning": "标准英语",
+      "collocation": "write in standard English",
+      "collocationCN": "用标准英语写作"
+    },
+    {
+      "word": "informal register",
+      "ipa": "/ɪnˌfɔːməl ˈredʒɪstə/",
+      "meaning": "非正式语域",
+      "collocation": "switch to an informal register",
+      "collocationCN": "转换为非正式语域"
+    },
+    {
+      "word": "code-switching",
+      "ipa": "/ˈkəʊd ˌswɪtʃɪŋ/",
+      "meaning": "语码转换",
+      "collocation": "engage in code-switching",
+      "collocationCN": "进行语码转换"
+    },
+    {
+      "word": "language contact",
+      "ipa": "/ˈlæŋɡwɪdʒ ˌkɒntækt/",
+      "meaning": "语言接触",
+      "collocation": "change through language contact",
+      "collocationCN": "因语言接触而变化"
+    },
+    {
+      "word": "language evolution",
+      "ipa": "/ˈlæŋɡwɪdʒ ˌiːvəˈluːʃən/",
+      "meaning": "语言演变",
+      "collocation": "study language evolution",
+      "collocationCN": "研究语言演变"
+    },
+    {
+      "word": "fall out of use",
+      "ipa": "/ˌfɔːl aʊt əv ˈjuːs/",
+      "meaning": "不再使用",
+      "collocation": "gradually fall out of use",
+      "collocationCN": "逐渐不再使用"
+    },
+    {
+      "word": "catch on",
+      "ipa": "/ˌkætʃ ˈɒn/",
+      "meaning": "流行起来",
+      "collocation": "a new expression catches on",
+      "collocationCN": "一个新表达流行起来"
+    },
+    {
+      "word": "language prescriptivism",
+      "ipa": "/ˈlæŋɡwɪdʒ prɪˌskrɪptɪvɪzəm/",
+      "meaning": "语言规范主义",
+      "collocation": "question strict language prescriptivism",
+      "collocationCN": "质疑严格的语言规范主义"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论语言变化。"
+    },
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise the quality of"
+      ],
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论语言变化。"
+    },
+    {
+      "base": "reduce",
+      "options": [
+        "decrease",
+        "limit",
+        "bring down"
+      ],
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论语言变化。"
+    },
+    {
+      "base": "people",
+      "options": [
+        "individuals",
+        "members of the public",
+        "residents"
+      ],
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论语言变化。"
+    },
+    {
+      "base": "use",
+      "options": [
+        "make use of",
+        "adopt",
+        "rely on"
+      ],
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论语言变化。"
+    },
+    {
+      "base": "choice",
+      "options": [
+        "option",
+        "alternative",
+        "decision"
+      ],
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论语言变化。"
+    },
+    {
+      "base": "cause",
+      "options": [
+        "lead to",
+        "contribute to",
+        "give rise to"
+      ],
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论语言变化。"
+    },
+    {
+      "base": "benefit",
+      "options": [
+        "advantage",
+        "positive effect",
+        "gain"
+      ],
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论语言变化。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A new expression gains ground when + speakers + find it useful for + purpose.",
+      "cn": "当说话者发现新表达对某目的有用时，它会普及。",
+      "example": "A new expression gains ground when speakers find it useful for naming a shared experience."
+    },
+    {
+      "pattern": "What is considered incorrect in + context + may be established in + another variety.",
+      "cn": "在某语境被视为错误的形式，可能在另一变体中已确立。",
+      "example": "What is considered incorrect in formal writing may be established in regional speech."
+    },
+    {
+      "pattern": "The fact that language changes does not mean that + standard/clarity + is irrelevant.",
+      "cn": "语言会变化这一事实不意味着标准或清晰度不重要。",
+      "example": "The fact that language changes does not mean that shared conventions are irrelevant."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "coin a new word",
+      "cn": "创造新词",
+      "example": "Writers sometimes coin a new word for an emerging idea."
+    },
+    {
+      "text": "catch on",
+      "cn": "流行起来",
+      "example": "The shortened form caught on among younger speakers."
+    },
+    {
+      "text": "fall out of use",
+      "cn": "不再使用",
+      "example": "Some technical terms fall out of use when the technology disappears."
+    },
+    {
+      "text": "sound old-fashioned",
+      "cn": "听起来过时",
+      "example": "The phrase now sounds old-fashioned in ordinary conversation."
+    },
+    {
+      "text": "enter everyday language",
+      "cn": "进入日常语言",
+      "example": "Several computing terms have entered everyday language."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "English has changed a lot since hundred years.",
+      "correct": "English has changed greatly over the past hundred years.",
+      "why": "时间段前需限定词，且 over the past 搭配自然。"
+    },
+    {
+      "wrong": "This slang is only used by youngs.",
+      "correct": "This slang is used mainly by young people.",
+      "why": "young 不能直接名词化为 youngs。"
+    },
+    {
+      "wrong": "The word’s meaning changed to time.",
+      "correct": "The word’s meaning changed over time.",
+      "why": "固定表达是 over time。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Language change should be described before it is judged.",
+      "topicSentence": "Understanding who uses a form, where and for what purpose is more useful than labelling every innovation as decay.",
+      "collocations": [
+        "observe language use",
+        "identify a speech community",
+        "track semantic change",
+        "distinguish context and register"
+      ],
+      "argument": "A new pronunciation or word may serve identity, efficiency or a newly visible concept. Dismissing it immediately prevents analysis of why speakers adopt it. Description does not require accepting the form in every context; a job application and a private message follow different expectations. Evidence about frequency and audience can guide teaching more accurately than personal irritation. Language standards remain useful when presented as contextual conventions rather than proof that other varieties lack structure."
+    },
+    {
+      "viewpoint": "Schools should teach standard forms without devaluing home varieties.",
+      "topicSentence": "Students gain access to formal institutions when they can use the expected register while retaining respect for their existing language.",
+      "collocations": [
+        "teach standard conventions",
+        "recognise linguistic diversity",
+        "switch between registers",
+        "avoid language prejudice"
+      ],
+      "argument": "A regional or social dialect has systematic grammar even when it differs from the written standard. Treating home speech as careless can silence pupils and confuse identity with academic ability. Teachers can explicitly compare contexts and practise the forms expected in examinations or professional writing. This adds a repertoire rather than demanding cultural erasure. Mastery is demonstrated by purposeful choice between varieties, not by denying that variation exists."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you notice new words entering everyday language?",
+      "answer": "Yes, especially words connected with technology or online behaviour. Some spread so quickly that I forget they are recent, while others disappear after a few months. I am interested in whether a new word names something useful. I do not use every fashionable expression simply because other people do. Usage across different situations tells me whether an expression is likely to last."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a word or expression that you find interesting.",
+      "answer": "I find the expression “doomscrolling” interesting because it combines a behaviour and an emotional consequence in one word. It describes continuing to read negative news online even though the experience makes a person feel worse. Before the word became common, the behaviour existed but required a whole sentence to explain. The expression is informal and may not suit every piece of writing, yet it has helped people recognise a shared habit. I also like how its meaning can be guessed from the two parts. It shows why new vocabulary appears: speakers need an efficient label for an experience created or made more visible by social change."
+    }
+  ],
+  "reading": {
+    "title": "How a Mistake Becomes a Rule",
+    "paragraphs": [
+      "Language histories contain forms that began as reinterpretations. Speakers hear a boundary between words differently, attach an ending to the wrong part or extend a familiar pattern to an exception. If the new form remains individual, it is called an error. If a community adopts it across generations, it can become ordinary grammar or vocabulary.",
+      "One mechanism is analogy. Children who say an irregular past tense as if it were regular are not speaking randomly; they have detected a productive rule. Most later learn the conventional exception, but sometimes the regular pattern spreads through the wider language. Frequency, identity and contact with other varieties all influence which form survives.",
+      "Writers and teachers often resist innovation because shared standards support communication across regions and time. Their concern is not meaningless. Rapid variation in spelling or technical terminology can create ambiguity. Yet standardisation itself selects among earlier alternatives, often through printing, education and institutional power rather than inherent linguistic superiority.",
+      "Change also moves in both directions. Informal expressions enter formal use, while official terminology becomes everyday speech. A word may narrow, broaden or reverse its evaluation. Dictionaries generally record substantial established use; they do not grant permission for a word to exist. Inclusion usually follows evidence rather than causing adoption.",
+      "Calling every innovation a mistake misses the collective process, but declaring that anything is acceptable misses context. During change, speakers judge audience, register and the risk of misunderstanding. The most skilled users often command both emerging and established forms. They understand that language is a changing social agreement, not a choice between permanent rules and complete disorder. Technology accelerates visibility but not necessarily permanent adoption. A spelling can spread through a platform because its interface, character limit or community favours it, then decline when users move elsewhere. Linguists therefore distinguish a temporary fashion from change that enters varied contexts and persists across speakers. Large online datasets help, but they overrepresent people and situations that leave searchable text."
+    ],
+    "questions": [
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains that dictionaries generally follow established usage?",
+        "answer": "D",
+        "explanation": "Paragraph D describes dictionary inclusion."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer says all new forms are appropriate in every context.",
+        "answer": "No",
+        "explanation": "The final paragraph explicitly rejects this view."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What mechanism extends a familiar pattern to an exception?",
+        "answer": "analogy",
+        "explanation": "Paragraph 2 names analogy."
+      }
+    ]
+  }
+}

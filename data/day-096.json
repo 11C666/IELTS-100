@@ -1,0 +1,355 @@
+{
+  "id": 96,
+  "topic": "Global Health",
+  "topicCN": "全球健康",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "health inequity",
+      "ipa": "/helθ ɪnˈekwəti/",
+      "meaning": "健康不平等",
+      "collocation": "address health inequities",
+      "collocationCN": "应对健康不平等"
+    },
+    {
+      "word": "disease burden",
+      "ipa": "/dɪˈziːz ˈbɜːdn/",
+      "meaning": "疾病负担",
+      "collocation": "reduce the disease burden",
+      "collocationCN": "减轻疾病负担"
+    },
+    {
+      "word": "primary care",
+      "ipa": "/ˈpraɪməri keə/",
+      "meaning": "初级医疗",
+      "collocation": "strengthen primary care",
+      "collocationCN": "加强初级医疗"
+    },
+    {
+      "word": "universal health coverage",
+      "ipa": "/ˌjuːnɪˈvɜːsl helθ ˈkʌvərɪdʒ/",
+      "meaning": "全民健康保障",
+      "collocation": "expand universal health coverage",
+      "collocationCN": "扩大全民健康保障"
+    },
+    {
+      "word": "preventable illness",
+      "ipa": "/prɪˈventəbl ˈɪlnəs/",
+      "meaning": "可预防疾病",
+      "collocation": "reduce preventable illness",
+      "collocationCN": "减少可预防疾病"
+    },
+    {
+      "word": "disease surveillance",
+      "ipa": "/dɪˈziːz səˈveɪləns/",
+      "meaning": "疾病监测",
+      "collocation": "improve disease surveillance",
+      "collocationCN": "改善疾病监测"
+    },
+    {
+      "word": "outbreak",
+      "ipa": "/ˈaʊtbreɪk/",
+      "meaning": "疫情暴发",
+      "collocation": "contain an outbreak",
+      "collocationCN": "控制疫情"
+    },
+    {
+      "word": "vaccination coverage",
+      "ipa": "/ˌvæksɪˈneɪʃən ˈkʌvərɪdʒ/",
+      "meaning": "疫苗接种覆盖率",
+      "collocation": "increase vaccination coverage",
+      "collocationCN": "提高疫苗接种覆盖率"
+    },
+    {
+      "word": "antimicrobial resistance",
+      "ipa": "/ˌæntimaɪˈkrəʊbiəl rɪˈzɪstəns/",
+      "meaning": "抗微生物药物耐药性",
+      "collocation": "combat antimicrobial resistance",
+      "collocationCN": "应对抗微生物药物耐药性"
+    },
+    {
+      "word": "maternal mortality",
+      "ipa": "/məˈtɜːnl mɔːˈtæləti/",
+      "meaning": "孕产妇死亡率",
+      "collocation": "lower maternal mortality",
+      "collocationCN": "降低孕产妇死亡率"
+    },
+    {
+      "word": "health workforce",
+      "ipa": "/helθ ˈwɜːkfɔːs/",
+      "meaning": "卫生人力队伍",
+      "collocation": "train the health workforce",
+      "collocationCN": "培训卫生人员"
+    },
+    {
+      "word": "cold chain",
+      "ipa": "/kəʊld tʃeɪn/",
+      "meaning": "冷链",
+      "collocation": "maintain the vaccine cold chain",
+      "collocationCN": "维持疫苗冷链"
+    },
+    {
+      "word": "diagnostic capacity",
+      "ipa": "/ˌdaɪəɡˈnɒstɪk kəˈpæsəti/",
+      "meaning": "诊断能力",
+      "collocation": "build diagnostic capacity",
+      "collocationCN": "提升诊断能力"
+    },
+    {
+      "word": "cross-border cooperation",
+      "ipa": "/ˌkrɒs ˈbɔːdə kəʊˌɒpəˈreɪʃən/",
+      "meaning": "跨境合作",
+      "collocation": "strengthen cross-border cooperation",
+      "collocationCN": "加强跨境合作"
+    },
+    {
+      "word": "social determinant",
+      "ipa": "/ˈsəʊʃl dɪˈtɜːmɪnənt/",
+      "meaning": "社会决定因素",
+      "collocation": "address social determinants of health",
+      "collocationCN": "处理健康的社会决定因素"
+    },
+    {
+      "word": "seek medical attention",
+      "ipa": "/siːk ˈmedɪkl əˈtenʃən/",
+      "meaning": "寻求医疗救治",
+      "collocation": "seek medical attention promptly",
+      "collocationCN": "及时就医"
+    },
+    {
+      "word": "get a check-up",
+      "ipa": "/ɡet ə ˈtʃek ʌp/",
+      "meaning": "做健康检查",
+      "collocation": "get a regular check-up",
+      "collocationCN": "定期体检"
+    },
+    {
+      "word": "follow up with a patient",
+      "ipa": "/ˈfɒləʊ ʌp wɪð ə ˈpeɪʃnt/",
+      "meaning": "对患者进行随访",
+      "collocation": "follow up with patients by phone",
+      "collocationCN": "电话随访患者"
+    },
+    {
+      "word": "miss an appointment",
+      "ipa": "/mɪs ən əˈpɔɪntmənt/",
+      "meaning": "错过预约",
+      "collocation": "avoid missing an appointment",
+      "collocationCN": "避免错过预约"
+    },
+    {
+      "word": "make informed health decisions",
+      "ipa": "/meɪk ɪnˈfɔːmd helθ dɪˈsɪʒənz/",
+      "meaning": "作出知情健康决定",
+      "collocation": "help families make informed health decisions",
+      "collocationCN": "帮助家庭作出知情健康决定"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "health around the world",
+      "options": [
+        "global health",
+        "population health across countries",
+        "health challenges that cross national boundaries"
+      ],
+      "note": "global health不仅指国外医疗，也包括跨国因素和不平等。"
+    },
+    {
+      "base": "poor access to healthcare",
+      "options": [
+        "limited access to care",
+        "barriers to essential health services",
+        "inadequate availability of affordable treatment"
+      ],
+      "note": "availability和affordability可分别指出供给与费用问题。"
+    },
+    {
+      "base": "stop disease",
+      "options": [
+        "prevent illness",
+        "reduce disease transmission",
+        "protect populations from avoidable infection"
+      ],
+      "note": "reduce transmission比stop更准确。"
+    },
+    {
+      "base": "people die during pregnancy",
+      "options": [
+        "maternal deaths occur",
+        "women face pregnancy-related mortality",
+        "pregnancy and childbirth contribute to preventable mortality"
+      ],
+      "note": "maternal mortality是正式统计术语。"
+    },
+    {
+      "base": "watch for new cases",
+      "options": [
+        "conduct disease surveillance",
+        "monitor emerging infections",
+        "systematically detect and report cases"
+      ],
+      "note": "surveillance包含持续收集、分析和报告。"
+    },
+    {
+      "base": "medical workers",
+      "options": [
+        "health professionals",
+        "the healthcare workforce",
+        "trained personnel delivering health services"
+      ],
+      "note": "workforce强调一个系统中的人力资源。"
+    },
+    {
+      "base": "health differences",
+      "options": [
+        "health disparities",
+        "inequalities in health outcomes",
+        "unequal patterns of illness and survival"
+      ],
+      "note": "disparity描述差距，inequity还暗示不公平。"
+    },
+    {
+      "base": "work together internationally",
+      "options": [
+        "coordinate across borders",
+        "pursue international health cooperation",
+        "share data and resources between health systems"
+      ],
+      "note": "coordinate强调行动衔接而非泛泛合作。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Even where + treatment + is available, patients may be unable to use it because + access barrier.",
+      "cn": "即使某种治疗已经存在，患者仍可能因具体的就医障碍而无法获得它。",
+      "example": "Even where malaria treatment is available, patients may be unable to use it because the nearest clinic is several hours away."
+    },
+    {
+      "pattern": "The more quickly + health systems + share + information, the more effectively they can + response.",
+      "cn": "卫生系统越快共享某类信息，就越能有效采取相应措施。",
+      "example": "The more quickly laboratories share resistance data, the more effectively doctors can adjust treatment guidelines."
+    },
+    {
+      "pattern": "Improving + health outcome requires not only + medical measure but also + social or practical measure.",
+      "cn": "改善某项健康结果不仅需要医疗措施，还需要社会或实际层面的配套行动。",
+      "example": "Improving maternal health requires not only trained clinicians but also reliable transport to emergency care."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "get back on my feet",
+      "cn": "恢复健康或重新振作",
+      "example": "Good follow-up care helped her get back on her feet after the illness."
+    },
+    {
+      "text": "put off seeing a doctor",
+      "cn": "推迟去看医生",
+      "example": "Some people put off seeing a doctor because they cannot miss work."
+    },
+    {
+      "text": "catch an illness early",
+      "cn": "及早发现疾病",
+      "example": "Routine screening can catch an illness early."
+    },
+    {
+      "text": "strengthen health-system resilience",
+      "cn": "增强卫生系统韧性",
+      "example": "Local laboratories strengthen health-system resilience."
+    },
+    {
+      "text": "close the gap in access to care",
+      "cn": "缩小医疗可及性差距",
+      "example": "Mobile clinics can help close the gap in access to care."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Many people cannot access to basic healthcare.",
+      "correct": "Many people cannot access basic healthcare.",
+      "why": "access作动词时直接接宾语；作名词时才用access to。"
+    },
+    {
+      "wrong": "The disease spreaded rapidly.",
+      "correct": "The disease spread rapidly.",
+      "why": "spread的过去式和过去分词仍是spread。"
+    },
+    {
+      "wrong": "The government should provide people free vaccines.",
+      "correct": "The government should provide people with free vaccines.",
+      "why": "provide somebody with something是固定搭配。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Stronger primary care is central to global health progress.",
+      "topicSentence": "Investment in accessible primary care prevents minor health problems from becoming expensive emergencies.",
+      "collocations": [
+        "provide early diagnosis",
+        "manage chronic conditions",
+        "deliver routine vaccination",
+        "reduce pressure on hospitals"
+      ],
+      "argument": "Hospitals are essential for complex treatment, but they are a costly first point of contact for common illness. A nearby primary-care team can vaccinate children, monitor blood pressure and identify dangerous symptoms before complications develop. In rural regions, combining community health workers with remote clinical support can extend this basic coverage without waiting for a specialist hospital in every town. Earlier care improves outcomes while reducing avoidable admissions. Health budgets should therefore protect routine local services alongside high-profile medical technology."
+    },
+    {
+      "viewpoint": "International disease reporting should be supported, not merely demanded.",
+      "topicSentence": "Countries are more likely to report emerging outbreaks promptly when cooperation offers practical help rather than automatic punishment.",
+      "collocations": [
+        "share surveillance data",
+        "provide rapid laboratory support",
+        "avoid punitive travel measures",
+        "build mutual trust"
+      ],
+      "argument": "A government that expects immediate economic penalties may hesitate to announce an uncertain cluster of cases. That delay deprives neighbouring health systems of time to prepare and can ultimately allow wider transmission. International agreements should pair transparent reporting with rapid testing support, protective equipment and proportionate responses. Independent review can still address serious concealment, but routine uncertainty should not be treated as misconduct. Cooperation built around reciprocal assistance creates a stronger incentive for early warning than blame alone."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe something you do to look after your health.",
+      "answer": "One simple thing I do is take a brisk walk after dinner on most weekdays. I started because I was spending almost the whole day sitting at a desk, and a demanding exercise plan was difficult to maintain. The walk usually lasts about half an hour, and I choose a familiar route through a nearby residential area. It helps me separate work from the evening, and I often sleep better afterwards. I do not track every step or treat it as serious training, which is probably why the habit has lasted. If the weather is bad, I walk indoors or do some stretching instead. For me, looking after my health works best when the activity fits naturally into my routine."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why do people sometimes avoid medical care even when they know they need it?",
+      "answer": "Cost is an obvious reason in systems where patients pay directly, but time and uncertainty matter as well. Someone may be unable to leave work, arrange childcare or travel to a distant clinic. Others fear a diagnosis or hope that the problem will disappear, especially if the symptoms are embarrassing. Previous experiences of rushed or disrespectful care can also reduce trust. Services become easier to use when appointments are flexible, fees are clear and staff communicate without judgement. Public information should encourage early care, but it cannot substitute for removing these practical barriers."
+    }
+  ],
+  "reading": {
+    "title": "The Second Life of the Community Health Worker",
+    "paragraphs": [
+      "During the 1970s, several countries trained local residents to deliver basic health education, support vaccination and recognise dangerous symptoms. These community health workers were expected to connect households with clinics that were too distant or understaffed to reach everyone. Some programmes achieved impressive results, but others faded when short-term funding ended, medicines became unavailable or volunteers were asked to perform expanding duties without adequate pay.",
+      "Interest returned in the early 2000s as governments sought to improve maternal care and respond to infectious diseases. The revived model differed from the earlier ideal of a broadly capable village volunteer. Many programmes assigned narrower tasks, supported by checklists and regular supervision: visiting newborns, observing tuberculosis treatment or testing for malaria. Mobile phones later made it possible to register patients, request advice and report stock shortages without travelling to a district office.",
+      "Technology did not remove the need for judgement. A digital form could indicate that a child required referral, yet the worker still had to explain the urgency, help the family arrange transport and alert a facility that might already be crowded. Researchers comparing programmes found that equipment alone predicted little. Reliable supplies, supportive supervision and a trusted relationship with the community were more consistently associated with good performance.",
+      "The question of employment has also become harder to avoid. Calling workers volunteers may keep a pilot inexpensive, but unpaid duties often fall on women who are already providing substantial care at home. High turnover then weakens local knowledge and wastes training. Several health systems have introduced salaries or defined career steps, although formalisation can create new paperwork and may recruit workers who live farther from the communities they serve.",
+      "Community health workers are neither substitutes for clinics nor temporary messengers. At their best, they form part of a connected system in which local trust, medical supplies, referral transport and professional care reinforce one another. Their history suggests that expanding a workforce is easier than sustaining the conditions that allow its members to do useful work."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for paragraph C.",
+        "answer": "Why digital tools cannot replace human support",
+        "explanation": "Paragraph C contrasts digital guidance with the judgement and practical help workers still provide.",
+        "options": [
+          "The disappearance of infectious disease",
+          "Why digital tools cannot replace human support",
+          "A successful unpaid workforce",
+          "Replacing all clinics with home visits"
+        ]
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer argues that all community health workers should remain unpaid volunteers.",
+        "answer": "No",
+        "explanation": "Paragraph 4 identifies unfair workloads and high turnover associated with unpaid work."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Good performance was linked more consistently to dependable supplies, supervision and community ______ than to equipment alone.",
+        "answer": "trust",
+        "explanation": "Paragraph 3 refers to a trusted relationship with the community."
+      }
+    ]
+  }
+}

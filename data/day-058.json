@@ -1,0 +1,355 @@
+{
+  "id": 58,
+  "topic": "Community Life",
+  "topicCN": "社区生活",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "locality",
+      "ipa": "/ləʊˈkæləti/",
+      "meaning": "地区；社区",
+      "collocation": "improve the surrounding locality",
+      "collocationCN": "改善周边地区"
+    },
+    {
+      "word": "neighbour",
+      "ipa": "/ˈneɪbə/",
+      "meaning": "邻居",
+      "collocation": "get to know one’s neighbours",
+      "collocationCN": "认识自己的邻居"
+    },
+    {
+      "word": "resident",
+      "ipa": "/ˈrezɪdənt/",
+      "meaning": "居民",
+      "collocation": "consult local residents",
+      "collocationCN": "征询当地居民意见"
+    },
+    {
+      "word": "community centre",
+      "ipa": "/kəˈmjuːnəti ˌsentə/",
+      "meaning": "社区中心",
+      "collocation": "use the community centre",
+      "collocationCN": "使用社区中心"
+    },
+    {
+      "word": "public space",
+      "ipa": "/ˌpʌblɪk ˈspeɪs/",
+      "meaning": "公共空间",
+      "collocation": "create a welcoming public space",
+      "collocationCN": "营造宜人的公共空间"
+    },
+    {
+      "word": "local amenity",
+      "ipa": "/ˌləʊkəl əˈmiːnəti/",
+      "meaning": "当地公共设施",
+      "collocation": "protect local amenities",
+      "collocationCN": "保护当地公共设施"
+    },
+    {
+      "word": "playground",
+      "ipa": "/ˈpleɪɡraʊnd/",
+      "meaning": "游乐场",
+      "collocation": "upgrade a neighbourhood playground",
+      "collocationCN": "升级社区游乐场"
+    },
+    {
+      "word": "allotment",
+      "ipa": "/əˈlɒtmənt/",
+      "meaning": "社区租赁菜园",
+      "collocation": "rent a community allotment",
+      "collocationCN": "租用社区菜园"
+    },
+    {
+      "word": "street market",
+      "ipa": "/ˈstriːt ˌmɑːkɪt/",
+      "meaning": "街头市场",
+      "collocation": "shop at a street market",
+      "collocationCN": "在街头市场购物"
+    },
+    {
+      "word": "local business",
+      "ipa": "/ˌləʊkəl ˈbɪznəs/",
+      "meaning": "本地商家",
+      "collocation": "support local businesses",
+      "collocationCN": "支持本地商家"
+    },
+    {
+      "word": "neighbourhood watch",
+      "ipa": "/ˌneɪbəhʊd ˈwɒtʃ/",
+      "meaning": "邻里守望组织",
+      "collocation": "join a neighbourhood watch scheme",
+      "collocationCN": "参加邻里守望计划"
+    },
+    {
+      "word": "residents’ association",
+      "ipa": "/ˈrezɪdənts əˌsəʊsiˈeɪʃən/",
+      "meaning": "居民协会",
+      "collocation": "form a residents’ association",
+      "collocationCN": "成立居民协会"
+    },
+    {
+      "word": "community noticeboard",
+      "ipa": "/kəˌmjuːnəti ˈnəʊtɪsbɔːd/",
+      "meaning": "社区公告栏",
+      "collocation": "post on the community noticeboard",
+      "collocationCN": "在社区公告栏发布信息"
+    },
+    {
+      "word": "block party",
+      "ipa": "/ˈblɒk ˌpɑːti/",
+      "meaning": "街区聚会",
+      "collocation": "hold an annual block party",
+      "collocationCN": "举办年度街区聚会"
+    },
+    {
+      "word": "community cohesion",
+      "ipa": "/kəˌmjuːnəti kəʊˈhiːʒən/",
+      "meaning": "社区凝聚力",
+      "collocation": "build community cohesion",
+      "collocationCN": "增强社区凝聚力"
+    },
+    {
+      "word": "community spirit",
+      "ipa": "/kəˈmjuːnəti ˌspɪrɪt/",
+      "meaning": "社区精神",
+      "collocation": "foster community spirit",
+      "collocationCN": "培养社区精神"
+    },
+    {
+      "word": "neighbourly tie",
+      "ipa": "/ˈneɪbəli taɪ/",
+      "meaning": "邻里关系",
+      "collocation": "strengthen neighbourly ties",
+      "collocationCN": "加强邻里关系"
+    },
+    {
+      "word": "local initiative",
+      "ipa": "/ˌləʊkəl ɪˈnɪʃətɪv/",
+      "meaning": "本地倡议",
+      "collocation": "launch a local initiative",
+      "collocationCN": "发起本地倡议"
+    },
+    {
+      "word": "take pride in",
+      "ipa": "/ˌteɪk ˈpraɪd ɪn/",
+      "meaning": "为……感到自豪",
+      "collocation": "take pride in the area",
+      "collocationCN": "为所在社区感到自豪"
+    },
+    {
+      "word": "look out for",
+      "ipa": "/ˌlʊk ˈaʊt fɔː/",
+      "meaning": "照看；留意",
+      "collocation": "look out for elderly neighbours",
+      "collocationCN": "照看年长邻居"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "support",
+      "options": [
+        "assistance",
+        "backing",
+        "provision"
+      ],
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论社区生活。"
+    },
+    {
+      "base": "different",
+      "options": [
+        "distinct",
+        "varied",
+        "diverse"
+      ],
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论社区生活。"
+    },
+    {
+      "base": "common",
+      "options": [
+        "widespread",
+        "frequently observed",
+        "part of everyday life"
+      ],
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论社区生活。"
+    },
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论社区生活。"
+    },
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论社区生活。"
+    },
+    {
+      "base": "change",
+      "options": [
+        "shift",
+        "development",
+        "transformation"
+      ],
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论社区生活。"
+    },
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论社区生活。"
+    },
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论社区生活。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A sense of community develops through + repeated interaction + rather than + single event.",
+      "cn": "社区感通过反复互动形成，而非一次活动。",
+      "example": "A sense of community develops through repeated small encounters rather than an annual festival alone."
+    },
+    {
+      "pattern": "The presence of + shared place + gives residents an opportunity to + social action.",
+      "cn": "某共享场所的存在给居民机会去……。",
+      "example": "The presence of a local garden gives residents an opportunity to meet without formal invitations."
+    },
+    {
+      "pattern": "Even residents who do not + active participation + may benefit from + community outcome.",
+      "cn": "即使不积极参与的居民，也可能从社区结果中受益。",
+      "example": "Even residents who do not attend meetings may benefit from stronger informal support networks."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "get to know my neighbours",
+      "cn": "认识邻居",
+      "example": "A shared courtyard helped me get to know my neighbours."
+    },
+    {
+      "text": "feel part of the community",
+      "cn": "感到属于社区",
+      "example": "Local events help new residents feel part of the community."
+    },
+    {
+      "text": "look out for one another",
+      "cn": "互相照应",
+      "example": "Neighbours look out for one another during extreme weather."
+    },
+    {
+      "text": "get involved locally",
+      "cn": "参与本地事务",
+      "example": "I got involved locally through a clean-up group."
+    },
+    {
+      "text": "build a sense of belonging",
+      "cn": "建立归属感",
+      "example": "Repeated contact builds a sense of belonging."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I have a good relation with my neighbours.",
+      "correct": "I have a good relationship with my neighbours.",
+      "why": "描述人际关系用 relationship 更自然。"
+    },
+    {
+      "wrong": "We meet us every weekend.",
+      "correct": "We meet every weekend.",
+      "why": "meet 作相互见面时不加反身代词。"
+    },
+    {
+      "wrong": "The community organised many activity.",
+      "correct": "The community organised many activities.",
+      "why": "many 后接复数 activities。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Everyday spaces are essential to community life.",
+      "topicSentence": "Neighbourly relationships often grow in places that support repeated, low-pressure contact.",
+      "collocations": [
+        "encourage informal interaction",
+        "provide shared facilities",
+        "develop neighbourly trust",
+        "create a sense of belonging"
+      ],
+      "argument": "A large festival may attract attention but offers little continuity if residents never meet again. Benches, playgrounds, libraries and shared entrances create small encounters that gradually turn strangers into familiar faces. Familiarity makes it easier to exchange information or offer help during difficulty. Design cannot force friendship, and some residents prefer privacy. It can nevertheless create opportunities for contact without requiring formal membership or spending money."
+    },
+    {
+      "viewpoint": "Community participation should offer several levels of commitment.",
+      "topicSentence": "Local decision-making is more inclusive when residents can contribute without attending long evening meetings.",
+      "collocations": [
+        "widen local participation",
+        "offer flexible consultation",
+        "include underrepresented residents",
+        "provide feedback on decisions"
+      ],
+      "argument": "Care responsibilities, language and shift work prevent many people from joining traditional committees. Short surveys, drop-in sessions and paid childcare can capture views from a wider group. Organisers should explain what can change and report how input affected the result. Otherwise consultation becomes a request for time without evidence of influence. Flexible participation strengthens legitimacy while leaving elected bodies responsible for final decisions."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you know many people in your neighbourhood?",
+      "answer": "I know a few neighbours well enough to stop and talk, although we are not close friends. We exchange practical information about deliveries, repairs and local events. That level of familiarity is useful because it makes asking for small help less awkward. I would like to know more people without losing privacy."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a community event you enjoyed.",
+      "answer": "I enjoyed a small street market organised by local residents and shops. It included food stalls, a repair table and a space where children could exchange books. I helped set up signs in the morning, which meant I met organisers before the public arrived. The event was not especially large, but people stayed to talk because there were seats and no entrance fee. I learned about a gardening group that I later joined for one session. What made the market successful was its connection to ongoing local activities; it did not disappear completely when the stalls closed. It gave newer residents an easy first step into community life without demanding a major commitment."
+    }
+  ],
+  "reading": {
+    "title": "The Strength of a Weak Neighbourhood Tie",
+    "paragraphs": [
+      "Community is often associated with close friendship, but neighbourhoods also depend on weaker ties. A person who recognises the shopkeeper, greets another dog walker or exchanges parcels with a neighbour may know little about their private life. These connections still provide information, familiarity and a small expectation of mutual conduct.",
+      "Weak ties are easier to maintain across difference because they demand less agreement and time. They can connect age, occupation and cultural groups that otherwise remain separate. During disruption, such as a power cut, these acquaintances may spread practical information faster than official channels. They are not substitutes for emergency services, but they help residents interpret what is happening nearby.",
+      "Physical routine supports their formation. Seeing the same people at a bus stop or playground creates recognition before conversation. High turnover, hostile shared areas and journeys made entirely by car reduce these encounters. Online neighbourhood groups can connect people, although conflict and misinformation may spread when names are known without the moderating effect of face-to-face familiarity.",
+      "There are limits to celebrating community. Strong local expectations can exclude newcomers or pressure residents to participate. Informal surveillance may feel supportive to one person and intrusive to another. Healthy community life needs boundaries, routes for disagreement and respect for those who contribute quietly rather than attending every event.",
+      "Weak ties matter precisely because they sit between intimacy and anonymity. They create enough connection for a warning, recommendation or small favour without requiring everyone to become friends. Policies that protect shared places and residential stability can support this social layer, but trust develops through repeated conduct. It cannot be installed as a facility or produced by a single campaign. Local institutions often anchor these connections. A school gate, clinic waiting area or familiar shop creates overlapping routines even when community-building is not its formal purpose. When such places close, the lost service may be replaced online or farther away, but the repeated encounters are not automatically transferred. Evaluations should therefore consider social contact as one consequence of changing local provision."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Weak neighbourhood ties require close personal friendship.",
+        "answer": "False",
+        "explanation": "Paragraph 1 defines them as familiar but not intimate."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What disadvantage can online neighbourhood groups have?",
+        "answer": "B",
+        "explanation": "Conflict and misinformation may spread without face-to-face familiarity.",
+        "options": [
+          "They prevent official emergency services.",
+          "Conflict and misinformation may spread without face-to-face familiarity.",
+          "They require residents to own cars.",
+          "They eliminate residential turnover."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Weak ties exist between intimacy and ______.",
+        "answer": "anonymity",
+        "explanation": "The final paragraph provides the contrast."
+      }
+    ]
+  }
+}

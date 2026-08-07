@@ -1,0 +1,355 @@
+{
+  "id": 52,
+  "topic": "Art and Museums",
+  "topicCN": "艺术与博物馆",
+  "category": "Culture",
+  "vocabulary": [
+    {
+      "word": "exhibition",
+      "ipa": "/ˌeksɪˈbɪʃən/",
+      "meaning": "展览",
+      "collocation": "visit a temporary exhibition",
+      "collocationCN": "参观临时展览"
+    },
+    {
+      "word": "gallery",
+      "ipa": "/ˈɡæləri/",
+      "meaning": "美术馆；展厅",
+      "collocation": "browse an art gallery",
+      "collocationCN": "参观美术馆"
+    },
+    {
+      "word": "collection",
+      "ipa": "/kəˈlekʃən/",
+      "meaning": "馆藏；收藏品",
+      "collocation": "display a permanent collection",
+      "collocationCN": "展出永久馆藏"
+    },
+    {
+      "word": "curator",
+      "ipa": "/kjʊəˈreɪtə/",
+      "meaning": "策展人",
+      "collocation": "work with a museum curator",
+      "collocationCN": "与博物馆策展人合作"
+    },
+    {
+      "word": "artefact",
+      "ipa": "/ˈɑːtɪfækt/",
+      "meaning": "人工制品；文物",
+      "collocation": "examine an ancient artefact",
+      "collocationCN": "查看古代文物"
+    },
+    {
+      "word": "masterpiece",
+      "ipa": "/ˈmɑːstəpiːs/",
+      "meaning": "杰作",
+      "collocation": "stand before a masterpiece",
+      "collocationCN": "站在一幅杰作前欣赏"
+    },
+    {
+      "word": "portrait",
+      "ipa": "/ˈpɔːtrət/",
+      "meaning": "肖像画",
+      "collocation": "paint a formal portrait",
+      "collocationCN": "绘制正式肖像"
+    },
+    {
+      "word": "landscape painting",
+      "ipa": "/ˈlændskeɪp ˌpeɪntɪŋ/",
+      "meaning": "风景画",
+      "collocation": "admire a landscape painting",
+      "collocationCN": "欣赏风景画"
+    },
+    {
+      "word": "sculpture",
+      "ipa": "/ˈskʌlptʃə/",
+      "meaning": "雕塑",
+      "collocation": "create a bronze sculpture",
+      "collocationCN": "创作青铜雕塑"
+    },
+    {
+      "word": "installation",
+      "ipa": "/ˌɪnstəˈleɪʃən/",
+      "meaning": "装置艺术",
+      "collocation": "experience an immersive installation",
+      "collocationCN": "体验沉浸式装置艺术"
+    },
+    {
+      "word": "abstract art",
+      "ipa": "/ˌæbstrækt ˈɑːt/",
+      "meaning": "抽象艺术",
+      "collocation": "interpret abstract art",
+      "collocationCN": "解读抽象艺术"
+    },
+    {
+      "word": "visual arts",
+      "ipa": "/ˌvɪʒuəl ˈɑːts/",
+      "meaning": "视觉艺术",
+      "collocation": "support the visual arts",
+      "collocationCN": "支持视觉艺术"
+    },
+    {
+      "word": "aesthetic",
+      "ipa": "/iːsˈθetɪk/",
+      "meaning": "审美的；美感",
+      "collocation": "appreciate aesthetic qualities",
+      "collocationCN": "欣赏审美特质"
+    },
+    {
+      "word": "conservation",
+      "ipa": "/ˌkɒnsəˈveɪʃən/",
+      "meaning": "文物保护",
+      "collocation": "carry out art conservation",
+      "collocationCN": "开展艺术品保护"
+    },
+    {
+      "word": "restore",
+      "ipa": "/rɪˈstɔː/",
+      "meaning": "修复",
+      "collocation": "restore a damaged painting",
+      "collocationCN": "修复受损画作"
+    },
+    {
+      "word": "provenance",
+      "ipa": "/ˈprɒvənəns/",
+      "meaning": "艺术品来源记录",
+      "collocation": "establish an object’s provenance",
+      "collocationCN": "确认藏品来源"
+    },
+    {
+      "word": "audio guide",
+      "ipa": "/ˈɔːdiəʊ ɡaɪd/",
+      "meaning": "语音导览",
+      "collocation": "rent an audio guide",
+      "collocationCN": "租用语音导览"
+    },
+    {
+      "word": "admission charge",
+      "ipa": "/ədˈmɪʃən tʃɑːdʒ/",
+      "meaning": "入场费",
+      "collocation": "waive the admission charge",
+      "collocationCN": "免收入场费"
+    },
+    {
+      "word": "public access",
+      "ipa": "/ˌpʌblɪk ˈækses/",
+      "meaning": "公众参观机会",
+      "collocation": "widen public access to art",
+      "collocationCN": "扩大公众接触艺术的机会"
+    },
+    {
+      "word": "cultural institution",
+      "ipa": "/ˌkʌltʃərəl ˌɪnstɪˈtjuːʃən/",
+      "meaning": "文化机构",
+      "collocation": "fund a cultural institution",
+      "collocationCN": "资助文化机构"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "benefit",
+      "options": [
+        "advantage",
+        "positive effect",
+        "gain"
+      ],
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论艺术与博物馆。"
+    },
+    {
+      "base": "harm",
+      "options": [
+        "damage",
+        "negative effect",
+        "undermine"
+      ],
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论艺术与博物馆。"
+    },
+    {
+      "base": "support",
+      "options": [
+        "assistance",
+        "backing",
+        "provision"
+      ],
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论艺术与博物馆。"
+    },
+    {
+      "base": "different",
+      "options": [
+        "distinct",
+        "varied",
+        "diverse"
+      ],
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论艺术与博物馆。"
+    },
+    {
+      "base": "common",
+      "options": [
+        "widespread",
+        "frequently observed",
+        "part of everyday life"
+      ],
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论艺术与博物馆。"
+    },
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论艺术与博物馆。"
+    },
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论艺术与博物馆。"
+    },
+    {
+      "base": "change",
+      "options": [
+        "shift",
+        "development",
+        "transformation"
+      ],
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论艺术与博物馆。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A museum display can make + object + accessible by + interpretive action.",
+      "cn": "博物馆展示可通过某种解释行为让物品更易理解。",
+      "example": "A museum display can make an unfamiliar object accessible by connecting it to daily use."
+    },
+    {
+      "pattern": "Were + artwork + shown without + context, visitors might + misunderstanding.",
+      "cn": "如果艺术品在缺少语境的情况下展出，参观者可能……。",
+      "example": "Were the portrait shown without context, visitors might mistake wealth for ordinary life."
+    },
+    {
+      "pattern": "The value of encountering + original work + lies partly in + physical quality.",
+      "cn": "接触原作的价值部分在于其物理特征。",
+      "example": "The value of encountering the original painting lies partly in seeing its scale and surface."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "go to an exhibition",
+      "cn": "去看展览",
+      "example": "I went to an exhibition of contemporary photography."
+    },
+    {
+      "text": "stand out from the rest",
+      "cn": "从其余作品中脱颖而出",
+      "example": "One small sculpture stood out from the rest."
+    },
+    {
+      "text": "look at something from a new angle",
+      "cn": "从新角度看待某事",
+      "example": "The exhibition made me look at migration from a new angle."
+    },
+    {
+      "text": "bring history to life",
+      "cn": "让历史鲜活起来",
+      "example": "Personal objects can bring history to life."
+    },
+    {
+      "text": "provide cultural access",
+      "cn": "提供文化接触机会",
+      "example": "Free entry can provide cultural access to a wider public."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I visited to the museum yesterday.",
+      "correct": "I visited the museum yesterday.",
+      "why": "visit 是及物动词，不加 to。"
+    },
+    {
+      "wrong": "The museum has many valuable arts.",
+      "correct": "The museum has many valuable works of art.",
+      "why": "art 通常不可数；具体作品用 works of art。"
+    },
+    {
+      "wrong": "The painting impressed me very muchly.",
+      "correct": "The painting impressed me greatly.",
+      "why": "muchly 不是标准副词，此处用 greatly。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Museums should explain uncertainty rather than hide it.",
+      "topicSentence": "Interpretation becomes more trustworthy when institutions distinguish evidence from informed speculation.",
+      "collocations": [
+        "present historical evidence",
+        "acknowledge uncertainty",
+        "offer competing interpretations",
+        "build public trust"
+      ],
+      "argument": "An object may have incomplete ownership records or an uncertain use, yet labels often present one smooth story. Explaining what is known, how it is known and where experts disagree gives visitors a more accurate picture of scholarship. This does not require overwhelming them with every debate. A concise question or alternative interpretation can show that knowledge develops. Museums educate best when authority is transparent rather than artificially absolute."
+    },
+    {
+      "viewpoint": "Free entry needs outreach and relevance as well as an open door.",
+      "topicSentence": "Removing ticket prices improves access but does not ensure that every group feels able to use a museum.",
+      "collocations": [
+        "remove financial barriers",
+        "reach underserved audiences",
+        "co-design public programmes",
+        "create a welcoming institution"
+      ],
+      "argument": "Travel cost, unfamiliar etiquette and a belief that collections are not relevant can continue to exclude visitors. Partnerships with schools and community groups can shape programmes around genuine interests and explain practical expectations. Staff representation and multilingual interpretation also influence whether people feel recognised. Free admission is a valuable foundation, but participation depends on trust and repeated contact. Access should be measured by who returns, not merely who could theoretically enter."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you enjoy visiting museums?",
+      "answer": "Yes, especially when an exhibition has a clear question rather than displaying too many unrelated objects. I like reading short labels and then looking carefully at a few things. Interactive screens can help, but I do not want them to distract from the collection. I usually spend about two hours before losing concentration."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a work of art that made an impression on you.",
+      "answer": "A large landscape painting made a strong impression on me in a regional gallery. From a distance it looked calm, but close up the surface contained rough, energetic marks and unexpected colours. The label explained that the artist painted the area after industrial development had begun, so the scene was not simply a celebration of untouched nature. I stood there longer than I expected because the scale changed how I experienced the sky and the small human figures. A reproduction on my phone would communicate the composition, but not the physical effect. I remember the painting because it made beauty and environmental change exist in the same image without turning either into a simple message."
+    }
+  ],
+  "reading": {
+    "title": "Who Writes the Museum Label?",
+    "paragraphs": [
+      "A museum label is small, but it makes powerful choices. It names an object, selects a date and decides which part of a complicated history a visitor encounters first. Because gallery space and attention are limited, omission is unavoidable. The question is not whether a label is complete, but whose knowledge guides the selection.",
+      "Traditionally, curators wrote labels from specialist research and an institutional voice. This produces consistency and can protect accuracy. It may also hide uncertainty or describe an object through categories unfamiliar to the people who made and used it. A ceremonial item, for example, can become primarily an example of material and style when its ongoing social role is omitted.",
+      "Some museums invite source communities, artists or users to contribute. Their words can restore names, memories and functions absent from the catalogue. Collaboration is not simple correction: participants may disagree with one another, and no community has one permanent voice. Museums still need to verify claims and state who is speaking rather than present every contribution as consensus.",
+      "Digital labels remove some space constraints and can offer audio, translation and extended debate. Yet adding information does not decide its hierarchy. Most visitors read only the first layer, so the physical label continues to frame the encounter. Testing with varied audiences can reveal jargon, assumed background and questions the curatorial team did not anticipate.",
+      "The best label does not finish interpretation. It gives enough evidence and context for close looking while opening a route to further knowledge. Naming authorship or consultation makes institutional decisions visible. In this sense, the label is not a neutral caption attached after exhibition design; it is one of the main places where a museum distributes authority. Labels also operate within a sequence. Information placed at the entrance can establish a question that later objects complicate, while repeating identical background beside every case wastes attention. Exhibition writers therefore consider the route through the gallery as well as each individual caption. Meaning emerges from relationships between objects, spaces and words rather than from isolated labels alone."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "A museum label can include every relevant fact about an object.",
+        "answer": "False",
+        "explanation": "Paragraph 1 says omission is unavoidable."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What difficulty can arise in community collaboration?",
+        "answer": "C",
+        "explanation": "Members may disagree and no community has one voice.",
+        "options": [
+          "Curators must remove every date.",
+          "Digital labels cannot contain audio.",
+          "Members may disagree and no community has one voice.",
+          "Visitors always read every layer."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "The final paragraph says labels help museums distribute ______.",
+        "answer": "authority",
+        "explanation": "This is the final word of the passage."
+      }
+    ]
+  }
+}

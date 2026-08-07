@@ -1,0 +1,355 @@
+{
+  "id": 95,
+  "topic": "Public Policy",
+  "topicCN": "公共政策",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "policy intervention",
+      "ipa": "/ˈpɒləsi ˌɪntəˈvenʃən/",
+      "meaning": "政策干预",
+      "collocation": "evaluate a policy intervention",
+      "collocationCN": "评估一项政策干预"
+    },
+    {
+      "word": "public consultation",
+      "ipa": "/ˈpʌblɪk ˌkɒnsəlˈteɪʃən/",
+      "meaning": "公众咨询",
+      "collocation": "hold a public consultation",
+      "collocationCN": "举行公众咨询"
+    },
+    {
+      "word": "regulatory framework",
+      "ipa": "/ˈreɡjələtəri ˈfreɪmwɜːk/",
+      "meaning": "监管框架",
+      "collocation": "strengthen the regulatory framework",
+      "collocationCN": "完善监管框架"
+    },
+    {
+      "word": "policy objective",
+      "ipa": "/ˈpɒləsi əbˈdʒektɪv/",
+      "meaning": "政策目标",
+      "collocation": "define a clear policy objective",
+      "collocationCN": "明确政策目标"
+    },
+    {
+      "word": "stakeholder",
+      "ipa": "/ˈsteɪkˌhəʊldə/",
+      "meaning": "利益相关者",
+      "collocation": "consult key stakeholders",
+      "collocationCN": "征询主要利益相关者"
+    },
+    {
+      "word": "public expenditure",
+      "ipa": "/ˈpʌblɪk ɪkˈspendɪtʃə/",
+      "meaning": "公共支出",
+      "collocation": "scrutinise public expenditure",
+      "collocationCN": "审查公共支出"
+    },
+    {
+      "word": "cost-effective",
+      "ipa": "/ˌkɒst ɪˈfektɪv/",
+      "meaning": "具有成本效益的",
+      "collocation": "a cost-effective measure",
+      "collocationCN": "具有成本效益的措施"
+    },
+    {
+      "word": "unintended consequence",
+      "ipa": "/ˌʌnɪnˈtendɪd ˈkɒnsɪkwəns/",
+      "meaning": "意外后果",
+      "collocation": "anticipate unintended consequences",
+      "collocationCN": "预判意外后果"
+    },
+    {
+      "word": "implementation gap",
+      "ipa": "/ˌɪmplɪmenˈteɪʃən ɡæp/",
+      "meaning": "执行落差",
+      "collocation": "close the implementation gap",
+      "collocationCN": "缩小政策执行落差"
+    },
+    {
+      "word": "eligibility criteria",
+      "ipa": "/ˌelɪdʒəˈbɪləti kraɪˈtɪəriə/",
+      "meaning": "资格标准",
+      "collocation": "meet the eligibility criteria",
+      "collocationCN": "符合资格标准"
+    },
+    {
+      "word": "policy pilot",
+      "ipa": "/ˈpɒləsi ˈpaɪlət/",
+      "meaning": "政策试点",
+      "collocation": "run a policy pilot",
+      "collocationCN": "开展政策试点"
+    },
+    {
+      "word": "evidence-based",
+      "ipa": "/ˈevɪdəns beɪst/",
+      "meaning": "以证据为基础的",
+      "collocation": "adopt an evidence-based approach",
+      "collocationCN": "采取循证方法"
+    },
+    {
+      "word": "accountability",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "meaning": "问责；责任机制",
+      "collocation": "ensure public accountability",
+      "collocationCN": "确保公共问责"
+    },
+    {
+      "word": "policy trade-off",
+      "ipa": "/ˈpɒləsi ˈtreɪd ɒf/",
+      "meaning": "政策权衡",
+      "collocation": "acknowledge a policy trade-off",
+      "collocationCN": "承认政策权衡"
+    },
+    {
+      "word": "administrative burden",
+      "ipa": "/ədˈmɪnɪstrətɪv ˈbɜːdn/",
+      "meaning": "行政负担",
+      "collocation": "reduce the administrative burden",
+      "collocationCN": "减轻行政负担"
+    },
+    {
+      "word": "cut through red tape",
+      "ipa": "/kʌt θruː red teɪp/",
+      "meaning": "精简繁文缛节",
+      "collocation": "cut through unnecessary red tape",
+      "collocationCN": "精简不必要的繁文缛节"
+    },
+    {
+      "word": "roll out a scheme",
+      "ipa": "/rəʊl aʊt ə skiːm/",
+      "meaning": "推广一项计划",
+      "collocation": "roll out the scheme nationwide",
+      "collocationCN": "在全国推广该计划"
+    },
+    {
+      "word": "qualify for support",
+      "ipa": "/ˈkwɒlɪfaɪ fə səˈpɔːt/",
+      "meaning": "有资格获得援助",
+      "collocation": "qualify for housing support",
+      "collocationCN": "有资格获得住房援助"
+    },
+    {
+      "word": "make your voice heard",
+      "ipa": "/meɪk jɔː vɔɪs hɜːd/",
+      "meaning": "让自己的意见被听见",
+      "collocation": "make your voice heard locally",
+      "collocationCN": "让自己的意见在当地被听见"
+    },
+    {
+      "word": "deliver public services",
+      "ipa": "/dɪˈlɪvə ˈpʌblɪk ˈsɜːvɪsɪz/",
+      "meaning": "提供公共服务",
+      "collocation": "deliver public services efficiently",
+      "collocationCN": "高效提供公共服务"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "government policy",
+      "options": [
+        "public policy",
+        "a government measure",
+        "state intervention"
+      ],
+      "note": "state intervention强调政府主动介入。"
+    },
+    {
+      "base": "ask the public",
+      "options": [
+        "consult citizens",
+        "seek public input",
+        "invite community participation"
+      ],
+      "note": "consult比ask更适合正式政策语境。"
+    },
+    {
+      "base": "put a policy into practice",
+      "options": [
+        "implement a policy",
+        "translate policy into action",
+        "turn a proposal into an operational programme"
+      ],
+      "note": "translate into action突出从文件到执行。"
+    },
+    {
+      "base": "a policy works",
+      "options": [
+        "a measure is effective",
+        "an intervention achieves its objective",
+        "a programme produces the intended outcome"
+      ],
+      "note": "intended outcome适合评估政策结果。"
+    },
+    {
+      "base": "spend public money",
+      "options": [
+        "allocate public funds",
+        "direct government expenditure towards",
+        "commit taxpayer resources to"
+      ],
+      "note": "commit resources to强调正式投入。"
+    },
+    {
+      "base": "change a policy",
+      "options": [
+        "revise a measure",
+        "adjust the policy design",
+        "reform the existing framework"
+      ],
+      "note": "reform通常表示较系统的改变。"
+    },
+    {
+      "base": "fair access",
+      "options": [
+        "equitable access",
+        "an inclusive allocation of support",
+        "access based on need rather than influence"
+      ],
+      "note": "equitable强调根据需要实现公平。"
+    },
+    {
+      "base": "a negative side effect",
+      "options": [
+        "an unintended consequence",
+        "an adverse secondary effect",
+        "an outcome not anticipated by policymakers"
+      ],
+      "note": "unintended不代表后果一定负面，adverse则明确负面。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A policy intended to + desired goal may instead + unintended result if + overlooked condition.",
+      "cn": "一项原本旨在实现某目标的政策，如果忽略某项条件，反而可能造成意外结果。",
+      "example": "A policy intended to reduce traffic may instead burden shift workers if late-night buses remain unavailable."
+    },
+    {
+      "pattern": "Before + authority + rolls out + scheme, it should test whether + practical question.",
+      "cn": "在有关部门全面推广某项计划前，应先检验一个具体的实施问题。",
+      "example": "Before the council rolls out the subsidy, it should test whether small firms can complete the application easily."
+    },
+    {
+      "pattern": "The question is not simply whether + policy goal, but whether + implementation requirement.",
+      "cn": "问题不只是能否实现政策目标，还在于是否满足执行该政策所需的条件。",
+      "example": "The question is not simply whether childcare should be affordable, but whether funding reaches families who need it most."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "get a policy off the ground",
+      "cn": "让一项政策顺利启动",
+      "example": "Local partnerships helped get the recycling policy off the ground."
+    },
+    {
+      "text": "get lost in paperwork",
+      "cn": "陷入繁琐的文书流程",
+      "example": "Small charities can get lost in paperwork when applying for grants."
+    },
+    {
+      "text": "have a say in",
+      "cn": "对某事有发言权",
+      "example": "Residents should have a say in how their square is redesigned."
+    },
+    {
+      "text": "allocate resources where they are needed most",
+      "cn": "把资源投向最需要的地方",
+      "example": "Good data helps authorities allocate resources where they are needed most."
+    },
+    {
+      "text": "strike a balance between competing priorities",
+      "cn": "在相互竞争的优先事项间取得平衡",
+      "example": "Budget decisions must strike a balance between competing priorities."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The government should make a policy to solve this issue.",
+      "correct": "The government should introduce a policy to address this issue.",
+      "why": "政策通常用introduce或adopt；address an issue比solve更准确，因为政策未必能彻底解决问题。"
+    },
+    {
+      "wrong": "Citizens can participate the consultation.",
+      "correct": "Citizens can participate in the consultation.",
+      "why": "participate是不及物动词，后接活动时需要介词in。"
+    },
+    {
+      "wrong": "This policy is beneficial for low-income families.",
+      "correct": "This policy is beneficial to low-income families.",
+      "why": "beneficial表示“对……有益”时通常与介词to搭配。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Pilot programmes can improve national policy design.",
+      "topicSentence": "Testing a proposal on a limited scale allows governments to identify practical weaknesses before committing national resources.",
+      "collocations": [
+        "run a limited pilot",
+        "collect implementation evidence",
+        "revise eligibility rules",
+        "scale up gradually"
+      ],
+      "argument": "A policy may appear convincing on paper yet prove difficult for frontline staff or applicants to use. A limited pilot reveals these operational problems while the financial and social risks remain contained. For instance, a trial of home-energy grants might show that tenants cannot obtain documents from landlords, prompting simpler eligibility rules. After revising the design and comparing outcomes with similar areas, the government can scale up with greater confidence. Piloting is therefore a form of responsible learning, not an excuse for indefinite delay."
+    },
+    {
+      "viewpoint": "Public consultation should influence decisions rather than merely legitimise them.",
+      "topicSentence": "Consultation loses credibility when officials invite views after the central choices have effectively been made.",
+      "collocations": [
+        "seek input at an early stage",
+        "publish competing options",
+        "respond to public concerns",
+        "explain the final trade-off"
+      ],
+      "argument": "Citizens possess local knowledge that administrative data can miss, such as why a nominally accessible clinic is difficult to reach. However, an open meeting cannot guarantee that every preference becomes policy, since budgets and legal duties still impose limits. Authorities should therefore consult early, publish the alternatives and explain which evidence changed the final decision. They should also state openly why some requests were rejected. This transparent response respects participation while preserving the government’s responsibility to make difficult trade-offs."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a public service that works well in your area.",
+      "answer": "A public service I rely on is the local library network. Membership is free, and one card works at several branches, so I can reserve a book online and collect it near my workplace. The staff are helpful without being intrusive, and the library also provides quiet desks, printers and basic digital support for older residents. What makes the service work well is its attention to ordinary practical details: opening hours are displayed clearly, overdue reminders arrive by email, and popular books can be transferred between branches. It is not a glamorous service, but it saves people money and gives students and job seekers a reliable place to work. I think that consistency is more valuable than an occasional impressive project."
+    },
+    {
+      "part": "Part 3",
+      "question": "How can governments tell whether a policy is successful?",
+      "answer": "They need to define success before implementation rather than selecting favourable figures afterwards. Numerical outcomes matter, such as waiting times or the proportion of eligible people receiving support, but averages can conceal groups who are still excluded. Governments should also ask users and frontline staff about practical experience, because a service may meet its target while creating unreasonable paperwork. Where possible, outcomes should be compared with a similar population or with a clear baseline. Finally, evaluation should be public and should lead to revision; collecting evidence has little value if officials are unwilling to change the programme."
+    }
+  ],
+  "reading": {
+    "title": "When a Pilot Becomes Policy",
+    "paragraphs": [
+      "A city seeking to reduce household energy use offered smart thermostats to a large group of volunteer households. After the first winter, participating homes used less heating energy than before, and newspapers described the pilot as proof that free devices should be distributed across the city. The result was encouraging. It was not, however, a reliable estimate of what a universal programme would achieve.",
+      "Volunteers differed from the wider population in important ways. They were more likely to own their homes, to use the city’s online portal and to express prior interest in energy saving. Many attended an optional demonstration, during which technicians showed them how to create heating schedules. If equipment were simply posted to every address, households that had not actively applied might install it incorrectly or leave its default settings unchanged. The measured effect therefore combined the technology with unusually motivated users and additional support.",
+      "Policy analysts redesigned the next stage. Rather than merely enlarging the volunteer group, they selected neighbourhoods with contrasting housing types and offered several forms of installation. Some residents received a home visit; others collected a device from a library or followed printed instructions. This design, which cost more than the original trial, allowed the city to compare not only whether thermostats worked but also which delivery method reached tenants, older people and households without reliable internet access.",
+      "The second trial produced a smaller average reduction. Yet officials regarded the evidence as more useful: installation rates were known, barriers had been documented, and savings could be compared with programme costs. The city eventually funded assisted installation for households receiving energy support while asking other residents to contribute a modest fee. It also retained telephone booking alongside the online system.",
+      "A pilot does not answer the broad question “Does this policy work?” in isolation. It shows what happened to a particular group under a particular set of conditions. The task for policymakers is to identify which conditions produced the result, decide whether they can be reproduced at scale and acknowledge whose experience the initial evidence may have excluded."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Every household in the first pilot received an in-person demonstration.",
+        "answer": "False",
+        "explanation": "Paragraph 2 says many participants attended an optional demonstration, not every household."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why did officials consider the second trial more useful despite its smaller energy saving?",
+        "answer": "C",
+        "explanation": "It documented access barriers, installation rates and programme costs.",
+        "options": [
+          "It included only highly motivated homeowners.",
+          "It eliminated the need for telephone booking.",
+          "It documented access barriers, installation rates and programme costs.",
+          "It proved that printed instructions were always best."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Households receiving energy support were offered assisted ______.",
+        "answer": "installation",
+        "explanation": "Paragraph 4 states that the city funded assisted installation for these households."
+      }
+    ]
+  }
+}

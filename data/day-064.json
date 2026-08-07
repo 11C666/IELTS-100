@@ -1,0 +1,349 @@
+{
+  "id": 64,
+  "topic": "Innovation",
+  "topicCN": "创新",
+  "category": "Technology",
+  "vocabulary": [
+    {
+      "word": "breakthrough",
+      "ipa": "/ˈbreɪkθruː/",
+      "meaning": "突破",
+      "collocation": "make a scientific breakthrough",
+      "collocationCN": "取得科学突破"
+    },
+    {
+      "word": "prototype",
+      "ipa": "/ˈprəʊtətaɪp/",
+      "meaning": "原型",
+      "collocation": "test a working prototype",
+      "collocationCN": "测试可用原型"
+    },
+    {
+      "word": "incentive",
+      "ipa": "/ɪnˈsentɪv/",
+      "meaning": "激励因素",
+      "collocation": "provide an incentive to innovate",
+      "collocationCN": "提供创新动力"
+    },
+    {
+      "word": "patent",
+      "ipa": "/ˈpætnt/",
+      "meaning": "专利",
+      "collocation": "file a patent application",
+      "collocationCN": "提交专利申请"
+    },
+    {
+      "word": "iteration",
+      "ipa": "/ˌɪtəˈreɪʃn/",
+      "meaning": "迭代",
+      "collocation": "improve through iteration",
+      "collocationCN": "通过迭代改进"
+    },
+    {
+      "word": "feasibility",
+      "ipa": "/ˌfiːzəˈbɪləti/",
+      "meaning": "可行性",
+      "collocation": "assess commercial feasibility",
+      "collocationCN": "评估商业可行性"
+    },
+    {
+      "word": "scalable",
+      "ipa": "/ˈskeɪləbl/",
+      "meaning": "可扩展的",
+      "collocation": "develop a scalable solution",
+      "collocationCN": "开发可扩展方案"
+    },
+    {
+      "word": "early adopter",
+      "ipa": "/ˌɜːli əˈdɒptə/",
+      "meaning": "早期采用者",
+      "collocation": "attract early adopters",
+      "collocationCN": "吸引早期采用者"
+    },
+    {
+      "word": "research grant",
+      "ipa": "/rɪˈsɜːtʃ ɡrɑːnt/",
+      "meaning": "科研资助",
+      "collocation": "secure a research grant",
+      "collocationCN": "获得科研资助"
+    },
+    {
+      "word": "commercialise",
+      "ipa": "/kəˈmɜːʃəlaɪz/",
+      "meaning": "商业化",
+      "collocation": "commercialise an invention",
+      "collocationCN": "将发明商业化"
+    },
+    {
+      "word": "trial and error",
+      "ipa": "/ˌtraɪəl ən ˈerə/",
+      "meaning": "反复试验",
+      "collocation": "learn through trial and error",
+      "collocationCN": "通过反复试验学习"
+    },
+    {
+      "word": "solve a real problem",
+      "ipa": "/sɒlv ə rɪəl ˈprɒbləm/",
+      "meaning": "解决实际问题",
+      "collocation": "design products that solve a real problem",
+      "collocationCN": "设计解决实际问题的产品"
+    },
+    {
+      "word": "take a calculated risk",
+      "ipa": "/teɪk ə ˌkælkjəleɪtɪd ˈrɪsk/",
+      "meaning": "承担经过权衡的风险",
+      "collocation": "be willing to take a calculated risk",
+      "collocationCN": "愿意承担经过权衡的风险"
+    },
+    {
+      "word": "bring an idea to life",
+      "ipa": "/brɪŋ ən aɪˈdɪə tə laɪf/",
+      "meaning": "把想法变成现实",
+      "collocation": "help a team bring an idea to life",
+      "collocationCN": "帮助团队把想法变成现实"
+    },
+    {
+      "word": "user feedback",
+      "ipa": "/ˈjuːzə ˈfiːdbæk/",
+      "meaning": "用户反馈",
+      "collocation": "act on user feedback",
+      "collocationCN": "根据用户反馈行动"
+    },
+    {
+      "word": "incremental",
+      "ipa": "/ˌɪŋkrəˈmentl/",
+      "meaning": "渐进式的",
+      "collocation": "make incremental improvements",
+      "collocationCN": "进行渐进式改进"
+    },
+    {
+      "word": "disruptive",
+      "ipa": "/dɪsˈrʌptɪv/",
+      "meaning": "颠覆性的",
+      "collocation": "introduce disruptive technology",
+      "collocationCN": "引入颠覆性技术"
+    },
+    {
+      "word": "intellectual property",
+      "ipa": "/ˌɪntəlektʃuəl ˈprɒpəti/",
+      "meaning": "知识产权",
+      "collocation": "protect intellectual property",
+      "collocationCN": "保护知识产权"
+    },
+    {
+      "word": "cross-disciplinary",
+      "ipa": "/ˌkrɒs ˈdɪsəplɪnəri/",
+      "meaning": "跨学科的",
+      "collocation": "form a cross-disciplinary team",
+      "collocationCN": "组建跨学科团队"
+    },
+    {
+      "word": "unintended consequence",
+      "ipa": "/ˌʌnɪnˈtendɪd ˈkɒnsɪkwəns/",
+      "meaning": "意外后果",
+      "collocation": "anticipate unintended consequences",
+      "collocationCN": "预见意外后果"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "a new idea",
+      "options": [
+        "an original concept",
+        "a novel approach",
+        "an inventive solution"
+      ],
+      "note": "novel 和 inventive 适合正式讨论创新。"
+    },
+    {
+      "base": "improve a product",
+      "options": [
+        "refine a product",
+        "enhance its performance",
+        "make it more user-friendly"
+      ],
+      "note": "refine 强调逐步打磨。"
+    },
+    {
+      "base": "put into practice",
+      "options": [
+        "implement",
+        "apply in a real setting",
+        "turn into a workable solution"
+      ],
+      "note": "implement 最适合政策或方案。"
+    },
+    {
+      "base": "very successful",
+      "options": [
+        "highly effective",
+        "commercially viable",
+        "widely adopted"
+      ],
+      "note": "三者分别强调效果、商业性和普及度。"
+    },
+    {
+      "base": "encourage innovation",
+      "options": [
+        "stimulate innovation",
+        "create incentives for invention",
+        "support experimentation"
+      ],
+      "note": "stimulate 比 encourage 更正式。"
+    },
+    {
+      "base": "a possible problem",
+      "options": [
+        "a potential drawback",
+        "an emerging risk",
+        "an unintended consequence"
+      ],
+      "note": "unintended consequence 强调并非有意造成。"
+    },
+    {
+      "base": "work together",
+      "options": [
+        "collaborate",
+        "pool expertise",
+        "form a cross-disciplinary partnership"
+      ],
+      "note": "pool expertise 强调汇集专长。"
+    },
+    {
+      "base": "test an idea",
+      "options": [
+        "run a pilot",
+        "evaluate a prototype",
+        "conduct a small-scale trial"
+      ],
+      "note": "pilot 和 trial 都强调正式测试。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "What distinguishes + a useful innovation + from + a novelty + is whether it + solves a real problem.",
+      "cn": "区分有用创新和新奇事物的关键在于是否……",
+      "example": "What distinguishes a useful innovation from a novelty is whether it solves a persistent problem."
+    },
+    {
+      "pattern": "Only after + a prototype + has been tested with + its intended users + can developers determine whether it + works in practice.",
+      "cn": "只有在原型经用户测试后，开发者才能判断是否……",
+      "example": "Only after a prototype has been tested with patients can designers determine whether it is genuinely accessible."
+    },
+    {
+      "pattern": "Although + an invention + was originally designed to + serve one purpose, it has since been adapted to + serve another purpose.",
+      "cn": "尽管某项发明最初旨在……，但此后它却……",
+      "example": "Although the material was originally intended to protect cables, it has since been adapted for medical use."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "come up with a fresh idea",
+      "cn": "想出新点子",
+      "example": "Our group came up with a fresh idea after speaking to commuters."
+    },
+    {
+      "text": "go back to the drawing board",
+      "cn": "重新设计",
+      "example": "The first prototype leaked, so the engineers went back to the drawing board."
+    },
+    {
+      "text": "work out the kinks",
+      "cn": "解决小问题",
+      "example": "A pilot gives the team time to work out the kinks."
+    },
+    {
+      "text": "drive technological progress",
+      "cn": "推动技术进步",
+      "example": "Public research can drive technological progress where profits are uncertain."
+    },
+    {
+      "text": "translate research into practice",
+      "cn": "把研究转化为实践",
+      "example": "Partnerships help universities translate research into practice."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "invent a new innovation",
+      "correct": "develop an innovation",
+      "why": "innovation 已包含“新的”含义，通常不再加 new。"
+    },
+    {
+      "wrong": "make a research",
+      "correct": "conduct research",
+      "why": "research 与 conduct 搭配；它通常是不可数名词。"
+    },
+    {
+      "wrong": "This device is more easier to use.",
+      "correct": "This device is easier to use.",
+      "why": "比较级 easier 前不能再加 more。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Public funding should support uncertain early-stage research.",
+      "topicSentence": "Governments have a distinct role in financing promising research whose benefits are too uncertain or distant for private investors.",
+      "collocations": [
+        "fund basic research",
+        "accept commercial uncertainty",
+        "generate public value",
+        "crowd in private investment"
+      ],
+      "argument": "A company must normally justify expenditure through a foreseeable return, whereas basic research may take decades to produce a marketable result. Public grants can keep such work alive until its practical value becomes clearer. The early internet, for example, depended on sustained state-funded research before private firms developed mass-market services. Once feasibility is demonstrated, commercial investment often follows and expands access. Public funding therefore complements rather than replaces responsible private innovation."
+    },
+    {
+      "viewpoint": "Innovation policy must reward improvement without protecting weak products forever.",
+      "topicSentence": "Patent protection is useful only when it balances an inventor's temporary reward against society's interest in competition and access.",
+      "collocations": [
+        "grant temporary protection",
+        "recover development costs",
+        "prevent market dominance",
+        "encourage follow-on innovation"
+      ],
+      "argument": "Exclusive rights allow inventors to recover substantial research costs and give competitors an incentive to pursue alternative designs. If protection is too broad or lasts too long, however, a patent holder can charge excessive prices and obstruct later researchers. Clear limits and carefully judged exceptions preserve the original incentive while allowing knowledge to circulate. Pharmaceutical licensing during a health emergency illustrates why access sometimes carries unusual weight. The appropriate policy is therefore a time-limited bargain, not permanent control over an idea."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe an innovative product or service that you have used.",
+      "answer": "I would choose a library app that lets readers borrow electronic books and reserve physical ones from the same screen. It is not a spectacular invention, but it solves several ordinary problems. I can check whether a book is available before travelling, and the app reminds me when a loan is due, which has saved me a few fines. What impressed me was that the designers did not simply copy an online shop. They included adjustable text, audio samples and a clear explanation of borrowing limits. Older users were invited to test an early version, so the final service feels unusually straightforward. To me, that is good innovation: it uses existing technology thoughtfully and makes a familiar public service easier to use."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why do some useful inventions fail to become widely adopted?",
+      "answer": "Technical quality is only one part of adoption. A product may be too expensive, arrive before the supporting infrastructure exists or require people to change a routine that already works reasonably well. Trust matters as well, particularly in health and finance, where users want evidence that a new system is safe. Sometimes developers listen mainly to enthusiastic early adopters and overlook people with limited time or digital skills. Successful diffusion usually requires clear benefits, affordable access, training and reliable support. An ingenious design can therefore fail because the surrounding social and commercial system is not ready for it."
+    }
+  ],
+  "reading": {
+    "title": "The Uncelebrated Innovation of the Shipping Container",
+    "paragraphs": [
+      "Innovation is often narrated as a moment of invention, yet the shipping container became transformative through coordination rather than technical novelty. Metal boxes had carried goods before the 1950s, but ports, railways and shipping companies used incompatible dimensions and equipment. Cargo still had to be handled repeatedly, an expensive process that also exposed it to theft and damage.",
+      "The decisive shift followed experiments led by the American trucking entrepreneur Malcolm McLean. His early service placed detachable truck bodies on ships, allowing goods packed inland to remain sealed until they approached their destination. The box itself was simple. What mattered was a system—including reinforced corners, lifting machinery and schedules—that allowed it to move efficiently between road and sea. Dock labour fell sharply, although large investment was required before the savings could be realised.",
+      "Standardisation, which was negotiated internationally during the 1960s, extended the value of the system. Once dimensions and corner fittings were agreed, a container owned by one company could travel on another firm's ship and be lifted by cranes in distant ports. This interoperability attracted manufacturers and transport operators who had previously hesitated to invest. It also illustrates a familiar feature of network technologies: the usefulness of each component increases when many participants follow the same rules.",
+      "The gains were uneven. Older waterfronts, designed around warehouses and manual loading, often lacked the space required by container terminals. Activity shifted to vast sites outside city centres, leaving some dock communities with severe job losses. At the same time, falling transport costs made it practical for firms to divide production among several countries, a change that expanded trade but also created supply chains vulnerable to distant disruption.",
+      "The container's history complicates the image of innovation as a brilliant object entering a passive world. Its impact depended on standards, infrastructure and organisational change, each involving negotiation and considerable risk. The lesson is not that invention is unimportant, but that a workable idea becomes consequential only when institutions build the connections through which it can operate."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for Paragraph C.",
+        "answer": "The value of common technical rules",
+        "explanation": "Paragraph C explains how shared dimensions created interoperability."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Containerisation benefited every traditional dock community.",
+        "answer": "False",
+        "explanation": "Paragraph D reports severe job losses in some dock communities."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "The usefulness of a network component rises when participants follow the same ______.",
+        "answer": "rules",
+        "explanation": "Paragraph C explicitly refers to participants following the same rules."
+      }
+    ]
+  }
+}

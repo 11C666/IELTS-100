@@ -1,0 +1,355 @@
+{
+  "id": 63,
+  "topic": "Science in Society",
+  "topicCN": "社会中的科学",
+  "category": "Technology",
+  "vocabulary": [
+    {
+      "word": "evidence",
+      "ipa": "/ˈevɪdəns/",
+      "meaning": "证据",
+      "collocation": "evaluate scientific evidence",
+      "collocationCN": "评估科学证据"
+    },
+    {
+      "word": "peer review",
+      "ipa": "/ˌpɪə rɪˈvjuː/",
+      "meaning": "同行评审",
+      "collocation": "undergo peer review",
+      "collocationCN": "接受同行评审"
+    },
+    {
+      "word": "replicate",
+      "ipa": "/ˈreplɪkeɪt/",
+      "meaning": "重复验证",
+      "collocation": "replicate a finding",
+      "collocationCN": "重复验证发现"
+    },
+    {
+      "word": "hypothesis",
+      "ipa": "/haɪˈpɒθəsɪs/",
+      "meaning": "假设",
+      "collocation": "test a hypothesis",
+      "collocationCN": "检验假设"
+    },
+    {
+      "word": "variable",
+      "ipa": "/ˈveəriəbl/",
+      "meaning": "变量",
+      "collocation": "control a variable",
+      "collocationCN": "控制变量"
+    },
+    {
+      "word": "correlation",
+      "ipa": "/ˌkɒrəˈleɪʃn/",
+      "meaning": "相关性",
+      "collocation": "show a correlation",
+      "collocationCN": "显示相关性"
+    },
+    {
+      "word": "causation",
+      "ipa": "/kɔːˈzeɪʃn/",
+      "meaning": "因果关系",
+      "collocation": "establish causation",
+      "collocationCN": "确立因果关系"
+    },
+    {
+      "word": "uncertainty",
+      "ipa": "/ʌnˈsɜːtnti/",
+      "meaning": "不确定性",
+      "collocation": "communicate uncertainty",
+      "collocationCN": "说明不确定性"
+    },
+    {
+      "word": "consensus",
+      "ipa": "/kənˈsensəs/",
+      "meaning": "共识",
+      "collocation": "reach a scientific consensus",
+      "collocationCN": "达成科学共识"
+    },
+    {
+      "word": "funding",
+      "ipa": "/ˈfʌndɪŋ/",
+      "meaning": "资金",
+      "collocation": "secure research funding",
+      "collocationCN": "获得研究资金"
+    },
+    {
+      "word": "laboratory",
+      "ipa": "/ləˈbɒrətri/",
+      "meaning": "实验室",
+      "collocation": "conduct laboratory research",
+      "collocationCN": "开展实验室研究"
+    },
+    {
+      "word": "fieldwork",
+      "ipa": "/ˈfiːldwɜːk/",
+      "meaning": "实地研究",
+      "collocation": "carry out fieldwork",
+      "collocationCN": "开展实地研究"
+    },
+    {
+      "word": "sample",
+      "ipa": "/ˈsɑːmpl/",
+      "meaning": "样本",
+      "collocation": "select a representative sample",
+      "collocationCN": "选择代表性样本"
+    },
+    {
+      "word": "finding",
+      "ipa": "/ˈfaɪndɪŋ/",
+      "meaning": "研究结果",
+      "collocation": "publish a finding",
+      "collocationCN": "发表研究结果"
+    },
+    {
+      "word": "breakthrough",
+      "ipa": "/ˈbreɪkθruː/",
+      "meaning": "突破",
+      "collocation": "make a medical breakthrough",
+      "collocationCN": "取得医学突破"
+    },
+    {
+      "word": "weigh the evidence",
+      "ipa": "/ˌweɪ ði ˈevɪdəns/",
+      "meaning": "权衡证据",
+      "collocation": "weigh the available evidence",
+      "collocationCN": "权衡现有证据"
+    },
+    {
+      "word": "back up a claim",
+      "ipa": "/ˌbæk ʌp ə ˈkleɪm/",
+      "meaning": "用证据支持主张",
+      "collocation": "back up a claim with data",
+      "collocationCN": "用数据支持主张"
+    },
+    {
+      "word": "keep an open mind",
+      "ipa": "/ˌkiːp ən ˌəʊpən ˈmaɪnd/",
+      "meaning": "保持开放态度",
+      "collocation": "keep an open mind about results",
+      "collocationCN": "对结果保持开放态度"
+    },
+    {
+      "word": "public trust",
+      "ipa": "/ˌpʌblɪk ˈtrʌst/",
+      "meaning": "公众信任",
+      "collocation": "maintain public trust",
+      "collocationCN": "维持公众信任"
+    },
+    {
+      "word": "evidence-based policy",
+      "ipa": "/ˌevɪdəns beɪst ˈpɒləsi/",
+      "meaning": "循证政策",
+      "collocation": "develop evidence-based policy",
+      "collocationCN": "制定循证政策"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "scientists discovered",
+      "options": [
+        "researchers found",
+        "investigators identified",
+        "a study revealed"
+      ],
+      "note": "用于替换笼统的 discovered"
+    },
+    {
+      "base": "prove an idea",
+      "options": [
+        "support a hypothesis",
+        "provide strong evidence",
+        "confirm a prediction"
+      ],
+      "note": "科学语境谨慎使用 prove"
+    },
+    {
+      "base": "not certain",
+      "options": [
+        "subject to uncertainty",
+        "not conclusively established",
+        "open to revision"
+      ],
+      "note": "体现结论的暂定性"
+    },
+    {
+      "base": "experts agree",
+      "options": [
+        "a consensus has emerged",
+        "specialists broadly concur",
+        "evidence converges"
+      ],
+      "note": "共识并非毫无分歧"
+    },
+    {
+      "base": "use research",
+      "options": [
+        "apply scientific findings",
+        "translate evidence into practice",
+        "base policy on research"
+      ],
+      "note": "突出研究应用"
+    },
+    {
+      "base": "false information",
+      "options": [
+        "an unsupported claim",
+        "scientific misinformation",
+        "a misleading interpretation"
+      ],
+      "note": "按错误类型选词"
+    },
+    {
+      "base": "benefit society",
+      "options": [
+        "serve the public interest",
+        "produce social value",
+        "improve collective wellbeing"
+      ],
+      "note": "适合公共投入论证"
+    },
+    {
+      "base": "careful study",
+      "options": [
+        "rigorous investigation",
+        "systematic inquiry",
+        "well-designed research"
+      ],
+      "note": "强调方法质量"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "While + a single study + may suggest + a finding, a reliable conclusion usually depends on + repeated and wider evidence.",
+      "cn": "单项研究或许表明某一发现，但可靠结论通常依赖更广泛的证据。",
+      "example": "While a single study may suggest that a treatment is effective, a reliable conclusion usually depends on repeated trials."
+    },
+    {
+      "pattern": "What matters for policy is not whether + the evidence + is perfect, but whether it is + more reliable + than the alternatives.",
+      "cn": "政策关注的不是证据是否完美，而是它是否比其他选择所依据的证据更可靠。",
+      "example": "What matters for policy is not whether projections are perfect, but whether they are more reliable than guesswork."
+    },
+    {
+      "pattern": "By explaining both + what is known + and + what remains uncertain, researchers can + build public trust.",
+      "cn": "通过同时解释已知结果和剩余的不确定性，研究人员能够带来公共益处。",
+      "example": "By explaining both the observed trend and the remaining uncertainty, researchers can build public trust."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "take something with a pinch of salt",
+      "cn": "对某事持保留态度",
+      "example": "I take dramatic health claims with a pinch of salt."
+    },
+    {
+      "text": "look at the bigger picture",
+      "cn": "着眼大局",
+      "example": "We should look at the bigger picture rather than one unusual result."
+    },
+    {
+      "text": "stand up to scrutiny",
+      "cn": "经得起审查",
+      "example": "A strong claim should stand up to scrutiny."
+    },
+    {
+      "text": "inform public policy",
+      "cn": "为公共政策提供依据",
+      "example": "Long-term research can inform public policy."
+    },
+    {
+      "text": "bridge the gap between research and practice",
+      "cn": "弥合研究与实践的差距",
+      "example": "Training can bridge the gap between research and practice."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Scientists made a research about sleep.",
+      "correct": "Scientists conducted research on sleep.",
+      "why": "research 通常不可数，搭配 conduct research on。"
+    },
+    {
+      "wrong": "The experiment resulted a new theory.",
+      "correct": "The experiment resulted in a new theory.",
+      "why": "result 表示“导致”时接 in。"
+    },
+    {
+      "wrong": "The evidence proves the policy will always work.",
+      "correct": "The evidence suggests that the policy is likely to work.",
+      "why": "科学结论通常有适用条件，suggests 更准确。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Negative results deserve publication.",
+      "topicSentence": "Studies that fail to confirm a hypothesis can still prevent waste and improve knowledge.",
+      "collocations": [
+        "publish negative findings",
+        "reduce publication bias",
+        "avoid duplicated effort",
+        "refine future hypotheses"
+      ],
+      "argument": "Journals often prefer striking positive findings, so an unsuccessful trial may remain unseen. Another team can then spend money repeating the same unproductive approach. Requiring publicly funded projects to register methods and report outcomes would reveal a fuller record. Accessible negative findings would consequently make later research more efficient and less distorted."
+    },
+    {
+      "viewpoint": "Uncertainty should be communicated openly.",
+      "topicSentence": "Explaining the limits of evidence can strengthen rather than weaken public trust.",
+      "collocations": [
+        "state confidence levels",
+        "distinguish risk from certainty",
+        "revise advice responsibly",
+        "maintain public confidence"
+      ],
+      "argument": "During a new health threat, officials may fear that admitting uncertainty will confuse people. Yet confident advice that changes without explanation can appear dishonest. Advisers should identify assumptions and explain what evidence could alter their recommendation. Citizens can then understand revision as a responsible scientific response rather than proof of incompetence."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a piece of scientific information that changed something you do.",
+      "answer": "I read a careful summary about how evening light can affect sleep. What convinced me was not one dramatic claim but several studies pointing in the same direction. I began lowering my phone brightness and leaving the device outside my bedroom. After a few weeks, I found it easier to stop checking messages late at night. I cannot prove that the screen was the only cause because my schedule also changed, but the advice was practical and low-risk. The experience showed me how evidence can guide an ordinary decision without promising a perfect result. I have maintained the routine because it costs nothing and makes the end of the day feel calmer."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why do some people distrust scientific advice?",
+      "answer": "Scientific conclusions sometimes change, which can look like inconsistency when the process is poorly explained. Trust also suffers when institutions communicate too confidently or hide commercial interests. In addition, a personal story feels clearer than a statistical probability. Researchers can respond by explaining uncertainty in plain language, publishing methods and acknowledging errors. People do not need every technical detail, but they reasonably want to know how a conclusion was reached. Trust is also easier to preserve when revised advice is presented as learning from new evidence rather than as an embarrassing reversal."
+    }
+  ],
+  "reading": {
+    "title": "Why Evidence Arrives Late to the Street",
+    "paragraphs": [
+      "A successful laboratory result does not travel directly into public life. Between discovery and routine use lie replication, safety assessment, professional guidance, budgets and the habits of the people expected to act. This journey, sometimes called research translation, explains why an apparently effective idea may take years to become ordinary practice. Delay is not always resistance; it can be the time required to learn whether an effect survives outside controlled conditions.",
+      "Consider a city trial showing that a particular road surface reduces stopping distance in wet weather. The result may be statistically strong, yet transport officials must ask whether the material tolerates frost, heavy vehicles and local maintenance equipment. Engineers who were not involved in the original study may attempt to reproduce it under different conditions. A finding that remains useful across these variations deserves more confidence than one impressive demonstration.",
+      "Institutional boundaries create another delay. Researchers are rewarded for publishing, whereas local managers are responsible for cost, staffing and disruption. The report that satisfies a specialist journal may not state how many workers need training or whether existing machinery can be adapted. Knowledge brokers—professionals who understand both research and implementation—can translate evidence into decisions without pretending that the two settings have identical priorities.",
+      "Public response also matters. A technically effective intervention may fail if residents misunderstand its purpose or bear costs that the trial did not measure. Consultation can reveal practical effects, but it should not turn every scientific question into a popularity contest. The difficult task is to distinguish objections that identify missing evidence from preferences that must be negotiated politically.",
+      "Translation is therefore not a mechanical final stage of science. It produces new questions about scale, context and fairness, which may send an innovation back for further study. The slow route from laboratory to street can be frustrating when a need is urgent. Nevertheless, bypassing that route risks converting an encouraging result into an expensive policy whose original conditions no longer exist."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why might officials seek further evidence about the road surface?",
+        "answer": "B",
+        "explanation": "Paragraph 2 says local conditions may alter performance.",
+        "options": [
+          "The result was statistically weak.",
+          "Weather and equipment may affect performance.",
+          "Residents reject every material.",
+          "Journals prohibit immediate use."
+        ]
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph refers to professionals who connect research with implementation?",
+        "answer": "C",
+        "explanation": "Paragraph C describes knowledge brokers."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer believes consultation should determine every scientific question.",
+        "answer": "No",
+        "explanation": "Paragraph 4 explicitly rejects this idea."
+      }
+    ]
+  }
+}

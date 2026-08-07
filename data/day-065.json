@@ -1,0 +1,355 @@
+{
+  "id": 65,
+  "topic": "Space Exploration",
+  "topicCN": "太空探索",
+  "category": "Technology",
+  "vocabulary": [
+    {
+      "word": "orbit",
+      "ipa": "/ˈɔːbɪt/",
+      "meaning": "轨道",
+      "collocation": "enter a stable orbit",
+      "collocationCN": "进入稳定轨道"
+    },
+    {
+      "word": "spacecraft",
+      "ipa": "/ˈspeɪskrɑːft/",
+      "meaning": "航天器",
+      "collocation": "launch an unmanned spacecraft",
+      "collocationCN": "发射无人航天器"
+    },
+    {
+      "word": "probe",
+      "ipa": "/prəʊb/",
+      "meaning": "探测器",
+      "collocation": "send a probe to Mars",
+      "collocationCN": "向火星发射探测器"
+    },
+    {
+      "word": "microgravity",
+      "ipa": "/ˌmaɪkrəʊˈɡrævəti/",
+      "meaning": "微重力",
+      "collocation": "conduct research in microgravity",
+      "collocationCN": "在微重力中进行研究"
+    },
+    {
+      "word": "payload",
+      "ipa": "/ˈpeɪləʊd/",
+      "meaning": "有效载荷",
+      "collocation": "carry a scientific payload",
+      "collocationCN": "运载科研载荷"
+    },
+    {
+      "word": "launch window",
+      "ipa": "/ˈlɔːntʃ ˌwɪndəʊ/",
+      "meaning": "发射窗口",
+      "collocation": "miss the launch window",
+      "collocationCN": "错过发射窗口"
+    },
+    {
+      "word": "remote sensing",
+      "ipa": "/rɪˌməʊt ˈsensɪŋ/",
+      "meaning": "遥感",
+      "collocation": "use remote sensing data",
+      "collocationCN": "使用遥感数据"
+    },
+    {
+      "word": "satellite imagery",
+      "ipa": "/ˈsætəlaɪt ˈɪmɪdʒəri/",
+      "meaning": "卫星影像",
+      "collocation": "analyse satellite imagery",
+      "collocationCN": "分析卫星影像"
+    },
+    {
+      "word": "astronaut",
+      "ipa": "/ˈæstrənɔːt/",
+      "meaning": "宇航员",
+      "collocation": "train an astronaut",
+      "collocationCN": "训练宇航员"
+    },
+    {
+      "word": "life-support system",
+      "ipa": "/ˈlaɪf səˌpɔːt ˌsɪstəm/",
+      "meaning": "生命保障系统",
+      "collocation": "maintain a life-support system",
+      "collocationCN": "维护生命保障系统"
+    },
+    {
+      "word": "radiation exposure",
+      "ipa": "/ˌreɪdiˈeɪʃn ɪkˈspəʊʒə/",
+      "meaning": "辐射暴露",
+      "collocation": "limit radiation exposure",
+      "collocationCN": "限制辐射暴露"
+    },
+    {
+      "word": "sample return",
+      "ipa": "/ˈsɑːmpl rɪˌtɜːn/",
+      "meaning": "样本返回",
+      "collocation": "plan a sample-return mission",
+      "collocationCN": "规划样本返回任务"
+    },
+    {
+      "word": "mission control",
+      "ipa": "/ˈmɪʃn kənˌtrəʊl/",
+      "meaning": "任务控制中心",
+      "collocation": "contact mission control",
+      "collocationCN": "联系任务控制中心"
+    },
+    {
+      "word": "touch down",
+      "ipa": "/ˌtʌtʃ ˈdaʊn/",
+      "meaning": "着陆",
+      "collocation": "touch down safely",
+      "collocationCN": "安全着陆"
+    },
+    {
+      "word": "push the boundaries",
+      "ipa": "/pʊʃ ðə ˈbaʊndəriz/",
+      "meaning": "突破边界",
+      "collocation": "push the boundaries of knowledge",
+      "collocationCN": "拓展知识边界"
+    },
+    {
+      "word": "spin-off technology",
+      "ipa": "/ˈspɪn ɒf tekˌnɒlədʒi/",
+      "meaning": "衍生技术",
+      "collocation": "develop spin-off technology",
+      "collocationCN": "开发衍生技术"
+    },
+    {
+      "word": "astronomical observation",
+      "ipa": "/ˌæstrəˈnɒmɪkl ˌɒbzəˈveɪʃn/",
+      "meaning": "天文观测",
+      "collocation": "improve astronomical observation",
+      "collocationCN": "改进天文观测"
+    },
+    {
+      "word": "planetary science",
+      "ipa": "/ˈplænətri ˈsaɪəns/",
+      "meaning": "行星科学",
+      "collocation": "advance planetary science",
+      "collocationCN": "推动行星科学"
+    },
+    {
+      "word": "orbital debris",
+      "ipa": "/ˈɔːbɪtl ˈdebriː/",
+      "meaning": "轨道碎片",
+      "collocation": "track orbital debris",
+      "collocationCN": "追踪轨道碎片"
+    },
+    {
+      "word": "cost overrun",
+      "ipa": "/ˈkɒst ˌəʊvərʌn/",
+      "meaning": "成本超支",
+      "collocation": "avoid a major cost overrun",
+      "collocationCN": "避免严重成本超支"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "explore space",
+      "options": [
+        "investigate the solar system",
+        "conduct space missions",
+        "extend human observation beyond Earth"
+      ],
+      "note": "根据是否载人选择 explore 或 conduct missions。"
+    },
+    {
+      "base": "expensive",
+      "options": [
+        "costly",
+        "resource-intensive",
+        "financially demanding"
+      ],
+      "note": "resource-intensive 不只指资金。"
+    },
+    {
+      "base": "benefit people",
+      "options": [
+        "serve public needs",
+        "yield practical benefits",
+        "improve life on Earth"
+      ],
+      "note": "yield practical benefits 适合正式写作。"
+    },
+    {
+      "base": "discover",
+      "options": [
+        "detect",
+        "identify",
+        "uncover evidence of"
+      ],
+      "note": "detect 常用于信号或物质。"
+    },
+    {
+      "base": "international project",
+      "options": [
+        "multinational mission",
+        "cross-border scientific collaboration",
+        "joint space programme"
+      ],
+      "note": "joint programme 强调共同实施。"
+    },
+    {
+      "base": "dangerous",
+      "options": [
+        "hazardous",
+        "high-risk",
+        "exposed to substantial uncertainty"
+      ],
+      "note": "hazardous 常指环境。"
+    },
+    {
+      "base": "study Earth",
+      "options": [
+        "monitor terrestrial change",
+        "observe the planet remotely",
+        "collect Earth-observation data"
+      ],
+      "note": "terrestrial 是正式学术用词。"
+    },
+    {
+      "base": "long-term plan",
+      "options": [
+        "multi-decade strategy",
+        "sustained programme",
+        "long-range mission architecture"
+      ],
+      "note": "mission architecture 是航天专业表达。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Were it not for + a particular satellite service, + an everyday activity + would be far more difficult.",
+      "cn": "若没有某项卫星服务，某种日常活动会困难得多。",
+      "example": "Were it not for weather satellites, forecasting severe storms would be far more difficult."
+    },
+    {
+      "pattern": "The question is not simply whether + a space mission + is affordable, but whether + its scientific or practical benefit + justifies the opportunity cost.",
+      "cn": "问题不仅是某任务是否负担得起，还在于其收益能否证明机会成本合理。",
+      "example": "The question is not simply whether a lunar mission is affordable, but whether its scientific value justifies the opportunity cost."
+    },
+    {
+      "pattern": "Data collected by + a satellite or spacecraft, having been + carefully processed, can reveal + a new finding.",
+      "cn": "由某设备收集的数据经处理后，可以揭示……",
+      "example": "Data collected by an orbital radar, having been corrected for atmospheric effects, can reveal changes in ice thickness."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "be fascinated by space",
+      "cn": "对太空着迷",
+      "example": "I have been fascinated by space since I saw Saturn through a telescope."
+    },
+    {
+      "text": "capture the public imagination",
+      "cn": "激发公众想象",
+      "example": "A successful landing can capture the public imagination."
+    },
+    {
+      "text": "be a long way from home",
+      "cn": "离家极远",
+      "example": "Astronauts on a lunar mission would be a long way from home."
+    },
+    {
+      "text": "advance scientific understanding",
+      "cn": "推进科学认识",
+      "example": "Planetary samples may advance scientific understanding of the early solar system."
+    },
+    {
+      "text": "justify the enormous expense",
+      "cn": "证明巨额开支合理",
+      "example": "A mission must justify the enormous expense through clear objectives."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "go to the space",
+      "correct": "go into space",
+      "why": "space 表示外太空时通常不加 the。"
+    },
+    {
+      "wrong": "launch a satellite to the orbit",
+      "correct": "launch a satellite into orbit",
+      "why": "表示进入轨道用 into orbit。"
+    },
+    {
+      "wrong": "Space research brings many knowledges.",
+      "correct": "Space research produces valuable knowledge.",
+      "why": "knowledge 是不可数名词。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Earth-observation programmes deserve priority within space budgets.",
+      "topicSentence": "Investment in satellites is easiest to justify when the resulting information supports urgent decisions on Earth.",
+      "collocations": [
+        "monitor crop conditions",
+        "track extreme weather",
+        "provide early warning",
+        "allocate emergency resources"
+      ],
+      "argument": "Observation satellites repeatedly survey areas that would be slow or dangerous to inspect from the ground. Their data can reveal drought stress, wildfire spread and approaching storms, enabling agencies to act before local reports are complete. During major floods, for example, radar images can show inundated roads even through cloud. This advantage is both scientific and operational because it directs rescue teams and supplies. A balanced space budget should therefore protect missions whose evidence is routinely converted into public decisions."
+    },
+    {
+      "viewpoint": "Human and robotic exploration should be judged by different strengths.",
+      "topicSentence": "Robotic probes and crewed missions are complementary tools rather than simple competitors for the same task.",
+      "collocations": [
+        "operate in hostile environments",
+        "respond to unexpected findings",
+        "reduce risks to human life",
+        "justify crewed involvement"
+      ],
+      "argument": "A robot can travel for years without food or protection from isolation, making it suitable for hazardous and repetitive measurement. Human explorers, by contrast, can repair equipment, improvise when observations challenge expectations and select samples using broad contextual judgement. The cost and danger of supporting a crew mean that these abilities should be required, not merely celebrated. A distant outer-planet survey is consequently better automated, whereas a complex field site may eventually benefit from human decisions. Mission design should begin with the research question and then choose the least risky system capable of answering it."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe something you learned about space that interested you.",
+      "answer": "I once watched a short lecture about how scientists detect planets around distant stars. I had assumed that telescopes simply photographed them, but most are found indirectly. When a planet passes in front of its star, the light falls by a tiny but regular amount, and researchers compare many observations before accepting the pattern. I found that method fascinating because it turns a slight change in brightness into evidence about an object that cannot be seen clearly. The lecturer also explained that an atmosphere may leave a chemical signature in the starlight. Afterwards, space research felt less like science fiction and more like patient measurement. It made me appreciate how much can be learned from limited evidence."
+    },
+    {
+      "part": "Part 3",
+      "question": "Should countries cooperate more closely in space exploration?",
+      "answer": "Yes, particularly for costly scientific infrastructure and rules governing shared orbits. Cooperation allows countries to combine specialist instruments, launch capacity and long-term funding, while researchers gain access to a broader range of data. It can also reduce unnecessary duplication. However, a multinational programme needs clear responsibility because political disagreement can delay decisions or threaten continuity. Some competition may still encourage faster innovation, but orbital debris and planetary protection cannot be managed by one state alone. Cooperation works best when objectives, data access and contingency plans are agreed before a mission begins."
+    }
+  ],
+  "reading": {
+    "title": "Listening to a Spacecraft after Its Mission Ends",
+    "paragraphs": [
+      "A space mission is normally announced with a destination and a planned lifetime. The ending, however, is less definite than either term suggests. Engineers have repeatedly kept probes operating beyond their original schedules, sometimes for years, by adapting instruments and conserving dwindling power. These extensions can produce unusually valuable science because the spacecraft is already built, launched and functioning.",
+      "Continuing is not free. A distant probe still requires communication antennas, navigation calculations and teams capable of interpreting ageing hardware. As staff move to new projects, practical knowledge may disappear with them. Components also deteriorate unevenly: a camera may fail while a magnetometer remains useful, or power may become so limited that heaters and instruments cannot operate together. Controllers, deciding which systems to switch off, must preserve the spacecraft without knowing exactly which future observation will matter most.",
+      "Extended missions have a particular scientific advantage. They allow comparison across time. A probe that revisits a planet after several seasons can distinguish a temporary event from a recurring process; one that travels beyond its first target may sample an environment no dedicated mission has reached. Such opportunities were not always predictable when the equipment was designed, which means old instruments are occasionally used in ways their makers never anticipated.",
+      "There are competing claims on ground resources. Large antennas that receive faint signals are also needed by newer missions, and maintaining specialist software can be expensive. Agencies therefore review extensions against scientific priorities rather than treating survival itself as sufficient. A productive spacecraft may be retired if its likely discoveries are modest compared with the observations another mission would lose while waiting for antenna time.",
+      "The final decision also has an environmental dimension. Spacecraft near Earth or another planet must be disposed of without creating dangerous debris or contaminating places that may later be studied for signs of life. An ending can consequently require as much care as an extension. The quiet years after a celebrated arrival reveal space exploration as sustained stewardship: extracting knowledge from limited machinery while recognising when continued operation no longer serves the wider programme."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why can mission extensions offer distinctive scientific value?",
+        "answer": "C",
+        "explanation": "Paragraph C explains that they permit comparisons over time and access to unplanned environments.",
+        "options": [
+          "They use entirely new instruments.",
+          "They require no ground support.",
+          "They permit long-term comparison and unexpected observations.",
+          "They eliminate competition for antennas."
+        ]
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Controllers may need to preserve ageing hardware while deciding which systems to ______.",
+        "answer": "switch off",
+        "explanation": "Paragraph B uses this wording."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer argues that every functioning spacecraft should continue operating.",
+        "answer": "No",
+        "explanation": "Paragraph D says survival alone is insufficient and productive spacecraft may be retired."
+      }
+    ]
+  }
+}

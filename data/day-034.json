@@ -1,0 +1,355 @@
+{
+  "id": 34,
+  "topic": "Teamwork",
+  "topicCN": "团队合作",
+  "category": "Work",
+  "vocabulary": [
+    {
+      "word": "team dynamic",
+      "ipa": "/ˈtiːm daɪˌnæmɪk/",
+      "meaning": "团队互动模式",
+      "collocation": "improve the team dynamic",
+      "collocationCN": "改善团队互动氛围"
+    },
+    {
+      "word": "shared objective",
+      "ipa": "/ˌʃeəd əbˈdʒektɪv/",
+      "meaning": "共同目标",
+      "collocation": "work towards a shared objective",
+      "collocationCN": "为共同目标努力"
+    },
+    {
+      "word": "division of labour",
+      "ipa": "/dɪˌvɪʒən əv ˈleɪbə/",
+      "meaning": "劳动分工",
+      "collocation": "agree on a fair division of labour",
+      "collocationCN": "商定公平的任务分工"
+    },
+    {
+      "word": "complementary skills",
+      "ipa": "/ˌkɒmplɪˈmentəri skɪlz/",
+      "meaning": "互补技能",
+      "collocation": "bring complementary skills to a project",
+      "collocationCN": "为项目带来互补技能"
+    },
+    {
+      "word": "mutual accountability",
+      "ipa": "/ˌmjuːtʃuəl əˌkaʊntəˈbɪləti/",
+      "meaning": "相互问责",
+      "collocation": "create a culture of mutual accountability",
+      "collocationCN": "营造相互负责的文化"
+    },
+    {
+      "word": "psychological safety",
+      "ipa": "/ˌsaɪkəˈlɒdʒɪkəl ˈseɪfti/",
+      "meaning": "心理安全感",
+      "collocation": "foster psychological safety",
+      "collocationCN": "培养团队心理安全感"
+    },
+    {
+      "word": "constructive disagreement",
+      "ipa": "/kənˌstrʌktɪv dɪsəˈɡriːmənt/",
+      "meaning": "建设性分歧",
+      "collocation": "encourage constructive disagreement",
+      "collocationCN": "鼓励建设性分歧"
+    },
+    {
+      "word": "groupthink",
+      "ipa": "/ˈɡruːpθɪŋk/",
+      "meaning": "群体迷思；从众决策",
+      "collocation": "avoid the dangers of groupthink",
+      "collocationCN": "避免群体迷思的危害"
+    },
+    {
+      "word": "consensus",
+      "ipa": "/kənˈsensəs/",
+      "meaning": "共识",
+      "collocation": "reach a workable consensus",
+      "collocationCN": "达成可行的共识"
+    },
+    {
+      "word": "mediator",
+      "ipa": "/ˈmiːdieɪtə/",
+      "meaning": "调解人",
+      "collocation": "ask a neutral mediator to intervene",
+      "collocationCN": "请中立调解人介入"
+    },
+    {
+      "word": "team cohesion",
+      "ipa": "/ˈtiːm kəʊˌhiːʒən/",
+      "meaning": "团队凝聚力",
+      "collocation": "strengthen team cohesion through shared work",
+      "collocationCN": "通过共同工作增强团队凝聚力"
+    },
+    {
+      "word": "cross-functional team",
+      "ipa": "/ˌkrɒs ˈfʌŋkʃənəl tiːm/",
+      "meaning": "跨职能团队",
+      "collocation": "assemble a cross-functional team",
+      "collocationCN": "组建跨职能团队"
+    },
+    {
+      "word": "collective ownership",
+      "ipa": "/kəˌlektɪv ˈəʊnəʃɪp/",
+      "meaning": "共同担当",
+      "collocation": "take collective ownership of the outcome",
+      "collocationCN": "共同为结果负责"
+    },
+    {
+      "word": "coordinate",
+      "ipa": "/kəʊˈɔːdɪneɪt/",
+      "meaning": "协调",
+      "collocation": "coordinate tasks across departments",
+      "collocationCN": "协调各部门任务"
+    },
+    {
+      "word": "delegate",
+      "ipa": "/ˈdelɪɡeɪt/",
+      "meaning": "委派",
+      "collocation": "delegate tasks according to expertise",
+      "collocationCN": "按专长分派任务"
+    },
+    {
+      "word": "pull your weight",
+      "ipa": "/pʊl jɔː ˈweɪt/",
+      "meaning": "尽到自己的一份责任",
+      "collocation": "expect everyone to pull their weight",
+      "collocationCN": "期望每个人尽职尽责"
+    },
+    {
+      "word": "keep someone in the loop",
+      "ipa": "/kiːp ˌsʌmwʌn ɪn ðə ˈluːp/",
+      "meaning": "让某人及时了解进展",
+      "collocation": "keep remote colleagues in the loop",
+      "collocationCN": "让远程同事及时了解进展"
+    },
+    {
+      "word": "step up",
+      "ipa": "/step ˈʌp/",
+      "meaning": "主动承担更多责任",
+      "collocation": "step up when a teammate is absent",
+      "collocationCN": "队友缺席时主动补位"
+    },
+    {
+      "word": "bounce ideas off someone",
+      "ipa": "/baʊns aɪˌdɪəz ɒf ˈsʌmwʌn/",
+      "meaning": "与某人交流想法以获得反馈",
+      "collocation": "bounce ideas off experienced colleagues",
+      "collocationCN": "与有经验的同事交流想法"
+    },
+    {
+      "word": "iron out differences",
+      "ipa": "/ˌaɪən aʊt ˈdɪfrənsɪz/",
+      "meaning": "消除分歧",
+      "collocation": "iron out differences before the deadline",
+      "collocationCN": "在截止日期前解决分歧"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "work together",
+      "options": [
+        "collaborate",
+        "coordinate as a team",
+        "combine complementary expertise"
+      ],
+      "note": "collaborate 强调共同完成。"
+    },
+    {
+      "base": "share the work",
+      "options": [
+        "divide up the workload",
+        "allocate responsibilities",
+        "distribute project tasks"
+      ],
+      "note": "allocate 较正式。"
+    },
+    {
+      "base": "everyone knows the latest information",
+      "options": [
+        "keep everyone in the loop",
+        "maintain shared awareness",
+        "share timely updates"
+      ],
+      "note": "in the loop 偏口语。"
+    },
+    {
+      "base": "disagree usefully",
+      "options": [
+        "challenge ideas constructively",
+        "test a proposal",
+        "debate the evidence"
+      ],
+      "note": "constructively 强调以改进为目的。"
+    },
+    {
+      "base": "person responsible",
+      "options": [
+        "task owner",
+        "accountable team member",
+        "designated lead"
+      ],
+      "note": "owner 在项目管理中指明确责任人。"
+    },
+    {
+      "base": "knowledge only one person has",
+      "options": [
+        "unique information",
+        "unshared evidence",
+        "specialist insight"
+      ],
+      "note": "unshared information 与团队偏差讨论相关。"
+    },
+    {
+      "base": "team agreement",
+      "options": [
+        "group consensus",
+        "shared decision",
+        "collective judgement"
+      ],
+      "note": "consensus 不一定代表信息充分。"
+    },
+    {
+      "base": "goal everyone shares",
+      "options": [
+        "common objective",
+        "shared outcome",
+        "collective purpose"
+      ],
+      "note": "objective 比 purpose 更具体可测。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A team performs well not when + absence of disagreement, but when + constructive process.",
+      "cn": "团队表现好并不是因为没有分歧，而是因为……。",
+      "example": "A team performs well not when disagreement disappears, but when evidence can be challenged safely."
+    },
+    {
+      "pattern": "The clearer + division/goal + is, the easier it becomes to + coordinate.",
+      "cn": "分工或目标越清晰，就越容易协调。",
+      "example": "The clearer the division of responsibility is, the easier it becomes to detect missing work."
+    },
+    {
+      "pattern": "By + sharing practice, team members can prevent + coordination failure.",
+      "cn": "通过某种共享做法，团队成员可以避免协调失败。",
+      "example": "By recording decisions, team members can prevent the same issue from being reopened."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "pull my weight",
+      "cn": "尽到自己的责任",
+      "example": "Everyone needs to pull their weight during a group project."
+    },
+    {
+      "text": "work towards a common goal",
+      "cn": "朝共同目标努力",
+      "example": "Different specialists worked towards a common goal."
+    },
+    {
+      "text": "keep everyone in the loop",
+      "cn": "让所有人了解进展",
+      "example": "A short update keeps everyone in the loop."
+    },
+    {
+      "text": "divide up the workload",
+      "cn": "分配工作量",
+      "example": "We divided up the workload according to experience."
+    },
+    {
+      "text": "bounce ideas off someone",
+      "cn": "和某人交流想法",
+      "example": "I like to bounce ideas off a colleague before deciding."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "We cooperated the project together.",
+      "correct": "We collaborated on the project.",
+      "why": "collaborate/cooperate on a project；together 在此多余。"
+    },
+    {
+      "wrong": "Every team members had a task.",
+      "correct": "Every team member had a task.",
+      "why": "every 后接单数可数名词。"
+    },
+    {
+      "wrong": "He is responsible of the budget.",
+      "correct": "He is responsible for the budget.",
+      "why": "responsible for 是固定搭配。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Constructive disagreement improves team decisions.",
+      "topicSentence": "Teams need procedures that allow assumptions to be challenged without turning debate into personal conflict.",
+      "collocations": [
+        "challenge an assumption",
+        "consider alternative evidence",
+        "express disagreement respectfully",
+        "reach a reasoned decision"
+      ],
+      "argument": "Members often possess different information, so immediate agreement may indicate silence rather than shared judgement. Asking one person to test the leading proposal can expose risks before commitment becomes expensive. The criticism should address evidence and consequences, not status or personality. Leaders can model this distinction by changing their own view when stronger evidence appears. A team that disagrees well is often safer than one that merely looks harmonious."
+    },
+    {
+      "viewpoint": "Clear ownership prevents collaboration from becoming diffusion of responsibility.",
+      "topicSentence": "Shared goals should be accompanied by named responsibility for specific decisions and outputs.",
+      "collocations": [
+        "assign clear responsibility",
+        "coordinate interdependent tasks",
+        "track project progress",
+        "meet a shared deadline"
+      ],
+      "argument": "When everyone is generally responsible, individuals may assume that someone else will notice an unfinished task. Named ownership makes follow-up possible and reveals where support is needed. This does not mean working in isolation, since owners still seek expertise and share drafts. A simple decision record can also prevent confusion when membership changes. Effective teamwork combines collective purpose with individual accountability."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you prefer working alone or in a team?",
+      "answer": "It depends on the stage of the task. I prefer to develop a first idea alone because interruptions make it hard to think deeply. Once there is something concrete to test, a team is better at finding gaps and adding expertise. My ideal arrangement alternates between focused individual work and purposeful discussion."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a time when you worked successfully with other people.",
+      "answer": "I worked with three classmates on a neighbourhood survey. We divided the roles according to strengths: one person designed questions, two conducted interviews and I organised the responses. We used a shared note after each session, so errors were corrected before the next set of interviews. When our first question confused residents, nobody defended it; we rewrote it together. The project succeeded because information moved quickly and each task had a clear owner. We scheduled two brief check-ins instead of holding long meetings, and between them each person worked independently. One teammate noticed that our sample overrepresented retired residents, so we changed the interview times. That correction strengthened the final findings. I remember the experience because teamwork did not mean constant agreement; it meant that a concern could change the plan before it was too late."
+    }
+  ],
+  "reading": {
+    "title": "The Information Nobody Brings to the Meeting",
+    "paragraphs": [
+      "Teams are formed because no single member possesses all the necessary knowledge. Paradoxically, group discussion often concentrates on information everyone already shares. Shared facts are repeated, confirmed and treated as important, while a unique observation held by one member may be mentioned once or not at all. Researchers call this the common-information bias.",
+      "The pattern has several causes. Familiar information is easier to introduce and receives immediate recognition from others. A junior member may doubt a fact that conflicts with the emerging view, particularly when senior colleagues appear certain. Meetings also create time pressure, so groups move towards a decision before asking what remains unknown. Confidence then grows through repetition rather than through the completeness of evidence.",
+      "Procedures can counter the bias. Before discussion, members can record their independent judgement and the evidence available only to them. A chair can ask each specialist what the rest of the group is likely to miss. Delaying an initial vote prevents early preferences from shaping every later comment. In high-risk decisions, assigning someone to construct the strongest alternative explanation can reveal evidence that the preferred account cannot accommodate.",
+      "These methods add friction, and not every minor decision deserves an elaborate process. The cost should match the consequence of error. For routine choices, a brief round asking for concerns may be sufficient; for safety or investment decisions, a formal record is justified. Teamwork adds value only if distinct knowledge actually enters the decision. Gathering experts around a table is not enough when the conversation rewards what they all knew before arriving.",
+      "Written agendas can help unique information surface if they frame questions rather than confirm a preferred answer. “What could make this plan fail?” invites different evidence; “Are we all happy with the plan?” mainly invites agreement. Circulating the questions early also gives reflective members time to retrieve records and formulate a concern that might be lost in rapid discussion."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "What is common-information bias?",
+        "answer": "C",
+        "explanation": "It is the tendency to focus discussion on facts already shared.",
+        "options": [
+          "The inability of experts to understand one another",
+          "The habit of recording too much information",
+          "The tendency to focus discussion on facts already shared",
+          "The refusal to make routine decisions"
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Confidence may increase through repetition rather than the ______ of evidence.",
+        "answer": "completeness",
+        "explanation": "Paragraph 2 contrasts repetition with completeness."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "Every team decision should use a formal written procedure.",
+        "answer": "No",
+        "explanation": "The final paragraph says the process should match the consequence and routine choices need less."
+      }
+    ]
+  }
+}

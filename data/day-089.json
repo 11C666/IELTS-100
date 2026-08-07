@@ -1,0 +1,355 @@
+{
+  "id": 89,
+  "topic": "Migration",
+  "topicCN": "人口迁移",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "migration flow",
+      "ipa": "/maɪˈɡreɪʃən fləʊ/",
+      "meaning": "迁移流动",
+      "collocation": "track migration flows",
+      "collocationCN": "追踪人口迁移"
+    },
+    {
+      "word": "migrant worker",
+      "ipa": "/ˈmaɪɡrənt ˌwɜːkə/",
+      "meaning": "外来务工者",
+      "collocation": "protect migrant workers",
+      "collocationCN": "保护外来务工者"
+    },
+    {
+      "word": "country of origin",
+      "ipa": "/ˌkʌntri əv ˈɒrɪdʒɪn/",
+      "meaning": "原籍国",
+      "collocation": "return to the country of origin",
+      "collocationCN": "返回原籍国"
+    },
+    {
+      "word": "host community",
+      "ipa": "/həʊst kəˈmjuːnəti/",
+      "meaning": "接收社区",
+      "collocation": "support the host community",
+      "collocationCN": "支持接收社区"
+    },
+    {
+      "word": "remittance",
+      "ipa": "/rɪˈmɪtəns/",
+      "meaning": "侨汇",
+      "collocation": "send remittances home",
+      "collocationCN": "向家乡汇款"
+    },
+    {
+      "word": "labour mobility",
+      "ipa": "/ˈleɪbə məʊˌbɪləti/",
+      "meaning": "劳动力流动",
+      "collocation": "encourage labour mobility",
+      "collocationCN": "促进劳动力流动"
+    },
+    {
+      "word": "skills shortage",
+      "ipa": "/ˈskɪlz ˌʃɔːtɪdʒ/",
+      "meaning": "技能短缺",
+      "collocation": "fill a skills shortage",
+      "collocationCN": "填补技能短缺"
+    },
+    {
+      "word": "integration",
+      "ipa": "/ˌɪntɪˈɡreɪʃən/",
+      "meaning": "融入",
+      "collocation": "facilitate social integration",
+      "collocationCN": "促进社会融入"
+    },
+    {
+      "word": "displacement",
+      "ipa": "/dɪsˈpleɪsmənt/",
+      "meaning": "流离失所",
+      "collocation": "forced displacement",
+      "collocationCN": "被迫迁移"
+    },
+    {
+      "word": "asylum seeker",
+      "ipa": "/əˈsaɪləm ˌsiːkə/",
+      "meaning": "寻求庇护者",
+      "collocation": "process asylum seekers’ claims",
+      "collocationCN": "处理庇护申请"
+    },
+    {
+      "word": "brain drain",
+      "ipa": "/ˈbreɪn dreɪn/",
+      "meaning": "人才流失",
+      "collocation": "reverse the brain drain",
+      "collocationCN": "扭转人才外流"
+    },
+    {
+      "word": "credential recognition",
+      "ipa": "/krəˈdenʃəl ˌrekəɡˈnɪʃən/",
+      "meaning": "资历认可",
+      "collocation": "improve credential recognition",
+      "collocationCN": "改善资历认可"
+    },
+    {
+      "word": "seasonal employment",
+      "ipa": "/ˈsiːzənəl ɪmˌplɔɪmənt/",
+      "meaning": "季节性就业",
+      "collocation": "take seasonal employment",
+      "collocationCN": "从事季节性工作"
+    },
+    {
+      "word": "border region",
+      "ipa": "/ˈbɔːdə ˌriːdʒən/",
+      "meaning": "边境地区",
+      "collocation": "cross a border region",
+      "collocationCN": "穿越边境地区"
+    },
+    {
+      "word": "diaspora",
+      "ipa": "/daɪˈæspərə/",
+      "meaning": "侨民群体",
+      "collocation": "engage the diaspora",
+      "collocationCN": "联系海外侨民"
+    },
+    {
+      "word": "settle in",
+      "ipa": "/ˈsetəl ɪn/",
+      "meaning": "安顿下来",
+      "collocation": "settle into a new city",
+      "collocationCN": "在新城市安顿"
+    },
+    {
+      "word": "send money home",
+      "ipa": "/send ˌmʌni ˈhəʊm/",
+      "meaning": "寄钱回家",
+      "collocation": "regularly send money home",
+      "collocationCN": "定期寄钱回家"
+    },
+    {
+      "word": "find your feet",
+      "ipa": "/faɪnd jɔː ˈfiːt/",
+      "meaning": "适应新环境",
+      "collocation": "find your feet at work",
+      "collocationCN": "适应工作环境"
+    },
+    {
+      "word": "build a new life",
+      "ipa": "/bɪld ə njuː ˈlaɪf/",
+      "meaning": "建立新生活",
+      "collocation": "build a new life abroad",
+      "collocationCN": "在国外建立新生活"
+    },
+    {
+      "word": "navigate paperwork",
+      "ipa": "/ˈnævɪɡeɪt ˈpeɪpəwɜːk/",
+      "meaning": "应对手续文件",
+      "collocation": "navigate immigration paperwork",
+      "collocationCN": "处理移民手续"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "move to another country",
+      "options": [
+        "migrate abroad",
+        "relocate internationally",
+        "settle in a foreign country"
+      ],
+      "note": "settle强调较长期居住。"
+    },
+    {
+      "base": "foreign workers",
+      "options": [
+        "migrant workers",
+        "overseas employees",
+        "workers recruited from abroad"
+      ],
+      "note": "migrant不等于永久移民。"
+    },
+    {
+      "base": "help the economy",
+      "options": [
+        "support economic activity",
+        "contribute to national output",
+        "strengthen the productive economy"
+      ],
+      "note": "contribute避免夸大单一因果。"
+    },
+    {
+      "base": "fit into society",
+      "options": [
+        "integrate into the community",
+        "participate in civic life",
+        "develop a sense of local belonging"
+      ],
+      "note": "integration是双向过程。"
+    },
+    {
+      "base": "leave because of danger",
+      "options": [
+        "flee insecurity",
+        "be forcibly displaced",
+        "seek safety outside one’s home region"
+      ],
+      "note": "displaced强调非自愿。"
+    },
+    {
+      "base": "qualified people leave",
+      "options": [
+        "skilled workers emigrate",
+        "a country experiences brain drain",
+        "professional talent is lost overseas"
+      ],
+      "note": "brain drain常带负面评价。"
+    },
+    {
+      "base": "money sent home",
+      "options": [
+        "remittances",
+        "cross-border household transfers",
+        "earnings returned to families abroad"
+      ],
+      "note": "remittance是正式名词。"
+    },
+    {
+      "base": "accept qualifications",
+      "options": [
+        "recognise overseas credentials",
+        "validate foreign professional training",
+        "acknowledge qualifications gained abroad"
+      ],
+      "note": "recognise credentials常见于就业政策。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "People may move not because + single reason, but because + combined pressures or opportunities.",
+      "cn": "人们迁移可能并非由于单一原因，而是多种压力或机会共同作用。",
+      "example": "People may move not because wages are low alone, but because secure work and training are unavailable."
+    },
+    {
+      "pattern": "When + qualification or experience + is not recognised, migrants who + expertise + may have to + lower-level outcome.",
+      "cn": "当某种资历或经验得不到认可时，拥有相关专长的移民可能不得不接受较低层级的结果。",
+      "example": "When overseas qualifications are not recognised, migrants who have medical expertise may have to take unrelated jobs."
+    },
+    {
+      "pattern": "The extent to which + group + integrates depends partly on whether + practical condition.",
+      "cn": "某群体融入的程度，部分取决于某项实际条件是否得到满足。",
+      "example": "The extent to which newcomers integrate depends partly on whether they can access language classes and stable housing."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "start from scratch",
+      "cn": "从头开始",
+      "example": "Some migrants have to start from scratch in a new profession."
+    },
+    {
+      "text": "put down roots",
+      "cn": "在新地方扎根",
+      "example": "Stable work and supportive neighbours helped the family put down roots."
+    },
+    {
+      "text": "keep close ties with home",
+      "cn": "与家乡保持密切联系",
+      "example": "Video calls allow migrants to keep close ties with home."
+    },
+    {
+      "text": "fill gaps in the workforce",
+      "cn": "填补劳动力空缺",
+      "example": "New arrivals can fill gaps in the workforce."
+    },
+    {
+      "text": "contribute to both communities",
+      "cn": "为两地社区作贡献",
+      "example": "Diaspora entrepreneurs often contribute to both communities."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "He immigrated to abroad.",
+      "correct": "He emigrated abroad.",
+      "why": "abroad前不加to；强调离开本国可用emigrate。"
+    },
+    {
+      "wrong": "Many immigrants cannot adapt the new society.",
+      "correct": "Many immigrants cannot adapt to the new society.",
+      "why": "adapt表示适应环境时需接to。"
+    },
+    {
+      "wrong": "Migration brings many benefit.",
+      "correct": "Migration brings many benefits.",
+      "why": "many后接可数名词复数。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Qualification recognition can turn migration into productive employment.",
+      "topicSentence": "Host countries waste valuable skills when overseas credentials are assessed slowly or inconsistently.",
+      "collocations": [
+        "recognise overseas credentials",
+        "address skills shortages",
+        "provide bridging courses",
+        "use existing expertise"
+      ],
+      "argument": "A nurse who cannot obtain local recognition may work in a job that uses none of her clinical training, even while hospitals lack staff. Automatic acceptance is not always safe because professional standards differ. However, transparent assessments and short bridging courses can identify genuine gaps without requiring an experienced worker to repeat an entire education. This comparison between verified competence and job placement is more useful than judging people by where a certificate was issued. Better recognition would improve migrants’ incomes and help employers fill urgent vacancies."
+    },
+    {
+      "viewpoint": "Integration policy should include established residents as well as newcomers.",
+      "topicSentence": "Community trust is more likely to grow when migration-related investment addresses shared local pressures.",
+      "collocations": [
+        "strengthen local services",
+        "create shared public spaces",
+        "support language learning",
+        "build social trust"
+      ],
+      "argument": "Rapid population growth can increase demand for housing, schools and clinics in particular districts. If new services are described as benefits exclusively for migrants, established residents may feel that their own needs are being overlooked. Expanding a clinic for everyone, while adding interpretation where needed, solves the practical pressure without dividing users into rival groups. Shared sports projects and neighbourhood associations can create contact that abstract campaigns rarely achieve. Integration is therefore strongest when public policy improves participation and capacity across the host community."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe someone you know who moved to a new place.",
+      "answer": "A close friend moved from a small inland town to a coastal city for her first professional job. She knew nobody there and initially found everyday tasks, such as choosing a neighbourhood and understanding the bus network, surprisingly tiring. She joined a weekend running group, which gave her regular contact with people outside work, and after a few months she began to feel settled. I admired the way she remained curious rather than constantly comparing the city with home. She still calls her family several times a week and visits when possible. Her experience showed me that moving is not one dramatic decision; it involves many small adjustments before a place feels familiar."
+    },
+    {
+      "part": "Part 3",
+      "question": "What helps newcomers integrate into a community?",
+      "answer": "Language ability matters, but opportunities to use the language in meaningful situations matter just as much. Stable housing and fair access to employment give people the security to build relationships. Local institutions can help by explaining services clearly and organising activities around shared interests rather than nationality alone. Established residents also influence integration through ordinary behaviour: an invitation, a helpful explanation or patience with an accent can make a real difference. Newcomers should learn local expectations, but integration cannot reasonably be treated as their responsibility only."
+    }
+  ],
+  "reading": {
+    "title": "When Qualifications Do Not Travel",
+    "paragraphs": [
+      "On arriving in a new country, an experienced civil engineer found work inspecting goods in a warehouse. His degree was genuine, his former employer supplied references, and local construction firms were recruiting. What he lacked was a familiar professional record: regulators could not easily compare his university modules, safety training and project responsibilities with domestic requirements.",
+      "This problem, often described as “brain waste”, differs from a simple skills mismatch. The expertise exists in the destination country but remains unused because evidence about it does not pass smoothly between institutions. Employers, who may be unable to judge an unfamiliar college, tend to prefer local experience; professional bodies must protect safety; and migrants cannot acquire domestic experience until someone hires them. The result is a circular barrier that language training alone cannot remove.",
+      "A provincial pilot programme replaced a single document check with several forms of evidence. Applicants submitted portfolios, completed practical simulations and, where a specific gap was identified, attended a short course. Participants entered work related to their previous professions more often than a comparison group using the conventional route, although researchers cautioned that volunteers for the pilot may have been especially motivated.",
+      "The process was neither quick nor cheap. Simulations required trained assessors, and small occupations could not offer enough candidates to run them frequently. Yet the programme also revealed that some apparent shortages were failures of recognition rather than failures of supply. It did not lower professional standards: an applicant unable to demonstrate essential knowledge still needed further study.",
+      "Qualifications are not objects that can simply be carried across a border unchanged; they are claims interpreted by employers, regulators and educational systems. More reliable interpretation will not place every migrant in an ideal job. It can, however, distinguish a genuine training gap from an administrative one—and prevent a society from searching overseas for skills already present within its own workforce."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for Paragraph B.",
+        "answer": "A circular barrier to skilled employment",
+        "explanation": "The paragraph shows how unfamiliar credentials, local-experience demands and hiring depend on one another."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Every participant in the pilot found work related to a previous profession.",
+        "answer": "False",
+        "explanation": "The passage says participants entered related work more often, not that every participant did so."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What did the pilot reveal about some skills shortages?",
+        "answer": "C",
+        "explanation": "The final sections say some shortages reflected failed recognition rather than absent skills.",
+        "options": [
+          "They were caused entirely by language ability.",
+          "They existed only in small occupations.",
+          "Relevant skills were already available locally.",
+          "Professional standards were unnecessarily low."
+        ]
+      }
+    ]
+  }
+}

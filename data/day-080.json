@@ -1,0 +1,355 @@
+{
+  "id": 80,
+  "topic": "Green Urban Planning",
+  "topicCN": "绿色城市规划",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "green infrastructure",
+      "ipa": "/ɡriːn ˈɪnfrəˌstrʌktʃə/",
+      "meaning": "绿色基础设施",
+      "collocation": "invest in green infrastructure",
+      "collocationCN": "投资绿色基础设施"
+    },
+    {
+      "word": "urban canopy",
+      "ipa": "/ˈɜːbən ˌkænəpi/",
+      "meaning": "城市树冠",
+      "collocation": "expand the urban canopy",
+      "collocationCN": "扩大城市树冠"
+    },
+    {
+      "word": "permeable surface",
+      "ipa": "/ˈpɜːmiəbəl ˌsɜːfɪs/",
+      "meaning": "透水表面",
+      "collocation": "install a permeable surface",
+      "collocationCN": "铺设透水表面"
+    },
+    {
+      "word": "rain garden",
+      "ipa": "/ˈreɪn ˌɡɑːdən/",
+      "meaning": "雨水花园",
+      "collocation": "create a roadside rain garden",
+      "collocationCN": "建设路旁雨水花园"
+    },
+    {
+      "word": "green roof",
+      "ipa": "/ɡriːn ruːf/",
+      "meaning": "绿色屋顶",
+      "collocation": "maintain a green roof",
+      "collocationCN": "维护绿色屋顶"
+    },
+    {
+      "word": "urban heat island",
+      "ipa": "/ˌɜːbən ˈhiːt aɪlənd/",
+      "meaning": "城市热岛",
+      "collocation": "reduce the urban heat-island effect",
+      "collocationCN": "缓解城市热岛效应"
+    },
+    {
+      "word": "stormwater runoff",
+      "ipa": "/ˈstɔːmwɔːtə ˌrʌnɒf/",
+      "meaning": "雨水径流",
+      "collocation": "capture stormwater runoff",
+      "collocationCN": "收集雨水径流"
+    },
+    {
+      "word": "mixed-use development",
+      "ipa": "/ˌmɪkst juːs dɪˈveləpmənt/",
+      "meaning": "混合用途开发",
+      "collocation": "support mixed-use development",
+      "collocationCN": "支持混合用途开发"
+    },
+    {
+      "word": "walkable neighbourhood",
+      "ipa": "/ˈwɔːkəbəl ˈneɪbəhʊd/",
+      "meaning": "适宜步行的社区",
+      "collocation": "design a walkable neighbourhood",
+      "collocationCN": "设计适宜步行的社区"
+    },
+    {
+      "word": "pocket park",
+      "ipa": "/ˈpɒkɪt pɑːk/",
+      "meaning": "袖珍公园",
+      "collocation": "turn a vacant site into a pocket park",
+      "collocationCN": "把空地改为袖珍公园"
+    },
+    {
+      "word": "shade provision",
+      "ipa": "/ʃeɪd prəˈvɪʒən/",
+      "meaning": "遮阴供给",
+      "collocation": "improve shade provision",
+      "collocationCN": "增加遮阴"
+    },
+    {
+      "word": "active travel",
+      "ipa": "/ˈæktɪv ˌtrævəl/",
+      "meaning": "主动出行",
+      "collocation": "encourage active travel",
+      "collocationCN": "鼓励步行骑行"
+    },
+    {
+      "word": "nature-based solution",
+      "ipa": "/ˈneɪtʃə beɪst səˌluːʃən/",
+      "meaning": "基于自然的解决方案",
+      "collocation": "adopt a nature-based solution",
+      "collocationCN": "采用基于自然的方案"
+    },
+    {
+      "word": "maintenance budget",
+      "ipa": "/ˈmeɪntənəns ˌbʌdʒɪt/",
+      "meaning": "维护预算",
+      "collocation": "secure a maintenance budget",
+      "collocationCN": "确保维护预算"
+    },
+    {
+      "word": "equitable access",
+      "ipa": "/ˈekwɪtəbəl ˈækses/",
+      "meaning": "公平可及",
+      "collocation": "ensure equitable access to green space",
+      "collocationCN": "确保公平获得绿地"
+    },
+    {
+      "word": "a shady route",
+      "ipa": "/ə ˈʃeɪdi ruːt/",
+      "meaning": "有树荫的路线",
+      "collocation": "choose a shady route",
+      "collocationCN": "选择有树荫的路线"
+    },
+    {
+      "word": "within a short walk",
+      "ipa": "/wɪˈðɪn ə ʃɔːt wɔːk/",
+      "meaning": "短距离步行可达",
+      "collocation": "live within a short walk of a park",
+      "collocationCN": "住在步行不远的公园附近"
+    },
+    {
+      "word": "cool down",
+      "ipa": "/kuːl daʊn/",
+      "meaning": "凉快下来",
+      "collocation": "stop under a tree to cool down",
+      "collocationCN": "在树下停留降温"
+    },
+    {
+      "word": "make room for nature",
+      "ipa": "/meɪk ruːm fə ˈneɪtʃə/",
+      "meaning": "为自然留出空间",
+      "collocation": "make room for nature in dense districts",
+      "collocationCN": "在密集城区为自然留空间"
+    },
+    {
+      "word": "deliver multiple benefits",
+      "ipa": "/dɪˈlɪvə ˈmʌltɪpəl ˌbenɪfɪts/",
+      "meaning": "带来多重效益",
+      "collocation": "design projects to deliver multiple benefits",
+      "collocationCN": "设计能带来多重效益的项目"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "green city planning",
+      "options": [
+        "environmentally responsive planning",
+        "ecological urban design",
+        "planning that integrates natural systems"
+      ],
+      "note": "integrates强调自然不是附加装饰。"
+    },
+    {
+      "base": "more trees",
+      "options": [
+        "greater tree-canopy cover",
+        "an expanded urban forest",
+        "increased shade-producing vegetation"
+      ],
+      "note": "canopy cover是可测指标。"
+    },
+    {
+      "base": "absorb rainwater",
+      "options": [
+        "retain stormwater",
+        "slow and capture runoff",
+        "allow rainfall to infiltrate"
+      ],
+      "note": "infiltrate指渗入土壤。"
+    },
+    {
+      "base": "easy to walk",
+      "options": [
+        "pedestrian-friendly",
+        "walkable",
+        "designed for convenient travel on foot"
+      ],
+      "note": "walkable兼顾距离和环境。"
+    },
+    {
+      "base": "small green space",
+      "options": [
+        "pocket park",
+        "neighbourhood-scale open space",
+        "a compact publicly accessible green area"
+      ],
+      "note": "pocket park有明确规划含义。"
+    },
+    {
+      "base": "cool the city",
+      "options": [
+        "reduce urban heat",
+        "moderate local temperatures",
+        "mitigate the heat-island effect"
+      ],
+      "note": "mitigate适合正式写作。"
+    },
+    {
+      "base": "fair access",
+      "options": [
+        "equitable provision",
+        "a more even distribution of benefits",
+        "access that reflects different levels of need"
+      ],
+      "note": "equitable不等于完全平均。"
+    },
+    {
+      "base": "look after a park",
+      "options": [
+        "maintain public green space",
+        "fund long-term landscape care",
+        "manage vegetation and facilities over time"
+      ],
+      "note": "maintenance是长期成本。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A green space that is + geographically close + but separated by + a major road + may be less accessible than + a more distant park with a safe route.",
+      "cn": "一处绿地即使距离很近，如果被障碍隔开，也可能不如更远的绿地易于到达。",
+      "example": "A green space that is nearby but separated by a six-lane road may be less accessible than a smaller park along a safe route."
+    },
+    {
+      "pattern": "Not only does + an urban tree or wetland + reduce + heat or flooding, but it also + provides a social or health benefit.",
+      "cn": "某绿色设施不仅缓解环境问题，还能带来社会效益。",
+      "example": "Not only does a rain garden reduce runoff, but it also creates a more pleasant walking route."
+    },
+    {
+      "pattern": "Planners deciding where to + plant trees or create green space + should consider + local need and accessibility, rather than merely + the total area provided.",
+      "cn": "决定在哪里实施干预的规划者应考虑实际条件，而不能只看单一指标。",
+      "example": "Planners deciding where to plant trees should consider pedestrian exposure, rather than merely counting available plots."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "have a park on your doorstep",
+      "cn": "家门口就有公园",
+      "example": "Families value having a park on their doorstep."
+    },
+    {
+      "text": "take the cooler route",
+      "cn": "走更凉快的路线",
+      "example": "In summer, I take the cooler route under mature trees."
+    },
+    {
+      "text": "turn grey space green",
+      "cn": "把灰色空间变绿",
+      "example": "The project turned an unused car park from grey space green."
+    },
+    {
+      "text": "integrate nature into urban design",
+      "cn": "把自然融入城市设计",
+      "example": "New districts should integrate nature into urban design."
+    },
+    {
+      "text": "deliver social and environmental benefits",
+      "cn": "带来社会和环境双重效益",
+      "example": "A shaded square can deliver social and environmental benefits."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The government should plant more green.",
+      "correct": "The local authority should create more green space.",
+      "why": "green不能这样作可数名词；使用green space或vegetation。"
+    },
+    {
+      "wrong": "There are fewer shadow in this street.",
+      "correct": "There is less shade on this street.",
+      "why": "shade通常不可数，搭配less。"
+    },
+    {
+      "wrong": "The park is convenient for arriving.",
+      "correct": "The park is easy to reach.",
+      "why": "表达地点容易到达，natural English用easy to reach。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Green infrastructure should be planned as essential infrastructure.",
+      "topicSentence": "Urban nature can manage heat and water while improving daily public space.",
+      "collocations": [
+        "manage stormwater runoff",
+        "expand tree-canopy cover",
+        "provide usable shade",
+        "deliver multiple benefits"
+      ],
+      "argument": "A drainage pipe performs one main function, whereas a well-placed rain garden can slow runoff, cool a street and improve the pedestrian environment. These additional benefits justify treating green infrastructure as part of core urban systems rather than optional decoration. However, performance depends on soil, species choice and long-term maintenance, so visual appeal alone is insufficient. Cities should specify measurable functions and fund care from the beginning. When technical and social goals are coordinated, one intervention can solve several local problems."
+    },
+    {
+      "viewpoint": "Green investment should be directed by need, not available space alone.",
+      "topicSentence": "Planting where implementation is easiest can reinforce existing inequalities in heat exposure and park access.",
+      "collocations": [
+        "map heat vulnerability",
+        "prioritise underserved areas",
+        "remove access barriers",
+        "distribute benefits equitably"
+      ],
+      "argument": "Affluent districts often have wide pavements and mature parks, making additional planting straightforward. Dense lower-income areas may need trees more urgently but require road redesign, utility relocation or land purchase. If planners count only the number planted, they may choose easy sites and miss residents facing the greatest heat risk. Combining temperature data with age, housing and pedestrian routes can identify priority locations. Higher costs in these areas may be justified because equitable planning responds to need rather than distributing identical inputs."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a green public space that is useful to local people.",
+      "answer": "There is a small park beside a busy shopping street that local people use in several ways. It has mature trees, benches, a drinking fountain and a simple play area, so office workers, parents and older residents all spend time there. I often stop for lunch because the shade makes it noticeably cooler than the surrounding pavement. The park is not large enough for sport, but it connects two pedestrian routes and provides a quiet pause between shops and traffic. What makes it successful is not spectacular landscaping; it is the combination of location, shade and basic facilities. It shows that a modest green space can be valuable when it responds to everyday routines."
+    },
+    {
+      "part": "Part 3",
+      "question": "What makes an urban green project successful in the long term?",
+      "answer": "The design has to suit the site, but maintenance and public use are equally important. A tree species may look attractive yet fail if there is too little soil or no budget for watering during its first years. Residents also need safe routes into the space and reasons to use it at different times. Clear responsibility for pruning, drainage and repairs should be agreed before construction. Finally, success should be measured through shade, biodiversity, water management and access, not just by counting how many plants were installed on opening day."
+    }
+  ],
+  "reading": {
+    "title": "The Unequal Geography of Urban Shade",
+    "paragraphs": [
+      "A city announced that it would plant one hundred thousand trees, presenting the total as both a climate target and a public-health investment. The number was ambitious, but a preliminary map exposed a difficulty: districts with the fewest trees also offered the narrowest pavements, the greatest concentration of underground utilities and the smallest municipal planting budgets. Equal numbers for every district would not produce equal shade.",
+      "Tree canopy is usually measured from above, yet residents experience it along particular routes and at particular times. A large private garden can raise a neighbourhood’s canopy percentage without shading a bus stop, while one street tree may protect hundreds of pedestrians during an afternoon heatwave. Planners therefore combined aerial imagery with surface temperatures, walking routes and the locations of schools, clinics and older residents.",
+      "The revised programme assigned priority to places where heat exposure and pedestrian use overlapped. In some streets, planting required removing parking spaces and constructing larger soil pits, decisions that were more expensive and politically difficult than adding trees to an existing park. Elsewhere, awnings provided immediate shade while slower-growing trees became established. This mixed approach acknowledged that a planting target, although easy to communicate, was not itself a complete heat strategy.",
+      "Maintenance introduced another inequality. Young trees in hotter, paved districts needed more water and were more vulnerable to damage. Funding based only on the number of trees would leave precisely those sites with insufficient care. The city consequently allocated early maintenance according to local growing conditions and published survival rates by district, not merely a citywide total.",
+      "Five years is too soon to judge the mature canopy, but it is long enough to learn what survives and whom the programme serves. The initiative still counts trees; counting enables accountability. Its more meaningful question, however, is whether shade appears where people who are most exposed can actually use it. In green urban planning, location, route and time can matter as much as the total visible from the sky."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Private gardens can increase canopy statistics without shading public routes.",
+        "answer": "True",
+        "explanation": "Paragraph 2 gives this exact contrast."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why were awnings used in some places?",
+        "answer": "B",
+        "explanation": "They supplied immediate shade while trees grew.",
+        "options": [
+          "They were cheaper than collecting data.",
+          "They supplied immediate shade while trees grew.",
+          "They increased private garden area.",
+          "They removed the need for maintenance."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "The city published tree survival rates by ______ rather than only as a citywide total.",
+        "answer": "district",
+        "explanation": "Paragraph 4 states this directly."
+      }
+    ]
+  }
+}

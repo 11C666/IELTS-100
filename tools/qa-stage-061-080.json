@@ -1,0 +1,68 @@
+{
+  "passed": true,
+  "scope": "Staged Day 061–080; Day 001–060 read-only",
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "readingWords": {
+      "61": 359,
+      "62": 329,
+      "63": 327,
+      "64": 337,
+      "65": 346,
+      "66": 324,
+      "67": 341,
+      "68": 373,
+      "69": 353,
+      "70": 348,
+      "71": 371,
+      "72": 363,
+      "73": 362,
+      "74": 327,
+      "75": 318,
+      "76": 336,
+      "77": 318,
+      "78": 316,
+      "79": 327,
+      "80": 332
+    },
+    "questionTypes": {
+      "True / False / Not Given": 13,
+      "Multiple Choice": 12,
+      "Sentence Completion": 6,
+      "Matching Headings": 5,
+      "Summary Completion": 6,
+      "Matching Information": 9,
+      "Yes / No / Not Given": 6,
+      "Short Answer": 3
+    },
+    "readingMaxSimilarity": {
+      "days": [
+        70,
+        74
+      ],
+      "percent": 0.45
+    },
+    "writingMaxSimilarity": {
+      "days": [
+        66,
+        72
+      ],
+      "percent": 0.59
+    },
+    "speakingMaxSimilarity": {
+      "days": [
+        67,
+        69
+      ],
+      "percent": 3.33
+    },
+    "crossCorpusReadingMax": {
+      "days": [
+        21,
+        52
+      ],
+      "percent": 0.88
+    }
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "id": 20,
+  "topic": "Public Spaces",
+  "topicCN": "公共空间",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "public space",
+      "ipa": "/ˌpʌblɪk ˈspeɪs/",
+      "meaning": "公共空间",
+      "collocation": "create welcoming public spaces",
+      "collocationCN": "营造友好公共空间"
+    },
+    {
+      "word": "park",
+      "ipa": "/pɑːk/",
+      "meaning": "公园",
+      "collocation": "a neighbourhood park",
+      "collocationCN": "社区公园"
+    },
+    {
+      "word": "square",
+      "ipa": "/skweə/",
+      "meaning": "广场",
+      "collocation": "a public square",
+      "collocationCN": "公共广场"
+    },
+    {
+      "word": "playground",
+      "ipa": "/ˈpleɪɡraʊnd/",
+      "meaning": "游乐场",
+      "collocation": "a safe playground",
+      "collocationCN": "安全游乐场"
+    },
+    {
+      "word": "pavement",
+      "ipa": "/ˈpeɪvmənt/",
+      "meaning": "人行道",
+      "collocation": "a wide pavement",
+      "collocationCN": "宽阔人行道"
+    },
+    {
+      "word": "bench",
+      "ipa": "/bentʃ/",
+      "meaning": "长椅",
+      "collocation": "install public benches",
+      "collocationCN": "安装公共长椅"
+    },
+    {
+      "word": "shade",
+      "ipa": "/ʃeɪd/",
+      "meaning": "阴凉处",
+      "collocation": "provide adequate shade",
+      "collocationCN": "提供充足遮阴"
+    },
+    {
+      "word": "lighting",
+      "ipa": "/ˈlaɪtɪŋ/",
+      "meaning": "照明",
+      "collocation": "improve street lighting",
+      "collocationCN": "改善街道照明"
+    },
+    {
+      "word": "accessible",
+      "ipa": "/əkˈsesəbl/",
+      "meaning": "无障碍且可进入的",
+      "collocation": "accessible to wheelchair users",
+      "collocationCN": "方便轮椅使用者"
+    },
+    {
+      "word": "pedestrian",
+      "ipa": "/pəˈdestriən/",
+      "meaning": "行人",
+      "collocation": "protect pedestrians",
+      "collocationCN": "保护行人"
+    },
+    {
+      "word": "gather",
+      "ipa": "/ˈɡæðə/",
+      "meaning": "聚集",
+      "collocation": "gather in the square",
+      "collocationCN": "在广场聚集"
+    },
+    {
+      "word": "maintain",
+      "ipa": "/meɪnˈteɪn/",
+      "meaning": "维护",
+      "collocation": "maintain public facilities",
+      "collocationCN": "维护公共设施"
+    },
+    {
+      "word": "renovate",
+      "ipa": "/ˈrenəveɪt/",
+      "meaning": "翻修",
+      "collocation": "renovate a city park",
+      "collocationCN": "翻修城市公园"
+    },
+    {
+      "word": "crowded",
+      "ipa": "/ˈkraʊdɪd/",
+      "meaning": "拥挤的",
+      "collocation": "become overcrowded",
+      "collocationCN": "变得过度拥挤"
+    },
+    {
+      "word": "safe",
+      "ipa": "/seɪf/",
+      "meaning": "安全的",
+      "collocation": "feel safe after dark",
+      "collocationCN": "天黑后感到安全"
+    },
+    {
+      "word": "green space",
+      "ipa": "/ˈɡriːn speɪs/",
+      "meaning": "绿地",
+      "collocation": "protect urban green space",
+      "collocationCN": "保护城市绿地"
+    },
+    {
+      "word": "community event",
+      "ipa": "/kəˈmjuːnəti ɪˌvent/",
+      "meaning": "社区活动",
+      "collocation": "host a community event",
+      "collocationCN": "举办社区活动"
+    },
+    {
+      "word": "street furniture",
+      "ipa": "/ˈstriːt ˌfɜːnɪtʃə/",
+      "meaning": "街道公共设施",
+      "collocation": "well-designed street furniture",
+      "collocationCN": "设计良好的街道设施"
+    },
+    {
+      "word": "social interaction",
+      "ipa": "/ˌsəʊʃl ɪntərˈækʃn/",
+      "meaning": "社交互动",
+      "collocation": "encourage social interaction",
+      "collocationCN": "促进社交互动"
+    },
+    {
+      "word": "sense of safety",
+      "ipa": "/ˌsens əv ˈseɪfti/",
+      "meaning": "安全感",
+      "collocation": "improve the sense of safety",
+      "collocationCN": "提升安全感"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "public place",
+      "options": [
+        "public space",
+        "shared urban area",
+        "community space"
+      ],
+      "note": "public space 强调任何人原则上可进入。"
+    },
+    {
+      "base": "easy to enter and use",
+      "options": [
+        "accessible",
+        "barrier-free",
+        "open to all users"
+      ],
+      "note": "accessible 也包含残障人士可用性。"
+    },
+    {
+      "base": "look after",
+      "options": [
+        "maintain",
+        "keep in good condition",
+        "manage"
+      ],
+      "note": "maintain 强调持续维护。"
+    },
+    {
+      "base": "make safer",
+      "options": [
+        "improve safety",
+        "reduce potential hazards",
+        "create a sense of security"
+      ],
+      "note": "实际安全与安全感并不完全相同。"
+    },
+    {
+      "base": "people meeting",
+      "options": [
+        "social interaction",
+        "informal gathering",
+        "community contact"
+      ],
+      "note": "informal gathering 指非正式聚集。"
+    },
+    {
+      "base": "plants in cities",
+      "options": [
+        "urban greenery",
+        "green space",
+        "planted areas"
+      ],
+      "note": "green space 也可包括草地和公园。"
+    },
+    {
+      "base": "very busy place",
+      "options": [
+        "crowded area",
+        "heavily used space",
+        "busy public square"
+      ],
+      "note": "heavily used 不一定负面。"
+    },
+    {
+      "base": "change an old park",
+      "options": [
+        "renovate the park",
+        "redesign the space",
+        "upgrade public facilities"
+      ],
+      "note": "renovate 重在翻修，redesign 重在重新设计。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A public space is more inviting when + design condition.",
+      "cn": "当具备某种设计条件时，公共空间更吸引人。",
+      "example": "A public space is more inviting when people can find shade and comfortable seating."
+    },
+    {
+      "pattern": "Providing + facility + enables + group + to + verb.",
+      "cn": "提供某设施使某类人能够……",
+      "example": "Providing step-free paths enables wheelchair users to move through the park independently."
+    },
+    {
+      "pattern": "The success of + public place + should be judged by + measure, not only by + measure.",
+      "cn": "某公共场所的成功应根据……判断，而不应只看……",
+      "example": "The success of a square should be judged by how people use it, not only by its appearance."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "within easy reach",
+      "cn": "容易到达",
+      "example": "The park is within easy reach of several neighbourhoods."
+    },
+    {
+      "text": "open to everyone",
+      "cn": "向所有人开放",
+      "example": "The garden is free and open to everyone."
+    },
+    {
+      "text": "a place to meet and socialise",
+      "cn": "见面和社交的场所",
+      "example": "The square gives teenagers a place to meet and socialise."
+    },
+    {
+      "text": "feel safe after dark",
+      "cn": "天黑后感到安全",
+      "example": "Better lighting helps residents feel safe after dark."
+    },
+    {
+      "text": "bring an area to life",
+      "cn": "让一个区域充满活力",
+      "example": "The weekend market brings the old square to life."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "There have many people in the park.",
+      "correct": "There are many people in the park.",
+      "why": "表示某地有某人时使用 there be。"
+    },
+    {
+      "wrong": "The park is convenient for go.",
+      "correct": "The park is easy to get to.",
+      "why": "convenient 不直接接 for go；表示容易到达用 easy to get to。"
+    },
+    {
+      "wrong": "People can take a rest in public place.",
+      "correct": "People can take a rest in public places.",
+      "why": "泛指可数名词 place 时使用复数。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Public spaces should be designed for ordinary daily use.",
+      "topicSentence": "A successful park or square serves routine needs rather than functioning only as a visual landmark.",
+      "collocations": [
+        "provide comfortable seating",
+        "offer adequate shade",
+        "support informal activity",
+        "serve local residents"
+      ],
+      "argument": "Architectural features may attract attention, but residents return because a place is comfortable and useful. Parents need seating near play areas, older people need shade, and workers may want somewhere to eat lunch. These modest facilities allow different groups to share the space without attending a special event. Observing daily use can reveal needs that a design competition misses. Public investment should therefore prioritise lived experience alongside appearance."
+    },
+    {
+      "viewpoint": "Maintenance is as important as construction.",
+      "topicSentence": "New public facilities lose value quickly when no budget or responsibility exists for long-term care.",
+      "collocations": [
+        "allocate maintenance funding",
+        "repair damaged equipment",
+        "keep the area clean",
+        "protect public investment"
+      ],
+      "argument": "A new playground or garden often receives political attention when it opens. Over time, broken lighting, damaged paths and overflowing bins can make the same space unpleasant or unsafe. Residents then use it less, which may lead to further neglect. Maintenance funding and clear reporting channels should be planned before construction begins. Caring for existing spaces can deliver more value than repeatedly announcing new ones."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Is there a public place near your home that you often visit?",
+      "answer": "Yes, there’s a riverside park about ten minutes away on foot. I usually go there in the early evening because the path is wide enough for walkers and cyclists, and there are several quiet benches. It isn’t a tourist attraction, but it’s well maintained and feels safe. I probably value it most because visiting doesn’t require any planning or money."
+    },
+    {
+      "part": "Part 1",
+      "question": "What makes a public space pleasant to spend time in?",
+      "answer": "Shade and seating make a bigger difference than people sometimes expect. A beautiful square isn’t very useful if there’s nowhere to sit or shelter from the sun. I also notice traffic noise, clean toilets and whether the paths are accessible. A pleasant space gives several age groups something to do without forcing them to buy anything."
+    }
+  ],
+  "reading": {
+    "title": "The Public Bench as Urban Infrastructure",
+    "paragraphs": [
+      "A bench is one of the simplest objects in a city, yet its location changes how public space can be used. Without seating, a square functions mainly as a route through which people move. Add a bench and it can become a place for waiting, conversation, observation or rest. For someone who cannot walk far, the distance between benches may determine whether a park is accessible at all.",
+      "Design decisions reveal assumptions about users. A narrow seat without a back may suit a brief pause but not an older person who needs support. Dividers sometimes prevent people from lying down, a measure intended to discourage long stays or sleeping. Critics describe such features as hostile design because they remove certain users rather than addressing homelessness or the shortage of safe indoor places.",
+      "Position matters as much as shape. People often prefer seats with a view of activity while retaining some protection behind them. Benches placed in intense sun, beside fast traffic or far from pedestrian routes may remain empty despite an attractive appearance. Observation after installation can show when a technically adequate seat fails in practice.",
+      "Public seating also creates minor negotiations. One person may want solitude, another conversation; a group can occupy the whole bench, while bags reduce available space. Designers cannot control every interaction, but they can provide varied options: single seats, social arrangements and quiet locations. The humble bench demonstrates a wider principle of public design. Small facilities influence who can remain in a place, not merely how that place looks.",
+      "Temporary seating can help planners test a location before installing permanent structures. If chairs are movable, users reveal whether they prefer sun or shade, face-to-face conversation or a view of passing activity. This inexpensive experiment treats residents as participants in design. Their behaviour supplies evidence that a drawing or short consultation may fail to capture."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The passage says benches are useful only for older people.",
+        "answer": "False",
+        "explanation": "Paragraph 1 lists waiting, conversation, observation and rest for different users."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why do critics object to some bench dividers?",
+        "options": [
+          "They make benches too expensive to clean.",
+          "They address vulnerable users by excluding them.",
+          "They encourage people to sleep longer.",
+          "They block the view of traffic."
+        ],
+        "answer": "B",
+        "explanation": "Paragraph 2 says hostile design removes users instead of addressing underlying problems."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph discusses learning from how seats are used after installation?",
+        "answer": "C",
+        "explanation": "Paragraph C describes observation revealing practical failure."
+      }
+    ]
+  }
+}

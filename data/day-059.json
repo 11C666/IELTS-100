@@ -1,0 +1,349 @@
+{
+  "id": 59,
+  "topic": "Equality and Opportunity",
+  "topicCN": "平等与机会",
+  "category": "Society",
+  "vocabulary": [
+    {
+      "word": "equal opportunity",
+      "ipa": "/ˌiːkwəl ɒpəˈtjuːnəti/",
+      "meaning": "平等机会",
+      "collocation": "ensure equal opportunity",
+      "collocationCN": "确保平等机会"
+    },
+    {
+      "word": "level playing field",
+      "ipa": "/ˌlevəl ˈpleɪɪŋ fiːld/",
+      "meaning": "公平竞争环境",
+      "collocation": "create a level playing field",
+      "collocationCN": "创造公平竞争环境"
+    },
+    {
+      "word": "social mobility",
+      "ipa": "/ˌsəʊʃəl məʊˈbɪləti/",
+      "meaning": "社会流动",
+      "collocation": "promote upward social mobility",
+      "collocationCN": "促进向上社会流动"
+    },
+    {
+      "word": "disadvantage",
+      "ipa": "/ˌdɪsədˈvɑːntɪdʒ/",
+      "meaning": "不利条件",
+      "collocation": "overcome social disadvantage",
+      "collocationCN": "克服社会不利条件"
+    },
+    {
+      "word": "privilege",
+      "ipa": "/ˈprɪvəlɪdʒ/",
+      "meaning": "特权；优势",
+      "collocation": "benefit from inherited privilege",
+      "collocationCN": "受益于继承的优势"
+    },
+    {
+      "word": "discrimination",
+      "ipa": "/dɪˌskrɪmɪˈneɪʃən/",
+      "meaning": "歧视",
+      "collocation": "face workplace discrimination",
+      "collocationCN": "面临职场歧视"
+    },
+    {
+      "word": "prejudice",
+      "ipa": "/ˈpredʒədɪs/",
+      "meaning": "偏见",
+      "collocation": "challenge deep-rooted prejudice",
+      "collocationCN": "挑战根深蒂固的偏见"
+    },
+    {
+      "word": "bias",
+      "ipa": "/ˈbaɪəs/",
+      "meaning": "偏见；偏差",
+      "collocation": "reduce unconscious bias",
+      "collocationCN": "减少无意识偏见"
+    },
+    {
+      "word": "socioeconomic background",
+      "ipa": "/ˌsəʊsiəʊˌekəˈnɒmɪk ˈbækɡraʊnd/",
+      "meaning": "社会经济背景",
+      "collocation": "account for socioeconomic background",
+      "collocationCN": "考虑社会经济背景"
+    },
+    {
+      "word": "barrier-free",
+      "ipa": "/ˌbæriə ˈfriː/",
+      "meaning": "无障碍的",
+      "collocation": "provide barrier-free access",
+      "collocationCN": "提供无障碍通行条件"
+    },
+    {
+      "word": "reasonable adjustment",
+      "ipa": "/ˌriːzənəbəl əˈdʒʌstmənt/",
+      "meaning": "合理便利措施",
+      "collocation": "make reasonable adjustments at work",
+      "collocationCN": "在工作场所提供合理便利"
+    },
+    {
+      "word": "inclusive",
+      "ipa": "/ɪnˈkluːsɪv/",
+      "meaning": "包容的",
+      "collocation": "create an inclusive workplace",
+      "collocationCN": "营造包容的工作场所"
+    },
+    {
+      "word": "representation",
+      "ipa": "/ˌreprɪzenˈteɪʃən/",
+      "meaning": "代表性",
+      "collocation": "improve representation in leadership",
+      "collocationCN": "提高领导层的代表性"
+    },
+    {
+      "word": "merit",
+      "ipa": "/ˈmerɪt/",
+      "meaning": "才能；优点",
+      "collocation": "select applicants on merit",
+      "collocationCN": "根据能力选拔申请者"
+    },
+    {
+      "word": "fair recruitment",
+      "ipa": "/ˌfeə rɪˈkruːtmənt/",
+      "meaning": "公平招聘",
+      "collocation": "adopt fair recruitment practices",
+      "collocationCN": "采用公平招聘做法"
+    },
+    {
+      "word": "blind application",
+      "ipa": "/ˌblaɪnd ˌæplɪˈkeɪʃən/",
+      "meaning": "匿名求职申请",
+      "collocation": "use blind applications",
+      "collocationCN": "采用匿名求职申请"
+    },
+    {
+      "word": "outreach programme",
+      "ipa": "/ˈaʊtriːtʃ ˌprəʊɡræm/",
+      "meaning": "外展帮扶项目",
+      "collocation": "fund an educational outreach programme",
+      "collocationCN": "资助教育外展项目"
+    },
+    {
+      "word": "scholarship fund",
+      "ipa": "/ˈskɒləʃɪp fʌnd/",
+      "meaning": "奖学金基金",
+      "collocation": "establish a scholarship fund",
+      "collocationCN": "设立奖学金基金"
+    },
+    {
+      "word": "barrier to entry",
+      "ipa": "/ˌbæriə tə ˈentri/",
+      "meaning": "进入障碍",
+      "collocation": "remove financial barriers to entry",
+      "collocationCN": "消除经济准入障碍"
+    },
+    {
+      "word": "equality of outcome",
+      "ipa": "/iˌkwɒləti əv ˈaʊtkʌm/",
+      "meaning": "结果平等",
+      "collocation": "debate equality of outcome",
+      "collocationCN": "讨论结果平等"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "help",
+      "options": [
+        "assist",
+        "enable",
+        "make it easier to"
+      ],
+      "note": "enable 后接宾语和 to do。 本组可用于讨论平等与机会。"
+    },
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论平等与机会。"
+    },
+    {
+      "base": "change",
+      "options": [
+        "shift",
+        "development",
+        "transformation"
+      ],
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论平等与机会。"
+    },
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论平等与机会。"
+    },
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论平等与机会。"
+    },
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise the quality of"
+      ],
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论平等与机会。"
+    },
+    {
+      "base": "reduce",
+      "options": [
+        "decrease",
+        "limit",
+        "bring down"
+      ],
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论平等与机会。"
+    },
+    {
+      "base": "people",
+      "options": [
+        "individuals",
+        "members of the public",
+        "residents"
+      ],
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论平等与机会。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Equal treatment produces equal opportunity only when + starting conditions + are comparable.",
+      "cn": "只有起点条件相当时，同等对待才会带来机会平等。",
+      "example": "Equal treatment produces equal opportunity only when applicants face comparable barriers."
+    },
+    {
+      "pattern": "Removing + formal barrier + does not automatically eliminate + informal disadvantage.",
+      "cn": "消除正式障碍并不会自动消除非正式劣势。",
+      "example": "Removing an application fee does not automatically eliminate unequal access to guidance."
+    },
+    {
+      "pattern": "The extent to which + selection method + is fair depends on whether it measures + relevant ability.",
+      "cn": "某选拔方法是否公平，取决于它是否衡量相关能力。",
+      "example": "The extent to which an interview is fair depends on whether it measures skills needed for the role."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "have an equal chance",
+      "cn": "拥有平等机会",
+      "example": "Every qualified applicant should have an equal chance to demonstrate ability."
+    },
+    {
+      "text": "level the playing field",
+      "cn": "创造更公平条件",
+      "example": "Loan equipment can help level the playing field."
+    },
+    {
+      "text": "face a barrier to entry",
+      "cn": "面临准入障碍",
+      "example": "Unpaid internships create a barrier to entry."
+    },
+    {
+      "text": "be judged on merit",
+      "cn": "凭能力接受评判",
+      "example": "Candidates want to be judged on merit."
+    },
+    {
+      "text": "widen access to opportunity",
+      "cn": "扩大机会获取",
+      "example": "Transparent recruitment can widen access to opportunity."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Everyone should have same opportunity.",
+      "correct": "Everyone should have the same opportunity.",
+      "why": "same 前通常加 the。"
+    },
+    {
+      "wrong": "People must be treated equally with others.",
+      "correct": "People must be treated equally.",
+      "why": "equally 已表达相同对待，with others 多余。"
+    },
+    {
+      "wrong": "The policy gives advantages for poor students.",
+      "correct": "The policy gives disadvantaged students additional support.",
+      "why": "原句容易把劣势群体写成获得不当优势；support 更准确。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Fair selection should measure relevant capability directly.",
+      "topicSentence": "Recruitment and admission become more equitable when evidence is closely connected to the task.",
+      "collocations": [
+        "use structured assessment",
+        "evaluate relevant competence",
+        "reduce subjective bias",
+        "give comparable opportunities"
+      ],
+      "argument": "Informal interviews can reward shared background, confidence or familiarity with unwritten conventions. A structured work sample gives candidates the same task and criteria, producing evidence closer to future performance. Adjustments may still be needed so disability or equipment does not distort the result. No method removes judgement entirely, but explicit criteria make decisions easier to challenge and improve. Merit is more credible when the process reveals what it actually means."
+    },
+    {
+      "viewpoint": "Opportunity sometimes requires unequal support.",
+      "topicSentence": "Providing the same resource to everyone can preserve disadvantage when starting barriers differ.",
+      "collocations": [
+        "address unequal starting points",
+        "provide targeted assistance",
+        "remove participation barriers",
+        "expand substantive opportunity"
+      ],
+      "argument": "A free course is formally open, yet a learner without transport, childcare or a device may remain unable to attend. Targeted grants or equipment do not guarantee success; they reduce an obstacle unrelated to academic effort. Support should be proportionate and reviewed for effectiveness. Treating every difference in provision as unfair confuses identical inputs with meaningful access. Equal opportunity concerns the ability to participate and demonstrate competence, not the appearance of uniform treatment."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you think people have equal educational opportunities?",
+      "answer": "No, even where schools are free, resources and conditions differ. Some pupils have quiet space, tutoring and informed advice, while others manage work or care responsibilities. Schools can reduce these gaps, but they cannot control every household factor. Equality needs to be examined in practical access, not only formal rules."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a situation in which someone was given a fair opportunity.",
+      "answer": "I saw a fair process when a community organisation recruited assistants for an event. Instead of asking for previous event experience, it gave applicants a short scheduling problem and clear information about the role. Interviews used the same questions, and candidates could request an accessible format. One successful applicant had never worked at an event but showed excellent organisation through caring responsibilities and school projects. Training covered the specific procedures afterwards. The process seemed fair because it did not lower the standard; it measured the abilities actually needed and allowed different backgrounds to provide evidence. It also showed how an entry-level opportunity can remain genuinely open to beginners."
+    }
+  ],
+  "reading": {
+    "title": "The Audition Behind a Screen",
+    "paragraphs": [
+      "Orchestras have used screened auditions to reduce the influence of identity on selection. Musicians perform behind a barrier so judges hear without seeing name, gender or appearance. The method is often cited as proof that removing information produces merit-based choice. Its effect, however, depends on which stage of opportunity is examined.",
+      "A screen can reduce visual bias during performance, but it cannot equalise years of access to instruments, tuition and time for practice. Travel costs may affect who attends, while reputation can influence earlier shortlisting if recordings are not anonymous. Fairness at one decision point does not erase unequal preparation or entry.",
+      "The method also works because musical performance can be sampled directly. In occupations where collaboration, explanation or physical interaction matters, complete anonymity may remove relevant evidence. The appropriate lesson is not that every selection process should be blind, but that irrelevant information should be separated from the capability being assessed wherever possible.",
+      "Procedural details matter. Footsteps can reveal footwear, judges may recognise a distinctive style and the order of performance can affect attention. Organisations refine screens, carpets and scoring criteria in response. These imperfections do not make the attempt useless; they show that fairness is a design problem requiring testing rather than a one-time declaration.",
+      "A fair opportunity has several stages: preparation, entry, assessment and progression. Intervention at one stage can produce meaningful improvement while leaving other barriers in place. Claims should therefore be precise. A screened audition can make one judgement more focused on sound, but equality requires continued attention to who reaches the screen and what happens after selection. Progression is frequently the least visible stage. An organisation may recruit a diverse entry group while promotion relies on informal sponsorship and assignments offered through existing networks. Publishing criteria, tracking access to developmental work and reviewing who advances can reveal where opportunity narrows later. Fair entry is meaningful, but it should open a pathway rather than produce a diverse first photograph."
+    ],
+    "questions": [
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "Screened auditions remove every source of unequal opportunity.",
+        "answer": "No",
+        "explanation": "Paragraph 2 lists preparation and access inequalities."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph discusses clues such as footsteps revealing identity?",
+        "answer": "D",
+        "explanation": "Paragraph D discusses procedural leakage."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What four stages of fair opportunity are listed?",
+        "answer": "preparation, entry, assessment and progression",
+        "explanation": "The final paragraph lists them."
+      }
+    ]
+  }
+}

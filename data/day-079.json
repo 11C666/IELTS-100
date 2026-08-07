@@ -1,0 +1,355 @@
+{
+  "id": 79,
+  "topic": "Natural Disasters",
+  "topicCN": "自然灾害",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "natural hazard",
+      "ipa": "/ˈnætʃərəl ˌhæzəd/",
+      "meaning": "自然灾害风险源",
+      "collocation": "map a natural hazard",
+      "collocationCN": "绘制自然灾害风险图"
+    },
+    {
+      "word": "disaster risk",
+      "ipa": "/dɪˈzɑːstə rɪsk/",
+      "meaning": "灾害风险",
+      "collocation": "reduce disaster risk",
+      "collocationCN": "降低灾害风险"
+    },
+    {
+      "word": "vulnerability",
+      "ipa": "/ˌvʌlnərəˈbɪləti/",
+      "meaning": "脆弱性",
+      "collocation": "assess social vulnerability",
+      "collocationCN": "评估社会脆弱性"
+    },
+    {
+      "word": "emergency response",
+      "ipa": "/ɪˈmɜːdʒənsi rɪˌspɒns/",
+      "meaning": "应急响应",
+      "collocation": "coordinate emergency response",
+      "collocationCN": "协调应急响应"
+    },
+    {
+      "word": "evacuation route",
+      "ipa": "/ɪˌvækjuˈeɪʃən ruːt/",
+      "meaning": "疏散路线",
+      "collocation": "mark an evacuation route",
+      "collocationCN": "标明疏散路线"
+    },
+    {
+      "word": "early-warning system",
+      "ipa": "/ˌɜːli ˈwɔːnɪŋ ˌsɪstəm/",
+      "meaning": "预警系统",
+      "collocation": "operate an early-warning system",
+      "collocationCN": "运行预警系统"
+    },
+    {
+      "word": "aftershock",
+      "ipa": "/ˈɑːftəʃɒk/",
+      "meaning": "余震",
+      "collocation": "prepare for aftershocks",
+      "collocationCN": "为余震做准备"
+    },
+    {
+      "word": "storm surge",
+      "ipa": "/ˈstɔːm sɜːdʒ/",
+      "meaning": "风暴潮",
+      "collocation": "forecast a storm surge",
+      "collocationCN": "预测风暴潮"
+    },
+    {
+      "word": "flash flood",
+      "ipa": "/ˌflæʃ ˈflʌd/",
+      "meaning": "山洪；突发洪水",
+      "collocation": "issue a flash-flood warning",
+      "collocationCN": "发布山洪预警"
+    },
+    {
+      "word": "building code",
+      "ipa": "/ˈbɪldɪŋ kəʊd/",
+      "meaning": "建筑规范",
+      "collocation": "enforce a seismic building code",
+      "collocationCN": "执行抗震建筑规范"
+    },
+    {
+      "word": "relief supplies",
+      "ipa": "/rɪˈliːf səˌplaɪz/",
+      "meaning": "救援物资",
+      "collocation": "distribute relief supplies",
+      "collocationCN": "分发救援物资"
+    },
+    {
+      "word": "temporary shelter",
+      "ipa": "/ˈtempərəri ˌʃeltə/",
+      "meaning": "临时住所",
+      "collocation": "provide temporary shelter",
+      "collocationCN": "提供临时住所"
+    },
+    {
+      "word": "recovery period",
+      "ipa": "/rɪˈkʌvəri ˌpɪəriəd/",
+      "meaning": "恢复期",
+      "collocation": "shorten the recovery period",
+      "collocationCN": "缩短恢复期"
+    },
+    {
+      "word": "preparedness drill",
+      "ipa": "/prɪˈpeərədnəs drɪl/",
+      "meaning": "应急演练",
+      "collocation": "take part in a preparedness drill",
+      "collocationCN": "参加应急演练"
+    },
+    {
+      "word": "risk communication",
+      "ipa": "/rɪsk kəˌmjuːnɪˈkeɪʃən/",
+      "meaning": "风险沟通",
+      "collocation": "improve risk communication",
+      "collocationCN": "改善风险沟通"
+    },
+    {
+      "word": "stock up on essentials",
+      "ipa": "/stɒk ʌp ɒn ɪˈsenʃəlz/",
+      "meaning": "储备必需品",
+      "collocation": "stock up on basic essentials",
+      "collocationCN": "储备基本用品"
+    },
+    {
+      "word": "keep a phone charged",
+      "ipa": "/kiːp ə fəʊn tʃɑːdʒd/",
+      "meaning": "保持手机有电",
+      "collocation": "keep a phone fully charged",
+      "collocationCN": "保持手机电量充足"
+    },
+    {
+      "word": "follow official advice",
+      "ipa": "/ˈfɒləʊ əˈfɪʃəl ədˌvaɪs/",
+      "meaning": "遵循官方建议",
+      "collocation": "follow official evacuation advice",
+      "collocationCN": "遵循官方疏散建议"
+    },
+    {
+      "word": "bounce back",
+      "ipa": "/baʊns bæk/",
+      "meaning": "恢复过来",
+      "collocation": "help local businesses bounce back",
+      "collocationCN": "帮助本地企业恢复"
+    },
+    {
+      "word": "build back better",
+      "ipa": "/bɪld bæk ˈbetə/",
+      "meaning": "灾后重建得更好",
+      "collocation": "use recovery funds to build back better",
+      "collocationCN": "用恢复资金改善重建"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "natural disaster",
+      "options": [
+        "disaster caused by a natural hazard",
+        "hazard-related emergency",
+        "destructive event shaped by hazard and vulnerability"
+      ],
+      "note": "灾害不仅由自然过程决定。"
+    },
+    {
+      "base": "prepare for disaster",
+      "options": [
+        "strengthen preparedness",
+        "plan for emergencies",
+        "build capacity before a hazard occurs"
+      ],
+      "note": "capacity包括人员、制度和资源。"
+    },
+    {
+      "base": "warn people",
+      "options": [
+        "issue an alert",
+        "communicate imminent risk",
+        "deliver an actionable early warning"
+      ],
+      "note": "actionable强调收到后知道怎么办。"
+    },
+    {
+      "base": "people at risk",
+      "options": [
+        "exposed residents",
+        "vulnerable populations",
+        "communities facing elevated disaster risk"
+      ],
+      "note": "vulnerable需说明具体脆弱因素。"
+    },
+    {
+      "base": "recover quickly",
+      "options": [
+        "accelerate recovery",
+        "restore essential functions",
+        "reduce the period of disruption"
+      ],
+      "note": "restore functions不等于恢复原貌。"
+    },
+    {
+      "base": "strong building",
+      "options": [
+        "hazard-resistant structure",
+        "building designed to withstand impact",
+        "structure compliant with resilient codes"
+      ],
+      "note": "code-compliant更具体。"
+    },
+    {
+      "base": "emergency help",
+      "options": [
+        "disaster relief",
+        "immediate humanitarian assistance",
+        "support delivered during the response phase"
+      ],
+      "note": "response与长期recovery区分。"
+    },
+    {
+      "base": "damage gets worse",
+      "options": [
+        "losses escalate",
+        "secondary impacts emerge",
+        "initial disruption produces cascading effects"
+      ],
+      "note": "cascading effects适合基础设施连锁故障。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A hazard becomes a disaster when + a dangerous natural event + affects + exposed and vulnerable people or infrastructure.",
+      "cn": "当天然事件与暴露和脆弱条件相遇时，风险才演变成灾害。",
+      "example": "A storm becomes a disaster when extreme winds intersect with fragile housing and limited evacuation options."
+    },
+    {
+      "pattern": "Warnings, unless + clearly communicated and linked to action, may + fail to protect people + despite + an accurate forecast.",
+      "cn": "预警如果没有满足某种实际条件，即使技术上准确也可能失效。",
+      "example": "Warnings, unless delivered in a language residents understand, may fail despite technical accuracy."
+    },
+    {
+      "pattern": "The speed with which + electricity, water or transport + is restored can determine whether + the initial disaster + develops into + a wider humanitarian crisis.",
+      "cn": "某项服务恢复的速度，可能决定最初事件是否演变成次生危机。",
+      "example": "The speed with which drinking water is restored can determine whether a flood develops into a public-health crisis."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "know what to do in an emergency",
+      "cn": "知道紧急情况下该做什么",
+      "example": "A clear drill helps children know what to do in an emergency."
+    },
+    {
+      "text": "get back on your feet",
+      "cn": "重新站稳脚跟",
+      "example": "Small grants helped shop owners get back on their feet."
+    },
+    {
+      "text": "take warnings seriously",
+      "cn": "认真对待预警",
+      "example": "Residents are more likely to take warnings seriously when earlier alerts were accurate."
+    },
+    {
+      "text": "reduce exposure to hazards",
+      "cn": "降低对灾害风险源的暴露",
+      "example": "Land-use planning can reduce exposure to hazards."
+    },
+    {
+      "text": "prevent cascading failures",
+      "cn": "防止连锁故障",
+      "example": "Backup power can prevent cascading failures in hospitals."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The earthquake was happened at night.",
+      "correct": "The earthquake happened at night.",
+      "why": "happen是不及物动词，不使用被动语态。"
+    },
+    {
+      "wrong": "People must escape from the building immediately.",
+      "correct": "People must evacuate the building immediately.",
+      "why": "正式应急语境中evacuate a building更准确；escape强调逃脱。"
+    },
+    {
+      "wrong": "The disaster caused many damages.",
+      "correct": "The disaster caused extensive damage.",
+      "why": "damage表示损害时通常不可数。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Preparedness funding should protect essential systems before disasters.",
+      "topicSentence": "Investment before a hazard occurs is often more effective than relying solely on emergency relief afterwards.",
+      "collocations": [
+        "strengthen critical infrastructure",
+        "conduct preparedness drills",
+        "maintain backup systems",
+        "avoid cascading failures"
+      ],
+      "argument": "A severe event becomes more destructive when electricity, water and communication fail together. Reinforced facilities, backup power and rehearsed responsibilities can keep essential services operating during the first critical hours. Although prevention spending lacks the visibility of post-disaster aid, it reduces both human suffering and later reconstruction costs. For example, a functioning clinic can treat injuries before transport routes reopen. Governments should therefore maintain preparedness budgets even during long periods without a major event."
+    },
+    {
+      "viewpoint": "Recovery should address previous vulnerability rather than reproduce it.",
+      "topicSentence": "Rebuilding the same unsafe conditions leaves communities exposed to the next hazard.",
+      "collocations": [
+        "build back better",
+        "enforce resilient standards",
+        "restore secure livelihoods",
+        "involve affected residents"
+      ],
+      "argument": "Rapid reconstruction can provide housing and jobs, but speed alone is a poor measure of recovery. If homes return to a floodplain with identical materials, public money recreates the original risk. Safer locations, stronger codes and restored local livelihoods can reduce future losses, although plans must reflect residents’ needs and land rights. Community participation helps distinguish necessary improvement from relocation imposed for unrelated development. Recovery succeeds when people regain stable lives with less vulnerability than before."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe an emergency drill or safety exercise you took part in.",
+      "answer": "I took part in a fire evacuation drill at work last year. An alarm sounded without advance notice, and everyone had to leave by the stairs and gather at a marked point outside. My role was simply to follow the route and report to the person checking attendance. The exercise revealed that one exit sign was difficult to see from a meeting room and that visitors were not included clearly on the staff list. Those issues were corrected afterwards. The drill was slightly inconvenient, but it made the procedure familiar enough that I would not need to read instructions during a real emergency. I think that practical memory is the main value of an exercise."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why do some people ignore disaster warnings?",
+      "answer": "They may have experienced earlier alerts that did not lead to visible danger, so repeated caution creates warning fatigue. Others cannot act easily: evacuating may mean leaving animals, losing income or travelling without a car. Messages can also be too technical or arrive through channels that some residents do not use. Authorities need accurate forecasts, but they also need trusted local messengers, clear actions and support for people facing practical barriers. Calling residents irresponsible can hide weaknesses in the warning system itself."
+    }
+  ],
+  "reading": {
+    "title": "A Warning Is More Than a Forecast",
+    "paragraphs": [
+      "When a cyclone approaches the coast, meteorologists can estimate its path, wind speed and likely storm surge. Those forecasts are essential, but they do not constitute a complete warning. A warning succeeds only if it reaches people in time, conveys what the danger means for their location and enables an action that is safer than remaining where they are.",
+      "A coastal province tested its system during two moderate storms. Text alerts reached most registered phones, yet interviews later found that fishing crews offshore, recent migrants and residents with limited literacy had understood them differently. The message named technical surge heights but did not identify which roads would flood first. Some families delayed leaving because the official shelter, although marked on a map, required transport they did not have.",
+      "Before the next storm season, emergency staff worked with local radio presenters, harbour managers and community health workers. They translated thresholds into landmarks—water may cross the market road—and linked each alert level to a specific action. Volunteer drivers received lists of residents who had requested help, while fishing boats could receive short radio instructions beyond mobile coverage. The revised system involved more organisations, which made coordination harder but extended the warning’s practical reach.",
+      "False alarms remained unavoidable because a cyclone can change direction after evacuation begins. Officials explained that uncertainty directly rather than promising perfect forecasts. They also reviewed every alert to learn whether a missed prediction arose from limited science or a preventable communication failure. This distinction mattered: improving a model would not solve a message sent in the wrong language, just as clearer wording could not remove uncertainty from the storm track.",
+      "The province ultimately judged warnings by protective action, not message delivery. Phone statistics still showed technical reach, but local reports revealed whether households arrived safely and which groups remained excluded. Forecasting identifies a possible future; an effective warning builds a bridge between that knowledge and a decision people can realistically carry out."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "What problem did residents have with the original surge message?",
+        "answer": "C",
+        "explanation": "It gave technical heights without identifying affected roads.",
+        "options": [
+          "It arrived after both storms ended.",
+          "It was sent only by radio.",
+          "It gave technical heights without identifying affected roads.",
+          "It promised free private transport."
+        ]
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph discusses the unavoidable possibility of false alarms?",
+        "answer": "D",
+        "explanation": "Paragraph D explains that cyclones can change direction."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer considers message-delivery statistics sufficient to judge a warning system.",
+        "answer": "No",
+        "explanation": "The final paragraph says protective action and exclusion must also be assessed."
+      }
+    ]
+  }
+}

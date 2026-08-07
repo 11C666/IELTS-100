@@ -1,0 +1,349 @@
+{
+  "id": 70,
+  "topic": "Agriculture and Food Security",
+  "topicCN": "农业与粮食安全",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "food security",
+      "ipa": "/ˈfuːd sɪˌkjʊərəti/",
+      "meaning": "粮食安全",
+      "collocation": "strengthen food security",
+      "collocationCN": "加强粮食安全"
+    },
+    {
+      "word": "crop yield",
+      "ipa": "/ˈkrɒp jiːld/",
+      "meaning": "作物产量",
+      "collocation": "increase crop yields",
+      "collocationCN": "提高作物产量"
+    },
+    {
+      "word": "irrigation",
+      "ipa": "/ˌɪrɪˈɡeɪʃn/",
+      "meaning": "灌溉",
+      "collocation": "improve irrigation systems",
+      "collocationCN": "改善灌溉系统"
+    },
+    {
+      "word": "fertile",
+      "ipa": "/ˈfɜːtaɪl/",
+      "meaning": "肥沃的",
+      "collocation": "protect fertile soil",
+      "collocationCN": "保护肥沃土壤"
+    },
+    {
+      "word": "soil degradation",
+      "ipa": "/ˈsɔɪl ˌdeɡrədeɪʃn/",
+      "meaning": "土壤退化",
+      "collocation": "reverse soil degradation",
+      "collocationCN": "扭转土壤退化"
+    },
+    {
+      "word": "resilient",
+      "ipa": "/rɪˈzɪliənt/",
+      "meaning": "有韧性的",
+      "collocation": "grow resilient crop varieties",
+      "collocationCN": "种植抗逆作物品种"
+    },
+    {
+      "word": "smallholder",
+      "ipa": "/ˈsmɔːlhəʊldə(r)/",
+      "meaning": "小农户",
+      "collocation": "support smallholder farmers",
+      "collocationCN": "支持小农户"
+    },
+    {
+      "word": "supply chain",
+      "ipa": "/səˈplaɪ tʃeɪn/",
+      "meaning": "供应链",
+      "collocation": "shorten the food supply chain",
+      "collocationCN": "缩短食品供应链"
+    },
+    {
+      "word": "post-harvest",
+      "ipa": "/ˌpəʊst ˈhɑːvɪst/",
+      "meaning": "收获后的",
+      "collocation": "reduce post-harvest losses",
+      "collocationCN": "减少收获后损失"
+    },
+    {
+      "word": "staple crop",
+      "ipa": "/ˈsteɪpl krɒp/",
+      "meaning": "主粮作物",
+      "collocation": "depend on a staple crop",
+      "collocationCN": "依赖某种主粮作物"
+    },
+    {
+      "word": "biodiversity",
+      "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+      "meaning": "生物多样性",
+      "collocation": "maintain agricultural biodiversity",
+      "collocationCN": "维持农业生物多样性"
+    },
+    {
+      "word": "livelihood",
+      "ipa": "/ˈlaɪvlihʊd/",
+      "meaning": "生计",
+      "collocation": "protect rural livelihoods",
+      "collocationCN": "保护农村生计"
+    },
+    {
+      "word": "subsidy",
+      "ipa": "/ˈsʌbsədi/",
+      "meaning": "补贴",
+      "collocation": "reform farm subsidies",
+      "collocationCN": "改革农业补贴"
+    },
+    {
+      "word": "distribution",
+      "ipa": "/ˌdɪstrɪˈbjuːʃn/",
+      "meaning": "分配；配送",
+      "collocation": "improve food distribution",
+      "collocationCN": "改善食品配送"
+    },
+    {
+      "word": "malnutrition",
+      "ipa": "/ˌmælnjuˈtrɪʃn/",
+      "meaning": "营养不良",
+      "collocation": "tackle child malnutrition",
+      "collocationCN": "应对儿童营养不良"
+    },
+    {
+      "word": "harvest",
+      "ipa": "/ˈhɑːvɪst/",
+      "meaning": "收成；收获",
+      "collocation": "bring in the harvest",
+      "collocationCN": "收获庄稼"
+    },
+    {
+      "word": "make ends meet",
+      "ipa": "/meɪk ˌendz ˈmiːt/",
+      "meaning": "维持生计",
+      "collocation": "help farmers make ends meet",
+      "collocationCN": "帮助农民维持生计"
+    },
+    {
+      "word": "cut food waste",
+      "ipa": "/kʌt ˈfuːd weɪst/",
+      "meaning": "减少食物浪费",
+      "collocation": "cut food waste at retailers",
+      "collocationCN": "减少零售端食物浪费"
+    },
+    {
+      "word": "weather a poor season",
+      "ipa": "/ˈweðə(r) ə pʊə ˈsiːzn/",
+      "meaning": "熬过歉收季",
+      "collocation": "help households weather a poor season",
+      "collocationCN": "帮助家庭熬过歉收季"
+    },
+    {
+      "word": "buy in bulk",
+      "ipa": "/baɪ ɪn ˈbʌlk/",
+      "meaning": "批量购买",
+      "collocation": "buy grain in bulk",
+      "collocationCN": "批量购买谷物"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "produce more food",
+      "options": [
+        "raise agricultural output",
+        "increase farm production",
+        "improve crop yields"
+      ],
+      "note": "crop yield 特指单位面积或一次种植的产量。"
+    },
+    {
+      "base": "not enough food",
+      "options": [
+        "food scarcity",
+        "an inadequate food supply",
+        "limited access to nutrition"
+      ],
+      "note": "limited access 提醒人们问题也可能来自分配。"
+    },
+    {
+      "base": "protect farmers",
+      "options": [
+        "support agricultural producers",
+        "safeguard rural livelihoods",
+        "reduce farmers’ exposure to risk"
+      ],
+      "note": "exposure to risk 适合讨论气候与价格波动。"
+    },
+    {
+      "base": "damaged soil",
+      "options": [
+        "degraded land",
+        "declining soil quality",
+        "nutrient-depleted soil"
+      ],
+      "note": "nutrient-depleted 强调养分流失。"
+    },
+    {
+      "base": "different crops",
+      "options": [
+        "crop diversity",
+        "a varied planting system",
+        "multiple crop varieties"
+      ],
+      "note": "crop diversity 常用于韧性和生态讨论。"
+    },
+    {
+      "base": "food transported far away",
+      "options": [
+        "long-distance food distribution",
+        "extended supply chains",
+        "produce shipped over great distances"
+      ],
+      "note": "extended supply chains 强调环节较多。"
+    },
+    {
+      "base": "throw away food",
+      "options": [
+        "waste edible produce",
+        "discard usable food",
+        "lose food before consumption"
+      ],
+      "note": "lose food before consumption 可涵盖农场到家庭的损耗。"
+    },
+    {
+      "base": "stable supply",
+      "options": [
+        "reliable food availability",
+        "a secure supply of food",
+        "consistent access to staples"
+      ],
+      "note": "consistent access 强调长期可获得性。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Food insecurity can persist even where + enough food is produced, because + some households cannot afford or reach it.",
+      "cn": "即使某地具备某种生产条件，粮食不安全仍可能持续，因为存在某种获取问题。",
+      "example": "Food insecurity can persist even where national harvests are sufficient, because poor households cannot afford market prices."
+    },
+    {
+      "pattern": "By + adopting a particular farming practice, growers can + improve the current harvest + while also + protecting future productivity.",
+      "cn": "种植者通过某种耕作方式，既能获得短期益处，也能取得长期成效。",
+      "example": "By rotating crops, growers can interrupt pest cycles while also restoring nutrients to the soil."
+    },
+    {
+      "pattern": "The more heavily a region depends on + a single crop or supplier, the more vulnerable it becomes to + disease, extreme weather or trade disruption.",
+      "cn": "一个地区越依赖单一资源，就越容易受到某种冲击。",
+      "example": "The more heavily a region depends on one staple crop, the more vulnerable it becomes to disease and extreme weather."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "from farm to fork",
+      "cn": "从农场到餐桌",
+      "example": "Losses can occur at every stage from farm to fork."
+    },
+    {
+      "text": "a bumper harvest",
+      "cn": "大丰收",
+      "example": "Good rainfall produced a bumper harvest last year."
+    },
+    {
+      "text": "put food on the table",
+      "cn": "维持一家人的温饱",
+      "example": "Many small farms barely earn enough to put food on the table."
+    },
+    {
+      "text": "build a resilient food system",
+      "cn": "建设有韧性的食品体系",
+      "example": "Diverse suppliers can help build a resilient food system."
+    },
+    {
+      "text": "improve access to nutritious food",
+      "cn": "改善获得营养食物的机会",
+      "example": "School meals improve access to nutritious food for low-income children."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Farmers grow many corns in this region.",
+      "correct": "Farmers grow a great deal of corn in this region.",
+      "why": "corn 表示玉米时通常不可数。"
+    },
+    {
+      "wrong": "The government should supply farmers useful information.",
+      "correct": "The government should supply farmers with useful information.",
+      "why": "supply somebody with something 是固定搭配。"
+    },
+    {
+      "wrong": "There is a lack of foods in remote areas.",
+      "correct": "There is a lack of food in remote areas.",
+      "why": "food 泛指食物时通常不可数；foods 指不同种类食品。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Reducing loss may be more efficient than expanding farmland.",
+      "topicSentence": "Food policy should protect what is already produced before converting more land to agriculture.",
+      "collocations": [
+        "reduce post-harvest losses",
+        "improve cold storage",
+        "avoid land conversion",
+        "raise effective food supply"
+      ],
+      "argument": "A farmer can achieve a strong harvest and still lose much of it to moisture, pests or delayed transport. Warehouses, local processing and reliable cold chains increase the amount that reaches consumers without requiring additional land or water. In comparison, expanding cultivation can destroy habitats while adding output that the same weak distribution system fails to preserve. Kenya’s use of small solar-powered coolers, for example, has helped some horticultural groups hold produce until collection. Preventing avoidable loss can therefore raise the effective food supply with fewer ecological costs."
+    },
+    {
+      "viewpoint": "Resilience requires diversity rather than one optimal crop.",
+      "topicSentence": "Agricultural systems should value their ability to withstand shocks as well as their output in an average year.",
+      "collocations": [
+        "diversify crop production",
+        "spread climatic risk",
+        "preserve local varieties",
+        "stabilise farm income"
+      ],
+      "argument": "A high-yield variety may outperform alternatives under familiar conditions, encouraging an entire region to adopt it. If a new disease or unusual drought then affects that variety, losses occur simultaneously and food prices can rise sharply. Planting crops with different water needs and harvest dates spreads climatic and market risk, although the average yield of each field may be slightly lower. Seed banks and extension services can make suitable local varieties available to farmers. Measured across difficult as well as favourable years, diversity can be the more productive strategy."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a place where people can buy fresh food.",
+      "answer": "There is a covered market near my grandparents’ home where local farmers and small traders sell vegetables, fruit, eggs and dried goods. It opens very early, so the best time to visit is before nine in the morning. The produce is not arranged as perfectly as it is in a supermarket, but it is usually fresh and sellers can explain where it came from. My grandparents know several stallholders and often ask what is in season before deciding what to cook. I particularly like the fact that customers can buy a small quantity rather than a large package. The market is busy and slightly noisy, but it connects everyday shopping with the people who actually grow or prepare the food."
+    },
+    {
+      "part": "Part 3",
+      "question": "How can countries make their food supply more reliable?",
+      "answer": "They need to look beyond the amount produced in one good season. Diverse crops and suppliers reduce the risk that a drought, disease or trade disruption will affect everything at once. Storage and transport are equally important because food that spoils before reaching a market does not improve security. Governments can also provide farmers with weather information, insurance and access to suitable seeds. Finally, low-income families need enough purchasing power; full shops do not prevent hunger if nutritious food is unaffordable. A reliable system combines production, distribution and access rather than treating them as separate issues."
+    }
+  ],
+  "reading": {
+    "title": "Why Grain Stores Are Social Institutions",
+    "paragraphs": [
+      "A grain store appears to perform a simple technical function: keeping a harvest dry until it is eaten or sold. In practice, the decision to store grain changes relationships among farmers, traders and households. It determines who can wait for a better price, who must sell immediately to repay a loan and who controls food during the months before the next harvest. For this reason, improving storage is not merely a matter of distributing stronger containers.",
+      "Smallholders commonly sell just after harvest, when local supply is high and prices are low, because they need cash for school fees or debts. Traders with warehouses can buy cheaply and release grain later. A farmers’ cooperative, by pooling produce and negotiating credit against the stored crop, may allow members to delay a sale without losing access to money. The arrangement works only if quantities are measured accurately and members trust the people keeping the records.",
+      "Physical design remains crucial. Moisture encourages mould, while insects can multiply inside apparently secure bags. Sealed containers, raised floors and regular inspection reduce loss, but the best option varies with climate, crop and household scale. A large central warehouse may offer professional management; it may also be too distant for a farmer transporting a few sacks. Some programmes have therefore combined household silos with shared testing equipment rather than insisting on one model.",
+      "Storage can affect diets as well as income. When a household preserves several crops instead of selling them all, meals remain more varied through the dry season. Nevertheless, holding grain is not automatically beneficial. Prices may fall, stored crops may deteriorate and families may postpone necessary spending in the hope of a return that never arrives. Training should present those risks instead of promising guaranteed profit.",
+      "The most successful projects treat a store as part of a financial and social system. They connect pest control with transparent weighing, realistic credit and timely market information. Steel, concrete and sealed plastic can protect grain from weather, but only accountable arrangements protect the farmer’s claim to it. Food security depends on both kinds of protection."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Smallholders often sell immediately after harvest because local prices are at their highest.",
+        "answer": "False",
+        "explanation": "Paragraph 2 says supply is high and prices are low just after harvest."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains why one large warehouse may be unsuitable for some farmers?",
+        "answer": "C",
+        "explanation": "Paragraph C notes that distance is a problem for farmers carrying only a few sacks."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Successful storage projects combine pest control, transparent weighing, realistic credit and timely market ______.",
+        "answer": "information",
+        "explanation": "The final paragraph lists timely market information."
+      }
+    ]
+  }
+}

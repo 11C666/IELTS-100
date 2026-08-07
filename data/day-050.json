@@ -1,0 +1,355 @@
+{
+  "id": 50,
+  "topic": "Tourism",
+  "topicCN": "旅游业",
+  "category": "Economy",
+  "vocabulary": [
+    {
+      "word": "destination",
+      "ipa": "/ˌdestɪˈneɪʃən/",
+      "meaning": "旅游目的地",
+      "collocation": "choose an off-season destination",
+      "collocationCN": "选择淡季目的地"
+    },
+    {
+      "word": "itinerary",
+      "ipa": "/aɪˈtɪnərəri/",
+      "meaning": "旅行行程",
+      "collocation": "plan a flexible itinerary",
+      "collocationCN": "规划灵活的旅行行程"
+    },
+    {
+      "word": "homestay",
+      "ipa": "/ˈhəʊmsteɪ/",
+      "meaning": "寄宿家庭住宿",
+      "collocation": "book a family-run homestay",
+      "collocationCN": "预订家庭经营的寄宿住宿"
+    },
+    {
+      "word": "sightseeing",
+      "ipa": "/ˈsaɪtsiːɪŋ/",
+      "meaning": "观光",
+      "collocation": "go sightseeing on foot",
+      "collocationCN": "步行观光"
+    },
+    {
+      "word": "peak season",
+      "ipa": "/ˈpiːk siːzən/",
+      "meaning": "旅游旺季",
+      "collocation": "travel outside the peak season",
+      "collocationCN": "避开旅游旺季出行"
+    },
+    {
+      "word": "guided tour",
+      "ipa": "/ˌɡaɪdɪd ˈtʊə/",
+      "meaning": "导览团",
+      "collocation": "join a locally guided tour",
+      "collocationCN": "参加当地人带领的导览团"
+    },
+    {
+      "word": "heritage site",
+      "ipa": "/ˈherɪtɪdʒ saɪt/",
+      "meaning": "文化遗产地",
+      "collocation": "protect a fragile heritage site",
+      "collocationCN": "保护脆弱的文化遗产地"
+    },
+    {
+      "word": "day trip",
+      "ipa": "/ˈdeɪ trɪp/",
+      "meaning": "一日游",
+      "collocation": "take a day trip to the coast",
+      "collocationCN": "去海岸一日游"
+    },
+    {
+      "word": "tourist trap",
+      "ipa": "/ˈtʊərɪst træp/",
+      "meaning": "宰游客的景点或商店",
+      "collocation": "avoid an overpriced tourist trap",
+      "collocationCN": "避开价格虚高的游客陷阱"
+    },
+    {
+      "word": "local cuisine",
+      "ipa": "/ˌləʊkəl kwɪˈziːn/",
+      "meaning": "当地菜肴",
+      "collocation": "sample the local cuisine",
+      "collocationCN": "品尝当地菜肴"
+    },
+    {
+      "word": "overcrowding",
+      "ipa": "/ˌəʊvəˈkraʊdɪŋ/",
+      "meaning": "游客过度拥挤",
+      "collocation": "manage visitor overcrowding",
+      "collocationCN": "管理游客过度拥挤问题"
+    },
+    {
+      "word": "travel insurance",
+      "ipa": "/ˈtrævəl ɪnˌʃʊərəns/",
+      "meaning": "旅行保险",
+      "collocation": "take out travel insurance",
+      "collocationCN": "购买旅行保险"
+    },
+    {
+      "word": "package holiday",
+      "ipa": "/ˈpækɪdʒ ˌhɒlədeɪ/",
+      "meaning": "包价旅游",
+      "collocation": "book a package holiday",
+      "collocationCN": "预订包价旅游"
+    },
+    {
+      "word": "souvenir",
+      "ipa": "/ˌsuːvəˈnɪə/",
+      "meaning": "纪念品",
+      "collocation": "buy a locally made souvenir",
+      "collocationCN": "购买当地制作的纪念品"
+    },
+    {
+      "word": "hospitality",
+      "ipa": "/ˌhɒspɪˈtæləti/",
+      "meaning": "旅游接待服务；好客",
+      "collocation": "work in the hospitality sector",
+      "collocationCN": "在旅游接待行业工作"
+    },
+    {
+      "word": "eco-tourism",
+      "ipa": "/ˈiːkəʊ ˌtʊərɪzəm/",
+      "meaning": "生态旅游",
+      "collocation": "develop community-based eco-tourism",
+      "collocationCN": "发展社区型生态旅游"
+    },
+    {
+      "word": "visitor centre",
+      "ipa": "/ˈvɪzɪtə ˌsentə/",
+      "meaning": "游客中心",
+      "collocation": "pick up a map at the visitor centre",
+      "collocationCN": "在游客中心领取地图"
+    },
+    {
+      "word": "occupancy rate",
+      "ipa": "/ˈɒkjəpənsi reɪt/",
+      "meaning": "住宿入住率",
+      "collocation": "maintain a healthy occupancy rate",
+      "collocationCN": "保持良好的入住率"
+    },
+    {
+      "word": "travel light",
+      "ipa": "/ˌtrævəl ˈlaɪt/",
+      "meaning": "轻装旅行",
+      "collocation": "travel light on a short break",
+      "collocationCN": "短途度假时轻装出行"
+    },
+    {
+      "word": "responsible tourism",
+      "ipa": "/rɪˌspɒnsəbəl ˈtʊərɪzəm/",
+      "meaning": "负责任旅游",
+      "collocation": "promote responsible tourism",
+      "collocationCN": "推广负责任旅游"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise the quality of"
+      ],
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论旅游业。"
+    },
+    {
+      "base": "reduce",
+      "options": [
+        "decrease",
+        "limit",
+        "bring down"
+      ],
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论旅游业。"
+    },
+    {
+      "base": "people",
+      "options": [
+        "individuals",
+        "members of the public",
+        "residents"
+      ],
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论旅游业。"
+    },
+    {
+      "base": "use",
+      "options": [
+        "make use of",
+        "adopt",
+        "rely on"
+      ],
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论旅游业。"
+    },
+    {
+      "base": "choice",
+      "options": [
+        "option",
+        "alternative",
+        "decision"
+      ],
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论旅游业。"
+    },
+    {
+      "base": "cause",
+      "options": [
+        "lead to",
+        "contribute to",
+        "give rise to"
+      ],
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论旅游业。"
+    },
+    {
+      "base": "benefit",
+      "options": [
+        "advantage",
+        "positive effect",
+        "gain"
+      ],
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论旅游业。"
+    },
+    {
+      "base": "harm",
+      "options": [
+        "damage",
+        "negative effect",
+        "undermine"
+      ],
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论旅游业。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Tourism can support + local benefit + provided that + condition.",
+      "cn": "只要满足某条件，旅游业就能支持某种当地利益。",
+      "example": "Tourism can support heritage conservation provided that revenue reaches local custodians."
+    },
+    {
+      "pattern": "The number of visitors a place can accommodate depends on + capacity, not simply + physical space.",
+      "cn": "某地可接待游客数量取决于承载能力，而不只是物理空间。",
+      "example": "The number of visitors a site can accommodate depends on transport and waste capacity, not simply physical space."
+    },
+    {
+      "pattern": "Rather than discouraging all travel, destinations can + management action + to + outcome.",
+      "cn": "目的地不必阻止所有旅行，而可以采取管理措施达到某结果。",
+      "example": "Rather than discouraging all travel, destinations can spread visits across seasons to reduce pressure."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "get away from it all",
+      "cn": "远离日常压力",
+      "example": "We went to the coast to get away from it all."
+    },
+    {
+      "text": "travel off season",
+      "cn": "淡季旅行",
+      "example": "Travelling off season can reduce cost and crowding."
+    },
+    {
+      "text": "respect local customs",
+      "cn": "尊重当地习俗",
+      "example": "Visitors should respect local customs instead of treating them as performances."
+    },
+    {
+      "text": "support the local economy",
+      "cn": "支持当地经济",
+      "example": "Staying in family-run accommodation can support the local economy."
+    },
+    {
+      "text": "put pressure on infrastructure",
+      "cn": "给基础设施造成压力",
+      "example": "Seasonal crowds put pressure on water and waste systems."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "We travelled to abroad last year.",
+      "correct": "We travelled abroad last year.",
+      "why": "abroad 是副词，前面不加 to。"
+    },
+    {
+      "wrong": "The scenery was very beautiful and attractive place.",
+      "correct": "The area had beautiful scenery and attractive places.",
+      "why": "scenery 不可数，且原句结构混乱。"
+    },
+    {
+      "wrong": "Tourists should respect to local culture.",
+      "correct": "Tourists should respect local culture.",
+      "why": "respect 是及物动词，不加 to。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Visitor management should protect resident access.",
+      "topicSentence": "Tourism policy should ensure that successful destinations remain liveable for the people who maintain them.",
+      "collocations": [
+        "manage visitor numbers",
+        "protect residential housing",
+        "maintain public access",
+        "reduce seasonal pressure"
+      ],
+      "argument": "High visitor demand can support employment while converting housing into short-term accommodation and crowding ordinary transport. Residents then bear costs that are not reflected in tourism revenue. Limits in the most pressured areas, tourist levies and investment in waste and transit can return part of the benefit to local systems. Management should respond to specific capacity problems rather than treat every visitor as harmful. A destination remains attractive partly because a functioning community still exists there."
+    },
+    {
+      "viewpoint": "Tourism revenue should reach conservation and local enterprise.",
+      "topicSentence": "Economic benefit depends on where visitor spending goes, not only how much is recorded.",
+      "collocations": [
+        "retain income locally",
+        "support small enterprises",
+        "fund heritage conservation",
+        "reduce economic leakage"
+      ],
+      "argument": "A resort may receive many tourists while profits leave through foreign ownership and imported supplies. Local guides, producers and accommodation providers retain a larger share and give visitors stronger connections to place. Entrance fees can finance site maintenance when accounts are transparent. However, local participation should not be reduced to low-paid seasonal work. Tourism contributes most when communities influence development and capture enough value to protect the resources on which the industry depends."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What kind of place do you like visiting on holiday?",
+      "answer": "I like places where I can walk easily and combine ordinary local life with one or two cultural sites. I do not need a packed schedule. A smaller city near natural scenery usually suits me because there is variety without constant travel. Food and public transport also affect how relaxed the trip feels."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a place you visited that had many tourists.",
+      "answer": "I visited a historic walled town during a public holiday, and the main streets were extremely crowded. The architecture was impressive, but moving between major sites involved long queues. I noticed that only a few streets away, quieter workshops and neighbourhood cafés had far fewer visitors. The next morning I went out early and followed a route suggested by a local guide. That changed the experience completely because I could hear the city and speak to shop owners without blocking narrow paths. I understood why residents might value tourism and resent its concentration at the same time. The visit taught me that timing and route choice can reduce pressure without preventing people from seeing a popular place."
+    }
+  ],
+  "reading": {
+    "title": "The Trail That Became Too Successful",
+    "paragraphs": [
+      "A walking trail can bring visitors to rural areas that receive little benefit from conventional tourism. Hikers buy food, use accommodation and travel outside the main season. Yet success alters the resource being promoted. A narrow path designed for occasional local use may erode under thousands of boots, while parked cars block roads never built for visitor traffic.",
+      "Physical carrying capacity is only one limit. Residents may tolerate busy weekends but object when noise, litter or access problems become constant. Wildlife can be disturbed at particular breeding times even when the total annual visitor number appears modest. A single maximum figure therefore fails to capture where, when and how pressure occurs.",
+      "Managers use several responses. Boardwalks protect fragile ground, shuttle buses reduce parking and booking systems spread departures through the day. Information can direct walkers to robust routes, although promoting an alternative may simply transfer damage if that path is unprepared. Charges are controversial but can fund maintenance when visitors understand where the money goes.",
+      "Local businesses have mixed interests. More visitors increase custom, yet congestion can delay deliveries and make staff housing expensive. Consultation often overrepresents businesses with time to attend meetings, while farmers or seasonal workers remain unheard. Collecting evidence through traffic counts, path surveys and varied community interviews produces a fuller picture than satisfaction questionnaires alone.",
+      "The goal is not to keep a landscape unchanged; paths have always connected human activity with land. Management seeks a level and pattern of use that can be repaired and accepted. A successful trail should create enough value to maintain both its physical surface and the community through which it passes. Otherwise popularity consumes the conditions that made the route worth visiting. Visitor behaviour is influenced by expectations set before arrival. Booking pages can explain limited parking, suitable footwear and sensitive wildlife periods at the moment a route is chosen. Once a traveller has reached a crowded entrance, requests to change plans are less effective. Management communication works best when it appears early enough to shape the journey rather than merely correct conduct on site."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Annual visitor totals reveal every form of pressure on a trail.",
+        "answer": "False",
+        "explanation": "Paragraph 2 says timing, place and behaviour also matter."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What risk is associated with promoting an alternative route?",
+        "answer": "D",
+        "explanation": "Damage may be transferred to an unprepared path.",
+        "options": [
+          "Visitors stop using local accommodation.",
+          "Charges become impossible to collect.",
+          "Breeding seasons become longer.",
+          "Damage may be transferred to an unprepared path."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "A sustainable trail should maintain its surface and the surrounding ______.",
+        "answer": "community",
+        "explanation": "The final paragraph identifies both."
+      }
+    ]
+  }
+}

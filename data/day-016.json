@@ -1,0 +1,349 @@
+{
+  "id": 16,
+  "topic": "Weather and Seasons",
+  "topicCN": "天气与季节",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "forecast",
+      "ipa": "/ˈfɔːkɑːst/",
+      "meaning": "天气预报",
+      "collocation": "check the forecast",
+      "collocationCN": "查看预报"
+    },
+    {
+      "word": "temperature",
+      "ipa": "/ˈtemprətʃə/",
+      "meaning": "温度",
+      "collocation": "a drop in temperature",
+      "collocationCN": "温度下降"
+    },
+    {
+      "word": "climate",
+      "ipa": "/ˈklaɪmət/",
+      "meaning": "气候",
+      "collocation": "a mild climate",
+      "collocationCN": "温和气候"
+    },
+    {
+      "word": "season",
+      "ipa": "/ˈsiːzn/",
+      "meaning": "季节",
+      "collocation": "the rainy season",
+      "collocationCN": "雨季"
+    },
+    {
+      "word": "humidity",
+      "ipa": "/hjuːˈmɪdəti/",
+      "meaning": "湿度",
+      "collocation": "high humidity",
+      "collocationCN": "高湿度"
+    },
+    {
+      "word": "rainfall",
+      "ipa": "/ˈreɪnfɔːl/",
+      "meaning": "降雨量",
+      "collocation": "annual rainfall",
+      "collocationCN": "年降雨量"
+    },
+    {
+      "word": "drought",
+      "ipa": "/draʊt/",
+      "meaning": "干旱",
+      "collocation": "a prolonged drought",
+      "collocationCN": "长期干旱"
+    },
+    {
+      "word": "heatwave",
+      "ipa": "/ˈhiːtweɪv/",
+      "meaning": "热浪",
+      "collocation": "experience a heatwave",
+      "collocationCN": "经历热浪"
+    },
+    {
+      "word": "thunderstorm",
+      "ipa": "/ˈθʌndəstɔːm/",
+      "meaning": "雷暴",
+      "collocation": "a severe thunderstorm",
+      "collocationCN": "强雷暴"
+    },
+    {
+      "word": "breeze",
+      "ipa": "/briːz/",
+      "meaning": "微风",
+      "collocation": "a gentle breeze",
+      "collocationCN": "和风"
+    },
+    {
+      "word": "overcast",
+      "ipa": "/ˌəʊvəˈkɑːst/",
+      "meaning": "阴天的",
+      "collocation": "an overcast sky",
+      "collocationCN": "阴沉天空"
+    },
+    {
+      "word": "freezing",
+      "ipa": "/ˈfriːzɪŋ/",
+      "meaning": "严寒的",
+      "collocation": "freezing conditions",
+      "collocationCN": "冰冻天气"
+    },
+    {
+      "word": "unpredictable",
+      "ipa": "/ˌʌnprɪˈdɪktəbl/",
+      "meaning": "难以预测的",
+      "collocation": "unpredictable weather",
+      "collocationCN": "多变天气"
+    },
+    {
+      "word": "seasonal",
+      "ipa": "/ˈsiːzənl/",
+      "meaning": "季节性的",
+      "collocation": "seasonal variation",
+      "collocationCN": "季节变化"
+    },
+    {
+      "word": "shelter",
+      "ipa": "/ˈʃeltə/",
+      "meaning": "躲避；庇护处",
+      "collocation": "take shelter from the rain",
+      "collocationCN": "躲雨"
+    },
+    {
+      "word": "weather pattern",
+      "ipa": "/ˈweðə ˌpætn/",
+      "meaning": "天气模式",
+      "collocation": "changing weather patterns",
+      "collocationCN": "变化的天气模式"
+    },
+    {
+      "word": "extreme weather",
+      "ipa": "/ɪkˌstriːm ˈweðə/",
+      "meaning": "极端天气",
+      "collocation": "prepare for extreme weather",
+      "collocationCN": "为极端天气做准备"
+    },
+    {
+      "word": "weather warning",
+      "ipa": "/ˈweðə ˌwɔːnɪŋ/",
+      "meaning": "天气预警",
+      "collocation": "issue a weather warning",
+      "collocationCN": "发布天气预警"
+    },
+    {
+      "word": "clear up",
+      "ipa": "/klɪər ʌp/",
+      "meaning": "转晴",
+      "collocation": "the sky clears up",
+      "collocationCN": "天空转晴"
+    },
+    {
+      "word": "cool down",
+      "ipa": "/kuːl daʊn/",
+      "meaning": "变凉",
+      "collocation": "temperatures cool down",
+      "collocationCN": "气温下降"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "very hot period",
+      "options": [
+        "heatwave",
+        "spell of extreme heat",
+        "prolonged hot weather"
+      ],
+      "note": "heatwave 通常持续多日。"
+    },
+    {
+      "base": "weather report",
+      "options": [
+        "forecast",
+        "meteorological report",
+        "weather update"
+      ],
+      "note": "forecast 强调对未来的预测。"
+    },
+    {
+      "base": "change often",
+      "options": [
+        "be unpredictable",
+        "vary considerably",
+        "shift rapidly"
+      ],
+      "note": "shift rapidly 强调变化速度。"
+    },
+    {
+      "base": "heavy rain",
+      "options": [
+        "intense rainfall",
+        "torrential rain",
+        "a downpour"
+      ],
+      "note": "downpour 常指短时大雨。"
+    },
+    {
+      "base": "not raining",
+      "options": [
+        "dry conditions",
+        "rain-free period",
+        "clear weather"
+      ],
+      "note": "dry 也可能指长期少雨。"
+    },
+    {
+      "base": "cold",
+      "options": [
+        "chilly",
+        "freezing",
+        "below average"
+      ],
+      "note": "chilly 是微冷；freezing 是非常冷。"
+    },
+    {
+      "base": "time of year",
+      "options": [
+        "season",
+        "seasonal period",
+        "part of the annual cycle"
+      ],
+      "note": "season 最自然。"
+    },
+    {
+      "base": "warn people",
+      "options": [
+        "issue an alert",
+        "provide advance warning",
+        "notify residents"
+      ],
+      "note": "advance warning 强调提前。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "The weather tends to + verb + once + season or time + begins.",
+      "cn": "一旦某个季节或时期开始，天气往往会……",
+      "example": "The weather tends to become humid once the rainy season begins."
+    },
+    {
+      "pattern": "Even though the forecast predicted + condition, + different outcome.",
+      "cn": "虽然预报预测了……，但实际……",
+      "example": "Even though the forecast predicted rain, the afternoon remained dry."
+    },
+    {
+      "pattern": "People who live in + climate + become accustomed to + noun.",
+      "cn": "生活在某种气候中的人会习惯……",
+      "example": "People who live in northern climates become accustomed to long winter nights."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "the weather clears up",
+      "cn": "天气转晴",
+      "example": "We can go for a walk if the weather clears up."
+    },
+    {
+      "text": "get caught in the rain",
+      "cn": "遇到雨而没防备",
+      "example": "I got caught in the rain without an umbrella."
+    },
+    {
+      "text": "a bit on the chilly side",
+      "cn": "有点偏冷",
+      "example": "It’s sunny, but it’s a bit on the chilly side."
+    },
+    {
+      "text": "make the most of the sunshine",
+      "cn": "充分利用晴天",
+      "example": "We made the most of the sunshine and ate outside."
+    },
+    {
+      "text": "weather permitting",
+      "cn": "天气允许的话",
+      "example": "The event will be held outdoors, weather permitting."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Today is a good weather.",
+      "correct": "The weather is good today.",
+      "why": "weather 是不可数名词，不能说 a weather。"
+    },
+    {
+      "wrong": "It is raining strongly.",
+      "correct": "It is raining heavily.",
+      "why": "描述雨大使用 heavily。"
+    },
+    {
+      "wrong": "The temperature will be increase.",
+      "correct": "The temperature will increase.",
+      "why": "will 后直接接动词原形，不加 be。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Weather warnings must translate risk into clear action.",
+      "topicSentence": "A forecast is useful only when people understand what the expected conditions require them to do.",
+      "collocations": [
+        "issue an early warning",
+        "communicate risk clearly",
+        "take preventive action",
+        "protect vulnerable residents"
+      ],
+      "argument": "Technical information about pressure or rainfall may not tell residents whether to cancel travel or check on an older neighbour. Clear warnings should describe location, timing and likely consequences in ordinary language. Advice must also be realistic for people without cars, air conditioning or secure housing. Repeated false alarms can reduce trust, so uncertainty should be explained honestly. Effective communication connects scientific prediction with practical decisions."
+    },
+    {
+      "viewpoint": "Cities need to prepare for hotter summers.",
+      "topicSentence": "Urban design can reduce the health risks created by periods of extreme heat.",
+      "collocations": [
+        "urban heat island",
+        "provide shaded areas",
+        "improve building ventilation",
+        "reduce heat exposure"
+      ],
+      "argument": "Concrete and dark surfaces absorb heat during the day and release it slowly at night. This prevents city residents from recovering during prolonged hot weather. Trees, shaded bus stops, reflective roofs and accessible drinking water can lower exposure. Emergency plans should identify people living alone or in poorly ventilated homes. Heat preparation is becoming a basic public-health responsibility rather than an occasional response."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What kind of weather do you like most?",
+      "answer": "I like cool, bright weather, probably around eighteen degrees. It’s comfortable enough to walk for a long time without getting tired, and the clear light makes the city look better. I don’t need perfect sunshine; a few clouds are fine. What I dislike is high humidity because even a short journey then feels exhausting."
+    },
+    {
+      "part": "Part 1",
+      "question": "Does the weather ever affect your plans?",
+      "answer": "Quite often. If heavy rain is forecast, I’ll move an outdoor meeting or take public transport instead of cycling. In summer, I avoid going out in the middle of a very hot day and run errands in the evening. I try not to cancel things too quickly, though, because forecasts sometimes sound more certain than the actual weather turns out to be."
+    }
+  ],
+  "reading": {
+    "title": "The Search for a Reliable Forecast",
+    "paragraphs": [
+      "For most of human history, weather prediction depended on repeated local observation. Farmers and sailors watched cloud shapes, winds, animal behaviour and the timing of seasonal changes. Some rules contained genuine patterns, while others survived because people remembered a correct prediction more clearly than numerous failures. Forecasting remained local because information from distant places arrived too late.",
+      "The development of the telegraph changed the scale of prediction. Weather observations could be collected from a wide area before the conditions themselves arrived. Meteorologists began drawing maps of pressure and wind, revealing moving systems that no single observer could see. Later, satellites supplied images over oceans and sparsely inhabited regions, filling major gaps in coverage.",
+      "Modern forecasts use mathematical models which divide the atmosphere into a three-dimensional grid. Measurements provide a starting state, then computers calculate how temperature, moisture and movement may develop. Tiny inaccuracies in the starting data grow over time, which is why a forecast for tomorrow is generally more reliable than one for two weeks ahead. Running several models produces a range of possible outcomes rather than one certain future.",
+      "Public forecasts simplify this uncertainty into symbols and short statements. A rain icon may conceal disagreement about timing, location or intensity. Probability can provide more information, but it is often misunderstood: a modest chance of rain does not mean the forecast failed when rain occurs. Reliable forecasting therefore depends on two tasks—modelling the atmosphere and communicating the limits of what the model can know.",
+      "Forecast accuracy also varies with the event being predicted. Temperature over a broad region may be estimated confidently while the precise location of a thunderstorm remains uncertain. The distinction matters to users. A farmer, an airline and someone planning a picnic need different detail, so a forecast should be evaluated in relation to the decision it is intended to support."
+    ],
+    "questions": [
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph explains how long-distance information first transformed forecasting?",
+        "answer": "B",
+        "explanation": "Paragraph B describes telegraph-based collection."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "A two-week forecast is normally more reliable than a forecast for tomorrow.",
+        "answer": "False",
+        "explanation": "Paragraph 3 states the opposite."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Modern models divide the atmosphere into a three-dimensional ______.",
+        "answer": "grid",
+        "explanation": "The answer is in Paragraph 3."
+      }
+    ]
+  }
+}

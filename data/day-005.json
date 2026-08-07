@@ -1,0 +1,355 @@
+{
+  "id": 5,
+  "topic": "Friendship",
+  "topicCN": "友谊",
+  "category": "Daily Life",
+  "vocabulary": [
+    {
+      "word": "companion",
+      "ipa": "/kəmˈpæniən/",
+      "meaning": "伙伴",
+      "collocation": "a travelling companion",
+      "collocationCN": "旅伴"
+    },
+    {
+      "word": "acquaintance",
+      "ipa": "/əˈkweɪntəns/",
+      "meaning": "熟人",
+      "collocation": "a casual acquaintance",
+      "collocationCN": "点头之交"
+    },
+    {
+      "word": "trust",
+      "ipa": "/trʌst/",
+      "meaning": "信任",
+      "collocation": "build mutual trust",
+      "collocationCN": "建立相互信任"
+    },
+    {
+      "word": "loyalty",
+      "ipa": "/ˈlɔɪəlti/",
+      "meaning": "忠诚",
+      "collocation": "show loyalty to a friend",
+      "collocationCN": "对朋友忠诚"
+    },
+    {
+      "word": "honesty",
+      "ipa": "/ˈɒnəsti/",
+      "meaning": "诚实",
+      "collocation": "value honesty",
+      "collocationCN": "重视诚实"
+    },
+    {
+      "word": "reliable",
+      "ipa": "/rɪˈlaɪəbl/",
+      "meaning": "可靠的",
+      "collocation": "a reliable friend",
+      "collocationCN": "可靠的朋友"
+    },
+    {
+      "word": "sociable",
+      "ipa": "/ˈsəʊʃəbl/",
+      "meaning": "善于交际的",
+      "collocation": "a sociable person",
+      "collocationCN": "善于交际的人"
+    },
+    {
+      "word": "introverted",
+      "ipa": "/ˈɪntrəvɜːtɪd/",
+      "meaning": "内向的",
+      "collocation": "an introverted child",
+      "collocationCN": "内向的孩子"
+    },
+    {
+      "word": "confide",
+      "ipa": "/kənˈfaɪd/",
+      "meaning": "倾诉",
+      "collocation": "confide in a close friend",
+      "collocationCN": "向密友倾诉"
+    },
+    {
+      "word": "encourage",
+      "ipa": "/ɪnˈkʌrɪdʒ/",
+      "meaning": "鼓励",
+      "collocation": "encourage one another",
+      "collocationCN": "互相鼓励"
+    },
+    {
+      "word": "reassure",
+      "ipa": "/ˌriːəˈʃʊə/",
+      "meaning": "使安心",
+      "collocation": "reassure a worried friend",
+      "collocationCN": "安慰担忧的朋友"
+    },
+    {
+      "word": "misunderstanding",
+      "ipa": "/ˌmɪsʌndəˈstændɪŋ/",
+      "meaning": "误会",
+      "collocation": "sort out a misunderstanding",
+      "collocationCN": "解决误会"
+    },
+    {
+      "word": "companionship",
+      "ipa": "/kəmˈpæniənʃɪp/",
+      "meaning": "陪伴",
+      "collocation": "provide companionship",
+      "collocationCN": "提供陪伴"
+    },
+    {
+      "word": "shared interest",
+      "ipa": "/ʃeəd ˈɪntrəst/",
+      "meaning": "共同兴趣",
+      "collocation": "bond over a shared interest",
+      "collocationCN": "因共同兴趣建立联系"
+    },
+    {
+      "word": "social circle",
+      "ipa": "/ˈsəʊʃl ˌsɜːkl/",
+      "meaning": "社交圈",
+      "collocation": "expand a social circle",
+      "collocationCN": "扩大社交圈"
+    },
+    {
+      "word": "long-distance friendship",
+      "ipa": "/ˌlɒŋ ˈdɪstəns ˈfrendʃɪp/",
+      "meaning": "异地友谊",
+      "collocation": "maintain a long-distance friendship",
+      "collocationCN": "维持异地友谊"
+    },
+    {
+      "word": "peer pressure",
+      "ipa": "/ˈpɪə preʃə/",
+      "meaning": "同伴压力",
+      "collocation": "resist peer pressure",
+      "collocationCN": "抵制同伴压力"
+    },
+    {
+      "word": "keep in touch",
+      "ipa": "/kiːp ɪn tʌtʃ/",
+      "meaning": "保持联系",
+      "collocation": "keep in touch online",
+      "collocationCN": "在网上保持联系"
+    },
+    {
+      "word": "lose touch",
+      "ipa": "/luːz tʌtʃ/",
+      "meaning": "失去联系",
+      "collocation": "gradually lose touch",
+      "collocationCN": "逐渐失去联系"
+    },
+    {
+      "word": "have something in common",
+      "ipa": "/hæv ˌsʌmθɪŋ ɪn ˈkɒmən/",
+      "meaning": "有共同点",
+      "collocation": "have a lot in common",
+      "collocationCN": "有许多共同点"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "friend",
+      "options": [
+        "close friend",
+        "companion",
+        "acquaintance"
+      ],
+      "note": "acquaintance 只是认识的人，关系通常不亲密。"
+    },
+    {
+      "base": "trust someone",
+      "options": [
+        "rely on someone",
+        "have confidence in someone",
+        "count on someone"
+      ],
+      "note": "count on 较口语，强调可以依靠。"
+    },
+    {
+      "base": "meet friends",
+      "options": [
+        "socialise with friends",
+        "get together",
+        "catch up"
+      ],
+      "note": "catch up 强调一段时间未见后聊天了解近况。"
+    },
+    {
+      "base": "same interests",
+      "options": [
+        "shared interests",
+        "common ground",
+        "have a lot in common"
+      ],
+      "note": "common ground 也可指共同立场。"
+    },
+    {
+      "base": "support a friend",
+      "options": [
+        "be there for a friend",
+        "offer reassurance",
+        "lend emotional support"
+      ],
+      "note": "lend support 是较正式搭配。"
+    },
+    {
+      "base": "stop being friends",
+      "options": [
+        "fall out",
+        "drift apart",
+        "end a friendship"
+      ],
+      "note": "drift apart 通常是自然疏远，不一定发生争吵。"
+    },
+    {
+      "base": "make friends",
+      "options": [
+        "form friendships",
+        "build social connections",
+        "strike up a friendship"
+      ],
+      "note": "strike up 强调开始建立关系。"
+    },
+    {
+      "base": "good friendship",
+      "options": [
+        "close friendship",
+        "lasting friendship",
+        "supportive friendship"
+      ],
+      "note": "lasting 强调持续时间长。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A friendship is more likely to last when + both people + make an effort to stay in touch.",
+      "cn": "当双方都努力保持联系时，友谊更可能长久。",
+      "example": "A friendship is more likely to last when both people make an effort to stay in touch."
+    },
+    {
+      "pattern": "What I value most in a friend is + quality or behaviour.",
+      "cn": "我最看重朋友的……",
+      "example": "What I value most in a friend is the ability to listen without judging."
+    },
+    {
+      "pattern": "Having common interests may help people connect, but + clause.",
+      "cn": "共同兴趣可能帮助人们建立联系，但是……",
+      "example": "Having common interests may help people connect, but trust is what keeps the friendship strong."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "keep in touch",
+      "cn": "保持联系",
+      "example": "We keep in touch through voice messages because we live in different cities."
+    },
+    {
+      "text": "get along well",
+      "cn": "相处融洽",
+      "example": "My best friend and I get along well despite having different tastes."
+    },
+    {
+      "text": "have a lot in common",
+      "cn": "有许多共同点",
+      "example": "We became friends because we had a lot in common at university."
+    },
+    {
+      "text": "drift apart",
+      "cn": "逐渐疏远",
+      "example": "We drifted apart after starting work, but there was no argument."
+    },
+    {
+      "text": "pick up where we left off",
+      "cn": "许久未见后仍能自然继续相处",
+      "example": "Even after a year apart, we can pick up where we left off."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "We know each other for ten years.",
+      "correct": "We have known each other for ten years.",
+      "why": "表示从过去持续到现在，用现在完成时。"
+    },
+    {
+      "wrong": "She is one of my best friend.",
+      "correct": "She is one of my best friends.",
+      "why": "one of 后接可数名词复数。"
+    },
+    {
+      "wrong": "I made a friendship with him.",
+      "correct": "I became friends with him.",
+      "why": "表达“和某人成为朋友”通常说 become friends with。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "A few close friends can be more valuable than a large social circle.",
+      "topicSentence": "The quality of friendships often matters more than the number of people someone knows.",
+      "collocations": [
+        "develop mutual trust",
+        "share personal concerns",
+        "offer honest advice",
+        "provide companionship"
+      ],
+      "argument": "Close friendships require time, repeated contact and a willingness to be honest. Because trust develops gradually, a small number of friends may understand someone better than dozens of casual contacts. They can notice changes in behaviour and offer advice based on long experience. This depth is especially valuable during illness, failure or loneliness. A broad network is useful, but it does not automatically provide the security of a trusted friendship."
+    },
+    {
+      "viewpoint": "Schools can help children develop friendship skills.",
+      "topicSentence": "Social skills should be treated as part of children’s development rather than left entirely to chance.",
+      "collocations": [
+        "resolve disagreements",
+        "communicate respectfully",
+        "include isolated pupils",
+        "develop empathy"
+      ],
+      "argument": "Children do not always know how to join a group, handle rejection or repair a disagreement. Teachers can model respectful language and create activities that require cooperation with different classmates. This is not the same as choosing friends for children; it gives them tools for forming healthier relationships. It may also help isolated pupils participate without being singled out. Basic friendship skills can therefore improve both well-being and the classroom environment."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "Do you prefer having a few close friends or a large group of friends?",
+      "answer": "I prefer a few close friends. I enjoy meeting new people, but I don’t have the time or energy to maintain dozens of close relationships. With my closest friends, I can talk openly and I don’t need to explain every bit of background. A larger group is fun for an event, whereas a small circle is better when I actually need support."
+    },
+    {
+      "part": "Part 1",
+      "question": "What do you usually do when you meet your friends?",
+      "answer": "Most of the time, we choose somewhere quiet to eat and catch up. We used to go to the cinema quite often, but then we realised we spent the whole evening without speaking. Now we might take a walk after dinner or play a simple board game. The activity isn’t especially important; it just gives us time to talk."
+    }
+  ],
+  "reading": {
+    "title": "Why Some Friendships Survive Distance",
+    "paragraphs": [
+      "Moving away once placed a severe limit on friendship. Letters were slow, international calls were expensive, and people who left a town could disappear from everyday life. Digital communication has removed much of that practical difficulty. A message can cross continents instantly, yet many long-distance friendships still fade. The availability of contact, it seems, is different from the motivation to maintain it.",
+      "Friendship is supported by what social researchers sometimes call repeated low-cost interaction. Classmates and colleagues see one another without arranging every meeting. They exchange small pieces of information, share minor frustrations and gradually build a detailed picture of each other’s lives. After one person moves, this background contact vanishes. Scheduled video calls may be longer, but they cannot always reproduce the ordinary moments that once kept both friends familiar with changing routines.",
+      "Some pairs adapt by lowering the pressure surrounding communication. Instead of expecting an hour-long conversation, they send photographs, short recordings or links that reflect a shared interest. These small signals say that the other person remains part of daily thought. Importantly, successful friends do not treat every delayed reply as rejection. Workload, time differences and family duties can interrupt communication without weakening affection.",
+      "Distance can even reveal which friendships are based on convenience and which have a stronger foundation. Friends who share trust and a history of mutual support may resume a conversation after months with little discomfort. Others discover that a common workplace or neighbourhood was doing most of the work. Neither outcome makes the earlier friendship false. Relationships serve different purposes at different stages, and maintaining every connection indefinitely may be neither possible nor desirable.",
+      "Long-distance friendships also need some expectation of a future meeting, even if the date remains uncertain. Digital contact maintains awareness, but shared physical experiences supply new memories and prevent the relationship from depending entirely on the past. When meetings are rare, ordinary activities such as cooking together may be more restorative than an ambitious programme of sightseeing."
+    ],
+    "questions": [
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The writer believes digital communication guarantees that long-distance friendships will continue.",
+        "answer": "No",
+        "explanation": "Paragraph 1 says many such friendships still fade despite easy communication."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "Classmates build familiarity through repeated ______ interaction.",
+        "answer": "low-cost",
+        "explanation": "Paragraph 2 gives this exact description."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What approach is associated with successful long-distance friendships?",
+        "options": [
+          "Demanding immediate replies",
+          "Avoiding all scheduled calls",
+          "Using small, low-pressure forms of contact",
+          "Pretending that routines never change"
+        ],
+        "answer": "C",
+        "explanation": "Paragraph 3 describes photographs and short recordings used without pressure."
+      }
+    ]
+  }
+}

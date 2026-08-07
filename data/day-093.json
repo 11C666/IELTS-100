@@ -1,0 +1,355 @@
+{
+  "id": 93,
+  "topic": "Human Rights",
+  "topicCN": "人权",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "human rights",
+      "ipa": "/ˌhjuːmən ˈraɪts/",
+      "meaning": "人权",
+      "collocation": "protect human rights",
+      "collocationCN": "保护人权"
+    },
+    {
+      "word": "fundamental freedom",
+      "ipa": "/ˌfʌndəmentəl ˈfriːdəm/",
+      "meaning": "基本自由",
+      "collocation": "safeguard fundamental freedoms",
+      "collocationCN": "保障基本自由"
+    },
+    {
+      "word": "equal treatment",
+      "ipa": "/ˌiːkwəl ˈtriːtmənt/",
+      "meaning": "平等待遇",
+      "collocation": "guarantee equal treatment",
+      "collocationCN": "保障平等待遇"
+    },
+    {
+      "word": "discrimination",
+      "ipa": "/dɪˌskrɪmɪˈneɪʃən/",
+      "meaning": "歧视",
+      "collocation": "prohibit discrimination",
+      "collocationCN": "禁止歧视"
+    },
+    {
+      "word": "freedom of expression",
+      "ipa": "/ˌfriːdəm əv ɪkˈspreʃən/",
+      "meaning": "表达自由",
+      "collocation": "defend freedom of expression",
+      "collocationCN": "捍卫表达自由"
+    },
+    {
+      "word": "right to privacy",
+      "ipa": "/raɪt tə ˈprɪvəsi/",
+      "meaning": "隐私权",
+      "collocation": "respect the right to privacy",
+      "collocationCN": "尊重隐私权"
+    },
+    {
+      "word": "due process",
+      "ipa": "/ˌdjuː ˈprəʊses/",
+      "meaning": "正当程序",
+      "collocation": "ensure due process",
+      "collocationCN": "确保正当程序"
+    },
+    {
+      "word": "legal remedy",
+      "ipa": "/ˌliːɡəl ˈremədi/",
+      "meaning": "法律救济",
+      "collocation": "seek a legal remedy",
+      "collocationCN": "寻求法律救济"
+    },
+    {
+      "word": "arbitrary detention",
+      "ipa": "/ˌɑːbɪtrəri dɪˈtenʃən/",
+      "meaning": "任意拘留",
+      "collocation": "prevent arbitrary detention",
+      "collocationCN": "防止任意拘留"
+    },
+    {
+      "word": "labour rights",
+      "ipa": "/ˈleɪbə raɪts/",
+      "meaning": "劳动权利",
+      "collocation": "enforce labour rights",
+      "collocationCN": "落实劳动权利"
+    },
+    {
+      "word": "vulnerable group",
+      "ipa": "/ˌvʌlnərəbəl ˈɡruːp/",
+      "meaning": "弱势群体",
+      "collocation": "protect vulnerable groups",
+      "collocationCN": "保护弱势群体"
+    },
+    {
+      "word": "civil society",
+      "ipa": "/ˌsɪvəl səˈsaɪəti/",
+      "meaning": "公民社会",
+      "collocation": "engage civil society",
+      "collocationCN": "让公民社会参与"
+    },
+    {
+      "word": "international convention",
+      "ipa": "/ˌɪntənæʃənəl kənˈvenʃən/",
+      "meaning": "国际公约",
+      "collocation": "ratify an international convention",
+      "collocationCN": "批准国际公约"
+    },
+    {
+      "word": "rights violation",
+      "ipa": "/ˈraɪts vaɪəˌleɪʃən/",
+      "meaning": "权利侵犯",
+      "collocation": "document rights violations",
+      "collocationCN": "记录侵犯权利行为"
+    },
+    {
+      "word": "independent oversight",
+      "ipa": "/ˌɪndɪpendənt ˈəʊvəsaɪt/",
+      "meaning": "独立监督",
+      "collocation": "establish independent oversight",
+      "collocationCN": "建立独立监督"
+    },
+    {
+      "word": "speak up",
+      "ipa": "/spiːk ˈʌp/",
+      "meaning": "公开发声",
+      "collocation": "feel safe to speak up",
+      "collocationCN": "敢于发声"
+    },
+    {
+      "word": "be treated fairly",
+      "ipa": "/bi ˌtriːtɪd ˈfeəli/",
+      "meaning": "得到公平对待",
+      "collocation": "expect to be treated fairly",
+      "collocationCN": "期望得到公平对待"
+    },
+    {
+      "word": "know your rights",
+      "ipa": "/nəʊ jɔː ˈraɪts/",
+      "meaning": "了解自身权利",
+      "collocation": "help workers know their rights",
+      "collocationCN": "帮助劳动者了解权利"
+    },
+    {
+      "word": "challenge a decision",
+      "ipa": "/ˌtʃælɪndʒ ə dɪˈsɪʒən/",
+      "meaning": "对决定提出异议",
+      "collocation": "challenge an unfair decision",
+      "collocationCN": "质疑不公决定"
+    },
+    {
+      "word": "hold authorities accountable",
+      "ipa": "/həʊld ɔːˈθɒrətiz əˈkaʊntəbəl/",
+      "meaning": "追究当局责任",
+      "collocation": "hold public authorities accountable",
+      "collocationCN": "追究公共机构责任"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "basic rights",
+      "options": [
+        "fundamental rights",
+        "universal entitlements",
+        "protections owed to every person"
+      ],
+      "note": "entitlement指应有权利。"
+    },
+    {
+      "base": "treat people equally",
+      "options": [
+        "ensure equal treatment",
+        "apply rules without discrimination",
+        "give comparable cases comparable consideration"
+      ],
+      "note": "equal不等于忽视不同需求。"
+    },
+    {
+      "base": "say what you think",
+      "options": [
+        "exercise freedom of expression",
+        "voice an opinion openly",
+        "communicate ideas without improper interference"
+      ],
+      "note": "freedom并非无限制。"
+    },
+    {
+      "base": "private information",
+      "options": [
+        "personal data",
+        "information about an individual",
+        "data linked to an identifiable person"
+      ],
+      "note": "personal data是法律常用语。"
+    },
+    {
+      "base": "unfair treatment",
+      "options": [
+        "discrimination",
+        "unequal treatment without justification",
+        "disadvantage based on a protected characteristic"
+      ],
+      "note": "discrimination需有具体依据。"
+    },
+    {
+      "base": "complain officially",
+      "options": [
+        "seek redress",
+        "pursue a legal remedy",
+        "challenge a decision through formal channels"
+      ],
+      "note": "redress指纠正或补救。"
+    },
+    {
+      "base": "make government explain",
+      "options": [
+        "demand public accountability",
+        "require authorities to justify decisions",
+        "subject official action to scrutiny"
+      ],
+      "note": "scrutiny强调仔细审查。"
+    },
+    {
+      "base": "protect workers",
+      "options": [
+        "safeguard labour rights",
+        "enforce workplace protections",
+        "ensure decent and lawful working conditions"
+      ],
+      "note": "enforce强调真正执行。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A restriction on + freedom + may be justified only when it is + legal test + and no broader than necessary.",
+      "cn": "对某项自由的限制，只有符合法律标准且不超过必要范围时才可能合理。",
+      "example": "A restriction on public assembly may be justified only when it is lawful and no broader than necessary."
+    },
+    {
+      "pattern": "People whose + right or interest + is affected should be able to + challenge + before + independent body.",
+      "cn": "权利或利益受到影响的人，应能在独立机构面前对相关决定提出异议。",
+      "example": "People whose benefits are withdrawn should be able to challenge the decision before an independent tribunal."
+    },
+    {
+      "pattern": "It is not enough for + right + to exist on paper; + responsible actor + must also + practical guarantee.",
+      "cn": "某项权利仅写在纸面上还不够，责任主体还必须提供实际保障。",
+      "example": "It is not enough for labour rights to exist on paper; inspectors must also enforce them consistently."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "stand up for someone’s rights",
+      "cn": "维护某人的权利",
+      "example": "A union can stand up for workers’ rights."
+    },
+    {
+      "text": "have a say in decisions",
+      "cn": "在决策中有发言权",
+      "example": "Residents should have a say in decisions affecting their homes."
+    },
+    {
+      "text": "be free from discrimination",
+      "cn": "免受歧视",
+      "example": "Everyone should be free from discrimination at work."
+    },
+    {
+      "text": "provide an effective remedy",
+      "cn": "提供有效救济",
+      "example": "Courts must provide an effective remedy for unlawful treatment."
+    },
+    {
+      "text": "subject power to independent scrutiny",
+      "cn": "使权力接受独立审查",
+      "example": "A free press can subject power to independent scrutiny."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Everyone has right to education.",
+      "correct": "Everyone has the right to education.",
+      "why": "表达“享有某项权利”通常用have the right to。"
+    },
+    {
+      "wrong": "They discriminated her because of age.",
+      "correct": "They discriminated against her because of her age.",
+      "why": "discriminate表示歧视某人时接against。"
+    },
+    {
+      "wrong": "People should have freedom to express.",
+      "correct": "People should have freedom of expression.",
+      "why": "“表达自由”固定搭配是freedom of expression。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Rights require accessible remedies.",
+      "topicSentence": "A legal promise has limited value when ordinary people cannot challenge its violation.",
+      "collocations": [
+        "ensure access to justice",
+        "provide legal assistance",
+        "establish independent review",
+        "offer an effective remedy"
+      ],
+      "argument": "A worker may formally be protected from discrimination yet lack the money or information needed to file a complaint. Free advice, simple procedures and protection against retaliation turn an abstract rule into a usable safeguard. Independent review is equally important because the institution accused of unfairness should not be the final judge of its own conduct. For example, an ombudsman can resolve some disputes without the cost of a full court case. Rights become credible when violations lead to investigation and practical correction."
+    },
+    {
+      "viewpoint": "Privacy rules must allow proportionate public-interest uses of data.",
+      "topicSentence": "Protecting personal information does not require preventing every socially valuable form of data analysis.",
+      "collocations": [
+        "obtain informed consent",
+        "minimise data collection",
+        "remove identifying details",
+        "apply a proportionality test"
+      ],
+      "argument": "Health researchers may need large datasets to detect patterns that no individual record reveals. A complete ban on access could delay useful findings, whereas unrestricted access would expose people to misuse. Data minimisation, secure storage and independent approval offer a middle course, particularly when researchers remove identifying details. The stricter the intrusion, the stronger the public justification should be. Privacy is best protected through controlled and accountable use, not through the unrealistic assumption that data can never serve a collective purpose."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a situation in which you thought someone was treated fairly.",
+      "answer": "I once saw a manager handle a dispute about weekend shifts in a fair way. Two employees both wanted the same day off, and instead of deciding privately, she explained the staffing requirements and checked the leave record for the previous months. One person had covered several unpopular shifts recently, while the other had received first choice twice. She gave the day off to the first employee but also let the second choose a later weekend. Not everyone got exactly what they wanted, yet the reasons were clear and relevant. I thought that transparency mattered as much as the outcome because both employees could see that personal favouritism had not influenced the decision."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why is it difficult to balance freedom of expression with protection from harm?",
+      "answer": "Expression can offend or challenge people without necessarily causing a harm that the law should prevent. At the same time, direct threats, targeted harassment and deliberate incitement can make others unsafe or silence their participation. The difficult task is drawing a rule narrowly enough to address serious harm without allowing authorities to suppress criticism simply because it is uncomfortable. Context, intention and likely impact all matter. Independent courts and clear definitions help, although disagreement will remain. A healthy society needs both room for robust debate and effective protection when speech becomes a tool of intimidation."
+    }
+  ],
+  "reading": {
+    "title": "The Right to an Explanation",
+    "paragraphs": [
+      "A housing authority introduced a computer model to rank applications for emergency accommodation. Staff entered income, family size, health information and current living conditions; the system then produced a priority score. Officials expected greater consistency than individual judgement could provide. Within months, however, advisers noticed that some applicants received unexpectedly low rankings and could not discover why.",
+      "The authority initially argued that the model was only an administrative tool. Yet its score strongly shaped who obtained a scarce home, and caseworkers rarely departed from it. Applicants could appeal the final decision, but an appeal stating merely that the result felt wrong had little chance of success. To challenge an error, a person needed to know whether the system had used inaccurate data, assigned inappropriate weight to a factor or applied a rule unlawfully.",
+      "An independent review examined a substantial sample of cases. It found no evidence that programmers had deliberately encoded discrimination, but missing health records were treated as if no health need existed. This affected applicants whose clinics submitted information slowly, a problem more common in poorly served districts. A technically identical rule thus produced unequal consequences because the underlying administrative conditions were not identical.",
+      "The review recommended that each applicant receive a plain-language account of the major factors influencing the score. Officials worried that publishing the complete model would enable manipulation and reveal security details. The reviewers did not demand complete publication. They distinguished transparency about an individual decision from disclosure of every line of software: a meaningful explanation could identify decisive information, correction routes and the role of human review.",
+      "After the change, appeals initially increased, largely because applicants corrected missing records. After an initial rise, they later fell below their former level, while caseworkers reported greater confidence in departing from scores that conflicted with verified evidence. The lesson was not that automated decisions are inherently unjust. It was that when a system exercises practical power over a person, consistency cannot replace the person’s ability to understand and contest an error."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why was the original appeal process ineffective for some applicants?",
+        "answer": "B",
+        "explanation": "Without reasons for the score, applicants could not identify a specific error.",
+        "options": [
+          "Appeals were prohibited in housing cases.",
+          "Applicants lacked information needed to identify an error.",
+          "Caseworkers always changed the score.",
+          "The model contained no health information."
+        ]
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Programmers intentionally designed the model to discriminate.",
+        "answer": "False",
+        "explanation": "The independent review found no evidence of deliberate discrimination."
+      },
+      {
+        "type": "Summary Completion",
+        "prompt": "The reviewers distinguished an explanation of an individual decision from publication of every line of ______.",
+        "answer": "software",
+        "explanation": "Paragraph 4 makes this distinction explicitly."
+      }
+    ]
+  }
+}

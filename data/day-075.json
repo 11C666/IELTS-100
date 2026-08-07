@@ -1,0 +1,355 @@
+{
+  "id": 75,
+  "topic": "Air Pollution",
+  "topicCN": "空气污染",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "particulate matter",
+      "ipa": "/pɑːˈtɪkjələt ˈmætə/",
+      "meaning": "颗粒物",
+      "collocation": "measure fine particulate matter",
+      "collocationCN": "测量细颗粒物"
+    },
+    {
+      "word": "nitrogen dioxide",
+      "ipa": "/ˌnaɪtrədʒən daɪˈɒksaɪd/",
+      "meaning": "二氧化氮",
+      "collocation": "exposure to nitrogen dioxide",
+      "collocationCN": "接触二氧化氮"
+    },
+    {
+      "word": "vehicle emissions",
+      "ipa": "/ˈviːəkəl ɪˈmɪʃənz/",
+      "meaning": "车辆排放",
+      "collocation": "curb vehicle emissions",
+      "collocationCN": "遏制车辆排放"
+    },
+    {
+      "word": "airborne",
+      "ipa": "/ˈeəbɔːn/",
+      "meaning": "空气传播的",
+      "collocation": "airborne pollutants",
+      "collocationCN": "空气中的污染物"
+    },
+    {
+      "word": "respiratory",
+      "ipa": "/rɪˈspɪrətri/",
+      "meaning": "呼吸系统的",
+      "collocation": "respiratory illness",
+      "collocationCN": "呼吸系统疾病"
+    },
+    {
+      "word": "exposure",
+      "ipa": "/ɪkˈspəʊʒə/",
+      "meaning": "暴露",
+      "collocation": "limit long-term exposure",
+      "collocationCN": "限制长期暴露"
+    },
+    {
+      "word": "monitoring station",
+      "ipa": "/ˈmɒnɪtərɪŋ ˌsteɪʃən/",
+      "meaning": "监测站",
+      "collocation": "install a monitoring station",
+      "collocationCN": "安装监测站"
+    },
+    {
+      "word": "air-quality index",
+      "ipa": "/eə ˈkwɒləti ˌɪndeks/",
+      "meaning": "空气质量指数",
+      "collocation": "check the air-quality index",
+      "collocationCN": "查看空气质量指数"
+    },
+    {
+      "word": "low-emission zone",
+      "ipa": "/ləʊ ɪˈmɪʃən zəʊn/",
+      "meaning": "低排放区",
+      "collocation": "enforce a low-emission zone",
+      "collocationCN": "实施低排放区"
+    },
+    {
+      "word": "industrial plume",
+      "ipa": "/ɪnˈdʌstriəl pluːm/",
+      "meaning": "工业烟羽",
+      "collocation": "track an industrial plume",
+      "collocationCN": "追踪工业烟羽"
+    },
+    {
+      "word": "prevailing wind",
+      "ipa": "/prɪˈveɪlɪŋ wɪnd/",
+      "meaning": "盛行风",
+      "collocation": "follow the prevailing wind",
+      "collocationCN": "顺着盛行风"
+    },
+    {
+      "word": "indoor air quality",
+      "ipa": "/ˈɪndɔː eə ˌkwɒləti/",
+      "meaning": "室内空气质量",
+      "collocation": "improve indoor air quality",
+      "collocationCN": "改善室内空气质量"
+    },
+    {
+      "word": "ventilation",
+      "ipa": "/ˌventɪˈleɪʃən/",
+      "meaning": "通风",
+      "collocation": "ensure adequate ventilation",
+      "collocationCN": "确保充分通风"
+    },
+    {
+      "word": "idling",
+      "ipa": "/ˈaɪdlɪŋ/",
+      "meaning": "怠速运转",
+      "collocation": "discourage engine idling",
+      "collocationCN": "劝阻发动机怠速"
+    },
+    {
+      "word": "pollution hotspot",
+      "ipa": "/pəˈluːʃən ˌhɒtspɒt/",
+      "meaning": "污染热点",
+      "collocation": "identify a pollution hotspot",
+      "collocationCN": "识别污染热点"
+    },
+    {
+      "word": "take a different route",
+      "ipa": "/teɪk ə ˈdɪfərənt ruːt/",
+      "meaning": "换一条路线",
+      "collocation": "take a quieter route to work",
+      "collocationCN": "走更安静的路上班"
+    },
+    {
+      "word": "keep the windows shut",
+      "ipa": "/kiːp ðə ˈwɪndəʊz ʃʌt/",
+      "meaning": "关紧窗户",
+      "collocation": "keep the windows shut at rush hour",
+      "collocationCN": "高峰期关窗"
+    },
+    {
+      "word": "poor air day",
+      "ipa": "/pʊə eə deɪ/",
+      "meaning": "空气质量差的一天",
+      "collocation": "avoid exercise on a poor air day",
+      "collocationCN": "空气差时避免锻炼"
+    },
+    {
+      "word": "clean-air policy",
+      "ipa": "/kliːn eə ˈpɒləsi/",
+      "meaning": "清洁空气政策",
+      "collocation": "adopt a clean-air policy",
+      "collocationCN": "采取清洁空气政策"
+    },
+    {
+      "word": "health burden",
+      "ipa": "/helθ ˈbɜːdən/",
+      "meaning": "健康负担",
+      "collocation": "reduce the health burden",
+      "collocationCN": "减轻健康负担"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "dirty air",
+      "options": [
+        "air pollution",
+        "polluted air",
+        "poor air quality"
+      ],
+      "note": "poor air quality最适合正式报告。"
+    },
+    {
+      "base": "harm health",
+      "options": [
+        "damage health",
+        "increase health risks",
+        "contribute to illness"
+      ],
+      "note": "contribute to避免声称单一原因。"
+    },
+    {
+      "base": "measure pollution",
+      "options": [
+        "monitor air quality",
+        "record pollutant levels",
+        "track atmospheric contamination"
+      ],
+      "note": "monitor强调持续观测。"
+    },
+    {
+      "base": "traffic fumes",
+      "options": [
+        "vehicle exhaust",
+        "road-transport emissions",
+        "pollutants from motor vehicles"
+      ],
+      "note": "road-transport emissions适合政策讨论。"
+    },
+    {
+      "base": "people living nearby",
+      "options": [
+        "local residents",
+        "nearby communities",
+        "populations in the surrounding area"
+      ],
+      "note": "populations常用于研究报告。"
+    },
+    {
+      "base": "reduce emissions",
+      "options": [
+        "curb emissions",
+        "cut pollutant output",
+        "lower the release of contaminants"
+      ],
+      "note": "curb含控制上升趋势之意。"
+    },
+    {
+      "base": "unequal exposure",
+      "options": [
+        "an exposure gap",
+        "environmental inequality",
+        "uneven pollution burdens"
+      ],
+      "note": "burden突出后果分配。"
+    },
+    {
+      "base": "fresh air",
+      "options": [
+        "cleaner air",
+        "air with fewer pollutants",
+        "improved ambient air quality"
+      ],
+      "note": "ambient air quality是学术表达。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Although + a citywide pollution average + has fallen, residents near + a busy road or factory + may still face + serious local exposure.",
+      "cn": "尽管全市指标已经下降，污染源附近居民仍可能面临局部风险。",
+      "example": "Although average pollution has fallen, residents near freight routes may still experience dangerous peaks."
+    },
+    {
+      "pattern": "The pollutants to which + a person + is exposed are shaped by both + where they live + and + how they travel or work.",
+      "cn": "某群体接触的污染物同时受到地点和日常活动影响。",
+      "example": "The pollutants to which schoolchildren are exposed are shaped by both classroom location and travel routines."
+    },
+    {
+      "pattern": "By + targeting the main source of pollution, authorities can + improve air quality + without + placing unnecessary restrictions on everyone.",
+      "cn": "通过采取某种措施，管理部门可以在避免不良后果的同时取得成效。",
+      "example": "By redirecting heavy vehicles, authorities can protect residential streets without restricting essential deliveries."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "the air feels heavy",
+      "cn": "感觉空气很闷",
+      "example": "The air feels heavy beside the main road."
+    },
+    {
+      "text": "avoid the rush-hour fumes",
+      "cn": "避开高峰期尾气",
+      "example": "I cycle earlier to avoid the rush-hour fumes."
+    },
+    {
+      "text": "leave the engine running",
+      "cn": "让发动机一直运转",
+      "example": "Drivers should not leave the engine running outside schools."
+    },
+    {
+      "text": "improve ambient air quality",
+      "cn": "改善环境空气质量",
+      "example": "Cleaner buses improve ambient air quality."
+    },
+    {
+      "text": "bear a disproportionate burden",
+      "cn": "承受不成比例的负担",
+      "example": "Low-income districts often bear a disproportionate pollution burden."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The air is badly today.",
+      "correct": "The air quality is poor today.",
+      "why": "badly是副词；描述空气质量应用形容词poor。"
+    },
+    {
+      "wrong": "Factories produce many pollutions.",
+      "correct": "Factories produce a great deal of pollution.",
+      "why": "pollution通常不可数。"
+    },
+    {
+      "wrong": "Traffic fumes cause people suffer from asthma.",
+      "correct": "Traffic fumes cause people to suffer from asthma.",
+      "why": "cause somebody to do是固定结构。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Air-quality policy should target exposure, not only averages.",
+      "topicSentence": "Citywide improvements can conceal severe pollution experienced by particular streets and groups.",
+      "collocations": [
+        "measure local exposure",
+        "identify pollution hotspots",
+        "protect vulnerable residents",
+        "publish neighbourhood-level data"
+      ],
+      "argument": "A falling urban average may look successful even while schools beside major roads experience repeated peaks. Because health risk depends on where people spend time, fixed monitors should be supplemented by local and mobile measurements. Authorities can then redirect traffic, alter delivery times or improve filtration where exposure is greatest. This targeted approach uses evidence more fairly than applying an identical intervention everywhere. Success should be judged by whether the most exposed communities benefit, not simply by one citywide figure."
+    },
+    {
+      "viewpoint": "Clean transport zones need complementary support.",
+      "topicSentence": "Restricting high-emission vehicles is effective only when households and businesses have realistic alternatives.",
+      "collocations": [
+        "introduce an emissions zone",
+        "upgrade commercial fleets",
+        "provide transitional support",
+        "maintain essential access"
+      ],
+      "argument": "A charge can accelerate the replacement of polluting vehicles, but the immediate cost falls unevenly. A small business with one old van may struggle more than a large operator that routinely renews its fleet. Time-limited grants and reliable public transport can reduce that imbalance while preserving the incentive to change. Exemptions should remain narrow, or the environmental benefit will disappear. Combining a firm deadline with practical transition support is therefore both fairer and more likely to secure compliance."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a place where you noticed poor air quality.",
+      "answer": "I noticed it most clearly at a bus stop beside a wide road during the evening rush hour. Several buses and delivery vehicles were waiting with their engines running, and the air had a sharp smell that caught in my throat. What surprised me was how different it felt from a park only two streets away. I checked an air-quality app later, although its nearest monitor was quite distant, so it could not describe that exact corner. Since then, I have used a quieter parallel street when I walk home. The experience made air pollution feel local and immediate rather than like an abstract citywide statistic."
+    },
+    {
+      "part": "Part 3",
+      "question": "Should individuals change their routines when air pollution is high?",
+      "answer": "Short-term precautions can be sensible, especially for children, older people and anyone with a respiratory condition. For instance, someone might exercise away from traffic or ventilate a room at a cleaner time of day. However, people cannot be expected to solve polluted air by constantly avoiding it. Many workers have fixed routes and hours, and not everyone can move home. Public authorities and major emitters therefore carry the main responsibility for reducing pollution at source, while clear advice helps residents manage unusual peaks."
+    }
+  ],
+  "reading": {
+    "title": "The Pollution Map Drawn by a School Day",
+    "paragraphs": [
+      "Official monitors provide essential long-term records, but their small number can make pollution appear smoother than it is. A research team studying children’s exposure in one city therefore attached lightweight sensors to school bags. The aim was not to replace calibrated stations; it was to discover how pollution changed along the routes and indoor spaces that shaped an ordinary day.",
+      "The readings rose beside congested junctions and fell in streets separated from traffic by buildings. Yet distance alone did not explain the pattern. At one school, a playground set back from the road recorded short peaks when parents left engines running at the gate, while a classroom facing a quieter courtyard accumulated carbon dioxide because its windows remained closed. The study thus distinguished outdoor pollutants from poor ventilation, two problems requiring different remedies.",
+      "Personal sensors produce messy evidence. Movement, humidity and the position of a device can affect a reading, and children following different routes cannot be treated as a controlled laboratory sample. Researchers corrected the instruments against a fixed station and combined repeated journeys rather than interpreting one dramatic peak. The resulting map, while less precise at any single second, revealed consistent places where exposure increased.",
+      "Schools used the findings in varied ways. One changed the time at which delivery vehicles entered; another opened a walking entrance away from the main road. A third improved classroom ventilation after staff realised that keeping every window shut against traffic had created a separate indoor problem. None of these measures required families to abandon the neighbourhood.",
+      "The project’s larger lesson concerns measurement. An annual city average can show whether broad policy is working, whereas a child’s route reveals where practical protection is possible now. These forms of evidence are not competitors. Joined carefully, they connect regional emission controls with the small decisions—about gates, engines and windows—through which cleaner air becomes part of daily life."
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Why did researchers attach sensors to school bags?",
+        "answer": "B",
+        "explanation": "They wanted to measure variation across children’s daily routes and spaces.",
+        "options": [
+          "To replace every official monitoring station",
+          "To measure variation across daily routes and spaces",
+          "To test children in a controlled laboratory",
+          "To compare school examination results"
+        ]
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "The researchers interpreted each isolated pollution peak as reliable evidence.",
+        "answer": "No",
+        "explanation": "Paragraph 3 says they combined repeated journeys rather than one dramatic peak."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What caused carbon dioxide to accumulate in one classroom?",
+        "answer": "closed windows",
+        "explanation": "Paragraph 2 explains that the windows remained closed."
+      }
+    ]
+  }
+}

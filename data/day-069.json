@@ -1,0 +1,349 @@
+{
+  "id": 69,
+  "topic": "Media Literacy",
+  "topicCN": "媒体素养",
+  "category": "Technology",
+  "vocabulary": [
+    {
+      "word": "media literacy",
+      "ipa": "/ˈmiːdiə ˌlɪtərəsi/",
+      "meaning": "媒体素养",
+      "collocation": "develop media literacy",
+      "collocationCN": "培养媒体素养"
+    },
+    {
+      "word": "source",
+      "ipa": "/sɔːs/",
+      "meaning": "信息来源",
+      "collocation": "verify a source",
+      "collocationCN": "核实信息来源"
+    },
+    {
+      "word": "credibility",
+      "ipa": "/ˌkredəˈbɪləti/",
+      "meaning": "可信度",
+      "collocation": "assess credibility",
+      "collocationCN": "评估可信度"
+    },
+    {
+      "word": "misinformation",
+      "ipa": "/ˌmɪsɪnfəˈmeɪʃn/",
+      "meaning": "错误信息",
+      "collocation": "counter misinformation",
+      "collocationCN": "应对错误信息"
+    },
+    {
+      "word": "disinformation",
+      "ipa": "/ˌdɪsɪnfəˈmeɪʃn/",
+      "meaning": "蓄意虚假信息",
+      "collocation": "spread disinformation",
+      "collocationCN": "传播蓄意虚假信息"
+    },
+    {
+      "word": "bias",
+      "ipa": "/ˈbaɪəs/",
+      "meaning": "偏见；倾向",
+      "collocation": "recognise editorial bias",
+      "collocationCN": "识别编辑倾向"
+    },
+    {
+      "word": "headline",
+      "ipa": "/ˈhedlaɪn/",
+      "meaning": "标题",
+      "collocation": "read beyond the headline",
+      "collocationCN": "阅读标题以外的内容"
+    },
+    {
+      "word": "context",
+      "ipa": "/ˈkɒntekst/",
+      "meaning": "语境；背景",
+      "collocation": "provide sufficient context",
+      "collocationCN": "提供充分背景"
+    },
+    {
+      "word": "corroborate",
+      "ipa": "/kəˈrɒbəreɪt/",
+      "meaning": "佐证",
+      "collocation": "corroborate a claim",
+      "collocationCN": "佐证某项说法"
+    },
+    {
+      "word": "manipulate",
+      "ipa": "/məˈnɪpjuleɪt/",
+      "meaning": "操纵",
+      "collocation": "manipulate an image",
+      "collocationCN": "篡改图片"
+    },
+    {
+      "word": "verification",
+      "ipa": "/ˌverɪfɪˈkeɪʃn/",
+      "meaning": "核实",
+      "collocation": "conduct independent verification",
+      "collocationCN": "进行独立核实"
+    },
+    {
+      "word": "editorial",
+      "ipa": "/ˌedɪˈtɔːriəl/",
+      "meaning": "编辑的",
+      "collocation": "follow editorial standards",
+      "collocationCN": "遵守编辑规范"
+    },
+    {
+      "word": "clickbait",
+      "ipa": "/ˈklɪkbeɪt/",
+      "meaning": "诱导点击的内容",
+      "collocation": "avoid clickbait headlines",
+      "collocationCN": "避免诱导点击的标题"
+    },
+    {
+      "word": "echo chamber",
+      "ipa": "/ˈekəʊ ˌtʃeɪmbə(r)/",
+      "meaning": "回音室效应环境",
+      "collocation": "escape an online echo chamber",
+      "collocationCN": "摆脱网络回音室环境"
+    },
+    {
+      "word": "deepfake",
+      "ipa": "/ˈdiːpfeɪk/",
+      "meaning": "深度伪造内容",
+      "collocation": "detect a deepfake",
+      "collocationCN": "识别深度伪造内容"
+    },
+    {
+      "word": "cross-check",
+      "ipa": "/ˌkrɒs ˈtʃek/",
+      "meaning": "交叉核对",
+      "collocation": "cross-check the details",
+      "collocationCN": "交叉核对细节"
+    },
+    {
+      "word": "take a claim at face value",
+      "ipa": "/teɪk ə kleɪm ət ˌfeɪs ˈvæljuː/",
+      "meaning": "不加质疑地相信说法",
+      "collocation": "avoid taking a claim at face value",
+      "collocationCN": "避免轻信某项说法"
+    },
+    {
+      "word": "scroll past",
+      "ipa": "/skrəʊl ˈpɑːst/",
+      "meaning": "滑过不看",
+      "collocation": "scroll past unreliable posts",
+      "collocationCN": "滑过不可靠的帖子"
+    },
+    {
+      "word": "check the small print",
+      "ipa": "/tʃek ðə ˌsmɔːl ˈprɪnt/",
+      "meaning": "查看细则",
+      "collocation": "check the small print beneath a chart",
+      "collocationCN": "查看图表下方的细则"
+    },
+    {
+      "word": "make an informed judgement",
+      "ipa": "/meɪk ən ɪnˌfɔːmd ˈdʒʌdʒmənt/",
+      "meaning": "作出知情判断",
+      "collocation": "make an informed judgement about a report",
+      "collocationCN": "对报道作出知情判断"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "false information",
+      "options": [
+        "inaccurate material",
+        "misleading content",
+        "an unsupported claim"
+      ],
+      "note": "misleading 不一定表示发布者有意欺骗。"
+    },
+    {
+      "base": "reliable source",
+      "options": [
+        "credible publisher",
+        "trustworthy outlet",
+        "authoritative source"
+      ],
+      "note": "authoritative 常指具备专业权威的信息来源。"
+    },
+    {
+      "base": "check the facts",
+      "options": [
+        "verify the evidence",
+        "confirm the details",
+        "test the claim"
+      ],
+      "note": "verify the evidence 适合学术和新闻语境。"
+    },
+    {
+      "base": "influence public opinion",
+      "options": [
+        "shape public attitudes",
+        "affect audience perceptions",
+        "alter the public debate"
+      ],
+      "note": "shape 强调逐步形成看法。"
+    },
+    {
+      "base": "one-sided report",
+      "options": [
+        "biased account",
+        "selective presentation",
+        "unbalanced coverage"
+      ],
+      "note": "selective presentation 指只展示部分证据。"
+    },
+    {
+      "base": "widely shared",
+      "options": [
+        "circulated extensively",
+        "distributed across platforms",
+        "reposted by large audiences"
+      ],
+      "note": "circulated extensively 适合正式描述传播。"
+    },
+    {
+      "base": "understand the message",
+      "options": [
+        "interpret the content",
+        "identify the intended meaning",
+        "evaluate what is communicated"
+      ],
+      "note": "evaluate 还包含判断质量与意图。"
+    },
+    {
+      "base": "online information",
+      "options": [
+        "digital content",
+        "material found on the internet",
+        "web-based information"
+      ],
+      "note": "digital content 可包括文字、图片和视频。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "The fact that + a post or image + has been widely shared does not mean that + it is reliable.",
+      "cn": "某项内容被广泛分享，并不意味着它具备某种可靠性。",
+      "example": "The fact that a video has been widely shared does not mean that its caption is accurate."
+    },
+    {
+      "pattern": "Before accepting + an online claim, readers should establish who + created it + and what evidence supports it.",
+      "cn": "读者在接受某项说法前，应确认是谁发布了它以及依据何种证据。",
+      "example": "Before accepting a health claim, readers should establish who published it and on what evidence."
+    },
+    {
+      "pattern": "What appears to be + independent advice + may in fact be + advertising, particularly when + payment or sponsorship is hidden.",
+      "cn": "看似某类媒体内容的材料，实际上可能具有隐蔽目的，尤其当某种线索出现时。",
+      "example": "What appears to be an independent review may in fact be an advertisement, particularly when sponsorship is disclosed only at the end."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "read beyond the headline",
+      "cn": "阅读标题之外的正文",
+      "example": "I try to read beyond the headline before sharing a story."
+    },
+    {
+      "text": "ring alarm bells",
+      "cn": "敲响警钟；引起警觉",
+      "example": "An unnamed expert and an urgent demand should ring alarm bells."
+    },
+    {
+      "text": "get the wrong end of the stick",
+      "cn": "误解原意",
+      "example": "People can get the wrong end of the stick when a quotation loses its context."
+    },
+    {
+      "text": "distinguish fact from opinion",
+      "cn": "区分事实与观点",
+      "example": "Students need practice in distinguishing fact from opinion."
+    },
+    {
+      "text": "present a balanced account",
+      "cn": "提供平衡的论述",
+      "example": "Responsible reporting should present a balanced account of disputed evidence."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I saw a news on social media.",
+      "correct": "I saw a news report on social media.",
+      "why": "news 是不可数名词；单条新闻可说 a news report。"
+    },
+    {
+      "wrong": "This information may be a fake news.",
+      "correct": "This information may be false, or it may be an example of fake news.",
+      "why": "fake news 通常作为不可数概念使用，不能直接加 a。"
+    },
+    {
+      "wrong": "We should doubt about every online article.",
+      "correct": "We should question every online article.",
+      "why": "doubt 作及物动词时不接 about；此处 question 更自然。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Media-literacy lessons should use real material.",
+      "topicSentence": "Students learn to evaluate media more effectively when they examine authentic posts, reports and images.",
+      "collocations": [
+        "trace an original source",
+        "identify missing context",
+        "compare competing accounts",
+        "justify an evaluation"
+      ],
+      "argument": "Definitions of bias are easy to memorise but difficult to apply when a polished video arrives through a trusted friend. In class, students can trace a current claim to its first publication, compare how several outlets frame it and explain which evidence changes their judgement. This process reveals that reliability is rarely determined by one visual clue. For example, a genuine photograph may still be paired with a false date. Guided analysis of real material therefore develops habits that transfer beyond an examination."
+    },
+    {
+      "viewpoint": "Platforms and users have different but connected responsibilities.",
+      "topicSentence": "Improving the information environment requires both careful individual judgement and changes to platform design.",
+      "collocations": [
+        "slow the spread of misinformation",
+        "label manipulated media",
+        "reward user engagement",
+        "share responsibility"
+      ],
+      "argument": "A user decides whether to repost a doubtful claim, but platforms determine which material receives rapid and repeated exposure. Systems designed mainly to reward engagement can amplify outrage before verification catches up. Platforms should label manipulated media, provide context from independent sources and reduce incentives for accounts that repeatedly distribute falsehoods. Individuals must still pause, cross-check and correct mistakes because no automated system understands every context. Responsibility should be shared in proportion to each party’s control over the spread of information."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a time when you discovered that some information was misleading.",
+      "answer": "I once saw a post claiming that a familiar food product had been recalled for safety reasons. The image looked official, and several friends had already forwarded it, so my first reaction was to believe it. Before passing it on, I searched the manufacturer’s website and found a genuine recall notice from three years earlier. Someone had removed the date and presented it as current news. I sent the updated link to the group and explained the mistake. What surprised me was that the photograph itself had not been edited; the missing context created the false impression. Since then, I have become much more careful about dates and original sources, especially when a post creates a sense of urgency."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why do people share stories without checking whether they are true?",
+      "answer": "Speed and emotion are probably the main reasons. People often encounter a story while doing something else, and sharing it takes only a second, whereas checking requires attention. A report that confirms an existing belief or creates anger also feels worth passing on immediately. In addition, users may trust the friend who sent it even though that friend did not create the content. I do not think most people intend to mislead others. Platforms could add useful friction, but individuals also need the habit of opening the article and checking its source before they amplify it."
+    }
+  ],
+  "reading": {
+    "title": "A Photograph Can Be Genuine and Still Mislead",
+    "paragraphs": [
+      "Fact-checking advice often begins with image manipulation: look for an unnatural shadow, a repeated shape or a face produced by artificial intelligence. These clues matter, yet some of the most persuasive visual misinformation uses photographs that have not been altered at all. The deception lies instead in the relationship between an authentic image and the words, date or location attached to it.",
+      "During a flood, for example, an old photograph of a submerged road may circulate as evidence of current conditions in another country. A reverse-image search can reveal its earlier publication, but even that result requires interpretation. News organisations legitimately reuse archive photographs when they are clearly labelled, while social-media users may repost an image without knowing its origin. The central question is not simply whether the pixels are genuine but whether the new presentation supports the claim being made.",
+      "Captions have particular power because readers tend to treat them as instructions for seeing. In one experiment, participants who viewed the same crowd photograph with different political descriptions reported noticing different emotions and intentions. The image did not settle the disagreement; its ambiguity allowed each caption to organise attention. Where a photograph captures only a fraction of an event, material immediately outside the frame may also change its meaning—a quiet counter-protest, for instance, or the barrier that explains why people are running.",
+      "Verification teams combine several methods. They inspect landmarks, weather records and shadows; compare uploads to locate the earliest version; and contact photographers or local witnesses. None of these techniques is infallible in isolation. A timestamp may reflect the device setting rather than the moment of capture, and an early upload may still contain a false description. Confidence grows when independent clues converge.",
+      "Visual literacy therefore involves more than detecting sophisticated fakes. Readers should ask who supplied an image, what claim the caption adds and whether reliable sources place the scene in the same context. This approach is slower than reacting to a dramatic picture, but it prevents authenticity from becoming a shortcut to accuracy. A real photograph is evidence of something; careful verification establishes what."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for Paragraph C.",
+        "answer": "The influence of captions on what viewers perceive",
+        "explanation": "Paragraph C explains that captions direct attention and interpretation."
+      },
+      {
+        "type": "Yes / No / Not Given",
+        "prompt": "According to the writer, the earliest online upload is always accurately described.",
+        "answer": "No",
+        "explanation": "Paragraph D says an early upload may still contain a false description."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What kind of search can help reveal an image’s earlier publication?",
+        "answer": "a reverse-image search",
+        "explanation": "Paragraph B names this method directly."
+      }
+    ]
+  }
+}

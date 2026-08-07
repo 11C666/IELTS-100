@@ -1,0 +1,355 @@
+{
+  "id": 92,
+  "topic": "International Aid",
+  "topicCN": "国际援助",
+  "category": "Global Issues",
+  "vocabulary": [
+    {
+      "word": "international aid",
+      "ipa": "/ˌɪntəˈnæʃənəl eɪd/",
+      "meaning": "国际援助",
+      "collocation": "deliver international aid",
+      "collocationCN": "提供国际援助"
+    },
+    {
+      "word": "humanitarian relief",
+      "ipa": "/hjuːˌmænɪˈteəriən rɪˈliːf/",
+      "meaning": "人道主义救援",
+      "collocation": "provide humanitarian relief",
+      "collocationCN": "提供人道救援"
+    },
+    {
+      "word": "development assistance",
+      "ipa": "/dɪˈveləpmənt əˌsɪstəns/",
+      "meaning": "发展援助",
+      "collocation": "receive development assistance",
+      "collocationCN": "接受发展援助"
+    },
+    {
+      "word": "donor country",
+      "ipa": "/ˈdəʊnə ˌkʌntri/",
+      "meaning": "援助国",
+      "collocation": "commit donor funding",
+      "collocationCN": "承诺援助资金"
+    },
+    {
+      "word": "recipient community",
+      "ipa": "/rɪˈsɪpiənt kəˌmjuːnəti/",
+      "meaning": "受援社区",
+      "collocation": "consult recipient communities",
+      "collocationCN": "咨询受援社区"
+    },
+    {
+      "word": "emergency response",
+      "ipa": "/ɪˌmɜːdʒənsi rɪˈspɒns/",
+      "meaning": "应急响应",
+      "collocation": "coordinate an emergency response",
+      "collocationCN": "协调应急响应"
+    },
+    {
+      "word": "food security",
+      "ipa": "/ˈfuːd sɪˌkjʊərəti/",
+      "meaning": "粮食安全",
+      "collocation": "strengthen food security",
+      "collocationCN": "加强粮食安全"
+    },
+    {
+      "word": "capacity building",
+      "ipa": "/kəˈpæsəti ˌbɪldɪŋ/",
+      "meaning": "能力建设",
+      "collocation": "invest in capacity building",
+      "collocationCN": "投资能力建设"
+    },
+    {
+      "word": "local ownership",
+      "ipa": "/ˌləʊkəl ˈəʊnəʃɪp/",
+      "meaning": "本地主导权",
+      "collocation": "ensure local ownership",
+      "collocationCN": "确保本地主导"
+    },
+    {
+      "word": "aid dependency",
+      "ipa": "/ˈeɪd dɪˌpendənsi/",
+      "meaning": "援助依赖",
+      "collocation": "avoid aid dependency",
+      "collocationCN": "避免援助依赖"
+    },
+    {
+      "word": "accountability",
+      "ipa": "/əˌkaʊntəˈbɪləti/",
+      "meaning": "问责",
+      "collocation": "strengthen accountability",
+      "collocationCN": "加强问责"
+    },
+    {
+      "word": "conditional aid",
+      "ipa": "/kənˌdɪʃənəl ˈeɪd/",
+      "meaning": "附带条件的援助",
+      "collocation": "attach conditions to aid",
+      "collocationCN": "为援助附加条件"
+    },
+    {
+      "word": "grassroots organisation",
+      "ipa": "/ˈɡrɑːsruːts ˌɔːɡənaɪzeɪʃən/",
+      "meaning": "基层组织",
+      "collocation": "fund grassroots organisations",
+      "collocationCN": "资助基层组织"
+    },
+    {
+      "word": "needs assessment",
+      "ipa": "/ˈniːdz əˌsesmənt/",
+      "meaning": "需求评估",
+      "collocation": "conduct a needs assessment",
+      "collocationCN": "开展需求评估"
+    },
+    {
+      "word": "long-term resilience",
+      "ipa": "/ˌlɒŋ tɜːm rɪˈzɪliəns/",
+      "meaning": "长期韧性",
+      "collocation": "build long-term resilience",
+      "collocationCN": "建立长期韧性"
+    },
+    {
+      "word": "get supplies through",
+      "ipa": "/ɡet səˈplaɪz θruː/",
+      "meaning": "把物资运送到位",
+      "collocation": "get supplies through damaged roads",
+      "collocationCN": "通过受损道路运送物资"
+    },
+    {
+      "word": "respond to urgent needs",
+      "ipa": "/rɪˌspɒnd tə ˌɜːdʒənt ˈniːdz/",
+      "meaning": "回应紧急需求",
+      "collocation": "respond to urgent needs quickly",
+      "collocationCN": "迅速回应紧急需求"
+    },
+    {
+      "word": "work on the ground",
+      "ipa": "/wɜːk ɒn ðə ˈɡraʊnd/",
+      "meaning": "在当地一线工作",
+      "collocation": "organisations working on the ground",
+      "collocationCN": "在当地一线工作的组织"
+    },
+    {
+      "word": "make funds go further",
+      "ipa": "/meɪk fʌndz ɡəʊ ˈfɜːðə/",
+      "meaning": "提高资金使用效益",
+      "collocation": "local purchasing makes funds go further",
+      "collocationCN": "本地采购提高资金效益"
+    },
+    {
+      "word": "rebuild livelihoods",
+      "ipa": "/ˌriːbɪld ˈlaɪvlihʊdz/",
+      "meaning": "重建生计",
+      "collocation": "help families rebuild livelihoods",
+      "collocationCN": "帮助家庭重建生计"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "help poorer countries",
+      "options": [
+        "provide development assistance",
+        "support lower-income states",
+        "finance programmes in resource-constrained settings"
+      ],
+      "note": "lower-income比poor更中性。"
+    },
+    {
+      "base": "emergency help",
+      "options": [
+        "humanitarian relief",
+        "life-saving assistance",
+        "support delivered during a crisis"
+      ],
+      "note": "humanitarian侧重紧急人道需求。"
+    },
+    {
+      "base": "give money",
+      "options": [
+        "provide funding",
+        "disburse financial assistance",
+        "allocate resources to a programme"
+      ],
+      "note": "disburse强调实际拨付。"
+    },
+    {
+      "base": "people receiving help",
+      "options": [
+        "aid recipients",
+        "recipient communities",
+        "populations targeted by assistance"
+      ],
+      "note": "community避免把人写成被动对象。"
+    },
+    {
+      "base": "know what people need",
+      "options": [
+        "conduct a needs assessment",
+        "identify locally defined priorities",
+        "establish which needs are most urgent"
+      ],
+      "note": "locally defined强调参与。"
+    },
+    {
+      "base": "teach useful skills",
+      "options": [
+        "build local capacity",
+        "strengthen professional capability",
+        "develop skills that remain after a project"
+      ],
+      "note": "capacity不只是培训。"
+    },
+    {
+      "base": "check where money goes",
+      "options": [
+        "ensure financial accountability",
+        "track aid expenditure",
+        "verify how resources are used"
+      ],
+      "note": "accountability还包括结果责任。"
+    },
+    {
+      "base": "depend on aid",
+      "options": [
+        "become aid-dependent",
+        "rely persistently on external assistance",
+        "lack a sustainable domestic alternative"
+      ],
+      "note": "dependency不是短期受援。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Aid is more likely to + lasting result + when + local actor + decides + priority or method.",
+      "cn": "当本地参与者决定重点或实施方式时，援助更可能产生持久效果。",
+      "example": "Aid is more likely to strengthen clinics when local health workers decide which equipment is practical."
+    },
+    {
+      "pattern": "What is urgently needed during + crisis + may differ from what will + long-term outcome + once + immediate stage ends.",
+      "cn": "危机期间的紧急需求，可能不同于紧急阶段结束后实现长期结果所需的条件。",
+      "example": "What is urgently needed during a flood may differ from what will rebuild livelihoods once the water recedes."
+    },
+    {
+      "pattern": "Unless + resource + is accompanied by + supporting condition, it may + unintended result rather than + intended result.",
+      "cn": "除非某种资源配有必要支持条件，否则它可能造成意外结果，而非预期效果。",
+      "example": "Unless donated machinery is accompanied by spare parts and training, it may occupy storage rather than improve production."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "meet people’s immediate needs",
+      "cn": "满足人们的即时需求",
+      "example": "Clean water must meet people’s immediate needs after a disaster."
+    },
+    {
+      "text": "ask communities what works",
+      "cn": "询问社区什么办法有效",
+      "example": "Good agencies ask communities what works locally."
+    },
+    {
+      "text": "stay after the cameras leave",
+      "cn": "在媒体关注消退后仍持续投入",
+      "example": "Recovery partners need to stay after the cameras leave."
+    },
+    {
+      "text": "strengthen local capacity",
+      "cn": "增强本地能力",
+      "example": "Training technicians can strengthen local capacity."
+    },
+    {
+      "text": "turn short-term relief into recovery",
+      "cn": "把短期救济转化为复苏",
+      "example": "Cash support can turn short-term relief into recovery."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "The country received many aids.",
+      "correct": "The country received a great deal of aid.",
+      "why": "aid表示援助时通常不可数。"
+    },
+    {
+      "wrong": "Donors should assist to local farmers.",
+      "correct": "Donors should assist local farmers.",
+      "why": "assist作及物动词时直接接人，不加to。"
+    },
+    {
+      "wrong": "The project provided villagers new tools.",
+      "correct": "The project provided villagers with new tools.",
+      "why": "provide somebody with something是固定结构。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Cash can be more effective than donated goods after some emergencies.",
+      "topicSentence": "Where local markets still function, cash assistance gives affected families flexibility and supports nearby businesses.",
+      "collocations": [
+        "provide flexible assistance",
+        "support local markets",
+        "reduce transport costs",
+        "respect household priorities"
+      ],
+      "argument": "A standard parcel assumes that every household requires the same items, although one family may need medicine while another needs transport. Cash allows each to respond to its own most urgent constraint. It can also be spent with local traders, helping commercial activity recover instead of importing goods that compete with it. Cash is unsuitable where supplies are unavailable or prices are being manipulated, so market monitoring remains essential. The best emergency tool should follow local conditions rather than donor convenience."
+    },
+    {
+      "viewpoint": "Development projects need local ownership.",
+      "topicSentence": "Assistance is unlikely to last when recipients inherit a system they did not help design.",
+      "collocations": [
+        "consult recipient communities",
+        "use local expertise",
+        "fund ongoing maintenance",
+        "create institutional ownership"
+      ],
+      "argument": "A donor may build a technically impressive water system, but its pumps will fail if replacement parts cannot be purchased locally. Involving local engineers and users at the design stage can reveal such constraints before money is spent. Responsibility for fees, repairs and oversight should also be agreed with an institution that will remain after foreign staff leave. This approach may slow the opening ceremony, yet it increases the chance that services still function five years later. Sustainable aid transfers decision-making capacity as well as physical resources."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a charity or aid project that you think is practical.",
+      "answer": "I once read about a project that funds bicycles for community health workers in remote districts. The workers already had medical training, but walking between villages limited the number of families they could visit. A robust bicycle, basic repair tools and local maintenance training allowed them to carry supplies and reach patients more regularly. I find the project practical because it solves a clearly identified transport problem without introducing complicated technology. It also relies on people who already understand the community. Of course, a bicycle cannot replace a clinic or an ambulance, but in the right geography it makes existing health skills far more useful. That modest fit between the tool and the need is what impressed me."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why do some aid projects fail?",
+      "answer": "Sometimes donors begin with a product they want to provide instead of a problem that communities have identified. Projects can also overlook maintenance costs, local skills or political relationships. A school building, for instance, achieves little without teachers and a reliable operating budget. Short funding cycles encourage organisations to report quick outputs such as items distributed rather than harder long-term outcomes. Corruption can be a factor, but it should not become a convenient explanation for every failure. Better consultation, transparent spending and independent evaluation can expose whether the original design was realistic."
+    }
+  ],
+  "reading": {
+    "title": "After the Free Tractors Stopped",
+    "paragraphs": [
+      "Following three seasons of poor harvests, a farming district received sixty imported tractors through an international assistance programme. Photographs of the handover showed polished machines lined beside the provincial office. The aim was reasonable: faster land preparation would allow farmers to plant during a shorter rainy season. Within eighteen months, however, fewer than half the tractors were operating regularly.",
+      "An evaluation found no single dramatic failure. The machines were designed for larger fields than the narrow local plots, fuel had to be purchased in a town two hours away, and one specialised filter was unavailable nationally. Training had been given to drivers but not to mechanics. Moreover, the tractors were assigned to village committees without a clear agreement about booking, fees or responsibility for damage. Each obstacle was manageable; together they made use unreliable.",
+      "A second programme began with the same agricultural goal but a different question: what prevented timely planting? Farmers identified several answers, including labour peaks, broken animal-drawn ploughs and lack of short-term credit. Instead of distributing one technology, the programme funded local repair shops, tested several smaller machines and created a rental service managed by an existing cooperative. During the first year, only twelve machines were available, yet they completed more field days than the original fleet.",
+      "The comparison does not prove that imported equipment is always unsuitable. Some components still came from abroad, and larger farms used the earlier tractors successfully once spare parts arrived. The important difference was institutional rather than national: the later scheme financed maintenance, clarified access and allowed several tools to address several constraints.",
+      "Aid is often evaluated by what can be counted at delivery—a sum transferred, a well opened or a machine handed over. These figures demonstrate activity, but continued use reveals whether activity became capacity. In the farming district, the quieter investment in repair skills produced fewer ceremonial photographs and more reliable planting days."
+    ],
+    "questions": [
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph lists several small problems that combined to limit tractor use?",
+        "answer": "B",
+        "explanation": "Paragraph B lists field size, fuel, filters, training and unclear responsibility."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "The second programme purchased no equipment from abroad.",
+        "answer": "False",
+        "explanation": "The passage says some components still came from abroad."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What central lesson does the comparison illustrate?",
+        "answer": "C",
+        "explanation": "Lasting usefulness depended on maintenance, access rules and responses to varied constraints.",
+        "options": [
+          "Imported machinery is never useful.",
+          "Farmers prefer animal-drawn ploughs.",
+          "Support systems matter as much as delivered equipment.",
+          "Aid should be evaluated through photographs."
+        ]
+      }
+    ]
+  }
+}

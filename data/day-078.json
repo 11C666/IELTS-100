@@ -1,0 +1,349 @@
+{
+  "id": 78,
+  "topic": "Biodiversity",
+  "topicCN": "生物多样性",
+  "category": "Environment",
+  "vocabulary": [
+    {
+      "word": "biodiversity",
+      "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+      "meaning": "生物多样性",
+      "collocation": "conserve biodiversity",
+      "collocationCN": "保护生物多样性"
+    },
+    {
+      "word": "species richness",
+      "ipa": "/ˈspiːʃiːz ˌrɪtʃnəs/",
+      "meaning": "物种丰富度",
+      "collocation": "measure species richness",
+      "collocationCN": "衡量物种丰富度"
+    },
+    {
+      "word": "habitat loss",
+      "ipa": "/ˈhæbɪtæt lɒs/",
+      "meaning": "栖息地丧失",
+      "collocation": "reverse habitat loss",
+      "collocationCN": "扭转栖息地丧失"
+    },
+    {
+      "word": "ecosystem",
+      "ipa": "/ˈiːkəʊˌsɪstəm/",
+      "meaning": "生态系统",
+      "collocation": "restore a damaged ecosystem",
+      "collocationCN": "修复受损生态系统"
+    },
+    {
+      "word": "ecological corridor",
+      "ipa": "/ˌiːkəˈlɒdʒɪkəl ˈkɒrɪdɔː/",
+      "meaning": "生态廊道",
+      "collocation": "create an ecological corridor",
+      "collocationCN": "建立生态廊道"
+    },
+    {
+      "word": "native species",
+      "ipa": "/ˈneɪtɪv ˌspiːʃiːz/",
+      "meaning": "本地物种",
+      "collocation": "plant native species",
+      "collocationCN": "种植本地物种"
+    },
+    {
+      "word": "invasive species",
+      "ipa": "/ɪnˈveɪsɪv ˌspiːʃiːz/",
+      "meaning": "入侵物种",
+      "collocation": "control an invasive species",
+      "collocationCN": "控制入侵物种"
+    },
+    {
+      "word": "pollinator",
+      "ipa": "/ˈpɒləneɪtə/",
+      "meaning": "传粉者",
+      "collocation": "protect wild pollinators",
+      "collocationCN": "保护野生传粉者"
+    },
+    {
+      "word": "genetic diversity",
+      "ipa": "/dʒəˌnetɪk daɪˈvɜːsəti/",
+      "meaning": "遗传多样性",
+      "collocation": "maintain genetic diversity",
+      "collocationCN": "维持遗传多样性"
+    },
+    {
+      "word": "food web",
+      "ipa": "/ˈfuːd web/",
+      "meaning": "食物网",
+      "collocation": "disrupt a food web",
+      "collocationCN": "扰乱食物网"
+    },
+    {
+      "word": "keystone species",
+      "ipa": "/ˈkiːstəʊn ˌspiːʃiːz/",
+      "meaning": "关键物种",
+      "collocation": "identify a keystone species",
+      "collocationCN": "识别关键物种"
+    },
+    {
+      "word": "population decline",
+      "ipa": "/ˌpɒpjəˈleɪʃən dɪklaɪn/",
+      "meaning": "种群下降",
+      "collocation": "document a population decline",
+      "collocationCN": "记录种群下降"
+    },
+    {
+      "word": "conservation status",
+      "ipa": "/ˌkɒnsəˈveɪʃən ˈsteɪtəs/",
+      "meaning": "保护状况",
+      "collocation": "assess conservation status",
+      "collocationCN": "评估保护状况"
+    },
+    {
+      "word": "habitat fragment",
+      "ipa": "/ˈhæbɪtæt ˌfræɡmənt/",
+      "meaning": "栖息地碎片",
+      "collocation": "connect habitat fragments",
+      "collocationCN": "连接栖息地碎片"
+    },
+    {
+      "word": "ecosystem service",
+      "ipa": "/ˈiːkəʊsɪstəm ˌsɜːvɪs/",
+      "meaning": "生态系统服务",
+      "collocation": "value an ecosystem service",
+      "collocationCN": "重视生态系统服务"
+    },
+    {
+      "word": "spot wildlife",
+      "ipa": "/spɒt ˈwaɪldlaɪf/",
+      "meaning": "发现野生动物",
+      "collocation": "spot wildlife in the park",
+      "collocationCN": "在公园看到野生动物"
+    },
+    {
+      "word": "leave an area undisturbed",
+      "ipa": "/liːv ən ˈeəriə ˌʌndɪˈstɜːbd/",
+      "meaning": "让区域不受干扰",
+      "collocation": "leave nesting areas undisturbed",
+      "collocationCN": "不打扰筑巢区域"
+    },
+    {
+      "word": "grow wild",
+      "ipa": "/ɡrəʊ waɪld/",
+      "meaning": "自然生长",
+      "collocation": "let a corner grow wild",
+      "collocationCN": "让一角自然生长"
+    },
+    {
+      "word": "raise awareness",
+      "ipa": "/reɪz əˈweənəs/",
+      "meaning": "提高意识",
+      "collocation": "raise awareness of local species",
+      "collocationCN": "提高对本地物种的认识"
+    },
+    {
+      "word": "evidence-based conservation",
+      "ipa": "/ˈevɪdəns beɪst ˌkɒnsəˈveɪʃən/",
+      "meaning": "循证保护",
+      "collocation": "fund evidence-based conservation",
+      "collocationCN": "资助循证保护"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "many species",
+      "options": [
+        "high species richness",
+        "a diverse range of species",
+        "substantial biological diversity"
+      ],
+      "note": "richness是可测量概念。"
+    },
+    {
+      "base": "protect nature",
+      "options": [
+        "conserve biodiversity",
+        "safeguard ecosystems",
+        "maintain ecological integrity"
+      ],
+      "note": "integrity强调系统结构与功能。"
+    },
+    {
+      "base": "loss of habitat",
+      "options": [
+        "habitat destruction",
+        "the contraction of suitable habitat",
+        "declining habitat extent and quality"
+      ],
+      "note": "最后一项兼顾面积和质量。"
+    },
+    {
+      "base": "animals move between areas",
+      "options": [
+        "species disperse across landscapes",
+        "wildlife travels between habitats",
+        "populations remain ecologically connected"
+      ],
+      "note": "connected强调基因交流。"
+    },
+    {
+      "base": "important species",
+      "options": [
+        "ecologically significant species",
+        "a species with a disproportionate role",
+        "a keystone species"
+      ],
+      "note": "keystone不能泛指所有重要物种。"
+    },
+    {
+      "base": "nature helps people",
+      "options": [
+        "ecosystems provide services",
+        "biodiversity supports human well-being",
+        "ecological processes generate public benefits"
+      ],
+      "note": "services可包括授粉、防洪等。"
+    },
+    {
+      "base": "numbers fall",
+      "options": [
+        "populations decline",
+        "abundance decreases",
+        "a species undergoes sustained decline"
+      ],
+      "note": "abundance比species number准确。"
+    },
+    {
+      "base": "bring nature back",
+      "options": [
+        "restore habitat",
+        "support ecological recovery",
+        "re-establish functioning ecosystems"
+      ],
+      "note": "restore不一定恢复到某个完美历史状态。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A site may contain + many species + while lacking + the habitat quality + that enables them to + survive and reproduce.",
+      "cn": "某地可能拥有一定数量的物种，却缺乏让它们发挥功能的生态质量。",
+      "example": "A park may contain many plant species while lacking the connected habitat that enables pollinators to survive year-round."
+    },
+    {
+      "pattern": "The species on which + an ecosystem + depends may not be the ones that + attract the most public attention.",
+      "cn": "某生态系统所依赖的物种可能并不是最受公众关注的物种。",
+      "example": "The species on which soil renewal depends may not be the ones that attract conservation campaigns."
+    },
+    {
+      "pattern": "By reconnecting + fragmented habitats, a conservation project allows + wildlife populations + to + move and breed, thereby + improving long-term survival.",
+      "cn": "通过重新连接破碎区域，项目使种群获得益处，从而带来更广泛结果。",
+      "example": "By reconnecting woodland fragments, the corridor allows mammals to disperse, thereby maintaining genetic diversity."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "a haven for wildlife",
+      "cn": "野生动物的安居地",
+      "example": "The wetland is a haven for migratory birds."
+    },
+    {
+      "text": "let nature take its course",
+      "cn": "让自然按自身规律发展",
+      "example": "In one section, managers let nature take its course."
+    },
+    {
+      "text": "see a species in the wild",
+      "cn": "在野外看到某物种",
+      "example": "I would love to see an otter in the wild."
+    },
+    {
+      "text": "restore ecological connectivity",
+      "cn": "恢复生态连通性",
+      "example": "Hedgerows can restore ecological connectivity."
+    },
+    {
+      "text": "support a functioning ecosystem",
+      "cn": "维持正常运作的生态系统",
+      "example": "Conservation should support a functioning ecosystem, not just a species list."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Many animals are in danger to disappear.",
+      "correct": "Many animal species are at risk of disappearing.",
+      "why": "固定搭配是at risk of doing。"
+    },
+    {
+      "wrong": "The biodiversity is important for human.",
+      "correct": "Biodiversity is important for humans.",
+      "why": "泛指biodiversity不加the；human作名词通常用复数。"
+    },
+    {
+      "wrong": "We should protect wild lives.",
+      "correct": "We should protect wildlife.",
+      "why": "wildlife是不可数集合名词，不能拆成wild lives。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Habitat connectivity can outperform isolated protection.",
+      "topicSentence": "Protected areas deliver limited benefits if wildlife cannot move between them.",
+      "collocations": [
+        "connect fragmented habitats",
+        "maintain genetic diversity",
+        "enable seasonal movement",
+        "plan across boundaries"
+      ],
+      "argument": "A small reserve may protect breeding habitat yet leave feeding grounds or migration routes exposed. When roads and intensive land use isolate populations, genetic diversity can decline even inside a well-managed site. Corridors such as hedgerows, river margins and wildlife crossings allow movement between habitat fragments. The most effective route will depend on the target species rather than a standard strip of greenery. Conservation planning should therefore treat reserves as parts of a landscape network, not as self-contained islands."
+    },
+    {
+      "viewpoint": "Urban biodiversity policy should prioritise ecological function over decorative variety.",
+      "topicSentence": "A visually diverse planting scheme is not necessarily valuable to local wildlife.",
+      "collocations": [
+        "plant native vegetation",
+        "provide year-round resources",
+        "avoid intensive maintenance",
+        "support local food webs"
+      ],
+      "argument": "A garden containing many ornamental species may offer little pollen, shelter or food for native insects. By contrast, fewer carefully selected plants can flower across seasons and support several stages of a pollinator’s life. Reducing pesticide use and leaving some dead wood may look less tidy but add essential habitat. Public explanation is important because residents may otherwise interpret ecological management as neglect. The goal should be a functioning urban ecosystem rather than the longest possible plant list."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 2",
+      "question": "Describe a place where you have seen interesting wildlife.",
+      "answer": "I have seen the most interesting wildlife at a wetland park on the edge of the city. A raised wooden path crosses shallow pools, so visitors can watch birds without entering their feeding areas. On my last visit, I saw a kingfisher for the first time. It appeared only briefly as a bright blue movement above the water, but a volunteer helped me identify it. I also noticed insects, frogs and plants that I would normally overlook. The park is not completely wild because water levels and visitor routes are managed, yet it feels much more alive than a decorative urban lake. That visit made me understand biodiversity as a network of ordinary species, not only rare animals."
+    },
+    {
+      "part": "Part 3",
+      "question": "Why do conservation campaigns often focus on attractive animals?",
+      "answer": "An appealing animal gives a campaign a memorable image and makes an unfamiliar ecological problem easier to communicate. People may donate more readily to protect a tiger than a fungus or soil insect. This attention can benefit a wider habitat if the chosen animal needs a large and healthy ecosystem. However, funding can become distorted when appearance rather than ecological importance sets priorities. Campaigns should use familiar species as an entry point while explaining the less visible organisms and processes on which the whole system depends."
+    }
+  ],
+  "reading": {
+    "title": "The Meadow That Looked Untidy",
+    "paragraphs": [
+      "When a university stopped mowing several lawns every week, complaints arrived before the wildflowers did. Students described the long grass as neglected, and maintenance staff worried that litter would be harder to find. The project had been created to support insects, but its first challenge was cultural: for many users, short grass signalled care, whereas unmanaged height suggested that nobody was responsible.",
+      "Ecologists did not simply abandon the sites. They selected sunny areas connected to hedges, removed cut vegetation so that nutrient-loving grasses would not dominate and retained narrow mown paths. Surveys recorded plants and pollinators before the change and at fixed intervals afterwards. One lawn produced more flowers but few additional bee species because it remained isolated between buildings; another, adjoining gardens and a railway edge, became part of a longer foraging route.",
+      "The contrast altered the next phase. Rather than converting the greatest possible area, the team mapped where insects could move and where nesting material was available. Some small patches, positioned between larger habitats, were judged more useful than extensive but disconnected grass. This finding, which surprised administrators accustomed to measuring environmental projects by area, shifted attention from the quantity of meadow to its ecological relationship with surrounding land.",
+      "Public acceptance also improved once intention became visible. Low signs named several plants, while neatly cut borders showed that the longer vegetation was deliberate. The university kept open lawns for sport and social events instead of presenting biodiversity as the only valid use. Complaints declined, although some users still preferred the earlier appearance.",
+      "After four years, the project reported greater pollinator abundance in connected sites, not a universal increase everywhere. Its value lay partly in that uneven result. The campus became a field experiment showing that urban nature needs design, monitoring and explanation. Letting grass grow was the visible action; understanding where that action supported a functioning habitat was the more demanding work."
+    ],
+    "questions": [
+      {
+        "type": "Summary Completion",
+        "prompt": "The first challenge faced by the meadow project was primarily ______ rather than ecological.",
+        "answer": "cultural",
+        "explanation": "Paragraph 1 explicitly calls the first challenge cultural."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph describes administrators changing the way they measured the project?",
+        "answer": "C",
+        "explanation": "Paragraph C says attention shifted from area to ecological relationships."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Every converted lawn experienced an increase in bee species.",
+        "answer": "False",
+        "explanation": "Paragraphs 2 and 5 state that results were uneven."
+      }
+    ]
+  }
+}

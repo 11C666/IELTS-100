@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "topic": "Education",
+    "topicCN": "教育",
+    "category": "Education"
+  },
+  {
+    "id": 2,
+    "topic": "Daily Routine",
+    "topicCN": "日常作息",
+    "category": "Daily Life"
+  },
+  {
+    "id": 3,
+    "topic": "Technology in Daily Life",
+    "topicCN": "日常科技",
+    "category": "Technology"
+  },
+  {
+    "id": 4,
+    "topic": "Family Relationships",
+    "topicCN": "家庭关系",
+    "category": "Daily Life"
+  },
+  {
+    "id": 5,
+    "topic": "Friendship",
+    "topicCN": "友谊",
+    "category": "Daily Life"
+  },
+  {
+    "id": 6,
+    "topic": "Personality",
+    "topicCN": "性格",
+    "category": "Daily Life"
+  },
+  {
+    "id": 7,
+    "topic": "Hobbies and Free Time",
+    "topicCN": "爱好与休闲",
+    "category": "Daily Life"
+  },
+  {
+    "id": 8,
+    "topic": "Reading Habits",
+    "topicCN": "阅读习惯",
+    "category": "Daily Life"
+  },
+  {
+    "id": 9,
+    "topic": "Films and Cinema",
+    "topicCN": "电影与影院",
+    "category": "Culture"
+  },
+  {
+    "id": 10,
+    "topic": "Music",
+    "topicCN": "音乐",
+    "category": "Culture"
+  },
+  {
+    "id": 11,
+    "topic": "Sports and Fitness",
+    "topicCN": "运动与健身",
+    "category": "Health"
+  },
+  {
+    "id": 12,
+    "topic": "Food and Cooking",
+    "topicCN": "食物与烹饪",
+    "category": "Daily Life"
+  },
+  {
+    "id": 13,
+    "topic": "Shopping Habits",
+    "topicCN": "购物习惯",
+    "category": "Daily Life"
+  },
+  {
+    "id": 14,
+    "topic": "Home and Housing",
+    "topicCN": "住房",
+    "category": "Daily Life"
+  },
+  {
+    "id": 15,
+    "topic": "Hometowns",
+    "topicCN": "家乡",
+    "category": "Daily Life"
+  },
+  {
+    "id": 16,
+    "topic": "Weather and Seasons",
+    "topicCN": "天气与季节",
+    "category": "Environment"
+  },
+  {
+    "id": 17,
+    "topic": "Clothing and Fashion",
+    "topicCN": "服装与时尚",
+    "category": "Culture"
+  },
+  {
+    "id": 18,
+    "topic": "Sleep and Rest",
+    "topicCN": "睡眠与休息",
+    "category": "Health"
+  },
+  {
+    "id": 19,
+    "topic": "Time Management",
+    "topicCN": "时间管理",
+    "category": "Daily Life"
+  },
+  {
+    "id": 20,
+    "topic": "Public Spaces",
+    "topicCN": "公共空间",
+    "category": "Society"
+  },
+  {
+    "id": 21,
+    "topic": "School Life",
+    "topicCN": "校园生活",
+    "category": "Education"
+  },
+  {
+    "id": 22,
+    "topic": "University Choices",
+    "topicCN": "大学选择",
+    "category": "Education"
+  },
+  {
+    "id": 23,
+    "topic": "Online Learning",
+    "topicCN": "在线学习",
+    "category": "Education"
+  },
+  {
+    "id": 24,
+    "topic": "Teachers and Mentors",
+    "topicCN": "教师与导师",
+    "category": "Education"
+  },
+  {
+    "id": 25,
+    "topic": "Examinations",
+    "topicCN": "考试",
+    "category": "Education"
+  },
+  {
+    "id": 26,
+    "topic": "Lifelong Learning",
+    "topicCN": "终身学习",
+    "category": "Education"
+  },
+  {
+    "id": 27,
+    "topic": "Languages and Communication",
+    "topicCN": "语言与沟通",
+    "category": "Education"
+  },
+  {
+    "id": 28,
+    "topic": "Creativity",
+    "topicCN": "创造力",
+    "category": "Education"
+  },
+  {
+    "id": 29,
+    "topic": "Libraries",
+    "topicCN": "图书馆",
+    "category": "Education"
+  },
+  {
+    "id": 30,
+    "topic": "Skills for the Future",
+    "topicCN": "未来技能",
+    "category": "Education"
+  },
+  {
+    "id": 31,
+    "topic": "Work and Employment",
+    "topicCN": "工作与就业",
+    "category": "Work"
+  },
+  {
+    "id": 32,
+    "topic": "Career Choices",
+    "topicCN": "职业选择",
+    "category": "Work"
+  },
+  {
+    "id": 33,
+    "topic": "Work–Life Balance",
+    "topicCN": "工作与生活平衡",
+    "category": "Work"
+  },
+  {
+    "id": 34,
+    "topic": "Teamwork",
+    "topicCN": "团队合作",
+    "category": "Work"
+  },
+  {
+    "id": 35,
+    "topic": "Leadership",
+    "topicCN": "领导力",
+    "category": "Work"
+  },
+  {
+    "id": 36,
+    "topic": "Remote Work",
+    "topicCN": "远程工作",
+    "category": "Work"
+  },
+  {
+    "id": 37,
+    "topic": "Job Satisfaction",
+    "topicCN": "工作满意度",
+    "category": "Work"
+  },
+  {
+    "id": 38,
+    "topic": "Entrepreneurship",
+    "topicCN": "创业",
+    "category": "Economy"
+  },
+  {
+    "id": 39,
+    "topic": "Business Ethics",
+    "topicCN": "商业伦理",
+    "category": "Economy"
+  },
+  {
+    "id": 40,
+    "topic": "Workplace Automation",
+    "topicCN": "职场自动化",
+    "category": "Technology"
+  },
+  {
+    "id": 41,
+    "topic": "Transport",
+    "topicCN": "交通",
+    "category": "Society"
+  },
+  {
+    "id": 42,
+    "topic": "City Life",
+    "topicCN": "城市生活",
+    "category": "Society"
+  },
+  {
+    "id": 43,
+    "topic": "Rural Communities",
+    "topicCN": "乡村社区",
+    "category": "Society"
+  },
+  {
+    "id": 44,
+    "topic": "Health and Well-being",
+    "topicCN": "健康与幸福",
+    "category": "Health"
+  },
+  {
+    "id": 45,
+    "topic": "Public Health",
+    "topicCN": "公共卫生",
+    "category": "Society"
+  },
+  {
+    "id": 46,
+    "topic": "Social Media",
+    "topicCN": "社交媒体",
+    "category": "Technology"
+  },
+  {
+    "id": 47,
+    "topic": "News and Media",
+    "topicCN": "新闻与媒体",
+    "category": "Society"
+  },
+  {
+    "id": 48,
+    "topic": "Advertising",
+    "topicCN": "广告",
+    "category": "Economy"
+  },
+  {
+    "id": 49,
+    "topic": "Consumer Behaviour",
+    "topicCN": "消费行为",
+    "category": "Economy"
+  },
+  {
+    "id": 50,
+    "topic": "Tourism",
+    "topicCN": "旅游业",
+    "category": "Economy"
+  },
+  {
+    "id": 51,
+    "topic": "Cultural Traditions",
+    "topicCN": "文化传统",
+    "category": "Culture"
+  },
+  {
+    "id": 52,
+    "topic": "Art and Museums",
+    "topicCN": "艺术与博物馆",
+    "category": "Culture"
+  },
+  {
+    "id": 53,
+    "topic": "History and Heritage",
+    "topicCN": "历史与遗产",
+    "category": "Culture"
+  },
+  {
+    "id": 54,
+    "topic": "Books and Literature",
+    "topicCN": "书籍与文学",
+    "category": "Culture"
+  },
+  {
+    "id": 55,
+    "topic": "Language Change",
+    "topicCN": "语言变化",
+    "category": "Culture"
+  },
+  {
+    "id": 56,
+    "topic": "Generation Gaps",
+    "topicCN": "代际差异",
+    "category": "Society"
+  },
+  {
+    "id": 57,
+    "topic": "Volunteering",
+    "topicCN": "志愿服务",
+    "category": "Society"
+  },
+  {
+    "id": 58,
+    "topic": "Community Life",
+    "topicCN": "社区生活",
+    "category": "Society"
+  },
+  {
+    "id": 59,
+    "topic": "Equality and Opportunity",
+    "topicCN": "平等与机会",
+    "category": "Society"
+  },
+  {
+    "id": 60,
+    "topic": "Crime and Prevention",
+    "topicCN": "犯罪与预防",
+    "category": "Society"
+  },
+  {
+    "id": 61,
+    "topic": "Digital Privacy",
+    "topicCN": "数字隐私",
+    "category": "Technology"
+  },
+  {
+    "id": 62,
+    "topic": "Artificial Intelligence",
+    "topicCN": "人工智能",
+    "category": "Technology"
+  },
+  {
+    "id": 63,
+    "topic": "Science in Society",
+    "topicCN": "社会中的科学",
+    "category": "Technology"
+  },
+  {
+    "id": 64,
+    "topic": "Innovation",
+    "topicCN": "创新",
+    "category": "Technology"
+  },
+  {
+    "id": 65,
+    "topic": "Space Exploration",
+    "topicCN": "太空探索",
+    "category": "Technology"
+  },
+  {
+    "id": 66,
+    "topic": "The Digital Divide",
+    "topicCN": "数字鸿沟",
+    "category": "Technology"
+  },
+  {
+    "id": 67,
+    "topic": "Cybersecurity",
+    "topicCN": "网络安全",
+    "category": "Technology"
+  },
+  {
+    "id": 68,
+    "topic": "Smart Cities",
+    "topicCN": "智慧城市",
+    "category": "Technology"
+  },
+  {
+    "id": 69,
+    "topic": "Media Literacy",
+    "topicCN": "媒体素养",
+    "category": "Technology"
+  },
+  {
+    "id": 70,
+    "topic": "Agriculture and Food Security",
+    "topicCN": "农业与粮食安全",
+    "category": "Environment"
+  },
+  {
+    "id": 71,
+    "topic": "Animals and Conservation",
+    "topicCN": "动物与保护",
+    "category": "Environment"
+  },
+  {
+    "id": 72,
+    "topic": "Water Resources",
+    "topicCN": "水资源",
+    "category": "Environment"
+  },
+  {
+    "id": 73,
+    "topic": "Energy Choices",
+    "topicCN": "能源选择",
+    "category": "Environment"
+  },
+  {
+    "id": 74,
+    "topic": "Waste and Recycling",
+    "topicCN": "垃圾与回收",
+    "category": "Environment"
+  },
+  {
+    "id": 75,
+    "topic": "Air Pollution",
+    "topicCN": "空气污染",
+    "category": "Environment"
+  },
+  {
+    "id": 76,
+    "topic": "Climate Change",
+    "topicCN": "气候变化",
+    "category": "Environment"
+  },
+  {
+    "id": 77,
+    "topic": "Sustainable Living",
+    "topicCN": "可持续生活",
+    "category": "Environment"
+  },
+  {
+    "id": 78,
+    "topic": "Biodiversity",
+    "topicCN": "生物多样性",
+    "category": "Environment"
+  },
+  {
+    "id": 79,
+    "topic": "Natural Disasters",
+    "topicCN": "自然灾害",
+    "category": "Environment"
+  },
+  {
+    "id": 80,
+    "topic": "Green Urban Planning",
+    "topicCN": "绿色城市规划",
+    "category": "Environment"
+  },
+  {
+    "id": 81,
+    "topic": "Money and Saving",
+    "topicCN": "金钱与储蓄",
+    "category": "Economy"
+  },
+  {
+    "id": 82,
+    "topic": "Personal Finance",
+    "topicCN": "个人理财",
+    "category": "Economy"
+  },
+  {
+    "id": 83,
+    "topic": "Economic Inequality",
+    "topicCN": "经济不平等",
+    "category": "Economy"
+  },
+  {
+    "id": 84,
+    "topic": "Global Trade",
+    "topicCN": "全球贸易",
+    "category": "Economy"
+  },
+  {
+    "id": 85,
+    "topic": "The Gig Economy",
+    "topicCN": "零工经济",
+    "category": "Economy"
+  },
+  {
+    "id": 86,
+    "topic": "Housing Affordability",
+    "topicCN": "住房可负担性",
+    "category": "Economy"
+  },
+  {
+    "id": 87,
+    "topic": "Population Change",
+    "topicCN": "人口变化",
+    "category": "Society"
+  },
+  {
+    "id": 88,
+    "topic": "Ageing Societies",
+    "topicCN": "老龄化社会",
+    "category": "Society"
+  },
+  {
+    "id": 89,
+    "topic": "Migration",
+    "topicCN": "人口迁移",
+    "category": "Global Issues"
+  },
+  {
+    "id": 90,
+    "topic": "Urbanisation",
+    "topicCN": "城市化",
+    "category": "Global Issues"
+  },
+  {
+    "id": 91,
+    "topic": "Globalisation",
+    "topicCN": "全球化",
+    "category": "Global Issues"
+  },
+  {
+    "id": 92,
+    "topic": "International Aid",
+    "topicCN": "国际援助",
+    "category": "Global Issues"
+  },
+  {
+    "id": 93,
+    "topic": "Human Rights",
+    "topicCN": "人权",
+    "category": "Global Issues"
+  },
+  {
+    "id": 94,
+    "topic": "Government Responsibility",
+    "topicCN": "政府责任",
+    "category": "Global Issues"
+  },
+  {
+    "id": 95,
+    "topic": "Public Policy",
+    "topicCN": "公共政策",
+    "category": "Global Issues"
+  },
+  {
+    "id": 96,
+    "topic": "Global Health",
+    "topicCN": "全球健康",
+    "category": "Global Issues"
+  },
+  {
+    "id": 97,
+    "topic": "Peace and Conflict",
+    "topicCN": "和平与冲突",
+    "category": "Global Issues"
+  },
+  {
+    "id": 98,
+    "topic": "Responsible AI",
+    "topicCN": "负责任的人工智能",
+    "category": "Global Issues"
+  },
+  {
+    "id": 99,
+    "topic": "Sustainable Development",
+    "topicCN": "可持续发展",
+    "category": "Global Issues"
+  },
+  {
+    "id": 100,
+    "topic": "Global Citizenship",
+    "topicCN": "全球公民意识",
+    "category": "Global Issues"
+  }
+]

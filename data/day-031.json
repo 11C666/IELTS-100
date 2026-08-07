@@ -1,0 +1,349 @@
+{
+  "id": 31,
+  "topic": "Work and Employment",
+  "topicCN": "工作与就业",
+  "category": "Work",
+  "vocabulary": [
+    {
+      "word": "labour market",
+      "ipa": "/ˈleɪbə ˌmɑːkɪt/",
+      "meaning": "劳动力市场",
+      "collocation": "enter a competitive labour market",
+      "collocationCN": "进入竞争激烈的劳动力市场"
+    },
+    {
+      "word": "gainful employment",
+      "ipa": "/ˌɡeɪnfəl ɪmˈplɔɪmənt/",
+      "meaning": "有报酬且稳定的工作",
+      "collocation": "secure gainful employment",
+      "collocationCN": "获得有报酬且稳定的工作"
+    },
+    {
+      "word": "job vacancy",
+      "ipa": "/ˈdʒɒb ˌveɪkənsi/",
+      "meaning": "职位空缺",
+      "collocation": "advertise a job vacancy",
+      "collocationCN": "发布职位空缺"
+    },
+    {
+      "word": "recruitment drive",
+      "ipa": "/rɪˈkruːtmənt draɪv/",
+      "meaning": "集中招聘活动",
+      "collocation": "launch a recruitment drive",
+      "collocationCN": "启动集中招聘"
+    },
+    {
+      "word": "candidate screening",
+      "ipa": "/ˈkændɪdət ˌskriːnɪŋ/",
+      "meaning": "求职者筛选",
+      "collocation": "conduct fair candidate screening",
+      "collocationCN": "进行公平的求职者筛选"
+    },
+    {
+      "word": "probationary period",
+      "ipa": "/prəˈbeɪʃənəri ˌpɪəriəd/",
+      "meaning": "试用期",
+      "collocation": "complete a probationary period",
+      "collocationCN": "完成试用期"
+    },
+    {
+      "word": "employment contract",
+      "ipa": "/ɪmˈplɔɪmənt ˌkɒntrækt/",
+      "meaning": "劳动合同",
+      "collocation": "sign an employment contract",
+      "collocationCN": "签署劳动合同"
+    },
+    {
+      "word": "statutory leave",
+      "ipa": "/ˈstætʃətri liːv/",
+      "meaning": "法定休假",
+      "collocation": "be entitled to statutory leave",
+      "collocationCN": "享有法定休假"
+    },
+    {
+      "word": "living wage",
+      "ipa": "/ˈlɪvɪŋ weɪdʒ/",
+      "meaning": "维持基本生活所需的工资",
+      "collocation": "pay a living wage",
+      "collocationCN": "支付足以维持生活的工资"
+    },
+    {
+      "word": "pay gap",
+      "ipa": "/ˈpeɪ ɡæp/",
+      "meaning": "薪酬差距",
+      "collocation": "narrow the gender pay gap",
+      "collocationCN": "缩小性别薪酬差距"
+    },
+    {
+      "word": "underemployment",
+      "ipa": "/ˌʌndərɪmˈplɔɪmənt/",
+      "meaning": "就业不足",
+      "collocation": "tackle widespread underemployment",
+      "collocationCN": "应对普遍的就业不足"
+    },
+    {
+      "word": "job displacement",
+      "ipa": "/ˈdʒɒb dɪsˌpleɪsmənt/",
+      "meaning": "岗位流失；岗位替代",
+      "collocation": "reduce the risk of job displacement",
+      "collocationCN": "降低岗位流失风险"
+    },
+    {
+      "word": "employment barrier",
+      "ipa": "/ɪmˈplɔɪmənt ˌbæriə/",
+      "meaning": "就业障碍",
+      "collocation": "remove barriers to secure employment",
+      "collocationCN": "消除获得稳定工作的障碍"
+    },
+    {
+      "word": "work experience",
+      "ipa": "/ˈwɜːk ɪkˌspɪəriəns/",
+      "meaning": "工作经验；实习经历",
+      "collocation": "gain hands-on work experience",
+      "collocationCN": "获得亲身实践的工作经验"
+    },
+    {
+      "word": "employee benefits",
+      "ipa": "/ɪmˈplɔɪiː ˌbenɪfɪts/",
+      "meaning": "员工福利",
+      "collocation": "offer competitive employee benefits",
+      "collocationCN": "提供有竞争力的员工福利"
+    },
+    {
+      "word": "collective bargaining",
+      "ipa": "/kəˌlektɪv ˈbɑːɡənɪŋ/",
+      "meaning": "集体谈判",
+      "collocation": "engage in collective bargaining",
+      "collocationCN": "参与集体谈判"
+    },
+    {
+      "word": "workforce participation",
+      "ipa": "/ˈwɜːkfɔːs pɑːˌtɪsɪpeɪʃən/",
+      "meaning": "劳动力参与",
+      "collocation": "increase workforce participation",
+      "collocationCN": "提高劳动力参与率"
+    },
+    {
+      "word": "make ends meet",
+      "ipa": "/meɪk endz miːt/",
+      "meaning": "使收支相抵",
+      "collocation": "struggle to make ends meet",
+      "collocationCN": "勉强维持收支平衡"
+    },
+    {
+      "word": "get a foot in the door",
+      "ipa": "/ɡet ə fʊt ɪn ðə dɔː/",
+      "meaning": "获得入行机会",
+      "collocation": "use an internship to get a foot in the door",
+      "collocationCN": "通过实习获得入行机会"
+    },
+    {
+      "word": "earn a steady income",
+      "ipa": "/ɜːn ə ˌstedi ˈɪnkʌm/",
+      "meaning": "获得稳定收入",
+      "collocation": "earn a steady income from full-time work",
+      "collocationCN": "通过全职工作获得稳定收入"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "find a job",
+      "options": [
+        "secure employment",
+        "obtain a position",
+        "enter paid work"
+      ],
+      "note": "secure 强调成功获得。"
+    },
+    {
+      "base": "job opening",
+      "options": [
+        "vacancy",
+        "available position",
+        "employment opportunity"
+      ],
+      "note": "vacancy 是招聘语境核心词。"
+    },
+    {
+      "base": "good working conditions",
+      "options": [
+        "high-quality employment",
+        "decent work",
+        "favourable employment conditions"
+      ],
+      "note": "decent work 包含薪资、安全与权利。"
+    },
+    {
+      "base": "unstable work",
+      "options": [
+        "insecure employment",
+        "precarious work",
+        "irregular paid work"
+      ],
+      "note": "precarious 是学术写作常用词。"
+    },
+    {
+      "base": "skills from another job",
+      "options": [
+        "transferable competence",
+        "relevant prior experience",
+        "cross-sector skills"
+      ],
+      "note": "transferable 不等于完全相同经验。"
+    },
+    {
+      "base": "beginner’s job",
+      "options": [
+        "entry-level role",
+        "junior position",
+        "route into an occupation"
+      ],
+      "note": "entry-level 应真正允许新人进入。"
+    },
+    {
+      "base": "choose an applicant",
+      "options": [
+        "select a candidate",
+        "make an appointment",
+        "recruit a suitable employee"
+      ],
+      "note": "appointment 可表示正式任用。"
+    },
+    {
+      "base": "people looking for work",
+      "options": [
+        "jobseekers",
+        "applicants",
+        "prospective employees"
+      ],
+      "note": "applicant 已经申请，jobseeker 范围更广。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "Employment provides + benefit, but it can also expose workers to + risk.",
+      "cn": "就业带来某种益处，但也可能使劳动者面临某种风险。",
+      "example": "Employment provides financial security, but it can also expose workers to excessive demands."
+    },
+    {
+      "pattern": "Those who + work condition + are more likely to + outcome.",
+      "cn": "处于某种工作条件下的人更可能……。",
+      "example": "Those who receive clear expectations are more likely to work independently."
+    },
+    {
+      "pattern": "Unless + labour protection + is enforced, + negative practice + may persist.",
+      "cn": "除非劳动保障得到执行，否则某种不良做法可能持续。",
+      "example": "Unless minimum standards are enforced, unsafe employment may persist."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "earn a living",
+      "cn": "谋生",
+      "example": "Most adults need to earn a living, but pay is not their only concern."
+    },
+    {
+      "text": "apply for a vacancy",
+      "cn": "申请职位空缺",
+      "example": "I applied for a vacancy in a small design firm."
+    },
+    {
+      "text": "gain hands-on experience",
+      "cn": "获得实践经验",
+      "example": "The placement helped me gain hands-on experience."
+    },
+    {
+      "text": "be out of work",
+      "cn": "失业",
+      "example": "He was out of work for several months."
+    },
+    {
+      "text": "enter the labour market",
+      "cn": "进入劳动力市场",
+      "example": "Graduates are entering the labour market during a period of uncertainty."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I am finding a new job.",
+      "correct": "I am looking for a new job.",
+      "why": "find 强调找到结果；持续求职用 look for。"
+    },
+    {
+      "wrong": "She works as accountant.",
+      "correct": "She works as an accountant.",
+      "why": "可数职业名词前需要冠词。"
+    },
+    {
+      "wrong": "The company employed 200 staffs.",
+      "correct": "The company employed 200 staff members.",
+      "why": "staff 作集合名词通常不直接用 staffs 表示员工人数。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Job quality matters alongside the number of jobs created.",
+      "topicSentence": "Employment policy should consider security, pay and working conditions rather than headline job totals alone.",
+      "collocations": [
+        "create secure employment",
+        "enforce labour standards",
+        "receive a living wage",
+        "protect worker well-being"
+      ],
+      "argument": "A rise in employment can conceal unstable hours, unsafe conditions or wages that do not cover basic needs. Workers in such roles remain vulnerable even though statistics classify them as employed. Minimum standards and effective inspection reduce the incentive for responsible firms to be undercut by poor practice. Access to predictable schedules also helps families arrange care and transport. Economic success should therefore be judged partly by the quality and not merely the quantity of work."
+    },
+    {
+      "viewpoint": "Entry-level recruitment should recognise potential as well as prior experience.",
+      "topicSentence": "Excessive experience requirements can close the route through which beginners are supposed to acquire experience.",
+      "collocations": [
+        "advertise an entry-level role",
+        "demonstrate transferable skills",
+        "provide workplace training",
+        "widen the applicant pool"
+      ],
+      "argument": "Employers use experience as a convenient signal because it appears to reduce training risk. However, requiring several years for junior roles excludes capable graduates and career changers before their relevant qualities are examined. Work samples, structured interviews and probation with support can provide better evidence of learning ability. Firms also benefit from a wider applicant pool when they distinguish essential competence from familiar background. Entry-level work should contain a genuine route into an occupation."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What kind of workplace would you like to work in?",
+      "answer": "I would prefer a fairly small workplace where responsibilities are clear but people can ask for help. I do not need constant social events; I value colleagues who share information and respect focused time. Some flexibility over starting hours would also make a practical difference. The atmosphere matters more to me than an impressive office."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a job you think would be difficult.",
+      "answer": "Emergency call handling seems extremely difficult. The employee has to obtain accurate information from someone who may be frightened, angry or unable to explain their location. Decisions must be made quickly, but the caller still needs to feel heard. Shift work and repeated exposure to distress would add emotional pressure. I admire people who do it because the role combines technical procedure, communication and self-control in every conversation. Small mistakes could have serious consequences, and the handler may never learn what happened after the call was transferred. Training must cover geography, software and emergency procedures, while supervision must support emotional recovery. I would find the uncertainty hardest. It is a job where success may look like an ordinary conversation even though the person has managed considerable risk in a few minutes."
+    }
+  ],
+  "reading": {
+    "title": "The Vacancy That Is Never Filled",
+    "paragraphs": [
+      "Some organisations advertise the same role repeatedly without appointing anyone. Managers may conclude that a skills shortage exists, yet the vacancy itself can be part of the problem. A description assembled from several former jobs may demand an uncommon combination of abilities. The salary may reflect an entry-level budget while the responsibilities require independent expertise. Suitable candidates do not necessarily fail to exist; they may decide not to apply.",
+      "Recruitment involves uncertainty on both sides. Employers cannot observe future performance directly, so they use qualifications, years of experience and interview behaviour as signals. Applicants likewise know little about actual workload, supervision or progression. When advertisements hide salary and use broad phrases such as “must be flexible”, candidates may assume the least favourable meaning. Better information can reduce withdrawals before and after appointment.",
+      "Selection methods also shape who appears qualified. An unstructured interview rewards conversational confidence and similarity to the interviewer, qualities that may be unrelated to the work. A job sample asks candidates to perform a small, realistic task under comparable conditions. It does not predict every aspect of performance, but it provides evidence closer to the role and gives applicants a clearer picture of what will be expected.",
+      "A persistent vacancy should therefore prompt a review rather than an automatic repetition of the search. Which requirements are essential on the first day, and which could be learned? Does the pay match the responsibility? Has the organisation rejected people for lacking one familiar background while overlooking transferable competence? Recruitment succeeds when a role, a selection process and a realistic labour market align. Simply enlarging the advertising budget cannot correct a contradiction between them.",
+      "Candidate behaviour after an offer supplies additional evidence. A high rate of rejection may indicate that salary, location or flexibility compares poorly with competing roles. Early departures can point to a gap between the advertisement and daily reality. Organisations should analyse these patterns instead of blaming each individual applicant, because repeated withdrawal is information about the design and communication of the job."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Repeated advertising always proves that no suitably skilled workers exist.",
+        "answer": "False",
+        "explanation": "Paragraph 1 gives problems with the vacancy itself as alternatives."
+      },
+      {
+        "type": "Matching Information",
+        "prompt": "Which paragraph recommends a realistic task as part of selection?",
+        "answer": "C",
+        "explanation": "Paragraph C describes job samples."
+      },
+      {
+        "type": "Short Answer",
+        "prompt": "What three things must align for recruitment to succeed?",
+        "answer": "the role, the selection process and the labour market",
+        "explanation": "The final paragraph lists these three elements."
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "id": 54,
+  "topic": "Books and Literature",
+  "topicCN": "书籍与文学",
+  "category": "Culture",
+  "vocabulary": [
+    {
+      "word": "novel",
+      "ipa": "/ˈnɒvəl/",
+      "meaning": "小说",
+      "collocation": "read a contemporary novel",
+      "collocationCN": "阅读当代小说"
+    },
+    {
+      "word": "short story",
+      "ipa": "/ˌʃɔːt ˈstɔːri/",
+      "meaning": "短篇小说",
+      "collocation": "write a short story",
+      "collocationCN": "创作短篇小说"
+    },
+    {
+      "word": "poetry",
+      "ipa": "/ˈpəʊətri/",
+      "meaning": "诗歌",
+      "collocation": "read poetry aloud",
+      "collocationCN": "朗读诗歌"
+    },
+    {
+      "word": "non-fiction",
+      "ipa": "/ˌnɒn ˈfɪkʃən/",
+      "meaning": "非虚构作品",
+      "collocation": "choose a work of non-fiction",
+      "collocationCN": "选择一本非虚构作品"
+    },
+    {
+      "word": "memoir",
+      "ipa": "/ˈmemwɑː/",
+      "meaning": "回忆录",
+      "collocation": "publish a personal memoir",
+      "collocationCN": "出版个人回忆录"
+    },
+    {
+      "word": "biography",
+      "ipa": "/baɪˈɒɡrəfi/",
+      "meaning": "传记",
+      "collocation": "write an authorised biography",
+      "collocationCN": "撰写授权传记"
+    },
+    {
+      "word": "plot",
+      "ipa": "/plɒt/",
+      "meaning": "情节",
+      "collocation": "follow a complex plot",
+      "collocationCN": "理解复杂情节"
+    },
+    {
+      "word": "characterisation",
+      "ipa": "/ˌkærəktəraɪˈzeɪʃən/",
+      "meaning": "人物塑造",
+      "collocation": "admire subtle characterisation",
+      "collocationCN": "欣赏细腻的人物塑造"
+    },
+    {
+      "word": "narrator",
+      "ipa": "/nəˈreɪtə/",
+      "meaning": "叙述者",
+      "collocation": "use an unreliable narrator",
+      "collocationCN": "采用不可靠叙述者"
+    },
+    {
+      "word": "setting",
+      "ipa": "/ˈsetɪŋ/",
+      "meaning": "故事背景",
+      "collocation": "create a convincing setting",
+      "collocationCN": "营造可信的故事背景"
+    },
+    {
+      "word": "theme",
+      "ipa": "/θiːm/",
+      "meaning": "主题",
+      "collocation": "explore a universal theme",
+      "collocationCN": "探讨普遍主题"
+    },
+    {
+      "word": "literary device",
+      "ipa": "/ˈlɪtərəri dɪˌvaɪs/",
+      "meaning": "文学手法",
+      "collocation": "identify a literary device",
+      "collocationCN": "辨认文学手法"
+    },
+    {
+      "word": "metaphor",
+      "ipa": "/ˈmetəfɔː/",
+      "meaning": "隐喻",
+      "collocation": "use an extended metaphor",
+      "collocationCN": "使用延伸隐喻"
+    },
+    {
+      "word": "page-turner",
+      "ipa": "/ˈpeɪdʒ ˌtɜːnə/",
+      "meaning": "引人入胜的书",
+      "collocation": "find the novel a real page-turner",
+      "collocationCN": "觉得这本小说令人爱不释手"
+    },
+    {
+      "word": "bookworm",
+      "ipa": "/ˈbʊkwɜːm/",
+      "meaning": "书迷",
+      "collocation": "be an avid bookworm",
+      "collocationCN": "是一个热衷阅读的书迷"
+    },
+    {
+      "word": "browse",
+      "ipa": "/braʊz/",
+      "meaning": "浏览",
+      "collocation": "browse in a bookshop",
+      "collocationCN": "在书店浏览"
+    },
+    {
+      "word": "get into a book",
+      "ipa": "/ˌɡet ɪntu ə ˈbʊk/",
+      "meaning": "开始沉浸于一本书",
+      "collocation": "take time to get into a book",
+      "collocationCN": "花些时间才沉浸到书中"
+    },
+    {
+      "word": "reading habit",
+      "ipa": "/ˈriːdɪŋ ˌhæbɪt/",
+      "meaning": "阅读习惯",
+      "collocation": "develop a regular reading habit",
+      "collocationCN": "培养规律阅读习惯"
+    },
+    {
+      "word": "literary canon",
+      "ipa": "/ˌlɪtərəri ˈkænən/",
+      "meaning": "文学经典体系",
+      "collocation": "broaden the literary canon",
+      "collocationCN": "拓展文学经典的范围"
+    },
+    {
+      "word": "book review",
+      "ipa": "/ˈbʊk rɪˌvjuː/",
+      "meaning": "书评",
+      "collocation": "write a balanced book review",
+      "collocationCN": "写一篇客观全面的书评"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "problem",
+      "options": [
+        "challenge",
+        "concern",
+        "obstacle"
+      ],
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论书籍与文学。"
+    },
+    {
+      "base": "change",
+      "options": [
+        "shift",
+        "development",
+        "transformation"
+      ],
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论书籍与文学。"
+    },
+    {
+      "base": "important",
+      "options": [
+        "significant",
+        "crucial",
+        "essential"
+      ],
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论书籍与文学。"
+    },
+    {
+      "base": "result",
+      "options": [
+        "outcome",
+        "consequence",
+        "effect"
+      ],
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论书籍与文学。"
+    },
+    {
+      "base": "improve",
+      "options": [
+        "enhance",
+        "strengthen",
+        "raise the quality of"
+      ],
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论书籍与文学。"
+    },
+    {
+      "base": "reduce",
+      "options": [
+        "decrease",
+        "limit",
+        "bring down"
+      ],
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论书籍与文学。"
+    },
+    {
+      "base": "people",
+      "options": [
+        "individuals",
+        "members of the public",
+        "residents"
+      ],
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论书籍与文学。"
+    },
+    {
+      "base": "use",
+      "options": [
+        "make use of",
+        "adopt",
+        "rely on"
+      ],
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论书籍与文学。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "A novel allows readers to + experience + without claiming that + equivalence.",
+      "cn": "小说使读者能够体验……，但并不声称……完全相同。",
+      "example": "A novel allows readers to imagine another perspective without claiming that imagination equals lived experience."
+    },
+    {
+      "pattern": "What a reader brings to + text + partly determines + interpretation.",
+      "cn": "读者带入文本的内容部分决定了其解读。",
+      "example": "What a reader brings to a novel partly determines which details appear significant."
+    },
+    {
+      "pattern": "Only after + narrative development + does + earlier detail + acquire + meaning.",
+      "cn": "只有情节发展之后，早先细节才获得某种意义。",
+      "example": "Only after the final chapter does the opening image acquire its full meaning."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "get lost in a book",
+      "cn": "沉浸在书中",
+      "example": "I got lost in the book and missed my stop."
+    },
+    {
+      "text": "a real page-turner",
+      "cn": "引人入胜的书",
+      "example": "The mystery is a real page-turner."
+    },
+    {
+      "text": "read between the lines",
+      "cn": "读懂言外之意",
+      "example": "Readers must read between the lines to understand the narrator."
+    },
+    {
+      "text": "bring a character to life",
+      "cn": "让角色鲜活起来",
+      "example": "Small contradictions bring the character to life."
+    },
+    {
+      "text": "leave a lasting impression",
+      "cn": "留下持久印象",
+      "example": "The final scene left a lasting impression on me."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I like reading literatures.",
+      "correct": "I like reading literature.",
+      "why": "literature 通常不可数。"
+    },
+    {
+      "wrong": "The story is based in a true event.",
+      "correct": "The story is based on a true event.",
+      "why": "be based on 是固定搭配。"
+    },
+    {
+      "wrong": "This book is worth to read.",
+      "correct": "This book is worth reading.",
+      "why": "worth 后接动名词。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Literature develops interpretive patience.",
+      "topicSentence": "Reading complex narratives teaches people to hold incomplete explanations and revise them as evidence accumulates.",
+      "collocations": [
+        "interpret an unreliable narrator",
+        "consider multiple perspectives",
+        "revise an initial judgement",
+        "tolerate ambiguity"
+      ],
+      "argument": "A novel may withhold motives, present conflicting accounts or make an apparently minor detail important later. Readers must resist closing the question too early and compare new information with previous assumptions. This habit differs from simply extracting a stated fact. It does not automatically make every reader wise, but it provides repeated practice in interpretation. Literature is educational partly because meaning must be constructed and sometimes corrected."
+    },
+    {
+      "viewpoint": "School reading lists should combine shared study with meaningful choice.",
+      "topicSentence": "Students benefit from discussing common texts, but limited choice can strengthen engagement and widen representation.",
+      "collocations": [
+        "study a common text",
+        "select from varied titles",
+        "support close reading",
+        "broaden literary experience"
+      ],
+      "argument": "A shared novel allows a class to examine language together and build a cumulative discussion. If every text is imposed, reluctant readers may conclude that literature has no connection to their interests or experience. Teachers can preserve common analytical goals while offering several books linked by a theme. Short extracts should not replace sustained reading entirely. A balanced list gives students both a common intellectual reference and some ownership of what they read."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What kinds of books do you enjoy?",
+      "answer": "I enjoy novels with a strong sense of place and non-fiction that explains how ordinary systems work. I rarely choose books only because they are popular. A good recommendation usually tells me what kind of question the book explores. I also like writing that is clear without being overly simple."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a book that you would recommend.",
+      "answer": "I would recommend a novel about several residents of one building whose lives overlap without their fully knowing one another. The plot is quiet, but small objects and repeated encounters gradually reveal connections between the characters. I liked that nobody was presented as completely admirable or selfish. The setting also changed over time, so the building felt almost like another character. I would recommend it to someone who enjoys observation rather than fast action. It encouraged me to notice how people can interpret the same event differently. The book was easy enough to continue reading, yet complicated enough that I reconsidered the opening chapters after reaching the end."
+    }
+  ],
+  "reading": {
+    "title": "The Marginal Note as Evidence of Reading",
+    "paragraphs": [
+      "A book records more than the words printed by its publisher. Underlining, folded corners and notes in the margin can reveal how an earlier reader responded. Libraries once treated such marks mainly as damage. Historians now study some annotated books as evidence of education, disagreement and everyday intellectual life.",
+      "Interpretation is difficult because a mark lacks context. A line beside a sentence may indicate admiration, confusion or preparation for an examination. Handwriting can identify an owner, but books are borrowed and notes may belong to several people. Researchers compare ink, language and references elsewhere rather than assuming every mark expresses a stable private belief.",
+      "Annotations can show reading as an activity rather than passive reception. A reader corrects a fact, links a passage to another book or records an objection. In textbooks, repeated notes may reveal which concepts students found difficult. In religious or political works, cautious symbols can indicate responses that a person would not state publicly.",
+      "Digital reading also produces traces: highlights, searches and shared comments. These can be aggregated across thousands of users, providing scale unavailable in a single historic copy. The same data raise privacy questions because a platform can observe reading pace and passages revisited. A private marginal note becomes a record stored by someone else.",
+      "Not every marked book deserves preservation, and heavy annotation can obscure the text. Its research value depends on provenance, context and the question being asked. Nevertheless, marginalia challenges the idea that books carry meaning in one direction from author to audience. A used page may preserve a small conversation between the printed argument and a reader who refused to remain silent. Ownership raises further questions. A writer may donate annotated books, but notes made by friends or family remain inside them. Archives decide when privacy outweighs research access and may close recent material for a fixed period. The physical book preserves several voices, so permission from one famous owner does not automatically settle the interests of everyone represented on its pages."
+    ],
+    "questions": [
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Every line drawn beside text indicates admiration.",
+        "answer": "False",
+        "explanation": "Paragraph 2 gives several possible meanings."
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "What new concern arises with digital reading traces?",
+        "answer": "D",
+        "explanation": "Platforms can observe behaviour that readers may consider private.",
+        "options": [
+          "Digital text cannot be highlighted.",
+          "Historic books become unreadable.",
+          "Publishers lose every annotation.",
+          "Platforms can observe behaviour that readers may consider private."
+        ]
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Researchers consider provenance, context and the research ______.",
+        "answer": "question",
+        "explanation": "The final paragraph lists these factors."
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "id": 21,
+  "topic": "School Life",
+  "topicCN": "校园生活",
+  "category": "Education",
+  "vocabulary": [
+    {
+      "word": "timetable",
+      "ipa": "/ˈtaɪmˌteɪbəl/",
+      "meaning": "课程表",
+      "collocation": "follow a weekly timetable",
+      "collocationCN": "按照每周课程表上课"
+    },
+    {
+      "word": "registration",
+      "ipa": "/ˌredʒɪˈstreɪʃən/",
+      "meaning": "报到；注册",
+      "collocation": "complete school registration",
+      "collocationCN": "完成入学注册"
+    },
+    {
+      "word": "homeroom",
+      "ipa": "/ˈhəʊmruːm/",
+      "meaning": "班级教室；晨会班",
+      "collocation": "report to homeroom",
+      "collocationCN": "到班级教室报到"
+    },
+    {
+      "word": "assembly",
+      "ipa": "/əˈsembli/",
+      "meaning": "全校集会",
+      "collocation": "attend morning assembly",
+      "collocationCN": "参加晨会"
+    },
+    {
+      "word": "recess",
+      "ipa": "/ˈriːses/",
+      "meaning": "课间休息",
+      "collocation": "chat during recess",
+      "collocationCN": "课间聊天"
+    },
+    {
+      "word": "canteen",
+      "ipa": "/kænˈtiːn/",
+      "meaning": "学校食堂",
+      "collocation": "eat in the school canteen",
+      "collocationCN": "在学校食堂用餐"
+    },
+    {
+      "word": "locker",
+      "ipa": "/ˈlɒkə/",
+      "meaning": "储物柜",
+      "collocation": "keep books in a locker",
+      "collocationCN": "把书放在储物柜里"
+    },
+    {
+      "word": "classmate",
+      "ipa": "/ˈklɑːsmeɪt/",
+      "meaning": "同班同学",
+      "collocation": "get along with classmates",
+      "collocationCN": "与同班同学相处融洽"
+    },
+    {
+      "word": "schoolwork",
+      "ipa": "/ˈskuːlwɜːk/",
+      "meaning": "学校功课",
+      "collocation": "keep up with schoolwork",
+      "collocationCN": "跟上学校功课"
+    },
+    {
+      "word": "homework",
+      "ipa": "/ˈhəʊmwɜːk/",
+      "meaning": "家庭作业",
+      "collocation": "hand in homework on time",
+      "collocationCN": "按时交作业"
+    },
+    {
+      "word": "detention",
+      "ipa": "/dɪˈtenʃən/",
+      "meaning": "课后留校",
+      "collocation": "get a detention for being late",
+      "collocationCN": "因迟到而被课后留校"
+    },
+    {
+      "word": "school uniform",
+      "ipa": "/ˌskuːl ˈjuːnɪfɔːm/",
+      "meaning": "校服",
+      "collocation": "wear a school uniform",
+      "collocationCN": "穿校服"
+    },
+    {
+      "word": "extracurricular",
+      "ipa": "/ˌekstrəkəˈrɪkjələ/",
+      "meaning": "课外的",
+      "collocation": "join an extracurricular activity",
+      "collocationCN": "参加课外活动"
+    },
+    {
+      "word": "school trip",
+      "ipa": "/ˈskuːl trɪp/",
+      "meaning": "学校组织的旅行",
+      "collocation": "go on a school trip",
+      "collocationCN": "参加学校旅行"
+    },
+    {
+      "word": "pupil council",
+      "ipa": "/ˈpjuːpəl ˌkaʊnsəl/",
+      "meaning": "学生委员会",
+      "collocation": "serve on the pupil council",
+      "collocationCN": "担任学生委员会成员"
+    },
+    {
+      "word": "peer support",
+      "ipa": "/ˈpɪə səˌpɔːt/",
+      "meaning": "同伴支持",
+      "collocation": "offer peer support",
+      "collocationCN": "提供同伴支持"
+    },
+    {
+      "word": "pastoral care",
+      "ipa": "/ˌpɑːstərəl ˈkeə/",
+      "meaning": "学生生活与情绪关怀",
+      "collocation": "provide effective pastoral care",
+      "collocationCN": "提供有效的学生关怀"
+    },
+    {
+      "word": "attendance",
+      "ipa": "/əˈtendəns/",
+      "meaning": "出勤；出勤率",
+      "collocation": "maintain good attendance",
+      "collocationCN": "保持良好出勤"
+    },
+    {
+      "word": "punctuality",
+      "ipa": "/ˌpʌŋktʃuˈæləti/",
+      "meaning": "守时",
+      "collocation": "improve pupils’ punctuality",
+      "collocationCN": "提高学生的守时表现"
+    },
+    {
+      "word": "sense of belonging",
+      "ipa": "/ˌsens əv bɪˈlɒŋɪŋ/",
+      "meaning": "归属感",
+      "collocation": "develop a sense of belonging",
+      "collocationCN": "培养归属感"
+    }
+  ],
+  "paraphrases": [
+    {
+      "base": "school rules",
+      "options": [
+        "disciplinary rules",
+        "codes of conduct",
+        "school regulations"
+      ],
+      "note": "disciplinary 强调纪律管理；code of conduct 强调行为规范。"
+    },
+    {
+      "base": "join a school club",
+      "options": [
+        "take part in a club",
+        "become a club member",
+        "participate in an extracurricular group"
+      ],
+      "note": "take part in 强调参加活动，become a member 强调成员身份。"
+    },
+    {
+      "base": "do well at school",
+      "options": [
+        "achieve strong results",
+        "make good academic progress",
+        "perform well academically"
+      ],
+      "note": "progress 强调进步过程，results 强调成绩。"
+    },
+    {
+      "base": "feel part of the school",
+      "options": [
+        "develop a sense of belonging",
+        "feel included",
+        "identify with the school community"
+      ],
+      "note": "belonging 可用于讨论校园归属感。"
+    },
+    {
+      "base": "miss lessons",
+      "options": [
+        "be absent from class",
+        "lose learning time",
+        "miss classroom instruction"
+      ],
+      "note": "absent 是状态，miss 是具体行为。"
+    },
+    {
+      "base": "school friends",
+      "options": [
+        "classmates",
+        "peers",
+        "fellow pupils"
+      ],
+      "note": "peers 强调年龄或地位相近。"
+    },
+    {
+      "base": "activities after class",
+      "options": [
+        "extracurricular activities",
+        "after-school programmes",
+        "co-curricular provision"
+      ],
+      "note": "extracurricular 最常用于正式教育语境。"
+    },
+    {
+      "base": "a pleasant school atmosphere",
+      "options": [
+        "a supportive learning environment",
+        "a positive school climate",
+        "an inclusive campus culture"
+      ],
+      "note": "school climate 强调整体关系与规范。"
+    }
+  ],
+  "sentences": [
+    {
+      "pattern": "What makes + aspect of school + valuable is + noun phrase.",
+      "cn": "使校园生活中某方面有价值的是……。",
+      "example": "What makes group projects valuable is the need to negotiate with classmates."
+    },
+    {
+      "pattern": "It was not until + time/event + that + subject + realised + clause.",
+      "cn": "直到某个时间或事件之后，某人才意识到……。",
+      "example": "It was not until my final year that I realised how much I had learned outside lessons."
+    },
+    {
+      "pattern": "Provided that + condition, + school practice + can + benefit.",
+      "cn": "只要满足某个条件，某种学校做法就能……。",
+      "example": "Provided that rules are explained consistently, school discipline can create a fairer environment."
+    }
+  ],
+  "expressions": [
+    {
+      "text": "settle into a new school",
+      "cn": "适应新学校",
+      "example": "It took me a few weeks to settle into my new school."
+    },
+    {
+      "text": "get on with my classmates",
+      "cn": "与同学相处融洽",
+      "example": "I got on with most of my classmates, even though we had different interests."
+    },
+    {
+      "text": "fall behind with schoolwork",
+      "cn": "学习进度落后",
+      "example": "A long absence can make pupils fall behind with schoolwork."
+    },
+    {
+      "text": "take part in extracurricular activities",
+      "cn": "参加课外活动",
+      "example": "Taking part in extracurricular activities helped me become more confident."
+    },
+    {
+      "text": "create a sense of belonging",
+      "cn": "营造归属感",
+      "example": "Shared traditions can create a sense of belonging among pupils."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "I studied in a boarding school for three years ago.",
+      "correct": "I studied at a boarding school three years ago.",
+      "why": "表示学校地点用 at；明确的过去时间不能和 for 连用。"
+    },
+    {
+      "wrong": "The teacher gave us many homeworks.",
+      "correct": "The teacher gave us a lot of homework.",
+      "why": "homework 是不可数名词。"
+    },
+    {
+      "wrong": "I joined in the school basketball club.",
+      "correct": "I joined the school basketball club.",
+      "why": "表示成为组织成员时，join 后直接接组织。"
+    }
+  ],
+  "writingIdeas": [
+    {
+      "viewpoint": "Extracurricular activities are an essential part of school life.",
+      "topicSentence": "Schools should protect time for activities that develop abilities beyond examination performance.",
+      "collocations": [
+        "develop interpersonal skills",
+        "discover individual strengths",
+        "participate in school life",
+        "improve self-confidence"
+      ],
+      "argument": "Clubs, sports and performances require pupils to cooperate in situations that ordinary lessons rarely provide. Through these activities, young people can discover strengths that are not measured by written tests. A quiet pupil, for instance, may become an effective organiser during a school production. Participation can also connect students from different classes and reduce isolation. Extracurricular provision should therefore be treated as part of education rather than an optional reward."
+    },
+    {
+      "viewpoint": "School rules work best when pupils understand their purpose.",
+      "topicSentence": "Discipline is more effective when rules are limited, consistent and clearly justified.",
+      "collocations": [
+        "apply rules consistently",
+        "set reasonable boundaries",
+        "accept the consequences",
+        "maintain a safe environment"
+      ],
+      "argument": "Rules can protect learning time and prevent stronger pupils from intimidating others. However, unexplained restrictions may be viewed as arbitrary and encourage resistance rather than responsibility. Schools should state which harm each rule is intended to prevent and apply consequences consistently. Inviting pupils to discuss implementation can reveal practical problems without giving them control over every decision. This approach teaches that authority should be accountable as well as firm."
+    }
+  ],
+  "speaking": [
+    {
+      "part": "Part 1",
+      "question": "What did you enjoy most about your school days?",
+      "answer": "I enjoyed the ordinary time between lessons more than any formal event. My friends and I would sit near the sports field, share snacks and talk about whatever had happened that morning. Those short breaks made a fairly demanding school day feel much lighter. I still remember the atmosphere more clearly than most of the classes."
+    },
+    {
+      "part": "Part 2",
+      "question": "Describe a memorable event at your school.",
+      "answer": "I would like to describe a science exhibition held during my final year. Each class had to demonstrate an idea to younger pupils, and my group built a simple water filter from sand, charcoal and recycled bottles. The first version leaked badly, so we spent several afternoons improving it. On the day, children kept asking thoughtful questions, which made the work feel worthwhile. I remember it because it was one of the few school tasks where solving a practical problem mattered more than earning a mark. We displayed the filter beside samples of clean and muddy water, and visitors could pour water through it themselves. Our teacher stayed in the background, so we had to divide the explanations and deal with unexpected questions. By the end, I was tired of repeating the basic steps but proud that the younger pupils remained curious."
+    }
+  ],
+  "reading": {
+    "title": "The Unwritten Curriculum of the School Day",
+    "paragraphs": [
+      "A timetable presents school as a sequence of lessons, but pupils also learn during queues, lunch breaks and journeys between classrooms. In these less supervised moments, they decide who may join a game, how to respond to an insult and whether a rule still matters when no adult is watching. Education researchers sometimes call this the hidden curriculum: the social expectations communicated through routines and relationships rather than through an official syllabus.",
+      "The hidden curriculum can support formal teaching. A school that gives pupils genuine responsibility for equipment or events allows them to practise reliability. Mixed-age activities may enable older students to guide younger ones, turning patience into a visible norm. Such experiences are difficult to reproduce in a worksheet. They also provide evidence of abilities—negotiation, initiative and self-control—that conventional examinations record poorly.",
+      "However, informal learning is not automatically positive. Status can be distributed according to wealth, athletic ability or confidence, leaving some pupils repeatedly excluded. Rules may also carry unintended messages. If teachers demand punctuality but frequently arrive late, or invite discussion but punish respectful disagreement, students learn that authority is exempt from its own principles. The lesson absorbed may be more powerful than the one stated in an assembly.",
+      "Since the 1990s, many schools have used pupil councils and peer-support programmes to make social learning more deliberate. Their success depends less on having a committee than on whether students influence decisions of suitable scale. Choosing a charity event is meaningful; pretending that pupils control staffing is not. Adults remain responsible for safety, yet they can explain limits honestly and model the conduct they expect. Seen in this light, school life is not simply the background to academic education. It is one of the main places where young people test how a community works.",
+      "Space contributes to this education too. A shared courtyard can invite cooperation across friendship groups, whereas narrow corridors organised only for movement provide few safe opportunities to pause. School architecture does not determine behaviour, but it quietly shapes which encounters become easy, supervised or avoidable during an ordinary day."
+    ],
+    "questions": [
+      {
+        "type": "Matching Headings",
+        "prompt": "Choose the best heading for paragraph 3.",
+        "answer": "When informal lessons contradict school values",
+        "explanation": "Paragraph 3 shows that exclusion and inconsistent adult behaviour can teach negative lessons."
+      },
+      {
+        "type": "True / False / Not Given",
+        "prompt": "Conventional examinations measure negotiation skills accurately.",
+        "answer": "False",
+        "explanation": "Paragraph 2 says such abilities are recorded poorly by conventional examinations."
+      },
+      {
+        "type": "Sentence Completion",
+        "prompt": "Pupil councils are meaningful when students can influence decisions of a suitable ______.",
+        "answer": "scale",
+        "explanation": "The final paragraph uses the phrase “decisions of suitable scale”."
+      }
+    ]
+  }
+}
