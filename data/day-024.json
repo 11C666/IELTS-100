@@ -153,7 +153,8 @@
         "a skilled instructor",
         "an accomplished teacher"
       ],
-      "note": "effective 强调教学产生结果。"
+      "note": "effective 强调教学产生结果。",
+      "translation": "一个好的教师可以被表述为一个有效的教育者、一个熟练的指导者、一个有成就的教师。"
     },
     {
       "base": "give advice",
@@ -162,7 +163,8 @@
         "provide direction",
         "point a learner towards"
       ],
-      "note": "guidance 比 advice 更强调持续引导。"
+      "note": "guidance 比 advice 更强调持续引导。",
+      "translation": "给予建议可以表达为提供指导、提供方向、为学习者指明方向。"
     },
     {
       "base": "help someone improve",
@@ -171,7 +173,8 @@
         "enable progress",
         "scaffold improvement"
       ],
-      "note": "scaffold 指提供阶段性支架。"
+      "note": "scaffold 指提供阶段性支架。",
+      "translation": "帮助某人改进可以表达为支持学习者的发展、促进进步、支架改进。"
     },
     {
       "base": "teacher comments",
@@ -180,7 +183,8 @@
         "actionable comments",
         "formative guidance"
       ],
-      "note": "actionable 表示可以据此采取行动。"
+      "note": "actionable 表示可以据此采取行动。",
+      "translation": "教师的评论可以表现为建设性反馈、可操作的评论、形成性指导。"
     },
     {
       "base": "understand a beginner",
@@ -189,7 +193,8 @@
         "recognise a learner’s difficulty",
         "see the task through a beginner’s eyes"
       ],
-      "note": "novice 是正式语境中的初学者。"
+      "note": "novice 是正式语境中的初学者。",
+      "translation": "了解初学者可以表达为重建初学者的视角，认识到学习者的困难，通过初学者的眼光看待任务。"
     },
     {
       "base": "show how to do something",
@@ -198,7 +203,8 @@
         "demonstrate a technique",
         "make expert thinking visible"
       ],
-      "note": "model 在教育中指示范过程。"
+      "note": "model 在教育中指示范过程。",
+      "translation": "展示如何做某事可以表达为对流程进行建模、展示技术、使专家思维可见。"
     },
     {
       "base": "learn independently",
@@ -207,7 +213,8 @@
         "exercise independent judgement",
         "take ownership of learning"
       ],
-      "note": "autonomy 强调自主管理能力。"
+      "note": "autonomy 强调自主管理能力。",
+      "translation": "自主学习可以表现为培养学习者的自主性、锻炼独立判断力、掌握学习的主动权。"
     },
     {
       "base": "common error",
@@ -216,51 +223,60 @@
         "typical learner mistake",
         "frequent misunderstanding"
       ],
-      "note": "misconception 指概念理解错误。"
+      "note": "misconception 指概念理解错误。",
+      "translation": "常见错误可以表现为反复出现的误解、典型的学习者错误、频繁的误解。"
     }
   ],
   "sentences": [
     {
       "pattern": "A teacher can encourage + quality + not by + action, but by + alternative.",
       "cn": "教师可以通过……而不是……来培养某种品质。",
-      "example": "A teacher can encourage independence not by withholding help, but by asking guiding questions."
+      "example": "A teacher can encourage independence not by withholding help, but by asking guiding questions.",
+      "exampleTranslation": "老师可以通过提出指导性问题而不是拒绝帮助来鼓励独立性。"
     },
     {
       "pattern": "Had it not been for + mentor/support, + learner + might have + past participle.",
       "cn": "如果没有某位导师或某种支持，学习者可能已经……。",
-      "example": "Had it not been for my mentor’s advice, I might have abandoned the project too early."
+      "example": "Had it not been for my mentor’s advice, I might have abandoned the project too early.",
+      "exampleTranslation": "如果没有导师的建议，我可能会过早放弃这个项目。"
     },
     {
       "pattern": "The value of + feedback + lies in its ability to + verb, rather than merely to + verb.",
       "cn": "某种反馈的价值在于它能……，而不只是……。",
-      "example": "The value of feedback lies in its ability to guide revision, rather than merely to justify a grade."
+      "example": "The value of feedback lies in its ability to guide revision, rather than merely to justify a grade.",
+      "exampleTranslation": "反馈的价值在于它能够指导复习，而不仅仅是证明成绩的合理性。"
     }
   ],
   "expressions": [
     {
       "text": "bring out the best in someone",
       "cn": "激发某人的最佳状态",
-      "example": "A patient teacher can bring out the best in a hesitant pupil."
+      "example": "A patient teacher can bring out the best in a hesitant pupil.",
+      "exampleTranslation": "耐心的老师可以让犹豫不决的学生发挥出最好的一面。"
     },
     {
       "text": "point me in the right direction",
       "cn": "给我正确方向的指引",
-      "example": "My mentor did not solve the problem, but she pointed me in the right direction."
+      "example": "My mentor did not solve the problem, but she pointed me in the right direction.",
+      "exampleTranslation": "我的导师没有解决问题，但她为我指明了正确的方向。"
     },
     {
       "text": "give constructive feedback",
       "cn": "给予建设性反馈",
-      "example": "Good teachers give constructive feedback that students can act on."
+      "example": "Good teachers give constructive feedback that students can act on.",
+      "exampleTranslation": "好的老师会提供建设性的反馈，学生可以据此采取行动。"
     },
     {
       "text": "set a good example",
       "cn": "树立好榜样",
-      "example": "A mentor sets a good example by admitting uncertainty."
+      "example": "A mentor sets a good example by admitting uncertainty.",
+      "exampleTranslation": "导师承认不确定性，树立了良好的榜样。"
     },
     {
       "text": "build a learner’s confidence",
       "cn": "建立学习者的信心",
-      "example": "Specific praise can build a learner’s confidence without exaggerating progress."
+      "example": "Specific praise can build a learner’s confidence without exaggerating progress.",
+      "exampleTranslation": "具体的表扬可以增强学习者的信心，但又不会夸大进步。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "revise a first draft",
         "set an achievable target"
       ],
-      "argument": "A mark shows the level reached, but it rarely explains how to improve. Specific comments can identify one successful choice and one priority for revision, making the next step manageable. When pupils receive ten vague criticisms at once, they may focus on disappointment instead of action. Teachers can also ask students to apply feedback to a short second draft. The value of assessment therefore lies in the improvement it produces, not in the quantity of comments written."
+      "argument": "A mark shows the level reached, but it rarely explains how to improve. Specific comments can identify one successful choice and one priority for revision, making the next step manageable. When pupils receive ten vague criticisms at once, they may focus on disappointment instead of action. Teachers can also ask students to apply feedback to a short second draft. The value of assessment therefore lies in the improvement it produces, not in the quantity of comments written.",
+      "viewpointTranslation": "有用的反馈必须足够具体以指导行动。",
+      "topicSentenceTranslation": "只有当学生能够理解接下来要改变什么时，评论才能改善学习。",
+      "collocationTranslations": [
+        "提供建设性反馈",
+        "找出弱点",
+        "修改初稿",
+        "设定一个可实现的目标"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A mark shows the level reached, but it rarely explains how to improve.",
+          "translation": "一个标记显示了达到的水平，但很少解释如何改进。"
+        },
+        {
+          "text": "Specific comments can identify one successful choice and one priority for revision, making the next step manageable.",
+          "translation": "具体的意见可以确定一个成功的选择和一个修改的优先事项，使下一步易于管理。"
+        },
+        {
+          "text": "When pupils receive ten vague criticisms at once, they may focus on disappointment instead of action.",
+          "translation": "当学生同时收到十个含糊的批评时，他们可能会关注失望而不是行动。"
+        },
+        {
+          "text": "Teachers can also ask students to apply feedback to a short second draft.",
+          "translation": "教师还可以要求学生将反馈应用于简短的第二稿。"
+        },
+        {
+          "text": "The value of assessment therefore lies in the improvement it produces, not in the quantity of comments written.",
+          "translation": "因此，评估的价值在于它所带来的改进，而不在于所写评论的数量。"
+        }
+      ]
     },
     {
       "viewpoint": "Mentors should support decisions without creating dependence.",
@@ -301,19 +347,111 @@
         "develop independent judgement",
         "take ownership of decisions"
       ],
-      "argument": "An experienced mentor can reveal options and risks that a beginner has not noticed. If the mentor always supplies the answer, however, the learner may become less confident when working alone. Questions such as “What evidence supports that choice?” require the learner to explain and refine a decision. Over time, responsibility can shift as competence grows. Successful mentoring is therefore measured partly by how little direction the learner eventually needs."
+      "argument": "An experienced mentor can reveal options and risks that a beginner has not noticed. If the mentor always supplies the answer, however, the learner may become less confident when working alone. Questions such as “What evidence supports that choice?” require the learner to explain and refine a decision. Over time, responsibility can shift as competence grows. Successful mentoring is therefore measured partly by how little direction the learner eventually needs.",
+      "viewpointTranslation": "导师应该支持决策而不产生依赖性。",
+      "topicSentenceTranslation": "有效的指导可以提高学习者的判断能力，而不是取代个人判断。",
+      "collocationTranslations": [
+        "提供知情指导",
+        "提出反思性问题",
+        "培养独立判断力",
+        "掌握决策权"
+      ],
+      "argumentSentences": [
+        {
+          "text": "An experienced mentor can reveal options and risks that a beginner has not noticed.",
+          "translation": "经验丰富的导师可以揭示初学者没有注意到的选项和风险。"
+        },
+        {
+          "text": "If the mentor always supplies the answer, however, the learner may become less confident when working alone.",
+          "translation": "然而，如果导师总是提供答案，学习者在独自工作时可能会变得不那么自信。"
+        },
+        {
+          "text": "Questions such as “What evidence supports that choice?”",
+          "translation": "诸如“什么证据支持这个选择？”之类的问题。"
+        },
+        {
+          "text": "require the learner to explain and refine a decision.",
+          "translation": "要求学习者解释并完善决定。"
+        },
+        {
+          "text": "Over time, responsibility can shift as competence grows.",
+          "translation": "随着时间的推移，责任会随着能力的增长而转移。"
+        },
+        {
+          "text": "Successful mentoring is therefore measured partly by how little direction the learner eventually needs.",
+          "translation": "因此，成功的指导在一定程度上取决于学习者最终需要的指导有多少。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Did you have a teacher who made a subject more interesting?",
-      "answer": "Yes, my history teacher made the subject feel like an investigation rather than a list of dates. She often showed us two accounts of the same event and asked why they differed. That made every lesson slightly unpredictable, and I began reading beyond the textbook. Her enthusiasm mattered, but the questions she chose mattered even more."
+      "answer": "Yes, my history teacher made the subject feel like an investigation rather than a list of dates. She often showed us two accounts of the same event and asked why they differed. That made every lesson slightly unpredictable, and I began reading beyond the textbook. Her enthusiasm mattered, but the questions she chose mattered even more.",
+      "questionTranslation": "您是否有一位老师让某个科目变得更有趣？",
+      "answerSentences": [
+        {
+          "text": "Yes, my history teacher made the subject feel like an investigation rather than a list of dates.",
+          "translation": "有，我的历史老师让这门课像是在调查问题，而不只是记忆一串日期。"
+        },
+        {
+          "text": "She often showed us two accounts of the same event and asked why they differed.",
+          "translation": "她经常向我们展示同一事件的两个描述，并询问为什么它们不同。"
+        },
+        {
+          "text": "That made every lesson slightly unpredictable, and I began reading beyond the textbook.",
+          "translation": "这使得每节课都有点不可预测，我开始阅读课本以外的内容。"
+        },
+        {
+          "text": "Her enthusiasm mattered, but the questions she chose mattered even more.",
+          "translation": "她的热情很重要，但她选择的问题更重要。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe someone who gave you useful guidance.",
-      "answer": "A senior colleague once guided me through my first large presentation. Instead of rewriting my slides, he asked me to state the one idea the audience should remember. I realised that half the material did not support that goal, so I removed it. He then watched a rehearsal and pointed out where my explanation became too technical. His advice was useful because it changed how I plan presentations, not just that single piece of work. Before that conversation, I had assumed that more detail would make me sound better prepared. He showed me that an audience needs selection, not a record of everything I know. I still use his question when editing reports. The guidance was memorable because he respected my ownership of the work while helping me see it from the listener’s perspective."
+      "answer": "A senior colleague once guided me through my first large presentation. Instead of rewriting my slides, he asked me to state the one idea the audience should remember. I realised that half the material did not support that goal, so I removed it. He then watched a rehearsal and pointed out where my explanation became too technical. His advice was useful because it changed how I plan presentations, not just that single piece of work. Before that conversation, I had assumed that more detail would make me sound better prepared. He showed me that an audience needs selection, not a record of everything I know. I still use his question when editing reports. The guidance was memorable because he respected my ownership of the work while helping me see it from the listener’s perspective.",
+      "questionTranslation": "描述一个给过你有用指导的人。",
+      "answerSentences": [
+        {
+          "text": "A senior colleague once guided me through my first large presentation.",
+          "translation": "一位资深同事曾经指导我完成了我的第一次大型演讲。"
+        },
+        {
+          "text": "Instead of rewriting my slides, he asked me to state the one idea the audience should remember.",
+          "translation": "他没有重写我的幻灯片，而是要求我陈述观众应该记住的一个想法。"
+        },
+        {
+          "text": "I realised that half the material did not support that goal, so I removed it.",
+          "translation": "我意识到一半的材料不支持这个目标，所以我删除了它。"
+        },
+        {
+          "text": "He then watched a rehearsal and pointed out where my explanation became too technical.",
+          "translation": "然后他观看了一次排练，并指出我的解释在哪里变得过于技术性。"
+        },
+        {
+          "text": "His advice was useful because it changed how I plan presentations, not just that single piece of work.",
+          "translation": "他的建议很有用，因为它改变了我规划演示的整体方式，而不只适用于那一次任务。"
+        },
+        {
+          "text": "Before that conversation, I had assumed that more detail would make me sound better prepared.",
+          "translation": "在那次谈话之前，我以为更多的细节会让我听起来准备得更好。"
+        },
+        {
+          "text": "He showed me that an audience needs selection, not a record of everything I know.",
+          "translation": "他让我明白，听众需要的是经过取舍的内容，而不是我所知道的一切的完整记录。"
+        },
+        {
+          "text": "I still use his question when editing reports.",
+          "translation": "我在编辑报告时仍然使用他的问题。"
+        },
+        {
+          "text": "The guidance was memorable because he respected my ownership of the work while helping me see it from the listener’s perspective.",
+          "translation": "这种指导令人难忘，因为他尊重我对作品的所有权，同时帮助我从听众的角度看待它。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +488,107 @@
         "answer": "No",
         "explanation": "The final paragraph says too little intervention can leave difficulty without meaning."
       }
+    ],
+    "titleTranslation": "当专业知识变得可传授时",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Expertise does not automatically produce good teaching.",
+          "translation": "专业知识并不会自动产生良好的教学。"
+        },
+        {
+          "text": "An accomplished musician may perform a movement without consciously recalling its separate actions, while a fluent reader recognises patterns too quickly to describe them.",
+          "translation": "一位有成就的音乐家可能会在没有有意识地回忆其单独动作的情况下演奏一个动作，而流利的读者会很快地识别模式而无法描述它们。"
+        },
+        {
+          "text": "Skills that once demanded attention have become automatic.",
+          "translation": "曾经需要关注的技能已经变得自动化。"
+        },
+        {
+          "text": "This efficiency benefits the expert, but it can create a gap when a beginner needs each hidden decision made visible.",
+          "translation": "这种效率有利于专家，但当初学者需要将每个隐藏的决策变得可见时，它可能会造成差距。"
+        }
+      ],
+      [
+        {
+          "text": "Researchers studying instruction describe a related “curse of knowledge”: once people understand a concept, they find it difficult to imagine not understanding it.",
+          "translation": "研究教学的研究人员描述了一个相关的“知识诅咒”：一旦人们理解了一个概念，他们就很难想象不理解它。"
+        },
+        {
+          "text": "A teacher may omit an intermediate step because it seems obvious or use a technical word without noticing that it contains the whole problem for a novice.",
+          "translation": "老师可能会省略中间步骤，因为它看起来很明显，或者使用技术术语，而没有注意到它包含了新手的整个问题。"
+        },
+        {
+          "text": "Repeating the same explanation more slowly does not necessarily help, since the missing connection remains missing.",
+          "translation": "更慢地重复相同的解释不一定有帮助，因为丢失的连接仍然丢失。"
+        }
+      ],
+      [
+        {
+          "text": "Experienced teachers develop ways to reconstruct the learner’s view.",
+          "translation": "经验丰富的教师会开发一些方法来重建学习者的观点。"
+        },
+        {
+          "text": "They examine common errors, ask pupils to explain their reasoning and use questions that reveal where understanding changed direction.",
+          "translation": "他们检查常见错误，要求学生解释他们的推理，并使用问题来揭示理解改变方向的地方。"
+        },
+        {
+          "text": "An incorrect answer then becomes evidence rather than merely failure.",
+          "translation": "错误的答案将成为证据，而不仅仅是失败。"
+        },
+        {
+          "text": "A student who adds fractions incorrectly, for example, may be applying a sensible rule learned for whole numbers.",
+          "translation": "例如，一个错误地添加分数的学生可能正在应用学到的整数的合理规则。"
+        },
+        {
+          "text": "Addressing that rule is more useful than simply demonstrating the calculation again.",
+          "translation": "解决该规则比简单地再次演示计算更有用。"
+        }
+      ],
+      [
+        {
+          "text": "Mentoring presents the same challenge in less formal settings.",
+          "translation": "在不太正式的环境中，指导也会带来同样的挑战。"
+        },
+        {
+          "text": "A mentor must decide when to model a process, when to offer a hint and when to allow productive struggle.",
+          "translation": "导师必须决定何时对流程进行建模、何时提供提示以及何时进行富有成效的斗争。"
+        },
+        {
+          "text": "Too much intervention completes the task but removes the learner’s opportunity to make a judgement.",
+          "translation": "过多的干预可以完成任务，但会剥夺学习者做出判断的机会。"
+        },
+        {
+          "text": "Too little can leave difficulty without meaning.",
+          "translation": "太少会使困难变得毫无意义。"
+        },
+        {
+          "text": "Teachable expertise therefore involves more than possessing answers.",
+          "translation": "因此，可传授的专业知识不仅仅涉及拥有答案。"
+        },
+        {
+          "text": "It requires an accurate picture of what the other person can currently see and a choice of support that extends that view by one manageable step.",
+          "translation": "它需要准确了解他人当前可以看到的内容，并选择一种支持方式，将这种观点扩展为一个可管理的步骤。"
+        }
+      ],
+      [
+        {
+          "text": "Examples and analogies are particularly revealing tests of teachable knowledge.",
+          "translation": "例子和类比特别能揭示可传授知识的测试。"
+        },
+        {
+          "text": "An expert who can present the same principle through a diagram, a concrete case and a counterexample is less dependent on one memorised explanation.",
+          "translation": "能够通过图表、具体案例和反例来表达同一原理的专家较少依赖于一种记忆的解释。"
+        },
+        {
+          "text": "Learners can then connect new material to different prior experiences.",
+          "translation": "然后，学习者可以将新材料与不同的先前经验联系起来。"
+        },
+        {
+          "text": "Variety is not decoration; it increases the chance that the underlying relationship, rather than the surface wording, becomes understood.",
+          "translation": "多样性不是装饰；而是多样性。它增加了理解潜在关系而不是表面措辞的机会。"
+        }
+      ]
     ]
   }
 }

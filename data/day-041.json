@@ -148,6 +148,7 @@
   "paraphrases": [
     {
       "base": "cause",
+      "translation": "reason 可以表达为“原因”“成因”或“导致某种结果的因素”。",
       "options": [
         "lead to",
         "contribute to",
@@ -157,6 +158,7 @@
     },
     {
       "base": "benefit",
+      "translation": "benefit 可以表达为“益处”“优势”或“积极影响”。",
       "options": [
         "advantage",
         "positive effect",
@@ -166,6 +168,7 @@
     },
     {
       "base": "harm",
+      "translation": "harm 可以表达为“伤害”“损害”或“产生负面影响”。",
       "options": [
         "damage",
         "negative effect",
@@ -175,6 +178,7 @@
     },
     {
       "base": "support",
+      "translation": "support 可以表达为“支持”“为……提供依据”或“帮助维持”。",
       "options": [
         "assistance",
         "backing",
@@ -184,6 +188,7 @@
     },
     {
       "base": "different",
+      "translation": "different 可以表达为“不同的”“有区别的”或“多样化的”。",
       "options": [
         "distinct",
         "varied",
@@ -193,6 +198,7 @@
     },
     {
       "base": "common",
+      "translation": "common 可以表达为“常见的”“普遍的”或“广泛存在的”。",
       "options": [
         "widespread",
         "frequently observed",
@@ -202,6 +208,7 @@
     },
     {
       "base": "help",
+      "translation": "help 可以表达为“帮助”“促进”或“使……更容易实现”。",
       "options": [
         "assist",
         "enable",
@@ -211,6 +218,7 @@
     },
     {
       "base": "problem",
+      "translation": "problem 可以表达为“问题”“困难”或“需要解决的挑战”。",
       "options": [
         "challenge",
         "concern",
@@ -223,44 +231,52 @@
     {
       "pattern": "The more reliable + transport service + becomes, the more likely commuters are to + behaviour.",
       "cn": "某种交通服务越可靠，通勤者就越可能……。",
-      "example": "The more reliable the bus service becomes, the more likely commuters are to leave their cars at home."
+      "example": "The more reliable the bus service becomes, the more likely commuters are to leave their cars at home.",
+      "exampleTranslation": "公交服务越可靠，通勤者把汽车留在家中的可能性就越大。"
     },
     {
       "pattern": "Had + transport investment + been planned around + users, + outcome + might have been avoided.",
       "cn": "如果交通投资围绕某类使用者规划，某结果本可避免。",
-      "example": "Had the station been planned around pedestrians, the dangerous crossing might have been avoided."
+      "example": "Had the station been planned around pedestrians, the dangerous crossing might have been avoided.",
+      "exampleTranslation": "如果车站以行人为中心进行规划，那个危险的过街点或许本可以避免。"
     },
     {
       "pattern": "A journey that takes + time + by + mode + may nevertheless be preferable when + reason.",
       "cn": "乘某交通方式耗时……的旅程，在某种情况下仍可能更可取。",
-      "example": "A journey that takes longer by train may nevertheless be preferable when parking is scarce."
+      "example": "A journey that takes longer by train may nevertheless be preferable when parking is scarce.",
+      "exampleTranslation": "当停车位紧张时，即使乘火车耗时更长，也可能是更可取的选择。"
     }
   ],
   "expressions": [
     {
       "text": "get stuck in traffic",
       "cn": "堵在路上",
-      "example": "I often get stuck in traffic during the evening rush hour."
+      "example": "I often get stuck in traffic during the evening rush hour.",
+      "exampleTranslation": "我经常在晚高峰遇上堵车。"
     },
     {
       "text": "miss a connection",
       "cn": "错过换乘",
-      "example": "A delayed bus can make passengers miss a rail connection."
+      "example": "A delayed bus can make passengers miss a rail connection.",
+      "exampleTranslation": "公交车延误可能导致乘客错过换乘火车。"
     },
     {
-      "text": "within walking distance",
-      "cn": "步行可达",
-      "example": "The station is within walking distance of my home."
+      "text": "cut down on travel time",
+      "cn": "缩短出行时间",
+      "example": "A direct bus route would cut down on my travel time.",
+      "exampleTranslation": "直达公交线路可以缩短我的出行时间。"
     },
     {
       "text": "ease traffic congestion",
       "cn": "缓解交通拥堵",
-      "example": "Frequent buses can ease traffic congestion on busy corridors."
+      "example": "Frequent buses can ease traffic congestion on busy corridors.",
+      "exampleTranslation": "班次频繁的公交车能够缓解繁忙交通走廊的拥堵。"
     },
     {
       "text": "provide a reliable service",
       "cn": "提供可靠服务",
-      "example": "Passengers need operators to provide a reliable service throughout the day."
+      "example": "Passengers need operators to provide a reliable service throughout the day.",
+      "exampleTranslation": "乘客需要运营商全天提供可靠服务。"
     }
   ],
   "mistakes": [
@@ -283,41 +299,252 @@
   "writingIdeas": [
     {
       "viewpoint": "Reliability is more important than headline speed.",
+      "viewpointTranslation": "可靠性比宣传中的最高速度更重要。",
       "topicSentence": "Public transport attracts regular users when arrival and journey times are dependable.",
+      "topicSentenceTranslation": "当到站时间和行程时间可靠时，公共交通才能吸引固定乘客。",
       "collocations": [
         "provide a frequent service",
         "reduce waiting time",
         "publish real-time information",
         "build passenger confidence"
       ],
-      "argument": "A very fast train offers limited value if cancellations make arrival unpredictable. Commuters organise childcare and work around the time they expect to reach a destination, so uncertainty imposes costs beyond the minutes lost. Frequent services, protected connections and accurate disruption information make the network easier to trust. Once passengers can plan confidently, public transport becomes a realistic alternative to driving. Investment should therefore measure reliability across an ordinary week rather than advertise only maximum speed."
+      "argument": "A very fast train offers limited value if cancellations make arrival unpredictable. Commuters organise childcare and work around the time they expect to reach a destination, so uncertainty imposes costs beyond the minutes lost. Frequent services, protected connections and accurate disruption information make the network easier to trust. Once passengers can plan confidently, public transport becomes a realistic alternative to driving. Investment should therefore measure reliability across an ordinary week rather than advertise only maximum speed.",
+      "collocationTranslations": [
+        "提供高频服务",
+        "缩短等待时间",
+        "发布实时信息",
+        "建立乘客信心"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A very fast train offers limited value if cancellations make arrival unpredictable.",
+          "translation": "如果班次取消导致到达时间无法预测，再快的列车也价值有限。"
+        },
+        {
+          "text": "Commuters organise childcare and work around the time they expect to reach a destination, so uncertainty imposes costs beyond the minutes lost.",
+          "translation": "通勤者会根据预计到达时间安排托儿和工作，因此不确定性造成的成本不只是损失的几分钟。"
+        },
+        {
+          "text": "Frequent services, protected connections and accurate disruption information make the network easier to trust.",
+          "translation": "高频班次、有保障的换乘和准确的中断信息使交通网络更值得信赖。"
+        },
+        {
+          "text": "Once passengers can plan confidently, public transport becomes a realistic alternative to driving.",
+          "translation": "一旦乘客能够放心规划行程，公共交通就会成为驾车之外切实可行的选择。"
+        },
+        {
+          "text": "Investment should therefore measure reliability across an ordinary week rather than advertise only maximum speed.",
+          "translation": "因此，投资应衡量普通一周内的可靠性，而不是只宣传最高速度。"
+        }
+      ]
     },
     {
       "viewpoint": "Street space should reflect the number of people moved, not only vehicles counted.",
+      "viewpointTranslation": "街道空间分配应体现运送的人数，而不应只统计车辆数。",
       "topicSentence": "Transport planning should allocate limited road space according to efficiency, safety and public value.",
+      "topicSentenceTranslation": "交通规划应根据效率、安全和公共价值分配有限的道路空间。",
       "collocations": [
         "reallocate road space",
         "create a bus lane",
         "protect vulnerable road users",
         "move more passengers"
       ],
-      "argument": "A private car may occupy many times the space of a bicycle or bus passenger. Giving every mode equal road width can therefore reduce the number of people able to travel along a crowded corridor. Dedicated lanes allow buses to avoid the congestion they help reduce, while safe crossings support short walking trips. Drivers may face less space initially, but a more efficient network can lower total traffic. Allocation should be judged by movement and access rather than vehicle throughput alone."
+      "argument": "A private car may occupy many times the space of a bicycle or bus passenger. Giving every mode equal road width can therefore reduce the number of people able to travel along a crowded corridor. Dedicated lanes allow buses to avoid the congestion they help reduce, while safe crossings support short walking trips. Drivers may face less space initially, but a more efficient network can lower total traffic. Allocation should be judged by movement and access rather than vehicle throughput alone.",
+      "collocationTranslations": [
+        "重新分配道路空间",
+        "设置公交专用道",
+        "保护弱势道路使用者",
+        "运送更多乘客"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A private car may occupy many times the space of a bicycle or bus passenger.",
+          "translation": "一辆私家车占用的空间可能是骑自行车者或公交乘客的许多倍。"
+        },
+        {
+          "text": "Giving every mode equal road width can therefore reduce the number of people able to travel along a crowded corridor.",
+          "translation": "因此，为每种交通方式分配相同宽度的道路，可能会减少拥挤走廊能够承载的人数。"
+        },
+        {
+          "text": "Dedicated lanes allow buses to avoid the congestion they help reduce, while safe crossings support short walking trips.",
+          "translation": "专用车道使公交车避开其有助于缓解的拥堵，而安全过街设施则支持短途步行。"
+        },
+        {
+          "text": "Drivers may face less space initially, but a more efficient network can lower total traffic.",
+          "translation": "驾车者最初可能可用空间减少，但效率更高的交通网络能够降低总体车流量。"
+        },
+        {
+          "text": "Allocation should be judged by movement and access rather than vehicle throughput alone.",
+          "translation": "空间分配应根据人员流动和出行可达性来评判，而不能只看车辆通行量。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "How do you usually travel around your city?",
-      "answer": "I normally use the metro for longer journeys and walk for anything nearby. The metro is predictable, whereas buses can be delayed by traffic. I still take a taxi late at night if the route involves several changes. My choice depends more on reliability and convenience than on speed alone."
+      "questionTranslation": "你通常怎样在城市里出行？",
+      "answer": "I normally use the metro for longer journeys and walk for anything nearby. The metro is predictable, whereas buses can be delayed by traffic. I still take a taxi late at night if the route involves several changes. My choice depends more on reliability and convenience than on speed alone.",
+      "answerSentences": [
+        {
+          "text": "I normally use the metro for longer journeys and walk for anything nearby.",
+          "translation": "较远的行程我通常乘地铁，附近的地方则步行前往。"
+        },
+        {
+          "text": "The metro is predictable, whereas buses can be delayed by traffic.",
+          "translation": "地铁时间比较可靠，而公交车可能因交通拥堵而延误。"
+        },
+        {
+          "text": "I still take a taxi late at night if the route involves several changes.",
+          "translation": "如果路线需要多次换乘，深夜时我还是会乘出租车。"
+        },
+        {
+          "text": "My choice depends more on reliability and convenience than on speed alone.",
+          "translation": "我的选择更多取决于可靠性和便利性，而不只是速度。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a journey that you make regularly.",
-      "answer": "I regularly travel across the city to visit a relative. I walk about ten minutes to the metro, change lines once and then take a short bus ride. The whole journey lasts just over an hour, but each stage is usually reliable. I use the train time to read, so it does not feel completely wasted. The difficult part is the final connection because the bus runs less frequently in the evening. If I miss it, I walk the remaining distance. I know the route so well now that I notice small changes, such as a new crossing or a delayed escalator. It is not an exciting journey, but it has made me appreciate how connections determine whether a transport network feels convenient."
+      "questionTranslation": "描述一段你经常进行的旅程。",
+      "answer": "I regularly travel across the city to visit a relative. I walk about ten minutes to the metro, change lines once and then take a short bus ride. The whole journey lasts just over an hour, but each stage is usually reliable. I use the train time to read, so it does not feel completely wasted. The difficult part is the final connection because the bus runs less frequently in the evening. If I miss it, I walk the remaining distance. I know the route so well now that I notice small changes, such as a new crossing or a delayed escalator. It is not an exciting journey, but it has made me appreciate how connections determine whether a transport network feels convenient.",
+      "answerSentences": [
+        {
+          "text": "I regularly travel across the city to visit a relative.",
+          "translation": "我经常穿过城市去探望一位亲戚。"
+        },
+        {
+          "text": "I walk about ten minutes to the metro, change lines once and then take a short bus ride.",
+          "translation": "我步行约十分钟到地铁站，换乘一次，然后坐一小段公交车。"
+        },
+        {
+          "text": "The whole journey lasts just over an hour, but each stage is usually reliable.",
+          "translation": "全程刚刚超过一小时，不过每一段通常都很可靠。"
+        },
+        {
+          "text": "I use the train time to read, so it does not feel completely wasted.",
+          "translation": "我会利用乘车时间阅读，因此不会觉得时间完全浪费了。"
+        },
+        {
+          "text": "The difficult part is the final connection because the bus runs less frequently in the evening.",
+          "translation": "困难的是最后一次换乘，因为晚间公交班次较少。"
+        },
+        {
+          "text": "If I miss it, I walk the remaining distance.",
+          "translation": "如果错过，我就步行走完剩下的路。"
+        },
+        {
+          "text": "I know the route so well now that I notice small changes, such as a new crossing or a delayed escalator.",
+          "translation": "现在我对这条路线非常熟悉，连新的过街点或晚开的自动扶梯等细微变化都会注意到。"
+        },
+        {
+          "text": "It is not an exciting journey, but it has made me appreciate how connections determine whether a transport network feels convenient.",
+          "translation": "这段旅程并不精彩，却让我体会到换乘衔接如何决定一个交通网络是否让人觉得便利。"
+        }
+      ]
     }
   ],
   "reading": {
     "title": "The Bus Stop as a Measure of Access",
+    "titleTranslation": "作为可达性衡量标准的公交站",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Transport maps usually represent a bus stop as a dot.",
+          "translation": "交通地图通常用一个圆点表示公交站。"
+        },
+        {
+          "text": "For passengers, however, access begins before the vehicle arrives.",
+          "translation": "然而，对乘客而言，可达性在车辆到达前就已经开始。"
+        },
+        {
+          "text": "A person must reach the stop, identify the correct service, wait safely and board.",
+          "translation": "人们必须到达车站、辨认正确班次、安全候车并上车。"
+        },
+        {
+          "text": "Each step contains barriers that disappear from a route diagram.",
+          "translation": "每一个步骤都存在路线图上看不见的障碍。"
+        },
+        {
+          "text": "A bus passing close to a neighbourhood does not provide meaningful access if the only path crosses fast traffic or the timetable cannot be read.",
+          "translation": "如果唯一通道需要穿过高速车流，或时刻表无法看懂，那么公交车即使经过社区附近，也不能提供真正的出行可达性。"
+        }
+      ],
+      [
+        {
+          "text": "Distance has different meanings for different users.",
+          "translation": "距离对不同使用者有不同意义。"
+        },
+        {
+          "text": "Four hundred metres may be a comfortable walk for one passenger but impossible for someone with limited mobility, heavy shopping or a young child.",
+          "translation": "四百米对一位乘客可能是轻松的步行距离，对行动不便、携带大量购物物品或带着幼儿的人却可能无法完成。"
+        },
+        {
+          "text": "Gradient, pavement condition and places to rest also influence the effort required.",
+          "translation": "坡度、人行道状况和休息地点也会影响所需体力。"
+        },
+        {
+          "text": "Researchers who audit stops therefore examine the surrounding street rather than measuring a straight line from nearby homes.",
+          "translation": "因此，审核公交站的研究人员会考察周边街道，而不是只测量车站与附近住宅之间的直线距离。"
+        }
+      ],
+      [
+        {
+          "text": "Waiting conditions affect perceived reliability.",
+          "translation": "候车条件会影响人们对可靠性的感受。"
+        },
+        {
+          "text": "A ten-minute interval feels manageable when real-time information confirms that a bus is coming; the same interval feels uncertain without shelter, lighting or a visible timetable.",
+          "translation": "当实时信息确认公交车即将到来时，十分钟的间隔会让人觉得可以接受；如果没有候车棚、照明或清晰可见的时刻表，同样的间隔就会令人不安。"
+        },
+        {
+          "text": "At rural stops, low passenger numbers can make expensive infrastructure difficult to justify, yet a simple seat and clear information may determine whether an older resident can use the service independently.",
+          "translation": "在乡村车站，乘客人数少可能难以证明昂贵设施的合理性，但一张简单的座椅和清晰的信息却可能决定老年居民能否独立使用这项服务。"
+        }
+      ],
+      [
+        {
+          "text": "Boarding is another link in the chain.",
+          "translation": "上车是这条链条中的另一个环节。"
+        },
+        {
+          "text": "A low-floor vehicle offers little benefit when parked cars prevent it from reaching the kerb.",
+          "translation": "如果停放的汽车阻止低地板车辆靠近路缘，其优势就所剩无几。"
+        },
+        {
+          "text": "Drivers need training and sufficient schedule time to position the bus correctly.",
+          "translation": "驾驶员需要接受培训，并在时刻安排中拥有足够时间让车辆正确停靠。"
+        },
+        {
+          "text": "Ticket rules must also be understandable before passengers block the entrance while searching for payment.",
+          "translation": "票务规则也必须易于理解，以免乘客在寻找付款方式时堵住入口。"
+        },
+        {
+          "text": "None of these details is dramatic, but together they decide who can travel.",
+          "translation": "这些细节都不引人注目，但它们共同决定了谁能够出行。"
+        }
+      ],
+      [
+        {
+          "text": "A stop should consequently be assessed as a small transport system rather than a pole beside a road.",
+          "translation": "因此，公交站应被视为一个小型交通系统进行评估，而不只是路边的一根站牌。"
+        },
+        {
+          "text": "Audits can follow several users from their door to a seat on the bus and record where assistance becomes necessary.",
+          "translation": "审核人员可以跟随几位使用者从家门口走到公交车座位，并记录在哪些地方需要帮助。"
+        },
+        {
+          "text": "Improvements may involve the transport operator, the highway authority and nearby property owners.",
+          "translation": "改进工作可能涉及交通运营商、公路主管部门和附近业主。"
+        },
+        {
+          "text": "The dot on the map becomes genuine access only when those separate responsibilities connect.",
+          "translation": "只有当这些彼此分散的责任衔接起来时，地图上的圆点才会成为真正可达的公交服务。"
+        }
+      ]
+    ],
     "paragraphs": [
       "Transport maps usually represent a bus stop as a dot. For passengers, however, access begins before the vehicle arrives. A person must reach the stop, identify the correct service, wait safely and board. Each step contains barriers that disappear from a route diagram. A bus passing close to a neighbourhood does not provide meaningful access if the only path crosses fast traffic or the timetable cannot be read.",
       "Distance has different meanings for different users. Four hundred metres may be a comfortable walk for one passenger but impossible for someone with limited mobility, heavy shopping or a young child. Gradient, pavement condition and places to rest also influence the effort required. Researchers who audit stops therefore examine the surrounding street rather than measuring a straight line from nearby homes.",

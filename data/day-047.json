@@ -153,7 +153,8 @@
         "negative effect",
         "undermine"
       ],
-      "note": "undermine 强调逐渐削弱。 本组可用于讨论新闻与媒体。"
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论新闻与媒体。",
+      "translation": "harm 表示伤害；damage、negative effect 和 undermine 可表示损害、负面影响或削弱。"
     },
     {
       "base": "support",
@@ -162,7 +163,8 @@
         "backing",
         "provision"
       ],
-      "note": "provision 常指服务或资源的供给。 本组可用于讨论新闻与媒体。"
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论新闻与媒体。",
+      "translation": "support 表示支持；assistance、backing 和 provision 可分别表示帮助、支持及供给。"
     },
     {
       "base": "different",
@@ -171,7 +173,8 @@
         "varied",
         "diverse"
       ],
-      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论新闻与媒体。"
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论新闻与媒体。",
+      "translation": "different 表示不同；distinct、varied 和 diverse 可强调区别、变化或多样性。"
     },
     {
       "base": "common",
@@ -180,7 +183,8 @@
         "frequently observed",
         "part of everyday life"
       ],
-      "note": "widespread 较正式，强调分布广。 本组可用于讨论新闻与媒体。"
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论新闻与媒体。",
+      "translation": "common 表示常见；widespread、frequently observed 和 part of everyday life 可表达普遍或日常可见。"
     },
     {
       "base": "help",
@@ -189,7 +193,8 @@
         "enable",
         "make it easier to"
       ],
-      "note": "enable 后接宾语和 to do。 本组可用于讨论新闻与媒体。"
+      "note": "enable 后接宾语和 to do。 本组可用于讨论新闻与媒体。",
+      "translation": "help 表示帮助；assist、enable 和 make it easier to 可用于不同正式程度的语境。"
     },
     {
       "base": "problem",
@@ -198,7 +203,8 @@
         "concern",
         "obstacle"
       ],
-      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论新闻与媒体。"
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论新闻与媒体。",
+      "translation": "problem 表示问题；challenge、concern 和 obstacle 可分别强调挑战、隐忧或障碍。"
     },
     {
       "base": "change",
@@ -207,7 +213,8 @@
         "development",
         "transformation"
       ],
-      "note": "transformation 表示幅度较大的变化。 本组可用于讨论新闻与媒体。"
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论新闻与媒体。",
+      "translation": "change 表示变化；shift、development 和 transformation 可表示不同幅度的改变。"
     },
     {
       "base": "important",
@@ -216,51 +223,60 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论新闻与媒体。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论新闻与媒体。",
+      "translation": "important 表示重要；significant、crucial 和 essential 可表达不同程度的重要性。"
     }
   ],
   "sentences": [
     {
       "pattern": "A news report becomes more trustworthy when + evidence practice + rather than + weak practice.",
       "cn": "当新闻采用某证据做法而不是较弱做法时，它更可信。",
-      "example": "A news report becomes more trustworthy when sources are independently verified rather than merely repeated."
+      "example": "A news report becomes more trustworthy when sources are independently verified rather than merely repeated.",
+      "exampleTranslation": "当信息来源经过独立核实而非仅仅被重复时，新闻报道会更可信。"
     },
     {
       "pattern": "The speed with which + story + spreads can exceed the time required to + verification.",
       "cn": "某报道传播的速度可能超过核实所需时间。",
-      "example": "The speed with which a claim spreads can exceed the time required to check its origin."
+      "example": "The speed with which a claim spreads can exceed the time required to check its origin.",
+      "exampleTranslation": "一项说法的传播速度可能超过核查其来源所需的时间。"
     },
     {
       "pattern": "Even if + factual statement + is accurate, its placement may + framing effect.",
       "cn": "即使某事实陈述准确，其位置也可能产生框架效应。",
-      "example": "Even if a statistic is accurate, its placement may exaggerate the importance of one trend."
+      "example": "Even if a statistic is accurate, its placement may exaggerate the importance of one trend.",
+      "exampleTranslation": "即使统计数字准确，其呈现位置也可能夸大某一趋势的重要性。"
     }
   ],
   "expressions": [
     {
       "text": "keep up with current affairs",
       "cn": "了解时事",
-      "example": "I use a morning newsletter to keep up with current affairs."
+      "example": "I use a morning newsletter to keep up with current affairs.",
+      "exampleTranslation": "我通过一份晨间简报了解时事。"
     },
     {
       "text": "break a news story",
       "cn": "率先报道新闻",
-      "example": "The local paper broke the news story."
+      "example": "The local paper broke the news story.",
+      "exampleTranslation": "这家地方报纸率先报道了这则新闻。"
     },
     {
       "text": "check the original source",
       "cn": "核查原始来源",
-      "example": "I check the original source before sharing a dramatic claim."
+      "example": "I check the original source before sharing a dramatic claim.",
+      "exampleTranslation": "分享引人注目的说法前，我会核查原始来源。"
     },
     {
       "text": "take a headline at face value",
       "cn": "轻信标题",
-      "example": "Readers should not take a headline at face value."
+      "example": "Readers should not take a headline at face value.",
+      "exampleTranslation": "读者不应只看标题就信以为真。"
     },
     {
       "text": "provide balanced coverage",
       "cn": "提供平衡报道",
-      "example": "Balanced coverage does not require treating unequal evidence as equal."
+      "example": "Balanced coverage does not require treating unequal evidence as equal.",
+      "exampleTranslation": "平衡报道并不意味着把证据分量不同的观点视为同等可信。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "preserve editorial accountability",
         "restore public trust"
       ],
-      "argument": "Fast reporting makes some mistakes unavoidable, but silent alteration prevents readers from understanding the record. A correction should identify the inaccurate claim, provide the verified information and state when the change occurred. Prominence should reflect the significance of the original error. This practice may briefly draw attention to failure, yet it demonstrates that accuracy matters more than appearance. Trust grows from accountable correction, not from pretending journalism is infallible."
+      "argument": "Fast reporting makes some mistakes unavoidable, but silent alteration prevents readers from understanding the record. A correction should identify the inaccurate claim, provide the verified information and state when the change occurred. Prominence should reflect the significance of the original error. This practice may briefly draw attention to failure, yet it demonstrates that accuracy matters more than appearance. Trust grows from accountable correction, not from pretending journalism is infallible.",
+      "viewpointTranslation": "新闻机构应以醒目的方式更正错误。",
+      "topicSentenceTranslation": "当受众能看到哪些内容发生改变以及原因时，更正有助于增强信任。",
+      "collocationTranslations": [
+        "发布更正",
+        "承认错误",
+        "维护编辑责任",
+        "恢复公众信任"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Fast reporting makes some mistakes unavoidable, but silent alteration prevents readers from understanding the record.",
+          "translation": "快速报道使一些错误难以避免，但悄悄修改会让读者无法了解报道记录。"
+        },
+        {
+          "text": "A correction should identify the inaccurate claim, provide the verified information and state when the change occurred.",
+          "translation": "更正应指出不准确的说法、提供经核实的信息，并说明修改时间。"
+        },
+        {
+          "text": "Prominence should reflect the significance of the original error.",
+          "translation": "更正的醒目程度应与原错误的重要性相符。"
+        },
+        {
+          "text": "This practice may briefly draw attention to failure, yet it demonstrates that accuracy matters more than appearance.",
+          "translation": "这种做法可能暂时让人关注报道失误，却表明准确性比表面形象更重要。"
+        },
+        {
+          "text": "Trust grows from accountable correction, not from pretending journalism is infallible.",
+          "translation": "信任来自负责任的更正，而不是假装新闻报道永不出错。"
+        }
+      ]
     },
     {
       "viewpoint": "Media literacy should include attention to framing.",
@@ -301,19 +347,99 @@
         "examine missing context",
         "interpret statistical evidence"
       ],
-      "argument": "A report can use accurate quotations while selecting only voices that support one interpretation. A large percentage change may concern a very small starting number, and an image may imply that an unusual event is typical. Readers should ask what comparison, time period and source produced the claim. Comparing outlets can reveal choices of emphasis without assuming truth lies exactly between them. Media literacy should examine construction as well as detect obvious falsehoods."
+      "argument": "A report can use accurate quotations while selecting only voices that support one interpretation. A large percentage change may concern a very small starting number, and an image may imply that an unusual event is typical. Readers should ask what comparison, time period and source produced the claim. Comparing outlets can reveal choices of emphasis without assuming truth lies exactly between them. Media literacy should examine construction as well as detect obvious falsehoods.",
+      "viewpointTranslation": "媒介素养应包括对框架方式的关注。",
+      "topicSentenceTranslation": "评估新闻不能只判断单独陈述在事实上是否正确。",
+      "collocationTranslations": [
+        "识别编辑框架",
+        "比较多个来源",
+        "审视缺失的背景",
+        "解读统计证据"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A report can use accurate quotations while selecting only voices that support one interpretation.",
+          "translation": "一篇报道可以使用准确引语，却只选择支持某一种解释的声音。"
+        },
+        {
+          "text": "A large percentage change may concern a very small starting number, and an image may imply that an unusual event is typical.",
+          "translation": "一个很大的百分比变化可能源于很小的初始数字，一张图片也可能暗示罕见事件很常见。"
+        },
+        {
+          "text": "Readers should ask what comparison, time period and source produced the claim.",
+          "translation": "读者应追问这项说法基于什么比较、时间范围和来源。"
+        },
+        {
+          "text": "Comparing outlets can reveal choices of emphasis without assuming truth lies exactly between them.",
+          "translation": "比较不同媒体可以揭示强调重点的选择，但不能假设真相恰好位于两者之间。"
+        },
+        {
+          "text": "Media literacy should examine construction as well as detect obvious falsehoods.",
+          "translation": "媒介素养既应分析信息如何构建，也应识别明显虚假内容。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "How do you usually get the news?",
-      "answer": "I read a short daily briefing and then open the original report if something matters to me. I avoid relying on social-media captions because they often remove context. For local news, I still find a regional website useful. I prefer reading to watching because I can slow down and compare details."
+      "answer": "I read a short daily briefing and then open the original report if something matters to me. I avoid relying on social-media captions because they often remove context. For local news, I still find a regional website useful. I prefer reading to watching because I can slow down and compare details.",
+      "questionTranslation": "你通常如何获取新闻？",
+      "answerSentences": [
+        {
+          "text": "I read a short daily briefing and then open the original report if something matters to me.",
+          "translation": "我会阅读一份简短的每日简报，如果某件事对我很重要，再打开原始报道。"
+        },
+        {
+          "text": "I avoid relying on social-media captions because they often remove context.",
+          "translation": "我避免依赖社交媒体配文，因为它们经常删去背景。"
+        },
+        {
+          "text": "For local news, I still find a regional website useful.",
+          "translation": "对于本地新闻，我仍觉得地区性网站很有用。"
+        },
+        {
+          "text": "I prefer reading to watching because I can slow down and compare details.",
+          "translation": "我更喜欢阅读而不是观看，因为这样可以放慢速度并比较细节。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a news story that interested you.",
-      "answer": "A story that interested me concerned a city converting an abandoned railway into a walking route. The report combined maps, historical photographs and interviews with residents who supported and opposed the plan. I liked that it did not present the project as an obvious success. Some businesses expected more visitors, while nearby households worried about noise and privacy. The journalist also explained the funding and the stages that still required approval. I followed later updates because the story showed how one apparently simple improvement involved transport, heritage and neighbourhood interests. It was memorable not because it was dramatic, but because careful local reporting made an ordinary planning decision understandable."
+      "answer": "A story that interested me concerned a city converting an abandoned railway into a walking route. The report combined maps, historical photographs and interviews with residents who supported and opposed the plan. I liked that it did not present the project as an obvious success. Some businesses expected more visitors, while nearby households worried about noise and privacy. The journalist also explained the funding and the stages that still required approval. I followed later updates because the story showed how one apparently simple improvement involved transport, heritage and neighbourhood interests. It was memorable not because it was dramatic, but because careful local reporting made an ordinary planning decision understandable.",
+      "questionTranslation": "描述一则令你感兴趣的新闻。",
+      "answerSentences": [
+        {
+          "text": "A story that interested me concerned a city converting an abandoned railway into a walking route.",
+          "translation": "一则令我感兴趣的新闻讲的是一座城市把废弃铁路改造成步行路线。"
+        },
+        {
+          "text": "The report combined maps, historical photographs and interviews with residents who supported and opposed the plan.",
+          "translation": "报道结合了地图、历史照片以及支持和反对该计划的居民采访。"
+        },
+        {
+          "text": "I liked that it did not present the project as an obvious success.",
+          "translation": "我喜欢它没有把这个项目描述成显而易见的成功。"
+        },
+        {
+          "text": "Some businesses expected more visitors, while nearby households worried about noise and privacy.",
+          "translation": "一些商家期待更多游客，而附近住户则担心噪声和隐私。"
+        },
+        {
+          "text": "The journalist also explained the funding and the stages that still required approval.",
+          "translation": "记者还解释了资金来源和仍需获得批准的阶段。"
+        },
+        {
+          "text": "I followed later updates because the story showed how one apparently simple improvement involved transport, heritage and neighbourhood interests.",
+          "translation": "我继续关注了后续消息，因为这篇报道展示了一个看似简单的改善项目如何涉及交通、遗产和社区利益。"
+        },
+        {
+          "text": "It was memorable not because it was dramatic, but because careful local reporting made an ordinary planning decision understandable.",
+          "translation": "它令人难忘并不是因为情节轰动，而是因为细致的地方报道让普通规划决定变得容易理解。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +470,107 @@
         "answer": "what was wrong, what replaced it and when",
         "explanation": "Paragraph 2 lists these elements."
       }
+    ],
+    "titleTranslation": "页面底部的更正说明",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Digital news can be updated within seconds, which allows errors to be repaired faster than in print.",
+          "translation": "数字新闻可以在几秒内更新，因此能比纸质媒体更快修正错误。"
+        },
+        {
+          "text": "The same flexibility creates a record problem.",
+          "translation": "同样的灵活性也带来了记录问题。"
+        },
+        {
+          "text": "A reader who returns to an article may not know that a name, quotation or central claim has changed.",
+          "translation": "再次阅读文章的人可能不知道其中的姓名、引语或核心说法已经改变。"
+        },
+        {
+          "text": "When an alteration is invisible, correction improves the current text while leaving earlier readers with no reason to reconsider what they learned.",
+          "translation": "当修改不可见时，更正确实改善了当前文本，却无法让早期读者重新思考他们已获取的信息。"
+        }
+      ],
+      [
+        {
+          "text": "Newsrooms distinguish minor edits from substantive corrections.",
+          "translation": "新闻编辑部会区分细微编辑与实质性更正。"
+        },
+        {
+          "text": "Fixing spelling may require no notice, whereas changing a figure that alters the meaning should.",
+          "translation": "修正拼写可能不需要说明，而改变影响含义的数字则需要。"
+        },
+        {
+          "text": "The boundary is not always clear.",
+          "translation": "两者之间的界限并不总是清楚。"
+        },
+        {
+          "text": "A revised headline can affect interpretation even when every fact in the body remains unchanged.",
+          "translation": "即使正文中的每项事实都未改变，修改标题也可能影响理解。"
+        },
+        {
+          "text": "Transparent organisations publish a note stating what was wrong, what replaced it and when.",
+          "translation": "透明的机构会发布说明，指出原先的错误、替换内容和修改时间。"
+        }
+      ],
+      [
+        {
+          "text": "Corrections are sometimes viewed as evidence of poor journalism.",
+          "translation": "更正有时被视为新闻质量低下的证据。"
+        },
+        {
+          "text": "Studies of audience trust suggest a more complicated response: repeated serious errors damage credibility, but clear correction can demonstrate accountability.",
+          "translation": "有关受众信任的研究显示了更复杂的反应：反复出现的严重错误会损害公信力，但清晰的更正能体现责任。"
+        },
+        {
+          "text": "The tone matters.",
+          "translation": "语气也很重要。"
+        },
+        {
+          "text": "Vague phrases such as “the article has been updated” provide little information, while defensive explanations shift attention away from the inaccurate statement.",
+          "translation": "“文章已更新”等含糊表述提供的信息很少，而辩解式说明会转移对错误陈述的关注。"
+        }
+      ],
+      [
+        {
+          "text": "Distribution complicates repair.",
+          "translation": "传播会让修正更加复杂。"
+        },
+        {
+          "text": "A corrected article may continue circulating as a screenshot, cached page or quoted social-media post.",
+          "translation": "更正后的文章可能继续以截图、缓存页面或社交媒体引文的形式流传。"
+        },
+        {
+          "text": "News organisations can update their own channels and contact partners, but they cannot retrieve every copy.",
+          "translation": "新闻机构可以更新自身渠道并联系合作方，却无法收回每一份副本。"
+        },
+        {
+          "text": "This makes verification before publication especially important for claims likely to harm an individual.",
+          "translation": "因此，对于可能伤害个人的说法，发布前核实尤其重要。"
+        },
+        {
+          "text": "Speed has benefits, yet the cost of a false first version may survive the accurate second one.",
+          "translation": "速度有其优势，但错误初版的代价可能在准确的第二版出现后依然存在。"
+        }
+      ],
+      [
+        {
+          "text": "A correction policy therefore serves readers and journalists.",
+          "translation": "因此，更正政策既服务读者，也服务记者。"
+        },
+        {
+          "text": "It establishes a predictable threshold for disclosure and gives staff a method for acknowledging error without negotiation each time.",
+          "translation": "它为披露设定可预期的标准，并为员工提供承认错误的方法，无需每次另行商议。"
+        },
+        {
+          "text": "The small note at the bottom of a page is not merely housekeeping.",
+          "translation": "页面底部的小段说明并不只是日常整理。"
+        },
+        {
+          "text": "It is part of the evidence that a news organisation treats its published record as something for which it remains responsible.",
+          "translation": "它也是一项证据，表明新闻机构会对自己发布的记录持续负责。"
+        }
+      ]
     ]
   }
 }

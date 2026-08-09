@@ -153,7 +153,8 @@
         "high-cost accommodation",
         "homes priced beyond many households’ means"
       ],
-      "note": "beyond one’s means强调超出支付能力。"
+      "note": "beyond one’s means强调超出支付能力。",
+      "translation": "昂贵的住房，也可表达为负担不起的住房、高成本住所或价格超出许多家庭承受能力的住宅。"
     },
     {
       "base": "not enough homes",
@@ -162,7 +163,8 @@
         "insufficient residential supply",
         "a mismatch between housing demand and available dwellings"
       ],
-      "note": "mismatch适合解释供需问题。"
+      "note": "mismatch适合解释供需问题。",
+      "translation": "住房不足，也可表达为住房短缺、住宅供应不足或住房需求与可用住宅之间不匹配。"
     },
     {
       "base": "people who rent",
@@ -171,7 +173,8 @@
         "private renters",
         "households living in rented accommodation"
       ],
-      "note": "private renter区别于社会住房租户。"
+      "note": "private renter区别于社会住房租户。",
+      "translation": "租房者，也可表达为租户、私人租房者或居住在出租住房中的家庭。"
     },
     {
       "base": "build more homes",
@@ -180,7 +183,8 @@
         "increase residential construction",
         "add dwellings to the existing housing stock"
       ],
-      "note": "housing stock指现有住房总量。"
+      "note": "housing stock指现有住房总量。",
+      "translation": "建造更多住房，也可表达为扩大住房供应、增加住宅建设或增加现有住房存量。"
     },
     {
       "base": "monthly housing cost",
@@ -189,7 +193,8 @@
         "recurring housing expenditure",
         "the regular cost of occupying a home"
       ],
-      "note": "occupying不等于拥有。"
+      "note": "occupying不等于拥有。",
+      "translation": "每月住房成本，也可表达为租金或按揭付款、经常性住房支出或定期居住成本。"
     },
     {
       "base": "far from work",
@@ -198,7 +203,8 @@
         "beyond a practical commuting range",
         "poorly located in relation to available jobs"
       ],
-      "note": "最后一种突出位置关系。"
+      "note": "最后一种突出位置关系。",
+      "translation": "离工作地点远，也可表达为远离就业中心、超出实际通勤范围或相对于现有职位位置不佳。"
     },
     {
       "base": "stable home",
@@ -207,7 +213,8 @@
         "long-term residential stability",
         "a home that can be occupied with predictable tenure"
       ],
-      "note": "tenure指居住或持有安排。"
+      "note": "tenure指居住或持有安排。",
+      "translation": "稳定的住所，也可表达为有保障的住房、长期居住稳定性或租住期限可预期的住宅。"
     },
     {
       "base": "help first-time buyers",
@@ -216,51 +223,60 @@
         "assist first-time homebuyers",
         "make initial home ownership more accessible"
       ],
-      "note": "accessible不保证房价真正下降。"
+      "note": "accessible不保证房价真正下降。",
+      "translation": "帮助首次购房者，也可表达为支持新购房者、援助首次置业者或让首次置业更容易实现。"
     }
   ],
   "sentences": [
     {
       "pattern": "Building + housing type + will improve affordability only if + condition + rather than + unwanted outcome.",
       "cn": "建设某类住房只有在满足特定条件、而非出现不良结果时，才能改善可负担性。",
-      "example": "Building apartments near a station will improve affordability only if ordinary households can rent them rather than investors leaving them empty."
+      "example": "Building apartments near a station will improve affordability only if ordinary households can rent them rather than investors leaving them empty.",
+      "exampleTranslation": "在车站附近建公寓，只有当普通家庭能够租住、而不是投资者将其空置时，才能改善住房可负担性。"
     },
     {
       "pattern": "When + housing cost + rises faster than + income measure, households have less money left for + essential need.",
       "cn": "当住房成本上涨快于收入时，家庭用于其他基本需求的钱就会减少。",
-      "example": "When rent rises faster than wages, households have less money left for food, transport and savings."
+      "example": "When rent rises faster than wages, households have less money left for food, transport and savings.",
+      "exampleTranslation": "当租金上涨速度快于工资时，家庭用于食品、交通和储蓄的钱就会减少。"
     },
     {
       "pattern": "A home that appears + cheap feature + may become + costly outcome + once + hidden cost + is considered.",
       "cn": "一套看似具有低价优势的住房，在计入隐性成本后可能变得昂贵。",
-      "example": "A home that appears cheap may become unaffordable once a lengthy daily commute is considered."
+      "example": "A home that appears cheap may become unaffordable once a lengthy daily commute is considered.",
+      "exampleTranslation": "一套看似便宜的住房，在把漫长的每日通勤考虑在内后，可能变得难以负担。"
     }
   ],
   "expressions": [
     {
       "text": "be priced out of an area",
       "cn": "因价格过高而无法在某地居住",
-      "example": "Young families are being priced out of the neighbourhood."
+      "example": "Young families are being priced out of the neighbourhood.",
+      "exampleTranslation": "年轻家庭正因房价过高而被迫离开这个社区。"
     },
     {
       "text": "share a place",
       "cn": "与人合租",
-      "example": "I shared a place with two colleagues after university."
+      "example": "I shared a place with two colleagues after university.",
+      "exampleTranslation": "大学毕业后，我和两位同事合租。"
     },
     {
       "text": "feel settled",
       "cn": "感到安定",
-      "example": "A longer lease helps tenants feel settled."
+      "example": "A longer lease helps tenants feel settled.",
+      "exampleTranslation": "更长期的租约能让租户感到安定。"
     },
     {
       "text": "increase the affordable housing stock",
       "cn": "增加可负担住房存量",
-      "example": "The city needs to increase the affordable housing stock."
+      "example": "The city needs to increase the affordable housing stock.",
+      "exampleTranslation": "这座城市需要增加可负担住房存量。"
     },
     {
       "text": "link housing with transport planning",
       "cn": "把住房与交通规划结合",
-      "example": "Regional authorities should link housing with transport planning."
+      "example": "Regional authorities should link housing with transport planning.",
+      "exampleTranslation": "地区主管部门应把住房规划与交通规划联系起来。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "provide frequent public transport",
         "avoid car dependence"
       ],
-      "argument": "A lower rent can attract a household to an outer district, but the apparent saving may disappear through fuel, fares and travel time. Poor connections also restrict which jobs residents can accept, making the location financially risky if employment changes. New housing should therefore be assessed against access to several employment centres, not distance from one station alone. Frequent public transport can make lower-cost land genuinely useful for housing. Affordability belongs to the whole daily journey, not simply the front door."
+      "argument": "A lower rent can attract a household to an outer district, but the apparent saving may disappear through fuel, fares and travel time. Poor connections also restrict which jobs residents can accept, making the location financially risky if employment changes. New housing should therefore be assessed against access to several employment centres, not distance from one station alone. Frequent public transport can make lower-cost land genuinely useful for housing. Affordability belongs to the whole daily journey, not simply the front door.",
+      "viewpointTranslation": "住房政策必须把交通成本与租金一并考虑。",
+      "topicSentenceTranslation": "当居民依赖长途通勤时，城市边缘的廉价住房未必会降低家庭成本。",
+      "collocationTranslations": [
+        "计算住房综合成本",
+        "把住房与就业连接起来",
+        "提供班次频密的公共交通",
+        "避免依赖汽车"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A lower rent can attract a household to an outer district, but the apparent saving may disappear through fuel, fares and travel time.",
+          "translation": "较低的租金可能吸引家庭搬到外围地区，但表面上的节省可能会被燃油、车费和出行时间抵消。"
+        },
+        {
+          "text": "Poor connections also restrict which jobs residents can accept, making the location financially risky if employment changes.",
+          "translation": "交通连接不佳还会限制居民能接受的工作，使这一地点在就业发生变化时带来经济风险。"
+        },
+        {
+          "text": "New housing should therefore be assessed against access to several employment centres, not distance from one station alone.",
+          "translation": "因此，评估新住房时应考察其通往多个就业中心的便利程度，而不能只看与某一个车站的距离。"
+        },
+        {
+          "text": "Frequent public transport can make lower-cost land genuinely useful for housing.",
+          "translation": "班次频密的公共交通可以让成本较低的土地真正适合住宅建设。"
+        },
+        {
+          "text": "Affordability belongs to the whole daily journey, not simply the front door.",
+          "translation": "住房是否负担得起取决于完整的日常出行，而不只是家门以内。"
+        }
+      ]
     },
     {
       "viewpoint": "First-buyer subsidies can raise prices when supply is fixed.",
@@ -301,19 +347,95 @@
         "push up sale prices",
         "direct funds towards construction"
       ],
-      "argument": "Suppose ten households compete for five similar flats and each receives a larger purchase grant. Their ability to bid increases, but the number of homes does not. Sellers can capture part of the subsidy through higher prices, leaving access little improved. In areas with severe shortages, public money would be better used to unlock sites, build affordable homes or expand infrastructure. Buyer support may work where supply responds quickly; otherwise, assistance aimed at demand can intensify the problem it was designed to solve."
+      "argument": "Suppose ten households compete for five similar flats and each receives a larger purchase grant. Their ability to bid increases, but the number of homes does not. Sellers can capture part of the subsidy through higher prices, leaving access little improved. In areas with severe shortages, public money would be better used to unlock sites, build affordable homes or expand infrastructure. Buyer support may work where supply responds quickly; otherwise, assistance aimed at demand can intensify the problem it was designed to solve.",
+      "viewpointTranslation": "在供应固定时，首次购房补贴可能推高价格。",
+      "topicSentenceTranslation": "在不增加住房的情况下提高购房者预算，可能让现有业主比新买家受益更多。",
+      "collocationTranslations": [
+        "补贴住房需求",
+        "限制住宅供应",
+        "推高售价",
+        "把资金用于建设"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Suppose ten households compete for five similar flats and each receives a larger purchase grant.",
+          "translation": "假设十个家庭争购五套相似的公寓，而且每个家庭都获得更高的购房补贴。"
+        },
+        {
+          "text": "Their ability to bid increases, but the number of homes does not.",
+          "translation": "他们的竞价能力提高了，但住房数量并没有增加。"
+        },
+        {
+          "text": "Sellers can capture part of the subsidy through higher prices, leaving access little improved.",
+          "translation": "卖家可以通过提高价格获得部分补贴，使住房可及性几乎没有改善。"
+        },
+        {
+          "text": "In areas with severe shortages, public money would be better used to unlock sites, build affordable homes or expand infrastructure.",
+          "translation": "在住房严重短缺的地区，公共资金更适合用于释放可开发地块、建设可负担住房或扩建基础设施。"
+        },
+        {
+          "text": "Buyer support may work where supply responds quickly; otherwise, assistance aimed at demand can intensify the problem it was designed to solve.",
+          "translation": "当供应能够迅速响应时，购房支持或许可行；否则，针对需求的援助反而会加剧它原本要解决的问题。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a home or neighbourhood where you would like to live.",
-      "answer": "I would like to live in a medium-sized flat in a neighbourhood where daily errands can be done on foot. I do not need a large garden, but I would value good natural light, reliable sound insulation and a small balcony. The area should have a supermarket, a park and public transport within a short walk, because I would rather not depend on a car. I would also prefer a mixed neighbourhood with families, students and older residents instead of a development used mainly as an investment. For me, a convenient location and stable housing cost matter more than extra space."
+      "answer": "I would like to live in a medium-sized flat in a neighbourhood where daily errands can be done on foot. I do not need a large garden, but I would value good natural light, reliable sound insulation and a small balcony. The area should have a supermarket, a park and public transport within a short walk, because I would rather not depend on a car. I would also prefer a mixed neighbourhood with families, students and older residents instead of a development used mainly as an investment. For me, a convenient location and stable housing cost matter more than extra space.",
+      "questionTranslation": "请描述一个你想居住的家或社区。",
+      "answerSentences": [
+        {
+          "text": "I would like to live in a medium-sized flat in a neighbourhood where daily errands can be done on foot.",
+          "translation": "我想住在一套中等大小的公寓里，所在社区的日常事务都能步行完成。"
+        },
+        {
+          "text": "I do not need a large garden, but I would value good natural light, reliable sound insulation and a small balcony.",
+          "translation": "我不需要大花园，但会看重良好的自然采光、可靠的隔音和一个小阳台。"
+        },
+        {
+          "text": "The area should have a supermarket, a park and public transport within a short walk, because I would rather not depend on a car.",
+          "translation": "附近应当有超市、公园和步行不远即可到达的公共交通，因为我不想依赖汽车。"
+        },
+        {
+          "text": "I would also prefer a mixed neighbourhood with families, students and older residents instead of a development used mainly as an investment.",
+          "translation": "我也更喜欢有家庭、学生和老年居民共同生活的混合社区，而不是主要被用作投资的住宅区。"
+        },
+        {
+          "text": "For me, a convenient location and stable housing cost matter more than extra space.",
+          "translation": "对我而言，便利的位置和稳定的住房成本比额外空间更重要。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Why is building more housing sometimes politically difficult?",
-      "answer": "Existing residents may worry about traffic, pressure on schools or the loss of familiar buildings and open space. Those concerns can be reasonable, although homeowners may also benefit financially when supply remains limited. Planning decisions create visible local disruption, while the people who would occupy future homes are not yet present to express support. Authorities need to show where infrastructure will come from, involve residents early and distinguish genuine design problems from opposition to any new neighbours. Transport costs should be included as well."
+      "answer": "Existing residents may worry about traffic, pressure on schools or the loss of familiar buildings and open space. Those concerns can be reasonable, although homeowners may also benefit financially when supply remains limited. Planning decisions create visible local disruption, while the people who would occupy future homes are not yet present to express support. Authorities need to show where infrastructure will come from, involve residents early and distinguish genuine design problems from opposition to any new neighbours. Transport costs should be included as well.",
+      "questionTranslation": "为什么建造更多住房有时在政治上很困难？",
+      "answerSentences": [
+        {
+          "text": "Existing residents may worry about traffic, pressure on schools or the loss of familiar buildings and open space.",
+          "translation": "现有居民可能担心交通、学校压力，或熟悉建筑和开放空间的消失。"
+        },
+        {
+          "text": "Those concerns can be reasonable, although homeowners may also benefit financially when supply remains limited.",
+          "translation": "这些担忧可能是合理的，不过当供应仍然有限时，房主也可能从经济上获益。"
+        },
+        {
+          "text": "Planning decisions create visible local disruption, while the people who would occupy future homes are not yet present to express support.",
+          "translation": "规划决定会造成显而易见的当地扰动，而未来会入住这些住房的人尚未出现，无法表达支持。"
+        },
+        {
+          "text": "Authorities need to show where infrastructure will come from, involve residents early and distinguish genuine design problems from opposition to any new neighbours.",
+          "translation": "主管部门需要说明基础设施从何而来，尽早让居民参与，并区分真正的设计问题与反对任何新邻居的态度。"
+        },
+        {
+          "text": "Transport costs should be included as well.",
+          "translation": "交通成本也应纳入考虑。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -349,6 +471,89 @@
           "It required every resident to own two cars."
         ]
       }
+    ],
+    "titleTranslation": "纸面上负担得起，实际代价高昂",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A widely used affordability measure defines a home as affordable when housing consumes no more than a fixed share of household income.",
+          "translation": "一种广泛使用的可负担性指标规定，当住房支出不超过家庭收入的固定比例时，住房就属于可负担范围。"
+        },
+        {
+          "text": "The threshold is easy to calculate and compare across neighbourhoods and over time, but families moving into a new development beyond the city boundary soon exposed its weakness.",
+          "translation": "这一门槛很容易计算，也便于跨社区和跨时间比较，但搬进城市边界外新开发项目的家庭很快暴露了它的缺陷。"
+        },
+        {
+          "text": "Their rents met the official test.",
+          "translation": "他们的租金符合官方标准。"
+        },
+        {
+          "text": "Their combined spending on housing and transport did not.",
+          "translation": "但住房与交通的总支出却不符合。"
+        }
+      ],
+      [
+        {
+          "text": "The development had been approved beside a proposed rail station, which appeared on planning maps but was postponed after construction costs rose.",
+          "translation": "该开发项目获批建在一座规划中的火车站旁，这座车站出现在规划图上，却因建筑成本上涨而延期。"
+        },
+        {
+          "text": "Meanwhile, the nearest large employment area was twelve kilometres away and buses ended before many evening shifts finished.",
+          "translation": "与此同时，最近的大型就业区在十二公里外，而且许多晚班结束前公交就已停运。"
+        },
+        {
+          "text": "Residents who bought cars faced fuel, insurance and loan payments; those without cars declined jobs or paid for occasional taxis.",
+          "translation": "买车的居民要承担燃油、保险和贷款支出；没有车的人则会放弃工作机会，或偶尔花钱乘坐出租车。"
+        },
+        {
+          "text": "A follow-up survey found that transport absorbed a substantial share of income in some lower-paid households.",
+          "translation": "后续调查发现，在一些低收入家庭中，交通占据了相当大一部分收入。"
+        }
+      ],
+      [
+        {
+          "text": "Planners began testing a combined index.",
+          "translation": "规划人员开始测试一项综合指数。"
+        },
+        {
+          "text": "It estimated rent or mortgage payments alongside typical travel costs for a household at each location.",
+          "translation": "它把每个地点的租金或按揭付款与典型家庭的日常出行成本一并估算。"
+        },
+        {
+          "text": "The method revealed expensive central districts where high rent was partly offset by walking and cheap outer areas where two cars were effectively required.",
+          "translation": "该方法揭示了一些中心城区虽然租金昂贵，却可由步行部分抵消成本；也揭示了一些外围地区看似便宜，实际上却必须拥有两辆汽车。"
+        },
+        {
+          "text": "Yet averages created new problems.",
+          "translation": "然而，平均值又带来了新的问题。"
+        },
+        {
+          "text": "A nurse working nights, a retired resident and a remote employee could occupy identical flats while facing entirely different mobility costs.",
+          "translation": "一名夜班护士、一位退休居民和一名远程员工即使住在相同的公寓里，也可能面临完全不同的出行成本。"
+        }
+      ],
+      [
+        {
+          "text": "The agency did not abandon the fixed-share measure, which remains useful for identifying a severe rent burden.",
+          "translation": "该机构没有放弃固定比例指标，因为它对于识别沉重的租金负担仍有价值。"
+        },
+        {
+          "text": "Instead, it added transport scenarios and required developers seeking public support to describe access to jobs at different times of day, including weekends and early mornings.",
+          "translation": "相反，它增加了交通情景，并要求寻求公共支持的开发商说明在一天不同时段前往就业地点的便利程度，其中包括周末和清晨。"
+        },
+        {
+          "text": "No index can predict every household’s routine, and a longer journey may be a voluntary exchange for more space.",
+          "translation": "没有任何指数能够预测每个家庭的日常安排，而且人们也可能自愿用更长的路程换取更大空间。"
+        },
+        {
+          "text": "Nevertheless, labelling housing affordable without examining how residents reach ordinary destinations risks measuring the price of shelter while ignoring the cost of living there.",
+          "translation": "尽管如此，如果不考察居民如何前往日常目的地就把住房标为可负担，就可能只衡量住所价格，却忽略在那里生活的成本。"
+        },
+        {
+          "text": "The calculation changes further when transport and household energy costs are included.",
+          "translation": "当交通和家庭能源成本也被纳入时，计算结果还会进一步变化。"
+        }
+      ]
     ]
   }
 }

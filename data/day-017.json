@@ -153,7 +153,8 @@
         "garments",
         "items of clothing"
       ],
-      "note": "clothing 不可数；garment 是单件服装。"
+      "note": "clothing 不可数；garment 是单件服装。",
+      "translation": "clothes 表示衣服；clothing 是衣物的总称，garments 是较正式的“服装”，items of clothing 指一件件衣物。"
     },
     {
       "base": "look good",
@@ -162,7 +163,8 @@
         "be flattering",
         "suit someone"
       ],
-      "note": "flattering 指显得人好看；suit 指适合。"
+      "note": "flattering 指显得人好看；suit 指适合。",
+      "translation": "看起来不错可以表达为看起来时尚、讨人喜欢、适合某人。"
     },
     {
       "base": "in fashion",
@@ -171,7 +173,8 @@
         "on trend",
         "currently popular"
       ],
-      "note": "on trend 较口语。"
+      "note": "on trend 较口语。",
+      "translation": "in fashion 可以表达为“时尚的”“流行的”或“目前正流行的”。"
     },
     {
       "base": "cheap clothes",
@@ -180,7 +183,8 @@
         "affordable garments",
         "inexpensive fashion"
       ],
-      "note": "low-cost 更中性，不暗示质量。"
+      "note": "low-cost 更中性，不暗示质量。",
+      "translation": "廉价衣服可以表达为廉价服装、实惠服装、廉价时装。"
     },
     {
       "base": "last a long time",
@@ -189,7 +193,8 @@
         "wear well",
         "have a long lifespan"
       ],
-      "note": "wear well 专门表示衣物经穿。"
+      "note": "wear well 专门表示衣物经穿。",
+      "translation": "last a long time 可以表达为“耐用”“耐磨”或“使用寿命长”。"
     },
     {
       "base": "used clothes",
@@ -198,7 +203,8 @@
         "pre-owned garments",
         "previously worn items"
       ],
-      "note": "pre-owned 常见于销售语境。"
+      "note": "pre-owned 常见于销售语境。",
+      "translation": "used clothes 表示旧衣物；second-hand clothing 指二手服装，pre-owned garments 是较正式的说法，previously worn items 强调曾被穿过。"
     },
     {
       "base": "way of dressing",
@@ -207,7 +213,8 @@
         "clothing choices",
         "dress sense"
       ],
-      "note": "dress sense 表示搭配判断力。"
+      "note": "dress sense 表示搭配判断力。",
+      "translation": "着装方式可以表现为个人风格、服装选择、着装品味。"
     },
     {
       "base": "rules about clothes",
@@ -216,51 +223,60 @@
         "clothing requirements",
         "standards of dress"
       ],
-      "note": "dress code 最自然。"
+      "note": "dress code 最自然。",
+      "translation": "关于着装的规则可以表示为着装规范、着装要求、着装标准。"
     }
   ],
   "sentences": [
     {
       "pattern": "I tend to choose + clothing + based on + practical factor.",
       "cn": "我通常根据某个实际因素选择服装。",
-      "example": "I tend to choose clothes based on comfort rather than current trends."
+      "example": "I tend to choose clothes based on comfort rather than current trends.",
+      "exampleTranslation": "我倾向于根据舒适度而不是流行趋势来选择衣服。"
     },
     {
       "pattern": "An item may look + adjective, but it is only useful if + clause.",
       "cn": "一件衣物可能看起来……，但只有在……时才实用。",
-      "example": "A jacket may look stylish, but it is only useful if it keeps me warm."
+      "example": "A jacket may look stylish, but it is only useful if it keeps me warm.",
+      "exampleTranslation": "夹克可能看起来很时尚，但它只有在保暖时才有用。"
     },
     {
       "pattern": "The way people dress can signal + noun without + gerund.",
       "cn": "人们的穿着方式无需……就能传达……",
-      "example": "The way people dress can signal professional identity without anyone speaking."
+      "example": "The way people dress can signal professional identity without anyone speaking.",
+      "exampleTranslation": "人们的着装方式无需任何人说话就可以表明职业身份。"
     }
   ],
   "expressions": [
     {
       "text": "dress up",
       "cn": "穿得正式或精心打扮",
-      "example": "We had to dress up for the wedding."
+      "example": "We had to dress up for the wedding.",
+      "exampleTranslation": "我们必须盛装出席婚礼。"
     },
     {
       "text": "dress down",
       "cn": "穿得较随意",
-      "example": "Our office lets staff dress down on Fridays."
+      "example": "Our office lets staff dress down on Fridays.",
+      "exampleTranslation": "我们办公室允许员工周五穿得比较随意。"
     },
     {
       "text": "suit me",
       "cn": "适合我",
-      "example": "Bright colours don’t really suit me."
+      "example": "Bright colours don’t really suit me.",
+      "exampleTranslation": "鲜艳的颜色不太适合我。"
     },
     {
       "text": "wear something out",
       "cn": "把衣物穿坏",
-      "example": "I wore those shoes out because I used them every day."
+      "example": "I wore those shoes out because I used them every day.",
+      "exampleTranslation": "我把那双鞋穿坏了，因为我每天都穿它们。"
     },
     {
       "text": "mix and match",
       "cn": "混合搭配",
-      "example": "I buy simple pieces that are easy to mix and match."
+      "example": "I buy simple pieces that are easy to mix and match.",
+      "exampleTranslation": "我购买易于混搭的简单单品。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "provide care instructions",
         "extend a garment’s life"
       ],
-      "argument": "Online photographs reveal colour and style but say little about stitching, fabric weight or repair. As a result, shoppers may choose a cheaper garment that loses shape after a few washes. Clear construction details and realistic care information would support better comparison. Brands that make durable clothes could compete on quality rather than constant novelty. Better information would reduce replacement costs and unnecessary textile waste."
+      "argument": "Online photographs reveal colour and style but say little about stitching, fabric weight or repair. As a result, shoppers may choose a cheaper garment that loses shape after a few washes. Clear construction details and realistic care information would support better comparison. Brands that make durable clothes could compete on quality rather than constant novelty. Better information would reduce replacement costs and unnecessary textile waste.",
+      "viewpointTranslation": "服装的耐用性应该更容易评估。",
+      "topicSentenceTranslation": "当有关服装质量的信息被隐藏时，消费者无法做出可持续的选择。",
+      "collocationTranslations": [
+        "评估面料质量",
+        "承受正常磨损",
+        "提供护理说明",
+        "延长衣服的寿命"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Online photographs reveal colour and style but say little about stitching, fabric weight or repair.",
+          "translation": "网上照片展示了颜色和款式，但很少透露缝线、面料重量或修补情况。"
+        },
+        {
+          "text": "As a result, shoppers may choose a cheaper garment that loses shape after a few washes.",
+          "translation": "因此，购物者可能会选择更便宜的衣服，但洗几次后就会变形。"
+        },
+        {
+          "text": "Clear construction details and realistic care information would support better comparison.",
+          "translation": "清晰的施工细节和现实的护理信息将支持更好的比较。"
+        },
+        {
+          "text": "Brands that make durable clothes could compete on quality rather than constant novelty.",
+          "translation": "生产耐用服装的品牌可以在质量上竞争，而不是在不断的新颖性上竞争。"
+        },
+        {
+          "text": "Better information would reduce replacement costs and unnecessary textile waste.",
+          "translation": "更好的信息将减少更换成本和不必要的纺织品浪费。"
+        }
+      ]
     },
     {
       "viewpoint": "School dress codes should focus on function and fairness.",
@@ -301,19 +347,87 @@
         "ensure practical safety",
         "reduce visible inequality"
       ],
-      "argument": "A basic uniform can reduce competition over expensive brands and make preparation simpler. Rules become problematic when they target one gender more heavily or punish harmless cultural styles. Students also need clothing suitable for weather and physical activity. Schools should explain the practical purpose of each requirement and consult families about cost. A fair dress code is clear, affordable and consistently applied."
+      "argument": "A basic uniform can reduce competition over expensive brands and make preparation simpler. Rules become problematic when they target one gender more heavily or punish harmless cultural styles. Students also need clothing suitable for weather and physical activity. Schools should explain the practical purpose of each requirement and consult families about cost. A fair dress code is clear, affordable and consistently applied.",
+      "viewpointTranslation": "学校着装规范应注重功能性和公平性。",
+      "topicSentenceTranslation": "当着装规则支持安全和学习而不是强制狭隘品味时，它就是合法的。",
+      "collocationTranslations": [
+        "一致地应用规则",
+        "避免性别刻板印象",
+        "确保实际安全",
+        "减少明显的不平等"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A basic uniform can reduce competition over expensive brands and make preparation simpler.",
+          "translation": "一套基本的制服可以减少与昂贵品牌的竞争，并使准备工作变得更简单。"
+        },
+        {
+          "text": "Rules become problematic when they target one gender more heavily or punish harmless cultural styles.",
+          "translation": "当规则更多地针对某一性别或惩罚无害的文化风格时，就会出现问题。"
+        },
+        {
+          "text": "Students also need clothing suitable for weather and physical activity.",
+          "translation": "学生还需要适合天气和体育活动的衣服。"
+        },
+        {
+          "text": "Schools should explain the practical purpose of each requirement and consult families about cost.",
+          "translation": "学校应解释每项要求的实际目的，并就费用咨询家庭。"
+        },
+        {
+          "text": "A fair dress code is clear, affordable and consistently applied.",
+          "translation": "公平的着装要求是明确的、负担得起的并且始终如一地适用。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you enjoy buying clothes?",
-      "answer": "Only when I know what I need. I find browsing without a purpose tiring because there are too many similar choices. I normally replace an item that has worn out and look for something comfortable that works with clothes I already own. Finding the right fit is more satisfying to me than following a new trend."
+      "answer": "Only when I know what I need. I find browsing without a purpose tiring because there are too many similar choices. I normally replace an item that has worn out and look for something comfortable that works with clothes I already own. Finding the right fit is more satisfying to me than following a new trend.",
+      "questionTranslation": "你喜欢买衣服吗？",
+      "answerSentences": [
+        {
+          "text": "Only when I know what I need.",
+          "translation": "只有当我知道我需要什么时。"
+        },
+        {
+          "text": "I find browsing without a purpose tiring because there are too many similar choices.",
+          "translation": "我发现漫无目的地浏览很累，因为有太多类似的选择。"
+        },
+        {
+          "text": "I normally replace an item that has worn out and look for something comfortable that works with clothes I already own.",
+          "translation": "我通常会更换已经磨损的物品，并寻找适合我已经拥有的衣服的舒适物品。"
+        },
+        {
+          "text": "Finding the right fit is more satisfying to me than following a new trend.",
+          "translation": "对我来说，找到合适的衣服比追随新趋势更令人满意。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Do you wear different clothes for work and your free time?",
-      "answer": "Yes, although the difference isn’t dramatic. For work I wear simple shirts, trousers and fairly formal shoes because they look neat on video calls and in meetings. In my free time I choose softer fabrics and trainers. Having that change also helps me feel that the working day has ended when I get home."
+      "answer": "Yes, although the difference isn’t dramatic. For work I wear simple shirts, trousers and fairly formal shoes because they look neat on video calls and in meetings. In my free time I choose softer fabrics and trainers. Having that change also helps me feel that the working day has ended when I get home.",
+      "questionTranslation": "你工作时和空闲时穿不同的衣服吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, although the difference isn’t dramatic.",
+          "translation": "是的，尽管差异并不显着。"
+        },
+        {
+          "text": "For work I wear simple shirts, trousers and fairly formal shoes because they look neat on video calls and in meetings.",
+          "translation": "工作时，我穿着简单的衬衫、裤子和相当正式的鞋子，因为它们在视频通话和会议中看起来很整洁。"
+        },
+        {
+          "text": "In my free time I choose softer fabrics and trainers.",
+          "translation": "在空闲时间，我会选择较柔软的面料和运动鞋。"
+        },
+        {
+          "text": "Having that change also helps me feel that the working day has ended when I get home.",
+          "translation": "这种改变也让我在回家时感觉工作日已经结束了。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,107 @@
         "answer": "seam failure",
         "explanation": "Paragraph 4 lists rubbing, colour loss and seam failure; seam failure fits the limit."
       }
+    ],
+    "titleTranslation": "标签不能告诉你什么",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A clothing label can identify fibre content, country of manufacture and washing instructions.",
+          "translation": "服装标签可以识别纤维含量、制造国和洗涤说明。"
+        },
+        {
+          "text": "These facts are useful, but they do not reveal how long the garment will last.",
+          "translation": "这些事实很有用，但它们并不能揭示这件衣服能穿多久。"
+        },
+        {
+          "text": "Two shirts made from the same percentage of cotton may perform differently because of fibre length, fabric density, stitching and finishing.",
+          "translation": "由于纤维长度、织物密度、缝合和整理，两件由相同百分比的棉制成的衬衫可能具有不同的性能。"
+        },
+        {
+          "text": "Durability is produced by construction, not by a single material name.",
+          "translation": "耐用性是由结构产生的，而不是由单一材料名称产生的。"
+        }
+      ],
+      [
+        {
+          "text": "Consumers often judge quality through price or brand reputation.",
+          "translation": "消费者常常通过价格或品牌声誉来判断质量。"
+        },
+        {
+          "text": "Both can provide clues, yet neither is reliable.",
+          "translation": "两者都能提供线索，但都不可靠。"
+        },
+        {
+          "text": "A high price may reflect advertising, a central shop location or limited production rather than stronger fabric.",
+          "translation": "高价格可能是因为广告、商店位于中心位置或产量有限，而不是因为面料更坚固。"
+        },
+        {
+          "text": "Meanwhile, an inexpensive garment can wear well if its design is simple and the seams are secure.",
+          "translation": "同时，如果设计简单且接缝牢固，一件便宜的衣服也可以穿得很好。"
+        },
+        {
+          "text": "The difficulty is that many weaknesses appear only after repeated washing.",
+          "translation": "困难在于，很多弱点都是经过反复洗涤才显现出来的。"
+        }
+      ],
+      [
+        {
+          "text": "Care also changes lifespan.",
+          "translation": "护理也会改变寿命。"
+        },
+        {
+          "text": "Heat, aggressive detergent and unnecessary washing place stress on fibres and colour.",
+          "translation": "高温、腐蚀性洗涤剂和不必要的洗涤会对纤维和颜色造成压力。"
+        },
+        {
+          "text": "Repairing a loose button or small tear can prevent greater damage, but modern garments are not always designed for easy repair.",
+          "translation": "修复松动的纽扣或小撕裂可以防止更大的损坏，但现代服装并不总是易于修复。"
+        },
+        {
+          "text": "Decorative linings may hide seams, and replacement fasteners can be difficult to match.",
+          "translation": "装饰衬里可能会隐藏接缝，并且替换紧固件可能难以匹配。"
+        },
+        {
+          "text": "Skills once common in households have also become less widespread.",
+          "translation": "曾经在家庭中常见的技能也变得不那么普遍了。"
+        }
+      ],
+      [
+        {
+          "text": "A meaningful durability label would need standard tests, such as resistance to rubbing, colour loss and seam failure.",
+          "translation": "有意义的耐久性标签需要标准测试，例如耐摩擦、褪色和接缝损坏。"
+        },
+        {
+          "text": "It would still be an estimate because wear depends on use and care.",
+          "translation": "这仍然是一个估计值，因为磨损取决于使用和保养。"
+        },
+        {
+          "text": "Nevertheless, comparable information could shift attention from the purchase price to cost per use.",
+          "translation": "然而，可比较的信息可能会将注意力从购买价格转移到每次使用成本。"
+        },
+        {
+          "text": "The most sustainable garment is not automatically the one with a particular fibre; it is often the one that remains useful and is worn repeatedly.",
+          "translation": "最可持续的服装并不一定是采用特定纤维的服装；它通常是仍然有用并且可以反复佩戴的那一种。"
+        }
+      ],
+      [
+        {
+          "text": "Rental and resale markets offer another source of durability evidence.",
+          "translation": "租赁和转售市场提供了耐用性证据的另一个来源。"
+        },
+        {
+          "text": "A garment that retains shape and colour can circulate through several owners, spreading its production impact across more uses.",
+          "translation": "一件保留形状和颜色的服装可以在多个所有者之间流通，从而将其生产影响传播到更多用途。"
+        },
+        {
+          "text": "However, second-hand trade cannot correct extremely weak construction: if an item fails quickly, there is nothing useful to pass on.",
+          "translation": "然而，二手贸易无法纠正极其薄弱的建筑：如果一件物品很快就失效了，那么就没有什么有用的东西可以传承。"
+        },
+        {
+          "text": "Longevity must begin when the garment is designed.",
+          "translation": "耐用性必须从服装设计之初就开始。"
+        }
+      ]
     ]
   }
 }

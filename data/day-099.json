@@ -153,7 +153,8 @@
         "long-term social and economic advancement",
         "development within environmental limits"
       ],
-      "note": "within environmental limits点明可持续性的边界。"
+      "note": "within environmental limits点明可持续性的边界。",
+      "translation": "可持续进步，也可表达为可持续发展、长期改善或不会损害未来福祉的发展。"
     },
     {
       "base": "help poor communities",
@@ -162,7 +163,8 @@
         "improve opportunities in underserved areas",
         "direct benefits towards people most in need"
       ],
-      "note": "direct benefits强调资源配置。"
+      "note": "direct benefits强调资源配置。",
+      "translation": "帮助贫困社区，也可表达为支持弱势地区、改善低收入群体生活或为资源不足的社区提供机会。"
     },
     {
       "base": "use fewer resources",
@@ -171,7 +173,8 @@
         "reduce material and energy inputs",
         "produce more value with less consumption"
       ],
-      "note": "produce more value突出效率而非单纯削减。"
+      "note": "produce more value突出效率而非单纯削减。",
+      "translation": "使用更少资源，也可表达为提高资源效率、减少消耗或用较少投入实现相同产出。"
     },
     {
       "base": "future generations",
@@ -180,7 +183,8 @@
         "generations yet to come",
         "those who will inherit today’s decisions"
       ],
-      "note": "inherit适合强调当代决策的长期后果。"
+      "note": "inherit适合强调当代决策的长期后果。",
+      "translation": "未来世代，也可表达为后代、下一代人或将来生活的人们。"
     },
     {
       "base": "economic growth",
@@ -189,7 +193,8 @@
         "an increase in productive activity",
         "rising output and incomes"
       ],
-      "note": "output and incomes比单一GDP概念更具体。"
+      "note": "output and incomes比单一GDP概念更具体。",
+      "translation": "经济增长，也可表达为经济扩张、产出增加或收入与就业增长。"
     },
     {
       "base": "protect nature",
@@ -198,7 +203,8 @@
         "safeguard natural assets",
         "prevent the degradation of ecological systems"
       ],
-      "note": "degradation适合描述逐步恶化。"
+      "note": "degradation适合描述逐步恶化。",
+      "translation": "保护自然，也可表达为保护生态系统、维护环境或避免自然资源退化。"
     },
     {
       "base": "a balanced policy",
@@ -207,7 +213,8 @@
         "a policy combining social, economic and environmental goals",
         "a strategy that manages competing priorities"
       ],
-      "note": "integrated强调目标之间相互联系。"
+      "note": "integrated强调目标之间相互联系。",
+      "translation": "均衡的政策，也可表达为兼顾不同目标的措施、平衡社会经济和环境需求的方案或综合性政策。"
     },
     {
       "base": "results that last",
@@ -216,51 +223,60 @@
         "long-term benefits",
         "improvements that remain viable over time"
       ],
-      "note": "viable表示能够持续运作。"
+      "note": "viable表示能够持续运作。",
+      "translation": "持久的结果，也可表达为长期成效、可持续影响或项目结束后仍然存在的益处。"
     }
   ],
   "sentences": [
     {
       "pattern": "A project cannot be considered sustainable merely because + green feature; it must also + social or economic condition.",
       "cn": "一个项目不能仅因具有某项绿色特征就被视为可持续；它还必须满足社会或经济条件。",
-      "example": "A project cannot be considered sustainable merely because it uses solar power; it must also provide affordable services to local residents."
+      "example": "A project cannot be considered sustainable merely because it uses solar power; it must also provide affordable services to local residents.",
+      "exampleTranslation": "一个项目不能仅因使用太阳能就被视为可持续；它还必须为本地居民提供负担得起的服务。"
     },
     {
       "pattern": "By investing in + present action, governments can + current benefit while reducing + future cost.",
       "cn": "政府通过投资当前行动，既能获得眼前效益，也能降低未来成本。",
-      "example": "By investing in efficient housing, governments can create jobs now while reducing future energy costs."
+      "example": "By investing in efficient housing, governments can create jobs now while reducing future energy costs.",
+      "exampleTranslation": "通过投资节能住房，政府可以在当前创造就业，同时降低未来能源成本。"
     },
     {
       "pattern": "Unless + affected group + is involved in + process, + well-intended policy + may + adverse outcome.",
       "cn": "除非让受影响群体参与相关过程，否则出发点良好的政策也可能产生不良后果。",
-      "example": "Unless farming communities are involved in water planning, a well-intended conservation policy may threaten local livelihoods."
+      "example": "Unless farming communities are involved in water planning, a well-intended conservation policy may threaten local livelihoods.",
+      "exampleTranslation": "如果农业社区不参与用水规划，一项出于善意的保护政策可能威胁本地生计。"
     }
   ],
   "expressions": [
     {
       "text": "work in the long run",
       "cn": "长期行得通",
-      "example": "The subsidy must work in the long run, not just before an election."
+      "example": "The subsidy must work in the long run, not just before an election.",
+      "exampleTranslation": "这项补贴必须长期有效，而不只是在选举前奏效。"
     },
     {
       "text": "balance today’s needs with tomorrow’s",
       "cn": "平衡当下与未来的需要",
-      "example": "Good planning balances today’s needs with tomorrow’s."
+      "example": "Good planning balances today’s needs with tomorrow’s.",
+      "exampleTranslation": "良好规划会平衡今天与明天的需求。"
     },
     {
       "text": "bring the community on board",
       "cn": "争取社区支持",
-      "example": "Officials brought the community on board before construction began."
+      "example": "Officials brought the community on board before construction began.",
+      "exampleTranslation": "官员在开工前让社区参与并支持该项目。"
     },
     {
       "text": "align economic and environmental goals",
       "cn": "协调经济与环境目标",
-      "example": "Efficient buildings can align economic and environmental goals."
+      "example": "Efficient buildings can align economic and environmental goals.",
+      "exampleTranslation": "节能建筑可以使经济目标与环境目标保持一致。"
     },
     {
       "text": "create lasting value",
       "cn": "创造持久价值",
-      "example": "Skills training can create lasting value beyond the original project."
+      "example": "Skills training can create lasting value beyond the original project.",
+      "exampleTranslation": "技能培训可以在原项目之外创造持久价值。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "create skilled employment",
         "target vulnerable households"
       ],
-      "argument": "Older homes often waste heat, leaving residents with a choice between high bills and uncomfortable rooms. Publicly supported insulation solves the environmental problem at its source while reducing everyday costs. A city can begin with low-income districts and train local workers to install the improvements, thereby sharing both jobs and savings. Unlike a temporary energy payment, renovation continues to deliver benefits each winter. Governments should therefore evaluate climate spending partly by whether it improves material living conditions."
+      "argument": "Older homes often waste heat, leaving residents with a choice between high bills and uncomfortable rooms. Publicly supported insulation solves the environmental problem at its source while reducing everyday costs. A city can begin with low-income districts and train local workers to install the improvements, thereby sharing both jobs and savings. Unlike a temporary energy payment, renovation continues to deliver benefits each winter. Governments should therefore evaluate climate spending partly by whether it improves material living conditions.",
+      "viewpointTranslation": "住房改造可以统一社会目标与环境目标。",
+      "topicSentenceTranslation": "改造低效住宅提供了一条降低排放的实际途径，同时无需让低收入家庭承担更高成本。",
+      "collocationTranslations": [
+        "升级建筑保温",
+        "降低家庭能源账单",
+        "创造技术型就业",
+        "重点帮助弱势家庭"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Older homes often waste heat, leaving residents with a choice between high bills and uncomfortable rooms.",
+          "translation": "老旧住宅经常浪费热量，使居民不得不在高额账单和不舒适的房间之间作出选择。"
+        },
+        {
+          "text": "Publicly supported insulation solves the environmental problem at its source while reducing everyday costs.",
+          "translation": "公共资助的保温工程从源头解决环境问题，同时降低日常开支。"
+        },
+        {
+          "text": "A city can begin with low-income districts and train local workers to install the improvements, thereby sharing both jobs and savings.",
+          "translation": "城市可以从低收入地区入手，培训本地工人安装改造设施，从而共享就业和节省的费用。"
+        },
+        {
+          "text": "Unlike a temporary energy payment, renovation continues to deliver benefits each winter.",
+          "translation": "与临时能源补助不同，住房改造在每个冬天都会持续带来益处。"
+        },
+        {
+          "text": "Governments should therefore evaluate climate spending partly by whether it improves material living conditions.",
+          "translation": "因此，政府评估气候支出时，应部分考察它是否改善实际生活条件。"
+        }
+      ]
     },
     {
       "viewpoint": "Development indicators should reflect resilience, not output alone.",
@@ -301,19 +347,99 @@
         "track household security",
         "look beyond headline growth"
       ],
-      "argument": "A region that clears forests for rapid commodity production may record impressive income in the short term. However, soil loss, unstable employment and dependence on one export can leave it vulnerable to a price fall or extreme weather. A broader scorecard could compare income gains with ecosystem condition, job stability and access to essential services. Such measures do not require governments to reject growth; they reveal whether its foundations are durable. Public investment can then favour activities that generate value without exhausting the assets on which later development depends."
+      "argument": "A region that clears forests for rapid commodity production may record impressive income in the short term. However, soil loss, unstable employment and dependence on one export can leave it vulnerable to a price fall or extreme weather. A broader scorecard could compare income gains with ecosystem condition, job stability and access to essential services. Such measures do not require governments to reject growth; they reveal whether its foundations are durable. Public investment can then favour activities that generate value without exhausting the assets on which later development depends.",
+      "viewpointTranslation": "发展指标应反映韧性，而不只是产出。",
+      "topicSentenceTranslation": "经济产出可能在上升，而未来繁荣所依赖的自然和社会基础却在削弱。",
+      "collocationTranslations": [
+        "衡量长期韧性",
+        "核算资源消耗",
+        "追踪家庭保障",
+        "超越总体增长数字"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A region that clears forests for rapid commodity production may record impressive income in the short term.",
+          "translation": "一个地区为快速生产商品而砍伐森林，短期内可能记录可观收入。"
+        },
+        {
+          "text": "However, soil loss, unstable employment and dependence on one export can leave it vulnerable to a price fall or extreme weather.",
+          "translation": "然而，土壤流失、就业不稳定和对单一出口的依赖，会使它容易受到价格下跌或极端天气影响。"
+        },
+        {
+          "text": "A broader scorecard could compare income gains with ecosystem condition, job stability and access to essential services.",
+          "translation": "更全面的指标体系可以把收入增长与生态系统状况、就业稳定性和基本服务可及性进行比较。"
+        },
+        {
+          "text": "Such measures do not require governments to reject growth; they reveal whether its foundations are durable.",
+          "translation": "这些指标不要求政府拒绝增长；它们会揭示增长的基础是否持久。"
+        },
+        {
+          "text": "Public investment can then favour activities that generate value without exhausting the assets on which later development depends.",
+          "translation": "这样，公共投资就能偏向那些创造价值而不耗尽未来发展所依赖资产的活动。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a project in your area that could provide long-term benefits.",
-      "answer": "I would like my neighbourhood to renovate its older apartment buildings, especially by improving insulation and replacing inefficient heating systems. Many flats become extremely cold in winter and hot in summer, so residents spend a great deal on electricity without feeling comfortable. The work would be disruptive for a few months, but it could reduce bills, improve health and lower energy use for many years. It could also create work for local electricians and builders if training were included. I prefer this kind of project to a purely decorative redevelopment because people would notice the benefit in daily life. Its success would be easy to measure through energy consumption and residents’ costs before and after the renovation."
+      "answer": "I would like my neighbourhood to renovate its older apartment buildings, especially by improving insulation and replacing inefficient heating systems. Many flats become extremely cold in winter and hot in summer, so residents spend a great deal on electricity without feeling comfortable. The work would be disruptive for a few months, but it could reduce bills, improve health and lower energy use for many years. It could also create work for local electricians and builders if training were included. I prefer this kind of project to a purely decorative redevelopment because people would notice the benefit in daily life. Its success would be easy to measure through energy consumption and residents’ costs before and after the renovation.",
+      "questionTranslation": "请描述你所在地区一个能够带来长期益处的项目。",
+      "answerSentences": [
+        {
+          "text": "I would like my neighbourhood to renovate its older apartment buildings, especially by improving insulation and replacing inefficient heating systems.",
+          "translation": "我希望社区改造老旧公寓楼，尤其是改善保温并更换低效供暖系统。"
+        },
+        {
+          "text": "Many flats become extremely cold in winter and hot in summer, so residents spend a great deal on electricity without feeling comfortable.",
+          "translation": "许多公寓冬天极冷、夏天极热，因此居民花费大量电费却仍不舒适。"
+        },
+        {
+          "text": "The work would be disruptive for a few months, but it could reduce bills, improve health and lower energy use for many years.",
+          "translation": "工程会造成几个月的干扰，但可以在多年内降低账单、改善健康并减少能源使用。"
+        },
+        {
+          "text": "It could also create work for local electricians and builders if training were included.",
+          "translation": "如果包含培训，它还可以为本地电工和建筑工人创造工作。"
+        },
+        {
+          "text": "I prefer this kind of project to a purely decorative redevelopment because people would notice the benefit in daily life.",
+          "translation": "我更喜欢这类项目，而不是纯装饰性重建，因为人们在日常生活中能感受到益处。"
+        },
+        {
+          "text": "Its success would be easy to measure through energy consumption and residents’ costs before and after the renovation.",
+          "translation": "项目成效也很容易通过改造前后的能源消耗和居民费用来衡量。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Why do governments sometimes favour short-term development projects?",
-      "answer": "Political cycles reward results that can be photographed or announced quickly, whereas benefits from education, conservation or maintenance may emerge after current leaders have left office. Funding systems can create the same bias by providing money for construction but not long-term operation. In addition, voters facing immediate unemployment or high prices may reasonably prioritise relief now. Governments can respond by publishing life-cycle costs, setting independent long-term targets and dividing large strategies into visible milestones. Long-term thinking is more credible when it addresses present needs rather than asking people to sacrifice indefinitely."
+      "answer": "Political cycles reward results that can be photographed or announced quickly, whereas benefits from education, conservation or maintenance may emerge after current leaders have left office. Funding systems can create the same bias by providing money for construction but not long-term operation. In addition, voters facing immediate unemployment or high prices may reasonably prioritise relief now. Governments can respond by publishing life-cycle costs, setting independent long-term targets and dividing large strategies into visible milestones. Long-term thinking is more credible when it addresses present needs rather than asking people to sacrifice indefinitely.",
+      "questionTranslation": "为什么政府有时偏爱短期发展项目？",
+      "answerSentences": [
+        {
+          "text": "Political cycles reward results that can be photographed or announced quickly, whereas benefits from education, conservation or maintenance may emerge after current leaders have left office.",
+          "translation": "政治周期会奖励能够迅速拍照展示或宣布的成果，而教育、保护或维护的益处可能要等现任领导离任后才出现。"
+        },
+        {
+          "text": "Funding systems can create the same bias by providing money for construction but not long-term operation.",
+          "translation": "资助体系也会产生同样偏向，因为它为建设提供资金，却不负责长期运营。"
+        },
+        {
+          "text": "In addition, voters facing immediate unemployment or high prices may reasonably prioritise relief now.",
+          "translation": "此外，面对眼前失业或高物价的选民，合理地可能会优先考虑当前纾困。"
+        },
+        {
+          "text": "Governments can respond by publishing life-cycle costs, setting independent long-term targets and dividing large strategies into visible milestones.",
+          "translation": "政府可以通过公布全生命周期成本、设定独立长期目标，并把大型战略分解为可见里程碑来应对。"
+        },
+        {
+          "text": "Long-term thinking is more credible when it addresses present needs rather than asking people to sacrifice indefinitely.",
+          "translation": "长期思维只有在处理当前需求，而不是要求人们无限期牺牲时才更可信。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +470,95 @@
         "answer": "aquifer",
         "explanation": "Paragraph 3 identifies the aquifer as the water source at risk."
       }
+    ],
+    "titleTranslation": "乡村太阳能水泵的第二次生命",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "In a dry agricultural district, a development programme replaced diesel water pumps with solar-powered equipment.",
+          "translation": "在一个干旱农业区，一项发展计划用太阳能设备取代了柴油水泵。"
+        },
+        {
+          "text": "The initial figures were impressive: fuel purchases fell, irrigation became more reliable and farmers could water crops without travelling to a distant filling station.",
+          "translation": "初始数据令人印象深刻：燃油采购下降，灌溉更可靠，农民无需前往遥远加油站就能给作物浇水。"
+        },
+        {
+          "text": "Five years later, however, several pumps stood unused.",
+          "translation": "然而五年后，几台水泵已经闲置。"
+        },
+        {
+          "text": "Their panels still generated electricity, but inexpensive electronic controllers had failed and no nearby technician could identify the fault.",
+          "translation": "其太阳能板仍能发电，但廉价电子控制器已经损坏，附近没有技术人员能够找出故障。"
+        }
+      ],
+      [
+        {
+          "text": "The outcome was not evidence that solar irrigation was inherently unsuitable.",
+          "translation": "这一结果并不证明太阳能灌溉本身不合适。"
+        },
+        {
+          "text": "Rather, it exposed how narrowly the project had defined sustainability.",
+          "translation": "相反，它暴露了项目对可持续性的定义多么狭窄。"
+        },
+        {
+          "text": "Procurement officers had compared purchase prices and predicted carbon savings, yet maintenance knowledge, spare-part supply and responsibility after the warranty expired received little attention.",
+          "translation": "采购人员比较了购买价格并预测减碳量，却很少关注维护知识、零件供应以及保修到期后的责任。"
+        },
+        {
+          "text": "The imported model, selected partly for its high laboratory efficiency, used components unavailable in the domestic market.",
+          "translation": "这款进口型号部分因实验室效率高而入选，却使用国内市场买不到的零部件。"
+        }
+      ],
+      [
+        {
+          "text": "A farmers’ cooperative subsequently tested a different arrangement.",
+          "translation": "一个农民合作社随后测试了不同安排。"
+        },
+        {
+          "text": "It chose a slightly less efficient pump assembled from standard parts, paid two local trainees to work with the supplier and collected a small maintenance fee after each harvest.",
+          "translation": "它选择了由标准零件组装、效率略低的水泵，付费让两名本地学员与供应商一起工作，并在每次收获后收取少量维护费。"
+        },
+        {
+          "text": "Because the fee varied with farm size, poorer members did not face an identical charge.",
+          "translation": "由于费用随农场规模变化，较贫困成员不必承担相同收费。"
+        },
+        {
+          "text": "The cooperative also recorded water use, since cheaper pumping, if left unmanaged, could encourage extraction from the aquifer faster than rainfall replaced it.",
+          "translation": "合作社还记录用水，因为抽水成本降低后如果缺乏管理，可能会使地下水抽取速度超过降雨补充速度。"
+        }
+      ],
+      [
+        {
+          "text": "This second system cost more to organise than simply delivering equipment.",
+          "translation": "组织第二套系统的成本高于简单交付设备。"
+        },
+        {
+          "text": "Meetings delayed installation, and training reduced the number of pumps that the first-year budget could purchase.",
+          "translation": "会议推迟了安装，培训也减少了第一年预算能购买的水泵数量。"
+        },
+        {
+          "text": "Nevertheless, breakdowns were repaired within days rather than months, while water records allowed members to agree seasonal limits.",
+          "translation": "不过，故障能在数天而非数月内修复，用水记录也让成员能够商定季节性限额。"
+        },
+        {
+          "text": "After four years, a larger proportion of the less advanced pumps remained operational than of the technically superior original machines.",
+          "translation": "四年后，这些技术水平较低的水泵保持运行的比例，反而高于技术更先进的原始设备。"
+        }
+      ],
+      [
+        {
+          "text": "Development agencies increasingly use “whole-life” assessments, which examine who will operate an asset, how recurrent costs will be paid and whether solving one problem may intensify another.",
+          "translation": "发展机构越来越多地使用“全生命周期”评估，考察谁来运营资产、经常性成本如何支付，以及解决一个问题是否可能加剧另一个问题。"
+        },
+        {
+          "text": "Such questions do not guarantee success, nor do they make advanced technology undesirable.",
+          "translation": "这些问题不能保证成功，也不意味着先进技术不可取。"
+        },
+        {
+          "text": "They change the unit of evaluation: the product is no longer a machine delivered on opening day, but a service that local people can maintain without undermining the resource on which it depends.",
+          "translation": "它们改变了评估单位：产品不再是开幕当天交付的一台机器，而是本地居民能够维护、同时不破坏其所依赖资源的一项服务。"
+        }
+      ]
     ]
   }
 }

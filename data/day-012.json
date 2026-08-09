@@ -153,7 +153,8 @@
         "make a dish",
         "do the cooking"
       ],
-      "note": "do the cooking 指承担做饭这件事。"
+      "note": "do the cooking 指承担做饭这件事。",
+      "translation": "厨师可以表达为准备饭菜、做菜、做饭。"
     },
     {
       "base": "healthy food",
@@ -162,7 +163,8 @@
         "a balanced meal",
         "food with high nutritional value"
       ],
-      "note": "balanced 强调多种营养合理组合。"
+      "note": "balanced 强调多种营养合理组合。",
+      "translation": "健康食品可以表现为营养食品、均衡膳食、营养价值高的食品。"
     },
     {
       "base": "traditional food",
@@ -171,7 +173,8 @@
         "local speciality",
         "traditional dish"
       ],
-      "note": "speciality 指某地特别出名的食物。"
+      "note": "speciality 指某地特别出名的食物。",
+      "translation": "传统食品可以表述为地方美食、地方特色菜、传统菜肴。"
     },
     {
       "base": "throw food away",
@@ -180,7 +183,8 @@
         "discard leftovers",
         "dispose of unused food"
       ],
-      "note": "discard 和 dispose of 较正式。"
+      "note": "discard 和 dispose of 较正式。",
+      "translation": "扔掉食物可以表达为浪费食物、丢弃剩菜、处置未使用的食物。"
     },
     {
       "base": "very tasty",
@@ -189,7 +193,8 @@
         "delicious",
         "full of flavour"
       ],
-      "note": "flavourful 强调味道丰富。"
+      "note": "flavourful 强调味道丰富。",
+      "translation": "非常美味可以表达为有味道的、美味的、充满味道的。"
     },
     {
       "base": "restaurant food",
@@ -198,7 +203,8 @@
         "commercially prepared food",
         "dining-out option"
       ],
-      "note": "meal out 更适合口语。"
+      "note": "meal out 更适合口语。",
+      "translation": "餐厅食物可以表示为外出就餐、商业准备的食物、外出就餐的选择。"
     },
     {
       "base": "amount of food",
@@ -207,7 +213,8 @@
         "serving",
         "quantity"
       ],
-      "note": "portion 和 serving 常指一人份。"
+      "note": "portion 和 serving 常指一人份。",
+      "translation": "食物的量可以用部分、份量、数量来表示。"
     },
     {
       "base": "learn cooking",
@@ -216,51 +223,60 @@
         "learn basic techniques",
         "become confident in the kitchen"
       ],
-      "note": "confident in the kitchen 是自然表达。"
+      "note": "confident in the kitchen 是自然表达。",
+      "translation": "学习烹饪可以表现为培养烹饪技巧，学习基本技术，对厨房充满信心。"
     }
   ],
   "sentences": [
     {
       "pattern": "If I have + ingredients + available, I usually + cooking action.",
       "cn": "如果手边有某些食材，我通常会……",
-      "example": "If I have fresh vegetables available, I usually make a simple soup."
+      "example": "If I have fresh vegetables available, I usually make a simple soup.",
+      "exampleTranslation": "如果我有新鲜蔬菜，我通常会做一个简单的汤。"
     },
     {
       "pattern": "What distinguishes + cuisine + from + cuisine + is + feature.",
       "cn": "区分两种菜系的是……",
-      "example": "What distinguishes this regional cuisine from others is its use of fresh herbs."
+      "example": "What distinguishes this regional cuisine from others is its use of fresh herbs.",
+      "exampleTranslation": "这种地方菜肴与其他菜肴的区别在于它使用新鲜的香草。"
     },
     {
       "pattern": "Cooking at home gives people greater control over + noun.",
       "cn": "在家做饭让人们更能控制……",
-      "example": "Cooking at home gives people greater control over portion size and salt."
+      "example": "Cooking at home gives people greater control over portion size and salt.",
+      "exampleTranslation": "在家做饭可以让人们更好地控制份量和盐。"
     }
   ],
   "expressions": [
     {
       "text": "cook from scratch",
       "cn": "从原材料开始烹饪",
-      "example": "At weekends I have time to cook from scratch."
+      "example": "At weekends I have time to cook from scratch.",
+      "exampleTranslation": "周末我有时间从头开始做饭。"
     },
     {
       "text": "grab a quick bite",
       "cn": "快速吃点东西",
-      "example": "I grabbed a quick bite before the meeting."
+      "example": "I grabbed a quick bite before the meeting.",
+      "exampleTranslation": "会议前我匆匆吃了点东西。"
     },
     {
       "text": "have a sweet tooth",
       "cn": "爱吃甜食",
-      "example": "I have a sweet tooth, so I rarely refuse cake."
+      "example": "I have a sweet tooth, so I rarely refuse cake.",
+      "exampleTranslation": "我爱吃甜食，所以很少拒绝蛋糕。"
     },
     {
       "text": "use up the leftovers",
       "cn": "把剩菜利用完",
-      "example": "We used up the leftovers in a fried rice dish."
+      "example": "We used up the leftovers in a fried rice dish.",
+      "exampleTranslation": "我们把剩下的菜用在炒饭里。"
     },
     {
       "text": "turn out well",
       "cn": "做出来效果很好",
-      "example": "The bread took hours, but it turned out well."
+      "example": "The bread took hours, but it turned out well.",
+      "exampleTranslation": "面包花了几个小时，但结果很好。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "manage a food budget",
         "develop practical skills"
       ],
-      "argument": "Young people who cannot prepare simple meals may depend on expensive takeaway or highly processed food. Lessons can teach safe knife use, basic nutrition and how to plan several meals from affordable ingredients. Students would then be better prepared to live independently. The subject need not replace academic study; short practical courses would be sufficient. Cooking education could therefore improve both health and confidence."
+      "argument": "Young people who cannot prepare simple meals may depend on expensive takeaway or highly processed food. Lessons can teach safe knife use, basic nutrition and how to plan several meals from affordable ingredients. Students would then be better prepared to live independently. The subject need not replace academic study; short practical courses would be sufficient. Cooking education could therefore improve both health and confidence.",
+      "viewpointTranslation": "学校应该教授基本烹饪。",
+      "topicSentenceTranslation": "烹饪是一项实用的生活技能，有助于健康和经济独立。",
+      "collocationTranslations": [
+        "准备均衡的膳食",
+        "了解食品标签",
+        "管理食物预算",
+        "培养实用技能"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Young people who cannot prepare simple meals may depend on expensive takeaway or highly processed food.",
+          "translation": "无法准备简单饭菜的年轻人可能会依赖昂贵的外卖或高度加工的食品。"
+        },
+        {
+          "text": "Lessons can teach safe knife use, basic nutrition and how to plan several meals from affordable ingredients.",
+          "translation": "课程可以教授安全刀具的使用、基本营养以及如何使用负担得起的食材来计划几餐。"
+        },
+        {
+          "text": "Students would then be better prepared to live independently.",
+          "translation": "这样学生就能更好地为独立生活做好准备。"
+        },
+        {
+          "text": "The subject need not replace academic study; short practical courses would be sufficient.",
+          "translation": "该学科不必取代学术研究；短期实践课程就足够了。"
+        },
+        {
+          "text": "Cooking education could therefore improve both health and confidence.",
+          "translation": "因此，烹饪教育可以改善健康和信心。"
+        }
+      ]
     },
     {
       "viewpoint": "Households can reduce food waste through better planning.",
@@ -301,19 +347,87 @@
         "store food correctly",
         "use up leftovers"
       ],
-      "argument": "Special offers encourage shoppers to buy large quantities even when they have no plan for them. Fresh food then spoils unseen at the back of a refrigerator. Writing a list after checking existing supplies can prevent duplicate purchases. Freezing portions and using leftovers creatively also extend the useful life of food. These small habits save money while reducing the resources wasted in production and transport."
+      "argument": "Special offers encourage shoppers to buy large quantities even when they have no plan for them. Fresh food then spoils unseen at the back of a refrigerator. Writing a list after checking existing supplies can prevent duplicate purchases. Freezing portions and using leftovers creatively also extend the useful life of food. These small habits save money while reducing the resources wasted in production and transport.",
+      "viewpointTranslation": "家庭可以通过更好的规划来减少食物浪费。",
+      "topicSentenceTranslation": "很大一部分本可以避免的食物浪费始于购买超过家庭可用的食物。",
+      "collocationTranslations": [
+        "提前计划膳食",
+        "检查有效期",
+        "正确储存食物",
+        "用完剩菜"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Special offers encourage shoppers to buy large quantities even when they have no plan for them.",
+          "translation": "特别优惠鼓励购物者大量购买，即使他们没有计划。"
+        },
+        {
+          "text": "Fresh food then spoils unseen at the back of a refrigerator.",
+          "translation": "新鲜食物在冰箱后部会以看不见的方式变质。"
+        },
+        {
+          "text": "Writing a list after checking existing supplies can prevent duplicate purchases.",
+          "translation": "检查现有供应后写下清单可以防止重复购买。"
+        },
+        {
+          "text": "Freezing portions and using leftovers creatively also extend the useful life of food.",
+          "translation": "冷冻部分和创造性地使用剩菜也可以延长食物的使用寿命。"
+        },
+        {
+          "text": "These small habits save money while reducing the resources wasted in production and transport.",
+          "translation": "这些小习惯可以节省金钱，同时减少生产和运输中浪费的资源。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you enjoy cooking?",
-      "answer": "Yes, especially when I’m not in a hurry. On weekdays I make simple things such as noodles or soup, but at weekends I sometimes try a new recipe. I like the practical side of turning a few ingredients into a proper meal. Cleaning the kitchen afterwards is the part I could happily avoid."
+      "answer": "Yes, especially when I’m not in a hurry. On weekdays I make simple things such as noodles or soup, but at weekends I sometimes try a new recipe. I like the practical side of turning a few ingredients into a proper meal. Cleaning the kitchen afterwards is the part I could happily avoid.",
+      "questionTranslation": "你喜欢做饭吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, especially when I’m not in a hurry.",
+          "translation": "是的，尤其是当我不着急的时候。"
+        },
+        {
+          "text": "On weekdays I make simple things such as noodles or soup, but at weekends I sometimes try a new recipe.",
+          "translation": "工作日我做一些简单的东西，比如面条或汤，但周末我有时会尝试新的食谱。"
+        },
+        {
+          "text": "I like the practical side of turning a few ingredients into a proper meal.",
+          "translation": "我喜欢将一些食材变成一顿正餐的实用性。"
+        },
+        {
+          "text": "Cleaning the kitchen afterwards is the part I could happily avoid.",
+          "translation": "我最想省掉的是饭后收拾厨房这一步。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Is there a dish you learned to cook from someone else?",
-      "answer": "My grandmother taught me to make dumplings. She never measures anything, so at first I found it difficult to copy her. I had to watch the texture of the filling and learn by trial and error. Mine still don’t look as neat as hers, but making them reminds me of family gatherings, which matters more than perfect shapes."
+      "answer": "My grandmother taught me to make dumplings. She never measures anything, so at first I found it difficult to copy her. I had to watch the texture of the filling and learn by trial and error. Mine still don’t look as neat as hers, but making them reminds me of family gatherings, which matters more than perfect shapes.",
+      "questionTranslation": "有没有一道菜是你从别人那里学来的？",
+      "answerSentences": [
+        {
+          "text": "My grandmother taught me to make dumplings.",
+          "translation": "奶奶教我包饺子。"
+        },
+        {
+          "text": "She never measures anything, so at first I found it difficult to copy her.",
+          "translation": "她从来不用量具称量食材，所以起初我很难照着她的做法来。"
+        },
+        {
+          "text": "I had to watch the texture of the filling and learn by trial and error.",
+          "translation": "我必须观察馅料的质地，并通过反复试验来学习。"
+        },
+        {
+          "text": "Mine still don’t look as neat as hers, but making them reminds me of family gatherings, which matters more than perfect shapes.",
+          "translation": "我包的饺子还是没有她的整齐，但这个过程会让我想起家庭聚会，这比形状是否完美更重要。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,99 @@
         "answer": "a spoon",
         "explanation": "Paragraph 3 gives this sensory test."
       }
+    ],
+    "titleTranslation": "永远不变的食谱",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Recipes appear to offer certainty: a list of ingredients followed by ordered instructions.",
+          "translation": "食谱似乎提供了确定性：配料清单，后面是有序的说明。"
+        },
+        {
+          "text": "In practice, the same recipe produces different results in different kitchens.",
+          "translation": "实际上，相同的食​​谱在不同的厨房会产生不同的结果。"
+        },
+        {
+          "text": "Flour absorbs water according to storage and climate, ovens vary in temperature, and vegetables contain changing amounts of moisture.",
+          "translation": "面粉会根据储存和气候吸收水分，烤箱的温度也会有所不同，蔬菜的水分含量也会发生变化。"
+        },
+        {
+          "text": "Experienced cooks respond to these variations almost automatically, while beginners may follow every number and still wonder what went wrong.",
+          "translation": "经验丰富的厨师几乎会自动对这些变化做出反应，而初学者可能会跟踪每一个数字，但仍然想知道哪里出了问题。"
+        }
+      ],
+      [
+        {
+          "text": "Historically, many recipes were not written for beginners.",
+          "translation": "从历史上看，许多食谱并不是为初学者编写的。"
+        },
+        {
+          "text": "They served as reminders for people who already understood basic methods, so instructions such as ‘cook until ready’ were considered sufficient.",
+          "translation": "它们为那些已经了解基本方法的人提供了提醒，因此诸如“煮至准备就绪”之类的说明被认为是足够的。"
+        },
+        {
+          "text": "Exact weights became more common with domestic scales, standardised measures and mass publishing.",
+          "translation": "随着家用秤、标准化测量和大规模出版，精确的重量变得更加普遍。"
+        },
+        {
+          "text": "This made recipes easier to share, but it also encouraged the belief that cooking could be separated entirely from judgement.",
+          "translation": "这使得食谱更容易分享，但也鼓励了人们相信烹饪可以完全与判断分开。"
+        }
+      ],
+      [
+        {
+          "text": "Sensory information fills the gap left by numbers.",
+          "translation": "感官信息填补了数字留下的空白。"
+        },
+        {
+          "text": "Dough may need to feel smooth, onions should become translucent, and a sauce can be reduced until it coats a spoon.",
+          "translation": "面团可能需要摸起来光滑，洋葱应该变得半透明，并且可以减少酱汁直到覆盖勺子。"
+        },
+        {
+          "text": "These descriptions are harder to standardise, yet they teach readers what change to observe.",
+          "translation": "这些描述很难标准化，但它们可以告诉读者要观察哪些变化。"
+        },
+        {
+          "text": "Video demonstrations add movement and sound, although they cannot reproduce smell, taste or the heat of a particular stove.",
+          "translation": "视频演示增加了动作和声音，尽管它们无法再现特定炉子的气味、味道或热量。"
+        }
+      ],
+      [
+        {
+          "text": "A recipe is therefore best understood as a tested route rather than an unbreakable rule.",
+          "translation": "因此，最好将配方理解为经过测试的路线，而不是牢不可破的规则。"
+        },
+        {
+          "text": "Substitution may be necessary because of allergies, cost or local availability.",
+          "translation": "由于过敏、成本或当地供应情况，可能需要更换。"
+        },
+        {
+          "text": "Changing one ingredient can alter texture as well as flavour, so adaptation still requires knowledge.",
+          "translation": "改变一种成分会改变质地和味道，因此适应仍然需要知识。"
+        },
+        {
+          "text": "The confident cook follows instructions closely when precision matters, but also recognises when the food itself provides better evidence than the clock.",
+          "translation": "当精确度很重要时，自信的厨师会严格遵循指示，但也会认识到食物本身何时提供比时钟更好的证据。"
+        }
+      ],
+      [
+        {
+          "text": "Cooks also learn through comparison.",
+          "translation": "厨师也是通过比较来学习的。"
+        },
+        {
+          "text": "Preparing the same dish several times makes small differences easier to notice: a hotter pan changes browning, while resting dough alters texture.",
+          "translation": "多次准备同一道菜可以更容易注意到细微的差异：较热的平底锅会改变褐变程度，而静置的面团会改变质地。"
+        },
+        {
+          "text": "This repeated practice turns written instructions into practical knowledge.",
+          "translation": "这种反复练习将书面说明转化为实践知识。"
+        },
+        {
+          "text": "The recipe remains useful, but the cook gradually understands which details are essential and which can respond to preference or circumstance.",
+          "translation": "食谱仍然有用，但厨师逐渐了解哪些细节是必要的，哪些细节可以根据偏好或情况做出反应。"
+        }
+      ]
     ]
   }
 }

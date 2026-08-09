@@ -153,7 +153,8 @@
         "codes of conduct",
         "school regulations"
       ],
-      "note": "disciplinary 强调纪律管理；code of conduct 强调行为规范。"
+      "note": "disciplinary 强调纪律管理；code of conduct 强调行为规范。",
+      "translation": "校规可以表现为纪律规则、行为准则、校规。"
     },
     {
       "base": "join a school club",
@@ -162,7 +163,8 @@
         "become a club member",
         "participate in an extracurricular group"
       ],
-      "note": "take part in 强调参加活动，become a member 强调成员身份。"
+      "note": "take part in 强调参加活动，become a member 强调成员身份。",
+      "translation": "join a school club 可以表达为“参加学校社团”“成为社团成员”或“加入课外活动团体”。"
     },
     {
       "base": "do well at school",
@@ -171,7 +173,8 @@
         "make good academic progress",
         "perform well academically"
       ],
-      "note": "progress 强调进步过程，results 强调成绩。"
+      "note": "progress 强调进步过程，results 强调成绩。",
+      "translation": "在学校表现良好可以表示为取得优异的成绩、取得良好的学业进步、在学业上表现良好。"
     },
     {
       "base": "feel part of the school",
@@ -180,7 +183,8 @@
         "feel included",
         "identify with the school community"
       ],
-      "note": "belonging 可用于讨论校园归属感。"
+      "note": "belonging 可用于讨论校园归属感。",
+      "translation": "感觉自己是学校的一部分可以表达为培养一种归属感、感觉被包容、认同学校社区。"
     },
     {
       "base": "miss lessons",
@@ -189,7 +193,8 @@
         "lose learning time",
         "miss classroom instruction"
       ],
-      "note": "absent 是状态，miss 是具体行为。"
+      "note": "absent 是状态，miss 是具体行为。",
+      "translation": "缺课可以表现为缺席、耽误学习时间、错过课堂教学。"
     },
     {
       "base": "school friends",
@@ -198,7 +203,8 @@
         "peers",
         "fellow pupils"
       ],
-      "note": "peers 强调年龄或地位相近。"
+      "note": "peers 强调年龄或地位相近。",
+      "translation": "学校的朋友可以表示为同学、同龄人、同学。"
     },
     {
       "base": "activities after class",
@@ -207,7 +213,8 @@
         "after-school programmes",
         "co-curricular provision"
       ],
-      "note": "extracurricular 最常用于正式教育语境。"
+      "note": "extracurricular 最常用于正式教育语境。",
+      "translation": "activities after class 指课后活动；extracurricular activities 是课程之外的活动，after-school programmes 是放学后的活动项目，co-curricular provision 指配合正规课程开展的活动。"
     },
     {
       "base": "a pleasant school atmosphere",
@@ -216,51 +223,60 @@
         "a positive school climate",
         "an inclusive campus culture"
       ],
-      "note": "school climate 强调整体关系与规范。"
+      "note": "school climate 强调整体关系与规范。",
+      "translation": "愉快的学校氛围可以表现为支持性的学习环境、积极的学校氛围、包容的校园文化。"
     }
   ],
   "sentences": [
     {
       "pattern": "What makes + aspect of school + valuable is + noun phrase.",
       "cn": "使校园生活中某方面有价值的是……。",
-      "example": "What makes group projects valuable is the need to negotiate with classmates."
+      "example": "What makes group projects valuable is the need to negotiate with classmates.",
+      "exampleTranslation": "小组项目的价值在于需要与同学协商。"
     },
     {
       "pattern": "It was not until + time/event + that + subject + realised + clause.",
       "cn": "直到某个时间或事件之后，某人才意识到……。",
-      "example": "It was not until my final year that I realised how much I had learned outside lessons."
+      "example": "It was not until my final year that I realised how much I had learned outside lessons.",
+      "exampleTranslation": "直到最后一年，我才意识到我在课外学到了多少东西。"
     },
     {
       "pattern": "Provided that + condition, + school practice + can + benefit.",
       "cn": "只要满足某个条件，某种学校做法就能……。",
-      "example": "Provided that rules are explained consistently, school discipline can create a fairer environment."
+      "example": "Provided that rules are explained consistently, school discipline can create a fairer environment.",
+      "exampleTranslation": "只要对规则的解释一致，学校纪律就可以创造一个更公平的环境。"
     }
   ],
   "expressions": [
     {
       "text": "settle into a new school",
       "cn": "适应新学校",
-      "example": "It took me a few weeks to settle into my new school."
+      "example": "It took me a few weeks to settle into my new school.",
+      "exampleTranslation": "我花了几个星期才适应新学校。"
     },
     {
       "text": "get on with my classmates",
       "cn": "与同学相处融洽",
-      "example": "I got on with most of my classmates, even though we had different interests."
+      "example": "I got on with most of my classmates, even though we had different interests.",
+      "exampleTranslation": "尽管我们有不同的兴趣，但我和大多数同学都相处得很好。"
     },
     {
       "text": "fall behind with schoolwork",
       "cn": "学习进度落后",
-      "example": "A long absence can make pupils fall behind with schoolwork."
+      "example": "A long absence can make pupils fall behind with schoolwork.",
+      "exampleTranslation": "长时间缺勤可能会导致学生学业落后。"
     },
     {
       "text": "take part in extracurricular activities",
       "cn": "参加课外活动",
-      "example": "Taking part in extracurricular activities helped me become more confident."
+      "example": "Taking part in extracurricular activities helped me become more confident.",
+      "exampleTranslation": "参加课外活动使我变得更加自信。"
     },
     {
       "text": "create a sense of belonging",
       "cn": "营造归属感",
-      "example": "Shared traditions can create a sense of belonging among pupils."
+      "example": "Shared traditions can create a sense of belonging among pupils.",
+      "exampleTranslation": "共同的传统可以在学生之间创造归属感。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "participate in school life",
         "improve self-confidence"
       ],
-      "argument": "Clubs, sports and performances require pupils to cooperate in situations that ordinary lessons rarely provide. Through these activities, young people can discover strengths that are not measured by written tests. A quiet pupil, for instance, may become an effective organiser during a school production. Participation can also connect students from different classes and reduce isolation. Extracurricular provision should therefore be treated as part of education rather than an optional reward."
+      "argument": "Clubs, sports and performances require pupils to cooperate in situations that ordinary lessons rarely provide. Through these activities, young people can discover strengths that are not measured by written tests. A quiet pupil, for instance, may become an effective organiser during a school production. Participation can also connect students from different classes and reduce isolation. Extracurricular provision should therefore be treated as part of education rather than an optional reward.",
+      "viewpointTranslation": "课外活动是学校生活的重要组成部分。",
+      "topicSentenceTranslation": "学校应留出时间用于培养考试成绩以外的能力的活动。",
+      "collocationTranslations": [
+        "培养人际交往能力",
+        "发现个人优势",
+        "参与学校生活",
+        "提高自信心"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Clubs, sports and performances require pupils to cooperate in situations that ordinary lessons rarely provide.",
+          "translation": "俱乐部、体育运动和表演要求学生在普通课程很少提供的情况下进行合作。"
+        },
+        {
+          "text": "Through these activities, young people can discover strengths that are not measured by written tests.",
+          "translation": "通过这些活动，年轻人可以发现笔试无法衡量的优势。"
+        },
+        {
+          "text": "A quiet pupil, for instance, may become an effective organiser during a school production.",
+          "translation": "例如，一个安静的学生可能会成为学校演出期间有效的组织者。"
+        },
+        {
+          "text": "Participation can also connect students from different classes and reduce isolation.",
+          "translation": "参与还可以将不同班级的学生联系起来并减少孤立。"
+        },
+        {
+          "text": "Extracurricular provision should therefore be treated as part of education rather than an optional reward.",
+          "translation": "因此，课外活动应被视为教育的一部分，而不是一种可选的奖励。"
+        }
+      ]
     },
     {
       "viewpoint": "School rules work best when pupils understand their purpose.",
@@ -301,19 +347,103 @@
         "accept the consequences",
         "maintain a safe environment"
       ],
-      "argument": "Rules can protect learning time and prevent stronger pupils from intimidating others. However, unexplained restrictions may be viewed as arbitrary and encourage resistance rather than responsibility. Schools should state which harm each rule is intended to prevent and apply consequences consistently. Inviting pupils to discuss implementation can reveal practical problems without giving them control over every decision. This approach teaches that authority should be accountable as well as firm."
+      "argument": "Rules can protect learning time and prevent stronger pupils from intimidating others. However, unexplained restrictions may be viewed as arbitrary and encourage resistance rather than responsibility. Schools should state which harm each rule is intended to prevent and apply consequences consistently. Inviting pupils to discuss implementation can reveal practical problems without giving them control over every decision. This approach teaches that authority should be accountable as well as firm.",
+      "viewpointTranslation": "当学生了解自己的目的时，学校规则才能发挥最佳作用。",
+      "topicSentenceTranslation": "当规则有限、一致且明确合理时，纪律会更有效。",
+      "collocationTranslations": [
+        "一致地应用规则",
+        "设定合理的界限",
+        "接受后果",
+        "维持安全的环境"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Rules can protect learning time and prevent stronger pupils from intimidating others.",
+          "translation": "规则可以保护学习时间并防止能力更强的学生恐吓他人。"
+        },
+        {
+          "text": "However, unexplained restrictions may be viewed as arbitrary and encourage resistance rather than responsibility.",
+          "translation": "然而，无法解释的限制可能被视为任意的，并鼓励抵抗而不是责任。"
+        },
+        {
+          "text": "Schools should state which harm each rule is intended to prevent and apply consequences consistently.",
+          "translation": "学校应说明每条规则旨在预防哪些伤害并一致地应用后果。"
+        },
+        {
+          "text": "Inviting pupils to discuss implementation can reveal practical problems without giving them control over every decision.",
+          "translation": "邀请学生讨论实施可以揭示实际问题，而不让他们控制每一个决定。"
+        },
+        {
+          "text": "This approach teaches that authority should be accountable as well as firm.",
+          "translation": "这种方法告诉我们，权威应该是负责任的和坚定的。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What did you enjoy most about your school days?",
-      "answer": "I enjoyed the ordinary time between lessons more than any formal event. My friends and I would sit near the sports field, share snacks and talk about whatever had happened that morning. Those short breaks made a fairly demanding school day feel much lighter. I still remember the atmosphere more clearly than most of the classes."
+      "answer": "I enjoyed the ordinary time between lessons more than any formal event. My friends and I would sit near the sports field, share snacks and talk about whatever had happened that morning. Those short breaks made a fairly demanding school day feel much lighter. I still remember the atmosphere more clearly than most of the classes.",
+      "questionTranslation": "你在学生时代最喜欢什么？",
+      "answerSentences": [
+        {
+          "text": "I enjoyed the ordinary time between lessons more than any formal event.",
+          "translation": "相比任何正式活动，我更喜欢课间那些普通的休息时间。"
+        },
+        {
+          "text": "My friends and I would sit near the sports field, share snacks and talk about whatever had happened that morning.",
+          "translation": "我和我的朋友们会坐在运动场附近，分享零食，谈论那天早上发生的事情。"
+        },
+        {
+          "text": "Those short breaks made a fairly demanding school day feel much lighter.",
+          "translation": "这些短暂的休息让相当艰苦的上学日感觉轻松多了。"
+        },
+        {
+          "text": "I still remember the atmosphere more clearly than most of the classes.",
+          "translation": "直到现在，我对这些时刻的记忆仍比大多数课堂情景更清楚。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a memorable event at your school.",
-      "answer": "I would like to describe a science exhibition held during my final year. Each class had to demonstrate an idea to younger pupils, and my group built a simple water filter from sand, charcoal and recycled bottles. The first version leaked badly, so we spent several afternoons improving it. On the day, children kept asking thoughtful questions, which made the work feel worthwhile. I remember it because it was one of the few school tasks where solving a practical problem mattered more than earning a mark. We displayed the filter beside samples of clean and muddy water, and visitors could pour water through it themselves. Our teacher stayed in the background, so we had to divide the explanations and deal with unexpected questions. By the end, I was tired of repeating the basic steps but proud that the younger pupils remained curious."
+      "answer": "I would like to describe a science exhibition held during my final year. Each class had to demonstrate an idea to younger pupils, and my group built a simple water filter from sand, charcoal and recycled bottles. The first version leaked badly, so we spent several afternoons improving it. On the day, children kept asking thoughtful questions, which made the work feel worthwhile. I remember it because it was one of the few school tasks where solving a practical problem mattered more than earning a mark. We displayed the filter beside samples of clean and muddy water, and visitors could pour water through it themselves. Our teacher stayed in the background, so we had to divide the explanations and deal with unexpected questions. By the end, I was tired of repeating the basic steps but proud that the younger pupils remained curious.",
+      "questionTranslation": "描述一下你们学校发生的一件难忘的事情。",
+      "answerSentences": [
+        {
+          "text": "I would like to describe a science exhibition held during my final year.",
+          "translation": "我想描述一下毕业年级时学校举办的一次科学展览。"
+        },
+        {
+          "text": "Each class had to demonstrate an idea to younger pupils, and my group built a simple water filter from sand, charcoal and recycled bottles.",
+          "translation": "每个班级都必须向年幼的学生展示一个想法，我的小组用沙子、木炭和回收的瓶子制作了一个简单的水过滤器。"
+        },
+        {
+          "text": "The first version leaked badly, so we spent several afternoons improving it.",
+          "translation": "第一个版本泄漏严重，所以我们花了几个下午的时间来改进它。"
+        },
+        {
+          "text": "On the day, children kept asking thoughtful questions, which made the work feel worthwhile.",
+          "translation": "当天，孩子们不断提出深思熟虑的问题，让我们觉得辛苦是值得的。"
+        },
+        {
+          "text": "I remember it because it was one of the few school tasks where solving a practical problem mattered more than earning a mark.",
+          "translation": "我记得这件事，是因为这是少数几项解决实际问题比取得分数更重要的学校任务之一。"
+        },
+        {
+          "text": "We displayed the filter beside samples of clean and muddy water, and visitors could pour water through it themselves.",
+          "translation": "我们在干净水和泥水样本旁边展示了过滤器，参观者可以自己通过它倒水。"
+        },
+        {
+          "text": "Our teacher stayed in the background, so we had to divide the explanations and deal with unexpected questions.",
+          "translation": "老师留在幕后，因此我们必须轮流讲解，并处理意料之外的问题。"
+        },
+        {
+          "text": "By the end, I was tired of repeating the basic steps but proud that the younger pupils remained curious.",
+          "translation": "到最后，我厌倦了重复基本步骤，但很自豪年轻的学生仍然保持好奇心。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +474,107 @@
         "answer": "scale",
         "explanation": "The final paragraph uses the phrase “decisions of suitable scale”."
       }
+    ],
+    "titleTranslation": "学校日不成文的课程",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A timetable presents school as a sequence of lessons, but pupils also learn during queues, lunch breaks and journeys between classrooms.",
+          "translation": "时间表将学校呈现为一系列课程，但学生也在排队、午休和教室之间的旅途中学习。"
+        },
+        {
+          "text": "In these less supervised moments, they decide who may join a game, how to respond to an insult and whether a rule still matters when no adult is watching.",
+          "translation": "在这些不受监督的时刻，他们决定谁可以参加游戏，如何应对侮辱，以及在没有成年人观看时规则是否仍然重要。"
+        },
+        {
+          "text": "Education researchers sometimes call this the hidden curriculum: the social expectations communicated through routines and relationships rather than through an official syllabus.",
+          "translation": "教育研究人员有时将其称为隐藏课程：通过日常生活和关系而不是通过官方教学大纲传达的社会期望。"
+        }
+      ],
+      [
+        {
+          "text": "The hidden curriculum can support formal teaching.",
+          "translation": "隐性课程可以支持正式教学。"
+        },
+        {
+          "text": "A school that gives pupils genuine responsibility for equipment or events allows them to practise reliability.",
+          "translation": "一所让学生对设备或活动真正负责的学校可以让他们练习可靠性。"
+        },
+        {
+          "text": "Mixed-age activities may enable older students to guide younger ones, turning patience into a visible norm.",
+          "translation": "混合年龄的活动可以让年长的学生指导年幼的学生，将耐心变成一种明显的规范。"
+        },
+        {
+          "text": "Such experiences are difficult to reproduce in a worksheet.",
+          "translation": "这样的经历很难在工作表中重现。"
+        },
+        {
+          "text": "They also provide evidence of abilities—negotiation, initiative and self-control—that conventional examinations record poorly.",
+          "translation": "它们还提供了传统考试记录不佳的能力证据——谈判、主动性和自我控制能力。"
+        }
+      ],
+      [
+        {
+          "text": "However, informal learning is not automatically positive.",
+          "translation": "然而，非正式学习并不一定是积极的。"
+        },
+        {
+          "text": "Status can be distributed according to wealth, athletic ability or confidence, leaving some pupils repeatedly excluded.",
+          "translation": "地位可以根据财富、运动能力或信心来分配，这使得一些学生一再被排除在外。"
+        },
+        {
+          "text": "Rules may also carry unintended messages.",
+          "translation": "规则也可能携带非预期的消息。"
+        },
+        {
+          "text": "If teachers demand punctuality but frequently arrive late, or invite discussion but punish respectful disagreement, students learn that authority is exempt from its own principles.",
+          "translation": "如果教师要求准时但经常迟到，或者邀请讨论但尊重不同意见，学生就会了解到权威不受其自身原则的约束。"
+        },
+        {
+          "text": "The lesson absorbed may be more powerful than the one stated in an assembly.",
+          "translation": "吸取的教训可能比集会中陈述的教训更有效。"
+        }
+      ],
+      [
+        {
+          "text": "Since the 1990s, many schools have used pupil councils and peer-support programmes to make social learning more deliberate.",
+          "translation": "自 20 世纪 90 年代以来，许多学校利用学生委员会和同伴支持计划来使社交学习更加深思熟虑。"
+        },
+        {
+          "text": "Their success depends less on having a committee than on whether students influence decisions of suitable scale.",
+          "translation": "他们的成功与其说取决于是否有一个委员会，不如说取决于学生是否影响适当规模的决策。"
+        },
+        {
+          "text": "Choosing a charity event is meaningful; pretending that pupils control staffing is not.",
+          "translation": "选择慈善活动是有意义的；假装学生控制人员配置并非如此。"
+        },
+        {
+          "text": "Adults remain responsible for safety, yet they can explain limits honestly and model the conduct they expect.",
+          "translation": "成年人仍然对安全负责，但他们可以诚实地解释限制并示范他们期望的行为。"
+        },
+        {
+          "text": "Seen in this light, school life is not simply the background to academic education.",
+          "translation": "从这个角度来看，学校生活不仅仅是学术教育的背景。"
+        },
+        {
+          "text": "It is one of the main places where young people test how a community works.",
+          "translation": "它是年轻人测试社区运作方式的主要场所之一。"
+        }
+      ],
+      [
+        {
+          "text": "Space contributes to this education too.",
+          "translation": "空间也有助于这种教育。"
+        },
+        {
+          "text": "A shared courtyard can invite cooperation across friendship groups, whereas narrow corridors organised only for movement provide few safe opportunities to pause.",
+          "translation": "共享的庭院可以邀请友谊团体之间的合作，而仅用于移动的狭窄走廊则几乎没有提供安全的停顿机会。"
+        },
+        {
+          "text": "School architecture does not determine behaviour, but it quietly shapes which encounters become easy, supervised or avoidable during an ordinary day.",
+          "translation": "学校建筑并不决定行为，但它悄悄地塑造了日常生活中哪些遭遇变得容易、受到监督或可以避免。"
+        }
+      ]
     ]
   }
 }

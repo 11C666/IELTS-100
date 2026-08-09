@@ -153,7 +153,8 @@
         "ecological urban design",
         "planning that integrates natural systems"
       ],
-      "note": "integrates强调自然不是附加装饰。"
+      "note": "integrates强调自然不是附加装饰。",
+      "translation": "绿色城市规划"
     },
     {
       "base": "more trees",
@@ -162,7 +163,8 @@
         "an expanded urban forest",
         "increased shade-producing vegetation"
       ],
-      "note": "canopy cover是可测指标。"
+      "note": "canopy cover是可测指标。",
+      "translation": "增加树木"
     },
     {
       "base": "absorb rainwater",
@@ -171,7 +173,8 @@
         "slow and capture runoff",
         "allow rainfall to infiltrate"
       ],
-      "note": "infiltrate指渗入土壤。"
+      "note": "infiltrate指渗入土壤。",
+      "translation": "吸收雨水"
     },
     {
       "base": "easy to walk",
@@ -180,7 +183,8 @@
         "walkable",
         "designed for convenient travel on foot"
       ],
-      "note": "walkable兼顾距离和环境。"
+      "note": "walkable兼顾距离和环境。",
+      "translation": "适合步行"
     },
     {
       "base": "small green space",
@@ -189,7 +193,8 @@
         "neighbourhood-scale open space",
         "a compact publicly accessible green area"
       ],
-      "note": "pocket park有明确规划含义。"
+      "note": "pocket park有明确规划含义。",
+      "translation": "小型绿地"
     },
     {
       "base": "cool the city",
@@ -198,7 +203,8 @@
         "moderate local temperatures",
         "mitigate the heat-island effect"
       ],
-      "note": "mitigate适合正式写作。"
+      "note": "mitigate适合正式写作。",
+      "translation": "为城市降温"
     },
     {
       "base": "fair access",
@@ -207,7 +213,8 @@
         "a more even distribution of benefits",
         "access that reflects different levels of need"
       ],
-      "note": "equitable不等于完全平均。"
+      "note": "equitable不等于完全平均。",
+      "translation": "公平使用"
     },
     {
       "base": "look after a park",
@@ -216,51 +223,60 @@
         "fund long-term landscape care",
         "manage vegetation and facilities over time"
       ],
-      "note": "maintenance是长期成本。"
+      "note": "maintenance是长期成本。",
+      "translation": "维护公园"
     }
   ],
   "sentences": [
     {
       "pattern": "A green space that is + geographically close + but separated by + a major road + may be less accessible than + a more distant park with a safe route.",
       "cn": "一处绿地即使距离很近，如果被障碍隔开，也可能不如更远的绿地易于到达。",
-      "example": "A green space that is nearby but separated by a six-lane road may be less accessible than a smaller park along a safe route."
+      "example": "A green space that is nearby but separated by a six-lane road may be less accessible than a smaller park along a safe route.",
+      "exampleTranslation": "一处绿地即使距离很近，如果被一条六车道公路隔开，其可达性也可能不如安全路线旁的小公园。"
     },
     {
       "pattern": "Not only does + an urban tree or wetland + reduce + heat or flooding, but it also + provides a social or health benefit.",
       "cn": "某绿色设施不仅缓解环境问题，还能带来社会效益。",
-      "example": "Not only does a rain garden reduce runoff, but it also creates a more pleasant walking route."
+      "example": "Not only does a rain garden reduce runoff, but it also creates a more pleasant walking route.",
+      "exampleTranslation": "雨水花园不仅能减少径流，还能营造更舒适的步行路线。"
     },
     {
       "pattern": "Planners deciding where to + plant trees or create green space + should consider + local need and accessibility, rather than merely + the total area provided.",
       "cn": "决定在哪里实施干预的规划者应考虑实际条件，而不能只看单一指标。",
-      "example": "Planners deciding where to plant trees should consider pedestrian exposure, rather than merely counting available plots."
+      "example": "Planners deciding where to plant trees should consider pedestrian exposure, rather than merely counting available plots.",
+      "exampleTranslation": "规划者决定在哪里种树时，应考虑行人的暴露情况，而不能只计算可用地块。"
     }
   ],
   "expressions": [
     {
       "text": "have a park on your doorstep",
       "cn": "家门口就有公园",
-      "example": "Families value having a park on their doorstep."
+      "example": "Families value having a park on their doorstep.",
+      "exampleTranslation": "家庭很看重家门口就有公园。"
     },
     {
       "text": "take the cooler route",
       "cn": "走更凉快的路线",
-      "example": "In summer, I take the cooler route under mature trees."
+      "example": "In summer, I take the cooler route under mature trees.",
+      "exampleTranslation": "夏天，我会走成熟树木下更凉爽的路线。"
     },
     {
       "text": "turn grey space green",
       "cn": "把灰色空间变绿",
-      "example": "The project turned an unused car park from grey space green."
+      "example": "The project turned an unused car park from grey space green.",
+      "exampleTranslation": "该项目把闲置停车场从灰色空间变成了绿色空间。"
     },
     {
       "text": "integrate nature into urban design",
       "cn": "把自然融入城市设计",
-      "example": "New districts should integrate nature into urban design."
+      "example": "New districts should integrate nature into urban design.",
+      "exampleTranslation": "新区应把自然融入城市设计。"
     },
     {
       "text": "deliver social and environmental benefits",
       "cn": "带来社会和环境双重效益",
-      "example": "A shaded square can deliver social and environmental benefits."
+      "example": "A shaded square can deliver social and environmental benefits.",
+      "exampleTranslation": "有遮阴的广场可以同时带来社会和环境效益。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "provide usable shade",
         "deliver multiple benefits"
       ],
-      "argument": "A drainage pipe performs one main function, whereas a well-placed rain garden can slow runoff, cool a street and improve the pedestrian environment. These additional benefits justify treating green infrastructure as part of core urban systems rather than optional decoration. However, performance depends on soil, species choice and long-term maintenance, so visual appeal alone is insufficient. Cities should specify measurable functions and fund care from the beginning. When technical and social goals are coordinated, one intervention can solve several local problems."
+      "argument": "A drainage pipe performs one main function, whereas a well-placed rain garden can slow runoff, cool a street and improve the pedestrian environment. These additional benefits justify treating green infrastructure as part of core urban systems rather than optional decoration. However, performance depends on soil, species choice and long-term maintenance, so visual appeal alone is insufficient. Cities should specify measurable functions and fund care from the beginning. When technical and social goals are coordinated, one intervention can solve several local problems.",
+      "viewpointTranslation": "绿色基础设施应作为必要基础设施来规划。",
+      "topicSentenceTranslation": "城市自然可以在改善日常公共空间的同时管理高温和雨水。",
+      "collocationTranslations": [
+        "管理雨水径流",
+        "扩大树冠覆盖率",
+        "提供可用遮阴",
+        "带来多重效益"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A drainage pipe performs one main function, whereas a well-placed rain garden can slow runoff, cool a street and improve the pedestrian environment.",
+          "translation": "排水管只发挥一种主要功能，而位置得当的雨水花园既能减缓径流、降低街道温度，也能改善步行环境。"
+        },
+        {
+          "text": "These additional benefits justify treating green infrastructure as part of core urban systems rather than optional decoration.",
+          "translation": "这些额外效益说明，绿色基础设施应被视为城市核心系统的一部分，而不是可有可无的装饰。"
+        },
+        {
+          "text": "However, performance depends on soil, species choice and long-term maintenance, so visual appeal alone is insufficient.",
+          "translation": "然而，其效果取决于土壤、物种选择和长期维护，因此仅有视觉吸引力并不够。"
+        },
+        {
+          "text": "Cities should specify measurable functions and fund care from the beginning.",
+          "translation": "城市应明确可衡量的功能，并从一开始就为养护提供资金。"
+        },
+        {
+          "text": "When technical and social goals are coordinated, one intervention can solve several local problems.",
+          "translation": "技术目标与社会目标得到协调时，一项干预可以解决多个当地问题。"
+        }
+      ],
+      "translation": "排水管只发挥一种主要功能，而位置得当的雨水花园既能减缓径流、降低街道温度，也能改善步行环境。这些额外效益说明，绿色基础设施应被视为城市核心系统的一部分，而不是可有可无的装饰。然而，其效果取决于土壤、物种选择和长期维护，因此仅有视觉吸引力并不够。城市应明确可衡量的功能，并从一开始就为养护提供资金。技术目标与社会目标得到协调时，一项干预可以解决多个当地问题。"
     },
     {
       "viewpoint": "Green investment should be directed by need, not available space alone.",
@@ -301,19 +348,102 @@
         "remove access barriers",
         "distribute benefits equitably"
       ],
-      "argument": "Affluent districts often have wide pavements and mature parks, making additional planting straightforward. Dense lower-income areas may need trees more urgently but require road redesign, utility relocation or land purchase. If planners count only the number planted, they may choose easy sites and miss residents facing the greatest heat risk. Combining temperature data with age, housing and pedestrian routes can identify priority locations. Higher costs in these areas may be justified because equitable planning responds to need rather than distributing identical inputs."
+      "argument": "Affluent districts often have wide pavements and mature parks, making additional planting straightforward. Dense lower-income areas may need trees more urgently but require road redesign, utility relocation or land purchase. If planners count only the number planted, they may choose easy sites and miss residents facing the greatest heat risk. Combining temperature data with age, housing and pedestrian routes can identify priority locations. Higher costs in these areas may be justified because equitable planning responds to need rather than distributing identical inputs.",
+      "viewpointTranslation": "绿色投资应依据需求安排，而不只是看哪里有空地。",
+      "topicSentenceTranslation": "只选择最容易实施的地点植树，可能加剧高温暴露和公园使用方面已有的不平等。",
+      "collocationTranslations": [
+        "绘制高温脆弱性地图",
+        "优先考虑服务不足地区",
+        "消除使用障碍",
+        "公平分配效益"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Affluent districts often have wide pavements and mature parks, making additional planting straightforward.",
+          "translation": "富裕地区往往拥有宽阔人行道和成熟公园，因此增种树木较为容易。"
+        },
+        {
+          "text": "Dense lower-income areas may need trees more urgently but require road redesign, utility relocation or land purchase.",
+          "translation": "人口密集的低收入地区可能更迫切需要树木，却需要改造道路、迁移管线或购买土地。"
+        },
+        {
+          "text": "If planners count only the number planted, they may choose easy sites and miss residents facing the greatest heat risk.",
+          "translation": "如果规划者只统计植树数量，就可能选择容易的地点，而忽略面临最大高温风险的居民。"
+        },
+        {
+          "text": "Combining temperature data with age, housing and pedestrian routes can identify priority locations.",
+          "translation": "把温度数据与年龄、住房和步行路线结合，可以确定优先地点。"
+        },
+        {
+          "text": "Higher costs in these areas may be justified because equitable planning responds to need rather than distributing identical inputs.",
+          "translation": "这些地区较高的成本可能合理，因为公平规划是回应需求，而不是分配完全相同的投入。"
+        }
+      ],
+      "translation": "富裕地区往往拥有宽阔人行道和成熟公园，因此增种树木较为容易。人口密集的低收入地区可能更迫切需要树木，却需要改造道路、迁移管线或购买土地。如果规划者只统计植树数量，就可能选择容易的地点，而忽略面临最大高温风险的居民。把温度数据与年龄、住房和步行路线结合，可以确定优先地点。这些地区较高的成本可能合理，因为公平规划是回应需求，而不是分配完全相同的投入。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a green public space that is useful to local people.",
-      "answer": "There is a small park beside a busy shopping street that local people use in several ways. It has mature trees, benches, a drinking fountain and a simple play area, so office workers, parents and older residents all spend time there. I often stop for lunch because the shade makes it noticeably cooler than the surrounding pavement. The park is not large enough for sport, but it connects two pedestrian routes and provides a quiet pause between shops and traffic. What makes it successful is not spectacular landscaping; it is the combination of location, shade and basic facilities. It shows that a modest green space can be valuable when it responds to everyday routines."
+      "answer": "There is a small park beside a busy shopping street that local people use in several ways. It has mature trees, benches, a drinking fountain and a simple play area, so office workers, parents and older residents all spend time there. I often stop for lunch because the shade makes it noticeably cooler than the surrounding pavement. The park is not large enough for sport, but it connects two pedestrian routes and provides a quiet pause between shops and traffic. What makes it successful is not spectacular landscaping; it is the combination of location, shade and basic facilities. It shows that a modest green space can be valuable when it responds to everyday routines.",
+      "questionTranslation": "描述一个对当地居民很有用的绿色公共空间。",
+      "answerSentences": [
+        {
+          "text": "There is a small park beside a busy shopping street that local people use in several ways.",
+          "translation": "一条繁忙商业街旁有一座小公园，当地居民会以多种方式使用它。"
+        },
+        {
+          "text": "It has mature trees, benches, a drinking fountain and a simple play area, so office workers, parents and older residents all spend time there.",
+          "translation": "那里有成熟树木、长椅、饮水设施和简单游乐区，因此上班族、家长和老年居民都会停留。"
+        },
+        {
+          "text": "I often stop for lunch because the shade makes it noticeably cooler than the surrounding pavement.",
+          "translation": "我常在那里吃午饭，因为树荫使这里明显比周围路面更凉爽。"
+        },
+        {
+          "text": "The park is not large enough for sport, but it connects two pedestrian routes and provides a quiet pause between shops and traffic.",
+          "translation": "公园不够大，无法开展体育活动，但它连接两条步行路线，并在商店与车流之间提供一处安静空间。"
+        },
+        {
+          "text": "What makes it successful is not spectacular landscaping; it is the combination of location, shade and basic facilities.",
+          "translation": "让它成功的不是壮观景观，而是位置、遮阴和基本设施的结合。"
+        },
+        {
+          "text": "It shows that a modest green space can be valuable when it responds to everyday routines.",
+          "translation": "它说明，小型绿地只要回应日常生活规律，也能很有价值。"
+        }
+      ],
+      "translation": "一条繁忙商业街旁有一座小公园，当地居民会以多种方式使用它。那里有成熟树木、长椅、饮水设施和简单游乐区，因此上班族、家长和老年居民都会停留。我常在那里吃午饭，因为树荫使这里明显比周围路面更凉爽。公园不够大，无法开展体育活动，但它连接两条步行路线，并在商店与车流之间提供一处安静空间。让它成功的不是壮观景观，而是位置、遮阴和基本设施的结合。它说明，小型绿地只要回应日常生活规律，也能很有价值。"
     },
     {
       "part": "Part 3",
       "question": "What makes an urban green project successful in the long term?",
-      "answer": "The design has to suit the site, but maintenance and public use are equally important. A tree species may look attractive yet fail if there is too little soil or no budget for watering during its first years. Residents also need safe routes into the space and reasons to use it at different times. Clear responsibility for pruning, drainage and repairs should be agreed before construction. Finally, success should be measured through shade, biodiversity, water management and access, not just by counting how many plants were installed on opening day."
+      "answer": "The design has to suit the site, but maintenance and public use are equally important. A tree species may look attractive yet fail if there is too little soil or no budget for watering during its first years. Residents also need safe routes into the space and reasons to use it at different times. Clear responsibility for pruning, drainage and repairs should be agreed before construction. Finally, success should be measured through shade, biodiversity, water management and access, not just by counting how many plants were installed on opening day.",
+      "questionTranslation": "什么能让城市绿色项目长期取得成功？",
+      "answerSentences": [
+        {
+          "text": "The design has to suit the site, but maintenance and public use are equally important.",
+          "translation": "设计必须适合场地，但维护和公众使用同样重要。"
+        },
+        {
+          "text": "A tree species may look attractive yet fail if there is too little soil or no budget for watering during its first years.",
+          "translation": "一种树看起来可能很漂亮，却会因土壤太少或最初几年没有浇水预算而无法存活。"
+        },
+        {
+          "text": "Residents also need safe routes into the space and reasons to use it at different times.",
+          "translation": "居民还需要安全的进入路线，以及在不同时段使用空间的理由。"
+        },
+        {
+          "text": "Clear responsibility for pruning, drainage and repairs should be agreed before construction.",
+          "translation": "施工前应明确修剪、排水和维修责任。"
+        },
+        {
+          "text": "Finally, success should be measured through shade, biodiversity, water management and access, not just by counting how many plants were installed on opening day.",
+          "translation": "最后，成功应根据遮阴、生物多样性、水管理和可达性衡量，而不只是计算开放当天种了多少植物。"
+        }
+      ],
+      "translation": "设计必须适合场地，但维护和公众使用同样重要。一种树看起来可能很漂亮，却会因土壤太少或最初几年没有浇水预算而无法存活。居民还需要安全的进入路线，以及在不同时段使用空间的理由。施工前应明确修剪、排水和维修责任。最后，成功应根据遮阴、生物多样性、水管理和可达性衡量，而不只是计算开放当天种了多少植物。"
     }
   ],
   "reading": {
@@ -350,6 +480,98 @@
         "answer": "district",
         "explanation": "Paragraph 4 states this directly."
       }
+    ],
+    "titleTranslation": "城市树荫的不平等分布",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A city announced that it would plant one hundred thousand trees, presenting the total as both a climate target and a public-health investment.",
+          "translation": "一座城市宣布将种植十万棵树，把这一总数同时作为气候目标和公共卫生投资。"
+        },
+        {
+          "text": "The number was ambitious, but a preliminary map exposed a difficulty: districts with the fewest trees also offered the narrowest pavements, the greatest concentration of underground utilities and the smallest municipal planting budgets.",
+          "translation": "这个数字很有雄心，但初步地图暴露出一个难题：树木最少的地区也拥有最窄的人行道、最密集的地下管线和最少的市政植树预算。"
+        },
+        {
+          "text": "Equal numbers for every district would not produce equal shade.",
+          "translation": "给每个地区相同数量的树并不会带来同等树荫。"
+        }
+      ],
+      [
+        {
+          "text": "Tree canopy is usually measured from above, yet residents experience it along particular routes and at particular times.",
+          "translation": "树冠通常从空中测量，但居民会在特定路线和时段体验它。"
+        },
+        {
+          "text": "A large private garden can raise a neighbourhood’s canopy percentage without shading a bus stop, while one street tree may protect hundreds of pedestrians during an afternoon heatwave.",
+          "translation": "大型私人花园可以提高社区树冠比例，却无法为公交站遮阴；而一棵行道树可能在午后热浪中保护数百名行人。"
+        },
+        {
+          "text": "Planners therefore combined aerial imagery with surface temperatures, walking routes and the locations of schools, clinics and older residents.",
+          "translation": "因此，规划者把航拍图像与地表温度、步行路线以及学校、诊所和老年居民的位置结合起来。"
+        }
+      ],
+      [
+        {
+          "text": "The revised programme assigned priority to places where heat exposure and pedestrian use overlapped.",
+          "translation": "修订后的计划优先考虑高温暴露与行人使用重叠的地点。"
+        },
+        {
+          "text": "In some streets, planting required removing parking spaces and constructing larger soil pits, decisions that were more expensive and politically difficult than adding trees to an existing park.",
+          "translation": "在一些街道，植树需要取消停车位并建造更大的树池，这比在现有公园中加树更昂贵，政治上也更困难。"
+        },
+        {
+          "text": "Elsewhere, awnings provided immediate shade while slower-growing trees became established.",
+          "translation": "其他地方先用遮阳棚提供即时树荫，同时等待生长较慢的树木成形。"
+        },
+        {
+          "text": "This mixed approach acknowledged that a planting target, although easy to communicate, was not itself a complete heat strategy.",
+          "translation": "这种混合方法承认，植树目标虽然便于传达，本身却不是完整的高温应对策略。"
+        }
+      ],
+      [
+        {
+          "text": "Maintenance introduced another inequality.",
+          "translation": "维护又带来另一种不平等。"
+        },
+        {
+          "text": "Young trees in hotter, paved districts needed more water and were more vulnerable to damage.",
+          "translation": "炎热铺装地区的幼树需要更多水，也更容易受损。"
+        },
+        {
+          "text": "Funding based only on the number of trees would leave precisely those sites with insufficient care.",
+          "translation": "只按树木数量分配资金，会让恰恰这些地点得不到充分照料。"
+        },
+        {
+          "text": "The city consequently allocated early maintenance according to local growing conditions and published survival rates by district, not merely a citywide total.",
+          "translation": "因此，该市根据当地生长条件分配早期维护资源，并公布各地区的成活率，而不只是全市总数。"
+        }
+      ],
+      [
+        {
+          "text": "Five years is too soon to judge the mature canopy, but it is long enough to learn what survives and whom the programme serves.",
+          "translation": "五年还不足以判断成熟树冠，却足以了解什么能存活以及计划服务了谁。"
+        },
+        {
+          "text": "The initiative still counts trees; counting enables accountability.",
+          "translation": "该计划仍然统计树木；统计有助于问责。"
+        },
+        {
+          "text": "Its more meaningful question, however, is whether shade appears where people who are most exposed can actually use it.",
+          "translation": "然而，更有意义的问题是，树荫是否出现在暴露程度最高的人真正能使用的地方。"
+        },
+        {
+          "text": "In green urban planning, location, route and time can matter as much as the total visible from the sky.",
+          "translation": "在绿色城市规划中，地点、路线和时间可能与从空中看到的总量同样重要。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "一座城市宣布将种植十万棵树，把这一总数同时作为气候目标和公共卫生投资。这个数字很有雄心，但初步地图暴露出一个难题：树木最少的地区也拥有最窄的人行道、最密集的地下管线和最少的市政植树预算。给每个地区相同数量的树并不会带来同等树荫。",
+      "树冠通常从空中测量，但居民会在特定路线和时段体验它。大型私人花园可以提高社区树冠比例，却无法为公交站遮阴；而一棵行道树可能在午后热浪中保护数百名行人。因此，规划者把航拍图像与地表温度、步行路线以及学校、诊所和老年居民的位置结合起来。",
+      "修订后的计划优先考虑高温暴露与行人使用重叠的地点。在一些街道，植树需要取消停车位并建造更大的树池，这比在现有公园中加树更昂贵，政治上也更困难。其他地方先用遮阳棚提供即时树荫，同时等待生长较慢的树木成形。这种混合方法承认，植树目标虽然便于传达，本身却不是完整的高温应对策略。",
+      "维护又带来另一种不平等。炎热铺装地区的幼树需要更多水，也更容易受损。只按树木数量分配资金，会让恰恰这些地点得不到充分照料。因此，该市根据当地生长条件分配早期维护资源，并公布各地区的成活率，而不只是全市总数。",
+      "五年还不足以判断成熟树冠，却足以了解什么能存活以及计划服务了谁。该计划仍然统计树木；统计有助于问责。然而，更有意义的问题是，树荫是否出现在暴露程度最高的人真正能使用的地方。在绿色城市规划中，地点、路线和时间可能与从空中看到的总量同样重要。"
     ]
   }
 }

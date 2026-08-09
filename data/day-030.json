@@ -153,7 +153,8 @@
         "emerging workplace competencies",
         "long-term employability skills"
       ],
-      "note": "competency 强调可展示的能力。"
+      "note": "competency 强调可展示的能力。",
+      "translation": "未来技能可以表示为未来工作的能力、新兴的工作场所能力、长期就业技能。"
     },
     {
       "base": "learn new systems",
@@ -162,7 +163,8 @@
         "update technical competence",
         "acquire new procedures"
       ],
-      "note": "adapt 强调面对变化。"
+      "note": "adapt 强调面对变化。",
+      "translation": "学习新系统可以表现为适应不熟悉的工具、更新技术能力、掌握新程序。"
     },
     {
       "base": "skills useful in many jobs",
@@ -171,7 +173,8 @@
         "cross-occupational capabilities",
         "portable competencies"
       ],
-      "note": "transferable 是 IELTS 写作常用词。"
+      "note": "transferable 是 IELTS 写作常用词。",
+      "translation": "在许多工作中有用的技能可以表示为可转移技能、跨职业能力、可移植能力。"
     },
     {
       "base": "solve new problems",
@@ -180,7 +183,8 @@
         "address novel challenges",
         "respond to non-routine situations"
       ],
-      "note": "non-routine 与自动化讨论常搭配。"
+      "note": "non-routine 与自动化讨论常搭配。",
+      "translation": "解决新问题可以表现为处理不熟悉的案例、解决新的挑战、应对非常规情况。"
     },
     {
       "base": "understand basic ideas",
@@ -189,7 +193,8 @@
         "grasp underlying principles",
         "build a mental model"
       ],
-      "note": "underlying principle 比界面操作更持久。"
+      "note": "underlying principle 比界面操作更持久。",
+      "translation": "理解基本思想可以表达为发展概念性理解、掌握基本原理、建立心智模型。"
     },
     {
       "base": "learn while working",
@@ -198,7 +203,8 @@
         "undertake workplace training",
         "develop through practice"
       ],
-      "note": "on the job 偏口语。"
+      "note": "on the job 偏口语。",
+      "translation": "在工作中学习可以表述为在工作中学习、接受职场培训、在实践中发展。"
     },
     {
       "base": "explain a decision",
@@ -207,7 +213,8 @@
         "articulate one’s reasoning",
         "give a reasoned account"
       ],
-      "note": "justify 需要提供依据。"
+      "note": "justify 需要提供依据。",
+      "translation": "解释决定可以表达为证明判断的合理性、阐明自己的推理、给出合理的解释。"
     },
     {
       "base": "keep skills current",
@@ -216,51 +223,60 @@
         "update professional knowledge",
         "avoid skill obsolescence"
       ],
-      "note": "obsolescence 指技能过时。"
+      "note": "obsolescence 指技能过时。",
+      "translation": "保持技能最新可以表现为保持就业能力、更新专业知识、避免技能过时。"
     }
   ],
   "sentences": [
     {
       "pattern": "The skill most likely to remain valuable is not + narrow skill, but the ability to + adaptable action.",
       "cn": "最可能长期有价值的技能不是某项狭窄技能，而是……的能力。",
-      "example": "The skill most likely to remain valuable is not one software command, but the ability to learn unfamiliar systems."
+      "example": "The skill most likely to remain valuable is not one software command, but the ability to learn unfamiliar systems.",
+      "exampleTranslation": "最有可能保持价值的技能不是一种软件命令，而是学习不熟悉的系统的能力。"
     },
     {
       "pattern": "As routine tasks become + automated, greater value is placed on + human capability.",
       "cn": "随着常规任务变得自动化，人类某项能力会更受重视。",
-      "example": "As routine tasks become automated, greater value is placed on interpreting unusual cases."
+      "example": "As routine tasks become automated, greater value is placed on interpreting unusual cases.",
+      "exampleTranslation": "随着日常任务变得自动化，解释异常情况变得更加有价值。"
     },
     {
       "pattern": "It is through + practice + that learners develop + transferable skill.",
       "cn": "学习者正是通过某种实践培养可迁移技能。",
-      "example": "It is through explaining decisions that learners develop reflective judgement."
+      "example": "It is through explaining decisions that learners develop reflective judgement.",
+      "exampleTranslation": "学习者通过解释决定来发展反思性判断。"
     }
   ],
   "expressions": [
     {
       "text": "adapt to a changing workplace",
       "cn": "适应变化中的职场",
-      "example": "Graduates need to adapt to a changing workplace."
+      "example": "Graduates need to adapt to a changing workplace.",
+      "exampleTranslation": "毕业生需要适应不断变化的工作场所。"
     },
     {
       "text": "learn on the job",
       "cn": "在工作中学习",
-      "example": "Much of the software was learned on the job."
+      "example": "Much of the software was learned on the job.",
+      "exampleTranslation": "许多软件技能都是在实际工作中学会的。"
     },
     {
       "text": "transfer skills between roles",
       "cn": "在岗位间迁移技能",
-      "example": "Clear writing helps people transfer skills between roles."
+      "example": "Clear writing helps people transfer skills between roles.",
+      "exampleTranslation": "清晰的写作能力有助于人们把技能迁移到不同岗位。"
     },
     {
       "text": "deal with unfamiliar problems",
       "cn": "处理陌生问题",
-      "example": "Projects teach students to deal with unfamiliar problems."
+      "example": "Projects teach students to deal with unfamiliar problems.",
+      "exampleTranslation": "项目教学生处理不熟悉的问题。"
     },
     {
       "text": "make a sound judgement",
       "cn": "作出可靠判断",
-      "example": "Employees must make a sound judgement when rules conflict."
+      "example": "Employees must make a sound judgement when rules conflict.",
+      "exampleTranslation": "当规则发生冲突时，员工必须做出明智的判断。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "solve an unfamiliar problem",
         "communicate complex ideas"
       ],
-      "argument": "Generic advice to “think critically” gives learners little material on which to exercise judgement. In science, history or vocational study, they can compare evidence, identify constraints and explain a conclusion. The subject supplies standards for deciding whether an answer is strong. Reflection can then make the underlying process visible and transferable. Future-oriented education should integrate broad skills with knowledge rather than treating the two as competitors."
+      "argument": "Generic advice to “think critically” gives learners little material on which to exercise judgement. In science, history or vocational study, they can compare evidence, identify constraints and explain a conclusion. The subject supplies standards for deciding whether an answer is strong. Reflection can then make the underlying process visible and transferable. Future-oriented education should integrate broad skills with knowledge rather than treating the two as competitors.",
+      "viewpointTranslation": "应通过学科知识教授可转移技能。",
+      "topicSentenceTranslation": "当学习者将其应用到实质性内容时，问题解决和沟通才能最有效地发展。",
+      "collocationTranslations": [
+        "应用学科知识",
+        "证明决定的合理性",
+        "解决一个不熟悉的问题",
+        "传达复杂的想法"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Generic advice to “think critically” gives learners little material on which to exercise judgement.",
+          "translation": "“批判性思考”的一般建议给学习者提供了很少的材料来进行判断。"
+        },
+        {
+          "text": "In science, history or vocational study, they can compare evidence, identify constraints and explain a conclusion.",
+          "translation": "在科学、历史或职业研究中，他们可以比较证据、找出限制因素并解释结论。"
+        },
+        {
+          "text": "The subject supplies standards for deciding whether an answer is strong.",
+          "translation": "该主题提供了决定答案是否强有力的标准。"
+        },
+        {
+          "text": "Reflection can then make the underlying process visible and transferable.",
+          "translation": "然后，反射可以使底层流程可见且可转移。"
+        },
+        {
+          "text": "Future-oriented education should integrate broad skills with knowledge rather than treating the two as competitors.",
+          "translation": "面向未来的教育应该将广泛的技能与知识结合起来，而不是将两者视为竞争对手。"
+        }
+      ]
     },
     {
       "viewpoint": "Adaptability should not mean accepting permanent insecurity.",
@@ -301,19 +347,107 @@
         "respond to technological change",
         "share adjustment costs"
       ],
-      "argument": "Workers are often told to remain adaptable as technology changes, yet serious retraining requires time, guidance and opportunities to practise. Expecting employees to finance every transition privately shifts all risk onto individuals. Employers benefit from role-specific knowledge and should provide protected learning time when systems change. Public support may be justified where an entire industry is affected. Adaptability is most realistic when adjustment costs are shared rather than hidden."
+      "argument": "Workers are often told to remain adaptable as technology changes, yet serious retraining requires time, guidance and opportunities to practise. Expecting employees to finance every transition privately shifts all risk onto individuals. Employers benefit from role-specific knowledge and should provide protected learning time when systems change. Public support may be justified where an entire industry is affected. Adaptability is most realistic when adjustment costs are shared rather than hidden.",
+      "viewpointTranslation": "适应能力不应该意味着接受永久的不安全感。",
+      "topicSentenceTranslation": "雇主有责任为工人更新技能创造条件。",
+      "collocationTranslations": [
+        "提供结构化培训",
+        "分配学习时间",
+        "应对技术变革",
+        "份额调整成本"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Workers are often told to remain adaptable as technology changes, yet serious retraining requires time, guidance and opportunities to practise.",
+          "translation": "工人们经常被告知要随着技术的变化保持适应能力，但认真的再培训需要时间、指导和实践机会。"
+        },
+        {
+          "text": "Expecting employees to finance every transition privately shifts all risk onto individuals.",
+          "translation": "期望员工私下为每次转型提供资金，会将所有风险转移到个人身上。"
+        },
+        {
+          "text": "Employers benefit from role-specific knowledge and should provide protected learning time when systems change.",
+          "translation": "雇主受益于特定角色的知识，并且应该在系统发生变化时提供受保护的学习时间。"
+        },
+        {
+          "text": "Public support may be justified where an entire industry is affected.",
+          "translation": "当整个行业受到影响时，公众支持可能是合理的。"
+        },
+        {
+          "text": "Adaptability is most realistic when adjustment costs are shared rather than hidden.",
+          "translation": "当调整成本是共享而不是隐藏时，适应性是最现实的。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Which skill do you think will be useful in your future?",
-      "answer": "I think clear writing will remain useful whatever job I do. It forces me to organise an idea, and it also leaves a record that colleagues can check later. Even when software produces a first draft, someone still has to notice missing context or a weak conclusion. I would like to become faster without losing precision."
+      "answer": "I think clear writing will remain useful whatever job I do. It forces me to organise an idea, and it also leaves a record that colleagues can check later. Even when software produces a first draft, someone still has to notice missing context or a weak conclusion. I would like to become faster without losing precision.",
+      "questionTranslation": "您认为哪种技能对您的未来有用？",
+      "answerSentences": [
+        {
+          "text": "I think clear writing will remain useful whatever job I do.",
+          "translation": "我认为无论我做什么工作，清晰的写作仍然有用。"
+        },
+        {
+          "text": "It forces me to organise an idea, and it also leaves a record that colleagues can check later.",
+          "translation": "它迫使我整理一个想法，同时也留下记录供同事稍后查看。"
+        },
+        {
+          "text": "Even when software produces a first draft, someone still has to notice missing context or a weak conclusion.",
+          "translation": "即使软件生成了初稿，仍然需要有人注意到上下文缺失或结论薄弱。"
+        },
+        {
+          "text": "I would like to become faster without losing precision.",
+          "translation": "我希望自己能在不牺牲准确性的前提下写得更快。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a skill that took you a long time to develop.",
-      "answer": "The skill was speaking confidently in front of a group. At first I memorised every sentence, which made me panic if I forgot a word. I improved by using brief notes, rehearsing the transitions and volunteering for small updates rather than avoiding them. Progress was gradual, but I can now focus on whether people understand instead of on how nervous I look. The skill has become useful in meetings as well as formal presentations. Recording myself was uncomfortable at first, but it revealed that I rushed the opening and slowed down on minor details. A supportive colleague later asked questions after each practice, forcing me to leave room for interaction. I am not naturally theatrical, and I no longer try to be. My aim is to make the structure easy to follow and respond calmly when the audience needs clarification."
+      "answer": "The skill was speaking confidently in front of a group. At first I memorised every sentence, which made me panic if I forgot a word. I improved by using brief notes, rehearsing the transitions and volunteering for small updates rather than avoiding them. Progress was gradual, but I can now focus on whether people understand instead of on how nervous I look. The skill has become useful in meetings as well as formal presentations. Recording myself was uncomfortable at first, but it revealed that I rushed the opening and slowed down on minor details. A supportive colleague later asked questions after each practice, forcing me to leave room for interaction. I am not naturally theatrical, and I no longer try to be. My aim is to make the structure easy to follow and respond calmly when the audience needs clarification.",
+      "questionTranslation": "描述一项你花了很长时间才培养出来的技能。",
+      "answerSentences": [
+        {
+          "text": "The skill was speaking confidently in front of a group.",
+          "translation": "这项技能是在一群人面前自信地讲话。"
+        },
+        {
+          "text": "At first I memorised every sentence, which made me panic if I forgot a word.",
+          "translation": "起初我每句话都背下来，一旦忘记一个词我就会惊慌失措。"
+        },
+        {
+          "text": "I improved by using brief notes, rehearsing the transitions and volunteering for small updates rather than avoiding them.",
+          "translation": "我通过使用简短的笔记、排练过渡以及自愿进行小更新而不是避免它们来改进。"
+        },
+        {
+          "text": "Progress was gradual, but I can now focus on whether people understand instead of on how nervous I look.",
+          "translation": "进展是渐进的，但我现在可以专注于人们是否理解，而不是我看起来有多紧张。"
+        },
+        {
+          "text": "The skill has become useful in meetings as well as formal presentations.",
+          "translation": "这项技能在会议和正式演示中变得很有用。"
+        },
+        {
+          "text": "Recording myself was uncomfortable at first, but it revealed that I rushed the opening and slowed down on minor details.",
+          "translation": "一开始给自己录音很不舒服，但后来发现我在开场时很仓促，在一些小细节上放慢了速度。"
+        },
+        {
+          "text": "A supportive colleague later asked questions after each practice, forcing me to leave room for interaction.",
+          "translation": "每次练习后，一位支持我的同事都会问问题，迫使我留出互动的空间。"
+        },
+        {
+          "text": "I am not naturally theatrical, and I no longer try to be.",
+          "translation": "我并不是天生富有舞台表现力的人，现在也不再勉强自己表现成那样。"
+        },
+        {
+          "text": "My aim is to make the structure easy to follow and respond calmly when the audience needs clarification.",
+          "translation": "我的目标是让结构易于理解，并在观众需要澄清时冷静地做出回应。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +484,103 @@
         "answer": "principle",
         "explanation": "The final sentence provides this contrast."
       }
+    ],
+    "titleTranslation": "技术技能的半衰期",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Claims that skills are becoming obsolete faster are common, but obsolescence has several meanings.",
+          "translation": "技能过时速度加快的说法很常见，但过时有多种含义。"
+        },
+        {
+          "text": "A programming language may decline while the logic learned through using it remains relevant.",
+          "translation": "一种编程语言可能会衰落，但通过使用它学到的逻辑仍然具有相关性。"
+        },
+        {
+          "text": "A machine operator may stop pressing particular controls yet retain an understanding of materials, faults and safe sequences.",
+          "translation": "机器操作员可以停止按下特定的控制装置，但仍保留对材料、故障和安全顺序的理解。"
+        },
+        {
+          "text": "The visible procedure changes more quickly than the deeper model that allowed a worker to judge what was happening.",
+          "translation": "可见的程序比允许工人判断正在发生的事情的更深层次的模型变化得更快。"
+        }
+      ],
+      [
+        {
+          "text": "This distinction affects training decisions.",
+          "translation": "这种区别会影响培训决策。"
+        },
+        {
+          "text": "Short courses can teach the current interface efficiently, especially when workers already understand the underlying task.",
+          "translation": "短期课程可以有效地教授当前界面，特别是当工作人员已经了解底层任务时。"
+        },
+        {
+          "text": "Beginners need more: concepts, varied practice and feedback that helps them recognise why one case differs from another.",
+          "translation": "初学者需要更多：概念、各种实践和反馈，帮助他们认识为什么一种情况与另一种情况不同。"
+        },
+        {
+          "text": "Training based only on step-by-step instructions produces speed under familiar conditions but leaves the learner dependent when a screen or rule changes.",
+          "translation": "仅基于分步说明的培训可以在熟悉的条件下提高速度，但当屏幕或规则发生变化时，会使学习者产生依赖性。"
+        }
+      ],
+      [
+        {
+          "text": "Employers sometimes respond to uncertainty by listing an expanding collection of desirable attributes: creativity, resilience, communication, data literacy and adaptability.",
+          "translation": "雇主有时会通过列出一系列不断扩大的理想属性来应对不确定性：创造力、弹性、沟通、数据素养和适应性。"
+        },
+        {
+          "text": "Such lists can become meaningless unless each quality is connected to actual work.",
+          "translation": "除非每个品质都与实际工作联系起来，否则这样的列表可能变得毫无意义。"
+        },
+        {
+          "text": "Communication in nursing is not identical to communication in engineering, and “problem-solving” requires knowledge of which outcomes are safe or lawful.",
+          "translation": "护理中的沟通与工程中的沟通不同，“解决问题”需要了解哪些结果是安全或合法的。"
+        },
+        {
+          "text": "Broad capability exists, but it is demonstrated through a context.",
+          "translation": "广泛的能力是存在的，但它是通过上下文来展示的。"
+        }
+      ],
+      [
+        {
+          "text": "A durable learning strategy therefore has layers.",
+          "translation": "因此，持久的学习策略是有层次的。"
+        },
+        {
+          "text": "Workers need immediate procedures to perform today’s tasks, conceptual understanding to diagnose variation and habits that support later learning.",
+          "translation": "员工需要立即执行当前的任务、理解概念以诊断变化以及支持以后学习的习惯。"
+        },
+        {
+          "text": "Documentation, peer explanation and opportunities to investigate errors strengthen all three.",
+          "translation": "文档、同行解释和调查错误的机会增强了这三者的力量。"
+        },
+        {
+          "text": "No curriculum can predict every tool a person will encounter over a forty-year career.",
+          "translation": "没有任何课程可以预测一个人在四十年的职业生涯中会遇到的每一种工具。"
+        },
+        {
+          "text": "It can, however, help learners distinguish a temporary interface from a lasting principle—and give them experience of rebuilding competence when the temporary part changes.",
+          "translation": "然而，它可以帮助学习者区分临时界面和持久原则，并让他们在临时部分发生变化时获得重建能力的经验。"
+        }
+      ],
+      [
+        {
+          "text": "Assessment must reflect these layers too.",
+          "translation": "评估也必须反映这些层面。"
+        },
+        {
+          "text": "A quiz can confirm that a worker remembers a procedure, but observation across varied cases shows whether the principle can be applied.",
+          "translation": "测验可以确认工人是否记住了某个程序，但对不同案例的观察可以表明该原则是否可以应用。"
+        },
+        {
+          "text": "Asking learners to explain an error reveals whether they can update their model.",
+          "translation": "要求学习者解释错误可以揭示他们是否可以更新他们的模型。"
+        },
+        {
+          "text": "Organisations that measure only course completion may therefore report successful training while dependence on the old interface remains unchanged.",
+          "translation": "因此，仅衡量课程完成情况的组织可能会报告成功的培训，而对旧界面的依赖保持不变。"
+        }
+      ]
     ]
   }
 }

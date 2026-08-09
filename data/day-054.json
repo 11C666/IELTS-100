@@ -153,7 +153,8 @@
         "concern",
         "obstacle"
       ],
-      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论书籍与文学。"
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论书籍与文学。",
+      "translation": "problem 表示问题；challenge、concern 和 obstacle 可分别强调挑战、隐忧或障碍。"
     },
     {
       "base": "change",
@@ -162,7 +163,8 @@
         "development",
         "transformation"
       ],
-      "note": "transformation 表示幅度较大的变化。 本组可用于讨论书籍与文学。"
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论书籍与文学。",
+      "translation": "change 表示变化；shift、development 和 transformation 可表示不同幅度的改变。"
     },
     {
       "base": "important",
@@ -171,7 +173,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论书籍与文学。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论书籍与文学。",
+      "translation": "important 表示重要；significant、crucial 和 essential 可表达不同程度的重要性。"
     },
     {
       "base": "result",
@@ -180,7 +183,8 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论书籍与文学。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论书籍与文学。",
+      "translation": "result 表示结果；outcome、consequence 和 effect 可根据语境替换。"
     },
     {
       "base": "improve",
@@ -189,7 +193,8 @@
         "strengthen",
         "raise the quality of"
       ],
-      "note": "搭配对象不同，不能机械互换。 本组可用于讨论书籍与文学。"
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论书籍与文学。",
+      "translation": "improve 表示改善；enhance、strengthen 和 raise the quality of 可强调提升或加强。"
     },
     {
       "base": "reduce",
@@ -198,7 +203,8 @@
         "limit",
         "bring down"
       ],
-      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论书籍与文学。"
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论书籍与文学。",
+      "translation": "reduce 表示减少；decrease、limit 和 bring down 可表达降低或控制。"
     },
     {
       "base": "people",
@@ -207,7 +213,8 @@
         "members of the public",
         "residents"
       ],
-      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论书籍与文学。"
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论书籍与文学。",
+      "translation": "people 表示人们；individuals、members of the public 和 residents 可用于更正式或具体的语境。"
     },
     {
       "base": "use",
@@ -216,51 +223,60 @@
         "adopt",
         "rely on"
       ],
-      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论书籍与文学。"
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论书籍与文学。",
+      "translation": "use 表示使用；make use of、adopt 和 rely on 可分别表示利用、采用或依赖。"
     }
   ],
   "sentences": [
     {
       "pattern": "A novel allows readers to + experience + without claiming that + equivalence.",
       "cn": "小说使读者能够体验……，但并不声称……完全相同。",
-      "example": "A novel allows readers to imagine another perspective without claiming that imagination equals lived experience."
+      "example": "A novel allows readers to imagine another perspective without claiming that imagination equals lived experience.",
+      "exampleTranslation": "小说让读者想象另一种视角，但并不声称想象等同于亲身经历。"
     },
     {
       "pattern": "What a reader brings to + text + partly determines + interpretation.",
       "cn": "读者带入文本的内容部分决定了其解读。",
-      "example": "What a reader brings to a novel partly determines which details appear significant."
+      "example": "What a reader brings to a novel partly determines which details appear significant.",
+      "exampleTranslation": "读者带着什么进入小说，会部分决定哪些细节显得重要。"
     },
     {
       "pattern": "Only after + narrative development + does + earlier detail + acquire + meaning.",
       "cn": "只有情节发展之后，早先细节才获得某种意义。",
-      "example": "Only after the final chapter does the opening image acquire its full meaning."
+      "example": "Only after the final chapter does the opening image acquire its full meaning.",
+      "exampleTranslation": "只有读完最后一章，开篇意象的完整含义才会显现。"
     }
   ],
   "expressions": [
     {
       "text": "get lost in a book",
       "cn": "沉浸在书中",
-      "example": "I got lost in the book and missed my stop."
+      "example": "I got lost in the book and missed my stop.",
+      "exampleTranslation": "我看书看得入迷，坐过了站。"
     },
     {
-      "text": "a real page-turner",
-      "cn": "引人入胜的书",
-      "example": "The mystery is a real page-turner."
+      "text": "be drawn into the story",
+      "cn": "被故事深深吸引",
+      "example": "I was drawn into the story from the very first chapter.",
+      "exampleTranslation": "我从第一章开始就被这个故事深深吸引了。"
     },
     {
       "text": "read between the lines",
       "cn": "读懂言外之意",
-      "example": "Readers must read between the lines to understand the narrator."
+      "example": "Readers must read between the lines to understand the narrator.",
+      "exampleTranslation": "读者必须读懂言外之意，才能理解叙述者。"
     },
     {
       "text": "bring a character to life",
       "cn": "让角色鲜活起来",
-      "example": "Small contradictions bring the character to life."
+      "example": "Small contradictions bring the character to life.",
+      "exampleTranslation": "细微的矛盾让人物变得鲜活。"
     },
     {
       "text": "leave a lasting impression",
       "cn": "留下持久印象",
-      "example": "The final scene left a lasting impression on me."
+      "example": "The final scene left a lasting impression on me.",
+      "exampleTranslation": "最后一幕给我留下了持久印象。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "revise an initial judgement",
         "tolerate ambiguity"
       ],
-      "argument": "A novel may withhold motives, present conflicting accounts or make an apparently minor detail important later. Readers must resist closing the question too early and compare new information with previous assumptions. This habit differs from simply extracting a stated fact. It does not automatically make every reader wise, but it provides repeated practice in interpretation. Literature is educational partly because meaning must be constructed and sometimes corrected."
+      "argument": "A novel may withhold motives, present conflicting accounts or make an apparently minor detail important later. Readers must resist closing the question too early and compare new information with previous assumptions. This habit differs from simply extracting a stated fact. It does not automatically make every reader wise, but it provides repeated practice in interpretation. Literature is educational partly because meaning must be constructed and sometimes corrected.",
+      "viewpointTranslation": "文学培养解读过程中的耐心。",
+      "topicSentenceTranslation": "阅读复杂叙事能教人保留不完整解释，并随着证据积累加以修正。",
+      "collocationTranslations": [
+        "解读不可靠叙述者",
+        "考虑多种视角",
+        "修正最初判断",
+        "容忍模糊性"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A novel may withhold motives, present conflicting accounts or make an apparently minor detail important later.",
+          "translation": "小说可能隐瞒动机、呈现相互冲突的说法，或让一个看似不重要的细节在后来变得关键。"
+        },
+        {
+          "text": "Readers must resist closing the question too early and compare new information with previous assumptions.",
+          "translation": "读者必须避免过早下结论，并把新信息与先前假设进行比较。"
+        },
+        {
+          "text": "This habit differs from simply extracting a stated fact.",
+          "translation": "这种习惯不同于仅仅提取明确陈述的事实。"
+        },
+        {
+          "text": "It does not automatically make every reader wise, but it provides repeated practice in interpretation.",
+          "translation": "它不会自动让每位读者变得明智，却提供了反复练习解读的机会。"
+        },
+        {
+          "text": "Literature is educational partly because meaning must be constructed and sometimes corrected.",
+          "translation": "文学具有教育意义，部分原因在于意义需要被建构，有时还需要被纠正。"
+        }
+      ]
     },
     {
       "viewpoint": "School reading lists should combine shared study with meaningful choice.",
@@ -301,19 +347,99 @@
         "support close reading",
         "broaden literary experience"
       ],
-      "argument": "A shared novel allows a class to examine language together and build a cumulative discussion. If every text is imposed, reluctant readers may conclude that literature has no connection to their interests or experience. Teachers can preserve common analytical goals while offering several books linked by a theme. Short extracts should not replace sustained reading entirely. A balanced list gives students both a common intellectual reference and some ownership of what they read."
+      "argument": "A shared novel allows a class to examine language together and build a cumulative discussion. If every text is imposed, reluctant readers may conclude that literature has no connection to their interests or experience. Teachers can preserve common analytical goals while offering several books linked by a theme. Short extracts should not replace sustained reading entirely. A balanced list gives students both a common intellectual reference and some ownership of what they read.",
+      "viewpointTranslation": "学校阅读书目应把共同学习与有意义的选择结合起来。",
+      "topicSentenceTranslation": "讨论共同文本对学生有益，但有限选择可以增强投入并扩大代表性。",
+      "collocationTranslations": [
+        "学习共同文本",
+        "从多样书目中选择",
+        "支持细读",
+        "拓宽文学体验"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A shared novel allows a class to examine language together and build a cumulative discussion.",
+          "translation": "共同阅读一本小说，让全班可以一起分析语言并逐步深入讨论。"
+        },
+        {
+          "text": "If every text is imposed, reluctant readers may conclude that literature has no connection to their interests or experience.",
+          "translation": "如果所有文本都由他人强制指定，不情愿阅读的学生可能会认为文学与自己的兴趣或经历毫无关系。"
+        },
+        {
+          "text": "Teachers can preserve common analytical goals while offering several books linked by a theme.",
+          "translation": "教师可以保留共同的分析目标，同时提供几本主题相关的书供选择。"
+        },
+        {
+          "text": "Short extracts should not replace sustained reading entirely.",
+          "translation": "短篇节选不应完全取代持续阅读。"
+        },
+        {
+          "text": "A balanced list gives students both a common intellectual reference and some ownership of what they read.",
+          "translation": "均衡的书目既给学生共同的思想参照，也让他们对阅读内容拥有一定自主权。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What kinds of books do you enjoy?",
-      "answer": "I enjoy novels with a strong sense of place and non-fiction that explains how ordinary systems work. I rarely choose books only because they are popular. A good recommendation usually tells me what kind of question the book explores. I also like writing that is clear without being overly simple."
+      "answer": "I enjoy novels with a strong sense of place and non-fiction that explains how ordinary systems work. I rarely choose books only because they are popular. A good recommendation usually tells me what kind of question the book explores. I also like writing that is clear without being overly simple.",
+      "questionTranslation": "你喜欢什么类型的书？",
+      "answerSentences": [
+        {
+          "text": "I enjoy novels with a strong sense of place and non-fiction that explains how ordinary systems work.",
+          "translation": "我喜欢地方感强烈的小说，也喜欢解释日常系统如何运作的非虚构作品。"
+        },
+        {
+          "text": "I rarely choose books only because they are popular.",
+          "translation": "我很少只因为一本书流行就选择它。"
+        },
+        {
+          "text": "A good recommendation usually tells me what kind of question the book explores.",
+          "translation": "好的推荐通常会告诉我这本书探讨什么问题。"
+        },
+        {
+          "text": "I also like writing that is clear without being overly simple.",
+          "translation": "我也喜欢清晰但不过度简单的文字。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a book that you would recommend.",
-      "answer": "I would recommend a novel about several residents of one building whose lives overlap without their fully knowing one another. The plot is quiet, but small objects and repeated encounters gradually reveal connections between the characters. I liked that nobody was presented as completely admirable or selfish. The setting also changed over time, so the building felt almost like another character. I would recommend it to someone who enjoys observation rather than fast action. It encouraged me to notice how people can interpret the same event differently. The book was easy enough to continue reading, yet complicated enough that I reconsidered the opening chapters after reaching the end."
+      "answer": "I would recommend a novel about several residents of one building whose lives overlap without their fully knowing one another. The plot is quiet, but small objects and repeated encounters gradually reveal connections between the characters. I liked that nobody was presented as completely admirable or selfish. The setting also changed over time, so the building felt almost like another character. I would recommend it to someone who enjoys observation rather than fast action. It encouraged me to notice how people can interpret the same event differently. The book was easy enough to continue reading, yet complicated enough that I reconsidered the opening chapters after reaching the end.",
+      "questionTranslation": "描述一本你会推荐的书。",
+      "answerSentences": [
+        {
+          "text": "I would recommend a novel about several residents of one building whose lives overlap without their fully knowing one another.",
+          "translation": "我会推荐一本小说，讲的是同一栋楼里几位居民的生活在彼此并不完全知情的情况下相互交织。"
+        },
+        {
+          "text": "The plot is quiet, but small objects and repeated encounters gradually reveal connections between the characters.",
+          "translation": "情节很平静，但一些小物件和反复发生的相遇逐渐揭示人物之间的联系。"
+        },
+        {
+          "text": "I liked that nobody was presented as completely admirable or selfish.",
+          "translation": "我喜欢书中没有把任何人塑造成完全高尚或自私的人。"
+        },
+        {
+          "text": "The setting also changed over time, so the building felt almost like another character.",
+          "translation": "故事背景也随时间变化，因此那栋楼几乎像另一个角色。"
+        },
+        {
+          "text": "I would recommend it to someone who enjoys observation rather than fast action.",
+          "translation": "我会把它推荐给喜欢观察而不是快速情节的人。"
+        },
+        {
+          "text": "It encouraged me to notice how people can interpret the same event differently.",
+          "translation": "它促使我注意到人们可以如何用不同方式理解同一事件。"
+        },
+        {
+          "text": "The book was easy enough to continue reading, yet complicated enough that I reconsidered the opening chapters after reaching the end.",
+          "translation": "这本书读起来足够顺畅，同时又足够复杂，让我读到结尾后重新思考开头几章。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +476,115 @@
         "answer": "question",
         "explanation": "The final paragraph lists these factors."
       }
+    ],
+    "titleTranslation": "作为阅读证据的页边批注",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A book records more than the words printed by its publisher.",
+          "translation": "一本书记录的不只是出版者印刷的文字。"
+        },
+        {
+          "text": "Underlining, folded corners and notes in the margin can reveal how an earlier reader responded.",
+          "translation": "划线、折角和页边批注可以揭示早期读者如何回应。"
+        },
+        {
+          "text": "Libraries once treated such marks mainly as damage.",
+          "translation": "图书馆过去主要把这类痕迹视为损坏。"
+        },
+        {
+          "text": "Historians now study some annotated books as evidence of education, disagreement and everyday intellectual life.",
+          "translation": "如今，历史学家会研究部分带批注的书，把它们视为教育、分歧和日常思想生活的证据。"
+        }
+      ],
+      [
+        {
+          "text": "Interpretation is difficult because a mark lacks context.",
+          "translation": "解读很困难，因为一个标记缺乏背景。"
+        },
+        {
+          "text": "A line beside a sentence may indicate admiration, confusion or preparation for an examination.",
+          "translation": "句子旁的一条线可能表示欣赏、困惑或为考试做准备。"
+        },
+        {
+          "text": "Handwriting can identify an owner, but books are borrowed and notes may belong to several people.",
+          "translation": "笔迹可以识别书主，但书会被借阅，批注也可能来自多人。"
+        },
+        {
+          "text": "Researchers compare ink, language and references elsewhere rather than assuming every mark expresses a stable private belief.",
+          "translation": "研究人员会比较墨水、语言和其他地方的提及，而不会假定每个标记都表达一种稳定的私人信念。"
+        }
+      ],
+      [
+        {
+          "text": "Annotations can show reading as an activity rather than passive reception.",
+          "translation": "批注可以显示阅读是一种活动，而不是被动接受。"
+        },
+        {
+          "text": "A reader corrects a fact, links a passage to another book or records an objection.",
+          "translation": "读者会纠正事实、把一段文字与另一本书联系起来，或记录异议。"
+        },
+        {
+          "text": "In textbooks, repeated notes may reveal which concepts students found difficult.",
+          "translation": "在教科书中，反复出现的批注可能揭示学生觉得哪些概念困难。"
+        },
+        {
+          "text": "In religious or political works, cautious symbols can indicate responses that a person would not state publicly.",
+          "translation": "在宗教或政治作品中，谨慎使用的符号可能表明一个人不愿公开表达的反应。"
+        }
+      ],
+      [
+        {
+          "text": "Digital reading also produces traces: highlights, searches and shared comments.",
+          "translation": "数字阅读也会产生痕迹：高亮、搜索和共享评论。"
+        },
+        {
+          "text": "These can be aggregated across thousands of users, providing scale unavailable in a single historic copy.",
+          "translation": "这些数据可以汇总数千名用户，提供单本历史书籍无法达到的规模。"
+        },
+        {
+          "text": "The same data raise privacy questions because a platform can observe reading pace and passages revisited.",
+          "translation": "同样的数据也引发隐私问题，因为平台可以观察阅读速度和反复阅读的段落。"
+        },
+        {
+          "text": "A private marginal note becomes a record stored by someone else.",
+          "translation": "私人页边批注于是成为存储在他人手中的记录。"
+        }
+      ],
+      [
+        {
+          "text": "Not every marked book deserves preservation, and heavy annotation can obscure the text.",
+          "translation": "并非每本有标记的书都值得保存，大量批注也可能遮蔽正文。"
+        },
+        {
+          "text": "Its research value depends on provenance, context and the question being asked.",
+          "translation": "其研究价值取决于来源、背景和所研究的问题。"
+        },
+        {
+          "text": "Nevertheless, marginalia challenges the idea that books carry meaning in one direction from author to audience.",
+          "translation": "尽管如此，页边批注挑战了意义只能从作者单向传递给受众的观念。"
+        },
+        {
+          "text": "A used page may preserve a small conversation between the printed argument and a reader who refused to remain silent.",
+          "translation": "一页使用过的纸张可能保存着印刷论述与一位拒绝沉默的读者之间的小小对话。"
+        },
+        {
+          "text": "Ownership raises further questions.",
+          "translation": "所有权还会引发更多问题。"
+        },
+        {
+          "text": "A writer may donate annotated books, but notes made by friends or family remain inside them.",
+          "translation": "一位作家可能捐赠带批注的书，但朋友或家人留下的笔记仍在其中。"
+        },
+        {
+          "text": "Archives decide when privacy outweighs research access and may close recent material for a fixed period.",
+          "translation": "档案馆需要判断何时隐私重于研究开放，并可能把近期材料封存一段固定时间。"
+        },
+        {
+          "text": "The physical book preserves several voices, so permission from one famous owner does not automatically settle the interests of everyone represented on its pages.",
+          "translation": "实体书保存了多个声音，因此一位著名书主的许可并不能自动解决书页上所有相关者的权益。"
+        }
+      ]
     ]
   }
 }

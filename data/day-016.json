@@ -153,7 +153,8 @@
         "spell of extreme heat",
         "prolonged hot weather"
       ],
-      "note": "heatwave 通常持续多日。"
+      "note": "heatwave 通常持续多日。",
+      "translation": "酷热时期可以表示为热浪、酷暑、长时间的炎热天气。"
     },
     {
       "base": "weather report",
@@ -162,7 +163,8 @@
         "meteorological report",
         "weather update"
       ],
-      "note": "forecast 强调对未来的预测。"
+      "note": "forecast 强调对未来的预测。",
+      "translation": "天气报告可以表示为预报、气象报告、天气更新。"
     },
     {
       "base": "change often",
@@ -171,7 +173,8 @@
         "vary considerably",
         "shift rapidly"
       ],
-      "note": "shift rapidly 强调变化速度。"
+      "note": "shift rapidly 强调变化速度。",
+      "translation": "变化通常可以表达为不可预测、变化很大、变化迅速。"
     },
     {
       "base": "heavy rain",
@@ -180,7 +183,8 @@
         "torrential rain",
         "a downpour"
       ],
-      "note": "downpour 常指短时大雨。"
+      "note": "downpour 常指短时大雨。",
+      "translation": "heavy rain 表示大雨；intense rainfall 是较正式的“强降雨”，torrential rain 指倾盆大雨，a downpour 指一场骤然的暴雨。"
     },
     {
       "base": "not raining",
@@ -189,7 +193,8 @@
         "rain-free period",
         "clear weather"
       ],
-      "note": "dry 也可能指长期少雨。"
+      "note": "dry 也可能指长期少雨。",
+      "translation": "不下雨可以表示干燥条件、无雨期、晴朗天气。"
     },
     {
       "base": "cold",
@@ -198,7 +203,8 @@
         "freezing",
         "below average"
       ],
-      "note": "chilly 是微冷；freezing 是非常冷。"
+      "note": "chilly 是微冷；freezing 是非常冷。",
+      "translation": "cold 可以表达为“寒冷的”“气温偏低的”或“低于平均温度的”。"
     },
     {
       "base": "time of year",
@@ -207,7 +213,8 @@
         "seasonal period",
         "part of the annual cycle"
       ],
-      "note": "season 最自然。"
+      "note": "season 最自然。",
+      "translation": "time of year 指一年中的某个时段；season 指季节，seasonal period 指季节性时段，part of the annual cycle 指年度周期中的一个阶段。"
     },
     {
       "base": "warn people",
@@ -216,51 +223,60 @@
         "provide advance warning",
         "notify residents"
       ],
-      "note": "advance warning 强调提前。"
+      "note": "advance warning 强调提前。",
+      "translation": "警告人们可以表达为发出警报、提供预先警告、通知居民。"
     }
   ],
   "sentences": [
     {
       "pattern": "The weather tends to + verb + once + season or time + begins.",
       "cn": "一旦某个季节或时期开始，天气往往会……",
-      "example": "The weather tends to become humid once the rainy season begins."
+      "example": "The weather tends to become humid once the rainy season begins.",
+      "exampleTranslation": "一旦雨季开始，天气就会变得潮湿。"
     },
     {
       "pattern": "Even though the forecast predicted + condition, + different outcome.",
       "cn": "虽然预报预测了……，但实际……",
-      "example": "Even though the forecast predicted rain, the afternoon remained dry."
+      "example": "Even though the forecast predicted rain, the afternoon remained dry.",
+      "exampleTranslation": "尽管天气预报预测会下雨，但下午仍然干燥。"
     },
     {
       "pattern": "People who live in + climate + become accustomed to + noun.",
       "cn": "生活在某种气候中的人会习惯……",
-      "example": "People who live in northern climates become accustomed to long winter nights."
+      "example": "People who live in northern climates become accustomed to long winter nights.",
+      "exampleTranslation": "生活在北方气候的人们习惯了漫长的冬夜。"
     }
   ],
   "expressions": [
     {
       "text": "the weather clears up",
       "cn": "天气转晴",
-      "example": "We can go for a walk if the weather clears up."
+      "example": "We can go for a walk if the weather clears up.",
+      "exampleTranslation": "如果天气晴朗，我们可以去散步。"
     },
     {
       "text": "get caught in the rain",
       "cn": "遇到雨而没防备",
-      "example": "I got caught in the rain without an umbrella."
+      "example": "I got caught in the rain without an umbrella.",
+      "exampleTranslation": "我没带伞就淋雨了。"
     },
     {
       "text": "a bit on the chilly side",
       "cn": "有点偏冷",
-      "example": "It’s sunny, but it’s a bit on the chilly side."
+      "example": "It’s sunny, but it’s a bit on the chilly side.",
+      "exampleTranslation": "虽然天气晴朗，但还是有点冷。"
     },
     {
       "text": "make the most of the sunshine",
       "cn": "充分利用晴天",
-      "example": "We made the most of the sunshine and ate outside."
+      "example": "We made the most of the sunshine and ate outside.",
+      "exampleTranslation": "我们充分利用阳光并在外面吃饭。"
     },
     {
       "text": "weather permitting",
       "cn": "天气允许的话",
-      "example": "The event will be held outdoors, weather permitting."
+      "example": "The event will be held outdoors, weather permitting.",
+      "exampleTranslation": "如果天气允许，该活动将在户外举行。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "take preventive action",
         "protect vulnerable residents"
       ],
-      "argument": "Technical information about pressure or rainfall may not tell residents whether to cancel travel or check on an older neighbour. Clear warnings should describe location, timing and likely consequences in ordinary language. Advice must also be realistic for people without cars, air conditioning or secure housing. Repeated false alarms can reduce trust, so uncertainty should be explained honestly. Effective communication connects scientific prediction with practical decisions."
+      "argument": "Technical information about pressure or rainfall may not tell residents whether to cancel travel or check on an older neighbour. Clear warnings should describe location, timing and likely consequences in ordinary language. Advice must also be realistic for people without cars, air conditioning or secure housing. Repeated false alarms can reduce trust, so uncertainty should be explained honestly. Effective communication connects scientific prediction with practical decisions.",
+      "viewpointTranslation": "天气警报必须将风险转化为明确的行动。",
+      "topicSentenceTranslation": "只有当人们了解预期条件要求他们做什么时，预测才有用。",
+      "collocationTranslations": [
+        "发出预警",
+        "清楚地传达风险",
+        "采取预防措施",
+        "保护弱势居民"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Technical information about pressure or rainfall may not tell residents whether to cancel travel or check on an older neighbour.",
+          "translation": "有关气压或降雨量的技术信息可能无法告诉居民是否取消旅行或查看年长的邻居。"
+        },
+        {
+          "text": "Clear warnings should describe location, timing and likely consequences in ordinary language.",
+          "translation": "明确的警告应以普通语言描述地点、时间和可能的后果。"
+        },
+        {
+          "text": "Advice must also be realistic for people without cars, air conditioning or secure housing.",
+          "translation": "对于没有汽车、空调或安全住房的人来说，建议也必须切合实际。"
+        },
+        {
+          "text": "Repeated false alarms can reduce trust, so uncertainty should be explained honestly.",
+          "translation": "重复的误报会降低信任，因此应该诚实地解释不确定性。"
+        },
+        {
+          "text": "Effective communication connects scientific prediction with practical decisions.",
+          "translation": "有效的沟通将科学预测与实际决策联系起来。"
+        }
+      ]
     },
     {
       "viewpoint": "Cities need to prepare for hotter summers.",
@@ -301,19 +347,87 @@
         "improve building ventilation",
         "reduce heat exposure"
       ],
-      "argument": "Concrete and dark surfaces absorb heat during the day and release it slowly at night. This prevents city residents from recovering during prolonged hot weather. Trees, shaded bus stops, reflective roofs and accessible drinking water can lower exposure. Emergency plans should identify people living alone or in poorly ventilated homes. Heat preparation is becoming a basic public-health responsibility rather than an occasional response."
+      "argument": "Concrete and dark surfaces absorb heat during the day and release it slowly at night. This prevents city residents from recovering during prolonged hot weather. Trees, shaded bus stops, reflective roofs and accessible drinking water can lower exposure. Emergency plans should identify people living alone or in poorly ventilated homes. Heat preparation is becoming a basic public-health responsibility rather than an occasional response.",
+      "viewpointTranslation": "城市需要为更炎热的夏季做好准备。",
+      "topicSentenceTranslation": "城市设计可以减少极端炎热时期造成的健康风险。",
+      "collocationTranslations": [
+        "城市热岛",
+        "提供阴影区域",
+        "改善建筑物通风",
+        "减少受热"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Concrete and dark surfaces absorb heat during the day and release it slowly at night.",
+          "translation": "混凝土和深色表面在白天吸收热量，并在夜间缓慢释放热量。"
+        },
+        {
+          "text": "This prevents city residents from recovering during prolonged hot weather.",
+          "translation": "这阻碍了城市居民在长时间炎热的天气中恢复健康。"
+        },
+        {
+          "text": "Trees, shaded bus stops, reflective roofs and accessible drinking water can lower exposure.",
+          "translation": "树木、遮荫的公交车站、反光屋顶和方便的饮用水可以减少暴露。"
+        },
+        {
+          "text": "Emergency plans should identify people living alone or in poorly ventilated homes.",
+          "translation": "应急计划应识别独居或通风不良的房屋中的人员。"
+        },
+        {
+          "text": "Heat preparation is becoming a basic public-health responsibility rather than an occasional response.",
+          "translation": "高温准备正在成为一项基本的公共卫生责任，而不是偶尔的应对措施。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What kind of weather do you like most?",
-      "answer": "I like cool, bright weather, probably around eighteen degrees. It’s comfortable enough to walk for a long time without getting tired, and the clear light makes the city look better. I don’t need perfect sunshine; a few clouds are fine. What I dislike is high humidity because even a short journey then feels exhausting."
+      "answer": "I like cool, bright weather, probably around eighteen degrees. It’s comfortable enough to walk for a long time without getting tired, and the clear light makes the city look better. I don’t need perfect sunshine; a few clouds are fine. What I dislike is high humidity because even a short journey then feels exhausting.",
+      "questionTranslation": "你最喜欢什么样的天气？",
+      "answerSentences": [
+        {
+          "text": "I like cool, bright weather, probably around eighteen degrees.",
+          "translation": "我喜欢凉爽、明亮的天气，大概在十八度左右。"
+        },
+        {
+          "text": "It’s comfortable enough to walk for a long time without getting tired, and the clear light makes the city look better.",
+          "translation": "这种天气很适合长时间步行，不容易累，而且清澈明亮的光线会让城市显得更漂亮。"
+        },
+        {
+          "text": "I don’t need perfect sunshine; a few clouds are fine.",
+          "translation": "我不需要完美的阳光；几朵云就好了。"
+        },
+        {
+          "text": "What I dislike is high humidity because even a short journey then feels exhausting.",
+          "translation": "我不喜欢高湿度，因为即使是短途旅行也会感到疲惫。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Does the weather ever affect your plans?",
-      "answer": "Quite often. If heavy rain is forecast, I’ll move an outdoor meeting or take public transport instead of cycling. In summer, I avoid going out in the middle of a very hot day and run errands in the evening. I try not to cancel things too quickly, though, because forecasts sometimes sound more certain than the actual weather turns out to be."
+      "answer": "Quite often. If heavy rain is forecast, I’ll move an outdoor meeting or take public transport instead of cycling. In summer, I avoid going out in the middle of a very hot day and run errands in the evening. I try not to cancel things too quickly, though, because forecasts sometimes sound more certain than the actual weather turns out to be.",
+      "questionTranslation": "天气会影响你的计划吗？",
+      "answerSentences": [
+        {
+          "text": "Quite often.",
+          "translation": "经常。"
+        },
+        {
+          "text": "If heavy rain is forecast, I’ll move an outdoor meeting or take public transport instead of cycling.",
+          "translation": "如果预报有大雨，我会把户外会面改到室内，或者乘坐公共交通而不是骑自行车。"
+        },
+        {
+          "text": "In summer, I avoid going out in the middle of a very hot day and run errands in the evening.",
+          "translation": "在夏天，我避免在大热天外出，并在晚上办事。"
+        },
+        {
+          "text": "I try not to cancel things too quickly, though, because forecasts sometimes sound more certain than the actual weather turns out to be.",
+          "translation": "不过，我尽量不要太快取消事情，因为天气预报有时听起来比实际天气更确定。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +458,99 @@
         "answer": "grid",
         "explanation": "The answer is in Paragraph 3."
       }
+    ],
+    "titleTranslation": "寻找可靠的预测",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "For most of human history, weather prediction depended on repeated local observation.",
+          "translation": "在人类历史的大部分时间里，天气预报依赖于反复的本地观测。"
+        },
+        {
+          "text": "Farmers and sailors watched cloud shapes, winds, animal behaviour and the timing of seasonal changes.",
+          "translation": "农民和水手观察云的形状、风、动物的行为和季节变化的时间。"
+        },
+        {
+          "text": "Some rules contained genuine patterns, while others survived because people remembered a correct prediction more clearly than numerous failures.",
+          "translation": "有些规则包含真实的模式，而另一些则幸存下来，因为人们对正确的预测比对无数失败的记忆更清楚。"
+        },
+        {
+          "text": "Forecasting remained local because information from distant places arrived too late.",
+          "translation": "由于来自遥远地方的信息来得太晚，预报仍然是本地化的。"
+        }
+      ],
+      [
+        {
+          "text": "The development of the telegraph changed the scale of prediction.",
+          "translation": "电报的发展改变了预测的范围。"
+        },
+        {
+          "text": "Weather observations could be collected from a wide area before the conditions themselves arrived.",
+          "translation": "在天气状况到来之前，可以从大范围内收集天气观测数据。"
+        },
+        {
+          "text": "Meteorologists began drawing maps of pressure and wind, revealing moving systems that no single observer could see.",
+          "translation": "气象学家开始绘制压力和风的地图，揭示单个观察者无法看到的移动系统。"
+        },
+        {
+          "text": "Later, satellites supplied images over oceans and sparsely inhabited regions, filling major gaps in coverage.",
+          "translation": "后来，卫星提供了海洋和人烟稀少地区的图像，填补了覆盖范围的重大空白。"
+        }
+      ],
+      [
+        {
+          "text": "Modern forecasts use mathematical models which divide the atmosphere into a three-dimensional grid.",
+          "translation": "现代预测使用数学模型将大气划分为三维网格。"
+        },
+        {
+          "text": "Measurements provide a starting state, then computers calculate how temperature, moisture and movement may develop.",
+          "translation": "测量提供一个起始状态，然后计算机计算温度、湿度和运动可能如何发展。"
+        },
+        {
+          "text": "Tiny inaccuracies in the starting data grow over time, which is why a forecast for tomorrow is generally more reliable than one for two weeks ahead.",
+          "translation": "初始数据中的微小误差会随着时间的推移而增加，这就是为什么对明天的预测通常比对未来两周的预测更可靠。"
+        },
+        {
+          "text": "Running several models produces a range of possible outcomes rather than one certain future.",
+          "translation": "运行多个模型会产生一系列可能的结果，而不是某个特定的未来。"
+        }
+      ],
+      [
+        {
+          "text": "Public forecasts simplify this uncertainty into symbols and short statements.",
+          "translation": "公共预测将这种不确定性简化为符号和简短的陈述。"
+        },
+        {
+          "text": "A rain icon may conceal disagreement about timing, location or intensity.",
+          "translation": "下雨图标可能掩盖了有关时间、地点或强度的分歧。"
+        },
+        {
+          "text": "Probability can provide more information, but it is often misunderstood: a modest chance of rain does not mean the forecast failed when rain occurs.",
+          "translation": "概率可以提供更多信息，但它经常被误解：下雨的可能性不大并不意味着下雨时预报失败。"
+        },
+        {
+          "text": "Reliable forecasting therefore depends on two tasks—modelling the atmosphere and communicating the limits of what the model can know.",
+          "translation": "因此，可靠的预测取决于两项任务：对大气进行建模并传达模型所能知道的限制。"
+        }
+      ],
+      [
+        {
+          "text": "Forecast accuracy also varies with the event being predicted.",
+          "translation": "预测的准确性也随着预测事件的不同而变化。"
+        },
+        {
+          "text": "Temperature over a broad region may be estimated confidently while the precise location of a thunderstorm remains uncertain.",
+          "translation": "尽管雷暴的精确位置仍不确定，但可以自信地估计大范围区域的温度。"
+        },
+        {
+          "text": "The distinction matters to users.",
+          "translation": "这种区别对用户来说很重要。"
+        },
+        {
+          "text": "A farmer, an airline and someone planning a picnic need different detail, so a forecast should be evaluated in relation to the decision it is intended to support.",
+          "translation": "农民、航空公司和计划野餐的人需要不同的细节，因此应该根据预测要支持的决策来评估预测。"
+        }
+      ]
     ]
   }
 }

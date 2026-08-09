@@ -153,7 +153,8 @@
         "decide on a career path",
         "make a vocational choice"
       ],
-      "note": "vocational 强调与职业有关。"
+      "note": "vocational 强调与职业有关。",
+      "translation": "choose a career 可以表达为“选择职业”“决定职业道路”或“作出职业选择”。"
     },
     {
       "base": "work that suits me",
@@ -162,7 +163,8 @@
         "a good occupational fit",
         "suitable day-to-day work"
       ],
-      "note": "fit 应考虑任务而非只看头衔。"
+      "note": "fit 应考虑任务而非只看头衔。",
+      "translation": "适合我的工作可以表现为与我的优势相符的角色、良好的职业契合度、适合的日常工作。"
     },
     {
       "base": "change career",
@@ -171,7 +173,8 @@
         "retrain for another field",
         "change professional direction"
       ],
-      "note": "transition 强调过程。"
+      "note": "transition 强调过程。",
+      "translation": "改变职业可以表现为职业转型、重新培训到另一个领域、改变职业方向。"
     },
     {
       "base": "what a job is really like",
@@ -180,7 +183,8 @@
         "routine job demands",
         "day-to-day working conditions"
       ],
-      "note": "daily reality 可纠正职业想象。"
+      "note": "daily reality 可纠正职业想象。",
+      "translation": "工作的真实情况可以表达为职业的日常现实、日常工作要求、日常工作条件。"
     },
     {
       "base": "try a job briefly",
@@ -189,7 +193,8 @@
         "shadow a practitioner",
         "test an occupational interest"
       ],
-      "note": "shadow 指跟随观察工作。"
+      "note": "shadow 指跟随观察工作。",
+      "translation": "try a job briefly 可以表达为“参加工作实习”“跟随从业者观察工作”或“检验职业兴趣”。"
     },
     {
       "base": "skills I already have",
@@ -198,7 +203,8 @@
         "prior competence",
         "existing capabilities"
       ],
-      "note": "prior competence 可减少重复培训。"
+      "note": "prior competence 可减少重复培训。",
+      "translation": "我已经拥有的技能可以表示为可转移的经验、先前的能力、现有的能力。"
     },
     {
       "base": "perfect career",
@@ -207,7 +213,8 @@
         "dream job",
         "hidden calling"
       ],
-      "note": "calling 带有使命感色彩。"
+      "note": "calling 带有使命感色彩。",
+      "translation": "perfect career 可以表达为“理想职业”“梦想工作”或“真正适合自己的事业方向”。"
     },
     {
       "base": "career advice",
@@ -216,51 +223,60 @@
         "careers counselling",
         "informed occupational advice"
       ],
-      "note": "guidance 强调系统支持。"
+      "note": "guidance 强调系统支持。",
+      "translation": "职业建议可以表述为职业指导、职业咨询、知情职业建议。"
     }
   ],
   "sentences": [
     {
       "pattern": "A career that appears + attractive quality + may nevertheless require + hidden cost.",
       "cn": "看似具有某种吸引力的职业，仍可能需要付出某种隐性代价。",
-      "example": "A career that appears glamorous may nevertheless require years of insecure freelance work."
+      "example": "A career that appears glamorous may nevertheless require years of insecure freelance work.",
+      "exampleTranslation": "看似光鲜亮丽的职业生涯可能需要多年不安全的自由职业。"
     },
     {
       "pattern": "Rather than asking which job is + absolute quality, people may benefit from asking + practical question.",
       "cn": "与其问哪份工作绝对最好，人们不如问一个更实际的问题。",
-      "example": "Rather than asking which job is perfect, people may benefit from asking which trade-offs they can accept."
+      "example": "Rather than asking which job is perfect, people may benefit from asking which trade-offs they can accept.",
+      "exampleTranslation": "人们不应该问哪一份工作是完美的，而应该问自己可以接受哪些权衡，从而受益匪浅。"
     },
     {
       "pattern": "The extent to which + occupation + suits someone depends on + fit factors.",
       "cn": "某职业适合一个人的程度取决于……。",
-      "example": "The extent to which nursing suits someone depends on both values and tolerance for shift work."
+      "example": "The extent to which nursing suits someone depends on both values and tolerance for shift work.",
+      "exampleTranslation": "护理适合某人的程度取决于价值观和对轮班工作的容忍度。"
     }
   ],
   "expressions": [
     {
       "text": "follow a career path",
       "cn": "走一条职业道路",
-      "example": "I did not follow a conventional career path."
+      "example": "I did not follow a conventional career path.",
+      "exampleTranslation": "我没有遵循传统的职业道路。"
     },
     {
       "text": "have a change of direction",
       "cn": "改变职业方向",
-      "example": "After five years in sales, she had a change of direction."
+      "example": "After five years in sales, she had a change of direction.",
+      "exampleTranslation": "从事销售五年后，她改变了方向。"
     },
     {
       "text": "play to my strengths",
       "cn": "发挥我的长处",
-      "example": "Research work plays to my strengths."
+      "example": "Research work plays to my strengths.",
+      "exampleTranslation": "研究工作发挥了我的优势。"
     },
     {
       "text": "rule out an option",
       "cn": "排除一个选择",
-      "example": "I would not rule out an option before speaking to someone in the role."
+      "example": "I would not rule out an option before speaking to someone in the role.",
+      "exampleTranslation": "在与担任该职位的人交谈之前，我不会排除某种选择。"
     },
     {
       "text": "get a foot in the door",
       "cn": "获得入行机会",
-      "example": "A short placement helped him get a foot in the door."
+      "example": "A short placement helped him get a foot in the door.",
+      "exampleTranslation": "一段短期实习帮助他获得了进入这一行业的机会。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "complete a work placement",
         "form realistic expectations"
       ],
-      "argument": "A title such as architect or lawyer carries an image that may bear little resemblance to an ordinary working week. Short placements, job-shadowing and conversations with several practitioners reveal administrative work, irregular hours and early-career constraints. This information can prevent choices based solely on prestige or one school subject. It may also introduce roles that students have never encountered at home. Effective guidance expands options while making their trade-offs concrete."
+      "argument": "A title such as architect or lawyer carries an image that may bear little resemblance to an ordinary working week. Short placements, job-shadowing and conversations with several practitioners reveal administrative work, irregular hours and early-career constraints. This information can prevent choices based solely on prestige or one school subject. It may also introduce roles that students have never encountered at home. Effective guidance expands options while making their trade-offs concrete.",
+      "viewpointTranslation": "职业指导应该揭露职业的日常现实。",
+      "topicSentenceTranslation": "年轻人需要有关日常任务和条件的证据，而不仅仅是职业头衔。",
+      "collocationTranslations": [
+        "探索职业选择",
+        "观察日常工作",
+        "完成工作实习",
+        "形成现实的期望"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A title such as architect or lawyer carries an image that may bear little resemblance to an ordinary working week.",
+          "translation": "诸如建筑师或律师之类的头衔给人的印象可能与普通的工作周没有什么相似之处。"
+        },
+        {
+          "text": "Short placements, job-shadowing and conversations with several practitioners reveal administrative work, irregular hours and early-career constraints.",
+          "translation": "短期实习、见习工作以及与几位从业者的对话揭示了行政工作、不规律的工作时间和早期职业限制。"
+        },
+        {
+          "text": "This information can prevent choices based solely on prestige or one school subject.",
+          "translation": "这些信息可以防止仅仅基于声望或一门学校科目的选择。"
+        },
+        {
+          "text": "It may also introduce roles that students have never encountered at home.",
+          "translation": "它还可能介绍学生在家里从未遇到过的角色。"
+        },
+        {
+          "text": "Effective guidance expands options while making their trade-offs concrete.",
+          "translation": "有效的指导扩大了选择，同时使权衡具体化。"
+        }
+      ]
     },
     {
       "viewpoint": "Changing career should be treated as a normal adjustment.",
@@ -301,19 +347,107 @@
         "complete a modular course",
         "navigate a career transition"
       ],
-      "argument": "Industries contract, health circumstances change and personal priorities develop over a working life. Requiring every career changer to begin a full qualification from zero wastes relevant experience. Modular training and recognition of prior learning can target the actual gap. Guidance should also explain income changes and entry routes honestly. A labour market that supports transitions can respond to change without treating an earlier choice as a permanent mistake."
+      "argument": "Industries contract, health circumstances change and personal priorities develop over a working life. Requiring every career changer to begin a full qualification from zero wastes relevant experience. Modular training and recognition of prior learning can target the actual gap. Guidance should also explain income changes and entry routes honestly. A labour market that supports transitions can respond to change without treating an earlier choice as a permanent mistake.",
+      "viewpointTranslation": "转行应该被视为正常的调整。",
+      "topicSentenceTranslation": "教育和就业体系应该使职业中期转型的成本和混乱程度降低。",
+      "collocationTranslations": [
+        "接受新职业的再培训",
+        "认识到可转移的经验",
+        "完成模块化课程",
+        "引导职业转型"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Industries contract, health circumstances change and personal priorities develop over a working life.",
+          "translation": "在工作生涯中，行业收缩、健康状况发生变化以及个人优先事项不断发展。"
+        },
+        {
+          "text": "Requiring every career changer to begin a full qualification from zero wastes relevant experience.",
+          "translation": "要求每个转行者从零开始获得完整的资格会浪费相关经验。"
+        },
+        {
+          "text": "Modular training and recognition of prior learning can target the actual gap.",
+          "translation": "模块化培训和对先前学习的认可可以针对实际差距。"
+        },
+        {
+          "text": "Guidance should also explain income changes and entry routes honestly.",
+          "translation": "指导还应诚实地解释收入变化和进入途径。"
+        },
+        {
+          "text": "A labour market that supports transitions can respond to change without treating an earlier choice as a permanent mistake.",
+          "translation": "支持转型的劳动力市场可以应对变化，而不会将早期的选择视为永久性错误。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Did you have a clear career ambition as a child?",
-      "answer": "Not really. I changed my answer whenever I encountered an interesting adult, so at different times I wanted to be a pilot, a teacher and a designer. Those choices were based on a very shallow picture of the work. I became more realistic only after trying projects and noticing which tasks held my attention."
+      "answer": "Not really. I changed my answer whenever I encountered an interesting adult, so at different times I wanted to be a pilot, a teacher and a designer. Those choices were based on a very shallow picture of the work. I became more realistic only after trying projects and noticing which tasks held my attention.",
+      "questionTranslation": "您小时候有明确的职业抱负吗？",
+      "answerSentences": [
+        {
+          "text": "Not really.",
+          "translation": "并没有特别明确。"
+        },
+        {
+          "text": "I changed my answer whenever I encountered an interesting adult, so at different times I wanted to be a pilot, a teacher and a designer.",
+          "translation": "每当遇到一个有趣的成年人我就会改变我的答案，所以在不同的时期我想成为一名飞行员、一名教师和一名设计师。"
+        },
+        {
+          "text": "Those choices were based on a very shallow picture of the work.",
+          "translation": "这些选择都建立在对相关工作的非常肤浅的认识上。"
+        },
+        {
+          "text": "I became more realistic only after trying projects and noticing which tasks held my attention.",
+          "translation": "只有在尝试了项目并注意到哪些任务吸引了我的注意力之后，我才变得更加现实。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a career you would like to know more about.",
-      "answer": "I would like to know more about urban planning. I understand the broad purpose, but I do not know how planners divide their time between research, public consultation and technical rules. I would be especially interested in watching how they respond when residents want conflicting things from the same street. A day of job-shadowing would probably teach me more than a general career page. The field appeals to me because decisions have visible, long-term effects on daily life. I would ask what an early-career planner actually produces and which qualifications are essential. The profession may involve more legal documentation and less visual design than outsiders imagine. That would not necessarily discourage me, but I would want an accurate picture. Learning about the constraints could be as important as hearing about the creative influence planners have on a city."
+      "answer": "I would like to know more about urban planning. I understand the broad purpose, but I do not know how planners divide their time between research, public consultation and technical rules. I would be especially interested in watching how they respond when residents want conflicting things from the same street. A day of job-shadowing would probably teach me more than a general career page. The field appeals to me because decisions have visible, long-term effects on daily life. I would ask what an early-career planner actually produces and which qualifications are essential. The profession may involve more legal documentation and less visual design than outsiders imagine. That would not necessarily discourage me, but I would want an accurate picture. Learning about the constraints could be as important as hearing about the creative influence planners have on a city.",
+      "questionTranslation": "描述您想更多了解的职业。",
+      "answerSentences": [
+        {
+          "text": "I would like to know more about urban planning.",
+          "translation": "我想了解更多关于城市规划的知识。"
+        },
+        {
+          "text": "I understand the broad purpose, but I do not know how planners divide their time between research, public consultation and technical rules.",
+          "translation": "我理解其广泛的目的，但我不知道规划者如何在研究、公众咨询和技术规则之间分配时间。"
+        },
+        {
+          "text": "I would be especially interested in watching how they respond when residents want conflicting things from the same street.",
+          "translation": "我尤其想知道，当居民对同一条街道的用途提出相互冲突的要求时，规划人员会如何应对。"
+        },
+        {
+          "text": "A day of job-shadowing would probably teach me more than a general career page.",
+          "translation": "跟随从业者观察一天，可能比浏览一般的职业介绍页面更能让我了解这份工作。"
+        },
+        {
+          "text": "The field appeals to me because decisions have visible, long-term effects on daily life.",
+          "translation": "这个领域对我很有吸引力，因为决策对日常生活有明显的长期影响。"
+        },
+        {
+          "text": "I would ask what an early-career planner actually produces and which qualifications are essential.",
+          "translation": "我想询问职业生涯早期的规划人员实际需要完成哪些成果，以及哪些资质必不可少。"
+        },
+        {
+          "text": "The profession may involve more legal documentation and less visual design than outsiders imagine.",
+          "translation": "该职业可能涉及比外人想象的更多的法律文件和更少的视觉设计。"
+        },
+        {
+          "text": "That would not necessarily discourage me, but I would want an accurate picture.",
+          "translation": "这不一定会让我打退堂鼓，但我希望获得准确的认识。"
+        },
+        {
+          "text": "Learning about the constraints could be as important as hearing about the creative influence planners have on a city.",
+          "translation": "了解这些限制因素与了解规划者对城市的创造性影响一样重要。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +484,99 @@
         "answer": "experiments",
         "explanation": "The phrase appears in the final paragraph."
       }
+    ],
+    "titleTranslation": "兴趣不固定 职业测试",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Career questionnaires often ask people to rate activities they enjoy and then match the pattern to occupations.",
+          "translation": "职业调查问卷经常要求人们对他们喜欢的活动进行评分，然后将模式与职业相匹配。"
+        },
+        {
+          "text": "The method can begin a useful conversation, but its apparent precision is misleading.",
+          "translation": "该方法可以开始有用的对话，但其表面上的精确度具有误导性。"
+        },
+        {
+          "text": "An interest is not a permanent property discovered by a test.",
+          "translation": "兴趣并不是通过测试发现的永久财产。"
+        },
+        {
+          "text": "It can grow through competence, fade after repeated frustration or remain enjoyable only when separated from deadlines and income.",
+          "translation": "它可以通过能力而成长，在反复的挫折后消失，或者只有在脱离最后期限和收入时才保持愉快。"
+        }
+      ],
+      [
+        {
+          "text": "People also confuse a subject with the work associated with it.",
+          "translation": "人们还会将主题与与之相关的工作混淆。"
+        },
+        {
+          "text": "Enjoying school biology does not reveal whether someone would like laboratory repetition, clinical contact, fieldwork or data analysis.",
+          "translation": "喜欢学校生物并不能表明某人是否喜欢实验室重复、临床接触、实地考察或数据分析。"
+        },
+        {
+          "text": "Occupations contain bundles of tasks, and few individuals enjoy every component.",
+          "translation": "职业包含很多任务，很少有人喜欢每一个部分。"
+        },
+        {
+          "text": "A useful decision compares the whole bundle with the trade-offs a person can tolerate, including uncertainty, emotional demand and working hours.",
+          "translation": "一个有用的决定是将整个捆绑与一个人可以容忍的权衡进行比较，包括不确定性、情感需求和工作时间。"
+        }
+      ],
+      [
+        {
+          "text": "Experience changes preferences because it makes imagined work concrete.",
+          "translation": "经验会改变偏好，因为它使想象的工作具体化。"
+        },
+        {
+          "text": "A brief placement can reveal that a disliked task becomes satisfying when its purpose is clear, or that an attractive field contains a routine the person strongly avoids.",
+          "translation": "简短的安排可以表明，当一项不喜欢的任务的目的明确时，它就会变得令人满意，或者一个有吸引力的领域包含一个人们强烈避免的例行公事。"
+        },
+        {
+          "text": "Yet one workplace should not be treated as the occupation itself.",
+          "translation": "然而，一个工作场所不应被视为职业本身。"
+        },
+        {
+          "text": "Management, team culture and job design vary, so guidance should seek several examples before drawing a conclusion.",
+          "translation": "管理、团队文化和工作设计各不相同，因此指导应在得出结论之前寻找几个例子。"
+        }
+      ],
+      [
+        {
+          "text": "Career choice is therefore better understood as a sequence of informed experiments than as a search for one hidden calling.",
+          "translation": "因此，职业选择最好被理解为一系列明智的实验，而不是对一个隐藏使命的探索。"
+        },
+        {
+          "text": "A person can take a relevant course, interview a practitioner, try a small project and then update the decision.",
+          "translation": "一个人可以参加相关课程，采访从业者，尝试一个小项目，然后更新决定。"
+        },
+        {
+          "text": "Each step should be inexpensive enough to permit revision.",
+          "translation": "每个步骤都应该足够便宜以允许修改。"
+        },
+        {
+          "text": "Commitment still matters—expertise requires sustained effort—but commitment based on evidence is stronger than attachment to an identity formed before the daily work was understood.",
+          "translation": "承诺仍然很重要——专业知识需要持续的努力——但基于证据的承诺比对日常工作被理解之前形成的身份的依恋更强。"
+        }
+      ],
+      [
+        {
+          "text": "The experiments can continue after employment begins.",
+          "translation": "就业开始后，实验可以继续进行。"
+        },
+        {
+          "text": "An initial role supplies evidence about preferred tasks, but it need not define the next decade.",
+          "translation": "初始角色提供了关于首选任务的证据，但它不需要定义下一个十年。"
+        },
+        {
+          "text": "Workers can request a project with another team, develop an adjacent skill or examine which parts of the role consistently provide energy.",
+          "translation": "员工可以请求与另一个团队一起开展项目，发展相邻技能或检查角色的哪些部分始终提供能量。"
+        },
+        {
+          "text": "Career planning then becomes periodic review, not a single irreversible decision made at the end of school.",
+          "translation": "职业规划就变成了定期回顾，而不是在学业结束时做出的不可逆转的决定。"
+        }
+      ]
     ]
   }
 }

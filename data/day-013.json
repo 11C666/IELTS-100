@@ -153,7 +153,8 @@
         "make a purchase",
         "pay for"
       ],
-      "note": "purchase 较正式，可作名词或动词。"
+      "note": "purchase 较正式，可作名词或动词。",
+      "translation": "buy 可以表达为“购买”“购置”或“付费获得”。"
     },
     {
       "base": "cheap",
@@ -162,7 +163,8 @@
         "inexpensive",
         "low-cost"
       ],
-      "note": "cheap 有时暗示质量差；affordable 更中性。"
+      "note": "cheap 有时暗示质量差；affordable 更中性。",
+      "translation": "cheap 表示便宜，有时暗含质量不高；affordable 表示价格在承受能力之内，inexpensive 表示不昂贵，low-cost 强调成本或售价较低。"
     },
     {
       "base": "good price",
@@ -171,7 +173,8 @@
         "reasonable price",
         "competitive price"
       ],
-      "note": "value for money 同时考虑价格和质量。"
+      "note": "value for money 同时考虑价格和质量。",
+      "translation": "好的价格可以表达为物有所值、价格合理、价格有竞争力。"
     },
     {
       "base": "look at different shops",
@@ -180,7 +183,8 @@
         "compare retailers",
         "explore alternatives"
       ],
-      "note": "shop around 是高频口语。"
+      "note": "shop around 是高频口语。",
+      "translation": "看看不同的商店可以表现为货比三家，比较零售商，探索替代品。"
     },
     {
       "base": "unplanned buying",
@@ -189,7 +193,8 @@
         "spontaneous purchase",
         "buy on impulse"
       ],
-      "note": "buy on impulse 是动词表达。"
+      "note": "buy on impulse 是动词表达。",
+      "translation": "无计划购买可以表述为冲动购买、自发购买、冲动购买。"
     },
     {
       "base": "send back",
@@ -198,7 +203,8 @@
         "request an exchange",
         "seek a refund"
       ],
-      "note": "退货、换货和退款不是完全同义。"
+      "note": "退货、换货和退款不是完全同义。",
+      "translation": "寄回可以表示为退回物品、请求换货、寻求退款。"
     },
     {
       "base": "last a long time",
@@ -207,7 +213,8 @@
         "have a long lifespan",
         "stand up to regular use"
       ],
-      "note": "stand up to 强调经受使用。"
+      "note": "stand up to 强调经受使用。",
+      "translation": "last a long time 可以表达为“耐用”“使用寿命长”或“经得起频繁使用”。"
     },
     {
       "base": "internet shopping",
@@ -216,51 +223,60 @@
         "e-commerce",
         "shop online"
       ],
-      "note": "e-commerce 常指行业或商业模式。"
+      "note": "e-commerce 常指行业或商业模式。",
+      "translation": "网络购物可以表现为网上零售、电子商务、网上购物。"
     }
   ],
   "sentences": [
     {
       "pattern": "Before buying + item, I usually check whether + clause.",
       "cn": "购买某物前，我通常会确认是否……",
-      "example": "Before buying an appliance, I usually check whether replacement parts are available."
+      "example": "Before buying an appliance, I usually check whether replacement parts are available.",
+      "exampleTranslation": "在购买电器之前，我通常会检查是否有可用的替换零件。"
     },
     {
       "pattern": "A lower price does not necessarily mean that + clause.",
       "cn": "更低的价格不一定意味着……",
-      "example": "A lower price does not necessarily mean that a product offers better value."
+      "example": "A lower price does not necessarily mean that a product offers better value.",
+      "exampleTranslation": "较低的价格并不一定意味着产品具有更好的价值。"
     },
     {
       "pattern": "I am more willing to pay extra for + product + if + clause.",
       "cn": "如果……，我更愿意为某产品多付钱。",
-      "example": "I am more willing to pay extra for shoes if they are comfortable and durable."
+      "example": "I am more willing to pay extra for shoes if they are comfortable and durable.",
+      "exampleTranslation": "如果鞋子舒适耐用，我更愿意多付钱。"
     }
   ],
   "expressions": [
     {
       "text": "shop around",
       "cn": "货比三家",
-      "example": "I shopped around before choosing a new laptop."
+      "example": "I shopped around before choosing a new laptop.",
+      "exampleTranslation": "在选择一台新笔记本电脑之前，我货比三家。"
     },
     {
       "text": "buy something on impulse",
       "cn": "冲动购买",
-      "example": "I bought the headphones on impulse and regretted it."
+      "example": "I bought the headphones on impulse and regretted it.",
+      "exampleTranslation": "我一时冲动买了耳机，后来后悔了。"
     },
     {
       "text": "get a good deal",
       "cn": "买到划算的商品",
-      "example": "We booked early and got a good deal."
+      "example": "We booked early and got a good deal.",
+      "exampleTranslation": "我们很早就预订了并且得到了很好的优惠。"
     },
     {
       "text": "worth the money",
       "cn": "值得花这个钱",
-      "example": "The coat was expensive, but it was worth the money."
+      "example": "The coat was expensive, but it was worth the money.",
+      "exampleTranslation": "这件外套很贵，但物有所值。"
     },
     {
       "text": "send something back",
       "cn": "退回商品",
-      "example": "The size was wrong, so I sent it back."
+      "example": "The size was wrong, so I sent it back.",
+      "exampleTranslation": "尺寸不对，所以我把它退回来了。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "make an informed choice",
         "reduce electronic waste"
       ],
-      "argument": "Price and appearance are visible immediately, whereas repairability becomes important only after something fails. A cheap device with no replacement parts may cost more over time than a durable alternative. Clear labels could state whether batteries, screens or common components can be replaced. This would reward manufacturers that design products to last. Better information would help consumers save money and reduce waste simultaneously."
+      "argument": "Price and appearance are visible immediately, whereas repairability becomes important only after something fails. A cheap device with no replacement parts may cost more over time than a durable alternative. Clear labels could state whether batteries, screens or common components can be replaced. This would reward manufacturers that design products to last. Better information would help consumers save money and reduce waste simultaneously.",
+      "viewpointTranslation": "购买前应提供维修信息。",
+      "topicSentenceTranslation": "消费者需要耐久性和维修信息来判断产品的真正价值。",
+      "collocationTranslations": [
+        "预期寿命",
+        "更换零件",
+        "做出明智的选择",
+        "减少电子垃圾"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Price and appearance are visible immediately, whereas repairability becomes important only after something fails.",
+          "translation": "价格和外观是立即可见的，而可修复性只有在出现故障后才变得重要。"
+        },
+        {
+          "text": "A cheap device with no replacement parts may cost more over time than a durable alternative.",
+          "translation": "随着时间的推移，没有替换部件的廉价设备可能比耐用的替代品花费更多。"
+        },
+        {
+          "text": "Clear labels could state whether batteries, screens or common components can be replaced.",
+          "translation": "清晰的标签可以说明是否可以更换电池、屏幕或通用组件。"
+        },
+        {
+          "text": "This would reward manufacturers that design products to last.",
+          "translation": "这将奖励那些设计经久耐用的产品的制造商。"
+        },
+        {
+          "text": "Better information would help consumers save money and reduce waste simultaneously.",
+          "translation": "更好的信息将帮助消费者省钱并同时减少浪费。"
+        }
+      ]
     },
     {
       "viewpoint": "Online reviews are useful but should be read critically.",
@@ -301,19 +347,83 @@
         "artificial review",
         "evaluate a product"
       ],
-      "argument": "Reviews often mention sizing, delivery or long-term use that advertisements ignore. However, extremely positive comments may be paid for, while dissatisfied customers can be more motivated to post than ordinary users. A single average score also hides whether complaints concern the product or the courier. Shoppers should read several detailed reviews and look for repeated observations. Reviews are evidence, but they are not a substitute for judgement."
+      "argument": "Reviews often mention sizing, delivery or long-term use that advertisements ignore. However, extremely positive comments may be paid for, while dissatisfied customers can be more motivated to post than ordinary users. A single average score also hides whether complaints concern the product or the courier. Shoppers should read several detailed reviews and look for repeated observations. Reviews are evidence, but they are not a substitute for judgement.",
+      "viewpointTranslation": "在线评论很有用，但应该谨慎阅读。",
+      "topicSentenceTranslation": "客户评论提供了实用的细节，尽管评级可能会产生误导性的确定性印象。",
+      "collocationTranslations": [
+        "客户反馈",
+        "已验证购买",
+        "人工审核",
+        "评估产品"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Reviews often mention sizing, delivery or long-term use that advertisements ignore.",
+          "translation": "评论中经常提到广告忽略的尺寸、交付或长期使用。"
+        },
+        {
+          "text": "However, extremely positive comments may be paid for, while dissatisfied customers can be more motivated to post than ordinary users.",
+          "translation": "然而，极其积极的评论可能是付费的，而不满意的客户可能比普通用户更有动力发帖。"
+        },
+        {
+          "text": "A single average score also hides whether complaints concern the product or the courier.",
+          "translation": "单一平均分还隐藏了投诉是否涉及产品或快递员。"
+        },
+        {
+          "text": "Shoppers should read several detailed reviews and look for repeated observations.",
+          "translation": "购物者应该阅读几篇详细的评论并寻找重复的观察结果。"
+        },
+        {
+          "text": "Reviews are evidence, but they are not a substitute for judgement.",
+          "translation": "评论是证据，但不能代替判断。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you make a shopping list before buying things?",
-      "answer": "For groceries, yes, because otherwise I forget one essential item and buy three things I don’t need. I keep a simple list on my phone and add to it during the week. For clothes, I don’t use a written list, but I normally decide what gap I’m trying to fill before entering a shop."
+      "answer": "For groceries, yes, because otherwise I forget one essential item and buy three things I don’t need. I keep a simple list on my phone and add to it during the week. For clothes, I don’t use a written list, but I normally decide what gap I’m trying to fill before entering a shop.",
+      "questionTranslation": "你买东西之前会列一份购物清单吗？",
+      "answerSentences": [
+        {
+          "text": "For groceries, yes, because otherwise I forget one essential item and buy three things I don’t need.",
+          "translation": "对于杂货，是的，因为否则我会忘记一件必需品并购买三件我不需要的东西。"
+        },
+        {
+          "text": "I keep a simple list on my phone and add to it during the week.",
+          "translation": "我在手机上保存一份简单的清单，并在一周中随时往里面添加物品。"
+        },
+        {
+          "text": "For clothes, I don’t use a written list, but I normally decide what gap I’m trying to fill before entering a shop.",
+          "translation": "买衣服时我不会列书面清单，但进店前通常会先想好衣橱里缺少什么。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "What was the last thing you bought that you were pleased with?",
-      "answer": "It was a small desk lamp with adjustable brightness. I bought it because my old one produced a harsh light in the evening. This one takes up very little space and makes reading much more comfortable. It wasn’t a dramatic purchase, but I use it every day, so it has turned out to be excellent value."
+      "answer": "It was a small desk lamp with adjustable brightness. I bought it because my old one produced a harsh light in the evening. This one takes up very little space and makes reading much more comfortable. It wasn’t a dramatic purchase, but I use it every day, so it has turned out to be excellent value.",
+      "questionTranslation": "您最近买的令您满意的东西是什么？",
+      "answerSentences": [
+        {
+          "text": "It was a small desk lamp with adjustable brightness.",
+          "translation": "那是一盏亮度可调的小台灯。"
+        },
+        {
+          "text": "I bought it because my old one produced a harsh light in the evening.",
+          "translation": "我买它是因为我的旧灯在晚上会产生刺眼的光线。"
+        },
+        {
+          "text": "This one takes up very little space and makes reading much more comfortable.",
+          "translation": "它占用的空间很小，使阅读更加舒适。"
+        },
+        {
+          "text": "It wasn’t a dramatic purchase, but I use it every day, so it has turned out to be excellent value.",
+          "translation": "这件东西并不起眼，但我每天都用，所以事实证明这笔钱花得很值。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +460,103 @@
         "answer": "B",
         "explanation": "The final sentence defines a bargain in these terms."
       }
+    ],
+    "titleTranslation": "为什么折扣感觉像是一种收获",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A price reduction changes more than the amount paid.",
+          "translation": "降价的变化大于支付金额的变化。"
+        },
+        {
+          "text": "It creates a reference point: shoppers compare the sale price with the original figure and experience the difference as a gain.",
+          "translation": "它创建了一个参考点：购物者将销售价格与原始价格进行比较，并将差异视为收益。"
+        },
+        {
+          "text": "This can make an unwanted item feel attractive.",
+          "translation": "这可以让不需要的物品变得有吸引力。"
+        },
+        {
+          "text": "The question quietly shifts from ‘Do I need this?’",
+          "translation": "问题悄然从“我需要这个吗？”转变为“我需要这个吗？”"
+        },
+        {
+          "text": "to ‘How much am I saving?’, even though buying nothing would save more.",
+          "translation": "“我能节省多少钱？”，即使什么都不买就能节省更多。"
+        }
+      ],
+      [
+        {
+          "text": "Retailers have long used temporary discounts to create urgency.",
+          "translation": "零售商长期以来一直利用临时折扣来制造紧迫感。"
+        },
+        {
+          "text": "A deadline suggests that delay has a cost, while a low-stock message implies competition from other buyers.",
+          "translation": "截止日期表明延迟是有成本的，而库存不足的信息则意味着来自其他买家的竞争。"
+        },
+        {
+          "text": "These signals may contain genuine information, but they also reduce the time available for reflection.",
+          "translation": "这些信号可能包含真实信息，但它们也减少了可用于反射的时间。"
+        },
+        {
+          "text": "Online shops can repeat them continuously through countdowns, notifications and personalised offers.",
+          "translation": "网上商店可以通过倒计时、通知和个性化优惠不断重复这些活动。"
+        }
+      ],
+      [
+        {
+          "text": "Not every discounted purchase is irrational.",
+          "translation": "并非所有打折购买都是不合理的。"
+        },
+        {
+          "text": "Seasonal sales allow households to buy planned items for less, and reduced food near its expiry date can benefit both the shopper and retailer.",
+          "translation": "季节性销售使家庭能够以更低的价格购买计划中的商品，而在临近保质期时减少食品的供应对购物者和零售商都有利。"
+        },
+        {
+          "text": "The crucial difference is whether the need existed before the offer appeared.",
+          "translation": "关键的区别在于，在报价出现之前需求是否存在。"
+        },
+        {
+          "text": "A written list or a waiting period restores the original question by separating the product from the excitement of the deal.",
+          "translation": "书面清单或等待期将产品与交易的兴奋点分开，从而恢复了最初的问题。"
+        }
+      ],
+      [
+        {
+          "text": "Consumers also judge discounts poorly when the starting price is unfamiliar.",
+          "translation": "当起始价格不熟悉时，消费者也会对折扣做出不好的判断。"
+        },
+        {
+          "text": "A claim of ‘half price’ is meaningful only if the earlier price was genuine and comparable products cost more.",
+          "translation": "仅当先前的价格是正品并且同类产品的价格更高时，“半价”的主张才有意义。"
+        },
+        {
+          "text": "Price-comparison tools help, but quality, delivery and lifespan still matter.",
+          "translation": "价格比较工具有所帮助，但质量、交付和使用寿命仍然很重要。"
+        },
+        {
+          "text": "A bargain is not simply an item with a large percentage beside it; it is a suitable product whose total value remains good after the promotional language is removed.",
+          "translation": "真正划算的商品，不只是折扣幅度大；去掉促销话术后，它仍应是合适的产品，并且整体价值良好。"
+        }
+      ],
+      [
+        {
+          "text": "Payment design creates another moment for reflection or haste.",
+          "translation": "支付设计创造了另一个反思或匆忙的时刻。"
+        },
+        {
+          "text": "Stored card details and one-click checkout remove useful friction, making purchase almost immediate.",
+          "translation": "存储的卡详细信息和一键结帐消除了有用的麻烦，使购买几乎可以立即完成。"
+        },
+        {
+          "text": "Some shoppers deliberately leave items in an online basket overnight.",
+          "translation": "一些购物者故意将商品放在网上购物篮中过夜。"
+        },
+        {
+          "text": "The delay is short enough not to disrupt a necessary purchase but long enough for the excitement of scarcity or a discount to weaken.",
+          "translation": "延迟时间足够短，不会影响必要的购买，但时间足够长，足以削弱稀缺或折扣带来的兴奋感。"
+        }
+      ]
     ]
   }
 }

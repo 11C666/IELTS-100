@@ -153,7 +153,8 @@
         "be physically active",
         "take regular exercise"
       ],
-      "note": "work out 偏口语；physical activity 范围更广。"
+      "note": "work out 偏口语；physical activity 范围更广。",
+      "translation": "锻炼可以表达为锻炼、身体活动、定期锻炼。"
     },
     {
       "base": "get fit",
@@ -162,7 +163,8 @@
         "get into shape",
         "build physical capacity"
       ],
-      "note": "get into shape 是自然口语。"
+      "note": "get into shape 是自然口语。",
+      "translation": "get fit 可以表达为“改善体能”“塑造体形”或“增强身体素质”。"
     },
     {
       "base": "strong",
@@ -171,7 +173,8 @@
         "powerful",
         "have good muscular strength"
       ],
-      "note": "powerful 常用于动作或运动员。"
+      "note": "powerful 常用于动作或运动员。",
+      "translation": "强可以表示身体强壮、有力、有良好的肌肉力量。"
     },
     {
       "base": "not active",
@@ -180,7 +183,8 @@
         "physically inactive",
         "do little exercise"
       ],
-      "note": "sedentary 常描述生活方式或工作。"
+      "note": "sedentary 常描述生活方式或工作。",
+      "translation": "不活跃可以表现为久坐、身体不活动、很少运动。"
     },
     {
       "base": "continue longer",
@@ -189,7 +193,8 @@
         "improve stamina",
         "sustain effort"
       ],
-      "note": "stamina 和 endurance 在日常语境常接近。"
+      "note": "stamina 和 endurance 在日常语境常接近。",
+      "translation": "持续更长时间可以表示为增强耐力、提高耐力、持续努力。"
     },
     {
       "base": "avoid injury",
@@ -198,7 +203,8 @@
         "reduce injury risk",
         "train safely"
       ],
-      "note": "injury risk 是自然搭配。"
+      "note": "injury risk 是自然搭配。",
+      "translation": "避免伤害可以表述为预防伤害、降低伤害风险、安全训练。"
     },
     {
       "base": "play for fun",
@@ -207,7 +213,8 @@
         "play casually",
         "do sport for enjoyment"
       ],
-      "note": "recreationally 与竞技性相对。"
+      "note": "recreationally 与竞技性相对。",
+      "translation": "play for fun 可以表达为“休闲参与”“随意玩一玩”或“为了享受乐趣而运动”。"
     },
     {
       "base": "team member",
@@ -216,51 +223,60 @@
         "fellow player",
         "member of the squad"
       ],
-      "note": "squad 常用于正式队伍。"
+      "note": "squad 常用于正式队伍。",
+      "translation": "团队成员可以表示为队友、同伴、球队成员。"
     }
   ],
   "sentences": [
     {
       "pattern": "The main reason I keep exercising is not + noun, but + noun.",
       "cn": "我坚持锻炼的主要原因不是……，而是……",
-      "example": "The main reason I keep exercising is not appearance, but the energy it gives me."
+      "example": "The main reason I keep exercising is not appearance, but the energy it gives me.",
+      "exampleTranslation": "我坚持锻炼的主要原因不是外表，而是它给我的能量。"
     },
     {
       "pattern": "People are more likely to stick to a training routine if + clause.",
       "cn": "如果……，人们更可能坚持训练计划。",
-      "example": "People are more likely to stick to a training routine if the activity is convenient and enjoyable."
+      "example": "People are more likely to stick to a training routine if the activity is convenient and enjoyable.",
+      "exampleTranslation": "如果活动方便且令人愉快，人们就更有可能坚持日常训练。"
     },
     {
       "pattern": "While competitive sport teaches + noun, it can also create + noun.",
       "cn": "竞技体育在培养……的同时，也可能带来……",
-      "example": "While competitive sport teaches discipline, it can also create excessive pressure."
+      "example": "While competitive sport teaches discipline, it can also create excessive pressure.",
+      "exampleTranslation": "虽然竞技体育可以培养纪律性，但它也会造成过度的压力。"
     }
   ],
   "expressions": [
     {
       "text": "stay in shape",
       "cn": "保持良好体形和状态",
-      "example": "I swim twice a week to stay in shape."
+      "example": "I swim twice a week to stay in shape.",
+      "exampleTranslation": "我每周游泳两次以保持体形。"
     },
     {
       "text": "work out regularly",
       "cn": "规律锻炼",
-      "example": "I work out regularly, but the sessions are usually short."
+      "example": "I work out regularly, but the sessions are usually short.",
+      "exampleTranslation": "我经常锻炼，但锻炼时间通常很短。"
     },
     {
       "text": "get back into training",
       "cn": "恢复训练",
-      "example": "I’m trying to get back into training after a long break."
+      "example": "I’m trying to get back into training after a long break.",
+      "exampleTranslation": "长时间休息后，我正在努力恢复训练。"
     },
     {
       "text": "push myself too hard",
       "cn": "把自己逼得太狠",
-      "example": "I pushed myself too hard and needed several days to recover."
+      "example": "I pushed myself too hard and needed several days to recover.",
+      "exampleTranslation": "我把自己逼得太狠了，需要休息几天才能恢复。"
     },
     {
       "text": "take it at my own pace",
       "cn": "按自己的节奏进行",
-      "example": "I’m a beginner, so I take it at my own pace."
+      "example": "I’m a beginner, so I take it at my own pace.",
+      "exampleTranslation": "我是初学者，所以我按照自己的节奏进行。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "build safe cycle routes",
         "reduce health risks"
       ],
-      "argument": "Many people understand the value of exercise but struggle to find extra time for a gym. Safe pavements, cycle routes and accessible parks allow movement to become part of commuting or family leisure. These facilities benefit residents across different income groups. They may also reduce later public spending associated with inactivity. Urban planning should therefore make active choices easy rather than relying only on health advice."
+      "argument": "Many people understand the value of exercise but struggle to find extra time for a gym. Safe pavements, cycle routes and accessible parks allow movement to become part of commuting or family leisure. These facilities benefit residents across different income groups. They may also reduce later public spending associated with inactivity. Urban planning should therefore make active choices easy rather than relying only on health advice.",
+      "viewpointTranslation": "城市应该让日常锻炼变得方便。",
+      "topicSentenceTranslation": "当身体活动自然地融入日常生活中时，公共健康就会得到改善。",
+      "collocationTranslations": [
+        "过积极的生活方式",
+        "提供公共设施",
+        "建立安全的自行车道",
+        "降低健康风险"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Many people understand the value of exercise but struggle to find extra time for a gym.",
+          "translation": "许多人了解锻炼的价值，但很难找到额外的时间去健身房。"
+        },
+        {
+          "text": "Safe pavements, cycle routes and accessible parks allow movement to become part of commuting or family leisure.",
+          "translation": "安全的人行道、自行车道和无障碍公园让出行成为通勤或家庭休闲的一部分。"
+        },
+        {
+          "text": "These facilities benefit residents across different income groups.",
+          "translation": "这些设施使不同收入群体的居民受益。"
+        },
+        {
+          "text": "They may also reduce later public spending associated with inactivity.",
+          "translation": "它们还可能减少随后与不活动相关的公共支出。"
+        },
+        {
+          "text": "Urban planning should therefore make active choices easy rather than relying only on health advice.",
+          "translation": "因此，城市规划应该让积极的选择变得容易，而不是仅仅依赖健康建议。"
+        }
+      ]
     },
     {
       "viewpoint": "Youth sport should emphasise participation as well as competition.",
@@ -301,19 +347,87 @@
         "place pressure on children",
         "maintain lifelong fitness"
       ],
-      "argument": "Competitive matches can teach discipline and help talented players improve. However, children who develop later or make mistakes may receive little playing time. If they associate sport mainly with embarrassment, they are unlikely to remain active as adults. Schools should provide competitive teams alongside inclusive sessions where progress and enjoyment matter. A broader model can preserve excellence without excluding the majority."
+      "argument": "Competitive matches can teach discipline and help talented players improve. However, children who develop later or make mistakes may receive little playing time. If they associate sport mainly with embarrassment, they are unlikely to remain active as adults. Schools should provide competitive teams alongside inclusive sessions where progress and enjoyment matter. A broader model can preserve excellence without excluding the majority.",
+      "viewpointTranslation": "青少年体育运动既要强调参与，又要强调竞争。",
+      "topicSentenceTranslation": "过度关注胜利可能会让缺乏自信的孩子放弃锻炼。",
+      "collocationTranslations": [
+        "鼓励广泛参与",
+        "发展团队合作",
+        "给孩子压力",
+        "保持终生健康"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Competitive matches can teach discipline and help talented players improve.",
+          "translation": "竞技比赛可以培养纪律性并帮助有天赋的球员提高。"
+        },
+        {
+          "text": "However, children who develop later or make mistakes may receive little playing time.",
+          "translation": "然而，发育较晚或犯错误的孩子可能获得的玩耍时间很少。"
+        },
+        {
+          "text": "If they associate sport mainly with embarrassment, they are unlikely to remain active as adults.",
+          "translation": "如果他们主要将运动与尴尬联系在一起，那么他们成年后就不太可能保持活跃。"
+        },
+        {
+          "text": "Schools should provide competitive teams alongside inclusive sessions where progress and enjoyment matter.",
+          "translation": "学校应该提供有竞争力的团队以及包容性课程，其中进步和享受很重要。"
+        },
+        {
+          "text": "A broader model can preserve excellence without excluding the majority.",
+          "translation": "更广泛的模型可以在不排除大多数人的情况下保持卓越。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What kind of exercise do you enjoy?",
-      "answer": "I enjoy swimming because it works the whole body without putting too much pressure on my knees. I’m not particularly fast, so I usually choose a quiet lane and swim at a steady pace. It also has a calming effect because I can’t check my phone or think about work while I’m in the water."
+      "answer": "I enjoy swimming because it works the whole body without putting too much pressure on my knees. I’m not particularly fast, so I usually choose a quiet lane and swim at a steady pace. It also has a calming effect because I can’t check my phone or think about work while I’m in the water.",
+      "questionTranslation": "你喜欢什么样的运动？",
+      "answerSentences": [
+        {
+          "text": "I enjoy swimming because it works the whole body without putting too much pressure on my knees.",
+          "translation": "我喜欢游泳，因为它可以锻炼整个身体，而不会给我的膝盖带来太大的压力。"
+        },
+        {
+          "text": "I’m not particularly fast, so I usually choose a quiet lane and swim at a steady pace.",
+          "translation": "我的速度并不特别快，所以通常会选一条人少的泳道，保持稳定的节奏游。"
+        },
+        {
+          "text": "It also has a calming effect because I can’t check my phone or think about work while I’m in the water.",
+          "translation": "它还具有镇静作用，因为我在水里时无法查看手机或思考工作。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Did you play much sport when you were a child?",
-      "answer": "Yes, but mostly informal games rather than organised training. After school, a group of us played football in a small park until it got dark. Nobody kept proper scores and the teams changed constantly. I wasn’t especially talented, but I enjoyed the social side. Looking back, it was an easy way to stay active without thinking of it as exercise."
+      "answer": "Yes, but mostly informal games rather than organised training. After school, a group of us played football in a small park until it got dark. Nobody kept proper scores and the teams changed constantly. I wasn’t especially talented, but I enjoyed the social side. Looking back, it was an easy way to stay active without thinking of it as exercise.",
+      "questionTranslation": "你小时候参加过很多运动吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, but mostly informal games rather than organised training.",
+          "translation": "是的，但主要是非正式的比赛，而不是有组织的训练。"
+        },
+        {
+          "text": "After school, a group of us played football in a small park until it got dark.",
+          "translation": "放学后，我们一群人在一个小公园里踢足球，直到天黑。"
+        },
+        {
+          "text": "Nobody kept proper scores and the teams changed constantly.",
+          "translation": "没人认真记比分，队伍也一直在重新组合。"
+        },
+        {
+          "text": "I wasn’t especially talented, but I enjoyed the social side.",
+          "translation": "我并没有特别出色的运动天赋，但很喜欢其中的社交氛围。"
+        },
+        {
+          "text": "Looking back, it was an easy way to stay active without thinking of it as exercise.",
+          "translation": "回想起来，这是一种保持活跃的简单方法，而不是将其视为锻炼。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,107 @@
         "answer": "week",
         "explanation": "The final paragraph provides the answer."
       }
+    ],
+    "titleTranslation": "为什么锻炼计划经常被放弃",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "January brings a familiar rise in gym memberships, training applications and ambitious exercise plans.",
+          "translation": "一月份，健身房会员数量、培训申请和雄心勃勃的锻炼计划都出现了常见的增长。"
+        },
+        {
+          "text": "Within weeks, many of these plans have disappeared.",
+          "translation": "几周之内，其中许多计划就消失了。"
+        },
+        {
+          "text": "The usual explanation is a lack of willpower, but research into habit formation suggests a more practical problem: the routine often demands too much change at once.",
+          "translation": "通常的解释是缺乏意志力，但对习惯形成的研究表明了一个更实际的问题：常规通常需要立即做出太多改变。"
+        },
+        {
+          "text": "A distant gym, an hour-long session and an unfamiliar programme create several opportunities to stop.",
+          "translation": "遥远的健身房、长达一小时的训练和陌生的项目创造了很多停下来的机会。"
+        }
+      ],
+      [
+        {
+          "text": "Regular activity becomes easier when the starting action is clear and convenient.",
+          "translation": "当开始动作清晰且方便时，常规活动就会变得更加容易。"
+        },
+        {
+          "text": "Leaving walking shoes beside the door removes one small decision; arranging to meet a friend creates a social commitment.",
+          "translation": "把步行鞋放在门边就可以消除一个小决定；安排与朋友见面会产生社会承诺。"
+        },
+        {
+          "text": "These details seem minor compared with motivation, yet they shape whether exercise begins on a tired or busy day.",
+          "translation": "与动机相比，这些细节似乎微不足道，但它们决定了锻炼是在疲惫的一天还是忙碌的一天开始。"
+        },
+        {
+          "text": "Once someone has started, continuing for another ten minutes is often easier than beginning from nothing.",
+          "translation": "一旦有人开始，再继续十分钟通常比从零开始更容易。"
+        }
+      ],
+      [
+        {
+          "text": "Intensity also affects consistency.",
+          "translation": "强度也会影响一致性。"
+        },
+        {
+          "text": "New exercisers sometimes copy routines designed for experienced athletes, then suffer extreme soreness or a minor injury.",
+          "translation": "新锻炼者有时会模仿为经验丰富的运动员设计的锻炼方式，然后会遭受极度酸痛或轻伤。"
+        },
+        {
+          "text": "The unpleasant result confirms their belief that exercise is difficult.",
+          "translation": "这个令人不快的结果证实了他们的信念：锻炼是困难的。"
+        },
+        {
+          "text": "Gradual progression produces less dramatic early improvement, but it allows muscles, joints and confidence to adapt.",
+          "translation": "循序渐进的早期改善不会那么显着，但它可以让肌肉、关节和信心适应。"
+        },
+        {
+          "text": "Recovery is part of training rather than time lost from it.",
+          "translation": "恢复是训练的一部分，而不是因训练而损失的时间。"
+        }
+      ],
+      [
+        {
+          "text": "No single activity suits everyone.",
+          "translation": "没有哪一项活动适合所有人。"
+        },
+        {
+          "text": "Competitive classes motivate some people, while others prefer walking alone or learning a skill without comparison.",
+          "translation": "竞争性课程会激励一些人，而另一些人则更喜欢独自行走或在没有比较的情况下学习技能。"
+        },
+        {
+          "text": "Enjoyment is not an unimportant extra: an activity repeated for months is more valuable than a theoretically perfect workout abandoned after a week.",
+          "translation": "享受并不是一个不重要的额外活动：重复数月的活动比一周后放弃的理论上完美的锻炼更有价值。"
+        },
+        {
+          "text": "Sustainable fitness plans therefore begin with honest questions about schedule, access and preference.",
+          "translation": "因此，可持续的健身计划首先要诚实地询问日程安排、参与方式和偏好。"
+        },
+        {
+          "text": "Discipline matters, but good design reduces how often discipline has to rescue an inconvenient plan.",
+          "translation": "纪律很重要，但良好的设计可以减少纪律拯救不方便的计划的频率。"
+        }
+      ],
+      [
+        {
+          "text": "Tracking progress can encourage consistency when the measure matches the goal.",
+          "translation": "当措施与目标相符时，跟踪进度可以鼓励一致性。"
+        },
+        {
+          "text": "A runner may record distance, whereas someone exercising for stress relief may pay more attention to mood and sleep.",
+          "translation": "跑步者可能会记录距离，而为了缓解压力而锻炼的人可能会更关注情绪和睡眠。"
+        },
+        {
+          "text": "Problems arise when a convenient number, such as calories or daily steps, becomes the only definition of success.",
+          "translation": "当卡路里或每日步数等方便的数字成为成功的唯一定义时，就会出现问题。"
+        },
+        {
+          "text": "Measurement should support the activity rather than control it.",
+          "translation": "测量应该支持活动而不是控制活动。"
+        }
+      ]
     ]
   }
 }

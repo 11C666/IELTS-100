@@ -153,7 +153,8 @@
         "warm",
         "easy to talk to"
       ],
-      "note": "approachable 强调让人愿意接近和交谈。"
+      "note": "approachable 强调让人愿意接近和交谈。",
+      "translation": "友好可以表达为平易近人、热情、容易交谈。"
     },
     {
       "base": "quiet",
@@ -162,7 +163,8 @@
         "soft-spoken",
         "introverted"
       ],
-      "note": "quiet 不一定等于 introverted；内向与社交偏好有关。"
+      "note": "quiet 不一定等于 introverted；内向与社交偏好有关。",
+      "translation": "安静可以表达为含蓄、轻声细语、内向。"
     },
     {
       "base": "confident",
@@ -171,7 +173,8 @@
         "comfortable with oneself",
         "assertive"
       ],
-      "note": "assertive 强调能清楚表达立场，并非强势。"
+      "note": "assertive 强调能清楚表达立场，并非强势。",
+      "translation": "自信可以表达为自信、对自己感到满意、自信。"
     },
     {
       "base": "kind",
@@ -180,7 +183,8 @@
         "thoughtful",
         "compassionate"
       ],
-      "note": "compassionate 尤其强调对困难中的人有同情心。"
+      "note": "compassionate 尤其强调对困难中的人有同情心。",
+      "translation": "kind 可以表达为“体贴的”“关心他人的”或“富有同情心的”。"
     },
     {
       "base": "changeable",
@@ -189,7 +193,8 @@
         "flexible",
         "open to change"
       ],
-      "note": "adaptable 通常是积极含义。"
+      "note": "adaptable 通常是积极含义。",
+      "translation": "多变可以表达为适应性强、灵活、乐于改变。"
     },
     {
       "base": "hard-working",
@@ -198,7 +203,8 @@
         "committed",
         "willing to make an effort"
       ],
-      "note": "diligent 较正式。"
+      "note": "diligent 较正式。",
+      "translation": "勤奋可以表达为勤奋、忠诚、愿意付出努力。"
     },
     {
       "base": "honest about oneself",
@@ -207,7 +213,8 @@
         "reflective",
         "aware of one’s limitations"
       ],
-      "note": "reflective 强调愿意回顾和思考。"
+      "note": "reflective 强调愿意回顾和思考。",
+      "translation": "对自己诚实可以表现为自我意识、反思、意识到自己的局限性。"
     },
     {
       "base": "determined",
@@ -216,51 +223,60 @@
         "strong-willed",
         "motivated"
       ],
-      "note": "strong-willed 有时也暗示不易被说服。"
+      "note": "strong-willed 有时也暗示不易被说服。",
+      "translation": "决心可以表达为执着、意志坚强、积极进取。"
     }
   ],
   "sentences": [
     {
       "pattern": "People who are + adjective + tend to + verb, although + clause.",
       "cn": "性格……的人往往会……，不过……",
-      "example": "People who are naturally curious tend to ask more questions, although they may not accept simple answers."
+      "example": "People who are naturally curious tend to ask more questions, although they may not accept simple answers.",
+      "exampleTranslation": "天生好奇的人往往会提出更多问题，尽管他们可能不接受简单的答案。"
     },
     {
       "pattern": "Being + personality trait + can be an advantage when + clause.",
       "cn": "在……时，具备某种性格可能是一项优势。",
-      "example": "Being adaptable can be an advantage when someone starts a new job."
+      "example": "Being adaptable can be an advantage when someone starts a new job.",
+      "exampleTranslation": "当某人开始新工作时，适应能力可能是一个优势。"
     },
     {
       "pattern": "A person may appear + adjective + at first, but + clause.",
       "cn": "一个人起初可能显得……，但……",
-      "example": "A person may appear reserved at first, but become very talkative among close friends."
+      "example": "A person may appear reserved at first, but become very talkative among close friends.",
+      "exampleTranslation": "一个人一开始可能会显得内向，但在亲密朋友中却变得非常健谈。"
     }
   ],
   "expressions": [
     {
       "text": "come out of my shell",
       "cn": "变得不再害羞",
-      "example": "Joining the drama club helped me come out of my shell."
+      "example": "Joining the drama club helped me come out of my shell.",
+      "exampleTranslation": "加入戏剧俱乐部帮助我摆脱了束缚。"
     },
     {
       "text": "speak my mind",
       "cn": "坦率表达想法",
-      "example": "I speak my mind, but I try not to be rude."
+      "example": "I speak my mind, but I try not to be rude.",
+      "exampleTranslation": "我说出自己的想法，但我尽量不表现得粗鲁。"
     },
     {
       "text": "keep an open mind",
       "cn": "保持开放心态",
-      "example": "I try to keep an open mind when someone disagrees with me."
+      "example": "I try to keep an open mind when someone disagrees with me.",
+      "exampleTranslation": "当有人不同意我的观点时，我会尽量保持开放的态度。"
     },
     {
       "text": "have a short temper",
       "cn": "脾气急",
-      "example": "I had a short temper as a teenager, but I’m calmer now."
+      "example": "I had a short temper as a teenager, but I’m calmer now.",
+      "exampleTranslation": "我年轻时脾气暴躁，但现在平静多了。"
     },
     {
       "text": "be comfortable in my own skin",
       "cn": "对真实的自己感到自在",
-      "example": "I’ve become more comfortable in my own skin with age."
+      "example": "I’ve become more comfortable in my own skin with age.",
+      "exampleTranslation": "随着年龄的增长，我对自己的皮肤变得越来越舒服。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "adapt to circumstances",
         "develop social confidence"
       ],
-      "argument": "Some children are naturally cautious or energetic from an early age. However, family responses, school experiences and later responsibilities influence how these tendencies are expressed. A reserved child who receives patient encouragement may gradually become confident in group discussions. Conversely, repeated criticism can make an outgoing child reluctant to speak. Personality should therefore be understood as developing rather than completely fixed at birth."
+      "argument": "Some children are naturally cautious or energetic from an early age. However, family responses, school experiences and later responsibilities influence how these tendencies are expressed. A reserved child who receives patient encouragement may gradually become confident in group discussions. Conversely, repeated criticism can make an outgoing child reluctant to speak. Personality should therefore be understood as developing rather than completely fixed at birth.",
+      "viewpointTranslation": "个性是由经验和生物学塑造的。",
+      "topicSentenceTranslation": "尽管人们可能生来就有某些倾向，但他们的行为是通过社会经验发展起来的。",
+      "collocationTranslations": [
+        "天生的倾向",
+        "幼儿期经历",
+        "适应环境",
+        "培养社会信心"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Some children are naturally cautious or energetic from an early age.",
+          "translation": "有些孩子从小就天生谨慎或精力充沛。"
+        },
+        {
+          "text": "However, family responses, school experiences and later responsibilities influence how these tendencies are expressed.",
+          "translation": "然而，家庭反应、学校经历和后来的责任会影响这些倾向的表达方式。"
+        },
+        {
+          "text": "A reserved child who receives patient encouragement may gradually become confident in group discussions.",
+          "translation": "一个内向的孩子如果得到耐心的鼓励，可能会逐渐在小组讨论中变得自信。"
+        },
+        {
+          "text": "Conversely, repeated criticism can make an outgoing child reluctant to speak.",
+          "translation": "相反，反复的批评会让外向的孩子不愿意说话。"
+        },
+        {
+          "text": "Personality should therefore be understood as developing rather than completely fixed at birth.",
+          "translation": "因此，人格应该被理解为发展中的而不是出生时就完全固定的。"
+        }
+      ]
     },
     {
       "viewpoint": "Employers should not favour extroverts automatically.",
@@ -301,19 +347,87 @@
         "work independently",
         "contribute thoughtful ideas"
       ],
-      "argument": "Outgoing applicants often speak easily and form a quick connection with interviewers. Yet many jobs also require concentration, careful listening and independent judgement. A reserved employee may contribute fewer ideas in a large meeting but produce excellent analysis afterwards. Recruitment should use work samples and structured criteria instead of relying heavily on social confidence. This would allow different personality strengths to be recognised fairly."
+      "argument": "Outgoing applicants often speak easily and form a quick connection with interviewers. Yet many jobs also require concentration, careful listening and independent judgement. A reserved employee may contribute fewer ideas in a large meeting but produce excellent analysis afterwards. Recruitment should use work samples and structured criteria instead of relying heavily on social confidence. This would allow different personality strengths to be recognised fairly.",
+      "viewpointTranslation": "雇主不应该自动偏向外向的人。",
+      "topicSentenceTranslation": "自信的面试风格并不一定预示着每个职位都会有出色的表现。",
+      "collocationTranslations": [
+        "给人留下深刻的印象",
+        "评估工作表现",
+        "独立工作",
+        "贡献深思熟虑的想法"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Outgoing applicants often speak easily and form a quick connection with interviewers.",
+          "translation": "即将离职的应聘者通常能够轻松地讲话并与面试官建立快速的联系。"
+        },
+        {
+          "text": "Yet many jobs also require concentration, careful listening and independent judgement.",
+          "translation": "然而，许多工作也需要集中注意力、仔细倾听和独立判断。"
+        },
+        {
+          "text": "A reserved employee may contribute fewer ideas in a large meeting but produce excellent analysis afterwards.",
+          "translation": "内向的员工可能会在大型会议中提出较少的想法，但会在会议后做出出色的分析。"
+        },
+        {
+          "text": "Recruitment should use work samples and structured criteria instead of relying heavily on social confidence.",
+          "translation": "招聘应使用工作样本和结构化标准，而不是严重依赖社会信心。"
+        },
+        {
+          "text": "This would allow different personality strengths to be recognised fairly.",
+          "translation": "这将使不同的个性优势得到公平的认可。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Would you describe yourself as an outgoing person?",
-      "answer": "Not especially. I’m comfortable talking to people I know, but in a large group I usually listen for a while before joining in. I don’t think that means I’m shy; I simply prefer having something meaningful to say. In a small group, or when the subject interests me, I can actually be quite talkative."
+      "answer": "Not especially. I’m comfortable talking to people I know, but in a large group I usually listen for a while before joining in. I don’t think that means I’m shy; I simply prefer having something meaningful to say. In a small group, or when the subject interests me, I can actually be quite talkative.",
+      "questionTranslation": "您认为自己是一个外向的人吗？",
+      "answerSentences": [
+        {
+          "text": "Not especially.",
+          "translation": "不是特别。"
+        },
+        {
+          "text": "I’m comfortable talking to people I know, but in a large group I usually listen for a while before joining in.",
+          "translation": "我很乐意与我认识的人交谈，但在一大群人中，我通常会先听一会儿再加入。"
+        },
+        {
+          "text": "I don’t think that means I’m shy; I simply prefer having something meaningful to say.",
+          "translation": "我不认为这代表我害羞；我只是更愿意在确实有内容可说时开口。"
+        },
+        {
+          "text": "In a small group, or when the subject interests me, I can actually be quite talkative.",
+          "translation": "在一个小团体中，或者当我对某个话题感兴趣时，我实际上可以很健谈。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Is there a personality trait you would like to develop?",
-      "answer": "I’d like to be more patient when plans change unexpectedly. I’m organised, which is useful, but I can become irritated when someone is late or a task takes longer than expected. I’ve been trying to leave more spare time in my schedule. That small change helps me respond more calmly instead of blaming people immediately."
+      "answer": "I’d like to be more patient when plans change unexpectedly. I’m organised, which is useful, but I can become irritated when someone is late or a task takes longer than expected. I’ve been trying to leave more spare time in my schedule. That small change helps me respond more calmly instead of blaming people immediately.",
+      "questionTranslation": "您有想要发展的人格特质吗？",
+      "answerSentences": [
+        {
+          "text": "I’d like to be more patient when plans change unexpectedly.",
+          "translation": "当计划意外改变时，我想更加耐心。"
+        },
+        {
+          "text": "I’m organised, which is useful, but I can become irritated when someone is late or a task takes longer than expected.",
+          "translation": "我很有条理，这很有用，但当有人迟到或某项任务花费的时间比预期长时，​​我会感到恼火。"
+        },
+        {
+          "text": "I’ve been trying to leave more spare time in my schedule.",
+          "translation": "我一直在努力在日程安排中留出更多的空闲时间。"
+        },
+        {
+          "text": "That small change helps me respond more calmly instead of blaming people immediately.",
+          "translation": "这个小小的改变帮助我更冷静地做出反应，而不是立即责怪别人。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,99 @@
         "answer": "work samples",
         "explanation": "The answer appears at the end of Paragraph C."
       }
+    ],
+    "titleTranslation": "第一印象的局限性",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Within seconds of meeting someone, people begin forming judgements about confidence, warmth and trustworthiness.",
+          "translation": "在见到某人的几秒钟内，人们就开始对自信、热情和值得信赖形成判断。"
+        },
+        {
+          "text": "Voice, facial expression, clothing and posture all contribute.",
+          "translation": "声音、面部表情、服装和姿势都有影响。"
+        },
+        {
+          "text": "These rapid impressions once had an obvious practical value: deciding quickly whether a stranger represented a threat could be safer than waiting for complete information.",
+          "translation": "这些快速印象曾经具有明显的实用价值：快速判断陌生人是否构成威胁比等待完整信息更安全。"
+        },
+        {
+          "text": "In modern settings, however, the same mental shortcut can influence interviews, classrooms and social encounters where speed is less important than accuracy.",
+          "translation": "然而，在现代环境中，同样的思维捷径也会影响面试、课堂和社交场合，而这些场合往往更看重判断准确性，而非速度。"
+        }
+      ],
+      [
+        {
+          "text": "First impressions are not random, but neither are they reliable portraits of personality.",
+          "translation": "第一印象不是随机的，但也不是可靠的个性描述。"
+        },
+        {
+          "text": "A person who avoids eye contact may be nervous, following a cultural norm or simply concentrating on a question.",
+          "translation": "一个人避免目光接触，可能是因为紧张、遵循文化规范，或只是正在专注思考某个问题。"
+        },
+        {
+          "text": "An energetic speaking style can signal enthusiasm, yet it can also hide poor preparation.",
+          "translation": "充满活力的演讲风格可以表现出热情，但也可能掩盖准备不足的情况。"
+        },
+        {
+          "text": "Observers tend to select the explanation that fits their existing expectations, then notice later behaviour which confirms the original judgement.",
+          "translation": "观察者倾向于选择符合他们现有期望的解释，然后注意到后来的行为证实了最初的判断。"
+        }
+      ],
+      [
+        {
+          "text": "The workplace provides a clear example.",
+          "translation": "工作场所就是一个明显的例子。"
+        },
+        {
+          "text": "Interviewers may favour applicants who answer immediately and maintain an easy conversation.",
+          "translation": "面试官可能会青睐立即回答并保持轻松对话的申请人。"
+        },
+        {
+          "text": "Those behaviours demonstrate social confidence, but the job itself might require patient analysis rather than frequent interaction.",
+          "translation": "这些行为表现出了社交信心，但工作本身可能需要耐心分析而不是频繁互动。"
+        },
+        {
+          "text": "Structured interviews attempt to reduce this problem by asking every applicant comparable questions and scoring evidence against defined criteria.",
+          "translation": "结构化面试试图通过询问每位申请人类似的问题并根据规定的标准对证据进行评分来减少这个问题。"
+        },
+        {
+          "text": "Work samples can add information that appearance and conversational style cannot supply.",
+          "translation": "工作样本可以添加外观和对话风格无法提供的信息。"
+        }
+      ],
+      [
+        {
+          "text": "People can revise an impression, although correction requires attention.",
+          "translation": "人们可以修正印象，尽管修正需要注意力。"
+        },
+        {
+          "text": "Once a label such as ‘unfriendly’ or ‘capable’ has formed, ambiguous behaviour is often interpreted through it.",
+          "translation": "一旦形成“不友好”或“有能力”等标签，模棱两可的行为往往会通过它来解释。"
+        },
+        {
+          "text": "Regular contact helps because it provides examples across different situations: someone quiet in meetings may be supportive with new colleagues, while a charming acquaintance may repeatedly miss commitments.",
+          "translation": "经常接触很有帮助，因为人们能看到对方在不同情境中的表现：会议上安静的人可能主动帮助新同事，而很有魅力的熟人却可能一再失约。"
+        },
+        {
+          "text": "The sensible response is not to ignore first impressions completely, but to treat them as early guesses which need testing.",
+          "translation": "明智的反应不是完全忽视第一印象，而是将其视为需要测试的早期猜测。"
+        }
+      ],
+      [
+        {
+          "text": "Awareness of impression bias is useful, although simply telling people to be objective has limited effect.",
+          "translation": "意识到印象偏差是有用的，尽管简单地告诉人们要客观的效果有限。"
+        },
+        {
+          "text": "Specific procedures work better: delaying a final judgement, recording behavioural evidence and asking what alternative explanation could fit the same action.",
+          "translation": "具体程序效果更好：推迟最终判断，记录行为证据并询问哪些替代解释可以适合相同的行为。"
+        },
+        {
+          "text": "These steps create room for correction before an early guess becomes the basis for an important decision.",
+          "translation": "在早期猜测成为重要决策的基础之前，这些步骤为纠正创造了空间。"
+        }
+      ]
     ]
   }
 }

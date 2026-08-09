@@ -153,7 +153,8 @@
         "check out a title",
         "use a library loan"
       ],
-      "note": "check out 在美式英语中常见。"
+      "note": "check out 在美式英语中常见。",
+      "translation": "借书可以表示为从图书馆借书、查出书名、使用图书馆借阅。"
     },
     {
       "base": "library users",
@@ -162,7 +163,8 @@
         "members",
         "readers"
       ],
-      "note": "patron 是图书馆服务语境的正式用词。"
+      "note": "patron 是图书馆服务语境的正式用词。",
+      "translation": "图书馆用户可以表示为顾客、会员、读者。"
     },
     {
       "base": "free use of computers",
@@ -171,7 +173,8 @@
         "shared computer provision",
         "free access to devices"
       ],
-      "note": "provision 强调公共服务供给。"
+      "note": "provision 强调公共服务供给。",
+      "translation": "免费使用计算机可以表现为公共数字访问、共享计算机提供、免费使用设备。"
     },
     {
       "base": "place to study",
@@ -180,7 +183,8 @@
         "shared study area",
         "independent learning space"
       ],
-      "note": "workspace 可用于学习和工作。"
+      "note": "workspace 可用于学习和工作。",
+      "translation": "学习场所可以表现为安静的工作空间、共享学习区、独立学习空间。"
     },
     {
       "base": "find trustworthy sources",
@@ -189,7 +193,8 @@
         "locate credible material",
         "evaluate information sources"
       ],
-      "note": "credible 强调值得相信。"
+      "note": "credible 强调值得相信。",
+      "translation": "寻找可信来源可以表现为获取可靠信息、找到可信材料、评估信息来源。"
     },
     {
       "base": "library activity",
@@ -198,7 +203,8 @@
         "public workshop",
         "library-based event"
       ],
-      "note": "programme 比 activity 更正式。"
+      "note": "programme 比 activity 更正式。",
+      "translation": "图书馆活动可以表现为社区活动、公共研讨会、图书馆活动。"
     },
     {
       "base": "lend objects",
@@ -207,7 +213,8 @@
         "share practical equipment",
         "offer non-book loans"
       ],
-      "note": "library of things 是特定服务模式。"
+      "note": "library of things 是特定服务模式。",
+      "translation": "借阅对象可以表现为经营图书馆、共享实用设备、提供非图书借阅。"
     },
     {
       "base": "keep a collection useful",
@@ -216,51 +223,60 @@
         "respond to local demand",
         "manage shared resources"
       ],
-      "note": "maintain 包括修理与更新。"
+      "note": "maintain 包括修理与更新。",
+      "translation": "保持集合有用可以表达为维护集合、响应本地需求、管理共享资源。"
     }
   ],
   "sentences": [
     {
       "pattern": "Far from being merely + outdated role, the library now + modern function.",
       "cn": "图书馆远不只是某种过时场所，如今还……。",
-      "example": "Far from being merely a storehouse of books, the library now provides access to digital services."
+      "example": "Far from being merely a storehouse of books, the library now provides access to digital services.",
+      "exampleTranslation": "该图书馆不再只是一个藏书的仓库，现在还提供数字服务。"
     },
     {
       "pattern": "For people who lack + resource, + library provision + may be the only way to + action.",
       "cn": "对于缺少某种资源的人，图书馆服务可能是……的唯一途径。",
-      "example": "For people who lack a quiet room, a library desk may be the only way to study effectively."
+      "example": "For people who lack a quiet room, a library desk may be the only way to study effectively.",
+      "exampleTranslation": "对于缺乏安静房间的人来说，图书馆书桌可能是有效学习的唯一方法。"
     },
     {
       "pattern": "Not only does + library service + provide + resource, but it also + social benefit.",
       "cn": "某项图书馆服务不仅提供……，还……。",
-      "example": "Not only does a reading group provide motivation, but it also reduces social isolation."
+      "example": "Not only does a reading group provide motivation, but it also reduces social isolation.",
+      "exampleTranslation": "阅读小组不仅可以提供动力，还可以减少社交孤立。"
     }
   ],
   "expressions": [
     {
       "text": "borrow a book from the library",
       "cn": "从图书馆借书",
-      "example": "I borrowed the novel from the local library."
+      "example": "I borrowed the novel from the local library.",
+      "exampleTranslation": "我从当地图书馆借了这本小说。"
     },
     {
       "text": "browse the shelves",
       "cn": "浏览书架",
-      "example": "I like to browse the shelves without a fixed title in mind."
+      "example": "I like to browse the shelves without a fixed title in mind.",
+      "exampleTranslation": "我喜欢在没有明确目标书名时随意浏览书架。"
     },
     {
       "text": "renew a loan",
       "cn": "续借",
-      "example": "You can renew the loan online unless another reader has reserved it."
+      "example": "You can renew the loan online unless another reader has reserved it.",
+      "exampleTranslation": "除非其他读者已预订，否则您可以在线续借。"
     },
     {
       "text": "a quiet place to study",
       "cn": "安静的学习场所",
-      "example": "The library gives residents a quiet place to study."
+      "example": "The library gives residents a quiet place to study.",
+      "exampleTranslation": "图书馆为居民提供了一个安静的学习场所。"
     },
     {
       "text": "access reliable information",
       "cn": "获取可靠信息",
-      "example": "A librarian can help users access reliable information."
+      "example": "A librarian can help users access reliable information.",
+      "exampleTranslation": "图书馆员可以帮助用户获取可靠的信息。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "use a shared workspace",
         "seek expert guidance"
       ],
-      "argument": "Many applications for work, housing and public services now assume that users own a device and understand online forms. People without either can be excluded even when the service is described as universally available. Libraries provide computers, connectivity and staff who can explain a process without selling a product. They also offer a quiet workspace that crowded homes may lack. Their digital role therefore extends the traditional principle of equal access to knowledge."
+      "argument": "Many applications for work, housing and public services now assume that users own a device and understand online forms. People without either can be excluded even when the service is described as universally available. Libraries provide computers, connectivity and staff who can explain a process without selling a product. They also offer a quiet workspace that crowded homes may lack. Their digital role therefore extends the traditional principle of equal access to knowledge.",
+      "viewpointTranslation": "公共图书馆减少了数字扩张可能隐藏的不平等。",
+      "topicSentenceTranslation": "在网络社会中，免费共享空间、设备和指导仍然至关重要。",
+      "collocationTranslations": [
+        "提供免费访问",
+        "弥合数字鸿沟",
+        "使用共享工作空间",
+        "寻求专家指导"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Many applications for work, housing and public services now assume that users own a device and understand online forms.",
+          "translation": "现在，许多工作、住房和公共服务应用程序都假设用户拥有设备并理解在线表格。"
+        },
+        {
+          "text": "People without either can be excluded even when the service is described as universally available.",
+          "translation": "即使该服务被描述为普遍可用，但没有任何一种服务的人也可能被排除在外。"
+        },
+        {
+          "text": "Libraries provide computers, connectivity and staff who can explain a process without selling a product.",
+          "translation": "图书馆提供计算机、连接和可以在不销售产品的情况下解释流程的工作人员。"
+        },
+        {
+          "text": "They also offer a quiet workspace that crowded homes may lack.",
+          "translation": "它们还提供了拥挤的家庭可能缺乏的安静的工作空间。"
+        },
+        {
+          "text": "Their digital role therefore extends the traditional principle of equal access to knowledge.",
+          "translation": "因此，他们的数字角色延伸了平等获取知识的传统原则。"
+        }
+      ]
     },
     {
       "viewpoint": "Library value should not be judged only by book-loan totals.",
@@ -301,19 +347,107 @@
         "support independent learning",
         "reduce social isolation"
       ],
-      "argument": "An advice session may prevent a user from abandoning an important form, while a weekly reading group can rebuild social contact for an isolated resident. Neither outcome appears as a conventional book loan. Counting visits, programme participation and successful referrals provides a broader picture, although not every benefit can be reduced to a number. Qualitative feedback can show why particular services matter. Funding decisions should reflect the library’s actual functions rather than a historical measure alone."
+      "argument": "An advice session may prevent a user from abandoning an important form, while a weekly reading group can rebuild social contact for an isolated resident. Neither outcome appears as a conventional book loan. Counting visits, programme participation and successful referrals provides a broader picture, although not every benefit can be reduced to a number. Qualitative feedback can show why particular services matter. Funding decisions should reflect the library’s actual functions rather than a historical measure alone.",
+      "viewpointTranslation": "图书馆的价值不应仅根据图书借阅总额来判断。",
+      "topicSentenceTranslation": "现代图书馆产生的教育和社会效益是流通量数字无法完全体现的。",
+      "collocationTranslations": [
+        "评估公共价值",
+        "主持社区节目",
+        "支持自主学习",
+        "减少社会孤立"
+      ],
+      "argumentSentences": [
+        {
+          "text": "An advice session may prevent a user from abandoning an important form, while a weekly reading group can rebuild social contact for an isolated resident.",
+          "translation": "建议会议可以防止用户放弃重要的表格，而每周的阅读小组可以为孤立的居民重建社交联系。"
+        },
+        {
+          "text": "Neither outcome appears as a conventional book loan.",
+          "translation": "这两种结果都不像传统的图书借阅。"
+        },
+        {
+          "text": "Counting visits, programme participation and successful referrals provides a broader picture, although not every benefit can be reduced to a number.",
+          "translation": "统计访问次数、计划参与和成功推荐可以提供更广泛的情况，尽管并非所有好处都可以简化为数字。"
+        },
+        {
+          "text": "Qualitative feedback can show why particular services matter.",
+          "translation": "定性反馈可以说明为什么特定服务很重要。"
+        },
+        {
+          "text": "Funding decisions should reflect the library’s actual functions rather than a historical measure alone.",
+          "translation": "资助决策应反映图书馆的实际功能，而不仅仅是历史衡量标准。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "When was the last time you used a library?",
-      "answer": "I used one about two weeks ago because I needed a quiet place for concentrated work. I also borrowed a travel book that I had noticed on display, even though that was not why I went in. The building was busy but not noisy, and I stayed much longer than planned. It reminded me how useful a shared study space can be."
+      "answer": "I used one about two weeks ago because I needed a quiet place for concentrated work. I also borrowed a travel book that I had noticed on display, even though that was not why I went in. The building was busy but not noisy, and I stayed much longer than planned. It reminded me how useful a shared study space can be.",
+      "questionTranslation": "您最后一次使用图书馆是什么时候？",
+      "answerSentences": [
+        {
+          "text": "I used one about two weeks ago because I needed a quiet place for concentrated work.",
+          "translation": "大约两周前我去过一次图书馆，因为需要一个安静的地方专心工作。"
+        },
+        {
+          "text": "I also borrowed a travel book that I had noticed on display, even though that was not why I went in.",
+          "translation": "我还借了一本我注意到陈列的旅游书，尽管这不是我进去的原因。"
+        },
+        {
+          "text": "The building was busy but not noisy, and I stayed much longer than planned.",
+          "translation": "大楼很繁忙但并不吵闹，而且我停留的时间比计划的要长得多。"
+        },
+        {
+          "text": "It reminded me how useful a shared study space can be.",
+          "translation": "它提醒我共享学习空间是多么有用。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a library you have visited.",
-      "answer": "The library I remember best is a small branch inside a renovated market building. The original brick walls remain, but the interior has bright reading tables, computers and a children’s corner. What impressed me was the mixture of users: pupils doing homework, older residents reading newspapers and jobseekers asking staff for help. It was not silent, yet each area had a clear purpose. The place felt more like public infrastructure than a room containing books. Staff had placed local-history material near the entrance, which connected the old building with the neighbourhood it now served. There was also a small room for workshops, so louder group activity did not disturb readers. I would return because the design made different uses compatible. It demonstrated that a modern library can be sociable without giving up spaces for concentration."
+      "answer": "The library I remember best is a small branch inside a renovated market building. The original brick walls remain, but the interior has bright reading tables, computers and a children’s corner. What impressed me was the mixture of users: pupils doing homework, older residents reading newspapers and jobseekers asking staff for help. It was not silent, yet each area had a clear purpose. The place felt more like public infrastructure than a room containing books. Staff had placed local-history material near the entrance, which connected the old building with the neighbourhood it now served. There was also a small room for workshops, so louder group activity did not disturb readers. I would return because the design made different uses compatible. It demonstrated that a modern library can be sociable without giving up spaces for concentration.",
+      "questionTranslation": "描述一下你参观过的图书馆。",
+      "answerSentences": [
+        {
+          "text": "The library I remember best is a small branch inside a renovated market building.",
+          "translation": "我记得最清楚的图书馆是一座翻新的市场大楼内的一个小分馆。"
+        },
+        {
+          "text": "The original brick walls remain, but the interior has bright reading tables, computers and a children’s corner.",
+          "translation": "原来的砖墙仍然保留，但内部设有明亮的阅读桌、电脑和儿童角。"
+        },
+        {
+          "text": "What impressed me was the mixture of users: pupils doing homework, older residents reading newspapers and jobseekers asking staff for help.",
+          "translation": "最令我印象深刻的是使用者很多样：有做作业的学生、读报的老年居民，还有向工作人员求助的求职者。"
+        },
+        {
+          "text": "It was not silent, yet each area had a clear purpose.",
+          "translation": "那里并非完全安静，但每个区域都有明确用途。"
+        },
+        {
+          "text": "The place felt more like public infrastructure than a room containing books.",
+          "translation": "这个地方感觉更像是公共基础设施，而不是一个装书的房间。"
+        },
+        {
+          "text": "Staff had placed local-history material near the entrance, which connected the old building with the neighbourhood it now served.",
+          "translation": "工作人员在入口附近放置了当地历史资料，将旧建筑与其现在服务的社区连接起来。"
+        },
+        {
+          "text": "There was also a small room for workshops, so louder group activity did not disturb readers.",
+          "translation": "还有一个小房间用于研讨会，因此大声的集体活动不会打扰读者。"
+        },
+        {
+          "text": "I would return because the design made different uses compatible.",
+          "translation": "我会回来，因为设计使不同的用途兼容。"
+        },
+        {
+          "text": "It demonstrated that a modern library can be sociable without giving up spaces for concentration.",
+          "translation": "它证明了现代图书馆可以在不放弃集中空间的情况下进行社交。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +478,115 @@
         "answer": "It is expensive, robust and infrequently required.",
         "explanation": "The final sentence lists these three qualities."
       }
+    ],
+    "titleTranslation": "事物图书馆",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A growing number of public libraries lend objects as well as books.",
+          "translation": "越来越多的公共图书馆不仅提供图书借阅服务，还提供物品借阅服务。"
+        },
+        {
+          "text": "Their catalogues may include drills, sewing machines, musical instruments, cake tins and equipment for measuring household energy use.",
+          "translation": "他们的目录可能包括钻头、缝纫机、乐器、蛋糕罐和测量家庭能源使用的设备。"
+        },
+        {
+          "text": "The idea is simple: many useful objects are needed occasionally, yet every household is expected to buy and store its own.",
+          "translation": "这个想法很简单：偶尔需要许多有用的物品，但每个家庭都应该购买和储存自己的物品。"
+        },
+        {
+          "text": "A shared collection applies the familiar lending model to material goods.",
+          "translation": "共享收藏将熟悉的借贷模式应用于物质商品。"
+        }
+      ],
+      [
+        {
+          "text": "The environmental argument is attractive.",
+          "translation": "环境论点很有吸引力。"
+        },
+        {
+          "text": "Manufacturing a power tool requires metals, energy, packaging and transport, although the tool may operate for only a few minutes each year.",
+          "translation": "制造电动工具需要金属、能源、包装和运输，尽管该工具每年可能只运行几分钟。"
+        },
+        {
+          "text": "If one durable item serves many users, demand for rarely used products can fall.",
+          "translation": "如果一件耐用品为许多用户服务，那么对很少使用的产品的需求就会下降。"
+        },
+        {
+          "text": "Savings are not automatic, however.",
+          "translation": "然而，节省并不是自动的。"
+        },
+        {
+          "text": "Objects must survive repeated handling, and extra journeys to collect them may offset part of the benefit.",
+          "translation": "物品必须能够经受住反复搬运，而收集物品的额外旅程可能会抵消部分好处。"
+        },
+        {
+          "text": "Libraries need repair procedures rather than treating damaged equipment as disposable.",
+          "translation": "图书馆需要修复程序，而不是将损坏的设备视为一次性设备。"
+        }
+      ],
+      [
+        {
+          "text": "Access is another objective.",
+          "translation": "访问是另一个目标。"
+        },
+        {
+          "text": "A person can test an activity before spending money, while a tenant can borrow a tool for a small repair.",
+          "translation": "一个人可以在花钱之前测试一项活动，而租户可以借用一个工具进行小修。"
+        },
+        {
+          "text": "Some schemes include demonstrations or safety checks, turning a transaction into practical learning.",
+          "translation": "有些计划包括演示或安全检查，将交易转化为实际学习。"
+        },
+        {
+          "text": "Liability is more complicated than with books: staff must decide which items require training, how cleanliness is maintained and what happens when equipment fails.",
+          "translation": "责任比书本更复杂：员工必须决定哪些项目需要培训、如何保持清洁以及设备出现故障时会发生什么。"
+        },
+        {
+          "text": "These duties increase cost and may limit what can be offered.",
+          "translation": "这些职责会增加成本并可能限制所能提供的服务。"
+        }
+      ],
+      [
+        {
+          "text": "The model also changes the meaning of a collection.",
+          "translation": "该模型还改变了集合的含义。"
+        },
+        {
+          "text": "Traditional libraries organise published knowledge for shared use; a library of things organises practical capacity.",
+          "translation": "传统图书馆整理已出版的知识以供共享；事物图书馆组织实用能力。"
+        },
+        {
+          "text": "Both depend on trust, clear records and the principle that temporary access can be more valuable than ownership.",
+          "translation": "两者都依赖于信任、清晰的记录以及临时访问比所有权更有价值的原则。"
+        },
+        {
+          "text": "Such schemes will not replace ordinary retail or private possessions.",
+          "translation": "此类计划不会取代普通零售或私人财产。"
+        },
+        {
+          "text": "They are most convincing where an object is expensive, robust and infrequently required—precisely the circumstances in which individual ownership is least efficient.",
+          "translation": "当物品昂贵、坚固且不经常需要时，它们最有说服力——而这恰恰是个人所有权效率最低的情况。"
+        }
+      ],
+      [
+        {
+          "text": "Demand is also highly local.",
+          "translation": "需求也高度本地化。"
+        },
+        {
+          "text": "Musical instruments may circulate well near schools, whereas gardening tools may be useful in an area with shared allotments.",
+          "translation": "乐器在学校附近可能流通良好，而园艺工具在共享土地的区域可能很有用。"
+        },
+        {
+          "text": "Starting with a small collection and examining reservations, waiting times and repairs allows the service to respond to actual use.",
+          "translation": "从少量收集开始，检查预订、等待时间和维修情况，使服务能够响应实际使用情况。"
+        },
+        {
+          "text": "Copying another city’s catalogue without considering housing, transport and community partnerships can leave expensive objects untouched.",
+          "translation": "复制另一个城市的目录而不考虑住房、交通和社区合作伙伴关系可能会让昂贵的物品原封不动。"
+        }
+      ]
     ]
   }
 }

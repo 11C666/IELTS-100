@@ -153,7 +153,8 @@
         "apply technology to public services",
         "modernise service delivery"
       ],
-      "note": "modernise 强调更新原有服务方式。"
+      "note": "modernise 强调更新原有服务方式。",
+      "translation": "利用技术改善服务"
     },
     {
       "base": "collect information",
@@ -162,7 +163,8 @@
         "record observations",
         "capture information"
       ],
-      "note": "capture 常用于传感器自动获取信息。"
+      "note": "capture 常用于传感器自动获取信息。",
+      "translation": "收集信息"
     },
     {
       "base": "reduce congestion",
@@ -171,7 +173,8 @@
         "improve traffic flow",
         "cut road delays"
       ],
-      "note": "ease traffic pressure 适合城市交通讨论。"
+      "note": "ease traffic pressure 适合城市交通讨论。",
+      "translation": "缓解拥堵"
     },
     {
       "base": "protect privacy",
@@ -180,7 +183,8 @@
         "limit intrusive monitoring",
         "preserve individual privacy"
       ],
-      "note": "intrusive monitoring 强调监控对个人空间的侵入。"
+      "note": "intrusive monitoring 强调监控对个人空间的侵入。",
+      "translation": "保护隐私"
     },
     {
       "base": "available to everyone",
@@ -189,7 +193,8 @@
         "open to all residents",
         "within everyone’s reach"
       ],
-      "note": "universally accessible 适合正式写作。"
+      "note": "universally accessible 适合正式写作。",
+      "translation": "人人都能使用"
     },
     {
       "base": "make decisions",
@@ -198,7 +203,8 @@
         "determine a course of action",
         "choose an appropriate response"
       ],
-      "note": "reach informed judgements 突出证据基础。"
+      "note": "reach informed judgements 突出证据基础。",
+      "translation": "作出决定"
     },
     {
       "base": "system failure",
@@ -207,7 +213,8 @@
         "service outage",
         "digital disruption"
       ],
-      "note": "outage 常指网络或服务暂时中断。"
+      "note": "outage 常指网络或服务暂时中断。",
+      "translation": "系统故障"
     },
     {
       "base": "public trust",
@@ -216,51 +223,60 @@
         "institutional credibility",
         "confidence in local authorities"
       ],
-      "note": "institutional credibility 强调机构的可信度。"
+      "note": "institutional credibility 强调机构的可信度。",
+      "translation": "公众信任"
     }
   ],
   "sentences": [
     {
       "pattern": "A city becomes genuinely smart only when + technology + enables residents to + solve an everyday problem.",
       "cn": "只有当某项技术帮助居民获得实际益处时，一座城市才真正称得上智慧。",
-      "example": "A city becomes genuinely smart only when digital mapping enables residents to reach essential services more easily."
+      "example": "A city becomes genuinely smart only when digital mapping enables residents to reach essential services more easily.",
+      "exampleTranslation": "只有当数字地图帮助居民更方便地获得基本服务时，一座城市才真正称得上智慧。"
     },
     {
       "pattern": "While + data from sensors + can help authorities to + improve a service, they also raise questions about + privacy and control.",
       "cn": "虽然某类数据可以帮助政府取得某种成效，但它也引发了有关某项问题的疑问。",
-      "example": "While travel-card data can help authorities to plan bus routes, it also raises questions about personal privacy."
+      "example": "While travel-card data can help authorities to plan bus routes, it also raises questions about personal privacy.",
+      "exampleTranslation": "虽然交通卡数据可以帮助有关部门规划公交线路，但它也引发了有关个人隐私的问题。"
     },
     {
       "pattern": "Rather than assuming that + a new urban technology + benefits everyone, planners should examine + who can use it and who bears the cost.",
       "cn": "规划者不应假定某项创新对所有人都有益，而应考察某项标准。",
-      "example": "Rather than assuming that a mobile app is universally beneficial, planners should examine who is unable to use it."
+      "example": "Rather than assuming that a mobile app is universally beneficial, planners should examine who is unable to use it.",
+      "exampleTranslation": "规划者不应想当然地认为移动应用对所有人都有益，而应考察哪些人无法使用它。"
     }
   ],
   "expressions": [
     {
       "text": "run into a technical glitch",
       "cn": "遇到技术故障",
-      "example": "I ran into a technical glitch while paying for a parking permit."
+      "example": "I ran into a technical glitch while paying for a parking permit.",
+      "exampleTranslation": "我在缴纳停车许可费用时遇到了技术故障。"
     },
     {
       "text": "at the tap of a screen",
       "cn": "轻触屏幕即可",
-      "example": "Residents can report a broken streetlight at the tap of a screen."
+      "example": "Residents can report a broken streetlight at the tap of a screen.",
+      "exampleTranslation": "居民轻点屏幕即可报告损坏的路灯。"
     },
     {
       "text": "keep people in the loop",
       "cn": "让人们及时了解情况",
-      "example": "The council should keep people in the loop during a system outage."
+      "example": "The council should keep people in the loop during a system outage.",
+      "exampleTranslation": "系统中断期间，市政委员会应及时向民众通报情况。"
     },
     {
       "text": "improve public-service delivery",
       "cn": "改善公共服务的提供",
-      "example": "Shared data can improve public-service delivery across departments."
+      "example": "Shared data can improve public-service delivery across departments.",
+      "exampleTranslation": "共享数据可以改善不同部门提供公共服务的效率。"
     },
     {
       "text": "raise legitimate privacy concerns",
       "cn": "引发合理的隐私担忧",
-      "example": "Facial recognition can raise legitimate privacy concerns."
+      "example": "Facial recognition can raise legitimate privacy concerns.",
+      "exampleTranslation": "人脸识别可能引发合理的隐私担忧。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "exclude vulnerable residents",
         "provide an accessible alternative"
       ],
-      "argument": "Online forms can process simple requests quickly and free staff to handle unusual cases. However, older residents, newcomers and people without reliable internet may be unable to complete identity checks or upload documents. If a digital channel becomes compulsory, an efficiency gain for the authority can turn into an access barrier for the public. Councils should therefore retain telephone or face-to-face assistance and monitor who abandons online applications. This hybrid approach combines faster administration with equal access."
+      "argument": "Online forms can process simple requests quickly and free staff to handle unusual cases. However, older residents, newcomers and people without reliable internet may be unable to complete identity checks or upload documents. If a digital channel becomes compulsory, an efficiency gain for the authority can turn into an access barrier for the public. Councils should therefore retain telephone or face-to-face assistance and monitor who abandons online applications. This hybrid approach combines faster administration with equal access.",
+      "viewpointTranslation": "智慧服务必须保留非数字化渠道。",
+      "topicSentenceTranslation": "只有当无法使用数字服务的居民仍有切实可行的替代方案时，数字公共服务才称得上高效。",
+      "collocationTranslations": [
+        "简化常规服务",
+        "保留面对面支持",
+        "将弱势居民排除在外",
+        "提供无障碍替代方案"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Online forms can process simple requests quickly and free staff to handle unusual cases.",
+          "translation": "在线表格可以快速处理简单申请，并让工作人员腾出时间处理特殊情况。"
+        },
+        {
+          "text": "However, older residents, newcomers and people without reliable internet may be unable to complete identity checks or upload documents.",
+          "translation": "然而，老年居民、新来者以及网络连接不稳定的人可能无法完成身份验证或上传文件。"
+        },
+        {
+          "text": "If a digital channel becomes compulsory, an efficiency gain for the authority can turn into an access barrier for the public.",
+          "translation": "如果数字渠道成为强制要求，政府部门获得的效率提升可能会变成公众面临的使用障碍。"
+        },
+        {
+          "text": "Councils should therefore retain telephone or face-to-face assistance and monitor who abandons online applications.",
+          "translation": "因此，市政部门应保留电话或面对面协助，并监测哪些人中途放弃在线申请。"
+        },
+        {
+          "text": "This hybrid approach combines faster administration with equal access.",
+          "translation": "这种混合方式兼顾了更快的行政处理与平等获取服务。"
+        }
+      ],
+      "translation": "在线表格可以快速处理简单申请，并让工作人员腾出时间处理特殊情况。然而，老年居民、新来者以及网络连接不稳定的人可能无法完成身份验证或上传文件。如果数字渠道成为强制要求，政府部门获得的效率提升可能会变成公众面临的使用障碍。因此，市政部门应保留电话或面对面协助，并监测哪些人中途放弃在线申请。这种混合方式兼顾了更快的行政处理与平等获取服务。"
     },
     {
       "viewpoint": "Useful data collection requires a clear social bargain.",
@@ -301,19 +348,110 @@
         "set a retention period",
         "earn public confidence"
       ],
-      "argument": "Sensors can reveal where buses are delayed or energy is being wasted, allowing authorities to target investment accurately. The same infrastructure, if connected to identifiable individuals without clear limits, can also enable intrusive surveillance. A city should collect only the information needed for a stated service, publish its retention rules and permit independent audits. For example, traffic counts can often be analysed without storing vehicle identities. Transparency turns data collection from an open-ended power into a conditional exchange that residents can evaluate."
+      "argument": "Sensors can reveal where buses are delayed or energy is being wasted, allowing authorities to target investment accurately. The same infrastructure, if connected to identifiable individuals without clear limits, can also enable intrusive surveillance. A city should collect only the information needed for a stated service, publish its retention rules and permit independent audits. For example, traffic counts can often be analysed without storing vehicle identities. Transparency turns data collection from an open-ended power into a conditional exchange that residents can evaluate.",
+      "viewpointTranslation": "有用的数据收集需要一份清晰的社会契约。",
+      "topicSentenceTranslation": "当数据用途、使用限制和公共利益透明时，居民更有可能支持城市数据系统。",
+      "collocationTranslations": [
+        "收集匿名化数据",
+        "明确合法用途",
+        "设定保存期限",
+        "赢得公众信任"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Sensors can reveal where buses are delayed or energy is being wasted, allowing authorities to target investment accurately.",
+          "translation": "传感器能够显示公交车在哪里延误或能源在哪里浪费，使有关部门能够精准安排投资。"
+        },
+        {
+          "text": "The same infrastructure, if connected to identifiable individuals without clear limits, can also enable intrusive surveillance.",
+          "translation": "然而，如果同一基础设施在缺乏明确限制的情况下与可识别个人相连，也可能促成侵入式监控。"
+        },
+        {
+          "text": "A city should collect only the information needed for a stated service, publish its retention rules and permit independent audits.",
+          "translation": "城市只应收集特定服务所需的信息，公布数据保存规则，并允许独立审计。"
+        },
+        {
+          "text": "For example, traffic counts can often be analysed without storing vehicle identities.",
+          "translation": "例如，分析交通流量往往并不需要储存车辆身份信息。"
+        },
+        {
+          "text": "Transparency turns data collection from an open-ended power into a conditional exchange that residents can evaluate.",
+          "translation": "透明度能把数据收集从一种没有明确边界的权力，转变为居民可以评估的有条件交换。"
+        }
+      ],
+      "translation": "传感器能够显示公交车在哪里延误或能源在哪里浪费，使有关部门能够精准安排投资。然而，如果同一基础设施在缺乏明确限制的情况下与可识别个人相连，也可能促成侵入式监控。城市只应收集特定服务所需的信息，公布数据保存规则，并允许独立审计。例如，分析交通流量往往并不需要储存车辆身份信息。透明度能把数据收集从一种没有明确边界的权力，转变为居民可以评估的有条件交换。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a piece of technology that has improved life in your city.",
-      "answer": "I’d choose the real-time bus information system at local stops. Before it was introduced, passengers only had a printed timetable, which was not much help when traffic caused delays. The displays now show how many minutes remain before each bus arrives, and the same information is available in an app. I use it to decide whether to wait, walk or take a different route. It is a fairly simple technology, but it removes a lot of uncertainty, especially in bad weather. I also like the fact that people without smartphones can see the display. It has not made every journey punctual, but it has made delays easier to manage, which is a practical improvement."
+      "answer": "I’d choose the real-time bus information system at local stops. Before it was introduced, passengers only had a printed timetable, which was not much help when traffic caused delays. The displays now show how many minutes remain before each bus arrives, and the same information is available in an app. I use it to decide whether to wait, walk or take a different route. It is a fairly simple technology, but it removes a lot of uncertainty, especially in bad weather. I also like the fact that people without smartphones can see the display. It has not made every journey punctual, but it has made delays easier to manage, which is a practical improvement.",
+      "questionTranslation": "描述一项改善了你所在城市生活的技术。",
+      "answerSentences": [
+        {
+          "text": "I’d choose the real-time bus information system at local stops.",
+          "translation": "我会选择当地公交站的实时公交信息系统。"
+        },
+        {
+          "text": "Before it was introduced, passengers only had a printed timetable, which was not much help when traffic caused delays.",
+          "translation": "在它推出之前，乘客只能看纸质时刻表，而交通造成延误时，时刻表并没有多大帮助。"
+        },
+        {
+          "text": "The displays now show how many minutes remain before each bus arrives, and the same information is available in an app.",
+          "translation": "现在，显示屏会显示每辆公交车还有多少分钟到站，应用程序中也能查看同样的信息。"
+        },
+        {
+          "text": "I use it to decide whether to wait, walk or take a different route.",
+          "translation": "我会根据这些信息决定是等待、步行，还是换一条路线。"
+        },
+        {
+          "text": "It is a fairly simple technology, but it removes a lot of uncertainty, especially in bad weather.",
+          "translation": "这项技术相当简单，却消除了很多不确定性，尤其是在天气恶劣的时候。"
+        },
+        {
+          "text": "I also like the fact that people without smartphones can see the display.",
+          "translation": "我也很喜欢没有智能手机的人同样能看到显示屏这一点。"
+        },
+        {
+          "text": "It has not made every journey punctual, but it has made delays easier to manage, which is a practical improvement.",
+          "translation": "它并没有让每趟行程都准时，却让延误更容易应对，这是一个很实际的改进。"
+        }
+      ],
+      "translation": "我会选择当地公交站的实时公交信息系统。在它推出之前，乘客只能看纸质时刻表，而交通造成延误时，时刻表并没有多大帮助。现在，显示屏会显示每辆公交车还有多少分钟到站，应用程序中也能查看同样的信息。我会根据这些信息决定是等待、步行，还是换一条路线。这项技术相当简单，却消除了很多不确定性，尤其是在天气恶劣的时候。我也很喜欢没有智能手机的人同样能看到显示屏这一点。它并没有让每趟行程都准时，却让延误更容易应对，这是一个很实际的改进。"
     },
     {
       "part": "Part 3",
       "question": "Should city governments collect data to make public services more efficient?",
-      "answer": "Yes, but the permission should not be unlimited. Information about traffic volumes or energy use can show where money and staff are most needed, so refusing all data collection would waste a useful planning tool. The key questions are whether individuals can be identified, how long records are kept and who can access them. Authorities should explain those points in ordinary language and arrange independent checks. I also think residents need a non-digital way to use essential services. Efficiency matters, but a smart system loses legitimacy if people feel watched or excluded."
+      "answer": "Yes, but the permission should not be unlimited. Information about traffic volumes or energy use can show where money and staff are most needed, so refusing all data collection would waste a useful planning tool. The key questions are whether individuals can be identified, how long records are kept and who can access them. Authorities should explain those points in ordinary language and arrange independent checks. I also think residents need a non-digital way to use essential services. Efficiency matters, but a smart system loses legitimacy if people feel watched or excluded.",
+      "questionTranslation": "市政府是否应该收集数据，以提高公共服务效率？",
+      "answerSentences": [
+        {
+          "text": "Yes, but the permission should not be unlimited.",
+          "translation": "是的，但这种授权不应没有限制。"
+        },
+        {
+          "text": "Information about traffic volumes or energy use can show where money and staff are most needed, so refusing all data collection would waste a useful planning tool.",
+          "translation": "交通流量或能源使用信息可以显示资金和人员最需要投向何处，因此完全拒绝收集数据会浪费一个有用的规划工具。"
+        },
+        {
+          "text": "The key questions are whether individuals can be identified, how long records are kept and who can access them.",
+          "translation": "关键问题在于能否识别个人、记录保存多久，以及谁可以访问这些记录。"
+        },
+        {
+          "text": "Authorities should explain those points in ordinary language and arrange independent checks.",
+          "translation": "有关部门应使用通俗语言解释这些问题，并安排独立检查。"
+        },
+        {
+          "text": "I also think residents need a non-digital way to use essential services.",
+          "translation": "我还认为，居民需要一种非数字化方式来使用基本服务。"
+        },
+        {
+          "text": "Efficiency matters, but a smart system loses legitimacy if people feel watched or excluded.",
+          "translation": "效率固然重要，但如果人们感到自己受到监视或被排除在外，智慧系统就会失去正当性。"
+        }
+      ],
+      "translation": "是的，但这种授权不应没有限制。交通流量或能源使用信息可以显示资金和人员最需要投向何处，因此完全拒绝收集数据会浪费一个有用的规划工具。关键问题在于能否识别个人、记录保存多久，以及谁可以访问这些记录。有关部门应使用通俗语言解释这些问题，并安排独立检查。我还认为，居民需要一种非数字化方式来使用基本服务。效率固然重要，但如果人们感到自己受到监视或被排除在外，智慧系统就会失去正当性。"
     }
   ],
   "reading": {
@@ -350,6 +488,110 @@
         "answer": "representative",
         "explanation": "Paragraph 4 states that planning is only as representative as the data network."
       }
+    ],
+    "titleTranslation": "当智慧灯柱身兼数职",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "In many cities, replacing an old streetlight no longer means choosing only a bulb and a pole.",
+          "translation": "在许多城市，更换旧路灯已不再只是选择灯泡和灯杆。"
+        },
+        {
+          "text": "New lamp-posts may carry air-quality sensors, traffic counters, wireless transmitters or charging points.",
+          "translation": "新型灯柱可能装有空气质量传感器、交通计数器、无线发射器或充电点。"
+        },
+        {
+          "text": "The appeal is obvious: electricity and a position above the street already exist, so several urban services can share one installation.",
+          "translation": "其吸引力显而易见：电力供应和高于街道的位置已经具备，因此多项城市服务可以共用同一设施。"
+        },
+        {
+          "text": "Yet combining functions also creates dependencies that are easy to overlook when a pilot scheme covers only a few streets.",
+          "translation": "然而，把多种功能结合起来也会产生依赖关系，而当试点项目只覆盖几条街道时，这些关系很容易被忽视。"
+        }
+      ],
+      [
+        {
+          "text": "Consider maintenance.",
+          "translation": "以维护为例。"
+        },
+        {
+          "text": "A lighting department traditionally needs electricians who can restore illumination quickly.",
+          "translation": "传统上，照明部门需要能够迅速恢复照明的电工。"
+        },
+        {
+          "text": "Once a pole also transmits transport data, a fault may involve software, communications equipment or a supplier whose contract belongs to another department.",
+          "translation": "一旦灯杆还负责传输交通数据，故障就可能涉及软件、通信设备，或合同归另一个部门管理的供应商。"
+        },
+        {
+          "text": "The device that promises administrative efficiency can therefore produce a more complicated chain of responsibility, particularly when each component has a different expected lifespan.",
+          "translation": "因此，这种承诺提高行政效率的设备反而可能形成更复杂的责任链，尤其是各部件预期寿命不同时。"
+        },
+        {
+          "text": "Cities that document ownership and establish a single route for reporting faults tend to recover more quickly than those that leave residents to identify the responsible contractor.",
+          "translation": "明确记录所有权并建立统一故障报告渠道的城市，往往比让居民自行寻找责任承包商的城市恢复得更快。"
+        }
+      ],
+      [
+        {
+          "text": "Data present a second challenge.",
+          "translation": "数据带来了第二项挑战。"
+        },
+        {
+          "text": "Traffic counts, which can help engineers adjust signal times, do not necessarily identify anyone.",
+          "translation": "交通流量统计可以帮助工程师调整信号灯时间，但不一定会识别任何个人。"
+        },
+        {
+          "text": "Cameras or wireless signals, however, may reveal repeated movements if records are retained and linked.",
+          "translation": "然而，如果记录被保存并相互关联，摄像头或无线信号可能揭示个人反复出现的活动轨迹。"
+        },
+        {
+          "text": "Privacy specialists consequently recommend collecting the least detailed data capable of answering a defined question.",
+          "translation": "因此，隐私专家建议，只收集能够回答特定问题的最少详细数据。"
+        },
+        {
+          "text": "They also argue that equipment installed for one purpose should not quietly acquire another: a sensor introduced to measure pollution, for instance, should not become a surveillance tool merely because a software update makes that possible.",
+          "translation": "他们还认为，为某一目的安装的设备不应悄悄承担另一项用途：例如，用来测量污染的传感器不应仅仅因为软件更新使其具备条件，就变成监控工具。"
+        }
+      ],
+      [
+        {
+          "text": "There is also an issue of unequal coverage.",
+          "translation": "覆盖不均也是一个问题。"
+        },
+        {
+          "text": "Commercial districts often receive connected infrastructure first because they offer visible demand and easier investment returns.",
+          "translation": "商业区往往最先获得联网基础设施，因为那里需求明显，投资回报也更容易实现。"
+        },
+        {
+          "text": "Outer neighbourhoods, where unreliable transport or poor air quality may be more severe, can remain poorly measured and thus less visible in later funding decisions.",
+          "translation": "交通不可靠或空气质量问题可能更严重的外围社区，可能仍缺乏充分监测，因此在后续资金决策中更不受关注。"
+        },
+        {
+          "text": "Data-driven planning is only as representative as the network producing its evidence.",
+          "translation": "数据驱动型规划的代表性，取决于提供证据的网络是否同样具有代表性。"
+        }
+      ],
+      [
+        {
+          "text": "A smart lamp-post should therefore be judged neither as a futuristic object nor as a collection of impressive features.",
+          "translation": "因此，评判智慧灯柱时，既不应把它视为未来主义物件，也不应只看它拥有多少令人印象深刻的功能。"
+        },
+        {
+          "text": "Its value depends on whether it solves a local problem, can be maintained without confusion and operates under rules that residents understand.",
+          "translation": "其价值取决于它能否解决当地问题、能否在职责清晰的情况下得到维护，以及能否按照居民理解的规则运行。"
+        },
+        {
+          "text": "Sometimes the intelligent decision will be to add several functions; elsewhere, a durable light that is repaired promptly may be the smarter public service.",
+          "translation": "有时，增加多种功能是明智的决定；而在其他地方，一盏耐用且能得到及时维修的路灯可能才是更智慧的公共服务。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "在许多城市，更换旧路灯已不再只是选择灯泡和灯杆。新型灯柱可能装有空气质量传感器、交通计数器、无线发射器或充电点。其吸引力显而易见：电力供应和高于街道的位置已经具备，因此多项城市服务可以共用同一设施。然而，把多种功能结合起来也会产生依赖关系，而当试点项目只覆盖几条街道时，这些关系很容易被忽视。",
+      "以维护为例。传统上，照明部门需要能够迅速恢复照明的电工。一旦灯杆还负责传输交通数据，故障就可能涉及软件、通信设备，或合同归另一个部门管理的供应商。因此，这种承诺提高行政效率的设备反而可能形成更复杂的责任链，尤其是各部件预期寿命不同时。明确记录所有权并建立统一故障报告渠道的城市，往往比让居民自行寻找责任承包商的城市恢复得更快。",
+      "数据带来了第二项挑战。交通流量统计可以帮助工程师调整信号灯时间，但不一定会识别任何个人。然而，如果记录被保存并相互关联，摄像头或无线信号可能揭示个人反复出现的活动轨迹。因此，隐私专家建议，只收集能够回答特定问题的最少详细数据。他们还认为，为某一目的安装的设备不应悄悄承担另一项用途：例如，用来测量污染的传感器不应仅仅因为软件更新使其具备条件，就变成监控工具。",
+      "覆盖不均也是一个问题。商业区往往最先获得联网基础设施，因为那里需求明显，投资回报也更容易实现。交通不可靠或空气质量问题可能更严重的外围社区，可能仍缺乏充分监测，因此在后续资金决策中更不受关注。数据驱动型规划的代表性，取决于提供证据的网络是否同样具有代表性。",
+      "因此，评判智慧灯柱时，既不应把它视为未来主义物件，也不应只看它拥有多少令人印象深刻的功能。其价值取决于它能否解决当地问题、能否在职责清晰的情况下得到维护，以及能否按照居民理解的规则运行。有时，增加多种功能是明智的决定；而在其他地方，一盏耐用且能得到及时维修的路灯可能才是更智慧的公共服务。"
     ]
   }
 }

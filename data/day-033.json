@@ -153,7 +153,8 @@
         "employment and private responsibilities",
         "work and non-work domains"
       ],
-      "note": "domain 是研究语境用词。"
+      "note": "domain 是研究语境用词。",
+      "translation": "工作和个人生活可以表现为工作与生活的平衡、就业和私人责任、工作和非工作领域。"
     },
     {
       "base": "stop thinking about work",
@@ -162,7 +163,8 @@
         "switch off from work",
         "disengage from job demands"
       ],
-      "note": "detach 是学术语境核心表达。"
+      "note": "detach 是学术语境核心表达。",
+      "translation": "stop thinking about work 可以表达为“从心理上脱离工作”“下班后不再想着工作”或“暂时放下工作要求”。"
     },
     {
       "base": "unpredictable shifts",
@@ -171,7 +173,8 @@
         "last-minute rota changes",
         "irregular working hours"
       ],
-      "note": "rota 是英式排班表达。"
+      "note": "rota 是英式排班表达。",
+      "translation": "不可预测的轮班可以表现为不稳定的时间表、最后一刻的轮班变化、不规律的工作时间。"
     },
     {
       "base": "time to recover",
@@ -180,7 +183,8 @@
         "opportunity for restoration",
         "adequate rest between shifts"
       ],
-      "note": "restoration 强调恢复资源。"
+      "note": "restoration 强调恢复资源。",
+      "translation": "恢复时间可以表示为恢复时间、恢复机会、轮班之间充分的休息。"
     },
     {
       "base": "always available",
@@ -189,7 +193,8 @@
         "permanently reachable",
         "expected to respond after hours"
       ],
-      "note": "on call 通常含待命责任。"
+      "note": "on call 通常含待命责任。",
+      "translation": "always available 可以表达为“持续待命”“随时可以联系”或“被要求下班后仍作回应”。"
     },
     {
       "base": "flexible hours",
@@ -198,7 +203,8 @@
         "flexible working time",
         "discretion over start times"
       ],
-      "note": "control 比形式上的灵活更关键。"
+      "note": "control 比形式上的灵活更关键。",
+      "translation": "灵活的工作时间可以表现为对日程安排的控制、灵活的工作时间、对开始时间的自由裁量权。"
     },
     {
       "base": "work enters home time",
@@ -207,7 +213,8 @@
         "employment intrudes on family life",
         "work–home boundaries weaken"
       ],
-      "note": "spill into 自然且形象。"
+      "note": "spill into 自然且形象。",
+      "translation": "工作进入家庭时间可以表现为工作渗透到个人时间、就业侵入家庭生活、工作与家庭界限弱化。"
     },
     {
       "base": "long-term performance",
@@ -216,51 +223,60 @@
         "consistent performance over time",
         "enduring work capacity"
       ],
-      "note": "sustainable 强调不可透支。"
+      "note": "sustainable 强调不可透支。",
+      "translation": "长期绩效可以表现为可持续的生产力、长期一致的绩效、持久的工作能力。"
     }
   ],
   "sentences": [
     {
       "pattern": "It is not the number of hours alone that + outcome, but + quality of control/recovery.",
       "cn": "影响结果的不只是工作时长，而是……。",
-      "example": "It is not the number of hours alone that causes strain, but the lack of control over them."
+      "example": "It is not the number of hours alone that causes strain, but the lack of control over them.",
+      "exampleTranslation": "导致紧张的不仅仅是工作时间的长短，而是缺乏对时间的控制。"
     },
     {
       "pattern": "When work repeatedly spills into + personal time, + consequence.",
       "cn": "当工作反复侵占私人时间时，……。",
-      "example": "When work repeatedly spills into evenings, recovery becomes incomplete."
+      "example": "When work repeatedly spills into evenings, recovery becomes incomplete.",
+      "exampleTranslation": "当工作反复拖到晚上时，恢复就变得不完整。"
     },
     {
       "pattern": "Employees are better able to + performance + if they can + boundary practice.",
       "cn": "如果员工能够采取某种边界做法，他们就更能……。",
-      "example": "Employees are better able to concentrate if they can disconnect between shifts."
+      "example": "Employees are better able to concentrate if they can disconnect between shifts.",
+      "exampleTranslation": "如果员工能够在轮班之间断开连接，他们就能更好地集中注意力。"
     }
   ],
   "expressions": [
     {
       "text": "switch off from work",
       "cn": "从工作状态中抽离",
-      "example": "I find it hard to switch off from work after a late meeting."
+      "example": "I find it hard to switch off from work after a late meeting.",
+      "exampleTranslation": "开会开到很晚后，我发现自己很难从工作状态中抽离。"
     },
     {
       "text": "draw a line between work and home",
       "cn": "划清工作与家庭界限",
-      "example": "A separate desk helps me draw a line between work and home."
+      "example": "A separate desk helps me draw a line between work and home.",
+      "exampleTranslation": "一张单独的桌子帮助我在工作和家庭之间划清界限。"
     },
     {
       "text": "work long hours",
       "cn": "长时间工作",
-      "example": "People can work long hours for a short period, but not indefinitely."
+      "example": "People can work long hours for a short period, but not indefinitely.",
+      "exampleTranslation": "人们可以在短时间内长时间工作，但不能无限期地工作。"
     },
     {
       "text": "make time for family",
       "cn": "腾出时间陪伴家人",
-      "example": "I protect Sunday afternoons to make time for family."
+      "example": "I protect Sunday afternoons to make time for family.",
+      "exampleTranslation": "我保护周日下午，腾出时间陪伴家人。"
     },
     {
       "text": "be constantly on call",
       "cn": "随时待命",
-      "example": "Managers should not expect staff to be constantly on call."
+      "example": "Managers should not expect staff to be constantly on call.",
+      "exampleTranslation": "管理者不应期望员工随时待命。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "control working hours",
         "reduce work–family conflict"
       ],
-      "argument": "A thirty-hour week may still damage family life if shifts change at the last minute. Unpredictability makes childcare, medical appointments and shared meals difficult even when total hours are moderate. Advance scheduling and limits on compulsory changes allow households to coordinate. Some industries need flexibility, but the cost should not be transferred entirely to the worker. Greater predictability is therefore a practical form of work–life support."
+      "argument": "A thirty-hour week may still damage family life if shifts change at the last minute. Unpredictability makes childcare, medical appointments and shared meals difficult even when total hours are moderate. Advance scheduling and limits on compulsory changes allow households to coordinate. Some industries need flexibility, but the cost should not be transferred entirely to the worker. Greater predictability is therefore a practical form of work–life support.",
+      "viewpointTranslation": "可预测性与缩短工作时间一样重要。",
+      "topicSentenceTranslation": "工人需要充分的通知和控制来组织就业之外的责任。",
+      "collocationTranslations": [
+        "接收可预测的时间表",
+        "安排托儿服务",
+        "控制工作时间",
+        "减少工作与家庭冲突"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A thirty-hour week may still damage family life if shifts change at the last minute.",
+          "translation": "如果在最后一刻换班，每周工作三十小时仍然可能会损害家庭生活。"
+        },
+        {
+          "text": "Unpredictability makes childcare, medical appointments and shared meals difficult even when total hours are moderate.",
+          "translation": "即使总工作时间适中，不可预测性也会使儿童保育、医疗预约和共享膳食变得困难。"
+        },
+        {
+          "text": "Advance scheduling and limits on compulsory changes allow households to coordinate.",
+          "translation": "提前安排和强制变更限制使家庭能够进行协调。"
+        },
+        {
+          "text": "Some industries need flexibility, but the cost should not be transferred entirely to the worker.",
+          "translation": "有些行业需要灵活性，但成本不应该完全转移到工人身上。"
+        },
+        {
+          "text": "Greater predictability is therefore a practical form of work–life support.",
+          "translation": "因此，更大的可预测性是工作与生活支持的一种实用形式。"
+        }
+      ]
     },
     {
       "viewpoint": "The right to disconnect requires organisational support.",
@@ -301,19 +347,107 @@
         "prevent chronic overwork",
         "support psychological recovery"
       ],
-      "argument": "A written policy is ineffective when senior staff send routine requests late at night and praise immediate replies. Teams should identify genuine emergencies, use delayed delivery and make response expectations explicit. Managers also need adequate staffing so that unfinished work does not simply accumulate. Periods without work communication allow attention and emotional energy to recover. Disconnecting is not a lack of commitment; it helps make sustained performance possible."
+      "argument": "A written policy is ineffective when senior staff send routine requests late at night and praise immediate replies. Teams should identify genuine emergencies, use delayed delivery and make response expectations explicit. Managers also need adequate staffing so that unfinished work does not simply accumulate. Periods without work communication allow attention and emotional energy to recover. Disconnecting is not a lack of commitment; it helps make sustained performance possible.",
+      "viewpointTranslation": "断开连接的权利需要组织的支持。",
+      "topicSentenceTranslation": "如果管理者奖励持续在线可用性，员工就无法保护个人时间。",
+      "collocationTranslations": [
+        "尊重非工作时间",
+        "设定沟通规范",
+        "防止慢性过度劳累",
+        "支持心理康复"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A written policy is ineffective when senior staff send routine requests late at night and praise immediate replies.",
+          "translation": "当高级员工在深夜发送例行请求并赞扬立即回复时，书面政策是无效的。"
+        },
+        {
+          "text": "Teams should identify genuine emergencies, use delayed delivery and make response expectations explicit.",
+          "translation": "团队应识别真正的紧急情况，使用延迟交付并明确响应期望。"
+        },
+        {
+          "text": "Managers also need adequate staffing so that unfinished work does not simply accumulate.",
+          "translation": "管理者还需要足够的人员配备，以便未完成的工作不会简单地堆积起来。"
+        },
+        {
+          "text": "Periods without work communication allow attention and emotional energy to recover.",
+          "translation": "没有工作沟通的时期可以让注意力和情绪能量得到恢复。"
+        },
+        {
+          "text": "Disconnecting is not a lack of commitment; it helps make sustained performance possible.",
+          "translation": "断绝关系并不是缺乏承诺，而是缺乏承诺。它有助于实现持续的绩效。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What do you do to relax after work or study?",
-      "answer": "I usually take a short walk before doing anything else. The movement is helpful, but the real benefit is that I stop looking at the same screen and let the day settle. Later I might cook or listen to a podcast. If I start checking messages immediately, I never quite feel that the working day ended."
+      "answer": "I usually take a short walk before doing anything else. The movement is helpful, but the real benefit is that I stop looking at the same screen and let the day settle. Later I might cook or listen to a podcast. If I start checking messages immediately, I never quite feel that the working day ended.",
+      "questionTranslation": "工作或学习后你会做些什么来放松？",
+      "answerSentences": [
+        {
+          "text": "I usually take a short walk before doing anything else.",
+          "translation": "我通常在做其他事情之前先散散步。"
+        },
+        {
+          "text": "The movement is helpful, but the real benefit is that I stop looking at the same screen and let the day settle.",
+          "translation": "走动本身有帮助，但真正的好处是我不再盯着同一个屏幕，也给自己时间从一天的工作中缓下来。"
+        },
+        {
+          "text": "Later I might cook or listen to a podcast.",
+          "translation": "稍后我可能会做饭或听播客。"
+        },
+        {
+          "text": "If I start checking messages immediately, I never quite feel that the working day ended.",
+          "translation": "如果我立即开始查看消息，我永远不会觉得工作日结束了。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a time when you were very busy.",
-      "answer": "Last month I had a project deadline during the same week as a family event. I made a short list of essential tasks and told colleagues early which requests would need to wait. Each evening I stopped at a fixed time so that one tired day did not ruin the next. The week was still intense, but the plan prevented me from treating every task as equally urgent. I learned that boundaries are most useful before pressure peaks. I also prepared for the family event in advance instead of assuming I could organise it after work. One colleague agreed to handle an urgent query, and I returned the favour the following week. Nothing dramatic failed because I postponed low-value tasks. Looking back, the busiest part was deciding what not to do; once those choices were explicit, the remaining work became much more manageable."
+      "answer": "Last month I had a project deadline during the same week as a family event. I made a short list of essential tasks and told colleagues early which requests would need to wait. Each evening I stopped at a fixed time so that one tired day did not ruin the next. The week was still intense, but the plan prevented me from treating every task as equally urgent. I learned that boundaries are most useful before pressure peaks. I also prepared for the family event in advance instead of assuming I could organise it after work. One colleague agreed to handle an urgent query, and I returned the favour the following week. Nothing dramatic failed because I postponed low-value tasks. Looking back, the busiest part was deciding what not to do; once those choices were explicit, the remaining work became much more manageable.",
+      "questionTranslation": "描述一下你非常忙碌的一段时间。",
+      "answerSentences": [
+        {
+          "text": "Last month I had a project deadline during the same week as a family event.",
+          "translation": "上个月，我的项目截止日期恰好与一项家庭活动落在同一周。"
+        },
+        {
+          "text": "I made a short list of essential tasks and told colleagues early which requests would need to wait.",
+          "translation": "我列出了一份重要任务的简短清单，并尽早告诉同事哪些请求需要等待。"
+        },
+        {
+          "text": "Each evening I stopped at a fixed time so that one tired day did not ruin the next.",
+          "translation": "每天晚上我都会在固定的时间停下来，这样疲惫的一天就不会毁了第二天。"
+        },
+        {
+          "text": "The week was still intense, but the plan prevented me from treating every task as equally urgent.",
+          "translation": "那一周仍然很紧张，但计划让我不再把所有任务都当作同样紧迫。"
+        },
+        {
+          "text": "I learned that boundaries are most useful before pressure peaks.",
+          "translation": "我了解到，在压力达到峰值之前，界限是最有用的。"
+        },
+        {
+          "text": "I also prepared for the family event in advance instead of assuming I could organise it after work.",
+          "translation": "我还提前准备了家庭活动，而不是假设我可以在下班后组织它。"
+        },
+        {
+          "text": "One colleague agreed to handle an urgent query, and I returned the favour the following week.",
+          "translation": "一位同事同意替我处理紧急询问，下一周我再帮他补上相应工作。"
+        },
+        {
+          "text": "Nothing dramatic failed because I postponed low-value tasks.",
+          "translation": "没有出现严重问题，因为我把价值较低的任务推迟了。"
+        },
+        {
+          "text": "Looking back, the busiest part was deciding what not to do; once those choices were explicit, the remaining work became much more manageable.",
+          "translation": "回顾过去，最忙碌的部分是决定不做什么；一旦这些选择变得明确，剩下的工作就变得更容易管理。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +478,111 @@
         "answer": "restoration",
         "explanation": "The final paragraph uses these terms."
       }
+    ],
+    "titleTranslation": "为什么恢复不仅仅是没有工作",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Leaving the workplace does not guarantee recovery.",
+          "translation": "离开工作场所并不能保证康复。"
+        },
+        {
+          "text": "A person may stop performing tasks while continuing to replay a difficult conversation, monitor messages or anticipate the next morning.",
+          "translation": "一个人可能会停止执行任务，同时继续重播困难的对话、监视消息或预测第二天早上。"
+        },
+        {
+          "text": "Occupational researchers distinguish physical separation from psychological detachment: the ability to suspend work-related demands in thought.",
+          "translation": "职业研究人员将身体上的分离与心理上的分离区分开来：在思想上暂停与工作相关的需求的能力。"
+        },
+        {
+          "text": "Both matter, but digital communication has made the second increasingly difficult.",
+          "translation": "两者都很重要，但数字通信使第二个变得越来越困难。"
+        }
+      ],
+      [
+        {
+          "text": "Recovery has several routes.",
+          "translation": "恢复有多种途径。"
+        },
+        {
+          "text": "Rest reduces immediate effort; enjoyable activity creates positive emotion; learning a voluntary skill can restore a sense of mastery; and control over free time counters the lack of choice experienced in some jobs.",
+          "translation": "休息可以减少即时的努力；愉快的活动会产生积极的情绪；学习一项自愿技能可以恢复掌握感；对空闲时间的控制弥补了某些工作中缺乏选择的情况。"
+        },
+        {
+          "text": "The same activity does not work for everyone.",
+          "translation": "同样的活动并不适合所有人。"
+        },
+        {
+          "text": "A demanding run may refresh an office worker but exhaust someone whose employment is physical.",
+          "translation": "高强度的跑步可能会让上班族精神焕发，但会让从事体力工作的人筋疲力尽。"
+        },
+        {
+          "text": "The key comparison is with the demands that need to be replenished.",
+          "translation": "关键的比较是需要补充的需求。"
+        }
+      ],
+      [
+        {
+          "text": "Short periods matter as well as holidays.",
+          "translation": "短期和假期一样重要。"
+        },
+        {
+          "text": "Micro-breaks during a shift can reduce fatigue before it accumulates, while a predictable evening permits sleep and social contact.",
+          "translation": "轮班期间的短暂休息可以在疲劳累积之前减轻疲劳，而可预测的夜晚则可以保证睡眠和社交活动。"
+        },
+        {
+          "text": "By contrast, an interrupted weekend may fail to restore attention because the possibility of a call keeps the employee mentally prepared for work.",
+          "translation": "相比之下，周末被打扰可能无法恢复注意力，因为可能会接到电话，让员工为工作做好心理准备。"
+        },
+        {
+          "text": "Research on availability suggests that uncertainty itself can consume resources even when no message arrives.",
+          "translation": "对可用性的研究表明，即使没有消息到达，不确定性本身也会消耗资源。"
+        }
+      ],
+      [
+        {
+          "text": "Responsibility is shared.",
+          "translation": "责任是共同承担的。"
+        },
+        {
+          "text": "Individuals can mute notifications and create transition routines, but these measures fail if workload is impossible or non-response is punished.",
+          "translation": "个人可以静音通知并创建过渡例程，但如果工作量无法完成或不响应受到惩罚，这些措施就会失败。"
+        },
+        {
+          "text": "Organisations influence recovery through staffing, scheduling and the behaviour of managers.",
+          "translation": "组织通过人员配置、日程安排和管理者的行为来影响恢复。"
+        },
+        {
+          "text": "Sustainable performance depends on cycles of effort and restoration, not on extracting maximum effort every day.",
+          "translation": "可持续的绩效取决于努力和恢复的循环，而不是每天付出最大的努力。"
+        },
+        {
+          "text": "Work–life balance is therefore not a perfect division of hours.",
+          "translation": "因此，工作与生活的平衡并不是完美的时间划分。"
+        },
+        {
+          "text": "It is the capacity to meet work demands without repeatedly borrowing energy from sleep, health and relationships.",
+          "translation": "它是指无需反复从睡眠、健康和人际关系中借用能量即可满足工作需求的能力。"
+        }
+      ],
+      [
+        {
+          "text": "Social expectations shape recovery as well.",
+          "translation": "社会期望也会影响复苏。"
+        },
+        {
+          "text": "An employee may technically be free to ignore email but still respond because every colleague appears available.",
+          "translation": "从技术上讲，员工可以自由地忽略电子邮件，但仍然会回复，因为每个同事都似乎有空。"
+        },
+        {
+          "text": "Teams can make detachment visible by scheduling messages, noting working hours and avoiding praise for unnecessary late-night activity.",
+          "translation": "团队可以通过安排消息、记下工作时间以及避免对不必要的深夜活动进行表扬来让团队的脱离变得可见。"
+        },
+        {
+          "text": "When senior staff use these practices themselves, boundaries become a collective norm rather than a private act requiring repeated justification.",
+          "translation": "当高级职员自己使用这些做法时，界限就成为一种集体规范，而不是需要反复论证的私人行为。"
+        }
+      ]
     ]
   }
 }

@@ -148,6 +148,7 @@
   "paraphrases": [
     {
       "base": "start a business",
+      "translation": "创办企业",
       "options": [
         "launch a venture",
         "set up an enterprise",
@@ -157,6 +158,7 @@
     },
     {
       "base": "see if people will buy",
+      "translation": "看看人们是否愿意购买",
       "options": [
         "test market demand",
         "validate customer interest",
@@ -166,6 +168,7 @@
     },
     {
       "base": "simple first product",
+      "translation": "简单的初始产品",
       "options": [
         "minimum viable product",
         "early prototype",
@@ -175,6 +178,7 @@
     },
     {
       "base": "money coming in",
+      "translation": "收入进账",
       "options": [
         "revenue",
         "sales income",
@@ -184,6 +188,7 @@
     },
     {
       "base": "cover all costs",
+      "translation": "收支平衡",
       "options": [
         "break even",
         "reach the break-even point",
@@ -193,6 +198,7 @@
     },
     {
       "base": "change the business idea",
+      "translation": "调整商业构想",
       "options": [
         "pivot",
         "revise the business model",
@@ -202,6 +208,7 @@
     },
     {
       "base": "risk that has been considered",
+      "translation": "经过权衡的风险",
       "options": [
         "calculated risk",
         "evaluated uncertainty",
@@ -211,6 +218,7 @@
     },
     {
       "base": "customers who return",
+      "translation": "回头客",
       "options": [
         "loyal customer base",
         "repeat clients",
@@ -223,44 +231,52 @@
     {
       "pattern": "A business idea becomes viable only if + customer condition + and + financial condition.",
       "cn": "只有当顾客条件和财务条件都满足时，商业想法才可行。",
-      "example": "A business idea becomes viable only if customers value the solution and revenue can cover its cost."
+      "example": "A business idea becomes viable only if customers value the solution and revenue can cover its cost.",
+      "exampleTranslation": "只有当客户认可解决方案且收入能够覆盖成本时，商业构想才具有可行性。"
     },
     {
       "pattern": "Before investing heavily in + product, entrepreneurs can test + assumption + by + small experiment.",
       "cn": "在大量投资某产品前，创业者可通过小实验检验某假设。",
-      "example": "Before investing heavily in an app, entrepreneurs can test demand with a simple manual service."
+      "example": "Before investing heavily in an app, entrepreneurs can test demand with a simple manual service.",
+      "exampleTranslation": "创业者可以先用简单的人工服务测试需求，再对应用程序投入大量资金。"
     },
     {
       "pattern": "The failure of + venture + does not necessarily imply that + original problem + was unimportant.",
       "cn": "某项创业失败不一定意味着原问题不重要。",
-      "example": "The failure of a venture does not necessarily imply that the customer problem was unimportant."
+      "example": "The failure of a venture does not necessarily imply that the customer problem was unimportant.",
+      "exampleTranslation": "一次创业失败并不一定意味着客户的问题不重要。"
     }
   ],
   "expressions": [
     {
       "text": "start my own business",
       "cn": "自己创业",
-      "example": "I would start my own business only after testing demand."
+      "example": "I would start my own business only after testing demand.",
+      "exampleTranslation": "我只有在测试市场需求后才会创业。"
     },
     {
       "text": "get an idea off the ground",
-      "cn": "让想法启动",
-      "example": "A small grant helped them get the idea off the ground."
+      "cn": "推动想法落地",
+      "example": "A small grant helped them get the idea off the ground.",
+      "exampleTranslation": "一笔小额补助帮助他们把这个构想真正落实起来。"
     },
     {
       "text": "take a calculated risk",
       "cn": "承担经过评估的风险",
-      "example": "She took a calculated risk rather than borrowing the maximum amount."
+      "example": "She took a calculated risk rather than borrowing the maximum amount.",
+      "exampleTranslation": "她承担了经过权衡的风险，而不是借入最高额度的资金。"
     },
     {
       "text": "break even",
       "cn": "实现收支平衡",
-      "example": "The café took a year to break even."
+      "example": "The café took a year to break even.",
+      "exampleTranslation": "这家咖啡馆用了一年才实现收支平衡。"
     },
     {
       "text": "build a customer base",
       "cn": "建立客户群",
-      "example": "Reliable service helped the firm build a customer base."
+      "example": "Reliable service helped the firm build a customer base.",
+      "exampleTranslation": "可靠的服务帮助这家公司建立了客户群。"
     }
   ],
   "mistakes": [
@@ -283,41 +299,264 @@
   "writingIdeas": [
     {
       "viewpoint": "Entrepreneurs should test assumptions before scaling.",
+      "viewpointTranslation": "创业者应在扩大规模之前检验假设。",
       "topicSentence": "Small experiments can reveal whether a customer problem is real before resources are committed irreversibly.",
+      "topicSentenceTranslation": "小规模实验可以在资源被不可逆地投入之前，揭示客户问题是否真实存在。",
       "collocations": [
         "test market demand",
         "build a minimum viable product",
         "collect customer feedback",
         "limit financial exposure"
       ],
-      "argument": "Founders often become attached to a polished solution before confirming that customers will change their behaviour or pay for it. A manual service, prototype or limited trial can test the riskiest assumption cheaply. Negative feedback then arrives while revision remains possible. Early tests are not perfectly representative, but they are better than confidence based only on friends’ enthusiasm. Responsible experimentation reduces the cost of learning."
+      "argument": "Founders often become attached to a polished solution before confirming that customers will change their behaviour or pay for it. A manual service, prototype or limited trial can test the riskiest assumption cheaply. Negative feedback then arrives while revision remains possible. Early tests are not perfectly representative, but they are better than confidence based only on friends’ enthusiasm. Responsible experimentation reduces the cost of learning.",
+      "collocationTranslations": [
+        "测试市场需求",
+        "构建最小可行产品",
+        "收集客户反馈",
+        "限制财务风险敞口"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Founders often become attached to a polished solution before confirming that customers will change their behaviour or pay for it.",
+          "translation": "创始人常在确认客户是否愿意改变行为或付费之前，就对精心打造的解决方案产生依恋。"
+        },
+        {
+          "text": "A manual service, prototype or limited trial can test the riskiest assumption cheaply.",
+          "translation": "人工服务、原型或有限试用能够以较低成本检验风险最高的假设。"
+        },
+        {
+          "text": "Negative feedback then arrives while revision remains possible.",
+          "translation": "这样，负面反馈会在方案仍可修改时到来。"
+        },
+        {
+          "text": "Early tests are not perfectly representative, but they are better than confidence based only on friends’ enthusiasm.",
+          "translation": "早期测试并不能完全代表市场，但比仅凭朋友的热情建立信心更可靠。"
+        },
+        {
+          "text": "Responsible experimentation reduces the cost of learning.",
+          "translation": "负责任的实验能够降低学习成本。"
+        }
+      ]
     },
     {
       "viewpoint": "Entrepreneurship policy should not romanticise personal risk.",
+      "viewpointTranslation": "创业政策不应美化个人承担的风险。",
       "topicSentence": "New businesses contribute innovation, but failure should not threaten an owner’s basic security indefinitely.",
+      "topicSentenceTranslation": "新企业能够促进创新，但失败不应无限期地威胁创业者的基本生活保障。",
       "collocations": [
         "encourage business formation",
         "access start-up finance",
         "limit personal liability",
         "provide a social safety net"
       ],
-      "argument": "Starting a venture involves uncertainty that cannot be removed by motivation. When health cover, housing or lifelong debt depend on success, only wealthy households can tolerate the risk. Limited liability, proportionate bankruptcy rules and access to basic protection widen participation. These measures should not rescue fraud or careless borrowing. They recognise that useful experimentation requires a way to fail, learn and re-enter economic life."
+      "argument": "Starting a venture involves uncertainty that cannot be removed by motivation. When health cover, housing or lifelong debt depend on success, only wealthy households can tolerate the risk. Limited liability, proportionate bankruptcy rules and access to basic protection widen participation. These measures should not rescue fraud or careless borrowing. They recognise that useful experimentation requires a way to fail, learn and re-enter economic life.",
+      "collocationTranslations": [
+        "鼓励创办企业",
+        "获得创业融资",
+        "限制个人责任",
+        "提供社会安全网"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Starting a venture involves uncertainty that cannot be removed by motivation.",
+          "translation": "创业包含无法仅靠动力消除的不确定性。"
+        },
+        {
+          "text": "When health cover, housing or lifelong debt depend on success, only wealthy households can tolerate the risk.",
+          "translation": "当医疗保障、住房或终身债务都取决于创业成功时，只有富裕家庭能够承受这种风险。"
+        },
+        {
+          "text": "Limited liability, proportionate bankruptcy rules and access to basic protection widen participation.",
+          "translation": "有限责任、适度的破产规则以及获得基本保障的机会能够扩大参与范围。"
+        },
+        {
+          "text": "These measures should not rescue fraud or careless borrowing.",
+          "translation": "这些措施不应为欺诈或草率借贷提供保护。"
+        },
+        {
+          "text": "They recognise that useful experimentation requires a way to fail, learn and re-enter economic life.",
+          "translation": "它们承认，有价值的尝试需要为失败、学习和重新参与经济生活提供出路。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Would you like to run your own business?",
-      "answer": "Possibly, but only on a small scale at first. I like the freedom to improve a service directly, although uncertain income and administration would worry me. I would test the idea alongside regular work before making a full commitment. Independence is attractive, but I would not confuse it with having fewer responsibilities."
+      "questionTranslation": "你愿意经营自己的企业吗？",
+      "answer": "Possibly, but only on a small scale at first. I like the freedom to improve a service directly, although uncertain income and administration would worry me. I would test the idea alongside regular work before making a full commitment. Independence is attractive, but I would not confuse it with having fewer responsibilities.",
+      "answerSentences": [
+        {
+          "text": "Possibly, but only on a small scale at first.",
+          "translation": "有可能，但一开始只会小规模经营。"
+        },
+        {
+          "text": "I like the freedom to improve a service directly, although uncertain income and administration would worry me.",
+          "translation": "我喜欢能够直接改进服务的自由，不过不稳定的收入和行政事务会让我担忧。"
+        },
+        {
+          "text": "I would test the idea alongside regular work before making a full commitment.",
+          "translation": "在全身心投入之前，我会一边从事常规工作，一边测试这个构想。"
+        },
+        {
+          "text": "Independence is attractive, but I would not confuse it with having fewer responsibilities.",
+          "translation": "独立自主很有吸引力，但我不会误以为这意味着责任更少。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a small business you admire.",
-      "answer": "I admire a neighbourhood bakery that produces only a limited range each day. The owner posts the menu early, takes pre-orders and donates the few remaining items instead of overproducing. Staff remember regular customers, but the service remains quick. The business seems carefully designed around quality and low waste rather than endless expansion. I admire it because its operating choices clearly support the values it advertises. The shop also tells customers when a popular loaf is likely to sell out rather than pretending that unlimited choice is possible. Its narrow menu probably simplifies training and purchasing, which supports consistency. I do not know its finances, but the visible decisions form a coherent model. It shows that a small enterprise can define success through reliability and community trust as well as growth."
+      "questionTranslation": "描述一家你欣赏的小企业。",
+      "answer": "I admire a neighbourhood bakery that produces only a limited range each day. The owner posts the menu early, takes pre-orders and donates the few remaining items instead of overproducing. Staff remember regular customers, but the service remains quick. The business seems carefully designed around quality and low waste rather than endless expansion. I admire it because its operating choices clearly support the values it advertises. The shop also tells customers when a popular loaf is likely to sell out rather than pretending that unlimited choice is possible. Its narrow menu probably simplifies training and purchasing, which supports consistency. I do not know its finances, but the visible decisions form a coherent model. It shows that a small enterprise can define success through reliability and community trust as well as growth.",
+      "answerSentences": [
+        {
+          "text": "I admire a neighbourhood bakery that produces only a limited range each day.",
+          "translation": "我很欣赏附近一家每天只制作有限种类产品的面包店。"
+        },
+        {
+          "text": "The owner posts the menu early, takes pre-orders and donates the few remaining items instead of overproducing.",
+          "translation": "店主会提前发布菜单、接受预订，并把少量剩余食品捐出去，而不是过量生产。"
+        },
+        {
+          "text": "Staff remember regular customers, but the service remains quick.",
+          "translation": "员工记得常客，同时服务依然快捷。"
+        },
+        {
+          "text": "The business seems carefully designed around quality and low waste rather than endless expansion.",
+          "translation": "这家企业似乎以品质和减少浪费为核心进行了精心设计，而不是一味追求扩张。"
+        },
+        {
+          "text": "I admire it because its operating choices clearly support the values it advertises.",
+          "translation": "我欣赏它，是因为其经营选择明显践行了自己宣传的价值观。"
+        },
+        {
+          "text": "The shop also tells customers when a popular loaf is likely to sell out rather than pretending that unlimited choice is possible.",
+          "translation": "热门面包可能售罄时，店家也会如实告知顾客，而不是假装可以提供无限选择。"
+        },
+        {
+          "text": "Its narrow menu probably simplifies training and purchasing, which supports consistency.",
+          "translation": "精简的菜单或许简化了培训和采购，从而有助于保持稳定品质。"
+        },
+        {
+          "text": "I do not know its finances, but the visible decisions form a coherent model.",
+          "translation": "我不了解它的财务状况，但这些看得见的经营选择形成了一套连贯的商业模式。"
+        },
+        {
+          "text": "It shows that a small enterprise can define success through reliability and community trust as well as growth.",
+          "translation": "它表明，小企业不必只用增长衡量成功，也可以用可靠性和社区信任来定义成功。"
+        }
+      ]
     }
   ],
   "reading": {
     "title": "The Useful Failure of a Small Experiment",
+    "titleTranslation": "小型实验中有价值的失败",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Entrepreneurs are often told to persist, yet persistence can preserve a weak idea as easily as a strong one.",
+          "translation": "创业者常被告知要坚持，但坚持既可能保留一个好构想，也同样可能让一个薄弱构想延续下去。"
+        },
+        {
+          "text": "The practical question is what should remain constant.",
+          "translation": "实际的问题在于，什么才应保持不变。"
+        },
+        {
+          "text": "Commitment to solving a customer problem may justify many changes in product, price or delivery.",
+          "translation": "致力于解决客户问题，可能意味着需要对产品、价格或交付方式作出许多改变。"
+        },
+        {
+          "text": "Commitment to the first solution, by contrast, can turn previous investment into a reason for further loss.",
+          "translation": "相比之下，执着于最初的解决方案可能会让过去的投入变成继续蒙受损失的理由。"
+        }
+      ],
+      [
+        {
+          "text": "A small experiment separates assumptions.",
+          "translation": "小型实验可以把不同假设区分开来。"
+        },
+        {
+          "text": "Suppose a founder believes restaurants will pay for software that reduces food waste.",
+          "translation": "假设一位创始人认为餐馆愿意为减少食物浪费的软件付费。"
+        },
+        {
+          "text": "Building the full system tests design, pricing, installation and demand simultaneously at high cost.",
+          "translation": "开发完整系统会以高昂成本同时检验设计、定价、安装和需求。"
+        },
+        {
+          "text": "A manual weekly report prepared for five restaurants can first test whether managers use the recommendation and consider the saving valuable.",
+          "translation": "先为五家餐馆人工制作周报，就能测试管理者是否采用建议，以及是否认为节省的成本有价值。"
+        },
+        {
+          "text": "The experiment is incomplete as a product but precise as a question.",
+          "translation": "作为产品，这项实验并不完整；但作为问题检验，它十分精确。"
+        }
+      ],
+      [
+        {
+          "text": "Results require careful interpretation.",
+          "translation": "实验结果需要谨慎解读。"
+        },
+        {
+          "text": "A customer may praise a trial without agreeing to pay, while low use may reflect poor instructions rather than weak demand.",
+          "translation": "客户可能称赞试用产品却不愿付费，而使用率低也可能反映说明不清，而非需求不足。"
+        },
+        {
+          "text": "Entrepreneurs should decide in advance what behaviour would support or weaken the assumption.",
+          "translation": "创业者应提前确定哪些行为会支持或削弱这一假设。"
+        },
+        {
+          "text": "Otherwise, every outcome can be described as encouragement.",
+          "translation": "否则，任何结果都能被解释成积极信号。"
+        },
+        {
+          "text": "Talking to people remains useful, but observed choices usually provide stronger evidence than polite opinions.",
+          "translation": "与人交谈仍有价值，但观察到的实际选择通常比礼貌的意见提供更有力的证据。"
+        }
+      ],
+      [
+        {
+          "text": "The purpose of testing is not to eliminate risk.",
+          "translation": "测试的目的并不是消除风险。"
+        },
+        {
+          "text": "A small group may differ from the later market, and competitors can respond.",
+          "translation": "小规模群体可能与之后的市场不同，竞争者也可能作出回应。"
+        },
+        {
+          "text": "It is to move uncertainty forward, when changing direction is still affordable.",
+          "translation": "其目的是把不确定性提前到改变方向仍然承担得起的时候。"
+        },
+        {
+          "text": "A failed experiment can therefore be commercially valuable if it prevents a larger mistaken investment.",
+          "translation": "因此，如果一次失败的实验能防止规模更大的错误投资，它就具有商业价值。"
+        },
+        {
+          "text": "Learning counts as progress only when the evidence is allowed to alter the plan.",
+          "translation": "只有允许证据改变计划时，学习才算真正的进展。"
+        }
+      ],
+      [
+        {
+          "text": "The discipline is emotional as well as analytical.",
+          "translation": "这种自律既涉及情绪，也涉及分析。"
+        },
+        {
+          "text": "Founders may treat criticism of a trial as criticism of their identity, especially after explaining the idea repeatedly to investors and friends.",
+          "translation": "创始人可能把对试验的批评视为对自身身份的批评，尤其是在向投资者和朋友反复介绍构想之后。"
+        },
+        {
+          "text": "Naming the assumption before the result arrives creates some distance between person and proposal.",
+          "translation": "在结果出现前明确说出假设，可以在个人与方案之间拉开一定距离。"
+        },
+        {
+          "text": "A team can then abandon a feature without describing months of effort as worthless, because the effort purchased evidence that changes the next decision.",
+          "translation": "这样，团队便能放弃某项功能，而不必把数月努力说成毫无价值，因为这些努力换来了能够改变下一项决策的证据。"
+        }
+      ]
+    ],
     "paragraphs": [
       "Entrepreneurs are often told to persist, yet persistence can preserve a weak idea as easily as a strong one. The practical question is what should remain constant. Commitment to solving a customer problem may justify many changes in product, price or delivery. Commitment to the first solution, by contrast, can turn previous investment into a reason for further loss.",
       "A small experiment separates assumptions. Suppose a founder believes restaurants will pay for software that reduces food waste. Building the full system tests design, pricing, installation and demand simultaneously at high cost. A manual weekly report prepared for five restaurants can first test whether managers use the recommendation and consider the saving valuable. The experiment is incomplete as a product but precise as a question.",

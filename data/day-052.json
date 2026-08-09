@@ -153,7 +153,8 @@
         "positive effect",
         "gain"
       ],
-      "note": "gain 可指个人获得的具体收益。 本组可用于讨论艺术与博物馆。"
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论艺术与博物馆。",
+      "translation": "benefit 表示益处；advantage、positive effect 和 gain 可表示优势、积极影响或收获。"
     },
     {
       "base": "harm",
@@ -162,7 +163,8 @@
         "negative effect",
         "undermine"
       ],
-      "note": "undermine 强调逐渐削弱。 本组可用于讨论艺术与博物馆。"
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论艺术与博物馆。",
+      "translation": "harm 表示伤害；damage、negative effect 和 undermine 可表示损害、负面影响或削弱。"
     },
     {
       "base": "support",
@@ -171,7 +173,8 @@
         "backing",
         "provision"
       ],
-      "note": "provision 常指服务或资源的供给。 本组可用于讨论艺术与博物馆。"
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论艺术与博物馆。",
+      "translation": "support 表示支持；assistance、backing 和 provision 可分别表示帮助、支持及供给。"
     },
     {
       "base": "different",
@@ -180,7 +183,8 @@
         "varied",
         "diverse"
       ],
-      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论艺术与博物馆。"
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论艺术与博物馆。",
+      "translation": "different 表示不同；distinct、varied 和 diverse 可强调区别、变化或多样性。"
     },
     {
       "base": "common",
@@ -189,7 +193,8 @@
         "frequently observed",
         "part of everyday life"
       ],
-      "note": "widespread 较正式，强调分布广。 本组可用于讨论艺术与博物馆。"
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论艺术与博物馆。",
+      "translation": "common 表示常见；widespread、frequently observed 和 part of everyday life 可表达普遍或日常可见。"
     },
     {
       "base": "help",
@@ -198,7 +203,8 @@
         "enable",
         "make it easier to"
       ],
-      "note": "enable 后接宾语和 to do。 本组可用于讨论艺术与博物馆。"
+      "note": "enable 后接宾语和 to do。 本组可用于讨论艺术与博物馆。",
+      "translation": "help 表示帮助；assist、enable 和 make it easier to 可用于不同正式程度的语境。"
     },
     {
       "base": "problem",
@@ -207,7 +213,8 @@
         "concern",
         "obstacle"
       ],
-      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论艺术与博物馆。"
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论艺术与博物馆。",
+      "translation": "problem 表示问题；challenge、concern 和 obstacle 可分别强调挑战、隐忧或障碍。"
     },
     {
       "base": "change",
@@ -216,51 +223,60 @@
         "development",
         "transformation"
       ],
-      "note": "transformation 表示幅度较大的变化。 本组可用于讨论艺术与博物馆。"
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论艺术与博物馆。",
+      "translation": "change 表示变化；shift、development 和 transformation 可表示不同幅度的改变。"
     }
   ],
   "sentences": [
     {
       "pattern": "A museum display can make + object + accessible by + interpretive action.",
       "cn": "博物馆展示可通过某种解释行为让物品更易理解。",
-      "example": "A museum display can make an unfamiliar object accessible by connecting it to daily use."
+      "example": "A museum display can make an unfamiliar object accessible by connecting it to daily use.",
+      "exampleTranslation": "博物馆展览可以通过把陌生物品与日常用途联系起来，使其更容易理解。"
     },
     {
       "pattern": "Were + artwork + shown without + context, visitors might + misunderstanding.",
       "cn": "如果艺术品在缺少语境的情况下展出，参观者可能……。",
-      "example": "Were the portrait shown without context, visitors might mistake wealth for ordinary life."
+      "example": "Were the portrait shown without context, visitors might mistake wealth for ordinary life.",
+      "exampleTranslation": "如果这幅肖像在没有背景信息的情况下展出，参观者可能把财富误认为普通生活。"
     },
     {
       "pattern": "The value of encountering + original work + lies partly in + physical quality.",
       "cn": "接触原作的价值部分在于其物理特征。",
-      "example": "The value of encountering the original painting lies partly in seeing its scale and surface."
+      "example": "The value of encountering the original painting lies partly in seeing its scale and surface.",
+      "exampleTranslation": "亲眼看到原作的价值，部分在于能够观察其尺寸和表面。"
     }
   ],
   "expressions": [
     {
       "text": "go to an exhibition",
       "cn": "去看展览",
-      "example": "I went to an exhibition of contemporary photography."
+      "example": "I went to an exhibition of contemporary photography.",
+      "exampleTranslation": "我参观了一场当代摄影展。"
     },
     {
       "text": "stand out from the rest",
       "cn": "从其余作品中脱颖而出",
-      "example": "One small sculpture stood out from the rest."
+      "example": "One small sculpture stood out from the rest.",
+      "exampleTranslation": "一件小型雕塑在其他作品中格外突出。"
     },
     {
       "text": "look at something from a new angle",
       "cn": "从新角度看待某事",
-      "example": "The exhibition made me look at migration from a new angle."
+      "example": "The exhibition made me look at migration from a new angle.",
+      "exampleTranslation": "这场展览让我从新角度看待迁移。"
     },
     {
       "text": "bring history to life",
       "cn": "让历史鲜活起来",
-      "example": "Personal objects can bring history to life."
+      "example": "Personal objects can bring history to life.",
+      "exampleTranslation": "个人物品可以让历史鲜活起来。"
     },
     {
       "text": "provide cultural access",
       "cn": "提供文化接触机会",
-      "example": "Free entry can provide cultural access to a wider public."
+      "example": "Free entry can provide cultural access to a wider public.",
+      "exampleTranslation": "免费入场可以让更广泛的公众接触文化。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "offer competing interpretations",
         "build public trust"
       ],
-      "argument": "An object may have incomplete ownership records or an uncertain use, yet labels often present one smooth story. Explaining what is known, how it is known and where experts disagree gives visitors a more accurate picture of scholarship. This does not require overwhelming them with every debate. A concise question or alternative interpretation can show that knowledge develops. Museums educate best when authority is transparent rather than artificially absolute."
+      "argument": "An object may have incomplete ownership records or an uncertain use, yet labels often present one smooth story. Explaining what is known, how it is known and where experts disagree gives visitors a more accurate picture of scholarship. This does not require overwhelming them with every debate. A concise question or alternative interpretation can show that knowledge develops. Museums educate best when authority is transparent rather than artificially absolute.",
+      "viewpointTranslation": "博物馆应解释不确定性，而不是掩盖它。",
+      "topicSentenceTranslation": "当机构区分证据与有依据的推测时，解读会更可信。",
+      "collocationTranslations": [
+        "呈现历史证据",
+        "承认不确定性",
+        "提供不同解释",
+        "建立公众信任"
+      ],
+      "argumentSentences": [
+        {
+          "text": "An object may have incomplete ownership records or an uncertain use, yet labels often present one smooth story.",
+          "translation": "一件物品的所有权记录或用途可能不完整、不确定，但说明牌往往只呈现一个流畅故事。"
+        },
+        {
+          "text": "Explaining what is known, how it is known and where experts disagree gives visitors a more accurate picture of scholarship.",
+          "translation": "解释已知内容、知识来源和专家分歧，可以让参观者更准确地了解学术研究。"
+        },
+        {
+          "text": "This does not require overwhelming them with every debate.",
+          "translation": "这不需要用每一项争论淹没他们。"
+        },
+        {
+          "text": "A concise question or alternative interpretation can show that knowledge develops.",
+          "translation": "一个简短问题或不同解释就能展示知识如何发展。"
+        },
+        {
+          "text": "Museums educate best when authority is transparent rather than artificially absolute.",
+          "translation": "当权威透明而不是被人为塑造成绝对正确时，博物馆的教育效果最好。"
+        }
+      ]
     },
     {
       "viewpoint": "Free entry needs outreach and relevance as well as an open door.",
@@ -301,19 +347,95 @@
         "co-design public programmes",
         "create a welcoming institution"
       ],
-      "argument": "Travel cost, unfamiliar etiquette and a belief that collections are not relevant can continue to exclude visitors. Partnerships with schools and community groups can shape programmes around genuine interests and explain practical expectations. Staff representation and multilingual interpretation also influence whether people feel recognised. Free admission is a valuable foundation, but participation depends on trust and repeated contact. Access should be measured by who returns, not merely who could theoretically enter."
+      "argument": "Travel cost, unfamiliar etiquette and a belief that collections are not relevant can continue to exclude visitors. Partnerships with schools and community groups can shape programmes around genuine interests and explain practical expectations. Staff representation and multilingual interpretation also influence whether people feel recognised. Free admission is a valuable foundation, but participation depends on trust and repeated contact. Access should be measured by who returns, not merely who could theoretically enter.",
+      "viewpointTranslation": "免费入场还需要外展、相关性和敞开的大门。",
+      "topicSentenceTranslation": "取消门票费用可以改善可及性，但不能确保每个群体都觉得自己能够使用博物馆。",
+      "collocationTranslations": [
+        "消除经济障碍",
+        "接触服务不足的受众",
+        "共同设计公共项目",
+        "打造友好机构"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Travel cost, unfamiliar etiquette and a belief that collections are not relevant can continue to exclude visitors.",
+          "translation": "交通费用、不熟悉的礼仪，以及认为馆藏与自己无关的想法，仍可能把参观者排除在外。"
+        },
+        {
+          "text": "Partnerships with schools and community groups can shape programmes around genuine interests and explain practical expectations.",
+          "translation": "与学校和社区团体合作，可以围绕真实兴趣设计项目并说明实际参观要求。"
+        },
+        {
+          "text": "Staff representation and multilingual interpretation also influence whether people feel recognised.",
+          "translation": "员工代表性和多语言解读也会影响人们是否觉得自己受到认可。"
+        },
+        {
+          "text": "Free admission is a valuable foundation, but participation depends on trust and repeated contact.",
+          "translation": "免费入场是宝贵基础，但参与取决于信任和反复接触。"
+        },
+        {
+          "text": "Access should be measured by who returns, not merely who could theoretically enter.",
+          "translation": "衡量可及性应看谁再次到访，而不只是理论上谁能进入。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you enjoy visiting museums?",
-      "answer": "Yes, especially when an exhibition has a clear question rather than displaying too many unrelated objects. I like reading short labels and then looking carefully at a few things. Interactive screens can help, but I do not want them to distract from the collection. I usually spend about two hours before losing concentration."
+      "answer": "Yes, especially when an exhibition has a clear question rather than displaying too many unrelated objects. I like reading short labels and then looking carefully at a few things. Interactive screens can help, but I do not want them to distract from the collection. I usually spend about two hours before losing concentration.",
+      "questionTranslation": "你喜欢参观博物馆吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, especially when an exhibition has a clear question rather than displaying too many unrelated objects.",
+          "translation": "喜欢，尤其是当展览围绕一个清晰问题，而不是展示太多互不相关的物品时。"
+        },
+        {
+          "text": "I like reading short labels and then looking carefully at a few things.",
+          "translation": "我喜欢阅读简短说明，然后仔细观察几件展品。"
+        },
+        {
+          "text": "Interactive screens can help, but I do not want them to distract from the collection.",
+          "translation": "互动屏幕可能有帮助，但我不希望它们分散对藏品的注意力。"
+        },
+        {
+          "text": "I usually spend about two hours before losing concentration.",
+          "translation": "我通常参观约两小时后就会失去专注力。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a work of art that made an impression on you.",
-      "answer": "A large landscape painting made a strong impression on me in a regional gallery. From a distance it looked calm, but close up the surface contained rough, energetic marks and unexpected colours. The label explained that the artist painted the area after industrial development had begun, so the scene was not simply a celebration of untouched nature. I stood there longer than I expected because the scale changed how I experienced the sky and the small human figures. A reproduction on my phone would communicate the composition, but not the physical effect. I remember the painting because it made beauty and environmental change exist in the same image without turning either into a simple message."
+      "answer": "A large landscape painting made a strong impression on me in a regional gallery. From a distance it looked calm, but close up the surface contained rough, energetic marks and unexpected colours. The label explained that the artist painted the area after industrial development had begun, so the scene was not simply a celebration of untouched nature. I stood there longer than I expected because the scale changed how I experienced the sky and the small human figures. A reproduction on my phone would communicate the composition, but not the physical effect. I remember the painting because it made beauty and environmental change exist in the same image without turning either into a simple message.",
+      "questionTranslation": "描述一件给你留下深刻印象的艺术品。",
+      "answerSentences": [
+        {
+          "text": "A large landscape painting made a strong impression on me in a regional gallery.",
+          "translation": "一家地区美术馆里的一幅大型风景画给我留下了深刻印象。"
+        },
+        {
+          "text": "From a distance it looked calm, but close up the surface contained rough, energetic marks and unexpected colours.",
+          "translation": "从远处看它很平静，但近看时画面表面充满粗犷有力的笔触和意想不到的色彩。"
+        },
+        {
+          "text": "The label explained that the artist painted the area after industrial development had begun, so the scene was not simply a celebration of untouched nature.",
+          "translation": "说明牌解释说，艺术家在当地开始工业开发后绘制了这一区域，因此画面并非只是赞美未受破坏的自然。"
+        },
+        {
+          "text": "I stood there longer than I expected because the scale changed how I experienced the sky and the small human figures.",
+          "translation": "我在那里停留得比预期久，因为画幅尺寸改变了我感受天空和微小人物的方式。"
+        },
+        {
+          "text": "A reproduction on my phone would communicate the composition, but not the physical effect.",
+          "translation": "手机上的复制图可以传达构图，却无法传达实体作品带来的感受。"
+        },
+        {
+          "text": "I remember the painting because it made beauty and environmental change exist in the same image without turning either into a simple message.",
+          "translation": "我记得这幅画，是因为它让美与环境变化同时存在于一幅图像中，又没有把两者简化成单一信息。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +472,115 @@
         "answer": "authority",
         "explanation": "This is the final word of the passage."
       }
+    ],
+    "titleTranslation": "谁来撰写博物馆说明牌？",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A museum label is small, but it makes powerful choices.",
+          "translation": "博物馆说明牌虽小，却会作出影响重大的选择。"
+        },
+        {
+          "text": "It names an object, selects a date and decides which part of a complicated history a visitor encounters first.",
+          "translation": "它为物品命名、选择年代，并决定参观者首先接触复杂历史的哪一部分。"
+        },
+        {
+          "text": "Because gallery space and attention are limited, omission is unavoidable.",
+          "translation": "由于展厅空间和注意力有限，遗漏不可避免。"
+        },
+        {
+          "text": "The question is not whether a label is complete, but whose knowledge guides the selection.",
+          "translation": "问题不在于说明牌是否完整，而在于谁的知识指导了选择。"
+        }
+      ],
+      [
+        {
+          "text": "Traditionally, curators wrote labels from specialist research and an institutional voice.",
+          "translation": "传统上，策展人依据专业研究并以机构口吻撰写说明牌。"
+        },
+        {
+          "text": "This produces consistency and can protect accuracy.",
+          "translation": "这能保持一致性并保障准确性。"
+        },
+        {
+          "text": "It may also hide uncertainty or describe an object through categories unfamiliar to the people who made and used it.",
+          "translation": "但它也可能掩盖不确定性，或使用物品制作和使用者并不熟悉的类别来描述物品。"
+        },
+        {
+          "text": "A ceremonial item, for example, can become primarily an example of material and style when its ongoing social role is omitted.",
+          "translation": "例如，如果省略一件仪式用品持续存在的社会作用，它就可能主要被当作材料和风格的范例。"
+        }
+      ],
+      [
+        {
+          "text": "Some museums invite source communities, artists or users to contribute.",
+          "translation": "一些博物馆邀请来源社区、艺术家或使用者参与撰写。"
+        },
+        {
+          "text": "Their words can restore names, memories and functions absent from the catalogue.",
+          "translation": "他们的话语可以恢复目录中缺失的名称、记忆和功能。"
+        },
+        {
+          "text": "Collaboration is not simple correction: participants may disagree with one another, and no community has one permanent voice.",
+          "translation": "合作并不是简单纠错：参与者彼此可能意见不同，任何社区也没有一种永恒不变的声音。"
+        },
+        {
+          "text": "Museums still need to verify claims and state who is speaking rather than present every contribution as consensus.",
+          "translation": "博物馆仍需核实说法并说明发言者身份，而不能把每项贡献都呈现为共识。"
+        }
+      ],
+      [
+        {
+          "text": "Digital labels remove some space constraints and can offer audio, translation and extended debate.",
+          "translation": "数字说明消除了一些空间限制，可以提供音频、翻译和扩展讨论。"
+        },
+        {
+          "text": "Yet adding information does not decide its hierarchy.",
+          "translation": "然而，增加信息并不能决定其层级。"
+        },
+        {
+          "text": "Most visitors read only the first layer, so the physical label continues to frame the encounter.",
+          "translation": "大多数参观者只阅读第一层内容，因此实体说明牌仍会为接触展品的方式设定框架。"
+        },
+        {
+          "text": "Testing with varied audiences can reveal jargon, assumed background and questions the curatorial team did not anticipate.",
+          "translation": "面向不同受众测试，可以发现专业术语、被默认的背景知识和策展团队未曾预料的问题。"
+        }
+      ],
+      [
+        {
+          "text": "The best label does not finish interpretation.",
+          "translation": "最佳说明牌不会终结解读。"
+        },
+        {
+          "text": "It gives enough evidence and context for close looking while opening a route to further knowledge.",
+          "translation": "它提供足够证据和背景来支持仔细观察，同时打开通往更多知识的路径。"
+        },
+        {
+          "text": "Naming authorship or consultation makes institutional decisions visible.",
+          "translation": "注明作者或咨询过程会让机构决定变得可见。"
+        },
+        {
+          "text": "In this sense, the label is not a neutral caption attached after exhibition design; it is one of the main places where a museum distributes authority.",
+          "translation": "从这个意义上说，说明牌不是展览设计完成后附上的中立文字，而是博物馆分配权威的主要场所之一。"
+        },
+        {
+          "text": "Labels also operate within a sequence.",
+          "translation": "说明牌还存在于一个序列之中。"
+        },
+        {
+          "text": "Information placed at the entrance can establish a question that later objects complicate, while repeating identical background beside every case wastes attention.",
+          "translation": "入口处的信息可以提出一个问题，让后续展品使其变得复杂；在每个展柜旁重复相同背景则会浪费注意力。"
+        },
+        {
+          "text": "Exhibition writers therefore consider the route through the gallery as well as each individual caption.",
+          "translation": "因此，展览撰稿人既要考虑每条说明，也要考虑参观展厅的路线。"
+        },
+        {
+          "text": "Meaning emerges from relationships between objects, spaces and words rather than from isolated labels alone.",
+          "translation": "意义来自物品、空间和文字之间的关系，而不只来自孤立的说明牌。"
+        }
+      ]
     ]
   }
 }

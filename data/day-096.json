@@ -153,7 +153,8 @@
         "population health across countries",
         "health challenges that cross national boundaries"
       ],
-      "note": "global health不仅指国外医疗，也包括跨国因素和不平等。"
+      "note": "global health不仅指国外医疗，也包括跨国因素和不平等。",
+      "translation": "全球健康，也可表达为世界公共卫生、跨国健康状况或影响各国人口的健康问题。"
     },
     {
       "base": "poor access to healthcare",
@@ -162,7 +163,8 @@
         "barriers to essential health services",
         "inadequate availability of affordable treatment"
       ],
-      "note": "availability和affordability可分别指出供给与费用问题。"
+      "note": "availability和affordability可分别指出供给与费用问题。",
+      "translation": "医疗服务可及性差，也可表达为难以获得医疗、医疗覆盖不足或看病面临现实障碍。"
     },
     {
       "base": "stop disease",
@@ -171,7 +173,8 @@
         "reduce disease transmission",
         "protect populations from avoidable infection"
       ],
-      "note": "reduce transmission比stop更准确。"
+      "note": "reduce transmission比stop更准确。",
+      "translation": "预防疾病，也可表达为阻止疾病传播、降低患病风险或采取预防措施。"
     },
     {
       "base": "people die during pregnancy",
@@ -180,7 +183,8 @@
         "women face pregnancy-related mortality",
         "pregnancy and childbirth contribute to preventable mortality"
       ],
-      "note": "maternal mortality是正式统计术语。"
+      "note": "maternal mortality是正式统计术语。",
+      "translation": "孕产妇死亡，也可表达为孕产妇死亡率高、女性在妊娠或分娩期间死亡或缺少安全产科服务。"
     },
     {
       "base": "watch for new cases",
@@ -189,7 +193,8 @@
         "monitor emerging infections",
         "systematically detect and report cases"
       ],
-      "note": "surveillance包含持续收集、分析和报告。"
+      "note": "surveillance包含持续收集、分析和报告。",
+      "translation": "监测新病例，也可表达为疾病监测、追踪新增感染或建立预警系统。"
     },
     {
       "base": "medical workers",
@@ -198,7 +203,8 @@
         "the healthcare workforce",
         "trained personnel delivering health services"
       ],
-      "note": "workforce强调一个系统中的人力资源。"
+      "note": "workforce强调一个系统中的人力资源。",
+      "translation": "医务人员，也可表达为医疗工作者、卫生专业人员或提供临床与社区照护的人。"
     },
     {
       "base": "health differences",
@@ -207,7 +213,8 @@
         "inequalities in health outcomes",
         "unequal patterns of illness and survival"
       ],
-      "note": "disparity描述差距，inequity还暗示不公平。"
+      "note": "disparity描述差距，inequity还暗示不公平。",
+      "translation": "健康差异，也可表达为健康不平等、群体间健康差距或医疗结果不均。"
     },
     {
       "base": "work together internationally",
@@ -216,51 +223,60 @@
         "pursue international health cooperation",
         "share data and resources between health systems"
       ],
-      "note": "coordinate强调行动衔接而非泛泛合作。"
+      "note": "coordinate强调行动衔接而非泛泛合作。",
+      "translation": "开展国际合作，也可表达为跨国协调、共享卫生资源或共同应对全球健康威胁。"
     }
   ],
   "sentences": [
     {
       "pattern": "Even where + treatment + is available, patients may be unable to use it because + access barrier.",
       "cn": "即使某种治疗已经存在，患者仍可能因具体的就医障碍而无法获得它。",
-      "example": "Even where malaria treatment is available, patients may be unable to use it because the nearest clinic is several hours away."
+      "example": "Even where malaria treatment is available, patients may be unable to use it because the nearest clinic is several hours away.",
+      "exampleTranslation": "即使有疟疾治疗，患者也可能因最近的诊所距离数小时而无法使用。"
     },
     {
       "pattern": "The more quickly + health systems + share + information, the more effectively they can + response.",
       "cn": "卫生系统越快共享某类信息，就越能有效采取相应措施。",
-      "example": "The more quickly laboratories share resistance data, the more effectively doctors can adjust treatment guidelines."
+      "example": "The more quickly laboratories share resistance data, the more effectively doctors can adjust treatment guidelines.",
+      "exampleTranslation": "实验室共享耐药数据越快，医生就越能有效调整治疗指南。"
     },
     {
       "pattern": "Improving + health outcome requires not only + medical measure but also + social or practical measure.",
       "cn": "改善某项健康结果不仅需要医疗措施，还需要社会或实际层面的配套行动。",
-      "example": "Improving maternal health requires not only trained clinicians but also reliable transport to emergency care."
+      "example": "Improving maternal health requires not only trained clinicians but also reliable transport to emergency care.",
+      "exampleTranslation": "改善孕产妇健康不仅需要受过训练的临床人员，也需要可靠的紧急送医交通。"
     }
   ],
   "expressions": [
     {
       "text": "get back on my feet",
       "cn": "恢复健康或重新振作",
-      "example": "Good follow-up care helped her get back on her feet after the illness."
+      "example": "Good follow-up care helped her get back on her feet after the illness.",
+      "exampleTranslation": "良好的后续护理帮助她在患病后恢复健康。"
     },
     {
       "text": "put off seeing a doctor",
       "cn": "推迟去看医生",
-      "example": "Some people put off seeing a doctor because they cannot miss work."
+      "example": "Some people put off seeing a doctor because they cannot miss work.",
+      "exampleTranslation": "有些人因为不能请假而推迟看医生。"
     },
     {
       "text": "catch an illness early",
       "cn": "及早发现疾病",
-      "example": "Routine screening can catch an illness early."
+      "example": "Routine screening can catch an illness early.",
+      "exampleTranslation": "常规筛查能够及早发现疾病。"
     },
     {
       "text": "strengthen health-system resilience",
       "cn": "增强卫生系统韧性",
-      "example": "Local laboratories strengthen health-system resilience."
+      "example": "Local laboratories strengthen health-system resilience.",
+      "exampleTranslation": "本地实验室可以增强卫生系统韧性。"
     },
     {
       "text": "close the gap in access to care",
       "cn": "缩小医疗可及性差距",
-      "example": "Mobile clinics can help close the gap in access to care."
+      "example": "Mobile clinics can help close the gap in access to care.",
+      "exampleTranslation": "流动诊所能够帮助缩小医疗服务可及性差距。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "deliver routine vaccination",
         "reduce pressure on hospitals"
       ],
-      "argument": "Hospitals are essential for complex treatment, but they are a costly first point of contact for common illness. A nearby primary-care team can vaccinate children, monitor blood pressure and identify dangerous symptoms before complications develop. In rural regions, combining community health workers with remote clinical support can extend this basic coverage without waiting for a specialist hospital in every town. Earlier care improves outcomes while reducing avoidable admissions. Health budgets should therefore protect routine local services alongside high-profile medical technology."
+      "argument": "Hospitals are essential for complex treatment, but they are a costly first point of contact for common illness. A nearby primary-care team can vaccinate children, monitor blood pressure and identify dangerous symptoms before complications develop. In rural regions, combining community health workers with remote clinical support can extend this basic coverage without waiting for a specialist hospital in every town. Earlier care improves outcomes while reducing avoidable admissions. Health budgets should therefore protect routine local services alongside high-profile medical technology.",
+      "viewpointTranslation": "加强初级医疗是推动全球健康进步的核心。",
+      "topicSentenceTranslation": "投资便利的初级医疗可以防止小健康问题演变成昂贵的急症。",
+      "collocationTranslations": [
+        "提供早期诊断",
+        "管理慢性病",
+        "开展常规疫苗接种",
+        "减轻医院压力"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Hospitals are essential for complex treatment, but they are a costly first point of contact for common illness.",
+          "translation": "医院对复杂治疗必不可少，但把它作为常见疾病的首个接触点成本很高。"
+        },
+        {
+          "text": "A nearby primary-care team can vaccinate children, monitor blood pressure and identify dangerous symptoms before complications develop.",
+          "translation": "附近的初级医疗团队可以为儿童接种疫苗、监测血压，并在并发症出现前识别危险症状。"
+        },
+        {
+          "text": "In rural regions, combining community health workers with remote clinical support can extend this basic coverage without waiting for a specialist hospital in every town.",
+          "translation": "在乡村地区，把社区医护人员与远程临床支持结合起来，可以扩大基础覆盖，而无需等待每个城镇都建成专科医院。"
+        },
+        {
+          "text": "Earlier care improves outcomes while reducing avoidable admissions.",
+          "translation": "更早提供医疗可以改善结果，同时减少可避免的住院。"
+        },
+        {
+          "text": "Health budgets should therefore protect routine local services alongside high-profile medical technology.",
+          "translation": "因此，卫生预算应在高调医疗技术之外保护日常本地服务。"
+        }
+      ]
     },
     {
       "viewpoint": "International disease reporting should be supported, not merely demanded.",
@@ -301,19 +347,107 @@
         "avoid punitive travel measures",
         "build mutual trust"
       ],
-      "argument": "A government that expects immediate economic penalties may hesitate to announce an uncertain cluster of cases. That delay deprives neighbouring health systems of time to prepare and can ultimately allow wider transmission. International agreements should pair transparent reporting with rapid testing support, protective equipment and proportionate responses. Independent review can still address serious concealment, but routine uncertainty should not be treated as misconduct. Cooperation built around reciprocal assistance creates a stronger incentive for early warning than blame alone."
+      "argument": "A government that expects immediate economic penalties may hesitate to announce an uncertain cluster of cases. That delay deprives neighbouring health systems of time to prepare and can ultimately allow wider transmission. International agreements should pair transparent reporting with rapid testing support, protective equipment and proportionate responses. Independent review can still address serious concealment, but routine uncertainty should not be treated as misconduct. Cooperation built around reciprocal assistance creates a stronger incentive for early warning than blame alone.",
+      "viewpointTranslation": "国际疾病报告应得到支持，而不只是被要求履行。",
+      "topicSentenceTranslation": "当合作提供实际帮助而非自动惩罚时，各国更可能及时报告新发疫情。",
+      "collocationTranslations": [
+        "共享监测数据",
+        "提供快速实验室支持",
+        "避免惩罚性旅行措施",
+        "建立相互信任"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A government that expects immediate economic penalties may hesitate to announce an uncertain cluster of cases.",
+          "translation": "预期会立即遭受经济惩罚的政府，可能会犹豫是否公布尚不确定的病例聚集。"
+        },
+        {
+          "text": "That delay deprives neighbouring health systems of time to prepare and can ultimately allow wider transmission.",
+          "translation": "这种延误会剥夺邻近卫生系统的准备时间，最终还可能造成更广泛传播。"
+        },
+        {
+          "text": "International agreements should pair transparent reporting with rapid testing support, protective equipment and proportionate responses.",
+          "translation": "国际协议应把透明报告与快速检测支持、防护设备和适度应对结合起来。"
+        },
+        {
+          "text": "Independent review can still address serious concealment, but routine uncertainty should not be treated as misconduct.",
+          "translation": "独立审查仍可处理严重隐瞒，但不应把日常的不确定性视为不当行为。"
+        },
+        {
+          "text": "Cooperation built around reciprocal assistance creates a stronger incentive for early warning than blame alone.",
+          "translation": "以互助为基础的合作，比单纯指责更能激励早期预警。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe something you do to look after your health.",
-      "answer": "One simple thing I do is take a brisk walk after dinner on most weekdays. I started because I was spending almost the whole day sitting at a desk, and a demanding exercise plan was difficult to maintain. The walk usually lasts about half an hour, and I choose a familiar route through a nearby residential area. It helps me separate work from the evening, and I often sleep better afterwards. I do not track every step or treat it as serious training, which is probably why the habit has lasted. If the weather is bad, I walk indoors or do some stretching instead. For me, looking after my health works best when the activity fits naturally into my routine."
+      "answer": "One simple thing I do is take a brisk walk after dinner on most weekdays. I started because I was spending almost the whole day sitting at a desk, and a demanding exercise plan was difficult to maintain. The walk usually lasts about half an hour, and I choose a familiar route through a nearby residential area. It helps me separate work from the evening, and I often sleep better afterwards. I do not track every step or treat it as serious training, which is probably why the habit has lasted. If the weather is bad, I walk indoors or do some stretching instead. For me, looking after my health works best when the activity fits naturally into my routine.",
+      "questionTranslation": "请描述一件你为保持健康而做的事情。",
+      "answerSentences": [
+        {
+          "text": "One simple thing I do is take a brisk walk after dinner on most weekdays.",
+          "translation": "我做的一件简单事情，是大多数工作日晚饭后快走。"
+        },
+        {
+          "text": "I started because I was spending almost the whole day sitting at a desk, and a demanding exercise plan was difficult to maintain.",
+          "translation": "我开始这样做，是因为我几乎整天坐在书桌前，而高强度锻炼计划很难坚持。"
+        },
+        {
+          "text": "The walk usually lasts about half an hour, and I choose a familiar route through a nearby residential area.",
+          "translation": "散步通常持续约半小时，我会选择附近住宅区的一条熟悉路线。"
+        },
+        {
+          "text": "It helps me separate work from the evening, and I often sleep better afterwards.",
+          "translation": "它帮助我把工作与夜晚分开，而且之后我常常睡得更好。"
+        },
+        {
+          "text": "I do not track every step or treat it as serious training, which is probably why the habit has lasted.",
+          "translation": "我不会记录每一步，也不会把它当成严肃训练，这或许正是这个习惯得以保持的原因。"
+        },
+        {
+          "text": "If the weather is bad, I walk indoors or do some stretching instead.",
+          "translation": "天气不好时，我会在室内走动或改做拉伸。"
+        },
+        {
+          "text": "For me, looking after my health works best when the activity fits naturally into my routine.",
+          "translation": "对我而言，只有当活动自然融入日常安排时，保持健康才最有效。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Why do people sometimes avoid medical care even when they know they need it?",
-      "answer": "Cost is an obvious reason in systems where patients pay directly, but time and uncertainty matter as well. Someone may be unable to leave work, arrange childcare or travel to a distant clinic. Others fear a diagnosis or hope that the problem will disappear, especially if the symptoms are embarrassing. Previous experiences of rushed or disrespectful care can also reduce trust. Services become easier to use when appointments are flexible, fees are clear and staff communicate without judgement. Public information should encourage early care, but it cannot substitute for removing these practical barriers."
+      "answer": "Cost is an obvious reason in systems where patients pay directly, but time and uncertainty matter as well. Someone may be unable to leave work, arrange childcare or travel to a distant clinic. Others fear a diagnosis or hope that the problem will disappear, especially if the symptoms are embarrassing. Previous experiences of rushed or disrespectful care can also reduce trust. Services become easier to use when appointments are flexible, fees are clear and staff communicate without judgement. Public information should encourage early care, but it cannot substitute for removing these practical barriers.",
+      "questionTranslation": "为什么人们明知需要医疗帮助，有时仍会回避就医？",
+      "answerSentences": [
+        {
+          "text": "Cost is an obvious reason in systems where patients pay directly, but time and uncertainty matter as well.",
+          "translation": "在患者直接付费的医疗体系中，费用是明显原因，但时间和不确定性同样重要。"
+        },
+        {
+          "text": "Someone may be unable to leave work, arrange childcare or travel to a distant clinic.",
+          "translation": "有人可能无法离开工作岗位、安排儿童照护或前往遥远诊所。"
+        },
+        {
+          "text": "Others fear a diagnosis or hope that the problem will disappear, especially if the symptoms are embarrassing.",
+          "translation": "另一些人害怕诊断结果，或希望问题自行消失，尤其是症状令人难为情时。"
+        },
+        {
+          "text": "Previous experiences of rushed or disrespectful care can also reduce trust.",
+          "translation": "过去遭遇仓促或不尊重的医疗，也会削弱信任。"
+        },
+        {
+          "text": "Services become easier to use when appointments are flexible, fees are clear and staff communicate without judgement.",
+          "translation": "当预约灵活、收费清楚且工作人员交流时不加评判，服务会更容易使用。"
+        },
+        {
+          "text": "Public information should encourage early care, but it cannot substitute for removing these practical barriers.",
+          "translation": "公共信息应鼓励尽早就医，但不能代替消除这些现实障碍。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +484,91 @@
         "answer": "trust",
         "explanation": "Paragraph 3 refers to a trusted relationship with the community."
       }
+    ],
+    "titleTranslation": "社区医护人员的第二次生命",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "During the 1970s, several countries trained local residents to deliver basic health education, support vaccination and recognise dangerous symptoms.",
+          "translation": "20世纪70年代，一些国家培训本地居民开展基本健康教育、支持疫苗接种并识别危险症状。"
+        },
+        {
+          "text": "These community health workers were expected to connect households with clinics that were too distant or understaffed to reach everyone.",
+          "translation": "这些社区医护人员应当把家庭与距离过远或人手不足、无法覆盖所有人的诊所连接起来。"
+        },
+        {
+          "text": "Some programmes achieved impressive results, but others faded when short-term funding ended, medicines became unavailable or volunteers were asked to perform expanding duties without adequate pay.",
+          "translation": "一些项目取得显著成果，另一些却在短期资金结束、药品断供或志愿者被要求在报酬不足的情况下承担不断扩张的职责后逐渐消失。"
+        }
+      ],
+      [
+        {
+          "text": "Interest returned in the early 2000s as governments sought to improve maternal care and respond to infectious diseases.",
+          "translation": "21世纪初，随着各国政府寻求改善孕产妇照护并应对传染病，人们重新产生兴趣。"
+        },
+        {
+          "text": "The revived model differed from the earlier ideal of a broadly capable village volunteer.",
+          "translation": "复兴后的模式不同于过去那种能力全面的乡村志愿者理想。"
+        },
+        {
+          "text": "Many programmes assigned narrower tasks, supported by checklists and regular supervision: visiting newborns, observing tuberculosis treatment or testing for malaria.",
+          "translation": "许多项目分配更具体的任务，并用核对清单和定期督导提供支持：探访新生儿、监督结核病治疗或检测疟疾。"
+        },
+        {
+          "text": "Mobile phones later made it possible to register patients, request advice and report stock shortages without travelling to a district office.",
+          "translation": "后来，手机使工作人员无需前往地区办公室就能登记患者、请求建议和报告库存短缺。"
+        }
+      ],
+      [
+        {
+          "text": "Technology did not remove the need for judgement.",
+          "translation": "技术并没有消除判断的必要。"
+        },
+        {
+          "text": "A digital form could indicate that a child required referral, yet the worker still had to explain the urgency, help the family arrange transport and alert a facility that might already be crowded.",
+          "translation": "数字表格可以提示儿童需要转诊，但工作人员仍需说明紧迫性、帮助家庭安排交通，并通知可能已经拥挤的医疗机构。"
+        },
+        {
+          "text": "Researchers comparing programmes found that equipment alone predicted little.",
+          "translation": "比较不同项目的研究人员发现，单靠设备几乎不能预测成效。"
+        },
+        {
+          "text": "Reliable supplies, supportive supervision and a trusted relationship with the community were more consistently associated with good performance.",
+          "translation": "可靠物资、支持性督导以及与社区的信任关系，更稳定地与良好表现相关。"
+        }
+      ],
+      [
+        {
+          "text": "The question of employment has also become harder to avoid.",
+          "translation": "就业问题也越来越难以回避。"
+        },
+        {
+          "text": "Calling workers volunteers may keep a pilot inexpensive, but unpaid duties often fall on women who are already providing substantial care at home.",
+          "translation": "把工作人员称为志愿者可以降低试点成本，但无偿职责往往落在已经在家承担大量照护工作的女性身上。"
+        },
+        {
+          "text": "High turnover then weakens local knowledge and wastes training.",
+          "translation": "人员高流动随后削弱本地知识并浪费培训。"
+        },
+        {
+          "text": "Several health systems have introduced salaries or defined career steps, although formalisation can create new paperwork and may recruit workers who live farther from the communities they serve.",
+          "translation": "一些卫生系统引入了工资或明确职业晋升路径，不过正规化会制造新文件，也可能招募居住地离服务社区更远的人员。"
+        }
+      ],
+      [
+        {
+          "text": "Community health workers are neither substitutes for clinics nor temporary messengers.",
+          "translation": "社区医护人员既不是诊所的替代品，也不是临时信使。"
+        },
+        {
+          "text": "At their best, they form part of a connected system in which local trust, medical supplies, referral transport and professional care reinforce one another.",
+          "translation": "在最佳状态下，他们属于一个相互连接的体系，其中本地信任、医疗物资、转诊交通和专业照护彼此加强。"
+        },
+        {
+          "text": "Their history suggests that expanding a workforce is easier than sustaining the conditions that allow its members to do useful work.",
+          "translation": "其历史表明，扩大队伍比长期维持让成员有效工作的条件更容易。"
+        }
+      ]
     ]
   }
 }

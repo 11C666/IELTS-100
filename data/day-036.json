@@ -148,6 +148,7 @@
   "paraphrases": [
     {
       "base": "work away from the office",
+      "translation": "在办公室以外工作",
       "options": [
         "work remotely",
         "work from home",
@@ -157,6 +158,7 @@
     },
     {
       "base": "online meeting",
+      "translation": "线上会议",
       "options": [
         "video conference",
         "virtual meeting",
@@ -166,6 +168,7 @@
     },
     {
       "base": "written record",
+      "translation": "书面记录",
       "options": [
         "decision log",
         "shared documentation",
@@ -175,6 +178,7 @@
     },
     {
       "base": "work at different times",
+      "translation": "在不同时间工作",
       "options": [
         "asynchronous collaboration",
         "time-shifted coordination",
@@ -184,6 +188,7 @@
     },
     {
       "base": "office and home work",
+      "translation": "办公室与居家混合办公",
       "options": [
         "hybrid working",
         "a mixed-location arrangement",
@@ -193,6 +198,7 @@
     },
     {
       "base": "focus without interruption",
+      "translation": "不受打扰地专注",
       "options": [
         "protect concentrated work",
         "create uninterrupted time",
@@ -202,6 +208,7 @@
     },
     {
       "base": "new employee begins remotely",
+      "translation": "新员工远程入职",
       "options": [
         "remote onboarding",
         "virtual induction",
@@ -211,6 +218,7 @@
     },
     {
       "base": "too many calls",
+      "translation": "通话过多",
       "options": [
         "meeting overload",
         "an excessive video-call schedule",
@@ -223,44 +231,52 @@
     {
       "pattern": "Remote work removes + commuting constraint, yet introduces + coordination problem.",
       "cn": "远程工作消除了某种通勤限制，却带来了某种协调问题。",
-      "example": "Remote work removes a daily commute, yet introduces the problem of informal isolation."
+      "example": "Remote work removes a daily commute, yet introduces the problem of informal isolation.",
+      "exampleTranslation": "远程工作免去了每日通勤，却带来了非正式社交隔离的问题。"
     },
     {
       "pattern": "Without + shared practice, distributed colleagues may + negative outcome.",
       "cn": "如果缺少某种共享做法，分散办公的同事可能会……。",
-      "example": "Without written decisions, distributed colleagues may act on different assumptions."
+      "example": "Without written decisions, distributed colleagues may act on different assumptions.",
+      "exampleTranslation": "如果没有书面决策记录，分散办公的同事可能会基于不同假设采取行动。"
     },
     {
       "pattern": "So long as + outcome + is clear, employees can be given greater freedom over + process.",
       "cn": "只要结果明确，员工就可以在某过程上获得更大自由。",
-      "example": "So long as the outcome is clear, employees can be given greater freedom over when they concentrate."
+      "example": "So long as the outcome is clear, employees can be given greater freedom over when they concentrate.",
+      "exampleTranslation": "只要成果要求明确，就可以让员工更自由地安排专注工作的时间。"
     }
   ],
   "expressions": [
     {
       "text": "work from home",
       "cn": "居家办公",
-      "example": "I work from home two days a week."
+      "example": "I work from home two days a week.",
+      "exampleTranslation": "我每周有两天在家办公。"
     },
     {
       "text": "join a video call",
       "cn": "参加视频会议",
-      "example": "I joined the video call a few minutes early."
+      "example": "I joined the video call a few minutes early.",
+      "exampleTranslation": "我提前几分钟加入了视频通话。"
     },
     {
       "text": "miss the office atmosphere",
       "cn": "想念办公室氛围",
-      "example": "Some remote employees miss the office atmosphere."
+      "example": "Some remote employees miss the office atmosphere.",
+      "exampleTranslation": "一些远程员工会怀念办公室的氛围。"
     },
     {
       "text": "have a reliable connection",
       "cn": "拥有稳定网络",
-      "example": "Remote staff need a reliable connection."
+      "example": "Remote staff need a reliable connection.",
+      "exampleTranslation": "远程员工需要稳定可靠的网络连接。"
     },
     {
       "text": "keep communication asynchronous",
       "cn": "保持异步沟通",
-      "example": "We keep routine communication asynchronous to protect focused time."
+      "example": "We keep routine communication asynchronous to protect focused time.",
+      "exampleTranslation": "我们采用异步方式处理日常沟通，以保障专注工作的时间。"
     }
   ],
   "mistakes": [
@@ -283,7 +299,9 @@
   "writingIdeas": [
     {
       "viewpoint": "Remote-first teams should write down decisions.",
+      "viewpointTranslation": "以远程办公为主的团队应当把决策记录下来。",
       "topicSentence": "Clear asynchronous records prevent location and time zone from determining who has access to information.",
+      "topicSentenceTranslation": "清晰的异步记录可以避免地点和时区决定谁能够获得信息。",
       "collocations": [
         "document a decision",
         "share project context",
@@ -291,10 +309,20 @@
         "reduce unnecessary meetings"
       ],
       "argument": "Office teams can repair missing information through a quick conversation, but remote colleagues may not know that the conversation occurred. A brief written decision should state the choice, reason, owner and next step. This helps new members and prevents the same issue from being debated repeatedly. It also allows staff in another time zone to contribute without attending every call. Documentation becomes shared infrastructure rather than administrative decoration."
+      ,"collocationTranslations": ["记录决策", "共享项目背景", "跨时区工作", "减少不必要的会议"]
+      ,"argumentSentences": [
+        {"text":"Office teams can repair missing information through a quick conversation, but remote colleagues may not know that the conversation occurred.","translation":"办公室团队可以通过简短交谈补全缺失的信息，但远程同事可能根本不知道这次交谈发生过。"},
+        {"text":"A brief written decision should state the choice, reason, owner and next step.","translation":"简短的书面决策应说明选择、理由、负责人和下一步行动。"},
+        {"text":"This helps new members and prevents the same issue from being debated repeatedly.","translation":"这既能帮助新成员，也能避免同一个问题被反复讨论。"},
+        {"text":"It also allows staff in another time zone to contribute without attending every call.","translation":"它还使其他时区的员工无需参加每次通话也能作出贡献。"},
+        {"text":"Documentation becomes shared infrastructure rather than administrative decoration.","translation":"文档由此成为共享的基础设施，而不是行政上的装饰。"}
+      ]
     },
     {
       "viewpoint": "Hybrid work should be designed around activities, not fixed attendance quotas.",
+      "viewpointTranslation": "混合办公应围绕工作活动设计，而不是围绕固定出勤指标。",
       "topicSentence": "Office time creates most value when colleagues know why they are gathering.",
+      "topicSentenceTranslation": "当同事清楚聚在办公室的目的时，办公时间才能创造最大价值。",
       "collocations": [
         "coordinate in person",
         "protect focused work",
@@ -302,22 +330,85 @@
         "support informal learning"
       ],
       "argument": "Requiring everyone to attend on different days produces commuting without collaboration. Teams should identify tasks that benefit from physical presence, such as difficult planning, practical training or relationship-building. Individual analysis may be performed more effectively elsewhere if tools and home conditions are suitable. Agreed anchor days can preserve informal contact without making presence an end in itself. A purposeful hybrid model treats location as part of task design."
+      ,"collocationTranslations": ["当面协调", "保障专注工作", "有目的地使用办公空间", "支持非正式学习"]
+      ,"argumentSentences": [
+        {"text":"Requiring everyone to attend on different days produces commuting without collaboration.","translation":"要求所有人在不同日期到岗，只会产生通勤，却不会带来协作。"},
+        {"text":"Teams should identify tasks that benefit from physical presence, such as difficult planning, practical training or relationship-building.","translation":"团队应找出适合现场完成的任务，例如复杂规划、实践培训或关系建设。"},
+        {"text":"Individual analysis may be performed more effectively elsewhere if tools and home conditions are suitable.","translation":"如果工具和居家条件合适，个人分析工作在其他地方完成可能更高效。"},
+        {"text":"Agreed anchor days can preserve informal contact without making presence an end in itself.","translation":"共同约定的到岗日可以保留非正式接触，又不会把到场本身当作目的。"},
+        {"text":"A purposeful hybrid model treats location as part of task design.","translation":"有明确目的的混合办公模式会把地点视为任务设计的一部分。"}
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Would you like to work from home regularly?",
+      "questionTranslation": "你愿意经常在家工作吗？",
       "answer": "I would like a mixed arrangement rather than working remotely every day. At home I can concentrate without commuting, especially on writing or analysis. In the office, quick questions and informal conversations are easier. Two remote days would give me flexibility without making me feel disconnected from the team. That balance would suit both my concentration and my need for regular human contact."
+      ,"answerSentences": [
+        {"text":"I would like a mixed arrangement rather than working remotely every day.","translation":"我更喜欢混合办公，而不是每天都远程工作。"},
+        {"text":"At home I can concentrate without commuting, especially on writing or analysis.","translation":"在家时，我不用通勤，也能专心工作，尤其适合写作或分析。"},
+        {"text":"In the office, quick questions and informal conversations are easier.","translation":"在办公室里，临时提问和非正式交谈会更方便。"},
+        {"text":"Two remote days would give me flexibility without making me feel disconnected from the team.","translation":"每周远程工作两天既能给我灵活性，又不会让我觉得与团队脱节。"},
+        {"text":"That balance would suit both my concentration and my need for regular human contact.","translation":"这种平衡既符合我专注工作的需要，也满足我定期与人接触的需求。"}
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a place where you can work or study effectively.",
+      "questionTranslation": "描述一个你能够高效工作或学习的地方。",
       "answer": "There is a small desk beside a window in my home where I work well. It is not a separate office, but I keep the surface clear and use headphones when the building is noisy. The important feature is that I leave the desk when I finish instead of using it for entertainment. That routine creates a boundary in a limited space. I can concentrate there for about an hour before taking a short break. Natural light helps, although I close the curtain when reflections appear on the screen. I keep water nearby and write the next task on paper before opening email. During video calls the background is plain enough not to distract people. The arrangement is inexpensive, but each small choice reduces a source of friction, which is why I can begin work there quickly."
+      ,"answerSentences": [
+        {"text":"There is a small desk beside a window in my home where I work well.","translation":"我家窗边有一张小书桌，我在那里工作效率很高。"},
+        {"text":"It is not a separate office, but I keep the surface clear and use headphones when the building is noisy.","translation":"那里不是独立办公室，但我会保持桌面整洁，楼里嘈杂时就戴上耳机。"},
+        {"text":"The important feature is that I leave the desk when I finish instead of using it for entertainment.","translation":"重要的是，工作结束后我会离开书桌，而不会在那里娱乐。"},
+        {"text":"That routine creates a boundary in a limited space.","translation":"这个习惯在有限的空间中划出了一条界限。"},
+        {"text":"I can concentrate there for about an hour before taking a short break.","translation":"我可以在那里专注大约一小时，然后短暂休息。"},
+        {"text":"Natural light helps, although I close the curtain when reflections appear on the screen.","translation":"自然光很有帮助，不过屏幕反光时我会拉上窗帘。"},
+        {"text":"I keep water nearby and write the next task on paper before opening email.","translation":"我会把水放在手边，并在打开邮件前把下一项任务写在纸上。"},
+        {"text":"During video calls the background is plain enough not to distract people.","translation":"视频通话时，背景足够简洁，不会分散别人的注意力。"},
+        {"text":"The arrangement is inexpensive, but each small choice reduces a source of friction, which is why I can begin work there quickly.","translation":"这套布置花费不多，但每个小选择都减少了一种阻碍，因此我能在那里很快进入工作状态。"}
+      ]
     }
   ],
   "reading": {
     "title": "The Meeting Created by Missing Documentation",
+    "titleTranslation": "缺失文档所催生的会议",
+    "paragraphSentencePairs": [
+      [
+        {"text":"Remote teams are often accused of holding too many meetings, but the calendar may reveal a deeper information problem.","translation":"远程团队常被指责会议过多，但日程表可能揭示一个更深层的信息问题。"},
+        {"text":"When decisions, responsibilities and project history exist only in conversation, every new participant needs another conversation.","translation":"当决策、职责和项目历史只存在于口头交流中时，每位新参与者都需要再进行一次交谈。"},
+        {"text":"A meeting becomes the search engine for organisational memory.","translation":"会议于是成了检索组织记忆的搜索引擎。"},
+        {"text":"The immediate exchange feels efficient, yet the same context must be reconstructed repeatedly.","translation":"即时交流看似高效，但同样的背景信息却必须反复重建。"}
+      ],
+      [
+        {"text":"Written documentation changes the timing of coordination.","translation":"书面文档改变了协调工作的时间安排。"},
+        {"text":"A short proposal circulated before discussion allows colleagues to examine evidence at their own pace, including those working in another time zone or communicating in a second language.","translation":"讨论前传阅一份简短提案，可让同事按照自己的节奏审视证据，其中也包括身处其他时区或使用第二语言沟通的人。"},
+        {"text":"The live meeting can then focus on disagreement and choice rather than presentation.","translation":"实时会议便可以集中处理分歧和选择，而不是用于展示信息。"},
+        {"text":"Afterwards, a decision record prevents absence from becoming permanent exclusion.","translation":"会后的决策记录可以防止一次缺席演变成永久的信息排除。"}
+      ],
+      [
+        {"text":"Writing has costs.","translation":"书面记录也有成本。"},
+        {"text":"Recording every minor exchange produces an archive that nobody can navigate, and documents become misleading when circumstances change without an update.","translation":"记录每一次细小交流会形成无人能够查阅的档案，而情况改变后若不更新，文档也会产生误导。"},
+        {"text":"Teams need conventions: where a final decision lives, who maintains it and how superseded guidance is marked.","translation":"团队需要建立规范：最终决策存放在哪里、由谁维护，以及如何标记已被取代的指导。"},
+        {"text":"Searchable titles and concise summaries matter more than polished prose.","translation":"可检索的标题和简洁的摘要比精心修饰的文字更重要。"},
+        {"text":"The aim is a usable trail, not a complete transcript.","translation":"目标是留下可用的记录链，而不是完整的逐字稿。"}
+      ],
+      [
+        {"text":"Some work will remain conversational.","translation":"有些工作仍然需要通过交谈完成。"},
+        {"text":"Sensitive feedback, early relationship-building and ambiguous conflict often require immediate human response.","translation":"敏感反馈、早期关系建设和含糊的冲突通常需要即时的人际回应。"},
+        {"text":"The useful distinction is not between meetings and documents but between purposes.","translation":"真正有用的区分不是会议与文档之分，而是目的之分。"},
+        {"text":"Information that must survive should be recorded; issues that require rapid mutual adjustment may deserve a call.","translation":"需要长期保留的信息应当记录下来；需要双方迅速调整的问题则可能值得进行一次通话。"},
+        {"text":"A well-documented remote team can hold fewer meetings without communicating less, because shared knowledge no longer disappears when the call ends.","translation":"文档完善的远程团队可以减少会议而不减少沟通，因为共享知识不会随着通话结束而消失。"}
+      ],
+      [
+        {"text":"Onboarding shows the value of this infrastructure clearly.","translation":"新员工入职清楚地体现了这种基础设施的价值。"},
+        {"text":"A new remote employee cannot absorb context by overhearing experienced colleagues.","translation":"远程入职的新员工无法通过无意间听到资深同事的交谈来了解背景。"},
+        {"text":"A concise map of current goals, recurring terms, decision owners and recent changes provides an initial route through the organisation.","translation":"一份简明列出当前目标、常用术语、决策负责人和近期变化的指南，能为其了解组织提供初步路径。"},
+        {"text":"Scheduled conversations can then address interpretation and relationships instead of forcing the newcomer to collect basic facts from a series of unrelated calls.","translation":"之后安排的谈话便可用于理解信息和建立关系，而不必迫使新人从一连串互不相关的通话中搜集基本事实。"}
+      ]
+    ],
     "paragraphs": [
       "Remote teams are often accused of holding too many meetings, but the calendar may reveal a deeper information problem. When decisions, responsibilities and project history exist only in conversation, every new participant needs another conversation. A meeting becomes the search engine for organisational memory. The immediate exchange feels efficient, yet the same context must be reconstructed repeatedly.",
       "Written documentation changes the timing of coordination. A short proposal circulated before discussion allows colleagues to examine evidence at their own pace, including those working in another time zone or communicating in a second language. The live meeting can then focus on disagreement and choice rather than presentation. Afterwards, a decision record prevents absence from becoming permanent exclusion.",

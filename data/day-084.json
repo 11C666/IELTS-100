@@ -153,7 +153,8 @@
         "purchase from overseas suppliers",
         "source products internationally"
       ],
-      "note": "source强调采购过程。"
+      "note": "source强调采购过程。",
+      "translation": "从国外购买，也可表达为进口商品、向海外供应商采购或从国际市场采购产品。"
     },
     {
       "base": "sell overseas",
@@ -162,7 +163,8 @@
         "serve foreign markets",
         "supply customers in other countries"
       ],
-      "note": "serve a market是自然商业搭配。"
+      "note": "serve a market是自然商业搭配。",
+      "translation": "在海外销售，也可表达为出口、服务国外市场或向其他国家的客户供货。"
     },
     {
       "base": "make trade easier",
@@ -171,7 +173,8 @@
         "reduce commercial friction",
         "simplify cross-border exchange"
       ],
-      "note": "commercial friction包括程序和成本障碍。"
+      "note": "commercial friction包括程序和成本障碍。",
+      "translation": "让贸易更便利，也可表达为促进贸易、减少商业摩擦或简化跨境交易。"
     },
     {
       "base": "protect local firms",
@@ -180,7 +183,8 @@
         "shield home industries",
         "limit foreign competition faced by local businesses"
       ],
-      "note": "shield通常暗示保护措施。"
+      "note": "shield通常暗示保护措施。",
+      "translation": "保护本地企业，也可表达为支持国内生产商、保护本国产业或限制本地企业面对的外国竞争。"
     },
     {
       "base": "depend on one country",
@@ -189,7 +193,8 @@
         "have concentrated trade dependence",
         "source essential goods from one external market"
       ],
-      "note": "concentrated突出风险集中。"
+      "note": "concentrated突出风险集中。",
+      "translation": "依赖一个国家，也可表达为依靠单一供应国、贸易依赖过于集中或从一个外部市场采购必需品。"
     },
     {
       "base": "delivery delay",
@@ -198,7 +203,8 @@
         "an interruption to freight movement",
         "a delay within an international supply chain"
       ],
-      "note": "freight movement适合物流语境。"
+      "note": "freight movement适合物流语境。",
+      "translation": "交付延误，也可表达为运输中断、货运受阻或国际供应链中的延迟。"
     },
     {
       "base": "trade rules",
@@ -207,7 +213,8 @@
         "cross-border trading requirements",
         "rules governing international exchange"
       ],
-      "note": "governing表示管理约束。"
+      "note": "governing表示管理约束。",
+      "translation": "贸易规则，也可表达为商业法规、跨境贸易要求或规范国际交易的规则。"
     },
     {
       "base": "lower prices",
@@ -216,51 +223,60 @@
         "reduced consumer prices",
         "a decline in the retail cost of products"
       ],
-      "note": "retail cost明确消费者端。"
+      "note": "retail cost明确消费者端。",
+      "translation": "降低价格，也可表达为商品更实惠、消费者价格下降或产品零售成本降低。"
     }
   ],
   "sentences": [
     {
       "pattern": "Although importing + product + can lower + cost, relying on + narrow source + leaves + group + vulnerable to + disruption.",
       "cn": "虽然进口某产品可以降低成本，但依赖单一来源会使某群体容易受到中断影响。",
-      "example": "Although importing medical equipment can lower procurement costs, relying on one supplier leaves hospitals vulnerable to shipping disruption."
+      "example": "Although importing medical equipment can lower procurement costs, relying on one supplier leaves hospitals vulnerable to shipping disruption.",
+      "exampleTranslation": "虽然进口医疗设备可以降低采购成本，但依赖单一供应商会使医院容易受到运输中断的影响。"
     },
     {
       "pattern": "The extent to which + policy + benefits + group + depends on whether + practical condition.",
       "cn": "某项政策在多大程度上使某群体受益，取决于某个实际条件是否成立。",
-      "example": "The extent to which a trade agreement benefits small exporters depends on whether customs procedures become easier to navigate."
+      "example": "The extent to which a trade agreement benefits small exporters depends on whether customs procedures become easier to navigate.",
+      "exampleTranslation": "一项贸易协定能在多大程度上惠及小型出口商，取决于海关程序是否变得更容易办理。"
     },
     {
       "pattern": "Rather than choosing between + option A + and + option B, governments can + balanced action.",
       "cn": "政府不必在两个选项中二选一，而可以采取兼顾双方的措施。",
-      "example": "Rather than choosing between open trade and complete self-sufficiency, governments can diversify suppliers for essential goods."
+      "example": "Rather than choosing between open trade and complete self-sufficiency, governments can diversify suppliers for essential goods.",
+      "exampleTranslation": "政府与其在开放贸易和完全自给自足之间二选一，不如为必需品寻找多元化供应商。"
     }
   ],
   "expressions": [
     {
       "text": "get held up at customs",
       "cn": "在海关被耽搁",
-      "example": "Our order got held up at customs for a week."
+      "example": "Our order got held up at customs for a week.",
+      "exampleTranslation": "我们的订单在海关滞留了一个星期。"
     },
     {
       "text": "shop around for suppliers",
       "cn": "比较多家供应商",
-      "example": "Small retailers shop around for suppliers when prices rise."
+      "example": "Small retailers shop around for suppliers when prices rise.",
+      "exampleTranslation": "价格上涨时，小型零售商会货比三家寻找供应商。"
     },
     {
       "text": "keep goods moving",
       "cn": "维持货物流通",
-      "example": "Digital paperwork can keep goods moving through ports."
+      "example": "Digital paperwork can keep goods moving through ports.",
+      "exampleTranslation": "数字化文件可以让货物顺利通过港口。"
     },
     {
       "text": "diversify supply chains",
       "cn": "使供应链多元化",
-      "example": "Manufacturers diversified supply chains after repeated delays."
+      "example": "Manufacturers diversified supply chains after repeated delays.",
+      "exampleTranslation": "在多次延误后，制造商使供应链更加多元化。"
     },
     {
       "text": "gain access to overseas markets",
       "cn": "进入海外市场",
-      "example": "Trade agreements may help small firms gain access to overseas markets."
+      "example": "Trade agreements may help small firms gain access to overseas markets.",
+      "exampleTranslation": "贸易协定可能帮助小企业进入海外市场。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "avoid concentrated dependence",
         "preserve gains from trade"
       ],
-      "argument": "Domestic production can appear secure, but a local drought, strike or equipment failure may still interrupt supply. Buying from several regions spreads this exposure while allowing firms to retain the efficiency of specialised production. Strategic reserves can provide time to switch suppliers when essential goods are delayed. Complete self-sufficiency would duplicate capacity and raise prices for products that are rarely scarce. A mixed strategy therefore protects supply more effectively than replacing international trade altogether."
+      "argument": "Domestic production can appear secure, but a local drought, strike or equipment failure may still interrupt supply. Buying from several regions spreads this exposure while allowing firms to retain the efficiency of specialised production. Strategic reserves can provide time to switch suppliers when essential goods are delayed. Complete self-sufficiency would duplicate capacity and raise prices for products that are rarely scarce. A mixed strategy therefore protects supply more effectively than replacing international trade altogether.",
+      "viewpointTranslation": "韧性需要供应多元化，而不是完全自给自足。",
+      "topicSentenceTranslation": "各国无需尝试在国内生产每一种必需品，也能降低贸易风险。",
+      "collocationTranslations": [
+        "使外部供应商多元化",
+        "维持战略储备",
+        "避免依赖过于集中",
+        "保留贸易带来的收益"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Domestic production can appear secure, but a local drought, strike or equipment failure may still interrupt supply.",
+          "translation": "国内生产看似安全，但当地的干旱、罢工或设备故障仍可能中断供应。"
+        },
+        {
+          "text": "Buying from several regions spreads this exposure while allowing firms to retain the efficiency of specialised production.",
+          "translation": "从多个地区采购可以分散这种风险，同时让企业保留专业化生产的效率。"
+        },
+        {
+          "text": "Strategic reserves can provide time to switch suppliers when essential goods are delayed.",
+          "translation": "必需品延误时，战略储备可以为更换供应商争取时间。"
+        },
+        {
+          "text": "Complete self-sufficiency would duplicate capacity and raise prices for products that are rarely scarce.",
+          "translation": "完全自给自足会造成产能重复，并提高那些很少短缺的产品的价格。"
+        },
+        {
+          "text": "A mixed strategy therefore protects supply more effectively than replacing international trade altogether.",
+          "translation": "因此，混合策略比彻底取代国际贸易更能有效保障供应。"
+        }
+      ]
     },
     {
       "viewpoint": "Trade support should focus on small firms’ administrative costs.",
@@ -301,19 +347,99 @@
         "lower fixed compliance costs",
         "enter overseas markets"
       ],
-      "argument": "A large company can employ specialists to interpret origin rules and product standards, whereas a small producer faces the same requirements with far fewer staff. This fixed cost may prevent an otherwise competitive firm from exporting at all. Shared advisory services and digital customs forms would reduce the burden at the point where it blocks entry. A general advertising campaign, by contrast, may mainly assist companies already operating abroad. Practical administrative support can make the benefits of a trade agreement accessible to a broader range of businesses."
+      "argument": "A large company can employ specialists to interpret origin rules and product standards, whereas a small producer faces the same requirements with far fewer staff. This fixed cost may prevent an otherwise competitive firm from exporting at all. Shared advisory services and digital customs forms would reduce the burden at the point where it blocks entry. A general advertising campaign, by contrast, may mainly assist companies already operating abroad. Practical administrative support can make the benefits of a trade agreement accessible to a broader range of businesses.",
+      "viewpointTranslation": "贸易支持应重点解决小企业的行政成本。",
+      "topicSentenceTranslation": "减少文书工作，比一般性的推广活动更能公平地扩大出口市场参与。",
+      "collocationTranslations": [
+        "简化海关文件",
+        "符合产品标准",
+        "降低固定合规成本",
+        "进入海外市场"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A large company can employ specialists to interpret origin rules and product standards, whereas a small producer faces the same requirements with far fewer staff.",
+          "translation": "大公司可以聘请专业人员解读原产地规则和产品标准，而小型生产商却要用少得多的员工应对同样的要求。"
+        },
+        {
+          "text": "This fixed cost may prevent an otherwise competitive firm from exporting at all.",
+          "translation": "这种固定成本可能使一家本来具有竞争力的企业完全无法出口。"
+        },
+        {
+          "text": "Shared advisory services and digital customs forms would reduce the burden at the point where it blocks entry.",
+          "translation": "共享咨询服务和数字海关表格能在负担阻碍企业进入市场的关键环节降低成本。"
+        },
+        {
+          "text": "A general advertising campaign, by contrast, may mainly assist companies already operating abroad.",
+          "translation": "相比之下，一般性的广告活动可能主要帮助那些已经在海外经营的公司。"
+        },
+        {
+          "text": "Practical administrative support can make the benefits of a trade agreement accessible to a broader range of businesses.",
+          "translation": "实用的行政支持能够让更多不同类型的企业享受到贸易协定的益处。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a product from another country that you often use.",
-      "answer": "I regularly use a small Italian coffee maker that sits directly on the stove. I bought it several years ago because it is simple, durable and does not require paper filters or electrical parts. Although similar products are now made in many countries, I associate this particular design with Italian home coffee culture. It was not expensive, but importing it obviously involved transport and retail costs. What I value most is that replacement seals are widely available, so I can repair it rather than replace the whole item. I also like that the design has lasted for years, which makes the international purchase feel less wasteful."
+      "answer": "I regularly use a small Italian coffee maker that sits directly on the stove. I bought it several years ago because it is simple, durable and does not require paper filters or electrical parts. Although similar products are now made in many countries, I associate this particular design with Italian home coffee culture. It was not expensive, but importing it obviously involved transport and retail costs. What I value most is that replacement seals are widely available, so I can repair it rather than replace the whole item. I also like that the design has lasted for years, which makes the international purchase feel less wasteful.",
+      "questionTranslation": "请描述一种你经常使用的外国商品。",
+      "answerSentences": [
+        {
+          "text": "I regularly use a small Italian coffee maker that sits directly on the stove.",
+          "translation": "我经常使用一个直接放在炉灶上的意大利小咖啡壶。"
+        },
+        {
+          "text": "I bought it several years ago because it is simple, durable and does not require paper filters or electrical parts.",
+          "translation": "我几年前买了它，因为它简单、耐用，而且不需要滤纸或电气零件。"
+        },
+        {
+          "text": "Although similar products are now made in many countries, I associate this particular design with Italian home coffee culture.",
+          "translation": "虽然许多国家现在都生产类似产品，但我仍把这种特定设计与意大利家庭咖啡文化联系在一起。"
+        },
+        {
+          "text": "It was not expensive, but importing it obviously involved transport and retail costs.",
+          "translation": "它并不昂贵，不过进口显然会产生运输和零售成本。"
+        },
+        {
+          "text": "What I value most is that replacement seals are widely available, so I can repair it rather than replace the whole item.",
+          "translation": "我最看重的是替换密封圈很容易买到，因此我可以维修它，而不必更换整个咖啡壶。"
+        },
+        {
+          "text": "I also like that the design has lasted for years, which makes the international purchase feel less wasteful.",
+          "translation": "我还喜欢这种设计能使用多年，这让这次国际采购显得没有那么浪费。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Should countries try to produce more essential goods themselves?",
-      "answer": "They should maintain some domestic capacity, especially where a sudden shortage would threaten health or basic services. However, producing every component locally would be expensive and may simply replace external risk with dependence on one domestic factory. A better approach is to combine local capability, several foreign suppliers and sensible reserves. Governments also need to identify what is genuinely essential rather than using security as a reason to protect any industry from competition. Strategic reserves can then cover the time needed to switch suppliers when an unexpected disruption occurs."
+      "answer": "They should maintain some domestic capacity, especially where a sudden shortage would threaten health or basic services. However, producing every component locally would be expensive and may simply replace external risk with dependence on one domestic factory. A better approach is to combine local capability, several foreign suppliers and sensible reserves. Governments also need to identify what is genuinely essential rather than using security as a reason to protect any industry from competition. Strategic reserves can then cover the time needed to switch suppliers when an unexpected disruption occurs.",
+      "questionTranslation": "各国是否应该努力自行生产更多必需品？",
+      "answerSentences": [
+        {
+          "text": "They should maintain some domestic capacity, especially where a sudden shortage would threaten health or basic services.",
+          "translation": "各国应当保留一定的国内产能，尤其是在突然短缺会威胁健康或基本服务的领域。"
+        },
+        {
+          "text": "However, producing every component locally would be expensive and may simply replace external risk with dependence on one domestic factory.",
+          "translation": "然而，在本地生产每一个零部件成本很高，也可能只是把外部风险替换为对一家国内工厂的依赖。"
+        },
+        {
+          "text": "A better approach is to combine local capability, several foreign suppliers and sensible reserves.",
+          "translation": "更好的做法是把本地生产能力、多个外国供应商和合理储备结合起来。"
+        },
+        {
+          "text": "Governments also need to identify what is genuinely essential rather than using security as a reason to protect any industry from competition.",
+          "translation": "政府还需要确定哪些商品确实必不可少，而不是把安全当作保护任何产业免受竞争的理由。"
+        },
+        {
+          "text": "Strategic reserves can then cover the time needed to switch suppliers when an unexpected disruption occurs.",
+          "translation": "这样，战略储备就能覆盖发生意外中断时更换供应商所需的时间。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -343,6 +469,89 @@
         "answer": "D",
         "explanation": "Paragraph D lists revenue, consumer and environmental functions."
       }
+    ],
+    "titleTranslation": "小包裹中隐藏的边境延误",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "For a multinational exporter, customs paperwork is a routine cost distributed across thousands of containers.",
+          "translation": "对于跨国出口商而言，海关文件是一项由数千个集装箱分摊的日常成本。"
+        },
+        {
+          "text": "For a craft business sending one parcel abroad, the same border can occupy an entire afternoon.",
+          "translation": "对于只向国外寄送一个包裹的手工艺企业而言，同一道边境手续可能占去整整一个下午。"
+        },
+        {
+          "text": "The difference helps explain why lowering tariffs does not automatically enable small firms to trade internationally.",
+          "translation": "这种差异有助于解释为什么降低关税并不会自动使小企业具备开展国际贸易的能力。"
+        },
+        {
+          "text": "A product may face no import duty and still be delayed because its maker selected the wrong commodity code or supplied inadequate evidence of origin.",
+          "translation": "一种产品可能无需缴纳进口关税，却仍会因为制造商选错商品编码或未提供充分的原产地证明而被延误。"
+        }
+      ],
+      [
+        {
+          "text": "Researchers examining parcel records from an electronic marketplace found that first-time exporters experienced substantially more returns than established sellers.",
+          "translation": "研究人员查看某电子交易平台的包裹记录后发现，首次出口商遭遇退件的比例明显高于成熟卖家。"
+        },
+        {
+          "text": "Most failures were not caused by prohibited goods.",
+          "translation": "大多数失败并不是由违禁商品造成的。"
+        },
+        {
+          "text": "Addresses had been entered in the wrong format, tax had not been collected through the required system, or a product description was too vague for customs staff to classify it.",
+          "translation": "原因往往是地址格式填写错误、未通过规定系统征税，或产品描述过于含糊，导致海关人员无法分类。"
+        },
+        {
+          "text": "After a seller completed five successful shipments, delay rates fell sharply, suggesting that experience—not product quality—was removing friction.",
+          "translation": "卖家完成五次成功发货后，延误率急剧下降，这表明减少摩擦的是经验，而非产品质量。"
+        }
+      ],
+      [
+        {
+          "text": "The marketplace responded by embedding guidance in the order process.",
+          "translation": "该平台随后把操作指导嵌入订单流程。"
+        },
+        {
+          "text": "Instead of directing sellers to a long customs manual, it requested specific information when a destination required it and translated ordinary descriptions into likely classification codes.",
+          "translation": "它不再把卖家引向冗长的海关手册，而是在目的地有要求时索取具体信息，并把日常描述转换为可能适用的分类编码。"
+        },
+        {
+          "text": "Human review remained available for unusual goods.",
+          "translation": "对于特殊商品，人工审核仍然可用。"
+        },
+        {
+          "text": "Within a year, unsuccessful first shipments declined, although sellers in food and cosmetics still faced complex safety requirements that no redesigned form could eliminate.",
+          "translation": "一年内，首次发货失败的情况有所减少，不过食品和化妆品卖家仍面临复杂的安全要求，而这些要求无法通过重新设计表格来消除。"
+        }
+      ],
+      [
+        {
+          "text": "Simplification has limits.",
+          "translation": "简化也有其限度。"
+        },
+        {
+          "text": "Customs authorities need accurate information to collect revenue, protect consumers and enforce environmental rules.",
+          "translation": "海关部门需要准确信息来征收税款、保护消费者并执行环境规则。"
+        },
+        {
+          "text": "An effortless border for the sender may transfer work to officials or create opportunities for fraud.",
+          "translation": "对寄件人来说毫不费力的通关，可能会把工作转移给官员，或为欺诈创造机会。"
+        },
+        {
+          "text": "The useful distinction is therefore between necessary control and avoidable confusion.",
+          "translation": "因此，有用的区分在于必要监管与可避免的困惑。"
+        },
+        {
+          "text": "Small exporters do not require the absence of rules; they require rules presented at the moment a decision is made.",
+          "translation": "小型出口商需要的不是取消规则，而是在必须作出决定时看到清晰呈现的规则。"
+        },
+        {
+          "text": "When trade policy overlooks this practical layer, an agreement celebrated in national statistics may never reach the workshop that has only one parcel to send.",
+          "translation": "如果贸易政策忽视这一实际层面，一项在国家统计数据中备受赞誉的协定，可能永远惠及不了只有一个包裹要寄出的作坊。"
+        }
+      ]
     ]
   }
 }

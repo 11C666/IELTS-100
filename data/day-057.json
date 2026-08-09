@@ -153,7 +153,8 @@
         "contribute to",
         "give rise to"
       ],
-      "note": "contribute to 表示众多原因之一。 本组可用于讨论志愿服务。"
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论志愿服务。",
+      "translation": "cause 表示导致；lead to、contribute to 和 give rise to 常用于说明因果关系。"
     },
     {
       "base": "benefit",
@@ -162,7 +163,8 @@
         "positive effect",
         "gain"
       ],
-      "note": "gain 可指个人获得的具体收益。 本组可用于讨论志愿服务。"
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论志愿服务。",
+      "translation": "benefit 表示益处；advantage、positive effect 和 gain 可表示优势、积极影响或收获。"
     },
     {
       "base": "harm",
@@ -171,7 +173,8 @@
         "negative effect",
         "undermine"
       ],
-      "note": "undermine 强调逐渐削弱。 本组可用于讨论志愿服务。"
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论志愿服务。",
+      "translation": "harm 表示伤害；damage、negative effect 和 undermine 可表示损害、负面影响或削弱。"
     },
     {
       "base": "support",
@@ -180,7 +183,8 @@
         "backing",
         "provision"
       ],
-      "note": "provision 常指服务或资源的供给。 本组可用于讨论志愿服务。"
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论志愿服务。",
+      "translation": "support 表示支持；assistance、backing 和 provision 可分别表示帮助、支持及供给。"
     },
     {
       "base": "different",
@@ -189,7 +193,8 @@
         "varied",
         "diverse"
       ],
-      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论志愿服务。"
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论志愿服务。",
+      "translation": "different 表示不同；distinct、varied 和 diverse 可强调区别、变化或多样性。"
     },
     {
       "base": "common",
@@ -198,7 +203,8 @@
         "frequently observed",
         "part of everyday life"
       ],
-      "note": "widespread 较正式，强调分布广。 本组可用于讨论志愿服务。"
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论志愿服务。",
+      "translation": "common 表示常见；widespread、frequently observed 和 part of everyday life 可表达普遍或日常可见。"
     },
     {
       "base": "help",
@@ -207,7 +213,8 @@
         "enable",
         "make it easier to"
       ],
-      "note": "enable 后接宾语和 to do。 本组可用于讨论志愿服务。"
+      "note": "enable 后接宾语和 to do。 本组可用于讨论志愿服务。",
+      "translation": "help 表示帮助；assist、enable 和 make it easier to 可用于不同正式程度的语境。"
     },
     {
       "base": "problem",
@@ -216,51 +223,60 @@
         "concern",
         "obstacle"
       ],
-      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论志愿服务。"
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论志愿服务。",
+      "translation": "problem 表示问题；challenge、concern 和 obstacle 可分别强调挑战、隐忧或障碍。"
     }
   ],
   "sentences": [
     {
       "pattern": "Volunteering benefits + recipient + only when + service + responds to + actual need.",
       "cn": "只有当服务回应真实需求时，志愿活动才使受助方受益。",
-      "example": "Volunteering benefits a community only when the project responds to priorities identified locally."
+      "example": "Volunteering benefits a community only when the project responds to priorities identified locally.",
+      "exampleTranslation": "志愿服务只有在项目回应当地确定的优先事项时，才能使社区受益。"
     },
     {
       "pattern": "While + volunteer + may contribute + resource, they should not + replace role.",
       "cn": "志愿者可以贡献某资源，但不应替代某角色。",
-      "example": "While volunteers may contribute time, they should not replace qualified care staff."
+      "example": "While volunteers may contribute time, they should not replace qualified care staff.",
+      "exampleTranslation": "志愿者虽然可以贡献时间，却不应取代具备资格的照护人员。"
     },
     {
       "pattern": "Having committed to + role, volunteers are expected to + responsibility.",
       "cn": "承诺某岗位后，志愿者应……。",
-      "example": "Having committed to a weekly role, volunteers are expected to give notice when unavailable."
+      "example": "Having committed to a weekly role, volunteers are expected to give notice when unavailable.",
+      "exampleTranslation": "志愿者一旦承诺每周承担职责，无法到场时就应提前通知。"
     }
   ],
   "expressions": [
     {
       "text": "give something back to the community",
       "cn": "回馈社区",
-      "example": "I volunteer because I want to give something back to the community."
+      "example": "I volunteer because I want to give something back to the community.",
+      "exampleTranslation": "我参加志愿服务，是因为想回馈社区。"
     },
     {
       "text": "lend a hand",
       "cn": "搭把手",
-      "example": "Several residents lent a hand at the event."
+      "example": "Several residents lent a hand at the event.",
+      "exampleTranslation": "几位居民在活动中搭了把手。"
     },
     {
       "text": "make a meaningful contribution",
       "cn": "作出有意义的贡献",
-      "example": "Reliable administrative work can make a meaningful contribution."
+      "example": "Reliable administrative work can make a meaningful contribution.",
+      "exampleTranslation": "认真可靠的行政工作同样能作出有意义的贡献。"
     },
     {
       "text": "commit time regularly",
       "cn": "定期投入时间",
-      "example": "The shelter needs volunteers who can commit time regularly."
+      "example": "The shelter needs volunteers who can commit time regularly.",
+      "exampleTranslation": "这家收容所需要能定期投入时间的志愿者。"
     },
     {
       "text": "work for a good cause",
       "cn": "为公益事业工作",
-      "example": "A good cause still requires careful organisation."
+      "example": "A good cause still requires careful organisation.",
+      "exampleTranslation": "公益事业同样需要认真组织。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "protect service users",
         "supervise participants"
       ],
-      "argument": "Volunteers may work with children, confidential data or vulnerable adults, where an unclear task can cause harm. Organisations should state responsibilities, screen where necessary and provide a named person for questions. Training need not be excessive, but it must match the risk. Volunteers also deserve notice and feedback rather than being treated as free labour. Thoughtful role design converts willingness into dependable service."
+      "argument": "Volunteers may work with children, confidential data or vulnerable adults, where an unclear task can cause harm. Organisations should state responsibilities, screen where necessary and provide a named person for questions. Training need not be excessive, but it must match the risk. Volunteers also deserve notice and feedback rather than being treated as free labour. Thoughtful role design converts willingness into dependable service.",
+      "viewpointTranslation": "志愿者岗位需要合理设计和监督。",
+      "topicSentenceTranslation": "良好意愿并不能消除培训、界限和可靠协调的必要性。",
+      "collocationTranslations": [
+        "明确志愿者职责",
+        "提供适当培训",
+        "保护服务对象",
+        "监督参与者"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Volunteers may work with children, confidential data or vulnerable adults, where an unclear task can cause harm.",
+          "translation": "志愿者可能接触儿童、机密数据或弱势成年人，在这些情况下，任务不清会造成伤害。"
+        },
+        {
+          "text": "Organisations should state responsibilities, screen where necessary and provide a named person for questions.",
+          "translation": "机构应说明责任，在必要时进行筛选，并指定一位联系人解答问题。"
+        },
+        {
+          "text": "Training need not be excessive, but it must match the risk.",
+          "translation": "培训无需过度，但必须与风险相匹配。"
+        },
+        {
+          "text": "Volunteers also deserve notice and feedback rather than being treated as free labour.",
+          "translation": "志愿者也应获得通知和反馈，而不能被当作免费劳动力。"
+        },
+        {
+          "text": "Thoughtful role design converts willingness into dependable service.",
+          "translation": "周到的岗位设计能把服务意愿转化为可靠服务。"
+        }
+      ]
     },
     {
       "viewpoint": "Short-term volunteering should be judged by community value.",
@@ -301,19 +347,99 @@
         "transfer useful skills",
         "evaluate community benefit"
       ],
-      "argument": "Brief volunteers may need accommodation, translation and supervision from staff whose time is scarce. Painting a wall can be useful, but not when local workers lose income or the building needs technical repair. Host organisations should define the task and say no when participation mainly serves the visitor’s experience. Learning for volunteers is a legitimate secondary benefit. The primary measure must remain whether the community receives something it actually values."
+      "argument": "Brief volunteers may need accommodation, translation and supervision from staff whose time is scarce. Painting a wall can be useful, but not when local workers lose income or the building needs technical repair. Host organisations should define the task and say no when participation mainly serves the visitor’s experience. Learning for volunteers is a legitimate secondary benefit. The primary measure must remain whether the community receives something it actually values.",
+      "viewpointTranslation": "短期志愿服务应根据社区价值来判断。",
+      "topicSentenceTranslation": "只有当收益超过接待缺乏经验的访客所需资源时，项目才值得开展。",
+      "collocationTranslations": [
+        "确定本地优先事项",
+        "避免依赖",
+        "传递实用技能",
+        "评估社区收益"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Brief volunteers may need accommodation, translation and supervision from staff whose time is scarce.",
+          "translation": "短期志愿者可能需要住宿、翻译和工作人员监督，而工作人员的时间本就有限。"
+        },
+        {
+          "text": "Painting a wall can be useful, but not when local workers lose income or the building needs technical repair.",
+          "translation": "粉刷墙壁可能有用，但如果当地工人因此失去收入，或建筑实际需要专业维修，就并非如此。"
+        },
+        {
+          "text": "Host organisations should define the task and say no when participation mainly serves the visitor’s experience.",
+          "translation": "接待机构应明确任务，并在参与主要服务于访客体验时予以拒绝。"
+        },
+        {
+          "text": "Learning for volunteers is a legitimate secondary benefit.",
+          "translation": "志愿者获得学习是合理的次要收益。"
+        },
+        {
+          "text": "The primary measure must remain whether the community receives something it actually values.",
+          "translation": "首要衡量标准仍应是社区是否得到它真正重视的东西。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Have you ever done any volunteer work?",
-      "answer": "Yes, I helped at a weekend book collection. My role was to sort donations and record which subjects were needed, so it was practical rather than public-facing. I enjoyed working with people I had not met before. The experience also showed me how much organisation is required behind a simple charitable event."
+      "answer": "Yes, I helped at a weekend book collection. My role was to sort donations and record which subjects were needed, so it was practical rather than public-facing. I enjoyed working with people I had not met before. The experience also showed me how much organisation is required behind a simple charitable event.",
+      "questionTranslation": "你做过志愿工作吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, I helped at a weekend book collection.",
+          "translation": "做过，我曾在周末图书收集活动中帮忙。"
+        },
+        {
+          "text": "My role was to sort donations and record which subjects were needed, so it was practical rather than public-facing.",
+          "translation": "我的工作是整理捐赠图书，并记录需要哪些学科的书，因此偏实际操作，而不是面向公众。"
+        },
+        {
+          "text": "I enjoyed working with people I had not met before.",
+          "translation": "我喜欢与之前不认识的人一起工作。"
+        },
+        {
+          "text": "The experience also showed me how much organisation is required behind a simple charitable event.",
+          "translation": "这次经历还让我看到，一场看似简单的慈善活动背后需要大量组织工作。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a volunteering activity that you think is valuable.",
-      "answer": "I think a regular homework club in a public library is valuable. Volunteers can help pupils organise tasks, practise reading and find reliable information, while a trained coordinator sets boundaries and handles concerns. The regular schedule matters because trust and progress are difficult to build in a one-day event. Volunteers do not replace teachers; they provide quiet attention that a busy household or classroom may not always offer. The library is also a neutral, accessible location. I would be interested in supporting such a programme after suitable training. Its value comes from consistency and a clearly limited role, not from the volunteer trying to solve every difficulty in a child’s life."
+      "answer": "I think a regular homework club in a public library is valuable. Volunteers can help pupils organise tasks, practise reading and find reliable information, while a trained coordinator sets boundaries and handles concerns. The regular schedule matters because trust and progress are difficult to build in a one-day event. Volunteers do not replace teachers; they provide quiet attention that a busy household or classroom may not always offer. The library is also a neutral, accessible location. I would be interested in supporting such a programme after suitable training. Its value comes from consistency and a clearly limited role, not from the volunteer trying to solve every difficulty in a child’s life.",
+      "questionTranslation": "描述一项你认为有价值的志愿活动。",
+      "answerSentences": [
+        {
+          "text": "I think a regular homework club in a public library is valuable.",
+          "translation": "我认为公共图书馆定期举办的作业辅导班很有价值。"
+        },
+        {
+          "text": "Volunteers can help pupils organise tasks, practise reading and find reliable information, while a trained coordinator sets boundaries and handles concerns.",
+          "translation": "志愿者可以帮助学生安排任务、练习阅读和查找可靠信息，同时由受过培训的协调员设定界限并处理问题。"
+        },
+        {
+          "text": "The regular schedule matters because trust and progress are difficult to build in a one-day event.",
+          "translation": "固定安排很重要，因为信任和进步很难在一天的活动中建立。"
+        },
+        {
+          "text": "Volunteers do not replace teachers; they provide quiet attention that a busy household or classroom may not always offer.",
+          "translation": "志愿者不会取代教师；他们提供的是忙碌家庭或课堂未必总能给予的专注陪伴。"
+        },
+        {
+          "text": "The library is also a neutral, accessible location.",
+          "translation": "图书馆也是一个中立且便利的地点。"
+        },
+        {
+          "text": "I would be interested in supporting such a programme after suitable training.",
+          "translation": "接受适当培训后，我愿意支持这样的项目。"
+        },
+        {
+          "text": "Its value comes from consistency and a clearly limited role, not from the volunteer trying to solve every difficulty in a child’s life.",
+          "translation": "它的价值来自持续性和明确有限的职责，而不是志愿者试图解决孩子生活中的每个困难。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +470,115 @@
         "answer": "host time, service-user outcomes and volunteer learning",
         "explanation": "The final paragraph lists these."
       }
+    ],
+    "titleTranslation": "接待志愿者的隐性成本",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Volunteer programmes are often described in terms of donated hours.",
+          "translation": "志愿者项目常以捐献的工时来描述。"
+        },
+        {
+          "text": "For the host organisation, those hours are not free.",
+          "translation": "对接待机构而言，这些工时并非免费。"
+        },
+        {
+          "text": "Staff recruit, screen, train, schedule and support participants.",
+          "translation": "员工需要招募、筛选、培训、排班并支持参与者。"
+        },
+        {
+          "text": "Equipment and insurance may be required, and inconsistent attendance creates work that a paid employee must absorb.",
+          "translation": "项目可能需要设备和保险，而出勤不稳定会产生必须由带薪员工承担的工作。"
+        },
+        {
+          "text": "These costs do not make volunteering undesirable; they determine which roles genuinely add value.",
+          "translation": "这些成本并不意味着志愿服务不可取；它们决定哪些岗位能真正增加价值。"
+        }
+      ],
+      [
+        {
+          "text": "A useful role has a clear task, manageable risk and enough continuity for the volunteer to become competent.",
+          "translation": "有用的岗位应有明确任务、可控风险和足够持续性，让志愿者能够胜任。"
+        },
+        {
+          "text": "Specialist volunteers can contribute legal, technical or language skills, but credentials still need verification.",
+          "translation": "具备专业能力的志愿者可以贡献法律、技术或语言技能，但其资质仍需核实。"
+        },
+        {
+          "text": "General enthusiasm is better suited to work that can be learned safely and does not expose service users to repeated changes in relationship.",
+          "translation": "一般性的热情更适合能够安全学会、且不会让服务对象反复经历关系变化的工作。"
+        }
+      ],
+      [
+        {
+          "text": "Retention improves when people understand the purpose of routine work.",
+          "translation": "当人们理解日常工作目的时，留任情况会改善。"
+        },
+        {
+          "text": "Volunteers who expect dramatic impact may be disappointed by data entry, cleaning or repeated phone calls, although these tasks keep a service operating.",
+          "translation": "期待产生巨大影响的志愿者可能对数据录入、清洁或反复打电话感到失望，尽管这些任务维持着服务运作。"
+        },
+        {
+          "text": "Honest descriptions help applicants select roles that fit their motivation and availability.",
+          "translation": "如实描述能帮助申请者选择符合自身动力和时间条件的岗位。"
+        },
+        {
+          "text": "Recognition should explain contribution rather than offer constant praise.",
+          "translation": "认可应解释贡献，而不是不断给予赞美。"
+        }
+      ],
+      [
+        {
+          "text": "Organisations must also consider substitution.",
+          "translation": "机构还必须考虑岗位替代问题。"
+        },
+        {
+          "text": "Using volunteers to replace necessary paid posts can weaken service quality and turn stable employment into unpaid expectation.",
+          "translation": "用志愿者取代必要的带薪岗位会削弱服务质量，并把稳定就业变成无偿劳动的预期。"
+        },
+        {
+          "text": "A better distinction is that volunteers extend, enrich or connect services while core safeguarding and continuity remain professionally accountable.",
+          "translation": "更合理的区分是，志愿者负责扩展、丰富或连接服务，而核心保障和连续性仍由专业人员负责。"
+        },
+        {
+          "text": "The boundary varies by sector but should be explicit.",
+          "translation": "界限因行业而异，但应明确说明。"
+        }
+      ],
+      [
+        {
+          "text": "Measuring success requires more than counting participants.",
+          "translation": "衡量成功不能只统计参与人数。"
+        },
+        {
+          "text": "A programme may recruit hundreds of one-time volunteers while consuming staff capacity, whereas a small group of reliable people provides sustained benefit.",
+          "translation": "一个项目可能招募数百名一次性志愿者，却耗费工作人员能力；一小群可靠的人反而能提供持续收益。"
+        },
+        {
+          "text": "Host time, service-user outcomes and volunteer learning should all be considered.",
+          "translation": "接待方投入的时间、服务对象结果和志愿者学习都应纳入考虑。"
+        },
+        {
+          "text": "The best programme respects generosity by directing it where the contribution remains greater than the coordination it requires.",
+          "translation": "最好的项目会尊重善意，把它引导到贡献持续大于协调成本的地方。"
+        },
+        {
+          "text": "Exit matters alongside recruitment.",
+          "translation": "退出与招募同样重要。"
+        },
+        {
+          "text": "Volunteers should be able to leave without guilt, and organisations need handover methods that protect service users when they do.",
+          "translation": "志愿者应能在没有内疚感的情况下离开，机构也需要交接方法，以便在他们离开时保护服务对象。"
+        },
+        {
+          "text": "A short closing conversation can capture learning and reveal problems that current participants hesitate to raise.",
+          "translation": "简短的结束谈话可以总结经验，并揭示现有参与者不愿提出的问题。"
+        },
+        {
+          "text": "Respectful endings make future return more likely and prevent a programme from depending on personal sacrifice that cannot be sustained.",
+          "translation": "尊重地结束合作，会提高未来回归的可能性，并防止项目依赖无法持续的个人牺牲。"
+        }
+      ]
     ]
   }
 }

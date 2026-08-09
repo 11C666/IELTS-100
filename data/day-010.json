@@ -153,7 +153,8 @@
         "piece of music",
         "composition"
       ],
-      "note": "track 常指录制的单曲；composition 较正式。"
+      "note": "track 常指录制的单曲；composition 较正式。",
+      "translation": "歌曲可以表示为曲目、乐曲、作品。"
     },
     {
       "base": "easy to remember",
@@ -162,7 +163,8 @@
         "memorable",
         "instantly recognisable"
       ],
-      "note": "catchy 常用于旋律，通常是积极评价。"
+      "note": "catchy 常用于旋律，通常是积极评价。",
+      "translation": "容易记住可以表达为朗朗上口、令人难忘、一眼就能认出来。"
     },
     {
       "base": "perform live",
@@ -171,7 +173,8 @@
         "play in concert",
         "appear on stage"
       ],
-      "note": "play in concert 多用于音乐家。"
+      "note": "play in concert 多用于音乐家。",
+      "translation": "现场表演可以表达为现场表演、音乐会演奏、登台表演。"
     },
     {
       "base": "type of music",
@@ -180,7 +183,8 @@
         "musical style",
         "category"
       ],
-      "note": "genre 是最自然的正式词。"
+      "note": "genre 是最自然的正式词。",
+      "translation": "音乐类型可以表示为流派、音乐风格、类别。"
     },
     {
       "base": "like music",
@@ -189,7 +193,8 @@
         "be passionate about music",
         "have broad musical tastes"
       ],
-      "note": "passionate about 表示兴趣很强。"
+      "note": "passionate about 表示兴趣很强。",
+      "translation": "喜欢音乐可以表达为喜欢听音乐、对音乐充满热情、有广泛的音乐品味。"
     },
     {
       "base": "make music",
@@ -198,7 +203,8 @@
         "produce a track",
         "create a piece"
       ],
-      "note": "compose 侧重作曲；produce 涉及录音制作。"
+      "note": "compose 侧重作曲；produce 涉及录音制作。",
+      "translation": "制作音乐可以表示为创作、制作曲目、创作作品。"
     },
     {
       "base": "practise together",
@@ -207,7 +213,8 @@
         "have a rehearsal",
         "prepare as an ensemble"
       ],
-      "note": "rehearse 可作及物或不及物动词。"
+      "note": "rehearse 可作及物或不及物动词。",
+      "translation": "practise together 表示一起练习；rehearse 指排练，have a rehearsal 指进行一次排练，prepare as an ensemble 强调以合奏形式共同准备。"
     },
     {
       "base": "affect feelings",
@@ -216,51 +223,60 @@
         "influence mood",
         "trigger an emotional response"
       ],
-      "note": "evoke emotion 常用于较正式分析。"
+      "note": "evoke emotion 常用于较正式分析。",
+      "translation": "影响感受可以表现为唤起情绪、影响情绪、引发情绪反应。"
     }
   ],
   "sentences": [
     {
       "pattern": "Whenever I hear + piece of music, it reminds me of + memory.",
       "cn": "每当我听到某段音乐，它就让我想起……",
-      "example": "Whenever I hear that song, it reminds me of my first year at university."
+      "example": "Whenever I hear that song, it reminds me of my first year at university.",
+      "exampleTranslation": "每当听到这首歌，我就会想起大学第一年的情景。"
     },
     {
       "pattern": "Music can change the atmosphere of + place or event + by + gerund.",
       "cn": "音乐可以通过……改变某个场所或活动的氛围。",
-      "example": "Music can change the atmosphere of a film scene by creating tension before anything happens."
+      "example": "Music can change the atmosphere of a film scene by creating tension before anything happens.",
+      "exampleTranslation": "音乐可以在任何事情发生之前制造紧张气氛，从而改变电影场景的气氛。"
     },
     {
       "pattern": "Even without understanding the lyrics, listeners may + verb.",
       "cn": "即使听不懂歌词，听众也可能……",
-      "example": "Even without understanding the lyrics, listeners may respond to the rhythm and tone."
+      "example": "Even without understanding the lyrics, listeners may respond to the rhythm and tone.",
+      "exampleTranslation": "即使不理解歌词，听众也可能会对节奏和语气做出反应。"
     }
   ],
   "expressions": [
     {
       "text": "have a song stuck in my head",
       "cn": "脑中一直循环一首歌",
-      "example": "I’ve had that song stuck in my head all morning."
+      "example": "I’ve had that song stuck in my head all morning.",
+      "exampleTranslation": "整个早上我的脑海里都萦绕着这首歌。"
     },
     {
       "text": "listen to music on repeat",
       "cn": "反复听一首歌",
-      "example": "When I discover a new track, I sometimes play it on repeat."
+      "example": "When I discover a new track, I sometimes play it on repeat.",
+      "exampleTranslation": "当我发现一首新曲目时，有时我会重复播放它。"
     },
     {
       "text": "not my kind of music",
       "cn": "不是我喜欢的音乐类型",
-      "example": "Heavy metal isn’t really my kind of music."
+      "example": "Heavy metal isn’t really my kind of music.",
+      "exampleTranslation": "重金属确实不是我喜欢的音乐。"
     },
     {
       "text": "put on some music",
       "cn": "播放一些音乐",
-      "example": "I usually put on some music while I’m cooking."
+      "example": "I usually put on some music while I’m cooking.",
+      "exampleTranslation": "我做饭时通常会放一些音乐。"
     },
     {
       "text": "a live version",
       "cn": "现场演奏版本",
-      "example": "The live version sounds warmer than the studio recording."
+      "example": "The live version sounds warmer than the studio recording.",
+      "exampleTranslation": "现场版本听起来比录音室录音更温暖。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "perform as an ensemble",
         "develop listening skills"
       ],
-      "argument": "Playing an instrument requires a learner to notice timing, pitch and small errors. Progress is gradual, so children experience the connection between repeated practice and improvement. Group performance adds another demand because each musician must listen and adjust to others. These habits can transfer to collaborative schoolwork, even if the child never becomes a professional performer. Music education is therefore valuable as a process, not only for producing concerts."
+      "argument": "Playing an instrument requires a learner to notice timing, pitch and small errors. Progress is gradual, so children experience the connection between repeated practice and improvement. Group performance adds another demand because each musician must listen and adjust to others. These habits can transfer to collaborative schoolwork, even if the child never becomes a professional performer. Music education is therefore valuable as a process, not only for producing concerts.",
+      "viewpointTranslation": "音乐教育对孩子的好处不仅仅是表演技能。",
+      "topicSentenceTranslation": "学习音乐可以培养注意力、合作性和纪律性练习。",
+      "collocationTranslations": [
+        "学习一门乐器",
+        "坚持不懈地练习",
+        "合奏",
+        "培养倾听技巧"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Playing an instrument requires a learner to notice timing, pitch and small errors.",
+          "translation": "演奏乐器需要学习者注意节奏、音高和小错误。"
+        },
+        {
+          "text": "Progress is gradual, so children experience the connection between repeated practice and improvement.",
+          "translation": "进步是渐进的，因此孩子们会体验到重复练习和进步之间的联系。"
+        },
+        {
+          "text": "Group performance adds another demand because each musician must listen and adjust to others.",
+          "translation": "集体表演增加了另一个要求，因为每个音乐家都必须倾听并适应其他人。"
+        },
+        {
+          "text": "These habits can transfer to collaborative schoolwork, even if the child never becomes a professional performer.",
+          "translation": "即使孩子从未成为专业表演者，这些习惯也可以转化为协作性的学业。"
+        },
+        {
+          "text": "Music education is therefore valuable as a process, not only for producing concerts.",
+          "translation": "因此，音乐教育作为一个过程很有价值，而不仅仅是为了举办音乐会。"
+        }
+      ]
     },
     {
       "viewpoint": "Streaming has widened access but weakened income for some musicians.",
@@ -301,19 +347,87 @@
         "support independent artists",
         "pay a subscription fee"
       ],
-      "argument": "Listeners can explore an enormous range of music at relatively low cost, and unknown artists can distribute work internationally. Payment per stream, however, is often too small to support musicians without very large audiences. Independent performers may therefore depend on concerts, teaching or merchandise. Platforms should provide clearer payment information, while listeners can support artists through direct purchases. Wider access is positive, but a sustainable system must also reward creation."
+      "argument": "Listeners can explore an enormous range of music at relatively low cost, and unknown artists can distribute work internationally. Payment per stream, however, is often too small to support musicians without very large audiences. Independent performers may therefore depend on concerts, teaching or merchandise. Platforms should provide clearer payment information, while listeners can support artists through direct purchases. Wider access is positive, but a sustainable system must also reward creation.",
+      "viewpointTranslation": "流媒体扩大了访问范围，但削弱了一些音乐家的收入。",
+      "topicSentenceTranslation": "便捷的数字访问改变了录制音乐的价值和融资方式。",
+      "collocationTranslations": [
+        "吸引全球观众",
+        "产生流媒体收入",
+        "支持独立艺术家",
+        "支付订阅费"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Listeners can explore an enormous range of music at relatively low cost, and unknown artists can distribute work internationally.",
+          "translation": "听众可以以相对较低的成本探索大量的音乐，而不知名的艺术家可以在全球范围内发行作品。"
+        },
+        {
+          "text": "Payment per stream, however, is often too small to support musicians without very large audiences.",
+          "translation": "然而，每次直播的费用往往太小，无法支持没有大量观众的音乐家。"
+        },
+        {
+          "text": "Independent performers may therefore depend on concerts, teaching or merchandise.",
+          "translation": "因此，独立表演者可能依赖音乐会、教学或商品。"
+        },
+        {
+          "text": "Platforms should provide clearer payment information, while listeners can support artists through direct purchases.",
+          "translation": "平台应提供更清晰的支付信息，而听众可以通过直接购买来支持艺术家。"
+        },
+        {
+          "text": "Wider access is positive, but a sustainable system must also reward creation.",
+          "translation": "更广泛的准入是积极的，但可持续的系统也必须奖励创造。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "When do you usually listen to music?",
-      "answer": "Mostly when I’m travelling or doing something repetitive at home. Music makes a crowded journey feel shorter, and it adds energy when I’m cleaning. I don’t usually play it while reading because lyrics compete with the words on the page. If I need background sound for work, I choose something instrumental and fairly quiet."
+      "answer": "Mostly when I’m travelling or doing something repetitive at home. Music makes a crowded journey feel shorter, and it adds energy when I’m cleaning. I don’t usually play it while reading because lyrics compete with the words on the page. If I need background sound for work, I choose something instrumental and fairly quiet.",
+      "questionTranslation": "你通常什么时候听音乐？",
+      "answerSentences": [
+        {
+          "text": "Mostly when I’m travelling or doing something repetitive at home.",
+          "translation": "主要是当我旅行或在家做重复的事情时。"
+        },
+        {
+          "text": "Music makes a crowded journey feel shorter, and it adds energy when I’m cleaning.",
+          "translation": "音乐让拥挤的旅程感觉更短，而且在我打扫卫生时增添了能量。"
+        },
+        {
+          "text": "I don’t usually play it while reading because lyrics compete with the words on the page.",
+          "translation": "我通常不会在阅读时播放它，因为歌词与页面上的文字相互竞争。"
+        },
+        {
+          "text": "If I need background sound for work, I choose something instrumental and fairly quiet.",
+          "translation": "如果工作时需要背景声音，我会选择比较安静的器乐。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Have your musical tastes changed over time?",
-      "answer": "Quite a lot. As a teenager I mainly listened to whatever my friends liked, which was mostly pop music. Later I discovered jazz through a film soundtrack and started paying more attention to instruments rather than just lyrics. I still enjoy some old pop songs, but now my playlists are much less predictable and include music from several countries."
+      "answer": "Quite a lot. As a teenager I mainly listened to whatever my friends liked, which was mostly pop music. Later I discovered jazz through a film soundtrack and started paying more attention to instruments rather than just lyrics. I still enjoy some old pop songs, but now my playlists are much less predictable and include music from several countries.",
+      "questionTranslation": "随着时间的推移，你的音乐品味有变化吗？",
+      "answerSentences": [
+        {
+          "text": "Quite a lot.",
+          "translation": "相当多。"
+        },
+        {
+          "text": "As a teenager I mainly listened to whatever my friends liked, which was mostly pop music.",
+          "translation": "十几岁的时候，我主要听朋友喜欢的音乐，其中大部分是流行音乐。"
+        },
+        {
+          "text": "Later I discovered jazz through a film soundtrack and started paying more attention to instruments rather than just lyrics.",
+          "translation": "后来我通过电影配乐发现了爵士乐，并开始更多地关注乐器而不仅仅是歌词。"
+        },
+        {
+          "text": "I still enjoy some old pop songs, but now my playlists are much less predictable and include music from several countries.",
+          "translation": "我仍然喜欢一些古老的流行歌曲，但现在我的播放列表变得更难以预测，并且包括来自多个国家/地区的音乐。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,103 @@
         "answer": "performance",
         "explanation": "The answer appears in Paragraph 3."
       }
+    ],
+    "titleTranslation": "在录制音乐之前",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Before sound recording, every musical performance was temporary.",
+          "translation": "在录音之前，每场音乐表演都是临时的。"
+        },
+        {
+          "text": "A melody could survive through memory, written notation or repeated performance, but each version differed slightly.",
+          "translation": "旋律可以通过记忆、书面记谱或重复演奏而保留下来，但每个版本都略有不同。"
+        },
+        {
+          "text": "Music was therefore closely tied to a place and occasion: a song belonged to a ceremony, a workplace, a family or a group of travelling performers.",
+          "translation": "因此，音乐与地点和场合密切相关：一首歌属于一个仪式、一个工作场所、一个家庭或一群旅行表演者。"
+        },
+        {
+          "text": "Hearing the same performance twice was impossible.",
+          "translation": "两次听同样的表演是不可能的。"
+        }
+      ],
+      [
+        {
+          "text": "The arrival of commercial recording changed both listening and composition.",
+          "translation": "商业录音的到来改变了听力和作曲。"
+        },
+        {
+          "text": "Performers could be heard by people they would never meet, while listeners could compare interpretations repeatedly.",
+          "translation": "表演者可以被他们从未见过的人听到，而听众可以反复比较解释。"
+        },
+        {
+          "text": "Early recordings were limited in length, so musicians sometimes shortened pieces or reorganised them to fit the available format.",
+          "translation": "早期录音的长度有限，因此音乐家有时会缩短或重新组织它们以适应可用的格式。"
+        },
+        {
+          "text": "Technology did not simply preserve music; it influenced what was produced.",
+          "translation": "技术并不只是保存音乐，也会影响人们创作出的音乐内容。"
+        }
+      ],
+      [
+        {
+          "text": "Recording also created the idea of a definitive version.",
+          "translation": "录音也产生了最终版本的想法。"
+        },
+        {
+          "text": "Small variations that would be natural in a live tradition began to sound like mistakes when compared with a familiar record.",
+          "translation": "与熟悉的唱片相比，现场传统中自然存在的微小变化开始听起来像是错误。"
+        },
+        {
+          "text": "Studio techniques later allowed artists to combine separate attempts, correct individual notes and add effects that could not be reproduced easily on stage.",
+          "translation": "后来的工作室技术允许艺术家结合单独的尝试，纠正单独的音符并添加在舞台上无法轻易复制的效果。"
+        },
+        {
+          "text": "The finished track became an object in its own right rather than a transparent copy of a performance.",
+          "translation": "完成后的曲目本身成为一种独立作品，而不再只是对现场表演的透明复制。"
+        }
+      ],
+      [
+        {
+          "text": "Digital tools have extended this separation.",
+          "translation": "数字工具扩大了这种分离。"
+        },
+        {
+          "text": "A musician can now record parts in different countries, and software can imitate instruments or alter a voice.",
+          "translation": "音乐家现在可以在不同国家录制部分，软件可以模仿乐器或改变声音。"
+        },
+        {
+          "text": "At the same time, live concerts remain attractive precisely because they cannot be repeated perfectly.",
+          "translation": "与此同时，现场音乐会仍然具有吸引力，正是因为它们无法完美重复。"
+        },
+        {
+          "text": "The audience shares an uncertain event in real time.",
+          "translation": "观众实时分享不确定的事件。"
+        },
+        {
+          "text": "Recorded and live music now serve different expectations: one offers control and unlimited replay, while the other restores the possibility that something unique will happen.",
+          "translation": "录制音乐和现场音乐现在满足不同的期望：一种提供控制和无限重播，而另一种则恢复了发生独特事情的可能性。"
+        }
+      ],
+      [
+        {
+          "text": "Recording has also changed musical memory.",
+          "translation": "录音也改变了音乐记忆。"
+        },
+        {
+          "text": "Listeners no longer need to reproduce a song in order to keep it; they can return to exactly the same track.",
+          "translation": "听众不再需要复制歌曲才能保留它；他们可以回到完全相同的轨道。"
+        },
+        {
+          "text": "This accuracy preserves detail, but communal variation may decline when one commercial version becomes dominant.",
+          "translation": "这种准确性保留了细节，但当一个商业版本占据主导地位时，公共变异可能会下降。"
+        },
+        {
+          "text": "The technology that protects a performance can therefore narrow the range of versions people expect to hear.",
+          "translation": "因此，保护​​表演的技术可以缩小人们期望听到的版本范围。"
+        }
+      ]
     ]
   }
 }

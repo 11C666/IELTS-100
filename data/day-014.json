@@ -153,7 +153,8 @@
         "place to live",
         "household setting"
       ],
-      "note": "residence 较正式；home 带有归属感。"
+      "note": "residence 较正式；home 带有归属感。",
+      "translation": "home 可以表达为“住所”“居住地”或“家庭环境”。"
     },
     {
       "base": "rent a home",
@@ -162,7 +163,8 @@
         "be a tenant",
         "live in rented accommodation"
       ],
-      "note": "lease 常用于正式合同。"
+      "note": "lease 常用于正式合同。",
+      "translation": "出租房屋可以表示为租赁财产、成为租户、住在出租的房屋中。"
     },
     {
       "base": "expensive housing",
@@ -171,7 +173,8 @@
         "unaffordable property",
         "costly accommodation"
       ],
-      "note": "unaffordable 表示超出支付能力。"
+      "note": "unaffordable 表示超出支付能力。",
+      "translation": "昂贵的住房可以表现为高住房成本、负担不起的财产、昂贵的住宿。"
     },
     {
       "base": "fix a house",
@@ -180,7 +183,8 @@
         "maintain the property",
         "renovate the building"
       ],
-      "note": "renovate 是整体翻修，不等于普通维修。"
+      "note": "renovate 是整体翻修，不等于普通维修。",
+      "translation": "修理房屋可以表示为进行修理、维护财产、翻新建筑物。"
     },
     {
       "base": "big room",
@@ -189,7 +193,8 @@
         "generous living space",
         "roomy interior"
       ],
-      "note": "spacious 最自然。"
+      "note": "spacious 最自然。",
+      "translation": "big room 可以表达为“宽敞的房间”“充足的居住空间”或“开阔的室内空间”。"
     },
     {
       "base": "near transport",
@@ -198,7 +203,8 @@
         "served by public transport",
         "within easy reach of a station"
       ],
-      "note": "well connected 可概括交通便利。"
+      "note": "well connected 可概括交通便利。",
+      "translation": "附近的交通可以表示连接良好，有公共交通服务，可轻松到达车站。"
     },
     {
       "base": "area where people live",
@@ -207,7 +213,8 @@
         "neighbourhood",
         "housing district"
       ],
-      "note": "neighbourhood 也包括社区关系。"
+      "note": "neighbourhood 也包括社区关系。",
+      "translation": "人们居住的区域可以表示为住宅区、邻里、住宅区。"
     },
     {
       "base": "cheap enough to pay for",
@@ -216,51 +223,60 @@
         "within one’s budget",
         "reasonably priced"
       ],
-      "note": "affordable 取决于收入，而非单纯便宜。"
+      "note": "affordable 取决于收入，而非单纯便宜。",
+      "translation": "足够便宜可以表达为负担得起的、在预算范围内的、价格合理的。"
     }
   ],
   "sentences": [
     {
       "pattern": "The feature I value most in a home is + noun because + clause.",
       "cn": "我最看重住房的特点是……，因为……",
-      "example": "The feature I value most in a home is natural light because it changes how the space feels."
+      "example": "The feature I value most in a home is natural light because it changes how the space feels.",
+      "exampleTranslation": "我在家里最看重的功能是自然光，因为它改变了空间的感觉。"
     },
     {
       "pattern": "Living close to + place + makes it easier to + verb.",
       "cn": "住在……附近让做……更方便。",
-      "example": "Living close to a railway station makes it easier to commute without a car."
+      "example": "Living close to a railway station makes it easier to commute without a car.",
+      "exampleTranslation": "住在火车站附近，不用开车也能更方便地通勤。"
     },
     {
       "pattern": "Although + housing option + offers more space, it may involve + drawback.",
       "cn": "虽然某种住房提供更多空间，但可能伴随……",
-      "example": "Although a suburban house offers more space, it may involve a much longer journey to work."
+      "example": "Although a suburban house offers more space, it may involve a much longer journey to work.",
+      "exampleTranslation": "尽管郊区的房子提供了更多的空间，但上班的路程可能会更长。"
     }
   ],
   "expressions": [
     {
       "text": "feel at home",
       "cn": "感觉自在如在家",
-      "example": "The neighbours were friendly, so I quickly felt at home."
+      "example": "The neighbours were friendly, so I quickly felt at home.",
+      "exampleTranslation": "邻居们都很友好，所以我很快就有了宾至如归的感觉。"
     },
     {
       "text": "within walking distance",
       "cn": "步行可达",
-      "example": "There’s a supermarket within walking distance."
+      "example": "There’s a supermarket within walking distance.",
+      "exampleTranslation": "步行即可到达一家超市。"
     },
     {
       "text": "move house",
       "cn": "搬家",
-      "example": "We moved house twice when I was a child."
+      "example": "We moved house twice when I was a child.",
+      "exampleTranslation": "我小时候我们搬过两次家。"
     },
     {
       "text": "a place of my own",
       "cn": "属于自己的住处",
-      "example": "I’d like a place of my own, even if it’s small."
+      "example": "I’d like a place of my own, even if it’s small.",
+      "exampleTranslation": "我想要一个属于自己的地方，哪怕很小。"
     },
     {
       "text": "need some work",
       "cn": "房屋需要修缮",
-      "example": "The flat is affordable, but the kitchen needs some work."
+      "example": "The flat is affordable, but the kitchen needs some work.",
+      "exampleTranslation": "这套公寓价格实惠，但厨房需要一些改进。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "security of tenure",
         "maintain the property"
       ],
-      "argument": "Short contracts can force families to move even when they have paid rent reliably. Frequent moves disrupt children’s schooling, commuting arrangements and neighbourhood ties. Clear rules on notice periods and reasonable rent increases would give tenants more stability. Landlords would retain the right to manage their property and address serious breaches. A fair rental system should balance ownership rights with the need for a secure home."
+      "argument": "Short contracts can force families to move even when they have paid rent reliably. Frequent moves disrupt children’s schooling, commuting arrangements and neighbourhood ties. Clear rules on notice periods and reasonable rent increases would give tenants more stability. Landlords would retain the right to manage their property and address serious breaches. A fair rental system should balance ownership rights with the need for a secure home.",
+      "viewpointTranslation": "稳定的租金应该是一个现实的长期选择。",
+      "topicSentenceTranslation": "如果租赁要作为真正的住房形式发挥作用，租户需要合理的保障。",
+      "collocationTranslations": [
+        "长期租赁",
+        "合理的租金上涨",
+        "保有权保障",
+        "维护财产"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Short contracts can force families to move even when they have paid rent reliably.",
+          "translation": "短期合同可能会迫使家庭搬家，即使他们已经可靠地支付了租金。"
+        },
+        {
+          "text": "Frequent moves disrupt children’s schooling, commuting arrangements and neighbourhood ties.",
+          "translation": "频繁的搬家扰乱了孩子们的学业、通勤安排和邻里关系。"
+        },
+        {
+          "text": "Clear rules on notice periods and reasonable rent increases would give tenants more stability.",
+          "translation": "关于通知期和合理租金上涨的明确规则将为租户提供更多稳定性。"
+        },
+        {
+          "text": "Landlords would retain the right to manage their property and address serious breaches.",
+          "translation": "房东将保留管理其财产和解决严重违规行为的权利。"
+        },
+        {
+          "text": "A fair rental system should balance ownership rights with the need for a secure home.",
+          "translation": "公平的租赁制度应该平衡所有权与安全住房的需求。"
+        }
+      ]
     },
     {
       "viewpoint": "New housing should be built near transport and services.",
@@ -301,19 +347,87 @@
         "reduce car dependence",
         "plan residential development"
       ],
-      "argument": "Cheap land on the edge of a city may allow rapid construction, but residents can face long and costly journeys. Housing near employment, schools and frequent transport gives people more practical choices. It also reduces pressure to own a car and can support local shops. Planning authorities should coordinate housing with infrastructure rather than treating them as separate projects. A home is affordable only when the cost of reaching daily needs is considered."
+      "argument": "Cheap land on the edge of a city may allow rapid construction, but residents can face long and costly journeys. Housing near employment, schools and frequent transport gives people more practical choices. It also reduces pressure to own a car and can support local shops. Planning authorities should coordinate housing with infrastructure rather than treating them as separate projects. A home is affordable only when the cost of reaching daily needs is considered.",
+      "viewpointTranslation": "新住房应建在交通和服务设施附近。",
+      "topicSentenceTranslation": "位置与建造的房屋数量一样重要。",
+      "collocationTranslations": [
+        "公共交通连接",
+        "获得基本服务",
+        "减少汽车依赖",
+        "规划住宅开发"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Cheap land on the edge of a city may allow rapid construction, but residents can face long and costly journeys.",
+          "translation": "城市边缘的廉价土地可能允许快速建设，但居民可能面临漫长而昂贵的旅程。"
+        },
+        {
+          "text": "Housing near employment, schools and frequent transport gives people more practical choices.",
+          "translation": "靠近工作场所、学校和频繁交通的住房为人们提供了更实际的选择。"
+        },
+        {
+          "text": "It also reduces pressure to own a car and can support local shops.",
+          "translation": "它还减轻了拥有汽车的压力，并可以支持当地商店。"
+        },
+        {
+          "text": "Planning authorities should coordinate housing with infrastructure rather than treating them as separate projects.",
+          "translation": "规划当局应协调住房与基础设施，而不是将它们视为单独的项目。"
+        },
+        {
+          "text": "A home is affordable only when the cost of reaching daily needs is considered.",
+          "translation": "只有考虑到满足日常需求的成本，房屋才是负担得起的。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What is your favourite room in your home?",
-      "answer": "My favourite room is the small study near the window. It isn’t beautifully decorated, but it gets good natural light and is quieter than the rest of the flat. I use it for reading and work, and I keep the desk fairly clear. Having one place associated with concentration helps me settle down quickly."
+      "answer": "My favourite room is the small study near the window. It isn’t beautifully decorated, but it gets good natural light and is quieter than the rest of the flat. I use it for reading and work, and I keep the desk fairly clear. Having one place associated with concentration helps me settle down quickly.",
+      "questionTranslation": "你最喜欢家里的哪个房间？",
+      "answerSentences": [
+        {
+          "text": "My favourite room is the small study near the window.",
+          "translation": "我最喜欢的房间是靠近窗户的小书房。"
+        },
+        {
+          "text": "It isn’t beautifully decorated, but it gets good natural light and is quieter than the rest of the flat.",
+          "translation": "它的装饰并不精美，但自然光线充足，而且比公寓的其他部分更安静。"
+        },
+        {
+          "text": "I use it for reading and work, and I keep the desk fairly clear.",
+          "translation": "我用它来阅读和工作，而且我的桌子保持得相当干净。"
+        },
+        {
+          "text": "Having one place associated with concentration helps me settle down quickly.",
+          "translation": "拥有一个专门用来专注做事的空间，能帮助我很快进入状态。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "What would you like to change about your home?",
-      "answer": "I’d improve the storage. The flat itself is large enough, but there aren’t many cupboards, so everyday objects easily make the rooms look untidy. Built-in shelves would use the vertical space without taking up much floor area. I’d also replace one harsh ceiling light with several warmer lamps, which would make the living room more comfortable."
+      "answer": "I’d improve the storage. The flat itself is large enough, but there aren’t many cupboards, so everyday objects easily make the rooms look untidy. Built-in shelves would use the vertical space without taking up much floor area. I’d also replace one harsh ceiling light with several warmer lamps, which would make the living room more comfortable.",
+      "questionTranslation": "您想对您的家做出哪些改变？",
+      "answerSentences": [
+        {
+          "text": "I’d improve the storage.",
+          "translation": "我会改进存储。"
+        },
+        {
+          "text": "The flat itself is large enough, but there aren’t many cupboards, so everyday objects easily make the rooms look untidy.",
+          "translation": "公寓本身足够大，但柜子不多，日常物品很容易让房间显得不整洁。"
+        },
+        {
+          "text": "Built-in shelves would use the vertical space without taking up much floor area.",
+          "translation": "内置货架可以利用垂直空间，而不占用太多地板面积。"
+        },
+        {
+          "text": "I’d also replace one harsh ceiling light with several warmer lamps, which would make the living room more comfortable.",
+          "translation": "我还会用几盏温暖的灯代替一盏刺眼的吸顶灯，这会让客厅更舒适。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,103 @@
         "answer": "B",
         "explanation": "The final paragraph makes this distinction."
       }
+    ],
+    "titleTranslation": "过去的灵活房间",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Modern property advertisements usually name each room: bedroom, dining room, study and living room.",
+          "translation": "现代房产广告通常会命名每个房间：卧室、餐厅、书房和客厅。"
+        },
+        {
+          "text": "The label suggests a fixed purpose.",
+          "translation": "该标签暗示了一个固定的目的。"
+        },
+        {
+          "text": "In many earlier homes, however, rooms changed function throughout the day.",
+          "translation": "然而，在许多早期的房屋中，房间的功能在一天中不断变化。"
+        },
+        {
+          "text": "Furniture was moved, beds were folded or shared, and the same space might be used for work, meals and sleep.",
+          "translation": "家具被移动，床被折叠或共用，同一空间可能用于工作、吃饭和睡觉。"
+        },
+        {
+          "text": "Limited space made flexibility ordinary rather than fashionable.",
+          "translation": "有限的空间使灵活性变得普通而不是时尚。"
+        }
+      ],
+      [
+        {
+          "text": "Industrialisation gradually altered this pattern for many urban households.",
+          "translation": "工业化逐渐改变了许多城市家庭的这种模式。"
+        },
+        {
+          "text": "Work moved from homes into factories and offices, while mass-produced furniture became cheaper.",
+          "translation": "工作从家庭转移到工厂和办公室，而大规模生产的家具变得更便宜。"
+        },
+        {
+          "text": "Rising incomes allowed some families to separate private sleeping areas from spaces used for guests.",
+          "translation": "收入的增加使得一些家庭可以将私人睡眠区与客人使用的空间分开。"
+        },
+        {
+          "text": "These changes were uneven; overcrowded housing continued, and domestic workers often occupied rooms with several functions.",
+          "translation": "这些变化是不平衡的；住房仍然过度拥挤，家政工人常常占用具有多种功能的房间。"
+        }
+      ],
+      [
+        {
+          "text": "Flexible design has returned in response to smaller apartments and remote work.",
+          "translation": "为了应对较小的公寓和远程工作，灵活的设计又回来了。"
+        },
+        {
+          "text": "Sliding partitions, folding tables and movable storage allow residents to change a room without increasing its size.",
+          "translation": "滑动隔断、折叠桌和可移动储藏室使居民可以在不增加房间大小的情况下改变房间。"
+        },
+        {
+          "text": "Yet flexibility has limits.",
+          "translation": "然而灵活性是有限度的。"
+        },
+        {
+          "text": "A worker who packs away a desk every evening may never gain a quiet place for concentration, and family members can compete for the same adaptable space at the same time.",
+          "translation": "每天晚上收拾办公桌的工人可能永远无法获得一个安静的集中注意力的地方，而家庭成员可以同时争夺同一个适应性强的空间。"
+        }
+      ],
+      [
+        {
+          "text": "Housing quality therefore cannot be measured by floor area alone.",
+          "translation": "因此，住房质量不能仅通过建筑面积来衡量。"
+        },
+        {
+          "text": "Layout, daylight, sound and storage affect whether space can genuinely serve several purposes.",
+          "translation": "布局、日光、声音和存储会影响空间是否能够真正发挥多种作用。"
+        },
+        {
+          "text": "A smaller home with well-positioned doors and adequate cupboards may function better than a larger one divided into awkward rooms.",
+          "translation": "一栋较小的房屋，如果门位置合适，橱柜也足够，可能会比划分为尴尬房间的较大房屋更好。"
+        },
+        {
+          "text": "Flexibility is most useful when it expands choice; it is less convincing when it merely gives a positive name to insufficient space.",
+          "translation": "当灵活性扩大选择范围时，它是最有用的。如果仅仅给不足的空间起一个正面的名称，那就不太令人信服了。"
+        }
+      ],
+      [
+        {
+          "text": "Household composition makes flexible space more complicated.",
+          "translation": "户型结构使得灵活的空间变得更加复杂。"
+        },
+        {
+          "text": "A studio may suit one resident but become difficult when two people work from home or a child needs quiet sleep.",
+          "translation": "单间公寓可能适合一名居民，但当两个人在家工作或孩子需要安静的睡眠时，单间公寓就会变得困难。"
+        },
+        {
+          "text": "Designers cannot predict every future arrangement, yet sufficient electrical points, sound separation and storage allow residents to adapt later without major rebuilding.",
+          "translation": "设计师无法预测未来的每一种安排，但足够的供电点、隔音和存储使居民能够在以后进行适应，而无需进行重大重建。"
+        },
+        {
+          "text": "Adaptability begins with practical capacity, not movable furniture alone.",
+          "translation": "适应性始于实际能力，而不仅仅是可移动的家具。"
+        }
+      ]
     ]
   }
 }

@@ -153,7 +153,8 @@
         "markets are increasingly interdependent",
         "production and trade cross national borders"
       ],
-      "note": "interdependent强调相互影响。"
+      "note": "interdependent强调相互影响。",
+      "translation": "世界经济相互连接，也可表达为全球经济一体化、各国市场彼此关联或跨国经济联系加深。"
     },
     {
       "base": "companies move work abroad",
@@ -162,7 +163,8 @@
         "production is relocated overseas",
         "business functions are transferred internationally"
       ],
-      "note": "outsource不一定涉及生产。"
+      "note": "outsource不一定涉及生产。",
+      "translation": "企业把工作转移到海外，也可表达为业务外包、将生产迁往国外或使用海外劳动力。"
     },
     {
       "base": "more products to choose from",
@@ -171,7 +173,8 @@
         "a wider range of imported goods",
         "access to more diverse products"
       ],
-      "note": "choice不等于质量提高。"
+      "note": "choice不等于质量提高。",
+      "translation": "可选择的产品更多，也可表达为商品种类增加、消费者选择扩大或能够购买更多国际商品。"
     },
     {
       "base": "local firms suffer",
@@ -180,7 +183,8 @@
         "local producers lose competitiveness",
         "home-grown enterprises struggle against imports"
       ],
-      "note": "lose competitiveness比suffer具体。"
+      "note": "lose competitiveness比suffer具体。",
+      "translation": "本地企业受到冲击，也可表达为国内生产商承受压力、本地公司失去市场或本土产业面临竞争。"
     },
     {
       "base": "sell to other countries",
@@ -189,7 +193,8 @@
         "enter overseas markets",
         "reach consumers beyond national borders"
       ],
-      "note": "reach consumers强调市场拓展。"
+      "note": "reach consumers强调市场拓展。",
+      "translation": "向其他国家销售，也可表达为出口、进入海外市场或服务国外客户。"
     },
     {
       "base": "international companies",
@@ -198,7 +203,8 @@
         "globally operating firms",
         "businesses with operations in several countries"
       ],
-      "note": "corporation更正式。"
+      "note": "corporation更正式。",
+      "translation": "国际公司，也可表达为跨国企业、全球性公司或在多个国家经营的企业。"
     },
     {
       "base": "countries rely on each other",
@@ -207,7 +213,8 @@
         "economies depend on cross-border networks",
         "production links national markets together"
       ],
-      "note": "interdependence是双向依赖。"
+      "note": "interdependence是双向依赖。",
+      "translation": "各国相互依赖，也可表达为经济相互依存、跨国依赖或彼此依靠供应和市场。"
     },
     {
       "base": "same culture everywhere",
@@ -216,51 +223,60 @@
         "a decline in local distinctiveness",
         "increasing uniformity across cultures"
       ],
-      "note": "homogenisation常用于批评。"
+      "note": "homogenisation常用于批评。",
+      "translation": "各地文化趋同，也可表达为文化同质化、全球文化日益相似或本地差异逐渐消失。"
     }
   ],
   "sentences": [
     {
       "pattern": "Although + global connection + gives + group + access to + benefit, it also exposes them to + risk.",
       "cn": "虽然某种全球联系让某群体获得益处，但也使其面临风险。",
-      "example": "Although overseas sourcing gives manufacturers access to cheaper components, it also exposes them to distant disruptions."
+      "example": "Although overseas sourcing gives manufacturers access to cheaper components, it also exposes them to distant disruptions.",
+      "exampleTranslation": "虽然海外采购使制造商能够获得更便宜的零部件，但也让它们容易受到远方中断的影响。"
     },
     {
       "pattern": "A product that is + action in one country + may be + different action + in several others before + final stage.",
       "cn": "一种产品在一个国家完成某环节后，可能在多个其他国家经历不同环节，最后才进入最终阶段。",
-      "example": "A product that is designed in one country may be assembled in several others before reaching consumers."
+      "example": "A product that is designed in one country may be assembled in several others before reaching consumers.",
+      "exampleTranslation": "一种产品可能在一个国家设计，在其他几个国家组装，最后才到达消费者手中。"
     },
     {
       "pattern": "Rather than choosing between + global option + and + local option, businesses can + balanced response.",
       "cn": "企业不必在全球方案与本地方案之间二选一，而可以采取兼顾两者的做法。",
-      "example": "Rather than choosing between global suppliers and local production, businesses can maintain a diversified network."
+      "example": "Rather than choosing between global suppliers and local production, businesses can maintain a diversified network.",
+      "exampleTranslation": "企业与其在全球供应商与本地生产之间二选一，不如维持多元化网络。"
     }
   ],
   "expressions": [
     {
       "text": "shop around for the best price",
       "cn": "多方比较寻找最优价格",
-      "example": "Online buyers can shop around for the best price."
+      "example": "Online buyers can shop around for the best price.",
+      "exampleTranslation": "网上购物者可以多方比较，寻找最优惠的价格。"
     },
     {
       "text": "feel the effects of a distant crisis",
       "cn": "感受到远方危机的影响",
-      "example": "Local factories felt the effects of a distant shipping crisis."
+      "example": "Local factories felt the effects of a distant shipping crisis.",
+      "exampleTranslation": "本地工厂感受到了远方航运危机的影响。"
     },
     {
       "text": "open the door to new markets",
       "cn": "打开新市场的大门",
-      "example": "Digital platforms can open the door to new markets."
+      "example": "Digital platforms can open the door to new markets.",
+      "exampleTranslation": "数字平台可以打开通往新市场的大门。"
     },
     {
       "text": "build a resilient supply chain",
       "cn": "建立有韧性的供应链",
-      "example": "Firms are trying to build a resilient supply chain."
+      "example": "Firms are trying to build a resilient supply chain.",
+      "exampleTranslation": "企业正在努力打造有韧性的供应链。"
     },
     {
       "text": "balance global reach with local responsibility",
       "cn": "兼顾全球市场与本地责任",
-      "example": "Brands should balance global reach with local responsibility."
+      "example": "Brands should balance global reach with local responsibility.",
+      "exampleTranslation": "品牌应在全球覆盖与本地责任之间取得平衡。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "maintain strategic reserves",
         "absorb external shocks"
       ],
-      "argument": "Domestic production can shorten transport routes, but a factory remains vulnerable if all its essential inputs come from one region. A diversified network spreads disruption across suppliers with different risks. During a temporary shortage, strategic reserves can then protect genuinely critical goods while firms switch orders. Recreating every stage at home would be extremely costly and could replace one foreign dependency with one domestic bottleneck. Governments should therefore map concentrated risks and support alternatives rather than equating resilience with economic isolation."
+      "argument": "Domestic production can shorten transport routes, but a factory remains vulnerable if all its essential inputs come from one region. A diversified network spreads disruption across suppliers with different risks. During a temporary shortage, strategic reserves can then protect genuinely critical goods while firms switch orders. Recreating every stage at home would be extremely costly and could replace one foreign dependency with one domestic bottleneck. Governments should therefore map concentrated risks and support alternatives rather than equating resilience with economic isolation.",
+      "viewpointTranslation": "供应链应实现多元化，而不只是缩短。",
+      "topicSentenceTranslation": "韧性更多取决于避免单点故障，而不是在国内生产所有东西。",
+      "collocationTranslations": [
+        "使供应商多元化",
+        "减少单一来源依赖",
+        "维持战略储备",
+        "承受外部冲击"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Domestic production can shorten transport routes, but a factory remains vulnerable if all its essential inputs come from one region.",
+          "translation": "国内生产可以缩短运输路线，但如果一家工厂的所有关键投入都来自同一地区，它仍然十分脆弱。"
+        },
+        {
+          "text": "A diversified network spreads disruption across suppliers with different risks.",
+          "translation": "多元化网络把中断风险分散到面对不同风险的供应商之间。"
+        },
+        {
+          "text": "During a temporary shortage, strategic reserves can then protect genuinely critical goods while firms switch orders.",
+          "translation": "在暂时短缺期间，战略储备可以保护真正关键的商品，同时为企业转换订单争取时间。"
+        },
+        {
+          "text": "Recreating every stage at home would be extremely costly and could replace one foreign dependency with one domestic bottleneck.",
+          "translation": "在本国重建每一个生产环节成本极高，而且可能只是用一个国内瓶颈取代一种国外依赖。"
+        },
+        {
+          "text": "Governments should therefore map concentrated risks and support alternatives rather than equating resilience with economic isolation.",
+          "translation": "因此，政府应识别集中风险并支持替代方案，而不能把韧性等同于经济孤立。"
+        }
+      ]
     },
     {
       "viewpoint": "Global market access can strengthen small local producers.",
@@ -301,19 +347,99 @@
         "secure a fair return",
         "use digital marketplaces"
       ],
-      "argument": "A craft business in a small town may have too few nearby customers to remain viable. Online export platforms can connect it with buyers who specifically value its distinctive methods, creating income that supports apprenticeships. However, an intermediary that controls branding and prices may capture most of that value or pressure the producer to standardise. Transparent fees, collective marketing and origin labels can improve bargaining power. Globalisation can therefore preserve local production when market reach expands without transferring ownership of the product’s identity."
+      "argument": "A craft business in a small town may have too few nearby customers to remain viable. Online export platforms can connect it with buyers who specifically value its distinctive methods, creating income that supports apprenticeships. However, an intermediary that controls branding and prices may capture most of that value or pressure the producer to standardise. Transparent fees, collective marketing and origin labels can improve bargaining power. Globalisation can therefore preserve local production when market reach expands without transferring ownership of the product’s identity.",
+      "viewpointTranslation": "进入全球市场可以增强本地小型生产商的实力。",
+      "topicSentenceTranslation": "如果生产商仍掌握设计和价值，国际贸易不一定会抹去本地特色。",
+      "collocationTranslations": [
+        "触达海外消费者",
+        "保留本地工艺",
+        "获得公平回报",
+        "利用数字交易平台"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A craft business in a small town may have too few nearby customers to remain viable.",
+          "translation": "小镇上的手工艺企业可能因附近客户太少而难以维持经营。"
+        },
+        {
+          "text": "Online export platforms can connect it with buyers who specifically value its distinctive methods, creating income that supports apprenticeships.",
+          "translation": "在线出口平台可以把它与特别重视其独特工艺的买家联系起来，创造收入以支持学徒培养。"
+        },
+        {
+          "text": "However, an intermediary that controls branding and prices may capture most of that value or pressure the producer to standardise.",
+          "translation": "然而，控制品牌和定价的中间商可能攫取大部分价值，或迫使生产商实行标准化。"
+        },
+        {
+          "text": "Transparent fees, collective marketing and origin labels can improve bargaining power.",
+          "translation": "透明收费、联合营销和原产地标签可以提高议价能力。"
+        },
+        {
+          "text": "Globalisation can therefore preserve local production when market reach expands without transferring ownership of the product’s identity.",
+          "translation": "因此，当市场覆盖扩大而产品身份的所有权没有转移时，全球化可以保护本地生产。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe an international influence that changed something in your local area.",
-      "answer": "An international influence I noticed was the arrival of a night market inspired by food markets in several Asian cities. Local organisers did not copy one place exactly; they invited residents from different backgrounds to sell dishes, crafts and ingredients that were difficult to find nearby. The market encouraged an underused square to remain active in the evening, and established shops benefited from the extra visitors. It also introduced people to unfamiliar food through small, affordable portions rather than formal restaurants. There were early complaints about litter, so organisers introduced reusable cups and a deposit system. I like the example because global influence produced a local event with its own rules and participants instead of simply importing another international chain."
+      "answer": "An international influence I noticed was the arrival of a night market inspired by food markets in several Asian cities. Local organisers did not copy one place exactly; they invited residents from different backgrounds to sell dishes, crafts and ingredients that were difficult to find nearby. The market encouraged an underused square to remain active in the evening, and established shops benefited from the extra visitors. It also introduced people to unfamiliar food through small, affordable portions rather than formal restaurants. There were early complaints about litter, so organisers introduced reusable cups and a deposit system. I like the example because global influence produced a local event with its own rules and participants instead of simply importing another international chain.",
+      "questionTranslation": "请描述一种改变了你所在地区某些事物的国际影响。",
+      "answerSentences": [
+        {
+          "text": "An international influence I noticed was the arrival of a night market inspired by food markets in several Asian cities.",
+          "translation": "我注意到的一种国际影响，是当地出现了一个受亚洲多个城市美食市场启发的夜市。"
+        },
+        {
+          "text": "Local organisers did not copy one place exactly; they invited residents from different backgrounds to sell dishes, crafts and ingredients that were difficult to find nearby.",
+          "translation": "本地组织者没有完全照搬某一个地方，而是邀请不同背景的居民出售附近很难找到的菜肴、手工艺品和食材。"
+        },
+        {
+          "text": "The market encouraged an underused square to remain active in the evening, and established shops benefited from the extra visitors.",
+          "translation": "夜市让一处利用不足的广场在夜间保持活力，周边原有商店也从增加的客流中受益。"
+        },
+        {
+          "text": "It also introduced people to unfamiliar food through small, affordable portions rather than formal restaurants.",
+          "translation": "它还让人们通过价格实惠的小份食物而不是正式餐厅接触陌生饮食。"
+        },
+        {
+          "text": "There were early complaints about litter, so organisers introduced reusable cups and a deposit system.",
+          "translation": "起初有人投诉垃圾问题，因此组织者引入了可重复使用的杯子和押金制度。"
+        },
+        {
+          "text": "I like the example because global influence produced a local event with its own rules and participants instead of simply importing another international chain.",
+          "translation": "我喜欢这个例子，因为全球影响促成了一个拥有自身规则和参与者的本地活动，而不是简单引进另一家国际连锁店。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Does globalisation threaten local culture?",
-      "answer": "It can make commercial streets and entertainment more uniform because successful brands and formats spread quickly. However, contact with outside influences does not automatically remove local culture; people often adapt imported ideas to their own language and habits. Global platforms can even give regional music or crafts an audience that was previously unavailable. The larger threat may be unequal market power, where local creators cannot compete for space or income. Schools, cultural institutions and fair digital rules can help, but culture also remains alive when residents choose to practise it rather than preserve it only for tourists."
+      "answer": "It can make commercial streets and entertainment more uniform because successful brands and formats spread quickly. However, contact with outside influences does not automatically remove local culture; people often adapt imported ideas to their own language and habits. Global platforms can even give regional music or crafts an audience that was previously unavailable. The larger threat may be unequal market power, where local creators cannot compete for space or income. Schools, cultural institutions and fair digital rules can help, but culture also remains alive when residents choose to practise it rather than preserve it only for tourists.",
+      "questionTranslation": "全球化是否威胁本地文化？",
+      "answerSentences": [
+        {
+          "text": "It can make commercial streets and entertainment more uniform because successful brands and formats spread quickly.",
+          "translation": "全球化会让商业街和娱乐形式更加雷同，因为成功的品牌和模式传播得很快。"
+        },
+        {
+          "text": "However, contact with outside influences does not automatically remove local culture; people often adapt imported ideas to their own language and habits.",
+          "translation": "然而，接触外来影响不会自动消除本地文化；人们常会按照自己的语言和习惯改造引入的观念。"
+        },
+        {
+          "text": "Global platforms can even give regional music or crafts an audience that was previously unavailable.",
+          "translation": "全球平台甚至能让地区音乐或手工艺接触过去无法触达的受众。"
+        },
+        {
+          "text": "The larger threat may be unequal market power, where local creators cannot compete for space or income.",
+          "translation": "更大的威胁可能是不平等的市场力量，即本地创作者无法争取空间或收入。"
+        },
+        {
+          "text": "Schools, cultural institutions and fair digital rules can help, but culture also remains alive when residents choose to practise it rather than preserve it only for tourists.",
+          "translation": "学校、文化机构和公平的数字规则可以提供帮助，但只有当居民选择实践文化，而不只是把它保存下来供游客观看时，文化才会继续保持活力。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +476,103 @@
           "It exposes choices without resolving every trade-off."
         ]
       }
+    ],
+    "titleTranslation": "为何一辆自行车的旅程难以绘制",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A bicycle sold in a European shop may carry the name of a company founded nearby, yet its physical history is far less local.",
+          "translation": "欧洲商店出售的一辆自行车可能印有一家在附近创立的公司的名称，但其实体生产历程远没有这么本地化。"
+        },
+        {
+          "text": "Aluminium can be refined in one country, shaped into tubes in another and welded into a frame elsewhere; gears, tyres and brakes may follow separate routes before final assembly.",
+          "translation": "铝材可能在一个国家提炼，在另一个国家制成管材，又在其他地方焊接成车架；齿轮、轮胎和刹车也可能分别经过不同路线后才进行最终组装。"
+        },
+        {
+          "text": "For companies attempting to measure environmental or labour standards, the difficulty is not distance alone but the number of relationships hidden behind a finished object.",
+          "translation": "对于试图衡量环境标准或劳动标准的公司而言，难点不只是距离，而是成品背后隐藏的众多关系。"
+        }
+      ],
+      [
+        {
+          "text": "Traditional purchasing records identify the supplier that sends an invoice.",
+          "translation": "传统采购记录会标明开具发票的供应商。"
+        },
+        {
+          "text": "That firm, however, may buy materials from subcontractors whose own sources change according to price and availability.",
+          "translation": "然而，这家企业可能从分包商采购材料，而分包商自己的来源又会随价格和供应情况变化。"
+        },
+        {
+          "text": "A survey of mid-sized manufacturers found that most could name their direct suppliers, while only a small minority had reliable information two stages further back.",
+          "translation": "一项针对中型制造商的调查发现，大多数企业能说出直接供应商，但只有极少数掌握再往前两个环节的可靠信息。"
+        },
+        {
+          "text": "Auditing the final assembly plant therefore offered reassurance about only a fraction of the production network.",
+          "translation": "因此，审核最终组装厂只能让人对生产网络中的一小部分感到放心。"
+        }
+      ],
+      [
+        {
+          "text": "One bicycle company tried to construct a digital “product passport”.",
+          "translation": "一家自行车公司尝试建立数字“产品护照”。"
+        },
+        {
+          "text": "Each major component received a record of its origin, material and processing site.",
+          "translation": "每个主要零部件都有关于产地、材料和加工地点的记录。"
+        },
+        {
+          "text": "Suppliers initially resisted, partly because revealing their sources could weaken their commercial position.",
+          "translation": "供应商起初表示抵制，部分原因是公开来源可能削弱其商业地位。"
+        },
+        {
+          "text": "Data also became outdated when a factory substituted an equivalent alloy during a shortage.",
+          "translation": "工厂在短缺期间改用同等合金时，数据也会过时。"
+        },
+        {
+          "text": "The passport grew more accurate only after the company reduced the number of very small contracts and guaranteed longer orders in exchange for disclosure.",
+          "translation": "直到公司减少规模很小的合同数量，并以保证更长期订单换取信息披露后，护照才变得更加准确。"
+        }
+      ],
+      [
+        {
+          "text": "Traceability created choices rather than automatic improvement.",
+          "translation": "可追溯性带来了选择，却不会自动带来改善。"
+        },
+        {
+          "text": "Once managers learned that a particular metal process used substantial electricity, they still had to compare alternative materials, durability and cost.",
+          "translation": "管理者得知某种金属加工会消耗大量电力后，仍需比较替代材料、耐用性和成本。"
+        },
+        {
+          "text": "Moving production to a plant with cleaner power might lengthen shipping;",
+          "translation": "把生产转移到使用更清洁电力的工厂可能延长运输距离；"
+        },
+        {
+          "text": "a lighter component might fail sooner.",
+          "translation": "更轻的零部件则可能更快损坏。"
+        },
+        {
+          "text": "The information made trade-offs visible, but it did not decide which one mattered most.",
+          "translation": "这些信息让权衡变得可见，却不能决定哪一项最重要。"
+        }
+      ],
+      [
+        {
+          "text": "Consumers increasingly encounter codes promising to reveal where products came from.",
+          "translation": "消费者越来越常见到声称能揭示产品来源的代码。"
+        },
+        {
+          "text": "Such tools can be useful, provided that a neat screen is not mistaken for a simple supply chain.",
+          "translation": "这类工具可能有用，前提是不要把整洁的屏幕误认为简单的供应链。"
+        },
+        {
+          "text": "The bicycle’s journey remains a changing network of technical and commercial decisions.",
+          "translation": "自行车的旅程仍是一个由技术和商业决策构成、不断变化的网络。"
+        },
+        {
+          "text": "Mapping it is valuable precisely because the global connections are more complicated than the national name printed on the frame.",
+          "translation": "绘制它之所以有价值，恰恰是因为全球联系比车架上印着的国家名称复杂得多。"
+        }
+      ]
     ]
   }
 }

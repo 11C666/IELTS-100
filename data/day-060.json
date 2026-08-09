@@ -153,7 +153,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论犯罪与预防。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论犯罪与预防。",
+      "translation": "important 可以表达为“重要的”“关键的”或“必不可少的”。"
     },
     {
       "base": "result",
@@ -162,7 +163,8 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论犯罪与预防。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论犯罪与预防。",
+      "translation": "结果可以表示为结果、后果、效果。"
     },
     {
       "base": "improve",
@@ -171,7 +173,8 @@
         "strengthen",
         "raise the quality of"
       ],
-      "note": "搭配对象不同，不能机械互换。 本组可用于讨论犯罪与预防。"
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论犯罪与预防。",
+      "translation": "改进可以表示为提高、加强、提高质量。"
     },
     {
       "base": "reduce",
@@ -180,7 +183,8 @@
         "limit",
         "bring down"
       ],
-      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论犯罪与预防。"
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论犯罪与预防。",
+      "translation": "减少可以表达为减少、限制、降低。"
     },
     {
       "base": "people",
@@ -189,7 +193,8 @@
         "members of the public",
         "residents"
       ],
-      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论犯罪与预防。"
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论犯罪与预防。",
+      "translation": "人们可以表示为个人、公众成员、居民。"
     },
     {
       "base": "use",
@@ -198,7 +203,8 @@
         "adopt",
         "rely on"
       ],
-      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论犯罪与预防。"
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论犯罪与预防。",
+      "translation": "use 可以表达为“利用”“采用”或“依靠”。"
     },
     {
       "base": "choice",
@@ -207,7 +213,8 @@
         "alternative",
         "decision"
       ],
-      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论犯罪与预防。"
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论犯罪与预防。",
+      "translation": "选择可以表达为选择、替代、决定。"
     },
     {
       "base": "cause",
@@ -216,51 +223,60 @@
         "contribute to",
         "give rise to"
       ],
-      "note": "contribute to 表示众多原因之一。 本组可用于讨论犯罪与预防。"
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论犯罪与预防。",
+      "translation": "原因可以表达为导致、促成、引起。"
     }
   ],
   "sentences": [
     {
       "pattern": "Crime prevention is most effective when + intervention + reduces both + opportunity + and + underlying risk.",
       "cn": "当干预同时减少犯罪机会和根本风险时，预防最有效。",
-      "example": "Crime prevention is most effective when street design reduces opportunity and youth services address underlying risk."
+      "example": "Crime prevention is most effective when street design reduces opportunity and youth services address underlying risk.",
+      "exampleTranslation": "当街道设计减少机会并且青年服务解决潜在风险时，预防犯罪是最有效的。"
     },
     {
       "pattern": "The perception that + place + is unsafe may persist even after + objective change.",
       "cn": "即使客观情况改变，人们对某地不安全的看法仍可能持续。",
-      "example": "The perception that a park is unsafe may persist even after reported offences decline."
+      "example": "The perception that a park is unsafe may persist even after reported offences decline.",
+      "exampleTranslation": "即使在举报的违法行为减少之后，公园不安全的看法可能仍然存在。"
     },
     {
       "pattern": "Punishment can deter + behaviour + only if + condition of certainty/timing.",
       "cn": "只有满足确定性或及时性条件，惩罚才能威慑某行为。",
-      "example": "Punishment can deter offending only if people believe detection is reasonably likely."
+      "example": "Punishment can deter offending only if people believe detection is reasonably likely.",
+      "exampleTranslation": "只有当人们相信有相当可能被发现时，惩罚才能阻止犯罪。"
     }
   ],
   "expressions": [
     {
       "text": "report a crime",
       "cn": "报案",
-      "example": "Residents need a safe way to report a crime."
+      "example": "Residents need a safe way to report a crime.",
+      "exampleTranslation": "居民需要一种能够安全报案的方式。"
     },
     {
       "text": "act as a deterrent",
       "cn": "起威慑作用",
-      "example": "Visible staff can act as a deterrent in busy stations."
+      "example": "Visible staff can act as a deterrent in busy stations.",
+      "exampleTranslation": "可见的工作人员可以在繁忙的车站起到威慑作用。"
     },
     {
       "text": "tackle the causes of crime",
       "cn": "处理犯罪成因",
-      "example": "Youth support can help tackle the causes of crime."
+      "example": "Youth support can help tackle the causes of crime.",
+      "exampleTranslation": "青少年支持可以帮助解决犯罪根源。"
     },
     {
-      "text": "feel safe after dark",
-      "cn": "天黑后感到安全",
-      "example": "Good routes and active buildings help people feel safe after dark."
+      "text": "keep an eye out for",
+      "cn": "留意；警觉注意",
+      "example": "Neighbours can keep an eye out for unusual activity in the area.",
+      "exampleTranslation": "邻居可以留意社区里的异常活动。"
     },
     {
       "text": "reduce repeat offending",
       "cn": "减少再犯",
-      "example": "Stable housing can reduce repeat offending after release."
+      "example": "Stable housing can reduce repeat offending after release.",
+      "exampleTranslation": "稳定的住房能够降低服刑人员获释后再次犯罪的可能性。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "support at-risk young people",
         "reduce repeat offending"
       ],
-      "argument": "Lighting, secure entrances and active street fronts can make offending more difficult and increase the chance of observation. These measures may displace rather than resolve harm if motivated offenders simply move elsewhere. Education, addiction treatment and stable housing address factors linked to repeated offending. No single programme works for every crime type. A balanced strategy uses immediate situational protection while investing in conditions that reduce future motivation and vulnerability."
+      "argument": "Lighting, secure entrances and active street fronts can make offending more difficult and increase the chance of observation. These measures may displace rather than resolve harm if motivated offenders simply move elsewhere. Education, addiction treatment and stable housing address factors linked to repeated offending. No single programme works for every crime type. A balanced strategy uses immediate situational protection while investing in conditions that reduce future motivation and vulnerability.",
+      "viewpointTranslation": "预防应将环境设计与社会支持结合起来。",
+      "topicSentenceTranslation": "减少犯罪机会很有价值，但持久的安全还取决于解决重复的风险因素。",
+      "collocationTranslations": [
+        "设计犯罪",
+        "改善自然监视",
+        "支持高危年轻人",
+        "减少重复犯罪"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Lighting, secure entrances and active street fronts can make offending more difficult and increase the chance of observation.",
+          "translation": "照明、安全入口和活跃的街道可以使犯罪变得更加困难并增加观察的机会。"
+        },
+        {
+          "text": "These measures may displace rather than resolve harm if motivated offenders simply move elsewhere.",
+          "translation": "如果有动机的犯罪者只是转移到其他地方，这些措施可能会取代而不是解决伤害。"
+        },
+        {
+          "text": "Education, addiction treatment and stable housing address factors linked to repeated offending.",
+          "translation": "教育、成瘾治疗和稳定的住房解决了与屡犯相关的因素。"
+        },
+        {
+          "text": "No single programme works for every crime type.",
+          "translation": "没有一个程序适用于所有犯罪类型。"
+        },
+        {
+          "text": "A balanced strategy uses immediate situational protection while investing in conditions that reduce future motivation and vulnerability.",
+          "translation": "平衡策略使用即时情境保护，同时投资于减少未来动机和脆弱性的条件。"
+        }
+      ]
     },
     {
       "viewpoint": "Public safety policy should distinguish crime rates from fear of crime.",
@@ -301,19 +347,95 @@
         "avoid sensational reporting",
         "rebuild public confidence"
       ],
-      "argument": "A neighbourhood may become statistically safer while residents continue avoiding it because of poor lighting, visible disorder or memorable news coverage. Conversely, low fear does not prove that hidden domestic or financial crime is rare. Surveys, reports and local observation should therefore be compared. Communication must present trends honestly without dismissing personal experience. Effective policy reduces harm and enables people to use public space confidently, rather than treating either perception or recorded data as the whole picture."
+      "argument": "A neighbourhood may become statistically safer while residents continue avoiding it because of poor lighting, visible disorder or memorable news coverage. Conversely, low fear does not prove that hidden domestic or financial crime is rare. Surveys, reports and local observation should therefore be compared. Communication must present trends honestly without dismissing personal experience. Effective policy reduces harm and enables people to use public space confidently, rather than treating either perception or recorded data as the whole picture.",
+      "viewpointTranslation": "公共安全政策应区分犯罪率和对犯罪的恐惧。",
+      "topicSentenceTranslation": "举报的违法行为和居民的安全感相关，但需要不同的证据和应对措施。",
+      "collocationTranslations": [
+        "分析举报的犯罪行为",
+        "衡量感知安全",
+        "避免耸人听闻的报道",
+        "重建公众信心"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A neighbourhood may become statistically safer while residents continue avoiding it because of poor lighting, visible disorder or memorable news coverage.",
+          "translation": "从统计上看，一个社区可能会变得更安全，而居民却因为照明不良、明显的混乱或令人难忘的新闻报道而继续避开它。"
+        },
+        {
+          "text": "Conversely, low fear does not prove that hidden domestic or financial crime is rare.",
+          "translation": "相反，较低的恐惧程度并不能证明隐藏的家庭或金融犯罪很少见。"
+        },
+        {
+          "text": "Surveys, reports and local observation should therefore be compared.",
+          "translation": "因此，应该对调查、报告和当地观察进行比较。"
+        },
+        {
+          "text": "Communication must present trends honestly without dismissing personal experience.",
+          "translation": "沟通必须诚实地呈现趋势，而不忽视个人经验。"
+        },
+        {
+          "text": "Effective policy reduces harm and enables people to use public space confidently, rather than treating either perception or recorded data as the whole picture.",
+          "translation": "有效的政策可以减少伤害，并使人们能够自信地使用公共空间，而不是将感知或记录的数据视为整体。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What makes you feel safe in a public place?",
-      "answer": "I feel safer when routes are clear, other people are present and I can see where I am going. Lighting matters, but activity matters too; an empty bright area can still feel uncomfortable. Reliable transport and visible staff also help because they provide a practical way to leave or ask for assistance."
+      "answer": "I feel safer when routes are clear, other people are present and I can see where I am going. Lighting matters, but activity matters too; an empty bright area can still feel uncomfortable. Reliable transport and visible staff also help because they provide a practical way to leave or ask for assistance.",
+      "questionTranslation": "是什么让您在公共场所感到安全？",
+      "answerSentences": [
+        {
+          "text": "I feel safer when routes are clear, other people are present and I can see where I am going.",
+          "translation": "当路线畅通、有其他人在场并且我可以看到自己要去的地方时，我会感到更安全。"
+        },
+        {
+          "text": "Lighting matters, but activity matters too; an empty bright area can still feel uncomfortable.",
+          "translation": "照明很重要，但活动也很重要；空荡荡的明亮区域仍然会让人感到不舒服。"
+        },
+        {
+          "text": "Reliable transport and visible staff also help because they provide a practical way to leave or ask for assistance.",
+          "translation": "可靠的交通和可见的工作人员也有帮助，因为他们提供了一种实用的离开或寻求帮助的方式。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a change that made a place safer.",
-      "answer": "A pedestrian tunnel near a station was redesigned after residents avoided it at night. The entrances were widened, damaged lights were replaced and the solid walls were partly opened so that people on the street could see into the route. A small kiosk was also placed near one entrance, adding ordinary activity through the evening. The tunnel did not become attractive simply because it was brighter; it felt safer because isolation was reduced and there was a clear view ahead. Local authorities continued collecting reports rather than assuming the design solved every problem. I noticed more people using the route after the change. It was a good example of safety emerging from several modest decisions rather than one dramatic security measure."
+      "answer": "A pedestrian tunnel near a station was redesigned after residents avoided it at night. The entrances were widened, damaged lights were replaced and the solid walls were partly opened so that people on the street could see into the route. A small kiosk was also placed near one entrance, adding ordinary activity through the evening. The tunnel did not become attractive simply because it was brighter; it felt safer because isolation was reduced and there was a clear view ahead. Local authorities continued collecting reports rather than assuming the design solved every problem. I noticed more people using the route after the change. It was a good example of safety emerging from several modest decisions rather than one dramatic security measure.",
+      "questionTranslation": "描述使一个地方变得更安全的改变。",
+      "answerSentences": [
+        {
+          "text": "A pedestrian tunnel near a station was redesigned after residents avoided it at night.",
+          "translation": "车站附近的一条人行隧道因居民夜间避开而被重新设计。"
+        },
+        {
+          "text": "The entrances were widened, damaged lights were replaced and the solid walls were partly opened so that people on the street could see into the route.",
+          "translation": "入口被加宽，损坏的灯被更换，坚固的墙壁被部分打开，以便街上的人们可以看到路线。"
+        },
+        {
+          "text": "A small kiosk was also placed near one entrance, adding ordinary activity through the evening.",
+          "translation": "一个入口附近还设置了一个小亭，增加了整个晚上的日常活动。"
+        },
+        {
+          "text": "The tunnel did not become attractive simply because it was brighter; it felt safer because isolation was reduced and there was a clear view ahead.",
+          "translation": "这条隧道并非只是因为变亮了才更安全，而是因为隔离感减弱，人们也能清楚看到前方。"
+        },
+        {
+          "text": "Local authorities continued collecting reports rather than assuming the design solved every problem.",
+          "translation": "地方当局继续收集报告，而不是假设该设计解决了所有问题。"
+        },
+        {
+          "text": "I noticed more people using the route after the change.",
+          "translation": "我注意到更改后使用这条路线的人更多了。"
+        },
+        {
+          "text": "It was a good example of safety emerging from several modest decisions rather than one dramatic security measure.",
+          "translation": "这是一个很好的例子，说明安全源于几项适度的决定，而不是一项重大的安全措施。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +472,119 @@
         "answer": "management",
         "explanation": "Paragraph 5 uses this phrase."
       }
+    ],
+    "titleTranslation": "当更好的照明并不能减少犯罪时",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Improved street lighting is one of the most familiar crime-prevention measures.",
+          "translation": "改善街道照明是最常见的预防犯罪措施之一。"
+        },
+        {
+          "text": "It can increase visibility, help pedestrians identify routes and signal that a place is maintained.",
+          "translation": "它可以提高能见度，帮助行人识别路线并发出信号表明某个地方已得到维护。"
+        },
+        {
+          "text": "Yet studies do not find identical effects everywhere.",
+          "translation": "然而研究并没有发现各地都有相同的效果。"
+        },
+        {
+          "text": "Light changes an environment, but the behaviour it influences depends on how that environment is used.",
+          "translation": "光会改变环境，但它影响的行为取决于该环境的使用方式。"
+        }
+      ],
+      [
+        {
+          "text": "One theory is deterrence: potential offenders believe they are more likely to be recognised.",
+          "translation": "一种理论是威慑：潜在的犯罪者相信他们更有可能被认出。"
+        },
+        {
+          "text": "Another is community activity.",
+          "translation": "另一个是社区活动。"
+        },
+        {
+          "text": "Better lighting encourages legitimate evening use, creating informal observation and stronger ownership.",
+          "translation": "更好的照明鼓励合法的夜间使用，创造非正式的观察和更强的所有权。"
+        },
+        {
+          "text": "These mechanisms make different predictions.",
+          "translation": "这些机制做出不同的预测。"
+        },
+        {
+          "text": "A brighter empty car park offers visibility without community presence, while a lit route beside open businesses provides both.",
+          "translation": "更明亮的空停车场可以在没有社区存在的情况下提供可见度，而开放企业旁边的照明路线则可以提供两者。"
+        }
+      ],
+      [
+        {
+          "text": "Measurement complicates evaluation.",
+          "translation": "测量使评估变得复杂。"
+        },
+        {
+          "text": "Police reports may rise because people can observe and report incidents more easily, even if actual offending falls.",
+          "translation": "警方报告可能会增加，因为人们可以更容易地观察和报告事件，即使实际犯罪行为减少了。"
+        },
+        {
+          "text": "Crime may move to nearby streets, and seasonal changes can be mistaken for an intervention effect.",
+          "translation": "犯罪可能会转移到附近的街道，季节变化可能会被误认为是干预效应。"
+        },
+        {
+          "text": "Researchers compare suitable areas over sufficient time and examine several offence types rather than relying on a single before-and-after total.",
+          "translation": "研究人员在足够的时间内比较合适的区域并检查几种进攻类型，而不是依赖于单一的前后总数。"
+        }
+      ],
+      [
+        {
+          "text": "Brightness can also create problems.",
+          "translation": "亮度也会产生问题。"
+        },
+        {
+          "text": "Glare reduces the ability to see beyond a strongly lit area, poorly positioned fixtures invade homes and excessive light affects wildlife.",
+          "translation": "眩光会降低强光区域以外的视野，位置不当的灯具会侵入房屋，过度的光线会影响野生动物。"
+        },
+        {
+          "text": "Design should respond to pedestrian routes and actual risks instead of treating maximum illumination as universal safety.",
+          "translation": "设计应响应人行路线和实际风险，而不是将最大照明视为普遍安全。"
+        },
+        {
+          "text": "Maintenance matters because a failed lamp can leave sharper contrast than the original condition.",
+          "translation": "维护很重要，因为故障灯会留下比原始状态更清晰的对比度。"
+        }
+      ],
+      [
+        {
+          "text": "Lighting is therefore best understood as one component of place management.",
+          "translation": "因此，最好将照明理解为场所管理的一个组成部分。"
+        },
+        {
+          "text": "Its success may depend on sightlines, transport, building use and trust in reporting.",
+          "translation": "它的成功可能取决于视线、交通、建筑使用和对报告的信任。"
+        },
+        {
+          "text": "A lamp cannot provide youth services or investigate violence hidden inside homes.",
+          "translation": "一盏灯无法提供青少年服务或调查隐藏在家庭内的暴力行为。"
+        },
+        {
+          "text": "It can support safer public movement when the mechanism is clear and results are monitored without claiming that every crime problem has the same visible solution.",
+          "translation": "当机制明确并且结果受到监督而不声称每个犯罪问题都有相同的可见解决方案时，它可以支持更安全的公共运动。"
+        },
+        {
+          "text": "Community involvement can improve the diagnosis of place.",
+          "translation": "社区参与可以改善当地的诊断。"
+        },
+        {
+          "text": "Residents know where routes are avoided and when a nominally public area becomes controlled by one group.",
+          "translation": "居民知道哪些路线要避开，以及名义上的公共区域何时被一个团体控制。"
+        },
+        {
+          "text": "Their fear should inform investigation without automatically determining the solution.",
+          "translation": "他们的恐惧应该为调查提供依据，而不是自动确定解决方案。"
+        },
+        {
+          "text": "Combining local accounts with incident data and observation helps identify whether lighting, staffing, transport or a different intervention addresses the mechanism actually present.",
+          "translation": "将当地账户与事件数据和观察相结合，有助于确定照明、人员配备、交通或不同的干预措施是否解决了实际存在的机制。"
+        }
+      ]
     ]
   }
 }

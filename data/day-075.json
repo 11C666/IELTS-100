@@ -153,7 +153,8 @@
         "polluted air",
         "poor air quality"
       ],
-      "note": "poor air quality最适合正式报告。"
+      "note": "poor air quality最适合正式报告。",
+      "translation": "污染的空气"
     },
     {
       "base": "harm health",
@@ -162,7 +163,8 @@
         "increase health risks",
         "contribute to illness"
       ],
-      "note": "contribute to避免声称单一原因。"
+      "note": "contribute to避免声称单一原因。",
+      "translation": "危害健康"
     },
     {
       "base": "measure pollution",
@@ -171,7 +173,8 @@
         "record pollutant levels",
         "track atmospheric contamination"
       ],
-      "note": "monitor强调持续观测。"
+      "note": "monitor强调持续观测。",
+      "translation": "测量污染"
     },
     {
       "base": "traffic fumes",
@@ -180,7 +183,8 @@
         "road-transport emissions",
         "pollutants from motor vehicles"
       ],
-      "note": "road-transport emissions适合政策讨论。"
+      "note": "road-transport emissions适合政策讨论。",
+      "translation": "交通尾气"
     },
     {
       "base": "people living nearby",
@@ -189,7 +193,8 @@
         "nearby communities",
         "populations in the surrounding area"
       ],
-      "note": "populations常用于研究报告。"
+      "note": "populations常用于研究报告。",
+      "translation": "附近居民"
     },
     {
       "base": "reduce emissions",
@@ -198,7 +203,8 @@
         "cut pollutant output",
         "lower the release of contaminants"
       ],
-      "note": "curb含控制上升趋势之意。"
+      "note": "curb含控制上升趋势之意。",
+      "translation": "减少排放"
     },
     {
       "base": "unequal exposure",
@@ -207,7 +213,8 @@
         "environmental inequality",
         "uneven pollution burdens"
       ],
-      "note": "burden突出后果分配。"
+      "note": "burden突出后果分配。",
+      "translation": "不平等的污染暴露"
     },
     {
       "base": "fresh air",
@@ -216,51 +223,60 @@
         "air with fewer pollutants",
         "improved ambient air quality"
       ],
-      "note": "ambient air quality是学术表达。"
+      "note": "ambient air quality是学术表达。",
+      "translation": "清新空气"
     }
   ],
   "sentences": [
     {
       "pattern": "Although + a citywide pollution average + has fallen, residents near + a busy road or factory + may still face + serious local exposure.",
       "cn": "尽管全市指标已经下降，污染源附近居民仍可能面临局部风险。",
-      "example": "Although average pollution has fallen, residents near freight routes may still experience dangerous peaks."
+      "example": "Although average pollution has fallen, residents near freight routes may still experience dangerous peaks.",
+      "exampleTranslation": "尽管平均污染水平已经下降，货运路线附近居民仍可能经历危险的污染高峰。"
     },
     {
       "pattern": "The pollutants to which + a person + is exposed are shaped by both + where they live + and + how they travel or work.",
       "cn": "某群体接触的污染物同时受到地点和日常活动影响。",
-      "example": "The pollutants to which schoolchildren are exposed are shaped by both classroom location and travel routines."
+      "example": "The pollutants to which schoolchildren are exposed are shaped by both classroom location and travel routines.",
+      "exampleTranslation": "学生接触哪些污染物，同时受到教室位置和出行习惯的影响。"
     },
     {
       "pattern": "By + targeting the main source of pollution, authorities can + improve air quality + without + placing unnecessary restrictions on everyone.",
       "cn": "通过采取某种措施，管理部门可以在避免不良后果的同时取得成效。",
-      "example": "By redirecting heavy vehicles, authorities can protect residential streets without restricting essential deliveries."
+      "example": "By redirecting heavy vehicles, authorities can protect residential streets without restricting essential deliveries.",
+      "exampleTranslation": "有关部门可以通过重新规划重型车辆路线保护住宅街道，同时不限制必要配送。"
     }
   ],
   "expressions": [
     {
       "text": "the air feels heavy",
       "cn": "感觉空气很闷",
-      "example": "The air feels heavy beside the main road."
+      "example": "The air feels heavy beside the main road.",
+      "exampleTranslation": "主干道旁的空气让人觉得格外闷重。"
     },
     {
       "text": "avoid the rush-hour fumes",
       "cn": "避开高峰期尾气",
-      "example": "I cycle earlier to avoid the rush-hour fumes."
+      "example": "I cycle earlier to avoid the rush-hour fumes.",
+      "exampleTranslation": "我会早点骑车，避开高峰时段的尾气。"
     },
     {
       "text": "leave the engine running",
       "cn": "让发动机一直运转",
-      "example": "Drivers should not leave the engine running outside schools."
+      "example": "Drivers should not leave the engine running outside schools.",
+      "exampleTranslation": "司机不应在学校外让发动机持续空转。"
     },
     {
       "text": "improve ambient air quality",
       "cn": "改善环境空气质量",
-      "example": "Cleaner buses improve ambient air quality."
+      "example": "Cleaner buses improve ambient air quality.",
+      "exampleTranslation": "更清洁的公交车可以改善环境空气质量。"
     },
     {
       "text": "bear a disproportionate burden",
       "cn": "承受不成比例的负担",
-      "example": "Low-income districts often bear a disproportionate pollution burden."
+      "example": "Low-income districts often bear a disproportionate pollution burden.",
+      "exampleTranslation": "低收入地区往往承受不成比例的污染负担。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "protect vulnerable residents",
         "publish neighbourhood-level data"
       ],
-      "argument": "A falling urban average may look successful even while schools beside major roads experience repeated peaks. Because health risk depends on where people spend time, fixed monitors should be supplemented by local and mobile measurements. Authorities can then redirect traffic, alter delivery times or improve filtration where exposure is greatest. This targeted approach uses evidence more fairly than applying an identical intervention everywhere. Success should be judged by whether the most exposed communities benefit, not simply by one citywide figure."
+      "argument": "A falling urban average may look successful even while schools beside major roads experience repeated peaks. Because health risk depends on where people spend time, fixed monitors should be supplemented by local and mobile measurements. Authorities can then redirect traffic, alter delivery times or improve filtration where exposure is greatest. This targeted approach uses evidence more fairly than applying an identical intervention everywhere. Success should be judged by whether the most exposed communities benefit, not simply by one citywide figure.",
+      "viewpointTranslation": "空气质量政策应针对实际暴露，而不只是平均值。",
+      "topicSentenceTranslation": "全市范围的改善可能掩盖特定街道和群体遭受的严重污染。",
+      "collocationTranslations": [
+        "测量当地污染暴露",
+        "识别污染热点",
+        "保护弱势居民",
+        "公布社区层面数据"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A falling urban average may look successful even while schools beside major roads experience repeated peaks.",
+          "translation": "城市平均值下降看似成功，但主要道路旁的学校可能仍反复经历污染高峰。"
+        },
+        {
+          "text": "Because health risk depends on where people spend time, fixed monitors should be supplemented by local and mobile measurements.",
+          "translation": "由于健康风险取决于人们在哪里活动，固定监测站应辅以当地和移动监测。"
+        },
+        {
+          "text": "Authorities can then redirect traffic, alter delivery times or improve filtration where exposure is greatest.",
+          "translation": "有关部门随后可以在暴露最严重的地方重新规划交通、调整配送时间或改善过滤设施。"
+        },
+        {
+          "text": "This targeted approach uses evidence more fairly than applying an identical intervention everywhere.",
+          "translation": "这种有针对性的方法比在所有地方实施相同措施更公平地利用证据。"
+        },
+        {
+          "text": "Success should be judged by whether the most exposed communities benefit, not simply by one citywide figure.",
+          "translation": "成功与否应根据暴露程度最高的社区是否受益来判断，而不只是看一个全市数字。"
+        }
+      ],
+      "translation": "城市平均值下降看似成功，但主要道路旁的学校可能仍反复经历污染高峰。由于健康风险取决于人们在哪里活动，固定监测站应辅以当地和移动监测。有关部门随后可以在暴露最严重的地方重新规划交通、调整配送时间或改善过滤设施。这种有针对性的方法比在所有地方实施相同措施更公平地利用证据。成功与否应根据暴露程度最高的社区是否受益来判断，而不只是看一个全市数字。"
     },
     {
       "viewpoint": "Clean transport zones need complementary support.",
@@ -301,19 +348,102 @@
         "provide transitional support",
         "maintain essential access"
       ],
-      "argument": "A charge can accelerate the replacement of polluting vehicles, but the immediate cost falls unevenly. A small business with one old van may struggle more than a large operator that routinely renews its fleet. Time-limited grants and reliable public transport can reduce that imbalance while preserving the incentive to change. Exemptions should remain narrow, or the environmental benefit will disappear. Combining a firm deadline with practical transition support is therefore both fairer and more likely to secure compliance."
+      "argument": "A charge can accelerate the replacement of polluting vehicles, but the immediate cost falls unevenly. A small business with one old van may struggle more than a large operator that routinely renews its fleet. Time-limited grants and reliable public transport can reduce that imbalance while preserving the incentive to change. Exemptions should remain narrow, or the environmental benefit will disappear. Combining a firm deadline with practical transition support is therefore both fairer and more likely to secure compliance.",
+      "viewpointTranslation": "清洁交通区需要配套支持。",
+      "topicSentenceTranslation": "只有当家庭和企业拥有切实可行的替代方案时，限制高排放车辆才有效。",
+      "collocationTranslations": [
+        "设立排放限制区",
+        "升级商用车队",
+        "提供过渡支持",
+        "保障必要通行"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A charge can accelerate the replacement of polluting vehicles, but the immediate cost falls unevenly.",
+          "translation": "收费可以加快污染车辆更换，但眼前成本分配并不均衡。"
+        },
+        {
+          "text": "A small business with one old van may struggle more than a large operator that routinely renews its fleet.",
+          "translation": "只有一辆旧货车的小企业可能比定期更新车队的大型运营商承受更大困难。"
+        },
+        {
+          "text": "Time-limited grants and reliable public transport can reduce that imbalance while preserving the incentive to change.",
+          "translation": "限期补助和可靠的公共交通可以减少这种不平衡，同时保留推动改变的动力。"
+        },
+        {
+          "text": "Exemptions should remain narrow, or the environmental benefit will disappear.",
+          "translation": "豁免范围必须保持有限，否则环境收益将会消失。"
+        },
+        {
+          "text": "Combining a firm deadline with practical transition support is therefore both fairer and more likely to secure compliance.",
+          "translation": "因此，把明确期限与切实的过渡支持结合起来，既更公平，也更有可能确保遵守规定。"
+        }
+      ],
+      "translation": "收费可以加快污染车辆更换，但眼前成本分配并不均衡。只有一辆旧货车的小企业可能比定期更新车队的大型运营商承受更大困难。限期补助和可靠的公共交通可以减少这种不平衡，同时保留推动改变的动力。豁免范围必须保持有限，否则环境收益将会消失。因此，把明确期限与切实的过渡支持结合起来，既更公平，也更有可能确保遵守规定。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a place where you noticed poor air quality.",
-      "answer": "I noticed it most clearly at a bus stop beside a wide road during the evening rush hour. Several buses and delivery vehicles were waiting with their engines running, and the air had a sharp smell that caught in my throat. What surprised me was how different it felt from a park only two streets away. I checked an air-quality app later, although its nearest monitor was quite distant, so it could not describe that exact corner. Since then, I have used a quieter parallel street when I walk home. The experience made air pollution feel local and immediate rather than like an abstract citywide statistic."
+      "answer": "I noticed it most clearly at a bus stop beside a wide road during the evening rush hour. Several buses and delivery vehicles were waiting with their engines running, and the air had a sharp smell that caught in my throat. What surprised me was how different it felt from a park only two streets away. I checked an air-quality app later, although its nearest monitor was quite distant, so it could not describe that exact corner. Since then, I have used a quieter parallel street when I walk home. The experience made air pollution feel local and immediate rather than like an abstract citywide statistic.",
+      "questionTranslation": "描述一个你注意到空气质量很差的地方。",
+      "answerSentences": [
+        {
+          "text": "I noticed it most clearly at a bus stop beside a wide road during the evening rush hour.",
+          "translation": "我在晚高峰时段、位于一条宽阔道路旁的公交站最明显地感受到了空气质量问题。"
+        },
+        {
+          "text": "Several buses and delivery vehicles were waiting with their engines running, and the air had a sharp smell that caught in my throat.",
+          "translation": "几辆公交车和送货车辆停在那里，发动机仍在运转，空气中有一种刺鼻气味，呛得我喉咙难受。"
+        },
+        {
+          "text": "What surprised me was how different it felt from a park only two streets away.",
+          "translation": "令我惊讶的是，这里的感受与仅相隔两条街的公园截然不同。"
+        },
+        {
+          "text": "I checked an air-quality app later, although its nearest monitor was quite distant, so it could not describe that exact corner.",
+          "translation": "后来我查看了空气质量应用，不过最近的监测站距离很远，因此无法描述那个具体街角。"
+        },
+        {
+          "text": "Since then, I have used a quieter parallel street when I walk home.",
+          "translation": "从那以后，我步行回家时会走一条更安静的平行街道。"
+        },
+        {
+          "text": "The experience made air pollution feel local and immediate rather than like an abstract citywide statistic.",
+          "translation": "这次经历让我觉得空气污染是一个当地且迫在眉睫的问题，而不只是抽象的全市统计数字。"
+        }
+      ],
+      "translation": "我在晚高峰时段、位于一条宽阔道路旁的公交站最明显地感受到了空气质量问题。几辆公交车和送货车辆停在那里，发动机仍在运转，空气中有一种刺鼻气味，呛得我喉咙难受。令我惊讶的是，这里的感受与仅相隔两条街的公园截然不同。后来我查看了空气质量应用，不过最近的监测站距离很远，因此无法描述那个具体街角。从那以后，我步行回家时会走一条更安静的平行街道。这次经历让我觉得空气污染是一个当地且迫在眉睫的问题，而不只是抽象的全市统计数字。"
     },
     {
       "part": "Part 3",
       "question": "Should individuals change their routines when air pollution is high?",
-      "answer": "Short-term precautions can be sensible, especially for children, older people and anyone with a respiratory condition. For instance, someone might exercise away from traffic or ventilate a room at a cleaner time of day. However, people cannot be expected to solve polluted air by constantly avoiding it. Many workers have fixed routes and hours, and not everyone can move home. Public authorities and major emitters therefore carry the main responsibility for reducing pollution at source, while clear advice helps residents manage unusual peaks."
+      "answer": "Short-term precautions can be sensible, especially for children, older people and anyone with a respiratory condition. For instance, someone might exercise away from traffic or ventilate a room at a cleaner time of day. However, people cannot be expected to solve polluted air by constantly avoiding it. Many workers have fixed routes and hours, and not everyone can move home. Public authorities and major emitters therefore carry the main responsibility for reducing pollution at source, while clear advice helps residents manage unusual peaks.",
+      "questionTranslation": "空气污染严重时，个人是否应该改变日常活动？",
+      "answerSentences": [
+        {
+          "text": "Short-term precautions can be sensible, especially for children, older people and anyone with a respiratory condition.",
+          "translation": "短期防护措施可能是明智的，尤其是对儿童、老年人和患有呼吸系统疾病的人。"
+        },
+        {
+          "text": "For instance, someone might exercise away from traffic or ventilate a room at a cleaner time of day.",
+          "translation": "例如，人们可以远离车流锻炼，或在空气较清洁的时段给房间通风。"
+        },
+        {
+          "text": "However, people cannot be expected to solve polluted air by constantly avoiding it.",
+          "translation": "然而，不能指望人们靠不断躲避来解决空气污染。"
+        },
+        {
+          "text": "Many workers have fixed routes and hours, and not everyone can move home.",
+          "translation": "许多劳动者的路线和工作时间固定，也不是每个人都能搬家。"
+        },
+        {
+          "text": "Public authorities and major emitters therefore carry the main responsibility for reducing pollution at source, while clear advice helps residents manage unusual peaks.",
+          "translation": "因此，公共部门和主要排放者负有从源头减少污染的主要责任，而清晰建议可以帮助居民应对异常污染高峰。"
+        }
+      ],
+      "translation": "短期防护措施可能是明智的，尤其是对儿童、老年人和患有呼吸系统疾病的人。例如，人们可以远离车流锻炼，或在空气较清洁的时段给房间通风。然而，不能指望人们靠不断躲避来解决空气污染。许多劳动者的路线和工作时间固定，也不是每个人都能搬家。因此，公共部门和主要排放者负有从源头减少污染的主要责任，而清晰建议可以帮助居民应对异常污染高峰。"
     }
   ],
   "reading": {
@@ -350,6 +480,102 @@
         "answer": "closed windows",
         "explanation": "Paragraph 2 explains that the windows remained closed."
       }
+    ],
+    "titleTranslation": "由上学日绘制的污染地图",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Official monitors provide essential long-term records, but their small number can make pollution appear smoother than it is.",
+          "translation": "官方监测站提供重要的长期记录，但数量较少，可能让污染看起来比实际更均匀。"
+        },
+        {
+          "text": "A research team studying children’s exposure in one city therefore attached lightweight sensors to school bags.",
+          "translation": "因此，一个研究儿童污染暴露的团队把轻型传感器装在学生书包上。"
+        },
+        {
+          "text": "The aim was not to replace calibrated stations; it was to discover how pollution changed along the routes and indoor spaces that shaped an ordinary day.",
+          "translation": "目的不是替代经过校准的监测站，而是发现污染如何沿着构成普通一天的路线和室内空间发生变化。"
+        }
+      ],
+      [
+        {
+          "text": "The readings rose beside congested junctions and fell in streets separated from traffic by buildings.",
+          "translation": "读数在拥堵路口旁上升，在有建筑物隔开车流的街道下降。"
+        },
+        {
+          "text": "Yet distance alone did not explain the pattern.",
+          "translation": "然而，距离本身并不能完全解释这种规律。"
+        },
+        {
+          "text": "At one school, a playground set back from the road recorded short peaks when parents left engines running at the gate, while a classroom facing a quieter courtyard accumulated carbon dioxide because its windows remained closed.",
+          "translation": "在一所学校，虽然操场远离道路，但家长在校门口让发动机空转时，那里会出现短暂污染高峰；而面向更安静庭院的一间教室则因窗户紧闭积累了二氧化碳。"
+        },
+        {
+          "text": "The study thus distinguished outdoor pollutants from poor ventilation, two problems requiring different remedies.",
+          "translation": "因此，该研究区分了室外污染物与通风不良这两个需要不同解决办法的问题。"
+        }
+      ],
+      [
+        {
+          "text": "Personal sensors produce messy evidence.",
+          "translation": "个人传感器产生的证据比较杂乱。"
+        },
+        {
+          "text": "Movement, humidity and the position of a device can affect a reading, and children following different routes cannot be treated as a controlled laboratory sample.",
+          "translation": "移动、湿度和设备位置都会影响读数，而走不同路线的儿童不能被视为受控实验室样本。"
+        },
+        {
+          "text": "Researchers corrected the instruments against a fixed station and combined repeated journeys rather than interpreting one dramatic peak.",
+          "translation": "研究人员用固定监测站校准仪器，并合并多次行程数据，而不是解读某一次显眼的峰值。"
+        },
+        {
+          "text": "The resulting map, while less precise at any single second, revealed consistent places where exposure increased.",
+          "translation": "最终得到的地图虽然在任何一个具体时刻精度较低，却揭示了污染暴露持续上升的地点。"
+        }
+      ],
+      [
+        {
+          "text": "Schools used the findings in varied ways.",
+          "translation": "学校以不同方式利用了研究结果。"
+        },
+        {
+          "text": "One changed the time at which delivery vehicles entered; another opened a walking entrance away from the main road.",
+          "translation": "一所学校改变送货车辆进入的时间；另一所则在远离主干道的位置开放了步行入口。"
+        },
+        {
+          "text": "A third improved classroom ventilation after staff realised that keeping every window shut against traffic had created a separate indoor problem.",
+          "translation": "第三所学校改善了教室通风，因为工作人员意识到，为阻挡交通污染而始终关闭所有窗户造成了另一个室内问题。"
+        },
+        {
+          "text": "None of these measures required families to abandon the neighbourhood.",
+          "translation": "这些措施都不要求家庭离开所在社区。"
+        }
+      ],
+      [
+        {
+          "text": "The project’s larger lesson concerns measurement.",
+          "translation": "这个项目更重要的启示与测量有关。"
+        },
+        {
+          "text": "An annual city average can show whether broad policy is working, whereas a child’s route reveals where practical protection is possible now.",
+          "translation": "城市年度平均值可以显示宏观政策是否奏效，而儿童的路线则揭示目前可以在哪些地方采取实际保护。"
+        },
+        {
+          "text": "These forms of evidence are not competitors.",
+          "translation": "这两种证据并不相互排斥。"
+        },
+        {
+          "text": "Joined carefully, they connect regional emission controls with the small decisions—about gates, engines and windows—through which cleaner air becomes part of daily life.",
+          "translation": "经过谨慎结合，它们把地区排放控制与围绕校门、发动机和窗户的小决定联系起来，正是通过这些决定，更清洁的空气成为日常生活的一部分。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "官方监测站提供重要的长期记录，但数量较少，可能让污染看起来比实际更均匀。因此，一个研究儿童污染暴露的团队把轻型传感器装在学生书包上。目的不是替代经过校准的监测站，而是发现污染如何沿着构成普通一天的路线和室内空间发生变化。",
+      "读数在拥堵路口旁上升，在有建筑物隔开车流的街道下降。然而，距离本身并不能完全解释这种规律。在一所学校，虽然操场远离道路，但家长在校门口让发动机空转时，那里会出现短暂污染高峰；而面向更安静庭院的一间教室则因窗户紧闭积累了二氧化碳。因此，该研究区分了室外污染物与通风不良这两个需要不同解决办法的问题。",
+      "个人传感器产生的证据比较杂乱。移动、湿度和设备位置都会影响读数，而走不同路线的儿童不能被视为受控实验室样本。研究人员用固定监测站校准仪器，并合并多次行程数据，而不是解读某一次显眼的峰值。最终得到的地图虽然在任何一个具体时刻精度较低，却揭示了污染暴露持续上升的地点。",
+      "学校以不同方式利用了研究结果。一所学校改变送货车辆进入的时间；另一所则在远离主干道的位置开放了步行入口。第三所学校改善了教室通风，因为工作人员意识到，为阻挡交通污染而始终关闭所有窗户造成了另一个室内问题。这些措施都不要求家庭离开所在社区。",
+      "这个项目更重要的启示与测量有关。城市年度平均值可以显示宏观政策是否奏效，而儿童的路线则揭示目前可以在哪些地方采取实际保护。这两种证据并不相互排斥。经过谨慎结合，它们把地区排放控制与围绕校门、发动机和窗户的小决定联系起来，正是通过这些决定，更清洁的空气成为日常生活的一部分。"
     ]
   }
 }

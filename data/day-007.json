@@ -153,7 +153,8 @@
         "leisure activity",
         "personal interest"
       ],
-      "note": "pastime 强调消遣；interest 不一定经常实践。"
+      "note": "pastime 强调消遣；interest 不一定经常实践。",
+      "translation": "爱好可以表达为消遣、休闲活动、个人兴趣。"
     },
     {
       "base": "relax",
@@ -162,7 +163,8 @@
         "switch off",
         "take my mind off work"
       ],
-      "note": "take my mind off 强调暂时不再想烦心事。"
+      "note": "take my mind off 强调暂时不再想烦心事。",
+      "translation": "放松可以表达为放松、关掉电源、让我的注意力从工作中移开。"
     },
     {
       "base": "start a hobby",
@@ -171,7 +173,8 @@
         "get into an activity",
         "try my hand at something"
       ],
-      "note": "try my hand at 表示首次尝试。"
+      "note": "try my hand at 表示首次尝试。",
+      "translation": "start a hobby 可以表达为“开始培养一项爱好”“喜欢上一项活动”或“尝试做某事”。"
     },
     {
       "base": "enjoyable",
@@ -180,7 +183,8 @@
         "absorbing",
         "satisfying"
       ],
-      "note": "rewarding 强调收获，absorbing 强调让人专注。"
+      "note": "rewarding 强调收获，absorbing 强调让人专注。",
+      "translation": "愉快可以表达为有益的、吸引人的、令人满意的。"
     },
     {
       "base": "get better",
@@ -189,7 +193,8 @@
         "develop greater skill",
         "make progress"
       ],
-      "note": "make progress 后不接复数 progresses。"
+      "note": "make progress 后不接复数 progresses。",
+      "translation": "get better 可以表达为“稳步进步”“提高技能水平”或“取得进展”。"
     },
     {
       "base": "free time",
@@ -198,7 +203,8 @@
         "leisure time",
         "time away from work"
       ],
-      "note": "leisure time 稍正式。"
+      "note": "leisure time 稍正式。",
+      "translation": "空闲时间可以表示为业余时间、闲暇时间、远离工作的时间。"
     },
     {
       "base": "do often",
@@ -207,7 +213,8 @@
         "make time for",
         "pursue consistently"
       ],
-      "note": "pursue a hobby 是较正式搭配。"
+      "note": "pursue a hobby 是较正式搭配。",
+      "translation": "do often 表示经常做某事；根据宾语和语境，可表达为“定期练习”“腾出时间做”或“持续投入于”。"
     },
     {
       "base": "meet people",
@@ -216,51 +223,60 @@
         "make new connections",
         "meet like-minded people"
       ],
-      "note": "like-minded 指兴趣或看法相近。"
+      "note": "like-minded 指兴趣或看法相近。",
+      "translation": "meet people 可以表达为“参加社交活动”“建立新联系”或“结识志趣相投的人”。"
     }
   ],
   "sentences": [
     {
       "pattern": "Whenever I have some spare time, I tend to + verb.",
       "cn": "每当我有空时，我通常会……",
-      "example": "Whenever I have some spare time, I tend to work on a small photography project."
+      "example": "Whenever I have some spare time, I tend to work on a small photography project.",
+      "exampleTranslation": "每当我有空闲时间时，我都会从事一些小型摄影项目。"
     },
     {
       "pattern": "What makes + hobby + rewarding is the chance to + verb.",
       "cn": "让某项爱好有成就感的是有机会……",
-      "example": "What makes gardening rewarding is the chance to see gradual progress."
+      "example": "What makes gardening rewarding is the chance to see gradual progress.",
+      "exampleTranslation": "园艺之所以有意义，是因为有机会看到逐步的进步。"
     },
     {
       "pattern": "I originally took up + activity + because + clause, but now + clause.",
       "cn": "我最初因为……开始某项活动，但现在……",
-      "example": "I originally took up cooking because it was practical, but now I find it genuinely relaxing."
+      "example": "I originally took up cooking because it was practical, but now I find it genuinely relaxing.",
+      "exampleTranslation": "我最初开始做饭是因为它很实用，但现在我发现它真的很放松。"
     }
   ],
   "expressions": [
     {
       "text": "take up a hobby",
       "cn": "开始一项爱好",
-      "example": "I took up photography during a long summer holiday."
+      "example": "I took up photography during a long summer holiday.",
+      "exampleTranslation": "我在一个漫长的暑假期间开始了摄影。"
     },
     {
       "text": "lose track of time",
       "cn": "忘记时间",
-      "example": "I often lose track of time when I’m drawing."
+      "example": "I often lose track of time when I’m drawing.",
+      "exampleTranslation": "当我画画的时候，我经常忘记时间。"
     },
     {
       "text": "do something for fun",
       "cn": "为了乐趣做某事",
-      "example": "I play the guitar for fun rather than performing."
+      "example": "I play the guitar for fun rather than performing.",
+      "exampleTranslation": "我弹吉他是为了乐趣而不是为了表演。"
     },
     {
       "text": "try my hand at",
       "cn": "尝试做某事",
-      "example": "I’d like to try my hand at making pottery."
+      "example": "I’d like to try my hand at making pottery.",
+      "exampleTranslation": "我想尝试一下制作陶器。"
     },
     {
       "text": "a good way to unwind",
       "cn": "很好的放松方式",
-      "example": "Gardening is a good way to unwind after a busy day."
+      "example": "Gardening is a good way to unwind after a busy day.",
+      "exampleTranslation": "忙碌一天后，园艺是放松身心的好方法。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "focus on the present",
         "maintain emotional well-being"
       ],
-      "argument": "Many adults spend much of the day responding to deadlines or other people’s demands. A hobby creates a period in which attention can be directed towards an enjoyable task with no professional consequence. Activities such as painting or gardening may also make progress visible, which provides satisfaction. This mental change can reduce rumination after work. Leisure should therefore be viewed as part of a balanced life rather than wasted time."
+      "argument": "Many adults spend much of the day responding to deadlines or other people’s demands. A hobby creates a period in which attention can be directed towards an enjoyable task with no professional consequence. Activities such as painting or gardening may also make progress visible, which provides satisfaction. This mental change can reduce rumination after work. Leisure should therefore be viewed as part of a balanced life rather than wasted time.",
+      "viewpointTranslation": "兴趣爱好有助于心理健康。",
+      "topicSentenceTranslation": "定期的休闲活动可以让人们从工作压力中得到必要的休息。",
+      "collocationTranslations": [
+        "减少日常压力",
+        "提供创意的出口",
+        "专注于当下",
+        "保持情绪健康"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Many adults spend much of the day responding to deadlines or other people’s demands.",
+          "translation": "许多成年人一天中的大部分时间都花在回应截止日期或其他人的要求上。"
+        },
+        {
+          "text": "A hobby creates a period in which attention can be directed towards an enjoyable task with no professional consequence.",
+          "translation": "爱好创造了一段时间，在这段时间内，人们可以将注意力集中在一项令人愉快的任务上，而不会产生任何职业后果。"
+        },
+        {
+          "text": "Activities such as painting or gardening may also make progress visible, which provides satisfaction.",
+          "translation": "绘画或园艺等活动也可能使进步变得可见，从而带来满足感。"
+        },
+        {
+          "text": "This mental change can reduce rumination after work.",
+          "translation": "这种心理变化可以减少工作后的沉思。"
+        },
+        {
+          "text": "Leisure should therefore be viewed as part of a balanced life rather than wasted time.",
+          "translation": "因此，休闲应该被视为平衡生活的一部分，而不是浪费时间。"
+        }
+      ]
     },
     {
       "viewpoint": "Children should have some unstructured free time.",
@@ -301,19 +347,87 @@
         "develop personal interests",
         "an overloaded schedule"
       ],
-      "argument": "Organised lessons expose children to useful skills, but adults usually select the content and goal. During unstructured time, children must decide what to do, manage boredom and create their own games or projects. This process can reveal interests that formal classes overlook. It also teaches them to direct attention without constant instruction. Parents can provide safe options while resisting the urge to organise every moment."
+      "argument": "Organised lessons expose children to useful skills, but adults usually select the content and goal. During unstructured time, children must decide what to do, manage boredom and create their own games or projects. This process can reveal interests that formal classes overlook. It also teaches them to direct attention without constant instruction. Parents can provide safe options while resisting the urge to organise every moment.",
+      "viewpointTranslation": "孩子们应该有一些无组织的空闲时间。",
+      "topicSentenceTranslation": "安排孩子一天中的每一个小时可能会限制孩子的独立探索。",
+      "collocationTranslations": [
+        "非结构化游戏",
+        "独立选择一项活动",
+        "发展个人兴趣",
+        "超负荷的日程安排"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Organised lessons expose children to useful skills, but adults usually select the content and goal.",
+          "translation": "有组织的课程让孩子们接触到有用的技能，但成人通常会选择内容和目标。"
+        },
+        {
+          "text": "During unstructured time, children must decide what to do, manage boredom and create their own games or projects.",
+          "translation": "在非结构化时间里，孩子们必须决定做什么、管理无聊并创造自己的游戏或项目。"
+        },
+        {
+          "text": "This process can reveal interests that formal classes overlook.",
+          "translation": "这个过程可以揭示正式课程所忽视的兴趣。"
+        },
+        {
+          "text": "It also teaches them to direct attention without constant instruction.",
+          "translation": "它还教会他们在没有持续指导的情况下引导注意力。"
+        },
+        {
+          "text": "Parents can provide safe options while resisting the urge to organise every moment.",
+          "translation": "父母可以提供安全的选择，同时抵制每时每刻都组织起来的冲动。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What do you usually do in your free time?",
-      "answer": "I normally do something fairly quiet, like reading, cooking or going for a walk with a podcast. My work involves a lot of screen time, so I try not to spend the whole evening watching short videos. At weekends I occasionally take photographs around the city. It gives me a reason to notice small details that I’d otherwise walk past."
+      "answer": "I normally do something fairly quiet, like reading, cooking or going for a walk with a podcast. My work involves a lot of screen time, so I try not to spend the whole evening watching short videos. At weekends I occasionally take photographs around the city. It gives me a reason to notice small details that I’d otherwise walk past.",
+      "questionTranslation": "你空闲时间通常做什么？",
+      "answerSentences": [
+        {
+          "text": "I normally do something fairly quiet, like reading, cooking or going for a walk with a podcast.",
+          "translation": "我通常会做一些相当安静的事情，比如阅读、做饭或一边听播客一边散步。"
+        },
+        {
+          "text": "My work involves a lot of screen time, so I try not to spend the whole evening watching short videos.",
+          "translation": "我的工作需要大量的屏幕时间，所以我尽量不花整个晚上看短视频。"
+        },
+        {
+          "text": "At weekends I occasionally take photographs around the city.",
+          "translation": "周末我偶尔会在城市周围拍照。"
+        },
+        {
+          "text": "It gives me a reason to notice small details that I’d otherwise walk past.",
+          "translation": "它让我有理由去注意那些我本来会忽略的小细节。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Is there a hobby you would like to try in the future?",
-      "answer": "I’d like to try pottery. I enjoy practical activities where you can see an object gradually taking shape, and it would be a complete change from working on a computer. I’m sure my first attempts would look terrible, but that’s part of the appeal. I’d rather learn slowly than turn it into another thing I have to perform well."
+      "answer": "I’d like to try pottery. I enjoy practical activities where you can see an object gradually taking shape, and it would be a complete change from working on a computer. I’m sure my first attempts would look terrible, but that’s part of the appeal. I’d rather learn slowly than turn it into another thing I have to perform well.",
+      "questionTranslation": "您将来有想尝试的爱好吗？",
+      "answerSentences": [
+        {
+          "text": "I’d like to try pottery.",
+          "translation": "我想尝试陶艺。"
+        },
+        {
+          "text": "I enjoy practical activities where you can see an object gradually taking shape, and it would be a complete change from working on a computer.",
+          "translation": "我喜欢能亲手操作、看着物品逐渐成形的活动；这与使用电脑工作截然不同，会是很好的转换。"
+        },
+        {
+          "text": "I’m sure my first attempts would look terrible, but that’s part of the appeal.",
+          "translation": "我确信我的第一次尝试看起来会很糟糕，但这就是吸引力的一部分。"
+        },
+        {
+          "text": "I’d rather learn slowly than turn it into another thing I have to perform well.",
+          "translation": "我宁愿慢慢学，也不愿把它变成另一件我必须表现好的事情。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,95 @@
         "answer": "B",
         "explanation": "The final paragraph explains that customers and deadlines can change a pastime into another job."
       }
+    ],
+    "titleTranslation": "业余工作的意想不到的价值",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "The word ‘amateur’ is sometimes used dismissively, suggesting work of low quality.",
+          "translation": "“业余”这个词有时被轻蔑地使用，暗示工作质量低下。"
+        },
+        {
+          "text": "Its earlier meaning, however, was simply a person who pursued an activity out of love rather than for payment.",
+          "translation": "然而，它较早的含义只是指因为热爱而非报酬从事某项活动的人。"
+        },
+        {
+          "text": "Amateur astronomers, gardeners, musicians and craftspeople may lack formal qualifications, yet many devote years to developing detailed knowledge.",
+          "translation": "业余天文学家、园丁、音乐家和工匠可能缺乏正式资格，但许多人花费数年时间来发展详细的知识。"
+        },
+        {
+          "text": "Their activities occupy a space between casual entertainment and professional employment.",
+          "translation": "他们的活动介于休闲娱乐和专业就业之间。"
+        }
+      ],
+      [
+        {
+          "text": "One advantage of amateur work is freedom from immediate commercial demand.",
+          "translation": "业余工作的优点之一是不受直接商业需求的影响。"
+        },
+        {
+          "text": "A professional photographer must consider clients, deadlines and income; an enthusiast can spend weeks recording an unfashionable building or experimenting with an unusual process.",
+          "translation": "职业摄影师必须考虑客户、截止日期和收入；业余爱好者则可以花数周记录一座鲜为人知的建筑，或尝试一种不同寻常的处理方法。"
+        },
+        {
+          "text": "This freedom does not guarantee originality, but it permits failure without threatening a career.",
+          "translation": "这种自由并不能保证原创性，但它允许失败而不威胁职业生涯。"
+        },
+        {
+          "text": "Techniques discovered through play may later influence professional practice, while the participant gains a sense of ownership over the learning process.",
+          "translation": "在自由尝试中发现的技巧可能影响后来的专业实践，而参与者也会在学习过程中产生自主掌控感。"
+        }
+      ],
+      [
+        {
+          "text": "Amateurs can also make useful contributions where observation must be spread across a large area or long period.",
+          "translation": "在需要覆盖广大区域或进行长期观察的领域，业余爱好者也能作出有用贡献。"
+        },
+        {
+          "text": "Wildlife surveys, weather records and astronomical observations sometimes rely on members of the public who collect repeated local information.",
+          "translation": "野生动物调查、天气记录和天文观测有时依赖于公众重复收集当地信息。"
+        },
+        {
+          "text": "The value comes less from any single observation than from a consistent body of records.",
+          "translation": "它的价值更多来自持续一致的记录，而不是某一次单独的观察。"
+        },
+        {
+          "text": "Training and clear methods remain necessary, since enthusiasm alone cannot ensure accurate data.",
+          "translation": "培训和明确的方法仍然是必要的，因为仅凭热情并不能确保准确的数据。"
+        }
+      ],
+      [
+        {
+          "text": "The boundary between amateur and professional has become less fixed as digital platforms allow people to teach, publish and sell work directly.",
+          "translation": "随着数字平台允许人们直接教学、出版和销售作品，业余爱好者和专业人士之间的界限变得不那么固定。"
+        },
+        {
+          "text": "A leisure activity can unexpectedly become a source of income, although this transition changes its character.",
+          "translation": "休闲活动可能会意外地成为收入来源，尽管这种转变改变了其性质。"
+        },
+        {
+          "text": "Once customers and deadlines appear, an absorbing pastime may begin to feel like another job.",
+          "translation": "一旦出现客户和截止日期，一项引人入胜的消遣可能开始感觉像是另一项工作。"
+        },
+        {
+          "text": "Some people welcome that development; others deliberately keep their hobby separate, protecting a part of life where improvement matters but productivity does not.",
+          "translation": "有些人欢迎这种发展；另一些人则有意让爱好保持独立，以保护生活中那些提升生活质量、却无须提高生产力的部分。"
+        }
+      ],
+      [
+        {
+          "text": "The absence of external reward can change the way progress is judged.",
+          "translation": "缺乏外部奖励可能会改变判断进展的方式。"
+        },
+        {
+          "text": "An amateur may repeat a difficult technique because the process itself is satisfying, not because a certificate or customer requires it.",
+          "translation": "业余爱好者可能会重复一项困难的技术，因为过程本身令人满意，而不是因为证书或客户需要它。"
+        },
+        {
+          "text": "This private standard can support experimentation, although feedback from a club or experienced teacher still helps prevent enthusiasm from reinforcing avoidable mistakes.",
+          "translation": "这种个人标准有助于实验，不过俱乐部或资深教师的反馈仍能防止热情反而固化本可避免的错误。"
+        }
+      ]
     ]
   }
 }

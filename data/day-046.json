@@ -153,7 +153,8 @@
         "alternative",
         "decision"
       ],
-      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论社交媒体。"
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论社交媒体。",
+      "translation": "choice 表示选择；option、alternative 和 decision 可根据语境表示选项、替代方案或决定。"
     },
     {
       "base": "cause",
@@ -162,7 +163,8 @@
         "contribute to",
         "give rise to"
       ],
-      "note": "contribute to 表示众多原因之一。 本组可用于讨论社交媒体。"
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论社交媒体。",
+      "translation": "cause 表示导致；lead to、contribute to 和 give rise to 常用于说明因果关系。"
     },
     {
       "base": "benefit",
@@ -171,7 +173,8 @@
         "positive effect",
         "gain"
       ],
-      "note": "gain 可指个人获得的具体收益。 本组可用于讨论社交媒体。"
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论社交媒体。",
+      "translation": "benefit 表示益处；advantage、positive effect 和 gain 可表示优势、积极影响或收获。"
     },
     {
       "base": "harm",
@@ -180,7 +183,8 @@
         "negative effect",
         "undermine"
       ],
-      "note": "undermine 强调逐渐削弱。 本组可用于讨论社交媒体。"
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论社交媒体。",
+      "translation": "harm 表示伤害；damage、negative effect 和 undermine 可表示损害、负面影响或削弱。"
     },
     {
       "base": "support",
@@ -189,7 +193,8 @@
         "backing",
         "provision"
       ],
-      "note": "provision 常指服务或资源的供给。 本组可用于讨论社交媒体。"
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论社交媒体。",
+      "translation": "support 表示支持；assistance、backing 和 provision 可分别表示帮助、支持及供给。"
     },
     {
       "base": "different",
@@ -198,7 +203,8 @@
         "varied",
         "diverse"
       ],
-      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论社交媒体。"
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论社交媒体。",
+      "translation": "different 表示不同；distinct、varied 和 diverse 可强调区别、变化或多样性。"
     },
     {
       "base": "common",
@@ -207,7 +213,8 @@
         "frequently observed",
         "part of everyday life"
       ],
-      "note": "widespread 较正式，强调分布广。 本组可用于讨论社交媒体。"
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论社交媒体。",
+      "translation": "common 表示常见；widespread、frequently observed 和 part of everyday life 可表达普遍或日常可见。"
     },
     {
       "base": "help",
@@ -216,51 +223,60 @@
         "enable",
         "make it easier to"
       ],
-      "note": "enable 后接宾语和 to do。 本组可用于讨论社交媒体。"
+      "note": "enable 后接宾语和 to do。 本组可用于讨论社交媒体。",
+      "translation": "help 表示帮助；assist、enable 和 make it easier to 可用于不同正式程度的语境。"
     }
   ],
   "sentences": [
     {
       "pattern": "The content users see is shaped not only by + choice, but also by + platform mechanism.",
       "cn": "用户看到的内容不仅由个人选择决定，也受平台机制影响。",
-      "example": "The content users see is shaped not only by their follows, but also by recommendation algorithms."
+      "example": "The content users see is shaped not only by their follows, but also by recommendation algorithms.",
+      "exampleTranslation": "用户看到的内容不仅由其关注对象决定，也受到推荐算法的影响。"
     },
     {
       "pattern": "By rewarding + metric, platforms may unintentionally encourage + behaviour.",
       "cn": "平台通过奖励某指标，可能无意中鼓励某行为。",
-      "example": "By rewarding rapid engagement, platforms may unintentionally encourage provocative posts."
+      "example": "By rewarding rapid engagement, platforms may unintentionally encourage provocative posts.",
+      "exampleTranslation": "平台通过奖励快速互动，可能无意中助长挑衅性帖子。"
     },
     {
       "pattern": "Not until + user action + does + platform effect + become visible.",
       "cn": "直到用户采取某行动，平台影响才变得明显。",
-      "example": "Not until a user compares feeds does the effect of personalisation become visible."
+      "example": "Not until a user compares feeds does the effect of personalisation become visible.",
+      "exampleTranslation": "只有当用户比较不同信息流时，个性化的影响才会显现。"
     }
   ],
   "expressions": [
     {
       "text": "scroll through my feed",
       "cn": "浏览动态",
-      "example": "I scroll through my feed on the train."
+      "example": "I scroll through my feed on the train.",
+      "exampleTranslation": "我在火车上会浏览自己的信息流。"
     },
     {
       "text": "go viral",
       "cn": "迅速走红",
-      "example": "The clip went viral before its context was checked."
+      "example": "The clip went viral before its context was checked.",
+      "exampleTranslation": "这段视频在背景信息得到核实前就迅速走红了。"
     },
     {
       "text": "take a break from social media",
       "cn": "暂停使用社交媒体",
-      "example": "I take a break from social media when it affects my sleep."
+      "example": "I take a break from social media when it affects my sleep.",
+      "exampleTranslation": "当社交媒体影响睡眠时，我会暂停使用一段时间。"
     },
     {
       "text": "curate an online identity",
       "cn": "塑造网络身份",
-      "example": "Users often curate an online identity through selective posts."
+      "example": "Users often curate an online identity through selective posts.",
+      "exampleTranslation": "用户常通过选择性发布内容来塑造网络身份。"
     },
     {
       "text": "drive online engagement",
       "cn": "推动线上互动",
-      "example": "Controversial headlines can drive online engagement."
+      "example": "Controversial headlines can drive online engagement.",
+      "exampleTranslation": "有争议的标题可以推动网络互动。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "protect user autonomy",
         "reset a personal profile"
       ],
-      "argument": "Recommendation systems influence attention by deciding which posts become visible first. Users should be able to reduce particular signals, inspect why content was suggested and reset accumulated assumptions. These options need plain language rather than technical labels hidden in settings. Full transparency about complex code is unrealistic and may enable manipulation. Meaningful control means altering the practical effect of personalisation without requiring specialist knowledge."
+      "argument": "Recommendation systems influence attention by deciding which posts become visible first. Users should be able to reduce particular signals, inspect why content was suggested and reset accumulated assumptions. These options need plain language rather than technical labels hidden in settings. Full transparency about complex code is unrealistic and may enable manipulation. Meaningful control means altering the practical effect of personalisation without requiring specialist knowledge.",
+      "viewpointTranslation": "用户需要对推荐系统拥有实质性的控制权。",
+      "topicSentenceTranslation": "只能在接受个性化服务与离开平台之间选择，并不构成充分控制。",
+      "collocationTranslations": [
+        "调整推荐设置",
+        "解释内容排序方式",
+        "保护用户自主权",
+        "重置个人资料"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Recommendation systems influence attention by deciding which posts become visible first.",
+          "translation": "推荐系统通过决定哪些帖子优先显示来影响注意力。"
+        },
+        {
+          "text": "Users should be able to reduce particular signals, inspect why content was suggested and reset accumulated assumptions.",
+          "translation": "用户应能降低特定信号的权重、查看内容为何被推荐，并重置系统积累的推断。"
+        },
+        {
+          "text": "These options need plain language rather than technical labels hidden in settings.",
+          "translation": "这些选项应使用浅显语言，而不是藏在设置里的技术标签。"
+        },
+        {
+          "text": "Full transparency about complex code is unrealistic and may enable manipulation.",
+          "translation": "完全公开复杂代码既不现实，也可能导致系统被操纵。"
+        },
+        {
+          "text": "Meaningful control means altering the practical effect of personalisation without requiring specialist knowledge.",
+          "translation": "实质性控制意味着用户无需专业知识，也能改变个性化推荐的实际效果。"
+        }
+      ]
     },
     {
       "viewpoint": "Engagement is an inadequate measure of social value.",
@@ -301,19 +347,95 @@
         "measure user well-being",
         "reward constructive interaction"
       ],
-      "argument": "Anger, shock and conflict can keep users clicking even when they later regret the time spent. A ranking system optimised only for immediate reaction may therefore amplify content that weakens trust or concentration. Platforms can include satisfaction surveys, repeated unwanted exposure and meaningful interaction in evaluation. No single metric captures social value, and commercial incentives remain powerful. Broader measurement at least makes harmful side effects visible instead of classifying every extra minute as success."
+      "argument": "Anger, shock and conflict can keep users clicking even when they later regret the time spent. A ranking system optimised only for immediate reaction may therefore amplify content that weakens trust or concentration. Platforms can include satisfaction surveys, repeated unwanted exposure and meaningful interaction in evaluation. No single metric captures social value, and commercial incentives remain powerful. Broader measurement at least makes harmful side effects visible instead of classifying every extra minute as success.",
+      "viewpointTranslation": "互动量不足以衡量社会价值。",
+      "topicSentenceTranslation": "平台不应认为引发最多反应的内容就能创造最佳用户体验。",
+      "collocationTranslations": [
+        "最大化互动",
+        "放大情绪化内容",
+        "衡量用户福祉",
+        "奖励建设性互动"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Anger, shock and conflict can keep users clicking even when they later regret the time spent.",
+          "translation": "愤怒、震惊和冲突会促使用户不断点击，即使他们后来后悔花费了这些时间。"
+        },
+        {
+          "text": "A ranking system optimised only for immediate reaction may therefore amplify content that weakens trust or concentration.",
+          "translation": "因此，只针对即时反应优化的排序系统可能放大削弱信任或注意力的内容。"
+        },
+        {
+          "text": "Platforms can include satisfaction surveys, repeated unwanted exposure and meaningful interaction in evaluation.",
+          "translation": "平台可以在评估中纳入满意度调查、反复出现的不受欢迎内容以及有意义的互动。"
+        },
+        {
+          "text": "No single metric captures social value, and commercial incentives remain powerful.",
+          "translation": "没有任何单一指标能衡量社会价值，而商业激励依然强大。"
+        },
+        {
+          "text": "Broader measurement at least makes harmful side effects visible instead of classifying every extra minute as success.",
+          "translation": "更广泛的衡量至少能让有害副作用显现出来，而不是把用户多停留的每一分钟都归为成功。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What do you mainly use social media for?",
-      "answer": "I mainly use it to keep up with friends who live elsewhere and to follow a few specialist accounts. I rarely post daily updates, but I send articles or photographs directly. The useful part is maintaining weak contact; the unhelpful part is opening the app for one message and scrolling much longer than intended."
+      "answer": "I mainly use it to keep up with friends who live elsewhere and to follow a few specialist accounts. I rarely post daily updates, but I send articles or photographs directly. The useful part is maintaining weak contact; the unhelpful part is opening the app for one message and scrolling much longer than intended.",
+      "questionTranslation": "你主要用社交媒体做什么？",
+      "answerSentences": [
+        {
+          "text": "I mainly use it to keep up with friends who live elsewhere and to follow a few specialist accounts.",
+          "translation": "我主要用它与住在其他地方的朋友保持联系，并关注几个专业账号。"
+        },
+        {
+          "text": "I rarely post daily updates, but I send articles or photographs directly.",
+          "translation": "我很少发布日常动态，但会直接发送文章或照片。"
+        },
+        {
+          "text": "The useful part is maintaining weak contact; the unhelpful part is opening the app for one message and scrolling much longer than intended.",
+          "translation": "有用之处是能维持不太紧密的联系；不利之处是我本想只看一条消息，却常常滑动浏览得比预期久得多。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe something useful you found through social media.",
-      "answer": "I found a free public lecture through a local museum’s social-media page. The post contained a short video from the speaker and a clear booking link, so I could judge whether the topic interested me. I attended with a friend and later followed the reading list that the speaker shared. Without the post, I would not have searched the museum’s events page that week. What made the discovery useful was that it connected online information to an offline experience. I also appreciated that the post was informative rather than exaggerated. It gave the date, level and purpose directly, which helped the right audience find it without pretending that everyone needed to attend."
+      "answer": "I found a free public lecture through a local museum’s social-media page. The post contained a short video from the speaker and a clear booking link, so I could judge whether the topic interested me. I attended with a friend and later followed the reading list that the speaker shared. Without the post, I would not have searched the museum’s events page that week. What made the discovery useful was that it connected online information to an offline experience. I also appreciated that the post was informative rather than exaggerated. It gave the date, level and purpose directly, which helped the right audience find it without pretending that everyone needed to attend.",
+      "questionTranslation": "描述一件你通过社交媒体发现的有用事物。",
+      "answerSentences": [
+        {
+          "text": "I found a free public lecture through a local museum’s social-media page.",
+          "translation": "我通过当地博物馆的社交媒体页面发现了一场免费公开讲座。"
+        },
+        {
+          "text": "The post contained a short video from the speaker and a clear booking link, so I could judge whether the topic interested me.",
+          "translation": "帖子中有一段演讲者的短视频和清晰的预约链接，因此我能判断自己是否对主题感兴趣。"
+        },
+        {
+          "text": "I attended with a friend and later followed the reading list that the speaker shared.",
+          "translation": "我和朋友参加了讲座，后来还阅读了演讲者分享的书单。"
+        },
+        {
+          "text": "Without the post, I would not have searched the museum’s events page that week.",
+          "translation": "如果没有那条帖子，我那周不会主动搜索博物馆的活动页面。"
+        },
+        {
+          "text": "What made the discovery useful was that it connected online information to an offline experience.",
+          "translation": "这次发现的价值在于，它把线上信息与线下体验联系了起来。"
+        },
+        {
+          "text": "I also appreciated that the post was informative rather than exaggerated.",
+          "translation": "我也很欣赏这条帖子提供信息而没有夸大其词。"
+        },
+        {
+          "text": "It gave the date, level and purpose directly, which helped the right audience find it without pretending that everyone needed to attend.",
+          "translation": "它直接说明日期、难度和目的，帮助合适的受众找到活动，而没有假装每个人都必须参加。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +472,95 @@
         "answer": "history",
         "explanation": "Paragraph 4 uses this limitation."
       }
+    ],
+    "titleTranslation": "从一次停顿中学习的信息流",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A social-media user does not need to press “like” for a platform to learn from behaviour.",
+          "translation": "社交媒体用户不需要按下“赞”，平台也能从其行为中学习。"
+        },
+        {
+          "text": "A pause over a video, a replay or a decision not to scroll can all become signals.",
+          "translation": "在一段视频前停留、重复播放或没有继续滑动，都可能成为信号。"
+        },
+        {
+          "text": "Recommendation systems combine these traces with follows, searches and the behaviour of similar users to predict which item is most likely to hold attention next.",
+          "translation": "推荐系统把这些痕迹与关注、搜索以及相似用户的行为结合起来，预测下一项最可能吸引注意力的内容。"
+        }
+      ],
+      [
+        {
+          "text": "The prediction is not a direct reading of preference.",
+          "translation": "这种预测并不是对偏好的直接读取。"
+        },
+        {
+          "text": "Someone may pause because a post is confusing, offensive or difficult to believe.",
+          "translation": "某人停下来，可能是因为帖子令人困惑、冒犯或难以置信。"
+        },
+        {
+          "text": "If the system interprets attention as approval, it can supply more of the same material.",
+          "translation": "如果系统把注意力理解为赞同，就可能提供更多同类内容。"
+        },
+        {
+          "text": "The user then sees repetition created partly by a misunderstanding of the first response.",
+          "translation": "于是，用户看到的重复内容部分源于系统对最初反应的误解。"
+        },
+        {
+          "text": "Strong emotion is particularly ambiguous because fascination and distress can look similar in behavioural data.",
+          "translation": "强烈情绪尤其含糊，因为着迷和不安在行为数据中可能看起来相似。"
+        }
+      ],
+      [
+        {
+          "text": "Feedback loops develop over time.",
+          "translation": "反馈循环会随时间形成。"
+        },
+        {
+          "text": "A small initial difference in clicking can produce a more specialised feed, which offers fewer opportunities to demonstrate other interests.",
+          "translation": "最初细微的点击差异可能产生更为专门化的信息流，从而减少用户表现其他兴趣的机会。"
+        },
+        {
+          "text": "Personalisation may be convenient for music or hobbies, yet risky when it narrows political or health information.",
+          "translation": "个性化推荐对音乐或爱好可能很便利，但若缩窄政治或健康信息则存在风险。"
+        },
+        {
+          "text": "The system does not need to conceal opposing views deliberately; ranking alone can make them practically invisible.",
+          "translation": "系统无需刻意隐藏对立观点；仅靠排序就能使它们实际上不可见。"
+        }
+      ],
+      [
+        {
+          "text": "Researchers audit recommendations by creating controlled accounts, varying one behaviour and comparing what follows.",
+          "translation": "研究人员通过创建受控账户、改变一种行为并比较后续推荐来审查推荐系统。"
+        },
+        {
+          "text": "This method reveals patterns but cannot reproduce the history of a real user or every version of a changing platform.",
+          "translation": "这种方法能揭示规律，却无法复制真实用户的经历，也无法覆盖不断变化的平台的每个版本。"
+        },
+        {
+          "text": "Independent access to suitable data would improve scrutiny, although privacy and commercial confidentiality place reasonable limits on what can be shared.",
+          "translation": "让独立研究者适当获取数据可以改善审查，尽管隐私和商业保密会对可共享内容形成合理限制。"
+        }
+      ],
+      [
+        {
+          "text": "For users, the practical lesson is that a feed is neither a neutral window nor a perfect portrait of personal desire.",
+          "translation": "对用户而言，实际启示是：信息流既不是中立的窗口，也不是个人欲望的完美画像。"
+        },
+        {
+          "text": "It is an evolving prediction shaped by measurable behaviour and a platform objective.",
+          "translation": "它是一种不断演变的预测，由可测量行为和平台目标共同塑造。"
+        },
+        {
+          "text": "Controls that allow people to remove signals, request chronological order or understand a recommendation can interrupt the loop.",
+          "translation": "允许用户删除信号、要求按时间排序或了解推荐原因的控制功能，可以打断这一循环。"
+        },
+        {
+          "text": "They do not remove influence, but they make it more open to correction.",
+          "translation": "这些功能不会消除影响，但能使其更容易被纠正。"
+        }
+      ]
     ]
   }
 }

@@ -153,7 +153,8 @@
         "high-value task",
         "essential piece of work"
       ],
-      "note": "priority 是应优先处理的事项。"
+      "note": "priority 是应优先处理的事项。",
+      "translation": "重要任务可以表示为优先级、高价值任务、必要的工作。"
     },
     {
       "base": "finish on time",
@@ -162,7 +163,8 @@
         "complete as scheduled",
         "deliver punctually"
       ],
-      "note": "deliver 常用于提交成果。"
+      "note": "deliver 常用于提交成果。",
+      "translation": "finish on time 可以表达为“按时完成”“按计划完成”或“准时交付”。"
     },
     {
       "base": "delay doing something",
@@ -171,7 +173,8 @@
         "put something off",
         "postpone action"
       ],
-      "note": "procrastinate 常因逃避而拖延。"
+      "note": "procrastinate 常因逃避而拖延。",
+      "translation": "延迟做某事可以表达为拖延，推迟某事，推迟行动。"
     },
     {
       "base": "plan time",
@@ -180,7 +183,8 @@
         "allocate time",
         "organise the day"
       ],
-      "note": "allocate 强调分配有限时间。"
+      "note": "allocate 强调分配有限时间。",
+      "translation": "计划时间可以表示为安排任务、分配时间、组织一天。"
     },
     {
       "base": "work well",
@@ -189,7 +193,8 @@
         "work efficiently",
         "make steady progress"
       ],
-      "note": "productive 强调产出；efficient 强调少浪费资源。"
+      "note": "productive 强调产出；efficient 强调少浪费资源。",
+      "translation": "work well 可以表达为“富有成效”“高效工作”或“稳步取得进展”。"
     },
     {
       "base": "too much work",
@@ -198,7 +203,8 @@
         "overloaded schedule",
         "competing demands"
       ],
-      "note": "competing demands 强调多件事争夺时间。"
+      "note": "competing demands 强调多件事争夺时间。",
+      "translation": "太多的工作可以表现为繁重的工作量、超负荷的日程安排、相互竞争的需求。"
     },
     {
       "base": "cannot focus",
@@ -207,7 +213,8 @@
         "lose concentration",
         "have divided attention"
       ],
-      "note": "divided attention 表示注意力被多个对象占用。"
+      "note": "divided attention 表示注意力被多个对象占用。",
+      "translation": "不能集中注意力可以表现为心烦意乱、注意力不集中、注意力分散。"
     },
     {
       "base": "guess duration",
@@ -216,51 +223,60 @@
         "make a time estimate",
         "judge how long it will take"
       ],
-      "note": "estimate 常比 guess 更有依据。"
+      "note": "estimate 常比 guess 更有依据。",
+      "translation": "guess the duration 可以表达为“估计所需时间”“作出时间预估”或“判断需要多长时间”。"
     }
   ],
   "sentences": [
     {
       "pattern": "When several tasks seem urgent, I decide which one + criterion.",
       "cn": "当多项任务看似紧急时，我根据某标准决定优先项。",
-      "example": "When several tasks seem urgent, I decide which one has the earliest real consequence."
+      "example": "When several tasks seem urgent, I decide which one has the earliest real consequence.",
+      "exampleTranslation": "当几项任务看起来很紧急时，我会决定哪一项最早产生真正的后果。"
     },
     {
       "pattern": "I often underestimate how long it takes to + verb, especially when + clause.",
       "cn": "我经常低估做……所需时间，尤其是在……时。",
-      "example": "I often underestimate how long it takes to edit a report, especially when the argument is unclear."
+      "example": "I often underestimate how long it takes to edit a report, especially when the argument is unclear.",
+      "exampleTranslation": "我经常低估编辑报告所需的时间，尤其是当论点不明确时。"
     },
     {
       "pattern": "Setting aside + amount of time + allows me to + verb without + distraction.",
       "cn": "留出一段时间让我能够不受某种干扰地……",
-      "example": "Setting aside forty minutes allows me to draft without checking messages."
+      "example": "Setting aside forty minutes allows me to draft without checking messages.",
+      "exampleTranslation": "留出四十分钟让我可以在不检查消息的情况下起草。"
     }
   ],
   "expressions": [
     {
       "text": "put something off",
       "cn": "推迟某事",
-      "example": "I kept putting the difficult phone call off."
+      "example": "I kept putting the difficult phone call off.",
+      "exampleTranslation": "我一直拖着不打那通棘手的电话。"
     },
     {
       "text": "get something out of the way",
       "cn": "先把某事处理掉",
-      "example": "I answer the urgent email first to get it out of the way."
+      "example": "I answer the urgent email first to get it out of the way.",
+      "exampleTranslation": "我会先回复紧急邮件，把这件事处理完。"
     },
     {
       "text": "run out of time",
       "cn": "时间用完",
-      "example": "We ran out of time before discussing the final point."
+      "example": "We ran out of time before discussing the final point.",
+      "exampleTranslation": "在讨论最后一点之前我们已经没有时间了。"
     },
     {
       "text": "be pressed for time",
       "cn": "时间紧迫",
-      "example": "I take a taxi only when I’m pressed for time."
+      "example": "I take a taxi only when I’m pressed for time.",
+      "exampleTranslation": "我只在时间紧迫时才乘坐出租车。"
     },
     {
       "text": "make time for",
       "cn": "专门为……留时间",
-      "example": "I try to make time for exercise during busy weeks."
+      "example": "I try to make time for exercise during busy weeks.",
+      "exampleTranslation": "我尽量在忙碌的几周里抽出时间锻炼身体。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "reallocate responsibilities",
         "work excessive hours"
       ],
-      "argument": "Lists and calendars help people organise tasks, but they do not create additional hours. An employee with several full-time priorities will still miss deadlines or sacrifice rest. Managers should distinguish poor organisation from insufficient staffing and unclear expectations. Removing low-value tasks may improve performance more than another productivity workshop. Time management is partly an individual skill, but workload design is an organisational responsibility."
+      "argument": "Lists and calendars help people organise tasks, but they do not create additional hours. An employee with several full-time priorities will still miss deadlines or sacrifice rest. Managers should distinguish poor organisation from insufficient staffing and unclear expectations. Removing low-value tasks may improve performance more than another productivity workshop. Time management is partly an individual skill, but workload design is an organisational responsibility.",
+      "viewpointTranslation": "时间管理问题往往就是工作量问题。",
+      "topicSentenceTranslation": "规划技术无法无限期地补偿不切实际的工作量。",
+      "collocationTranslations": [
+        "承担繁重的工作量",
+        "设定现实的最后期限",
+        "重新分配责任",
+        "工作时间过长"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Lists and calendars help people organise tasks, but they do not create additional hours.",
+          "translation": "列表和日历可以帮助人们组织任务，但它们不会增加额外的时间。"
+        },
+        {
+          "text": "An employee with several full-time priorities will still miss deadlines or sacrifice rest.",
+          "translation": "拥有多个全职优先事项的员工仍然会错过最后期限或牺牲休息。"
+        },
+        {
+          "text": "Managers should distinguish poor organisation from insufficient staffing and unclear expectations.",
+          "translation": "管理者应该将糟糕的组织与人员不足和不明确的期望区分开来。"
+        },
+        {
+          "text": "Removing low-value tasks may improve performance more than another productivity workshop.",
+          "translation": "删除低价值任务可能比其他生产力研讨会更能提高绩效。"
+        },
+        {
+          "text": "Time management is partly an individual skill, but workload design is an organisational responsibility.",
+          "translation": "时间管理在一定程度上是个人技能，但工作量设计是组织责任。"
+        }
+      ]
     },
     {
       "viewpoint": "Single-tasking can be more efficient than constant multitasking.",
@@ -301,19 +347,87 @@
         "make avoidable errors",
         "protect uninterrupted time"
       ],
-      "argument": "Answering a message while drafting a report feels productive because two activities are moving. In reality, the writer must repeatedly recall the argument and locate the previous point. This slows complex work and increases errors. Setting short periods for messages allows colleagues to receive responses without fragmenting the entire day. Multitasking remains useful for simple combinations, but demanding tasks deserve focused time."
+      "argument": "Answering a message while drafting a report feels productive because two activities are moving. In reality, the writer must repeatedly recall the argument and locate the previous point. This slows complex work and increases errors. Setting short periods for messages allows colleagues to receive responses without fragmenting the entire day. Multitasking remains useful for simple combinations, but demanding tasks deserve focused time.",
+      "viewpointTranslation": "单任务处理比持续的多任务处理更有效。",
+      "topicSentenceTranslation": "频繁的切换会产生隐性成本，因为每次中断后都必须重新建立注意力。",
+      "collocationTranslations": [
+        "保持集中注意力",
+        "在任务之间切换",
+        "犯可避免的错误",
+        "保护不间断的时间"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Answering a message while drafting a report feels productive because two activities are moving.",
+          "translation": "在起草报告的同时回复消息会让人感觉很有成效，因为有两项活动正在进行。"
+        },
+        {
+          "text": "In reality, the writer must repeatedly recall the argument and locate the previous point.",
+          "translation": "实际上，作者必须反复回忆论证并找到前一点。"
+        },
+        {
+          "text": "This slows complex work and increases errors.",
+          "translation": "这会减慢复杂工作的速度并增加错误。"
+        },
+        {
+          "text": "Setting short periods for messages allows colleagues to receive responses without fragmenting the entire day.",
+          "translation": "设置较短的消息发送时间可以让同事收到回复，而无需将一整天的时间都打碎。"
+        },
+        {
+          "text": "Multitasking remains useful for simple combinations, but demanding tasks deserve focused time.",
+          "translation": "多任务处理对于简单的组合仍然有用，但要求较高的任务值得集中时间。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you plan what you are going to do each day?",
-      "answer": "I make a short list in the morning, but I limit it to three important tasks. A list of twenty things looks organised and then becomes discouraging by lunchtime. I also leave some empty time because messages and small problems always appear. The plan gives me direction without pretending that the day will unfold perfectly."
+      "answer": "I make a short list in the morning, but I limit it to three important tasks. A list of twenty things looks organised and then becomes discouraging by lunchtime. I also leave some empty time because messages and small problems always appear. The plan gives me direction without pretending that the day will unfold perfectly.",
+      "questionTranslation": "你计划好每天要做什么吗？",
+      "answerSentences": [
+        {
+          "text": "I make a short list in the morning, but I limit it to three important tasks.",
+          "translation": "我早上会列一份简短的清单，但只保留三项重要任务。"
+        },
+        {
+          "text": "A list of twenty things looks organised and then becomes discouraging by lunchtime.",
+          "translation": "一份包含二十件事的清单看起来很有条理，但到了午餐时间就变得令人沮丧。"
+        },
+        {
+          "text": "I also leave some empty time because messages and small problems always appear.",
+          "translation": "我也会留下一些空闲时间，因为消息和小问题总是会出现。"
+        },
+        {
+          "text": "The plan gives me direction without pretending that the day will unfold perfectly.",
+          "translation": "这份计划给我方向，却不会假定一天中的一切都会完美展开。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "What usually wastes your time?",
-      "answer": "Switching between small online tasks is probably the main problem. I’ll open a message, follow a link and then forget what I originally intended to do. None of the interruptions feels long, but together they consume a surprising amount of time. Turning off notifications for half an hour makes a noticeable difference when I need to write."
+      "answer": "Switching between small online tasks is probably the main problem. I’ll open a message, follow a link and then forget what I originally intended to do. None of the interruptions feels long, but together they consume a surprising amount of time. Turning off notifications for half an hour makes a noticeable difference when I need to write.",
+      "questionTranslation": "通常什么会浪费你的时间？",
+      "answerSentences": [
+        {
+          "text": "Switching between small online tasks is probably the main problem.",
+          "translation": "在小型在线任务之间切换可能是主要问题。"
+        },
+        {
+          "text": "I’ll open a message, follow a link and then forget what I originally intended to do.",
+          "translation": "我会打开一条消息，点击一个链接，然后忘记我最初打算做什么。"
+        },
+        {
+          "text": "None of the interruptions feels long, but together they consume a surprising amount of time.",
+          "translation": "这些干扰都不会让人感觉很长，但它们加起来却消耗了惊人的时间。"
+        },
+        {
+          "text": "Turning off notifications for half an hour makes a noticeable difference when I need to write.",
+          "translation": "当我需要写作时，关闭通知半小时会产生明显的变化。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,107 @@
         "answer": "starting point",
         "explanation": "The phrase appears in the final paragraph."
       }
+    ],
+    "titleTranslation": "规划谬误",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A student expects an essay to take three days and needs six.",
+          "translation": "学生预计一篇论文需要三天时间，但实际需要六天。"
+        },
+        {
+          "text": "A construction project opens months late, while a simple home repair occupies an entire weekend.",
+          "translation": "一个建筑项目晚了几个月才开工，而一个简单的房屋维修却占用了整个周末。"
+        },
+        {
+          "text": "These errors are not always caused by laziness or bad luck.",
+          "translation": "这些错误并不总是由懒惰或运气不好造成的。"
+        },
+        {
+          "text": "People regularly underestimate task duration even when they know that similar work took longer in the past.",
+          "translation": "人们经常低估任务的持续时间，即使他们知道过去类似的工作需要更长的时间。"
+        },
+        {
+          "text": "Psychologists refer to this tendency as the planning fallacy.",
+          "translation": "心理学家将这种倾向称为计划谬误。"
+        }
+      ],
+      [
+        {
+          "text": "One explanation is that planners imagine the steps in an ideal future.",
+          "translation": "一种解释是规划者想象了理想未来的步骤。"
+        },
+        {
+          "text": "They picture themselves beginning promptly, finding every resource and completing each stage without interruption.",
+          "translation": "他们想象自己迅速开始，找到所有资源并不间断地完成每个阶段。"
+        },
+        {
+          "text": "The view from outside is less optimistic: comparable tasks reveal delays, revisions and competing demands.",
+          "translation": "外部的看法则不那么乐观：类似的任务揭示了延误、修改和竞争需求。"
+        },
+        {
+          "text": "Yet people often treat the current project as special and explain previous overruns as unusual accidents.",
+          "translation": "然而，人们常常将当前的项目视为特殊项目，并将之前的超支解释为不寻常的事故。"
+        }
+      ],
+      [
+        {
+          "text": "Breaking a task into parts can improve an estimate because hidden stages become visible.",
+          "translation": "将任务分解为多个部分可以改进估计，因为隐藏的阶段变得可见。"
+        },
+        {
+          "text": "‘Write the report’ may actually include finding data, checking figures, drafting, receiving comments and correcting the final layout.",
+          "translation": "“写报告”实际上可能包括查找数据、检查数字、起草、接收意见和纠正最终布局。"
+        },
+        {
+          "text": "However, adding the most likely duration of each stage is still risky if several steps depend on other people.",
+          "translation": "然而，如果几个步骤依赖于其他人，那么添加每个阶段最可能的持续时间仍然存在风险。"
+        },
+        {
+          "text": "Waiting time and coordination need to be included as work-related time even when nobody is actively producing the report.",
+          "translation": "即使没有人积极制作报告，等待时间和协调也需要计入与工作相关的时间。"
+        }
+      ],
+      [
+        {
+          "text": "Better planning therefore combines two perspectives.",
+          "translation": "因此，更好的规划结合了两种观点。"
+        },
+        {
+          "text": "The detailed plan identifies what must happen, while records from similar completed tasks provide a realistic starting point.",
+          "translation": "详细的计划确定了必须发生的事情，而类似已完成任务的记录则提供了一个现实的起点。"
+        },
+        {
+          "text": "Extra time should not be added randomly; it should reflect known sources of uncertainty.",
+          "translation": "不得随意增加加时；它应该反映已知的不确定性来源。"
+        },
+        {
+          "text": "Accurate estimation may feel less motivating than an ambitious deadline, but repeated failure is more damaging.",
+          "translation": "准确的估计可能不如雄心勃勃的最后期限那么有动力，但重复的失败更具破坏性。"
+        },
+        {
+          "text": "A credible schedule protects trust and allows genuine priorities to be distinguished from imagined urgency.",
+          "translation": "可信的时间表可以保护信任，并使真正的优先事项与想象中的紧迫性区分开来。"
+        }
+      ],
+      [
+        {
+          "text": "Teams can improve estimates by keeping a record of predicted and actual completion times.",
+          "translation": "团队可以通过记录预测和实际完成时间来改进估算。"
+        },
+        {
+          "text": "The purpose is not to punish inaccurate forecasts; fear would encourage staff to hide uncertainty.",
+          "translation": "目的不是惩罚不准确的预测；恐惧会鼓励员工隐藏不确定性。"
+        },
+        {
+          "text": "Instead, repeated gaps reveal stages that are routinely forgotten.",
+          "translation": "相反，重复的间隙揭示了通常被遗忘的阶段。"
+        },
+        {
+          "text": "Over several projects, this evidence creates a local reference class more relevant than a general rule about how long work ought to take.",
+          "translation": "在几个项目中，这些证据创建了一个本地参考类，它比关于工作应该花费多长时间的一般规则更相关。"
+        }
+      ]
     ]
   }
 }

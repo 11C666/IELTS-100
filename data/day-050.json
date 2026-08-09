@@ -153,7 +153,8 @@
         "strengthen",
         "raise the quality of"
       ],
-      "note": "搭配对象不同，不能机械互换。 本组可用于讨论旅游业。"
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论旅游业。",
+      "translation": "improve 表示改善；enhance、strengthen 和 raise the quality of 可强调提升或加强。"
     },
     {
       "base": "reduce",
@@ -162,7 +163,8 @@
         "limit",
         "bring down"
       ],
-      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论旅游业。"
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论旅游业。",
+      "translation": "reduce 表示减少；decrease、limit 和 bring down 可表达降低或控制。"
     },
     {
       "base": "people",
@@ -171,7 +173,8 @@
         "members of the public",
         "residents"
       ],
-      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论旅游业。"
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论旅游业。",
+      "translation": "people 表示人们；individuals、members of the public 和 residents 可用于更正式或具体的语境。"
     },
     {
       "base": "use",
@@ -180,7 +183,8 @@
         "adopt",
         "rely on"
       ],
-      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论旅游业。"
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论旅游业。",
+      "translation": "use 表示使用；make use of、adopt 和 rely on 可分别表示利用、采用或依赖。"
     },
     {
       "base": "choice",
@@ -189,7 +193,8 @@
         "alternative",
         "decision"
       ],
-      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论旅游业。"
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论旅游业。",
+      "translation": "choice 表示选择；option、alternative 和 decision 可根据语境表示选项、替代方案或决定。"
     },
     {
       "base": "cause",
@@ -198,7 +203,8 @@
         "contribute to",
         "give rise to"
       ],
-      "note": "contribute to 表示众多原因之一。 本组可用于讨论旅游业。"
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论旅游业。",
+      "translation": "cause 表示导致；lead to、contribute to 和 give rise to 常用于说明因果关系。"
     },
     {
       "base": "benefit",
@@ -207,7 +213,8 @@
         "positive effect",
         "gain"
       ],
-      "note": "gain 可指个人获得的具体收益。 本组可用于讨论旅游业。"
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论旅游业。",
+      "translation": "benefit 表示益处；advantage、positive effect 和 gain 可表示优势、积极影响或收获。"
     },
     {
       "base": "harm",
@@ -216,51 +223,60 @@
         "negative effect",
         "undermine"
       ],
-      "note": "undermine 强调逐渐削弱。 本组可用于讨论旅游业。"
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论旅游业。",
+      "translation": "harm 表示伤害；damage、negative effect 和 undermine 可表示损害、负面影响或削弱。"
     }
   ],
   "sentences": [
     {
       "pattern": "Tourism can support + local benefit + provided that + condition.",
       "cn": "只要满足某条件，旅游业就能支持某种当地利益。",
-      "example": "Tourism can support heritage conservation provided that revenue reaches local custodians."
+      "example": "Tourism can support heritage conservation provided that revenue reaches local custodians.",
+      "exampleTranslation": "只要旅游收入能够到达当地遗产守护者手中，旅游业就能支持遗产保护。"
     },
     {
       "pattern": "The number of visitors a place can accommodate depends on + capacity, not simply + physical space.",
       "cn": "某地可接待游客数量取决于承载能力，而不只是物理空间。",
-      "example": "The number of visitors a site can accommodate depends on transport and waste capacity, not simply physical space."
+      "example": "The number of visitors a site can accommodate depends on transport and waste capacity, not simply physical space.",
+      "exampleTranslation": "一个景点能够容纳多少游客，取决于交通和垃圾处理能力，而不只是实体空间。"
     },
     {
       "pattern": "Rather than discouraging all travel, destinations can + management action + to + outcome.",
       "cn": "目的地不必阻止所有旅行，而可以采取管理措施达到某结果。",
-      "example": "Rather than discouraging all travel, destinations can spread visits across seasons to reduce pressure."
+      "example": "Rather than discouraging all travel, destinations can spread visits across seasons to reduce pressure.",
+      "exampleTranslation": "目的地可以把游客分散到不同季节来减轻压力，而不是阻止所有旅行。"
     }
   ],
   "expressions": [
     {
       "text": "get away from it all",
       "cn": "远离日常压力",
-      "example": "We went to the coast to get away from it all."
+      "example": "We went to the coast to get away from it all.",
+      "exampleTranslation": "我们去海边远离日常喧嚣。"
     },
     {
       "text": "travel off season",
       "cn": "淡季旅行",
-      "example": "Travelling off season can reduce cost and crowding."
+      "example": "Travelling off season can reduce cost and crowding.",
+      "exampleTranslation": "淡季旅行可以降低成本并避开拥挤。"
     },
     {
       "text": "respect local customs",
       "cn": "尊重当地习俗",
-      "example": "Visitors should respect local customs instead of treating them as performances."
+      "example": "Visitors should respect local customs instead of treating them as performances.",
+      "exampleTranslation": "游客应尊重当地习俗，而不是把它们当作表演。"
     },
     {
       "text": "support the local economy",
       "cn": "支持当地经济",
-      "example": "Staying in family-run accommodation can support the local economy."
+      "example": "Staying in family-run accommodation can support the local economy.",
+      "exampleTranslation": "入住家庭经营的住宿可以支持当地经济。"
     },
     {
       "text": "put pressure on infrastructure",
       "cn": "给基础设施造成压力",
-      "example": "Seasonal crowds put pressure on water and waste systems."
+      "example": "Seasonal crowds put pressure on water and waste systems.",
+      "exampleTranslation": "季节性游客会给供水和垃圾处理系统带来压力。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "maintain public access",
         "reduce seasonal pressure"
       ],
-      "argument": "High visitor demand can support employment while converting housing into short-term accommodation and crowding ordinary transport. Residents then bear costs that are not reflected in tourism revenue. Limits in the most pressured areas, tourist levies and investment in waste and transit can return part of the benefit to local systems. Management should respond to specific capacity problems rather than treat every visitor as harmful. A destination remains attractive partly because a functioning community still exists there."
+      "argument": "High visitor demand can support employment while converting housing into short-term accommodation and crowding ordinary transport. Residents then bear costs that are not reflected in tourism revenue. Limits in the most pressured areas, tourist levies and investment in waste and transit can return part of the benefit to local systems. Management should respond to specific capacity problems rather than treat every visitor as harmful. A destination remains attractive partly because a functioning community still exists there.",
+      "viewpointTranslation": "游客管理应保护居民使用本地资源的权利。",
+      "topicSentenceTranslation": "旅游政策应确保成功的目的地对维护它们的居民而言仍然宜居。",
+      "collocationTranslations": [
+        "管理游客数量",
+        "保护居住住房",
+        "维持公共通行",
+        "减轻季节性压力"
+      ],
+      "argumentSentences": [
+        {
+          "text": "High visitor demand can support employment while converting housing into short-term accommodation and crowding ordinary transport.",
+          "translation": "大量游客需求可以支持就业，却也会把住房转为短期住宿，并挤占日常交通。"
+        },
+        {
+          "text": "Residents then bear costs that are not reflected in tourism revenue.",
+          "translation": "居民因此承担了没有反映在旅游收入中的成本。"
+        },
+        {
+          "text": "Limits in the most pressured areas, tourist levies and investment in waste and transit can return part of the benefit to local systems.",
+          "translation": "在压力最大的地区实行限制、征收游客税，并投资垃圾处理和公共交通，可以把部分收益返还本地系统。"
+        },
+        {
+          "text": "Management should respond to specific capacity problems rather than treat every visitor as harmful.",
+          "translation": "管理应针对具体承载能力问题作出回应，而不是把每位游客都视为有害。"
+        },
+        {
+          "text": "A destination remains attractive partly because a functioning community still exists there.",
+          "translation": "一个目的地之所以仍具吸引力，部分原因是那里依然存在正常运作的社区。"
+        }
+      ]
     },
     {
       "viewpoint": "Tourism revenue should reach conservation and local enterprise.",
@@ -301,19 +347,99 @@
         "fund heritage conservation",
         "reduce economic leakage"
       ],
-      "argument": "A resort may receive many tourists while profits leave through foreign ownership and imported supplies. Local guides, producers and accommodation providers retain a larger share and give visitors stronger connections to place. Entrance fees can finance site maintenance when accounts are transparent. However, local participation should not be reduced to low-paid seasonal work. Tourism contributes most when communities influence development and capture enough value to protect the resources on which the industry depends."
+      "argument": "A resort may receive many tourists while profits leave through foreign ownership and imported supplies. Local guides, producers and accommodation providers retain a larger share and give visitors stronger connections to place. Entrance fees can finance site maintenance when accounts are transparent. However, local participation should not be reduced to low-paid seasonal work. Tourism contributes most when communities influence development and capture enough value to protect the resources on which the industry depends.",
+      "viewpointTranslation": "旅游收入应惠及遗产保护和本地企业。",
+      "topicSentenceTranslation": "经济收益取决于游客的钱流向哪里，而不只是记录了多少支出。",
+      "collocationTranslations": [
+        "让收入留在当地",
+        "支持小型企业",
+        "资助遗产保护",
+        "减少经济外流"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A resort may receive many tourists while profits leave through foreign ownership and imported supplies.",
+          "translation": "一个度假区可能接待大量游客，但利润会通过外国所有权和进口物资流出。"
+        },
+        {
+          "text": "Local guides, producers and accommodation providers retain a larger share and give visitors stronger connections to place.",
+          "translation": "当地导游、生产者和住宿经营者能留住更大份额的收入，也能让游客与地方建立更深联系。"
+        },
+        {
+          "text": "Entrance fees can finance site maintenance when accounts are transparent.",
+          "translation": "在账目透明时，门票收入可以资助景点维护。"
+        },
+        {
+          "text": "However, local participation should not be reduced to low-paid seasonal work.",
+          "translation": "不过，本地参与不应仅限于低薪季节性工作。"
+        },
+        {
+          "text": "Tourism contributes most when communities influence development and capture enough value to protect the resources on which the industry depends.",
+          "translation": "当社区能够影响开发并获得足够价值来保护旅游业所依赖的资源时，旅游业的贡献最大。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What kind of place do you like visiting on holiday?",
-      "answer": "I like places where I can walk easily and combine ordinary local life with one or two cultural sites. I do not need a packed schedule. A smaller city near natural scenery usually suits me because there is variety without constant travel. Food and public transport also affect how relaxed the trip feels."
+      "answer": "I like places where I can walk easily and combine ordinary local life with one or two cultural sites. I do not need a packed schedule. A smaller city near natural scenery usually suits me because there is variety without constant travel. Food and public transport also affect how relaxed the trip feels.",
+      "questionTranslation": "度假时你喜欢游览什么样的地方？",
+      "answerSentences": [
+        {
+          "text": "I like places where I can walk easily and combine ordinary local life with one or two cultural sites.",
+          "translation": "我喜欢可以轻松步行、既能体验普通当地生活又有一两个文化景点的地方。"
+        },
+        {
+          "text": "I do not need a packed schedule.",
+          "translation": "我不需要排得满满的行程。"
+        },
+        {
+          "text": "A smaller city near natural scenery usually suits me because there is variety without constant travel.",
+          "translation": "靠近自然风景的小城市通常很适合我，因为那里选择多样，又不必不断奔波。"
+        },
+        {
+          "text": "Food and public transport also affect how relaxed the trip feels.",
+          "translation": "食物和公共交通也会影响旅程让人感觉多么轻松。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a place you visited that had many tourists.",
-      "answer": "I visited a historic walled town during a public holiday, and the main streets were extremely crowded. The architecture was impressive, but moving between major sites involved long queues. I noticed that only a few streets away, quieter workshops and neighbourhood cafés had far fewer visitors. The next morning I went out early and followed a route suggested by a local guide. That changed the experience completely because I could hear the city and speak to shop owners without blocking narrow paths. I understood why residents might value tourism and resent its concentration at the same time. The visit taught me that timing and route choice can reduce pressure without preventing people from seeing a popular place."
+      "answer": "I visited a historic walled town during a public holiday, and the main streets were extremely crowded. The architecture was impressive, but moving between major sites involved long queues. I noticed that only a few streets away, quieter workshops and neighbourhood cafés had far fewer visitors. The next morning I went out early and followed a route suggested by a local guide. That changed the experience completely because I could hear the city and speak to shop owners without blocking narrow paths. I understood why residents might value tourism and resent its concentration at the same time. The visit taught me that timing and route choice can reduce pressure without preventing people from seeing a popular place.",
+      "questionTranslation": "描述一个你去过的游客很多的地方。",
+      "answerSentences": [
+        {
+          "text": "I visited a historic walled town during a public holiday, and the main streets were extremely crowded.",
+          "translation": "我曾在公共假日期间游览一座历史悠久的城墙小镇，主要街道极其拥挤。"
+        },
+        {
+          "text": "The architecture was impressive, but moving between major sites involved long queues.",
+          "translation": "建筑令人印象深刻，但往返主要景点需要长时间排队。"
+        },
+        {
+          "text": "I noticed that only a few streets away, quieter workshops and neighbourhood cafés had far fewer visitors.",
+          "translation": "我注意到仅隔几条街，较安静的工坊和社区咖啡馆游客少得多。"
+        },
+        {
+          "text": "The next morning I went out early and followed a route suggested by a local guide.",
+          "translation": "第二天早晨我很早出门，并沿着当地导游推荐的路线游览。"
+        },
+        {
+          "text": "That changed the experience completely because I could hear the city and speak to shop owners without blocking narrow paths.",
+          "translation": "这彻底改变了体验，因为我能听见城市的声音，也能与店主交谈，而不会堵住狭窄道路。"
+        },
+        {
+          "text": "I understood why residents might value tourism and resent its concentration at the same time.",
+          "translation": "我理解了居民为什么可能既重视旅游业，又反感游客过度集中。"
+        },
+        {
+          "text": "The visit taught me that timing and route choice can reduce pressure without preventing people from seeing a popular place.",
+          "translation": "这次游览让我明白，选择合适的时间和路线可以减轻压力，而无需阻止人们参观热门地点。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +476,115 @@
         "answer": "community",
         "explanation": "The final paragraph identifies both."
       }
+    ],
+    "titleTranslation": "一条过于成功的步道",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A walking trail can bring visitors to rural areas that receive little benefit from conventional tourism.",
+          "translation": "步道能把游客带到很少从传统旅游中获益的农村地区。"
+        },
+        {
+          "text": "Hikers buy food, use accommodation and travel outside the main season.",
+          "translation": "徒步游客会购买食物、使用住宿设施，并在主要旺季之外出行。"
+        },
+        {
+          "text": "Yet success alters the resource being promoted.",
+          "translation": "然而，成功会改变被推广的资源本身。"
+        },
+        {
+          "text": "A narrow path designed for occasional local use may erode under thousands of boots, while parked cars block roads never built for visitor traffic.",
+          "translation": "原本供当地人偶尔使用的狭窄小路，可能在数千双鞋的踩踏下侵蚀；停放的汽车也会堵塞从未按游客交通设计的道路。"
+        }
+      ],
+      [
+        {
+          "text": "Physical carrying capacity is only one limit.",
+          "translation": "实体承载能力只是其中一项限制。"
+        },
+        {
+          "text": "Residents may tolerate busy weekends but object when noise, litter or access problems become constant.",
+          "translation": "居民可能容忍繁忙的周末，却会反对噪声、垃圾或通行问题成为常态。"
+        },
+        {
+          "text": "Wildlife can be disturbed at particular breeding times even when the total annual visitor number appears modest.",
+          "translation": "即使全年游客总数看似不多，野生动物也可能在特定繁殖期受到干扰。"
+        },
+        {
+          "text": "A single maximum figure therefore fails to capture where, when and how pressure occurs.",
+          "translation": "因此，单一最高人数无法反映压力出现在哪里、何时出现以及如何出现。"
+        }
+      ],
+      [
+        {
+          "text": "Managers use several responses.",
+          "translation": "管理者采用多种应对措施。"
+        },
+        {
+          "text": "Boardwalks protect fragile ground, shuttle buses reduce parking and booking systems spread departures through the day.",
+          "translation": "木栈道保护脆弱地面，接驳车减少停车需求，预约系统则把出发时间分散到全天。"
+        },
+        {
+          "text": "Information can direct walkers to robust routes, although promoting an alternative may simply transfer damage if that path is unprepared.",
+          "translation": "信息可以引导徒步者选择更耐用的路线，但如果替代路线没有准备好，推广它可能只是转移破坏。"
+        },
+        {
+          "text": "Charges are controversial but can fund maintenance when visitors understand where the money goes.",
+          "translation": "收费存在争议，但当游客了解资金用途时，它可以为维护提供资金。"
+        }
+      ],
+      [
+        {
+          "text": "Local businesses have mixed interests.",
+          "translation": "当地企业的利益并不一致。"
+        },
+        {
+          "text": "More visitors increase custom, yet congestion can delay deliveries and make staff housing expensive.",
+          "translation": "更多游客会增加生意，但拥堵会延误配送并推高员工住房成本。"
+        },
+        {
+          "text": "Consultation often overrepresents businesses with time to attend meetings, while farmers or seasonal workers remain unheard.",
+          "translation": "咨询往往过度代表有时间参加会议的商家，而农民或季节性工人则没有发声。"
+        },
+        {
+          "text": "Collecting evidence through traffic counts, path surveys and varied community interviews produces a fuller picture than satisfaction questionnaires alone.",
+          "translation": "通过交通流量统计、步道调查和多样化社区访谈收集证据，比仅使用满意度问卷更全面。"
+        }
+      ],
+      [
+        {
+          "text": "The goal is not to keep a landscape unchanged; paths have always connected human activity with land.",
+          "translation": "目标不是让景观永远不变；道路一直把人类活动与土地联系起来。"
+        },
+        {
+          "text": "Management seeks a level and pattern of use that can be repaired and accepted.",
+          "translation": "管理寻求一种可以修复、也能被接受的使用水平和方式。"
+        },
+        {
+          "text": "A successful trail should create enough value to maintain both its physical surface and the community through which it passes.",
+          "translation": "成功的步道应创造足够价值，以维护其路面及所经过的社区。"
+        },
+        {
+          "text": "Otherwise popularity consumes the conditions that made the route worth visiting.",
+          "translation": "否则，人气会消耗最初使这条路线值得游览的条件。"
+        },
+        {
+          "text": "Visitor behaviour is influenced by expectations set before arrival.",
+          "translation": "游客行为会受到抵达前所形成预期的影响。"
+        },
+        {
+          "text": "Booking pages can explain limited parking, suitable footwear and sensitive wildlife periods at the moment a route is chosen.",
+          "translation": "预约页面可以在人们选择路线时说明停车位有限、适合的鞋子以及野生动物敏感时期。"
+        },
+        {
+          "text": "Once a traveller has reached a crowded entrance, requests to change plans are less effective.",
+          "translation": "一旦旅行者到达拥挤入口，再要求其改变计划就不太有效。"
+        },
+        {
+          "text": "Management communication works best when it appears early enough to shape the journey rather than merely correct conduct on site.",
+          "translation": "管理沟通只有足够早地出现并影响行程，才比仅在现场纠正行为更有效。"
+        }
+      ]
     ]
   }
 }

@@ -153,7 +153,8 @@
         "economic disparity",
         "an unequal distribution of resources"
       ],
-      "note": "distribution强调资源如何分配。"
+      "note": "distribution强调资源如何分配。",
+      "translation": "贫富差距，也可表达为收入不平等、经济差距或资源分配不均。"
     },
     {
       "base": "poor families",
@@ -162,7 +163,8 @@
         "economically disadvantaged families",
         "households with limited financial resources"
       ],
-      "note": "disadvantaged较正式且避免贴标签。"
+      "note": "disadvantaged较正式且避免贴标签。",
+      "translation": "贫困家庭，也可表达为低收入家庭、经济弱势家庭或经济资源有限的家庭。"
     },
     {
       "base": "chance to succeed",
@@ -171,7 +173,8 @@
         "scope for upward mobility",
         "a realistic route to improved circumstances"
       ],
-      "note": "upward mobility侧重社会经济地位。"
+      "note": "upward mobility侧重社会经济地位。",
+      "translation": "成功的机会，也可表达为发展机会、向上流动的空间或改善处境的现实途径。"
     },
     {
       "base": "government help",
@@ -180,7 +183,8 @@
         "state assistance",
         "provision through the social safety net"
       ],
-      "note": "safety net指多项保障制度。"
+      "note": "safety net指多项保障制度。",
+      "translation": "政府帮助，也可表达为公共支持、国家援助或社会保障体系提供的帮助。"
     },
     {
       "base": "high earners",
@@ -189,7 +193,8 @@
         "top-income households",
         "those at the upper end of the income distribution"
       ],
-      "note": "最后一种最适合数据描述。"
+      "note": "最后一种最适合数据描述。",
+      "translation": "高收入者，也可表达为高收入人群、最高收入家庭或收入分布顶端的人群。"
     },
     {
       "base": "basic needs",
@@ -198,7 +203,8 @@
         "fundamental material needs",
         "the goods and services required for a decent life"
       ],
-      "note": "decent life常见于生活工资讨论。"
+      "note": "decent life常见于生活工资讨论。",
+      "translation": "基本需求，也可表达为基本生活需要、基础物质需求或维持体面生活所需的商品与服务。"
     },
     {
       "base": "unfair advantage",
@@ -207,7 +213,8 @@
         "structural advantage",
         "a benefit arising from existing social conditions"
       ],
-      "note": "structural避免把问题仅归因个人。"
+      "note": "structural避免把问题仅归因个人。",
+      "translation": "不公平的优势，也可表达为不平等的起点、结构性优势或源于现有社会条件的好处。"
     },
     {
       "base": "reduce inequality",
@@ -216,51 +223,60 @@
         "limit excessive income gaps",
         "make resources and opportunities more evenly distributed"
       ],
-      "note": "narrow disparities是常用搭配。"
+      "note": "narrow disparities是常用搭配。",
+      "translation": "减少不平等，也可表达为缩小经济差距、限制过大的收入差距或让资源与机会分配得更加均衡。"
     }
   ],
   "sentences": [
     {
       "pattern": "A policy may reduce + immediate problem + without addressing + deeper cause + that keeps + group + disadvantaged.",
       "cn": "一项政策可能减轻眼前问题，却未解决使某群体持续处于劣势的深层原因。",
-      "example": "A food subsidy may reduce immediate hardship without addressing insecure employment that keeps families disadvantaged."
+      "example": "A food subsidy may reduce immediate hardship without addressing insecure employment that keeps families disadvantaged.",
+      "exampleTranslation": "食品补贴或许能缓解眼前的困境，却没有解决使家庭持续处于弱势的不稳定就业问题。"
     },
     {
       "pattern": "What matters is not only how much + resource + is provided, but whether + group + can actually access it.",
       "cn": "重要的不只是提供了多少资源，还在于特定群体能否真正获得。",
-      "example": "What matters is not only how much training is provided, but whether low-paid workers can actually attend it."
+      "example": "What matters is not only how much training is provided, but whether low-paid workers can actually attend it.",
+      "exampleTranslation": "重要的不仅是提供了多少培训，还在于低收入劳动者能否真正参加。"
     },
     {
       "pattern": "Unless + barrier + is removed, + opportunity + is likely to benefit those who + existing advantage.",
       "cn": "除非消除某项障碍，否则某种机会很可能主要惠及已有优势的人。",
-      "example": "Unless course fees are removed, professional training is likely to benefit those who already have financial support."
+      "example": "Unless course fees are removed, professional training is likely to benefit those who already have financial support.",
+      "exampleTranslation": "除非取消课程费用，否则职业培训很可能只会让那些已经获得经济支持的人受益。"
     }
   ],
   "expressions": [
     {
       "text": "struggle to get by",
       "cn": "勉强维持生活",
-      "example": "Some full-time workers still struggle to get by."
+      "example": "Some full-time workers still struggle to get by.",
+      "exampleTranslation": "一些全职劳动者仍然只能勉强维持生活。"
     },
     {
       "text": "start from a different position",
       "cn": "起点不同",
-      "example": "Children start from a different position before entering school."
+      "example": "Children start from a different position before entering school.",
+      "exampleTranslation": "孩子们在入学前的起点并不相同。"
     },
     {
       "text": "have a fair shot",
       "cn": "拥有公平的机会",
-      "example": "Everyone should have a fair shot at secure employment."
+      "example": "Everyone should have a fair shot at secure employment.",
+      "exampleTranslation": "每个人都应当有公平获得稳定工作的机会。"
     },
     {
       "text": "narrow socioeconomic disparities",
       "cn": "缩小社会经济差距",
-      "example": "Early support can narrow socioeconomic disparities."
+      "example": "Early support can narrow socioeconomic disparities.",
+      "exampleTranslation": "早期支持可以缩小社会经济差距。"
     },
     {
       "text": "remove structural barriers",
       "cn": "消除结构性障碍",
-      "example": "Affordable transport helps remove structural barriers to work."
+      "example": "Affordable transport helps remove structural barriers to work.",
+      "exampleTranslation": "负担得起的交通有助于消除就业方面的结构性障碍。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "improve career continuity",
         "support parental choice"
       ],
-      "argument": "When childcare costs approach a parent’s wage, leaving employment may appear to be the only sensible choice. The resulting career break lowers current household income and can reduce later pay and pension contributions. Affordable provision allows parents, particularly those on modest wages, to keep skills and work experience. It also gives families a genuine choice rather than forcing one arrangement through price. Childcare can therefore narrow inequality across both income groups and generations."
+      "argument": "When childcare costs approach a parent’s wage, leaving employment may appear to be the only sensible choice. The resulting career break lowers current household income and can reduce later pay and pension contributions. Affordable provision allows parents, particularly those on modest wages, to keep skills and work experience. It also gives families a genuine choice rather than forcing one arrangement through price. Childcare can therefore narrow inequality across both income groups and generations.",
+      "viewpointTranslation": "负担得起的儿童照护可以通过促进就业来减少不平等。",
+      "topicSentenceTranslation": "儿童照护服务是一项经济政策，因为它决定了许多父母能否继续从事有薪工作。",
+      "collocationTranslations": [
+        "消除就业障碍",
+        "维持家庭收入",
+        "改善职业连续性",
+        "支持父母自主选择"
+      ],
+      "argumentSentences": [
+        {
+          "text": "When childcare costs approach a parent’s wage, leaving employment may appear to be the only sensible choice.",
+          "translation": "当儿童照护费用接近一名家长的工资时，离开职场似乎成了唯一明智的选择。"
+        },
+        {
+          "text": "The resulting career break lowers current household income and can reduce later pay and pension contributions.",
+          "translation": "由此造成的职业中断会降低家庭当前收入，也可能减少今后的薪资和养老金缴费。"
+        },
+        {
+          "text": "Affordable provision allows parents, particularly those on modest wages, to keep skills and work experience.",
+          "translation": "负担得起的照护服务使父母，尤其是工资不高的父母，能够保留技能并延续工作经验。"
+        },
+        {
+          "text": "It also gives families a genuine choice rather than forcing one arrangement through price.",
+          "translation": "它还让家庭拥有真正的选择，而不是因价格被迫接受某一种安排。"
+        },
+        {
+          "text": "Childcare can therefore narrow inequality across both income groups and generations.",
+          "translation": "因此，儿童照护可以同时缩小不同收入群体之间以及代际之间的不平等。"
+        }
+      ]
     },
     {
       "viewpoint": "Universal public services may create broader equality than cash transfers alone.",
@@ -301,19 +347,95 @@
         "maintain public support",
         "avoid administrative exclusion"
       ],
-      "argument": "A cash payment helps a household choose what it needs, but its value may be absorbed by high local rents or medical charges. Good schools, transport and healthcare deliver essential resources directly and can serve people across income levels. Because eligibility is not narrowly tested, fewer vulnerable residents are excluded by complex forms or changing earnings. Universal programmes also tend to retain wider political support than benefits associated with one group. Targeted cash remains necessary for particular hardship, but strong services can change the conditions that repeatedly produce it."
+      "argument": "A cash payment helps a household choose what it needs, but its value may be absorbed by high local rents or medical charges. Good schools, transport and healthcare deliver essential resources directly and can serve people across income levels. Because eligibility is not narrowly tested, fewer vulnerable residents are excluded by complex forms or changing earnings. Universal programmes also tend to retain wider political support than benefits associated with one group. Targeted cash remains necessary for particular hardship, but strong services can change the conditions that repeatedly produce it.",
+      "viewpointTranslation": "普惠公共服务可能比单纯现金转移带来更广泛的平等。",
+      "topicSentenceTranslation": "可获得的公共服务能够减弱收入差异对基本机会的影响。",
+      "collocationTranslations": [
+        "提供普遍可及的服务",
+        "降低家庭成本",
+        "维持公众支持",
+        "避免行政程序造成的排斥"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A cash payment helps a household choose what it needs, but its value may be absorbed by high local rents or medical charges.",
+          "translation": "现金补助能让家庭选择所需之物，但其价值可能会被当地高昂的房租或医疗费用所抵消。"
+        },
+        {
+          "text": "Good schools, transport and healthcare deliver essential resources directly and can serve people across income levels.",
+          "translation": "优质的学校、交通和医疗服务可以直接提供基本资源，并服务于不同收入水平的人群。"
+        },
+        {
+          "text": "Because eligibility is not narrowly tested, fewer vulnerable residents are excluded by complex forms or changing earnings.",
+          "translation": "由于资格没有受到狭窄的条件限制，较少弱势居民会因复杂表格或收入变化而被排除在外。"
+        },
+        {
+          "text": "Universal programmes also tend to retain wider political support than benefits associated with one group.",
+          "translation": "普惠项目往往也比只针对某一群体的福利更容易获得广泛的政治支持。"
+        },
+        {
+          "text": "Targeted cash remains necessary for particular hardship, but strong services can change the conditions that repeatedly produce it.",
+          "translation": "针对特殊困难的现金援助仍有必要，但健全的公共服务能够改变反复造成困难的环境。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a service that gives people in your area better opportunities.",
-      "answer": "A public library near my home gives people access to computers, quiet study space and free short courses. It is especially useful for job seekers who need to prepare applications but may not own a laptop or have a stable internet connection. Staff also help visitors use government websites, which can be confusing. I once attended a free workshop there on spreadsheet skills, and the group included students, older workers and a parent returning to employment. The library cannot remove every economic barrier, but it provides practical tools without asking people to prove that they are disadvantaged. The experience also changed how I understood the relationship between talent, support and access to opportunity."
+      "answer": "A public library near my home gives people access to computers, quiet study space and free short courses. It is especially useful for job seekers who need to prepare applications but may not own a laptop or have a stable internet connection. Staff also help visitors use government websites, which can be confusing. I once attended a free workshop there on spreadsheet skills, and the group included students, older workers and a parent returning to employment. The library cannot remove every economic barrier, but it provides practical tools without asking people to prove that they are disadvantaged. The experience also changed how I understood the relationship between talent, support and access to opportunity.",
+      "questionTranslation": "请描述你所在地区一项能为人们带来更好机会的服务。",
+      "answerSentences": [
+        {
+          "text": "A public library near my home gives people access to computers, quiet study space and free short courses.",
+          "translation": "我家附近的一座公共图书馆为人们提供电脑、安静的学习空间和免费的短期课程。"
+        },
+        {
+          "text": "It is especially useful for job seekers who need to prepare applications but may not own a laptop or have a stable internet connection.",
+          "translation": "它对需要准备求职申请、却可能没有笔记本电脑或稳定网络连接的求职者尤其有用。"
+        },
+        {
+          "text": "Staff also help visitors use government websites, which can be confusing.",
+          "translation": "工作人员还会帮助访客使用可能令人困惑的政府网站。"
+        },
+        {
+          "text": "I once attended a free workshop there on spreadsheet skills, and the group included students, older workers and a parent returning to employment.",
+          "translation": "我曾在那里参加过一次免费的电子表格技能培训，参加者包括学生、年长的劳动者以及一位准备重返职场的家长。"
+        },
+        {
+          "text": "The library cannot remove every economic barrier, but it provides practical tools without asking people to prove that they are disadvantaged.",
+          "translation": "图书馆无法消除所有经济障碍，但它无需人们证明自己处于弱势，就能提供实用工具。"
+        },
+        {
+          "text": "The experience also changed how I understood the relationship between talent, support and access to opportunity.",
+          "translation": "这段经历也改变了我对才能、支持和获得机会之间关系的理解。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Is some economic inequality unavoidable?",
-      "answer": "Some difference is probably unavoidable because occupations require different training, involve different risks and attract different levels of demand. The more important question is how large the gap becomes and whether people can still meet basic needs. Inequality is particularly troubling when family wealth determines access to education, housing or healthcare, because achievement then reflects starting position as much as effort. A society can accept varied rewards while using wages, taxation and public services to prevent disadvantage from becoming permanent."
+      "answer": "Some difference is probably unavoidable because occupations require different training, involve different risks and attract different levels of demand. The more important question is how large the gap becomes and whether people can still meet basic needs. Inequality is particularly troubling when family wealth determines access to education, housing or healthcare, because achievement then reflects starting position as much as effort. A society can accept varied rewards while using wages, taxation and public services to prevent disadvantage from becoming permanent.",
+      "questionTranslation": "一定程度的经济不平等是否不可避免？",
+      "answerSentences": [
+        {
+          "text": "Some difference is probably unavoidable because occupations require different training, involve different risks and attract different levels of demand.",
+          "translation": "一定程度的差异或许不可避免，因为不同职业所需的培训、承担的风险以及市场需求水平各不相同。"
+        },
+        {
+          "text": "The more important question is how large the gap becomes and whether people can still meet basic needs.",
+          "translation": "更重要的问题是差距会扩大到何种程度，以及人们是否仍能满足基本需求。"
+        },
+        {
+          "text": "Inequality is particularly troubling when family wealth determines access to education, housing or healthcare, because achievement then reflects starting position as much as effort.",
+          "translation": "当家庭财富决定教育、住房或医疗机会时，不平等尤其令人担忧，因为此时成就不仅反映努力，也同样反映起点。"
+        },
+        {
+          "text": "A society can accept varied rewards while using wages, taxation and public services to prevent disadvantage from becoming permanent.",
+          "translation": "社会可以接受回报有所差异，同时通过工资、税收和公共服务防止弱势处境固化。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -349,6 +471,89 @@
         "answer": "shift times",
         "explanation": "Paragraph 3 states that employers supplied shift times."
       }
+    ],
+    "titleTranslation": "通往机会的更短路程",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Economic opportunity is often discussed as though it were located inside a person: education, motivation and talent are expected to determine how far someone advances.",
+          "translation": "人们讨论经济机会时，往往仿佛它存在于个人内部：教育、动力和才能被认为会决定一个人能走多远。"
+        },
+        {
+          "text": "Yet opportunity also has an address of its own.",
+          "translation": "然而，机会本身也有其地理位置。"
+        },
+        {
+          "text": "A resident may possess suitable skills for a vacancy and still be unable to accept it if the workplace is reached only by an expensive, unreliable journey.",
+          "translation": "居民可能具备某个职位所需的技能，却仍因上班路途昂贵且不可靠而无法接受这份工作。"
+        },
+        {
+          "text": "Transport researchers describe this mismatch as a problem of accessibility rather than distance alone.",
+          "translation": "交通研究人员将这种不匹配描述为可达性问题，而不仅仅是距离问题。"
+        }
+      ],
+      [
+        {
+          "text": "One regional study linked anonymised employment records with public-transport timetables in three cities.",
+          "translation": "一项地区研究把匿名就业记录与三座城市的公共交通时刻表联系起来。"
+        },
+        {
+          "text": "Low-income districts were not always geographically remote from major job centres, but shift workers living there had far fewer usable connections before 7 a.m.",
+          "translation": "低收入地区在地理上并不总是远离主要就业中心，但居住在那里的轮班劳动者在早上7点前可用的交通连接要少得多。"
+        },
+        {
+          "text": "A route that took forty minutes at midday could require two hours early in the morning.",
+          "translation": "中午只需四十分钟的路线，在清晨可能要花两个小时。"
+        },
+        {
+          "text": "Women with childcare responsibilities faced an additional constraint because a nursery and workplace had to be reached in a workable sequence.",
+          "translation": "承担儿童照护责任的女性还面临额外限制，因为她们必须按照可行的顺序到达托儿所和工作场所。"
+        }
+      ],
+      [
+        {
+          "text": "The cities responded differently.",
+          "translation": "三座城市采取了不同的应对方式。"
+        },
+        {
+          "text": "One extended a rail line, an expensive project expected to take eight years.",
+          "translation": "一座城市延长了铁路线，这一昂贵项目预计需要八年完成。"
+        },
+        {
+          "text": "Another adjusted existing bus schedules after employers supplied shift times, while the third offered discounted fares but left routes unchanged.",
+          "translation": "另一座城市在雇主提供轮班时间后调整了现有公交时刻表，第三座则提供票价优惠，但没有改变路线。"
+        },
+        {
+          "text": "Eighteen months later, the timetable reform had produced the clearest short-term increase in reachable vacancies.",
+          "translation": "十八个月后，时刻表改革使可到达的职位数量在短期内增加得最为明显。"
+        },
+        {
+          "text": "Fare reductions helped current passengers, whereas they could not make an absent early bus appear.",
+          "translation": "降低票价帮助了现有乘客，却无法让原本不存在的早班公交凭空出现。"
+        }
+      ],
+      [
+        {
+          "text": "This does not mean that timetables always outperform infrastructure.",
+          "translation": "这并不意味着时刻表的效果总是优于基础设施。"
+        },
+        {
+          "text": "Crowded or indirect networks may require new routes, and employment itself can move before a major line opens.",
+          "translation": "拥挤或绕行的交通网络可能需要新路线，而且在大型线路开通之前，就业地点本身也可能发生变化。"
+        },
+        {
+          "text": "The study instead changes what planners measure.",
+          "translation": "这项研究真正改变的是规划者衡量的内容。"
+        },
+        {
+          "text": "Counting kilometres of track or average citywide journey times may conceal whether a cleaner, care worker or warehouse employee can arrive when a shift begins.",
+          "translation": "只统计轨道里程或全市平均通勤时间，可能会掩盖清洁工、护理人员或仓库员工能否在轮班开始时抵达工作地点。"
+        },
+        {
+          "text": "If social mobility partly depends on connecting actual homes to actual working hours, transport policy belongs inside the debate about inequality rather than at its edge.",
+          "translation": "如果社会流动在一定程度上取决于把实际住所与实际工作时间连接起来，那么交通政策就应处于不平等讨论的核心，而非边缘。"
+        }
+      ]
     ]
   }
 }

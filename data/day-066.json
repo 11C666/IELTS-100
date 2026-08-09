@@ -153,7 +153,8 @@
         "lack reliable connectivity",
         "experience digital exclusion"
       ],
-      "note": "unconnected 侧重连接缺失。"
+      "note": "unconnected 侧重连接缺失。",
+      "translation": "没有互联网接入可以表述为保持未连接、缺乏可靠的连接、经历数字排斥。"
     },
     {
       "base": "cheap enough",
@@ -162,7 +163,8 @@
         "within household budgets",
         "available at a manageable cost"
       ],
-      "note": "affordable 最简洁正式。"
+      "note": "affordable 最简洁正式。",
+      "translation": "足够便宜可以表示为负担得起，在家庭预算范围内，以可管理的成本获得。"
     },
     {
       "base": "know how to use",
@@ -171,7 +173,8 @@
         "navigate confidently",
         "use competently"
       ],
-      "note": "navigate 常指平台或流程。"
+      "note": "navigate 常指平台或流程。",
+      "translation": "知道如何使用可以表示为拥有必要的数字技能、自信地导航、胜任地使用。"
     },
     {
       "base": "online service",
@@ -180,7 +183,8 @@
         "web-based provision",
         "remotely delivered service"
       ],
-      "note": "web-based 更具体。"
+      "note": "web-based 更具体。",
+      "translation": "在线服务可以表示为数字服务、基于网络的提供、远程交付服务。"
     },
     {
       "base": "different groups",
@@ -189,7 +193,8 @@
         "communities with different needs",
         "demographic groups"
       ],
-      "note": "demographic groups 适合研究语境。"
+      "note": "demographic groups 适合研究语境。",
+      "translation": "不同的群体可以表示为不同的用户群体、具有不同需求的社区、人口统计群体。"
     },
     {
       "base": "give equipment",
@@ -198,7 +203,8 @@
         "subsidise hardware",
         "support device access"
       ],
-      "note": "subsidise 表示资助部分成本。"
+      "note": "subsidise 表示资助部分成本。",
+      "translation": "给予设备可以表现为提供合适的设备、补贴硬件、支持设备接入。"
     },
     {
       "base": "difficult to use",
@@ -207,7 +213,8 @@
         "demanding to navigate",
         "unsuitable for inexperienced users"
       ],
-      "note": "accessible 涉及能力和设计。"
+      "note": "accessible 涉及能力和设计。",
+      "translation": "难以使用可以表示为难以访问、需要导航、不适合没有经验的用户。"
     },
     {
       "base": "equal opportunity",
@@ -216,51 +223,60 @@
         "a fair chance to participate",
         "meaningful digital inclusion"
       ],
-      "note": "equitable 强调按需要提供支持。"
+      "note": "equitable 强调按需要提供支持。",
+      "translation": "机会均等可以表现为公平的准入、公平的参与机会、有意义的数字包容。"
     }
   ],
   "sentences": [
     {
       "pattern": "Access to + a digital device + is of limited value unless + the user + can also access + suitable skills or support.",
       "cn": "如果使用者不能同时获得技能或支持，拥有某设备的价值有限。",
-      "example": "Access to a laptop is of limited value unless a job seeker can also navigate recruitment websites confidently."
+      "example": "Access to a laptop is of limited value unless a job seeker can also navigate recruitment websites confidently.",
+      "exampleTranslation": "除非求职者也能自信地浏览招聘网站，否则使用笔记本电脑的价值有限。"
     },
     {
       "pattern": "Even where + a reliable network + is available, households whose + budgets are already stretched + may remain digitally excluded.",
       "cn": "即使网络可用，受到某种限制的家庭仍可能事实上被排除。",
-      "example": "Even where fibre broadband is available, households whose budgets are already stretched may remain effectively excluded."
+      "example": "Even where fibre broadband is available, households whose budgets are already stretched may remain effectively excluded.",
+      "exampleTranslation": "即使在提供光纤宽带的地方，预算已经捉襟见肘的家庭可能仍然被排除在外。"
     },
     {
       "pattern": "By requiring + an online process + without retaining + an offline alternative, institutions risk + excluding people who need assistance.",
       "cn": "机构若强制数字流程而不保留替代方式，可能导致……",
-      "example": "By requiring online identification without retaining face-to-face support, institutions risk excluding the very users who need assistance most."
+      "example": "By requiring online identification without retaining face-to-face support, institutions risk excluding the very users who need assistance most.",
+      "exampleTranslation": "通过要求在线身份验证而不保留面对面的支持，机构可能会冒着排除最需要帮助的用户的风险。"
     }
   ],
   "expressions": [
     {
       "text": "struggle to get online",
       "cn": "难以上网",
-      "example": "Some residents still struggle to get online reliably."
+      "example": "Some residents still struggle to get online reliably.",
+      "exampleTranslation": "一些居民仍然难以可靠地上网。"
     },
     {
       "text": "be left behind",
       "cn": "被落下",
-      "example": "Older users should not be left behind as services move online."
+      "example": "Older users should not be left behind as services move online.",
+      "exampleTranslation": "随着服务转移到线上，老年用户不应被抛在后面。"
     },
     {
       "text": "ask someone to walk me through it",
       "cn": "请别人一步步教我",
-      "example": "I asked a colleague to walk me through the booking system."
+      "example": "I asked a colleague to walk me through the booking system.",
+      "exampleTranslation": "我请一位同事一步步教我使用预订系统。"
     },
     {
       "text": "bridge the digital divide",
       "cn": "弥合数字鸿沟",
-      "example": "Affordable broadband alone will not bridge the digital divide."
+      "example": "Affordable broadband alone will not bridge the digital divide.",
+      "exampleTranslation": "仅靠负担得起的宽带并不能弥合数字鸿沟。"
     },
     {
       "text": "ensure equitable access",
       "cn": "确保公平使用机会",
-      "example": "Libraries help ensure equitable access to devices and guidance."
+      "example": "Libraries help ensure equitable access to devices and guidance.",
+      "exampleTranslation": "图书馆有助于确保公平地获取设备和指导。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "develop practical skills",
         "provide trusted support"
       ],
-      "argument": "A broadband cable reaching a street removes one physical barrier but does not pay a monthly bill or teach a resident to recognise fraud. Low-income households may share one phone, while an inexperienced user can abandon a complicated application after a minor error. Libraries and community centres can combine equipment with patient, face-to-face guidance. A learner who completes a real benefits form with support is more likely to repeat the task independently. Policy should therefore measure successful use of essential services rather than coverage alone."
+      "argument": "A broadband cable reaching a street removes one physical barrier but does not pay a monthly bill or teach a resident to recognise fraud. Low-income households may share one phone, while an inexperienced user can abandon a complicated application after a minor error. Libraries and community centres can combine equipment with patient, face-to-face guidance. A learner who completes a real benefits form with support is more likely to repeat the task independently. Policy should therefore measure successful use of essential services rather than coverage alone.",
+      "viewpointTranslation": "数字包容性需要支持，而不仅仅是基础设施。",
+      "topicSentenceTranslation": "只有当人们买得起合适的设备并放心地使用服务时，可靠的连接才有意义。",
+      "collocationTranslations": [
+        "扩大网络覆盖范围",
+        "补贴设备访问",
+        "培养实用技能",
+        "提供值得信赖的支持"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A broadband cable reaching a street removes one physical barrier but does not pay a monthly bill or teach a resident to recognise fraud.",
+          "translation": "到达街道的宽带电缆消除了一个物理障碍，但不会支付每月的账单，也不会教会居民识别欺诈行为。"
+        },
+        {
+          "text": "Low-income households may share one phone, while an inexperienced user can abandon a complicated application after a minor error.",
+          "translation": "低收入家庭可能共用一部手机，而缺乏经验的用户可能会在犯一个小错误后放弃复杂的应用程序。"
+        },
+        {
+          "text": "Libraries and community centres can combine equipment with patient, face-to-face guidance.",
+          "translation": "图书馆和社区中心可以将设备与耐心的面对面指导结合起来。"
+        },
+        {
+          "text": "A learner who completes a real benefits form with support is more likely to repeat the task independently.",
+          "translation": "在支持下完成真实福利表的学习者更有可能独立重复该任务。"
+        },
+        {
+          "text": "Policy should therefore measure successful use of essential services rather than coverage alone.",
+          "translation": "因此，政策应该衡量基本服务的成功使用，而不仅仅是覆盖范围。"
+        }
+      ]
     },
     {
       "viewpoint": "Essential services should retain a workable non-digital route.",
@@ -301,19 +347,107 @@
         "serve users with complex needs",
         "design complementary services"
       ],
-      "argument": "Online systems reduce routine costs and allow many people to complete tasks outside office hours. Nevertheless, disability, language barriers or a lost device can make the same system temporarily unusable. If the only alternative is a long telephone queue, the supposed choice is not genuine. A staffed route can handle exceptional cases and reveal recurring design problems that digital statistics conceal. Maintaining it may cost more per transaction, but it prevents efficiency gains from being achieved by excluding difficult cases."
+      "argument": "Online systems reduce routine costs and allow many people to complete tasks outside office hours. Nevertheless, disability, language barriers or a lost device can make the same system temporarily unusable. If the only alternative is a long telephone queue, the supposed choice is not genuine. A staffed route can handle exceptional cases and reveal recurring design problems that digital statistics conceal. Maintaining it may cost more per transaction, but it prevents efficiency gains from being achieved by excluding difficult cases.",
+      "viewpointTranslation": "基本服务应保留可行的非数字路线。",
+      "topicSentenceTranslation": "数字效率并不能证明医疗保健、福利或法律准入以对技术的信心为条件。",
+      "collocationTranslations": [
+        "保留线下渠道",
+        "避免行政排除",
+        "服务复杂需求的用户",
+        "设计补充服务"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Online systems reduce routine costs and allow many people to complete tasks outside office hours.",
+          "translation": "在线系统降低了日常成本，并允许许多人在办公时间之外完成任务。"
+        },
+        {
+          "text": "Nevertheless, disability, language barriers or a lost device can make the same system temporarily unusable.",
+          "translation": "然而，残疾、语言障碍或设备丢失可能会使同一系统暂时无法使用。"
+        },
+        {
+          "text": "If the only alternative is a long telephone queue, the supposed choice is not genuine.",
+          "translation": "如果唯一的选择是排长队的电话，那么所谓的选择就不是真正的选择。"
+        },
+        {
+          "text": "A staffed route can handle exceptional cases and reveal recurring design problems that digital statistics conceal.",
+          "translation": "配备人员的路线可以处理特殊情况，并揭示数字统计掩盖的反复出现的设计问题。"
+        },
+        {
+          "text": "Maintaining it may cost more per transaction, but it prevents efficiency gains from being achieved by excluding difficult cases.",
+          "translation": "维护它可能会增加每笔交易的成本，但它会阻止通过排除困难案例来实现效率提升。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a time when you helped someone use technology.",
-      "answer": "I helped an older relative make a hospital appointment through a mobile app. She could use messages and video calls, but the identity check was unfamiliar and she was worried that one wrong tap would cancel everything. I sat beside her and explained each screen rather than taking the phone and doing it myself. The most confusing part was a verification code that arrived in a separate message, because the app gave almost no explanation. Once the appointment was confirmed, we wrote down the steps in plain language. A few weeks later she booked another visit without help. The experience showed me that access is not simply owning a smartphone; confidence grows when a system is understandable and support allows someone to remain in control."
+      "answer": "I helped an older relative make a hospital appointment through a mobile app. She could use messages and video calls, but the identity check was unfamiliar and she was worried that one wrong tap would cancel everything. I sat beside her and explained each screen rather than taking the phone and doing it myself. The most confusing part was a verification code that arrived in a separate message, because the app gave almost no explanation. Once the appointment was confirmed, we wrote down the steps in plain language. A few weeks later she booked another visit without help. The experience showed me that access is not simply owning a smartphone; confidence grows when a system is understandable and support allows someone to remain in control.",
+      "questionTranslation": "描述一次您帮助某人使用技术的经历。",
+      "answerSentences": [
+        {
+          "text": "I helped an older relative make a hospital appointment through a mobile app.",
+          "translation": "我帮助一位年长的亲戚通过移动应用程序预约了医院。"
+        },
+        {
+          "text": "She could use messages and video calls, but the identity check was unfamiliar and she was worried that one wrong tap would cancel everything.",
+          "translation": "她可以使用消息和视频通话，但身份检查很陌生，她担心一个错误的点击会取消一切。"
+        },
+        {
+          "text": "I sat beside her and explained each screen rather than taking the phone and doing it myself.",
+          "translation": "我坐在她旁边解释每个屏幕，而不是拿起电话自己做。"
+        },
+        {
+          "text": "The most confusing part was a verification code that arrived in a separate message, because the app gave almost no explanation.",
+          "translation": "最令人困惑的部分是在单独的消息中收到的验证码，因为该应用程序几乎没有给出任何解释。"
+        },
+        {
+          "text": "Once the appointment was confirmed, we wrote down the steps in plain language.",
+          "translation": "预约确定后，我们用通俗易懂的语言写下了步骤。"
+        },
+        {
+          "text": "A few weeks later she booked another visit without help.",
+          "translation": "几周后，她在没有帮助的情况下再次预约了拜访。"
+        },
+        {
+          "text": "The experience showed me that access is not simply owning a smartphone; confidence grows when a system is understandable and support allows someone to remain in control.",
+          "translation": "这次经历告诉我，访问并不只是拥有一部智能手机；而是更重要的事情。当系统易于理解并且支持使某人能够保持控制时，信心就会增强。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Can public libraries reduce digital inequality?",
-      "answer": "They can make a substantial difference, although they cannot solve every cause. Libraries provide computers, stable internet and a safe place to complete applications, which is valuable for people who share devices or have no quiet space at home. Staff can also answer small practical questions that formal training courses often miss. Their opening hours and funding are limitations, and users may need privacy for medical or financial tasks. Even so, a local, trusted access point connects infrastructure with human support. Libraries should be part of a wider strategy that also addresses affordability and accessible service design."
+      "answer": "They can make a substantial difference, although they cannot solve every cause. Libraries provide computers, stable internet and a safe place to complete applications, which is valuable for people who share devices or have no quiet space at home. Staff can also answer small practical questions that formal training courses often miss. Their opening hours and funding are limitations, and users may need privacy for medical or financial tasks. Even so, a local, trusted access point connects infrastructure with human support. Libraries should be part of a wider strategy that also addresses affordability and accessible service design.",
+      "questionTranslation": "公共图书馆可以减少数字不平等吗？",
+      "answerSentences": [
+        {
+          "text": "They can make a substantial difference, although they cannot solve every cause.",
+          "translation": "尽管它们不能解决所有问题，但它们可以产生重大影响。"
+        },
+        {
+          "text": "Libraries provide computers, stable internet and a safe place to complete applications, which is valuable for people who share devices or have no quiet space at home.",
+          "translation": "图书馆提供计算机、稳定的互联网和完成申请的安全场所，这对于共享设备或家里没有安静空间的人来说很有价值。"
+        },
+        {
+          "text": "Staff can also answer small practical questions that formal training courses often miss.",
+          "translation": "工作人员还可以回答正式培训课程经常忽略的小实际问题。"
+        },
+        {
+          "text": "Their opening hours and funding are limitations, and users may need privacy for medical or financial tasks.",
+          "translation": "他们的开放时间和资金都有限制，用户可能需要隐私来完成医疗或财务任务。"
+        },
+        {
+          "text": "Even so, a local, trusted access point connects infrastructure with human support.",
+          "translation": "即便如此，本地可信接入点仍将基础设施与人工支持连接起来。"
+        },
+        {
+          "text": "Libraries should be part of a wider strategy that also addresses affordability and accessible service design.",
+          "translation": "图书馆应该成为更广泛战略的一部分，该战略还涉及可负担性和无障碍服务设计。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +478,95 @@
         "answer": "pass through",
         "explanation": "The final sentence uses this comparison."
       }
+    ],
+    "titleTranslation": "为什么联网家庭可能仍处于离线状态",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "National connectivity statistics usually classify a household according to whether an internet subscription is present.",
+          "translation": "国家连接统计数据通常根据是否存在互联网订阅对家庭进行分类。"
+        },
+        {
+          "text": "The measure is convenient, but it can hide substantial differences in actual use.",
+          "translation": "该措施很方便，但它可能隐藏实际使用中的实质性差异。"
+        },
+        {
+          "text": "One family may have fibre broadband, several computers and confident users; another, recorded in the same connected category, may depend on a limited phone plan shared among adults and children.",
+          "translation": "一个家庭可能拥有光纤宽带、多台电脑和自信的用户；另一种记录在同一连接类别中，可能取决于成人和儿童之间共享的有限电话计划。"
+        }
+      ],
+      [
+        {
+          "text": "Researchers increasingly describe meaningful connectivity through several dimensions: reliability, affordability, device suitability and skill.",
+          "translation": "研究人员越来越多地从几个维度来描述有意义的连接：可靠性、可负担性、设备适用性和技能。"
+        },
+        {
+          "text": "These factors interact.",
+          "translation": "这些因素相互作用。"
+        },
+        {
+          "text": "A school pupil cannot participate fully in a video lesson if the household connection fails repeatedly, yet a stable signal is equally insufficient when homework must be typed on a small screen.",
+          "translation": "如果家庭连接反复出现故障，小学生就无法充分参与视频课程，而当作业必须在小屏幕上打字时，稳定的信号同样是不够的。"
+        },
+        {
+          "text": "Affordability also includes the sacrifices required to maintain access, not simply whether a bill was paid in the survey month.",
+          "translation": "负担能力还包括维持访问所需的牺牲，而不仅仅是调查月份是否支付了账单。"
+        }
+      ],
+      [
+        {
+          "text": "Service design can widen or narrow the gap.",
+          "translation": "服务设计可以扩大或缩小差距。"
+        },
+        {
+          "text": "A government portal that functions on an inexpensive phone, saves incomplete forms and uses clear language places fewer demands on users.",
+          "translation": "在廉价手机上运行、保存不完整表格并使用清晰语言的政府门户网站对用户的要求更少。"
+        },
+        {
+          "text": "By contrast, an application requiring scanned documents and a continuous session assumes access to equipment, time and technical confidence.",
+          "translation": "相比之下，需要扫描文档和连续会话的应用程序需要获得设备、时间和技术信心。"
+        },
+        {
+          "text": "When institutions move online, the characteristics of the service therefore become part of the infrastructure through which access is judged.",
+          "translation": "当机构转向线上时，服务的特征因此成为判断访问的基础设施的一部分。"
+        }
+      ],
+      [
+        {
+          "text": "Community organisations reveal needs that household surveys overlook.",
+          "translation": "社区组织揭示了家庭调查忽视的需求。"
+        },
+        {
+          "text": "Library staff may notice residents repeatedly seeking help with passwords, attachments or identity checks.",
+          "translation": "图书馆工作人员可能会注意到居民反复寻求有关密码、附件或身份检查的帮助。"
+        },
+        {
+          "text": "Such encounters are sometimes counted as successful digital transactions because the final form was submitted.",
+          "translation": "此类遭遇有时被视为成功的数字交易，因为最终表格已提交。"
+        },
+        {
+          "text": "The statistic records the outcome but not the informal labour that made it possible, nor whether the user could repeat the process alone.",
+          "translation": "统计数据记录了结果，但没有记录使之成为可能的非正式劳动，也没有记录用户是否可以单独重复该过程。"
+        }
+      ],
+      [
+        {
+          "text": "A more useful assessment would combine network availability with device data, service usability and evidence of independent completion.",
+          "translation": "更有用的评估将网络可用性与设备数据、服务可用性和独立完成的证据结合起来。"
+        },
+        {
+          "text": "No single indicator will capture every disadvantage, and demanding perfect measurement could delay obvious improvements.",
+          "translation": "没有任何一个指标能够涵盖所有缺点，并且要求完美的测量可能会延迟明显的改进。"
+        },
+        {
+          "text": "Nevertheless, the distinction between connection and participation matters.",
+          "translation": "然而，联系和参与之间的区别很重要。"
+        },
+        {
+          "text": "If policy celebrates the number of households technically online while essential tasks remain impractical, it mistakes the presence of a doorway for the ability to pass through it.",
+          "translation": "如果政策庆祝技术上在线的家庭数量，而基本任务仍然不切实际，那么它就会错误地认为门口的存在是通过它的能力。"
+        }
+      ]
     ]
   }
 }

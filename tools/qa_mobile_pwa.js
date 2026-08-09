@@ -7,6 +7,7 @@ const read = file => fs.readFileSync(path.join(root, file), 'utf8');
 const html = read('index.html');
 const css = read('css/styles.css');
 const swSource = read('service-worker.js');
+const pwaSource = read('js/pwa.js');
 const manifest = JSON.parse(read('manifest.webmanifest'));
 const normalizeCachePath = value => value.startsWith('./') ? value : `./${value}`;
 const htmlLocalResources = [...html.matchAll(/(?:src|href)="([^"]+)"/g)]
@@ -41,6 +42,9 @@ for (const token of ['rel="manifest"', 'apple-mobile-web-app-capable', 'apple-to
 if (!css.includes('@media (min-width:768px) and (max-width:1023px)')) throw new Error('Tablet breakpoint is missing');
 if (!css.includes('@media (max-width:767px)')) throw new Error('Mobile breakpoint is missing');
 if (!css.includes('env(safe-area-inset-bottom)')) throw new Error('iOS safe area handling is missing');
+if (!swSource.includes("const CACHE_NAME = 'ielts-mastery-v2'")) throw new Error('Service worker cache version was not upgraded');
+if (!pwaSource.includes("updateViaCache: 'none'")) throw new Error('Service worker update check may reuse a stale HTTP cache');
+if (!pwaSource.includes("addEventListener('controllerchange'")) throw new Error('The page will not refresh when the new service worker takes control');
 
 const handlers = {};
 let cachedFiles = [];

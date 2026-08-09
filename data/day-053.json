@@ -153,7 +153,8 @@
         "varied",
         "diverse"
       ],
-      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论历史与遗产。"
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论历史与遗产。",
+      "translation": "different 表示不同；distinct、varied 和 diverse 可强调区别、变化或多样性。"
     },
     {
       "base": "common",
@@ -162,7 +163,8 @@
         "frequently observed",
         "part of everyday life"
       ],
-      "note": "widespread 较正式，强调分布广。 本组可用于讨论历史与遗产。"
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论历史与遗产。",
+      "translation": "common 表示常见；widespread、frequently observed 和 part of everyday life 可表达普遍或日常可见。"
     },
     {
       "base": "help",
@@ -171,7 +173,8 @@
         "enable",
         "make it easier to"
       ],
-      "note": "enable 后接宾语和 to do。 本组可用于讨论历史与遗产。"
+      "note": "enable 后接宾语和 to do。 本组可用于讨论历史与遗产。",
+      "translation": "help 表示帮助；assist、enable 和 make it easier to 可用于不同正式程度的语境。"
     },
     {
       "base": "problem",
@@ -180,7 +183,8 @@
         "concern",
         "obstacle"
       ],
-      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论历史与遗产。"
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论历史与遗产。",
+      "translation": "problem 表示问题；challenge、concern 和 obstacle 可分别强调挑战、隐忧或障碍。"
     },
     {
       "base": "change",
@@ -189,7 +193,8 @@
         "development",
         "transformation"
       ],
-      "note": "transformation 表示幅度较大的变化。 本组可用于讨论历史与遗产。"
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论历史与遗产。",
+      "translation": "change 表示变化；shift、development 和 transformation 可表示不同幅度的改变。"
     },
     {
       "base": "important",
@@ -198,7 +203,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论历史与遗产。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论历史与遗产。",
+      "translation": "important 表示重要；significant、crucial 和 essential 可表达不同程度的重要性。"
     },
     {
       "base": "result",
@@ -207,7 +213,8 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论历史与遗产。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论历史与遗产。",
+      "translation": "result 表示结果；outcome、consequence 和 effect 可根据语境替换。"
     },
     {
       "base": "improve",
@@ -216,51 +223,60 @@
         "strengthen",
         "raise the quality of"
       ],
-      "note": "搭配对象不同，不能机械互换。 本组可用于讨论历史与遗产。"
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论历史与遗产。",
+      "translation": "improve 表示改善；enhance、strengthen 和 raise the quality of 可强调提升或加强。"
     }
   ],
   "sentences": [
     {
       "pattern": "Preserving + heritage site + is worthwhile insofar as + present benefit/knowledge.",
       "cn": "保护遗产地之所以值得，在于……。",
-      "example": "Preserving an industrial site is worthwhile insofar as it helps communities understand how work shaped the town."
+      "example": "Preserving an industrial site is worthwhile insofar as it helps communities understand how work shaped the town.",
+      "exampleTranslation": "只要保护工业遗址能帮助社区理解工作如何塑造城镇，这种保护就有价值。"
     },
     {
       "pattern": "The absence of + physical evidence + makes it harder to + historical action.",
       "cn": "缺少实物证据使某种历史行为更困难。",
-      "example": "The absence of workers’ housing makes it harder to interpret the factory as a social system."
+      "example": "The absence of workers’ housing makes it harder to interpret the factory as a social system.",
+      "exampleTranslation": "缺少工人住房，使人们更难把工厂理解为一个社会系统。"
     },
     {
       "pattern": "Rather than restoring + building + to one chosen date, conservators may + layered approach.",
       "cn": "保护人员不把建筑恢复到某一日期，而可能采取分层方法。",
-      "example": "Rather than restoring the house to one chosen date, conservators may retain evidence from several periods."
+      "example": "Rather than restoring the house to one chosen date, conservators may retain evidence from several periods.",
+      "exampleTranslation": "保护人员可以保留多个时期的证据，而不是把房屋恢复到某个选定年代。"
     }
   ],
   "expressions": [
     {
       "text": "trace something back to",
       "cn": "追溯到",
-      "example": "The settlement can be traced back to the twelfth century."
+      "example": "The settlement can be traced back to the twelfth century.",
+      "exampleTranslation": "这处聚居地的历史可以追溯到十二世纪。"
     },
     {
       "text": "stand the test of time",
       "cn": "经受时间考验",
-      "example": "The bridge has stood the test of time."
+      "example": "The bridge has stood the test of time.",
+      "exampleTranslation": "这座桥经受住了时间考验。"
     },
     {
       "text": "preserve for future generations",
       "cn": "为后代保存",
-      "example": "Archives preserve fragile records for future generations."
+      "example": "Archives preserve fragile records for future generations.",
+      "exampleTranslation": "档案馆为后代保存脆弱记录。"
     },
     {
       "text": "shed light on the past",
       "cn": "揭示过去",
-      "example": "Household accounts shed light on ordinary life."
+      "example": "Household accounts shed light on ordinary life.",
+      "exampleTranslation": "家庭账目揭示了普通人的生活。"
     },
     {
       "text": "strike a balance between old and new",
       "cn": "在新旧之间取得平衡",
-      "example": "The project strikes a balance between old and new uses."
+      "example": "The project strikes a balance between old and new uses.",
+      "exampleTranslation": "这个项目在新旧用途之间取得了平衡。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "fund ongoing maintenance",
         "serve a contemporary use"
       ],
-      "argument": "A protected structure without a practical use may deteriorate while funds are repeatedly sought for emergency repair. Conversion into housing, workshops or public space can create income and regular oversight. New work should remain distinguishable and avoid destroying features that explain historical significance. Not every building can accept every function, and some places deserve limited access. Where compatible use exists, occupation can be a form of conservation rather than a threat to it."
+      "argument": "A protected structure without a practical use may deteriorate while funds are repeatedly sought for emergency repair. Conversion into housing, workshops or public space can create income and regular oversight. New work should remain distinguishable and avoid destroying features that explain historical significance. Not every building can accept every function, and some places deserve limited access. Where compatible use exists, occupation can be a form of conservation rather than a threat to it.",
+      "viewpointTranslation": "适应性再利用比闲置式保护更能维持遗产。",
+      "topicSentenceTranslation": "为老建筑赋予兼容功能，可以资助维护并使其继续成为日常生活的一部分。",
+      "collocationTranslations": [
+        "改造历史建筑",
+        "保留重要特征",
+        "资助持续维护",
+        "服务当代用途"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A protected structure without a practical use may deteriorate while funds are repeatedly sought for emergency repair.",
+          "translation": "没有实际用途的受保护建筑可能不断恶化，同时反复寻求资金进行紧急维修。"
+        },
+        {
+          "text": "Conversion into housing, workshops or public space can create income and regular oversight.",
+          "translation": "把它改造成住房、工坊或公共空间，可以创造收入并获得定期监管。"
+        },
+        {
+          "text": "New work should remain distinguishable and avoid destroying features that explain historical significance.",
+          "translation": "新工程应保持可辨识，并避免破坏解释历史意义的特征。"
+        },
+        {
+          "text": "Not every building can accept every function, and some places deserve limited access.",
+          "translation": "并非每栋建筑都能接受每种功能，有些地方也确实应限制进入。"
+        },
+        {
+          "text": "Where compatible use exists, occupation can be a form of conservation rather than a threat to it.",
+          "translation": "如果存在兼容用途，使用建筑可以是一种保护方式，而不是威胁。"
+        }
+      ]
     },
     {
       "viewpoint": "Heritage decisions should include difficult histories.",
@@ -301,19 +347,91 @@
         "include marginalised voices",
         "support informed interpretation"
       ],
-      "argument": "Factories, prisons and colonial sites may record exploitation as well as achievement. Removing uncomfortable evidence can make later understanding dependent on abstract text and allow communities to deny what occurred. Interpretation should include affected groups and distinguish explanation from celebration. Preserving a place does not endorse every value associated with it. It creates an opportunity to examine how past institutions shaped present conditions and responsibilities."
+      "argument": "Factories, prisons and colonial sites may record exploitation as well as achievement. Removing uncomfortable evidence can make later understanding dependent on abstract text and allow communities to deny what occurred. Interpretation should include affected groups and distinguish explanation from celebration. Preserving a place does not endorse every value associated with it. It creates an opportunity to examine how past institutions shaped present conditions and responsibilities.",
+      "viewpointTranslation": "遗产决策应纳入令人不适的历史。",
+      "topicSentenceTranslation": "公共保护不应只选择能带来自豪感或吸引游客的故事。",
+      "collocationTranslations": [
+        "正视艰难过去",
+        "保存实物证据",
+        "纳入边缘群体声音",
+        "支持知情解读"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Factories, prisons and colonial sites may record exploitation as well as achievement.",
+          "translation": "工厂、监狱和殖民遗址记录的可能既有成就，也有剥削。"
+        },
+        {
+          "text": "Removing uncomfortable evidence can make later understanding dependent on abstract text and allow communities to deny what occurred.",
+          "translation": "移除令人不适的证据会让后人只能依赖抽象文字来理解，并让社区有机会否认曾经发生的事情。"
+        },
+        {
+          "text": "Interpretation should include affected groups and distinguish explanation from celebration.",
+          "translation": "解读应纳入受影响群体，并区分解释与赞颂。"
+        },
+        {
+          "text": "Preserving a place does not endorse every value associated with it.",
+          "translation": "保存一个地方并不表示赞同与其相关的所有价值观。"
+        },
+        {
+          "text": "It creates an opportunity to examine how past institutions shaped present conditions and responsibilities.",
+          "translation": "它创造了一个机会，让人审视过去的制度如何塑造今天的状况和责任。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Are there many historic places where you live?",
-      "answer": "There are several older streets and one former industrial area, although many individual buildings have been replaced. I enjoy places where traces of different periods remain visible rather than everything being restored to look new. Clear information helps because an ordinary wall may have an interesting history that is easy to miss."
+      "answer": "There are several older streets and one former industrial area, although many individual buildings have been replaced. I enjoy places where traces of different periods remain visible rather than everything being restored to look new. Clear information helps because an ordinary wall may have an interesting history that is easy to miss.",
+      "questionTranslation": "你居住的地方有很多历史场所吗？",
+      "answerSentences": [
+        {
+          "text": "There are several older streets and one former industrial area, although many individual buildings have been replaced.",
+          "translation": "那里有几条较古老的街道和一个旧工业区，尽管许多单栋建筑已经被替换。"
+        },
+        {
+          "text": "I enjoy places where traces of different periods remain visible rather than everything being restored to look new.",
+          "translation": "我喜欢不同年代的痕迹仍然可见的地方，而不是把一切都修复得崭新。"
+        },
+        {
+          "text": "Clear information helps because an ordinary wall may have an interesting history that is easy to miss.",
+          "translation": "清晰的信息很有帮助，因为一面普通墙壁可能有容易被忽略的有趣历史。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a historic place you would like to visit.",
-      "answer": "I would like to visit an ancient trading city whose streets and warehouses reflect contact between several cultures. I am interested less in one famous monument than in how the harbour, markets, places of worship and homes fitted together. I would join a guided walk because the remaining stones probably make little sense without maps and explanation. I would also like to see objects recovered through archaeology, especially everyday tools and records of trade. The place appeals to me because history there was created by movement and exchange rather than by a single ruler. Visiting would help me connect broad historical claims with the physical distances and practical systems that made trade possible."
+      "answer": "I would like to visit an ancient trading city whose streets and warehouses reflect contact between several cultures. I am interested less in one famous monument than in how the harbour, markets, places of worship and homes fitted together. I would join a guided walk because the remaining stones probably make little sense without maps and explanation. I would also like to see objects recovered through archaeology, especially everyday tools and records of trade. The place appeals to me because history there was created by movement and exchange rather than by a single ruler. Visiting would help me connect broad historical claims with the physical distances and practical systems that made trade possible.",
+      "questionTranslation": "描述一个你想游览的历史场所。",
+      "answerSentences": [
+        {
+          "text": "I would like to visit an ancient trading city whose streets and warehouses reflect contact between several cultures.",
+          "translation": "我想参观一座古代贸易城市，那里的街道和仓库反映了多种文化之间的接触。"
+        },
+        {
+          "text": "I am interested less in one famous monument than in how the harbour, markets, places of worship and homes fitted together.",
+          "translation": "与某座著名纪念碑相比，我更感兴趣的是港口、市场、宗教场所和住宅如何共同运作。"
+        },
+        {
+          "text": "I would join a guided walk because the remaining stones probably make little sense without maps and explanation.",
+          "translation": "我会参加导览步行，因为如果没有地图和解释，残存的石块可能没有多大意义。"
+        },
+        {
+          "text": "I would also like to see objects recovered through archaeology, especially everyday tools and records of trade.",
+          "translation": "我还想看看考古发现的物品，尤其是日常工具和贸易记录。"
+        },
+        {
+          "text": "The place appeals to me because history there was created by movement and exchange rather than by a single ruler.",
+          "translation": "这个地方吸引我，是因为那里的历史由流动和交流创造，而不是由单一统治者创造。"
+        },
+        {
+          "text": "Visiting would help me connect broad historical claims with the physical distances and practical systems that made trade possible.",
+          "translation": "参观会帮助我把宏观历史论述与促成贸易的实际距离和现实系统联系起来。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +462,119 @@
         "answer": "They should be clearly marked.",
         "explanation": "Paragraph 3 states this."
       }
+    ],
+    "titleTranslation": "被修复到一个从未存在过的年代的建筑",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Restoration often promises to return a building to its original appearance.",
+          "translation": "修复工作常承诺让建筑恢复原貌。"
+        },
+        {
+          "text": "The phrase sounds precise, but long-lived buildings rarely have one authentic state.",
+          "translation": "这个说法听起来精确，但长期存在的建筑很少只有一种真实状态。"
+        },
+        {
+          "text": "A house may gain a new staircase, lose a workshop and acquire windows over three centuries.",
+          "translation": "一栋房屋可能在三个世纪中增加新楼梯、失去工坊并装上窗户。"
+        },
+        {
+          "text": "Choosing which period to reveal is an interpretation, not a reversal of time.",
+          "translation": "选择展示哪个时期是一种解释，而不是让时间倒流。"
+        }
+      ],
+      [
+        {
+          "text": "Earlier restorers sometimes removed later additions to create stylistic unity.",
+          "translation": "早期修复者有时会移除后期增建部分，以形成风格统一。"
+        },
+        {
+          "text": "Their work preserved important structures but also erased evidence of changing use.",
+          "translation": "他们的工作保存了重要结构，却也抹去了用途变化的证据。"
+        },
+        {
+          "text": "A medieval wall and a twentieth-century repair can both explain how a community valued and adapted the place.",
+          "translation": "一堵中世纪墙壁和一次二十世纪维修，都能说明社区如何重视并调整这个地方。"
+        },
+        {
+          "text": "Conservation now often favours minimum intervention, retaining sound material while documenting necessary change.",
+          "translation": "如今，保护工作常倾向于最小干预，在保留完好材料的同时记录必要改变。"
+        }
+      ],
+      [
+        {
+          "text": "Visitors may find layered buildings harder to understand.",
+          "translation": "参观者可能觉得层次复杂的建筑更难理解。"
+        },
+        {
+          "text": "Different floor levels, blocked doors and exposed fragments require explanation.",
+          "translation": "不同的楼层高度、封闭的门和裸露的残片都需要解释。"
+        },
+        {
+          "text": "Digital reconstruction can show several phases without rebuilding any one of them physically.",
+          "translation": "数字重建可以展示多个阶段，而无需在实体上重建其中任何一个。"
+        },
+        {
+          "text": "However, vivid images may appear more certain than the archaeological evidence allows, so hypothetical elements should be clearly marked.",
+          "translation": "然而，生动图像可能显得比考古证据所允许的更确定，因此应清楚标明假设性元素。"
+        }
+      ],
+      [
+        {
+          "text": "Function adds another layer.",
+          "translation": "功能又增加了一个层面。"
+        },
+        {
+          "text": "Modern safety, heating and accessibility standards require alteration if a building is to be used.",
+          "translation": "如果建筑要投入使用，现代安全、供暖和无障碍标准就要求作出改动。"
+        },
+        {
+          "text": "A discreet lift may change historic fabric while enabling visitors who were previously excluded.",
+          "translation": "一部不显眼的电梯可能改变历史构造，却能让以前被排除的参观者进入。"
+        },
+        {
+          "text": "Conservators weigh significance, reversibility and public benefit rather than applying a rule that all new material is harmful.",
+          "translation": "保护人员会权衡重要性、可逆性和公共利益，而不是套用所有新材料都有害的规则。"
+        }
+      ],
+      [
+        {
+          "text": "The result may look less perfect than a complete reconstruction.",
+          "translation": "最终结果可能不如完整重建那样完美。"
+        },
+        {
+          "text": "Its irregularities are part of the evidence.",
+          "translation": "其中的不规则本身就是证据的一部分。"
+        },
+        {
+          "text": "A building that shows successive choices allows visitors to ask why people repaired, divided or abandoned spaces.",
+          "translation": "一栋展现历次选择的建筑，让参观者能够追问人们为何维修、分隔或废弃不同空间。"
+        },
+        {
+          "text": "Conservation protects this capacity to investigate.",
+          "translation": "保护工作维护的正是这种探究能力。"
+        },
+        {
+          "text": "It does not manufacture a visually consistent past that the building itself never experienced.",
+          "translation": "它不会制造一个建筑本身从未经历过、视觉上统一的过去。"
+        },
+        {
+          "text": "Maintenance records are themselves historical evidence.",
+          "translation": "维护记录本身也是历史证据。"
+        },
+        {
+          "text": "Notes about leaking roofs, scarce materials or disputed repairs show how later generations understood the building.",
+          "translation": "有关屋顶漏水、材料短缺或维修争议的记录，能说明后世如何理解这栋建筑。"
+        },
+        {
+          "text": "Archiving surveys and intervention decisions enables future conservators to distinguish old fabric from modern assumptions.",
+          "translation": "把调查和干预决定存档，可以让未来的保护人员区分旧有构造与现代推断。"
+        },
+        {
+          "text": "Without that record, a careful repair can become another unexplained layer that later specialists mistakenly treat as original.",
+          "translation": "如果没有这些记录，一次谨慎维修也可能成为另一个无法解释的层次，被后来的专家误认为原始部分。"
+        }
+      ]
     ]
   }
 }

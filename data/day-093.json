@@ -153,7 +153,8 @@
         "universal entitlements",
         "protections owed to every person"
       ],
-      "note": "entitlement指应有权利。"
+      "note": "entitlement指应有权利。",
+      "translation": "基本权利，也可表达为基本自由、普遍权利或每个人都应享有的保障。"
     },
     {
       "base": "treat people equally",
@@ -162,7 +163,8 @@
         "apply rules without discrimination",
         "give comparable cases comparable consideration"
       ],
-      "note": "equal不等于忽视不同需求。"
+      "note": "equal不等于忽视不同需求。",
+      "translation": "平等对待人们，也可表达为确保平等待遇、避免歧视或在相同情况下公平对待。"
     },
     {
       "base": "say what you think",
@@ -171,7 +173,8 @@
         "voice an opinion openly",
         "communicate ideas without improper interference"
       ],
-      "note": "freedom并非无限制。"
+      "note": "freedom并非无限制。",
+      "translation": "表达自己的看法，也可表达为言论自由、公开发表意见或表达个人观点。"
     },
     {
       "base": "private information",
@@ -180,7 +183,8 @@
         "information about an individual",
         "data linked to an identifiable person"
       ],
-      "note": "personal data是法律常用语。"
+      "note": "personal data是法律常用语。",
+      "translation": "私人信息，也可表达为个人数据、保密资料或有关个人身份和生活的信息。"
     },
     {
       "base": "unfair treatment",
@@ -189,7 +193,8 @@
         "unequal treatment without justification",
         "disadvantage based on a protected characteristic"
       ],
-      "note": "discrimination需有具体依据。"
+      "note": "discrimination需有具体依据。",
+      "translation": "不公平待遇，也可表达为歧视、不公正对待或权利受到侵犯。"
     },
     {
       "base": "complain officially",
@@ -198,7 +203,8 @@
         "pursue a legal remedy",
         "challenge a decision through formal channels"
       ],
-      "note": "redress指纠正或补救。"
+      "note": "redress指纠正或补救。",
+      "translation": "正式投诉，也可表达为提出申诉、提交正式投诉或启动申诉程序。"
     },
     {
       "base": "make government explain",
@@ -207,7 +213,8 @@
         "require authorities to justify decisions",
         "subject official action to scrutiny"
       ],
-      "note": "scrutiny强调仔细审查。"
+      "note": "scrutiny强调仔细审查。",
+      "translation": "要求政府作出解释，也可表达为追究政府责任、要求公开理由或获得决策说明。"
     },
     {
       "base": "protect workers",
@@ -216,51 +223,60 @@
         "enforce workplace protections",
         "ensure decent and lawful working conditions"
       ],
-      "note": "enforce强调真正执行。"
+      "note": "enforce强调真正执行。",
+      "translation": "保护劳动者，也可表达为保障劳动权利、执行工作场所标准或防止员工受到剥削。"
     }
   ],
   "sentences": [
     {
       "pattern": "A restriction on + freedom + may be justified only when it is + legal test + and no broader than necessary.",
       "cn": "对某项自由的限制，只有符合法律标准且不超过必要范围时才可能合理。",
-      "example": "A restriction on public assembly may be justified only when it is lawful and no broader than necessary."
+      "example": "A restriction on public assembly may be justified only when it is lawful and no broader than necessary.",
+      "exampleTranslation": "只有当对公共集会的限制合法且不超出必要范围时，它才可能是合理的。"
     },
     {
       "pattern": "People whose + right or interest + is affected should be able to + challenge + before + independent body.",
       "cn": "权利或利益受到影响的人，应能在独立机构面前对相关决定提出异议。",
-      "example": "People whose benefits are withdrawn should be able to challenge the decision before an independent tribunal."
+      "example": "People whose benefits are withdrawn should be able to challenge the decision before an independent tribunal.",
+      "exampleTranslation": "福利被取消的人应能够向独立仲裁机构质疑该决定。"
     },
     {
       "pattern": "It is not enough for + right + to exist on paper; + responsible actor + must also + practical guarantee.",
       "cn": "某项权利仅写在纸面上还不够，责任主体还必须提供实际保障。",
-      "example": "It is not enough for labour rights to exist on paper; inspectors must also enforce them consistently."
+      "example": "It is not enough for labour rights to exist on paper; inspectors must also enforce them consistently.",
+      "exampleTranslation": "劳动权利仅存在于纸面上还不够；检查人员还必须持续一致地执行它们。"
     }
   ],
   "expressions": [
     {
       "text": "stand up for someone’s rights",
       "cn": "维护某人的权利",
-      "example": "A union can stand up for workers’ rights."
+      "example": "A union can stand up for workers’ rights.",
+      "exampleTranslation": "工会可以维护劳动者的权利。"
     },
     {
       "text": "have a say in decisions",
       "cn": "在决策中有发言权",
-      "example": "Residents should have a say in decisions affecting their homes."
+      "example": "Residents should have a say in decisions affecting their homes.",
+      "exampleTranslation": "居民应有权参与影响其住所的决定。"
     },
     {
       "text": "be free from discrimination",
       "cn": "免受歧视",
-      "example": "Everyone should be free from discrimination at work."
+      "example": "Everyone should be free from discrimination at work.",
+      "exampleTranslation": "每个人都应免受工作场所歧视。"
     },
     {
       "text": "provide an effective remedy",
       "cn": "提供有效救济",
-      "example": "Courts must provide an effective remedy for unlawful treatment."
+      "example": "Courts must provide an effective remedy for unlawful treatment.",
+      "exampleTranslation": "法院必须为非法待遇提供有效补救。"
     },
     {
       "text": "subject power to independent scrutiny",
       "cn": "使权力接受独立审查",
-      "example": "A free press can subject power to independent scrutiny."
+      "example": "A free press can subject power to independent scrutiny.",
+      "exampleTranslation": "新闻自由可以让权力接受独立监督。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "establish independent review",
         "offer an effective remedy"
       ],
-      "argument": "A worker may formally be protected from discrimination yet lack the money or information needed to file a complaint. Free advice, simple procedures and protection against retaliation turn an abstract rule into a usable safeguard. Independent review is equally important because the institution accused of unfairness should not be the final judge of its own conduct. For example, an ombudsman can resolve some disputes without the cost of a full court case. Rights become credible when violations lead to investigation and practical correction."
+      "argument": "A worker may formally be protected from discrimination yet lack the money or information needed to file a complaint. Free advice, simple procedures and protection against retaliation turn an abstract rule into a usable safeguard. Independent review is equally important because the institution accused of unfairness should not be the final judge of its own conduct. For example, an ombudsman can resolve some disputes without the cost of a full court case. Rights become credible when violations lead to investigation and practical correction.",
+      "viewpointTranslation": "权利需要可获得的补救途径。",
+      "topicSentenceTranslation": "当普通人无法质疑权利受到侵害时，法律承诺的价值十分有限。",
+      "collocationTranslations": [
+        "确保诉诸司法的机会",
+        "提供法律援助",
+        "建立独立复审",
+        "提供有效补救"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A worker may formally be protected from discrimination yet lack the money or information needed to file a complaint.",
+          "translation": "劳动者可能在形式上受到反歧视保护，却缺少提出投诉所需的金钱或信息。"
+        },
+        {
+          "text": "Free advice, simple procedures and protection against retaliation turn an abstract rule into a usable safeguard.",
+          "translation": "免费建议、简单程序和防止报复的保护，能够把抽象规则变成可用的保障。"
+        },
+        {
+          "text": "Independent review is equally important because the institution accused of unfairness should not be the final judge of its own conduct.",
+          "translation": "独立复审同样重要，因为被指控不公的机构不应成为自身行为的最终裁判者。"
+        },
+        {
+          "text": "For example, an ombudsman can resolve some disputes without the cost of a full court case.",
+          "translation": "例如，监察专员可以在无需承担完整诉讼费用的情况下解决一些争议。"
+        },
+        {
+          "text": "Rights become credible when violations lead to investigation and practical correction.",
+          "translation": "当侵权行为会引发调查和实际纠正时，权利才真正可信。"
+        }
+      ]
     },
     {
       "viewpoint": "Privacy rules must allow proportionate public-interest uses of data.",
@@ -301,19 +347,103 @@
         "remove identifying details",
         "apply a proportionality test"
       ],
-      "argument": "Health researchers may need large datasets to detect patterns that no individual record reveals. A complete ban on access could delay useful findings, whereas unrestricted access would expose people to misuse. Data minimisation, secure storage and independent approval offer a middle course, particularly when researchers remove identifying details. The stricter the intrusion, the stronger the public justification should be. Privacy is best protected through controlled and accountable use, not through the unrealistic assumption that data can never serve a collective purpose."
+      "argument": "Health researchers may need large datasets to detect patterns that no individual record reveals. A complete ban on access could delay useful findings, whereas unrestricted access would expose people to misuse. Data minimisation, secure storage and independent approval offer a middle course, particularly when researchers remove identifying details. The stricter the intrusion, the stronger the public justification should be. Privacy is best protected through controlled and accountable use, not through the unrealistic assumption that data can never serve a collective purpose.",
+      "viewpointTranslation": "隐私规则应允许符合比例原则的公共利益数据用途。",
+      "topicSentenceTranslation": "保护个人信息并不意味着要阻止每一种具有社会价值的数据分析。",
+      "collocationTranslations": [
+        "获得知情同意",
+        "尽量减少数据收集",
+        "删除身份识别信息",
+        "采用比例原则检验"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Health researchers may need large datasets to detect patterns that no individual record reveals.",
+          "translation": "健康研究人员可能需要大型数据集来发现任何个人记录都无法揭示的规律。"
+        },
+        {
+          "text": "A complete ban on access could delay useful findings, whereas unrestricted access would expose people to misuse.",
+          "translation": "完全禁止访问可能延误有用发现，而不受限制的访问又会使人们面临滥用风险。"
+        },
+        {
+          "text": "Data minimisation, secure storage and independent approval offer a middle course, particularly when researchers remove identifying details.",
+          "translation": "数据最小化、安全存储和独立审批提供了一条中间道路，尤其是在研究人员删除身份识别信息时。"
+        },
+        {
+          "text": "The stricter the intrusion, the stronger the public justification should be.",
+          "translation": "侵犯程度越高，公共利益理由就应越充分。"
+        },
+        {
+          "text": "Privacy is best protected through controlled and accountable use, not through the unrealistic assumption that data can never serve a collective purpose.",
+          "translation": "保护隐私的最佳方式是受控且可问责地使用数据，而不是不切实际地假定数据永远不能服务于共同目标。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a situation in which you thought someone was treated fairly.",
-      "answer": "I once saw a manager handle a dispute about weekend shifts in a fair way. Two employees both wanted the same day off, and instead of deciding privately, she explained the staffing requirements and checked the leave record for the previous months. One person had covered several unpopular shifts recently, while the other had received first choice twice. She gave the day off to the first employee but also let the second choose a later weekend. Not everyone got exactly what they wanted, yet the reasons were clear and relevant. I thought that transparency mattered as much as the outcome because both employees could see that personal favouritism had not influenced the decision."
+      "answer": "I once saw a manager handle a dispute about weekend shifts in a fair way. Two employees both wanted the same day off, and instead of deciding privately, she explained the staffing requirements and checked the leave record for the previous months. One person had covered several unpopular shifts recently, while the other had received first choice twice. She gave the day off to the first employee but also let the second choose a later weekend. Not everyone got exactly what they wanted, yet the reasons were clear and relevant. I thought that transparency mattered as much as the outcome because both employees could see that personal favouritism had not influenced the decision.",
+      "questionTranslation": "请描述一次你认为某人受到公平对待的情形。",
+      "answerSentences": [
+        {
+          "text": "I once saw a manager handle a dispute about weekend shifts in a fair way.",
+          "translation": "我曾看到一位经理公平处理周末排班争议。"
+        },
+        {
+          "text": "Two employees both wanted the same day off, and instead of deciding privately, she explained the staffing requirements and checked the leave record for the previous months.",
+          "translation": "两名员工都想在同一天休假，她没有私下决定，而是说明人员配置要求，并查看了前几个月的休假记录。"
+        },
+        {
+          "text": "One person had covered several unpopular shifts recently, while the other had received first choice twice.",
+          "translation": "其中一人最近承担过几个不受欢迎的班次，另一人则已经两次优先选择。"
+        },
+        {
+          "text": "She gave the day off to the first employee but also let the second choose a later weekend.",
+          "translation": "她让第一名员工当天休假，同时让第二名员工选择之后的一个周末。"
+        },
+        {
+          "text": "Not everyone got exactly what they wanted, yet the reasons were clear and relevant.",
+          "translation": "不是每个人都得到了自己想要的一切，但理由清晰且与决定相关。"
+        },
+        {
+          "text": "I thought that transparency mattered as much as the outcome because both employees could see that personal favouritism had not influenced the decision.",
+          "translation": "我认为透明度与结果同样重要，因为两名员工都能看出个人偏袒没有影响决定。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Why is it difficult to balance freedom of expression with protection from harm?",
-      "answer": "Expression can offend or challenge people without necessarily causing a harm that the law should prevent. At the same time, direct threats, targeted harassment and deliberate incitement can make others unsafe or silence their participation. The difficult task is drawing a rule narrowly enough to address serious harm without allowing authorities to suppress criticism simply because it is uncomfortable. Context, intention and likely impact all matter. Independent courts and clear definitions help, although disagreement will remain. A healthy society needs both room for robust debate and effective protection when speech becomes a tool of intimidation."
+      "answer": "Expression can offend or challenge people without necessarily causing a harm that the law should prevent. At the same time, direct threats, targeted harassment and deliberate incitement can make others unsafe or silence their participation. The difficult task is drawing a rule narrowly enough to address serious harm without allowing authorities to suppress criticism simply because it is uncomfortable. Context, intention and likely impact all matter. Independent courts and clear definitions help, although disagreement will remain. A healthy society needs both room for robust debate and effective protection when speech becomes a tool of intimidation.",
+      "questionTranslation": "为什么很难在言论自由与免受伤害之间取得平衡？",
+      "answerSentences": [
+        {
+          "text": "Expression can offend or challenge people without necessarily causing a harm that the law should prevent.",
+          "translation": "言论可能冒犯或挑战他人，却不一定造成法律应当阻止的伤害。"
+        },
+        {
+          "text": "At the same time, direct threats, targeted harassment and deliberate incitement can make others unsafe or silence their participation.",
+          "translation": "与此同时，直接威胁、针对性骚扰和蓄意煽动可能使他人陷入不安全，或迫使他们无法参与。"
+        },
+        {
+          "text": "The difficult task is drawing a rule narrowly enough to address serious harm without allowing authorities to suppress criticism simply because it is uncomfortable.",
+          "translation": "难点在于把规则划得足够狭窄，只处理严重伤害，而不让当局仅因批评令人不适就加以压制。"
+        },
+        {
+          "text": "Context, intention and likely impact all matter.",
+          "translation": "语境、意图和可能影响都很重要。"
+        },
+        {
+          "text": "Independent courts and clear definitions help, although disagreement will remain.",
+          "translation": "独立法院和清晰定义有所帮助，不过分歧仍会存在。"
+        },
+        {
+          "text": "A healthy society needs both room for robust debate and effective protection when speech becomes a tool of intimidation.",
+          "translation": "健康的社会既需要充分开展有力辩论的空间，也需要在言论成为恐吓工具时提供有效保护。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +480,99 @@
         "answer": "software",
         "explanation": "Paragraph 4 makes this distinction explicitly."
       }
+    ],
+    "titleTranslation": "获得解释的权利",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A housing authority introduced a computer model to rank applications for emergency accommodation.",
+          "translation": "一家住房管理机构引入计算机模型，为紧急住宿申请排序。"
+        },
+        {
+          "text": "Staff entered income, family size, health information and current living conditions; the system then produced a priority score.",
+          "translation": "工作人员输入收入、家庭人数、健康信息和当前居住条件；系统随后生成优先级分数。"
+        },
+        {
+          "text": "Officials expected greater consistency than individual judgement could provide.",
+          "translation": "官员希望它比个人判断更一致。"
+        },
+        {
+          "text": "Within months, however, advisers noticed that some applicants received unexpectedly low rankings and could not discover why.",
+          "translation": "然而几个月内，顾问发现一些申请人得到意外偏低的排名，却无法查明原因。"
+        }
+      ],
+      [
+        {
+          "text": "The authority initially argued that the model was only an administrative tool.",
+          "translation": "该机构起初辩称，这个模型只是一种行政工具。"
+        },
+        {
+          "text": "Yet its score strongly shaped who obtained a scarce home, and caseworkers rarely departed from it.",
+          "translation": "然而，它的分数强烈影响谁能获得稀缺住房，而个案工作人员很少偏离分数。"
+        },
+        {
+          "text": "Applicants could appeal the final decision, but an appeal stating merely that the result felt wrong had little chance of success.",
+          "translation": "申请人可以申诉最终决定，但只说结果感觉不对的申诉几乎不可能成功。"
+        },
+        {
+          "text": "To challenge an error, a person needed to know whether the system had used inaccurate data, assigned inappropriate weight to a factor or applied a rule unlawfully.",
+          "translation": "要质疑错误，当事人需要知道系统是否使用了不准确信息、是否赋予某个因素不恰当的权重，或是否违法应用了规则。"
+        }
+      ],
+      [
+        {
+          "text": "An independent review examined a substantial sample of cases.",
+          "translation": "一次独立审查检查了大量个案样本。"
+        },
+        {
+          "text": "It found no evidence that programmers had deliberately encoded discrimination, but missing health records were treated as if no health need existed.",
+          "translation": "审查没有发现程序员故意写入歧视的证据，但缺失的健康记录被当作没有健康需求处理。"
+        },
+        {
+          "text": "This affected applicants whose clinics submitted information slowly, a problem more common in poorly served districts.",
+          "translation": "这影响了诊所提交信息较慢的申请人，而这一问题在服务不足地区更常见。"
+        },
+        {
+          "text": "A technically identical rule thus produced unequal consequences because the underlying administrative conditions were not identical.",
+          "translation": "因此，一条技术上完全相同的规则产生了不平等后果，因为基础行政条件并不相同。"
+        }
+      ],
+      [
+        {
+          "text": "The review recommended that each applicant receive a plain-language account of the major factors influencing the score.",
+          "translation": "审查建议让每位申请人获得一份通俗说明，解释影响分数的主要因素。"
+        },
+        {
+          "text": "Officials worried that publishing the complete model would enable manipulation and reveal security details.",
+          "translation": "官员担心公布完整模型会让人钻空子并暴露安全细节。"
+        },
+        {
+          "text": "The reviewers did not demand complete publication.",
+          "translation": "审查人员并未要求完整公开。"
+        },
+        {
+          "text": "They distinguished transparency about an individual decision from disclosure of every line of software: a meaningful explanation could identify decisive information, correction routes and the role of human review.",
+          "translation": "他们区分了个人决定的透明度与披露每一行软件代码：有意义的解释可以指出决定性信息、纠错途径和人工复审的作用。"
+        }
+      ],
+      [
+        {
+          "text": "After the change, appeals initially increased, largely because applicants corrected missing records.",
+          "translation": "改革后，申诉最初增加，主要是因为申请人纠正了缺失记录。"
+        },
+        {
+          "text": "After an initial rise, they later fell below their former level, while caseworkers reported greater confidence in departing from scores that conflicted with verified evidence.",
+          "translation": "短暂上升后，申诉数量随后降到原先水平以下，同时个案工作人员表示，在分数与经核实证据冲突时，他们更有信心偏离分数。"
+        },
+        {
+          "text": "The lesson was not that automated decisions are inherently unjust.",
+          "translation": "教训并不是自动化决定天然不公。"
+        },
+        {
+          "text": "It was that when a system exercises practical power over a person, consistency cannot replace the person’s ability to understand and contest an error.",
+          "translation": "而是当系统对个人行使实际权力时，一致性不能取代个人理解并质疑错误的能力。"
+        }
+      ]
     ]
   }
 }

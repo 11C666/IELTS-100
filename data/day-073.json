@@ -153,7 +153,8 @@
         "renewable generation",
         "energy with limited emissions"
       ],
-      "note": "low-carbon 可包括核能，不完全等同 renewable。"
+      "note": "low-carbon 可包括核能，不完全等同 renewable。",
+      "translation": "清洁能源"
     },
     {
       "base": "depend on coal",
@@ -162,7 +163,8 @@
         "remain reliant on coal",
         "derive electricity mainly from coal"
       ],
-      "note": "derive from 适合说明能源来源。"
+      "note": "derive from 适合说明能源来源。",
+      "translation": "依赖煤炭"
     },
     {
       "base": "use less power",
@@ -171,7 +173,8 @@
         "improve efficiency",
         "curb electricity demand"
       ],
-      "note": "efficiency 指用更少能源取得同样服务。"
+      "note": "efficiency 指用更少能源取得同样服务。",
+      "translation": "减少用电"
     },
     {
       "base": "unreliable supply",
@@ -180,7 +183,8 @@
         "frequent disruption",
         "insecure electricity provision"
       ],
-      "note": "insecure provision 强调长期可靠性不足。"
+      "note": "insecure provision 强调长期可靠性不足。",
+      "translation": "不可靠的供应"
     },
     {
       "base": "expensive electricity",
@@ -189,7 +193,8 @@
         "unaffordable power bills",
         "costly electricity supply"
       ],
-      "note": "unaffordable 突出支付困难。"
+      "note": "unaffordable 突出支付困难。",
+      "translation": "昂贵的电力"
     },
     {
       "base": "produce electricity",
@@ -198,7 +203,8 @@
         "supply electricity",
         "create electrical energy"
       ],
-      "note": "generate power 是最常用的正式搭配。"
+      "note": "generate power 是最常用的正式搭配。",
+      "translation": "发电"
     },
     {
       "base": "different energy sources",
@@ -207,7 +213,8 @@
         "multiple forms of generation",
         "a range of power sources"
       ],
-      "note": "energy mix 适合国家或地区能源结构。"
+      "note": "energy mix 适合国家或地区能源结构。",
+      "translation": "不同能源来源"
     },
     {
       "base": "change to renewables",
@@ -216,51 +223,60 @@
         "shift towards low-carbon power",
         "replace fossil generation"
       ],
-      "note": "transition 强调系统性转变过程。"
+      "note": "transition 强调系统性转变过程。",
+      "translation": "转向可再生能源"
     }
   ],
   "sentences": [
     {
       "pattern": "Even if + an energy technology + becomes cheaper, its adoption may be constrained by + limited grid capacity or storage.",
       "cn": "即使某项技术变得更便宜，它的应用仍可能受到某种系统限制。",
-      "example": "Even if solar panels become cheaper, their adoption may be constrained by limited grid capacity."
+      "example": "Even if solar panels become cheaper, their adoption may be constrained by limited grid capacity.",
+      "exampleTranslation": "即使太阳能电池板变得更便宜，其普及也可能受到电网容量有限的制约。"
     },
     {
       "pattern": "What matters for energy security is not simply how much + generating capacity + exists, but whether + electricity is available when demand is highest.",
       "cn": "能源安全的关键不仅是拥有多少容量，还在于能否满足某种时机或可靠性条件。",
-      "example": "What matters for energy security is not simply how much wind capacity exists, but whether other resources can respond when output falls."
+      "example": "What matters for energy security is not simply how much wind capacity exists, but whether other resources can respond when output falls.",
+      "exampleTranslation": "对能源安全而言，重要的不只是现有多少风电容量，还包括发电量下降时其他资源能否及时响应。"
     },
     {
       "pattern": "Provided that + workers and affected communities receive adequate protection, the transition to + cleaner energy + can + reduce emissions + without + causing unnecessary hardship.",
       "cn": "只要落实某项保障，向某种能源转型就能在避免某种社会代价的同时取得益处。",
-      "example": "Provided that targeted bill support is in place, the transition to cleaner heating can cut emissions without worsening energy poverty."
+      "example": "Provided that targeted bill support is in place, the transition to cleaner heating can cut emissions without worsening energy poverty.",
+      "exampleTranslation": "只要提供有针对性的账单补助，转向更清洁的供暖方式就能在不加剧能源贫困的情况下减少排放。"
     }
   ],
   "expressions": [
     {
       "text": "keep the lights on",
       "cn": "维持稳定供电",
-      "example": "The grid must keep the lights on during a windless evening."
+      "example": "The grid must keep the lights on during a windless evening.",
+      "exampleTranslation": "电网必须在无风的夜晚也维持稳定供电。"
     },
     {
       "text": "pay through the nose",
       "cn": "付出高昂费用",
-      "example": "Households should not have to pay through the nose for basic heating."
+      "example": "Households should not have to pay through the nose for basic heating.",
+      "exampleTranslation": "家庭不应为基本供暖支付高得离谱的费用。"
     },
     {
       "text": "a stopgap measure",
       "cn": "权宜之计",
-      "example": "Temporary fuel support is a stopgap measure rather than a long-term strategy."
+      "example": "Temporary fuel support is a stopgap measure rather than a long-term strategy.",
+      "exampleTranslation": "临时燃料补贴只是权宜之计，而不是长期策略。"
     },
     {
       "text": "accelerate the energy transition",
       "cn": "加快能源转型",
-      "example": "Grid investment can accelerate the energy transition."
+      "example": "Grid investment can accelerate the energy transition.",
+      "exampleTranslation": "电网投资可以加快能源转型。"
     },
     {
       "text": "reduce dependence on imported fuels",
       "cn": "降低对进口燃料的依赖",
-      "example": "Domestic renewables can reduce dependence on imported fuels."
+      "example": "Domestic renewables can reduce dependence on imported fuels.",
+      "exampleTranslation": "本国可再生能源可以减少对进口燃料的依赖。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "reinforce transmission networks",
         "maintain reliable supply"
       ],
-      "argument": "Solar and wind farms can produce very cheap electricity when conditions are favourable. A system dominated by either source may also need storage, flexible demand, stronger transmission and reserve capacity for periods of low output. By contrast, a more expensive generator that is available on demand may reduce some balancing costs, although it can create fuel or waste risks of its own. Governments should model the combined network under realistic weather and demand rather than rank technologies by a single auction price. The relevant comparison is the cost of reliable electricity across the year."
+      "argument": "Solar and wind farms can produce very cheap electricity when conditions are favourable. A system dominated by either source may also need storage, flexible demand, stronger transmission and reserve capacity for periods of low output. By contrast, a more expensive generator that is available on demand may reduce some balancing costs, although it can create fuel or waste risks of its own. Governments should model the combined network under realistic weather and demand rather than rank technologies by a single auction price. The relevant comparison is the cost of reliable electricity across the year.",
+      "viewpointTranslation": "最便宜的发电设备不一定带来成本最低的系统。",
+      "topicSentenceTranslation": "比较能源选择时，应依据提供可靠电力的成本，而不只是发电价格。",
+      "collocationTranslations": [
+        "比较全系统成本",
+        "平衡波动性发电",
+        "加强输电网络",
+        "维持可靠供应"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Solar and wind farms can produce very cheap electricity when conditions are favourable.",
+          "translation": "天气条件有利时，太阳能和风电场能够生产非常便宜的电力。"
+        },
+        {
+          "text": "A system dominated by either source may also need storage, flexible demand, stronger transmission and reserve capacity for periods of low output.",
+          "translation": "主要依赖其中任何一种能源的系统，在产量较低期间还可能需要储能、灵活需求、更强的输电网络和备用容量。"
+        },
+        {
+          "text": "By contrast, a more expensive generator that is available on demand may reduce some balancing costs, although it can create fuel or waste risks of its own.",
+          "translation": "相比之下，能够按需供电但更昂贵的发电设施可能降低部分平衡成本，尽管它本身也可能产生燃料或废物风险。"
+        },
+        {
+          "text": "Governments should model the combined network under realistic weather and demand rather than rank technologies by a single auction price.",
+          "translation": "政府应在现实天气和需求条件下模拟整个网络，而不是按单一拍卖价格给技术排序。"
+        },
+        {
+          "text": "The relevant comparison is the cost of reliable electricity across the year.",
+          "translation": "真正相关的比较是全年可靠电力的成本。"
+        }
+      ],
+      "translation": "天气条件有利时，太阳能和风电场能够生产非常便宜的电力。主要依赖其中任何一种能源的系统，在产量较低期间还可能需要储能、灵活需求、更强的输电网络和备用容量。相比之下，能够按需供电但更昂贵的发电设施可能降低部分平衡成本，尽管它本身也可能产生燃料或废物风险。政府应在现实天气和需求条件下模拟整个网络，而不是按单一拍卖价格给技术排序。真正相关的比较是全年可靠电力的成本。"
     },
     {
       "viewpoint": "Efficiency is the fastest resource many countries neglect.",
@@ -301,19 +348,106 @@
         "deliver immediate savings",
         "avoid unnecessary generation"
       ],
-      "argument": "A new power station may take years to approve and build, whereas insulation, efficient motors and better controls can start reducing demand much sooner. Lower consumption cuts emissions regardless of whether the displaced unit of electricity came from gas, coal or another source. A public retrofit programme can also reduce energy poverty by improving cold homes instead of repeatedly subsidising wasted heat. The difficulty is fragmented delivery: households need trusted advice, skilled installers and affordable finance. Treating efficiency as infrastructure can coordinate these pieces and buy time for larger supply projects."
+      "argument": "A new power station may take years to approve and build, whereas insulation, efficient motors and better controls can start reducing demand much sooner. Lower consumption cuts emissions regardless of whether the displaced unit of electricity came from gas, coal or another source. A public retrofit programme can also reduce energy poverty by improving cold homes instead of repeatedly subsidising wasted heat. The difficulty is fragmented delivery: households need trusted advice, skilled installers and affordable finance. Treating efficiency as infrastructure can coordinate these pieces and buy time for larger supply projects.",
+      "viewpointTranslation": "能源效率是许多国家忽视的最快速资源。",
+      "topicSentenceTranslation": "减少能源浪费可以在新发电容量建成前降低账单和排放。",
+      "collocationTranslations": [
+        "改造低效住宅",
+        "降低高峰需求",
+        "立即实现节省",
+        "避免不必要发电"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A new power station may take years to approve and build, whereas insulation, efficient motors and better controls can start reducing demand much sooner.",
+          "translation": "新建发电站可能需要数年审批和建设，而保温改造、高效电机和更好的控制系统可以更快开始降低需求。"
+        },
+        {
+          "text": "Lower consumption cuts emissions regardless of whether the displaced unit of electricity came from gas, coal or another source.",
+          "translation": "无论被替代的电力来自天然气、煤炭还是其他能源，降低用量都能减少排放。"
+        },
+        {
+          "text": "A public retrofit programme can also reduce energy poverty by improving cold homes instead of repeatedly subsidising wasted heat.",
+          "translation": "公共住宅改造计划还可以通过改善寒冷住房来缓解能源贫困，而不是反复补贴浪费掉的热量。"
+        },
+        {
+          "text": "The difficulty is fragmented delivery: households need trusted advice, skilled installers and affordable finance.",
+          "translation": "难点在于实施环节分散：家庭需要可信的建议、熟练安装人员和可负担的融资。"
+        },
+        {
+          "text": "Treating efficiency as infrastructure can coordinate these pieces and buy time for larger supply projects.",
+          "translation": "把能效视为基础设施，可以协调这些环节，并为更大型的供应项目争取时间。"
+        }
+      ],
+      "translation": "新建发电站可能需要数年审批和建设，而保温改造、高效电机和更好的控制系统可以更快开始降低需求。无论被替代的电力来自天然气、煤炭还是其他能源，降低用量都能减少排放。公共住宅改造计划还可以通过改善寒冷住房来缓解能源贫困，而不是反复补贴浪费掉的热量。难点在于实施环节分散：家庭需要可信的建议、熟练安装人员和可负担的融资。把能效视为基础设施，可以协调这些环节，并为更大型的供应项目争取时间。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a change that helped someone use less energy.",
-      "answer": "My parents replaced an old electric water heater with a more efficient model and added insulation around the hot-water pipes. Their main reason was the electricity bill, which had risen sharply, rather than an environmental target. The installer also showed them how to set a timer so the heater did not run throughout the night. The change was not visually exciting, but the next bills were noticeably lower and the water was still available when they needed it. It also changed their behaviour because they began checking which appliances were using power in the background. I liked this example because it showed that saving energy does not always require giving up comfort; sometimes better equipment and a sensible setting achieve the same service with less waste."
+      "answer": "My parents replaced an old electric water heater with a more efficient model and added insulation around the hot-water pipes. Their main reason was the electricity bill, which had risen sharply, rather than an environmental target. The installer also showed them how to set a timer so the heater did not run throughout the night. The change was not visually exciting, but the next bills were noticeably lower and the water was still available when they needed it. It also changed their behaviour because they began checking which appliances were using power in the background. I liked this example because it showed that saving energy does not always require giving up comfort; sometimes better equipment and a sensible setting achieve the same service with less waste.",
+      "questionTranslation": "描述一项帮助某人减少能源使用的改变。",
+      "answerSentences": [
+        {
+          "text": "My parents replaced an old electric water heater with a more efficient model and added insulation around the hot-water pipes.",
+          "translation": "我的父母更换了一台老旧电热水器，换成更高效的型号，并在热水管外加了保温层。"
+        },
+        {
+          "text": "Their main reason was the electricity bill, which had risen sharply, rather than an environmental target.",
+          "translation": "他们的主要原因是电费大幅上涨，而不是为了某个环保目标。"
+        },
+        {
+          "text": "The installer also showed them how to set a timer so the heater did not run throughout the night.",
+          "translation": "安装人员还教他们设置定时器，让热水器不必整夜运行。"
+        },
+        {
+          "text": "The change was not visually exciting, but the next bills were noticeably lower and the water was still available when they needed it.",
+          "translation": "这项改变在视觉上并不令人兴奋，但之后的账单明显降低，需要时也仍然有热水可用。"
+        },
+        {
+          "text": "It also changed their behaviour because they began checking which appliances were using power in the background.",
+          "translation": "这还改变了他们的行为，因为他们开始检查哪些电器在后台耗电。"
+        },
+        {
+          "text": "I liked this example because it showed that saving energy does not always require giving up comfort; sometimes better equipment and a sensible setting achieve the same service with less waste.",
+          "translation": "我喜欢这个例子，因为它表明节能并不总意味着放弃舒适；有时，更好的设备和合理设置能以更少浪费提供同样服务。"
+        }
+      ],
+      "translation": "我的父母更换了一台老旧电热水器，换成更高效的型号，并在热水管外加了保温层。他们的主要原因是电费大幅上涨，而不是为了某个环保目标。安装人员还教他们设置定时器，让热水器不必整夜运行。这项改变在视觉上并不令人兴奋，但之后的账单明显降低，需要时也仍然有热水可用。这还改变了他们的行为，因为他们开始检查哪些电器在后台耗电。我喜欢这个例子，因为它表明节能并不总意味着放弃舒适；有时，更好的设备和合理设置能以更少浪费提供同样服务。"
     },
     {
       "part": "Part 3",
       "question": "How should governments decide which energy sources to support?",
-      "answer": "They should consider reliability, total system cost, environmental impact and how quickly each option can be delivered. A technology with low emissions may still require new power lines or storage, while a dependable fuel may expose consumers to volatile prices. Local geography matters too, so copying another country’s mix is not necessarily sensible. I would favour competitive support with clear carbon and reliability requirements instead of committing everything to one technology. Governments also need transition plans for workers and low-income households. An energy policy is stronger when it can survive both technical problems and changes in public opinion."
+      "answer": "They should consider reliability, total system cost, environmental impact and how quickly each option can be delivered. A technology with low emissions may still require new power lines or storage, while a dependable fuel may expose consumers to volatile prices. Local geography matters too, so copying another country’s mix is not necessarily sensible. I would favour competitive support with clear carbon and reliability requirements instead of committing everything to one technology. Governments also need transition plans for workers and low-income households. An energy policy is stronger when it can survive both technical problems and changes in public opinion.",
+      "questionTranslation": "政府应如何决定支持哪些能源？",
+      "answerSentences": [
+        {
+          "text": "They should consider reliability, total system cost, environmental impact and how quickly each option can be delivered.",
+          "translation": "他们应考虑可靠性、全系统成本、环境影响，以及每种方案能够多快投入使用。"
+        },
+        {
+          "text": "A technology with low emissions may still require new power lines or storage, while a dependable fuel may expose consumers to volatile prices.",
+          "translation": "低排放技术仍可能需要新输电线路或储能设施，而可靠燃料可能使消费者面对价格波动。"
+        },
+        {
+          "text": "Local geography matters too, so copying another country’s mix is not necessarily sensible.",
+          "translation": "当地地理条件也很重要，所以照搬另一个国家的能源组合未必合理。"
+        },
+        {
+          "text": "I would favour competitive support with clear carbon and reliability requirements instead of committing everything to one technology.",
+          "translation": "我倾向于在明确碳排放和可靠性要求下提供竞争性支持，而不是把一切押在一种技术上。"
+        },
+        {
+          "text": "Governments also need transition plans for workers and low-income households.",
+          "translation": "政府还需要为工人和低收入家庭制定转型计划。"
+        },
+        {
+          "text": "An energy policy is stronger when it can survive both technical problems and changes in public opinion.",
+          "translation": "一项能源政策如果既能经受技术问题，也能应对公众意见变化，就会更加稳健。"
+        }
+      ],
+      "translation": "他们应考虑可靠性、全系统成本、环境影响，以及每种方案能够多快投入使用。低排放技术仍可能需要新输电线路或储能设施，而可靠燃料可能使消费者面对价格波动。当地地理条件也很重要，所以照搬另一个国家的能源组合未必合理。我倾向于在明确碳排放和可靠性要求下提供竞争性支持，而不是把一切押在一种技术上。政府还需要为工人和低收入家庭制定转型计划。一项能源政策如果既能经受技术问题，也能应对公众意见变化，就会更加稳健。"
     }
   ],
   "reading": {
@@ -350,6 +484,110 @@
           "Utilities are unable to estimate electricity demand."
         ]
       }
+    ],
+    "titleTranslation": "储存在热水器里等待使用的电力",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Electricity systems have traditionally adjusted supply to follow demand: as households switch on ovens or factories start machinery, generators increase output.",
+          "translation": "电力系统传统上通过调整供应来跟随需求：家庭打开烤箱或工厂启动机器时，发电机就提高输出。"
+        },
+        {
+          "text": "Wind and solar power complicate this arrangement because their production follows weather rather than instructions from a control room.",
+          "translation": "风能和太阳能使这种安排更复杂，因为它们的产量取决于天气，而不是控制室的指令。"
+        },
+        {
+          "text": "One response is to store electricity in large batteries.",
+          "translation": "一种应对办法是把电力储存在大型电池中。"
+        },
+        {
+          "text": "Another is to alter when ordinary devices consume it.",
+          "translation": "另一种办法是改变普通设备用电的时间。"
+        },
+        {
+          "text": "A water heater, although rarely described as part of the grid, is one such device.",
+          "translation": "热水器虽然很少被描述为电网的一部分，却正是这样一种设备。"
+        }
+      ],
+      [
+        {
+          "text": "Heating water accounts for a significant share of residential energy in many countries.",
+          "translation": "在许多国家，热水加热占住宅能源使用的很大比例。"
+        },
+        {
+          "text": "Yet the exact minute at which a tank heats is often unimportant, provided that hot water is ready when a resident showers or washes dishes.",
+          "translation": "然而，只要居民洗澡或洗碗时有热水可用，水箱究竟在哪一分钟加热通常并不重要。"
+        },
+        {
+          "text": "A small controller can move the heating period away from the evening peak and towards hours of abundant renewable generation.",
+          "translation": "小型控制器可以把加热时段从晚间高峰转移到可再生能源供应充足的时段。"
+        },
+        {
+          "text": "Thousands of tanks coordinated together act, in effect, like a flexible power station: they absorb electricity when the system has excess supply and reduce demand when it is strained.",
+          "translation": "数千个水箱协调运行时，实际上就像一座灵活的发电站：系统供应过剩时吸收电力，系统紧张时减少需求。"
+        }
+      ],
+      [
+        {
+          "text": "This flexibility has boundaries.",
+          "translation": "这种灵活性也有边界。"
+        },
+        {
+          "text": "A household must be able to override the schedule, and a poorly insulated tank may lose much of the heat before it is needed.",
+          "translation": "家庭必须能够覆盖系统设定，而保温不佳的水箱可能在需要使用前损失大量热量。"
+        },
+        {
+          "text": "Renters may have little control over equipment chosen by a landlord.",
+          "translation": "租户可能无法控制房东选择的设备。"
+        },
+        {
+          "text": "Moreover, programmes that offer one flat reward can favour owners of large modern tanks while providing no benefit to households using shared or instantaneous systems.",
+          "translation": "此外，统一提供固定奖励的计划可能偏向拥有大型现代水箱的业主，却无法惠及使用共享式或即热式系统的家庭。"
+        },
+        {
+          "text": "The people whose bills are hardest to afford could therefore be least able to participate.",
+          "translation": "因此，最难负担账单的人反而可能最无法参与。"
+        }
+      ],
+      [
+        {
+          "text": "Several utilities have tested opt-in schemes that guarantee a minimum water temperature and notify users when control events occur.",
+          "translation": "多家公用事业公司测试了自愿加入的计划，这些计划保证最低水温，并在控制事件发生时通知用户。"
+        },
+        {
+          "text": "Participants receive a reduced tariff or direct payment.",
+          "translation": "参与者获得优惠电价或直接付款。"
+        },
+        {
+          "text": "Early trials suggest that most notice no difference in service, although results depend on honest estimates of household routines.",
+          "translation": "初步试验表明，大多数人没有察觉服务差异，不过结果取决于对家庭日常习惯的准确估计。"
+        },
+        {
+          "text": "If many residents shower unexpectedly at the same time, comfort must take priority and the grid benefit falls.",
+          "translation": "如果许多居民意外地同时洗澡，就必须优先保证舒适度，而电网收益会下降。"
+        }
+      ],
+      [
+        {
+          "text": "Flexible water heating will not replace transmission lines, generation or dedicated storage.",
+          "translation": "灵活热水加热无法取代输电线路、发电设施或专用储能。"
+        },
+        {
+          "text": "Its attraction is that much of the physical capacity already sits inside homes, purchased for another purpose.",
+          "translation": "它的吸引力在于，大量物理容量已经出于其他目的购置并安装在家庭中。"
+        },
+        {
+          "text": "Coordinating that capacity can make renewable power easier to use, but only if programme designers treat residents as customers with varied needs, not as batteries waiting to be switched.",
+          "translation": "协调这些容量可以让可再生电力更容易得到利用，但前提是计划设计者把居民视为需求各异的客户，而不是等待开关的电池。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "电力系统传统上通过调整供应来跟随需求：家庭打开烤箱或工厂启动机器时，发电机就提高输出。风能和太阳能使这种安排更复杂，因为它们的产量取决于天气，而不是控制室的指令。一种应对办法是把电力储存在大型电池中。另一种办法是改变普通设备用电的时间。热水器虽然很少被描述为电网的一部分，却正是这样一种设备。",
+      "在许多国家，热水加热占住宅能源使用的很大比例。然而，只要居民洗澡或洗碗时有热水可用，水箱究竟在哪一分钟加热通常并不重要。小型控制器可以把加热时段从晚间高峰转移到可再生能源供应充足的时段。数千个水箱协调运行时，实际上就像一座灵活的发电站：系统供应过剩时吸收电力，系统紧张时减少需求。",
+      "这种灵活性也有边界。家庭必须能够覆盖系统设定，而保温不佳的水箱可能在需要使用前损失大量热量。租户可能无法控制房东选择的设备。此外，统一提供固定奖励的计划可能偏向拥有大型现代水箱的业主，却无法惠及使用共享式或即热式系统的家庭。因此，最难负担账单的人反而可能最无法参与。",
+      "多家公用事业公司测试了自愿加入的计划，这些计划保证最低水温，并在控制事件发生时通知用户。参与者获得优惠电价或直接付款。初步试验表明，大多数人没有察觉服务差异，不过结果取决于对家庭日常习惯的准确估计。如果许多居民意外地同时洗澡，就必须优先保证舒适度，而电网收益会下降。",
+      "灵活热水加热无法取代输电线路、发电设施或专用储能。它的吸引力在于，大量物理容量已经出于其他目的购置并安装在家庭中。协调这些容量可以让可再生电力更容易得到利用，但前提是计划设计者把居民视为需求各异的客户，而不是等待开关的电池。"
     ]
   }
 }

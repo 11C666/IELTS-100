@@ -153,7 +153,8 @@
         "urban populations increase",
         "settlement becomes more concentrated"
       ],
-      "note": "concentrated强调人口聚集。"
+      "note": "concentrated强调人口聚集。",
+      "translation": "城市增长，也可表达为城市扩张、城市人口增加或城区快速发展。"
     },
     {
       "base": "too many people",
@@ -162,7 +163,8 @@
         "intense pressure on urban space",
         "a concentration of residents beyond service capacity"
       ],
-      "note": "密度本身不一定负面。"
+      "note": "密度本身不一定负面。",
+      "translation": "人口过多，也可表达为人口拥挤、人口压力过大或居民数量超过承载能力。"
     },
     {
       "base": "city spreads out",
@@ -171,7 +173,8 @@
         "development extends outwards",
         "low-density settlement consumes peripheral land"
       ],
-      "note": "sprawl通常含负面意味。"
+      "note": "sprawl通常含负面意味。",
+      "translation": "城市向外蔓延，也可表达为城市无序扩张、低密度外延发展或建成区不断扩大。"
     },
     {
       "base": "cheap homes",
@@ -180,7 +183,8 @@
         "lower-cost accommodation",
         "homes within ordinary households’ budgets"
       ],
-      "note": "affordable取决于收入。"
+      "note": "affordable取决于收入。",
+      "translation": "廉价住房，也可表达为可负担住房、低成本住宅或普通家庭负担得起的住所。"
     },
     {
       "base": "improve old areas",
@@ -189,7 +193,8 @@
         "renew ageing districts",
         "upgrade existing urban fabric"
       ],
-      "note": "regenerate可能伴随居民迁离。"
+      "note": "regenerate可能伴随居民迁离。",
+      "translation": "改善老旧地区，也可表达为城市更新、社区改造或提升衰败城区。"
     },
     {
       "base": "travel to work",
@@ -198,7 +203,8 @@
         "make a daily work journey",
         "travel between home and the workplace"
       ],
-      "note": "commute可作动词或名词。"
+      "note": "commute可作动词或名词。",
+      "translation": "上下班通勤，也可表达为日常通勤、往返工作地点或每日出行。"
     },
     {
       "base": "services cannot keep up",
@@ -207,7 +213,8 @@
         "urban systems become overstretched",
         "service capacity fails to match demand"
       ],
-      "note": "overstretched适合公共服务。"
+      "note": "overstretched适合公共服务。",
+      "translation": "服务跟不上，也可表达为公共服务承压、基础设施落后于增长或服务能力不足。"
     },
     {
       "base": "people have to leave",
@@ -216,51 +223,60 @@
         "households are priced out",
         "long-standing communities are forced to relocate"
       ],
-      "note": "priced out特指负担不起。"
+      "note": "priced out特指负担不起。",
+      "translation": "人们不得不离开，也可表达为居民被迫迁离、因价格而搬走或原有社区成员遭到置换。"
     }
   ],
   "sentences": [
     {
       "pattern": "A city can accommodate + growth + without + negative result + if + planning condition.",
       "cn": "如果满足某项规划条件，城市可以容纳增长而不造成某种负面结果。",
-      "example": "A city can accommodate more residents without longer commutes if housing is built near reliable transit."
+      "example": "A city can accommodate more residents without longer commutes if housing is built near reliable transit.",
+      "exampleTranslation": "如果住房建在可靠公共交通附近，城市就能容纳更多居民而不延长通勤时间。"
     },
     {
       "pattern": "What appears to be + urban improvement + may, for + affected group, mean + adverse effect.",
       "cn": "表面上的城市改善，对受影响群体而言可能意味着某种不利后果。",
-      "example": "What appears to be neighbourhood renewal may, for low-income tenants, mean an unaffordable rent increase."
+      "example": "What appears to be neighbourhood renewal may, for low-income tenants, mean an unaffordable rent increase.",
+      "exampleTranslation": "对低收入租户而言，看似社区更新的变化可能意味着无力承担的租金上涨。"
     },
     {
       "pattern": "The closer + homes or services + are to + destination, the less + resource or time + residents need to + action.",
       "cn": "住房或服务离目的地越近，居民完成某事所需的资源或时间就越少。",
-      "example": "The closer homes are to frequent bus routes, the less time residents need to spend driving."
+      "example": "The closer homes are to frequent bus routes, the less time residents need to spend driving.",
+      "exampleTranslation": "住房越靠近班次频密的公交路线，居民花在驾车上的时间就越少。"
     }
   ],
   "expressions": [
     {
       "text": "be priced out of the area",
       "cn": "因价格上涨无法继续居住",
-      "example": "Young families are being priced out of the area."
+      "example": "Young families are being priced out of the area.",
+      "exampleTranslation": "年轻家庭正因价格过高而被迫离开该地区。"
     },
     {
       "text": "spend hours in traffic",
       "cn": "花数小时堵在路上",
-      "example": "Many commuters spend hours in traffic each week."
+      "example": "Many commuters spend hours in traffic each week.",
+      "exampleTranslation": "许多通勤者每周要在交通拥堵中耗费数小时。"
     },
     {
       "text": "have everything close at hand",
       "cn": "所需设施近在手边",
-      "example": "In a mixed-use district, residents have everything close at hand."
+      "example": "In a mixed-use district, residents have everything close at hand.",
+      "exampleTranslation": "在混合用途街区，居民需要的一切都近在咫尺。"
     },
     {
       "text": "keep pace with urban growth",
       "cn": "跟上城市增长速度",
-      "example": "Water networks must keep pace with urban growth."
+      "example": "Water networks must keep pace with urban growth.",
+      "exampleTranslation": "供水网络必须跟上城市发展的速度。"
     },
     {
       "text": "create a liveable neighbourhood",
       "cn": "营造宜居社区",
-      "example": "Good planning can create a liveable neighbourhood."
+      "example": "Good planning can create a liveable neighbourhood.",
+      "exampleTranslation": "良好规划可以打造宜居社区。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "reduce travel distances",
         "develop mixed-use districts"
       ],
-      "argument": "Low-density expansion usually separates housing from jobs and shops, making a private car the practical default. By contrast, a mixed-use district can place daily needs within walking distance and give frequent public transport enough passengers to operate efficiently. For example, new apartments above shops near a rail station use existing routes rather than requiring an entirely new road network. Density must still be accompanied by parks and adequate services. When designed around access rather than merely tall buildings, compact growth can save both land and commuting time."
+      "argument": "Low-density expansion usually separates housing from jobs and shops, making a private car the practical default. By contrast, a mixed-use district can place daily needs within walking distance and give frequent public transport enough passengers to operate efficiently. For example, new apartments above shops near a rail station use existing routes rather than requiring an entirely new road network. Density must still be accompanied by parks and adequate services. When designed around access rather than merely tall buildings, compact growth can save both land and commuting time.",
+      "viewpointTranslation": "紧凑型开发可以缩短日常出行。",
+      "topicSentenceTranslation": "在就业地点和公共交通附近建设住房，比任由城市无限蔓延更可持续。",
+      "collocationTranslations": [
+        "遏制城市蔓延",
+        "支持公共交通",
+        "缩短出行距离",
+        "开发混合用途街区"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Low-density expansion usually separates housing from jobs and shops, making a private car the practical default.",
+          "translation": "低密度扩张通常把住房与工作地点和商店分开，使私家车成为实际上的默认选择。"
+        },
+        {
+          "text": "By contrast, a mixed-use district can place daily needs within walking distance and give frequent public transport enough passengers to operate efficiently.",
+          "translation": "相比之下，混合用途街区可以把日常需求放在步行范围内，并为班次频密的公共交通提供足够乘客，使其高效运行。"
+        },
+        {
+          "text": "For example, new apartments above shops near a rail station use existing routes rather than requiring an entirely new road network.",
+          "translation": "例如，在火车站附近商铺上方建设新公寓，可以利用现有线路，而无需修建全新的道路网络。"
+        },
+        {
+          "text": "Density must still be accompanied by parks and adequate services.",
+          "translation": "高密度开发仍然需要配套公园和充足服务。"
+        },
+        {
+          "text": "When designed around access rather than merely tall buildings, compact growth can save both land and commuting time.",
+          "translation": "如果围绕可达性而不只是高楼来设计，紧凑增长可以同时节省土地和通勤时间。"
+        }
+      ]
     },
     {
       "viewpoint": "Urban renewal must protect existing residents.",
@@ -301,19 +347,107 @@
         "upgrade public facilities",
         "retain local businesses"
       ],
-      "argument": "An ageing district may need safer buildings and better public space, but these changes often attract investment that raises rents. Long-term tenants and small shops then face displacement just as conditions improve. Requiring affordable units, offering secure leases and supporting local businesses can distribute the gains more fairly. A renewal programme in which only property values rise solves a construction problem while creating a social one. Its success should instead be measured by better living conditions and the proportion of original residents able to benefit from them."
+      "argument": "An ageing district may need safer buildings and better public space, but these changes often attract investment that raises rents. Long-term tenants and small shops then face displacement just as conditions improve. Requiring affordable units, offering secure leases and supporting local businesses can distribute the gains more fairly. A renewal programme in which only property values rise solves a construction problem while creating a social one. Its success should instead be measured by better living conditions and the proportion of original residents able to benefit from them.",
+      "viewpointTranslation": "城市更新必须保护现有居民。",
+      "topicSentenceTranslation": "如果长期承受忽视的社区最终无力继续留下，那么实体环境改善就不能算成功。",
+      "collocationTranslations": [
+        "防止被迫迁离",
+        "稳定租金成本",
+        "升级公共设施",
+        "留住本地商家"
+      ],
+      "argumentSentences": [
+        {
+          "text": "An ageing district may need safer buildings and better public space, but these changes often attract investment that raises rents.",
+          "translation": "老旧地区可能需要更安全的建筑和更好的公共空间，但这些变化常会吸引投资并推高租金。"
+        },
+        {
+          "text": "Long-term tenants and small shops then face displacement just as conditions improve.",
+          "translation": "长期租户和小商店因而恰在环境改善之时面临被迫迁离。"
+        },
+        {
+          "text": "Requiring affordable units, offering secure leases and supporting local businesses can distribute the gains more fairly.",
+          "translation": "规定配建可负担住房、提供稳定租约并支持本地商家，可以更公平地分配收益。"
+        },
+        {
+          "text": "A renewal programme in which only property values rise solves a construction problem while creating a social one.",
+          "translation": "如果更新项目只提高房产价值，它就是在解决建筑问题的同时制造社会问题。"
+        },
+        {
+          "text": "Its success should instead be measured by better living conditions and the proportion of original residents able to benefit from them.",
+          "translation": "更合理的成功标准应是生活条件得到改善，以及有多少原有居民能够从中受益。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a change in a city that improved people’s daily lives.",
-      "answer": "A useful change in my city was the conversion of a wide road beside a metro station into a mixed transport street. One traffic lane was replaced by a protected cycle route, wider pavements and safer crossings. Before the work, pedestrians had to wait through several signal changes, and buses were often trapped behind turning cars. The redesign looked disruptive while it was being built, but the finished street is easier to cross and the bus stops have proper shelters. Small shops have added outdoor seating because traffic noise has fallen. What impressed me is that the project did not depend on a landmark building. It improved ordinary journeys by giving limited street space to more kinds of users."
+      "answer": "A useful change in my city was the conversion of a wide road beside a metro station into a mixed transport street. One traffic lane was replaced by a protected cycle route, wider pavements and safer crossings. Before the work, pedestrians had to wait through several signal changes, and buses were often trapped behind turning cars. The redesign looked disruptive while it was being built, but the finished street is easier to cross and the bus stops have proper shelters. Small shops have added outdoor seating because traffic noise has fallen. What impressed me is that the project did not depend on a landmark building. It improved ordinary journeys by giving limited street space to more kinds of users.",
+      "questionTranslation": "请描述一项改善了人们日常生活的城市变化。",
+      "answerSentences": [
+        {
+          "text": "A useful change in my city was the conversion of a wide road beside a metro station into a mixed transport street.",
+          "translation": "我所在城市有一项很实用的变化：把地铁站旁的一条宽阔道路改造成多种交通方式共用的街道。"
+        },
+        {
+          "text": "One traffic lane was replaced by a protected cycle route, wider pavements and safer crossings.",
+          "translation": "一条机动车道被改为受保护的自行车道、更宽的人行道和更安全的过街设施。"
+        },
+        {
+          "text": "Before the work, pedestrians had to wait through several signal changes, and buses were often trapped behind turning cars.",
+          "translation": "改造前，行人要等待好几轮信号灯，公交也经常被转弯车辆堵住。"
+        },
+        {
+          "text": "The redesign looked disruptive while it was being built, but the finished street is easier to cross and the bus stops have proper shelters.",
+          "translation": "施工期间，这项改造看起来很扰民，但完工后的街道更容易穿行，公交站也有了合适的候车棚。"
+        },
+        {
+          "text": "Small shops have added outdoor seating because traffic noise has fallen.",
+          "translation": "由于交通噪声下降，小商店增设了户外座位。"
+        },
+        {
+          "text": "What impressed me is that the project did not depend on a landmark building.",
+          "translation": "让我印象深刻的是，这个项目并不依赖某座地标建筑。"
+        },
+        {
+          "text": "It improved ordinary journeys by giving limited street space to more kinds of users.",
+          "translation": "它把有限的街道空间分配给更多类型的使用者，从而改善了普通出行。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "What problems arise when cities grow too quickly?",
-      "answer": "Housing and infrastructure often expand at different speeds. If formal housing is scarce, rents rise and lower-income residents may have to accept unsafe or distant accommodation. Roads, schools, drainage and clinics can become overcrowded because they were designed for a smaller population. Rapid growth can also consume agricultural land when planning is weak. The answer is not to stop people moving to cities, where genuine opportunities may exist, but to coordinate land, transport and service investment early enough. Local government also needs reliable population data, including residents of informal areas who are often missed."
+      "answer": "Housing and infrastructure often expand at different speeds. If formal housing is scarce, rents rise and lower-income residents may have to accept unsafe or distant accommodation. Roads, schools, drainage and clinics can become overcrowded because they were designed for a smaller population. Rapid growth can also consume agricultural land when planning is weak. The answer is not to stop people moving to cities, where genuine opportunities may exist, but to coordinate land, transport and service investment early enough. Local government also needs reliable population data, including residents of informal areas who are often missed.",
+      "questionTranslation": "城市发展过快会产生哪些问题？",
+      "answerSentences": [
+        {
+          "text": "Housing and infrastructure often expand at different speeds.",
+          "translation": "住房和基础设施往往以不同速度扩张。"
+        },
+        {
+          "text": "If formal housing is scarce, rents rise and lower-income residents may have to accept unsafe or distant accommodation.",
+          "translation": "如果正规住房稀缺，租金会上涨，低收入居民可能不得不接受不安全或位置偏远的住所。"
+        },
+        {
+          "text": "Roads, schools, drainage and clinics can become overcrowded because they were designed for a smaller population.",
+          "translation": "道路、学校、排水设施和诊所可能变得拥挤，因为它们原本是按较少人口设计的。"
+        },
+        {
+          "text": "Rapid growth can also consume agricultural land when planning is weak.",
+          "translation": "规划薄弱时，快速增长还可能吞噬农业用地。"
+        },
+        {
+          "text": "The answer is not to stop people moving to cities, where genuine opportunities may exist, but to coordinate land, transport and service investment early enough.",
+          "translation": "解决办法不是阻止人们迁往确实可能存在机会的城市，而是尽早协调土地、交通和服务投资。"
+        },
+        {
+          "text": "Local government also needs reliable population data, including residents of informal areas who are often missed.",
+          "translation": "地方政府还需要可靠的人口数据，包括那些经常被遗漏的非正规地区居民。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +478,91 @@
         "answer": "D",
         "explanation": "Paragraph D mentions extra floors in exchange for affordable units."
       }
+    ],
+    "titleTranslation": "改变住房版图的公交线路",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "When a growing city opened a rapid bus corridor, transport officials measured success mainly through passenger numbers and journey times.",
+          "translation": "一座发展中的城市开通快速公交走廊时，交通部门主要通过客流量和出行时间衡量成效。"
+        },
+        {
+          "text": "Both improved.",
+          "translation": "两者都有改善。"
+        },
+        {
+          "text": "Years later, however, planners examining the neighbourhoods around its stations found a less straightforward result: access to fast transport had altered where developers built homes, but not always where lower-income passengers could afford to live.",
+          "translation": "然而数年后，规划人员考察车站周边社区时发现了一个不那么简单的结果：快捷交通改变了开发商建房的位置，却不一定让低收入乘客负担得起在当地居住。"
+        }
+      ],
+      [
+        {
+          "text": "The corridor used dedicated lanes and frequent services to connect peripheral districts with the employment centre.",
+          "translation": "这条走廊利用专用车道和频密班次，把外围地区与就业中心连接起来。"
+        },
+        {
+          "text": "Land within an eight-minute walk of a station soon attracted apartment construction.",
+          "translation": "车站步行八分钟范围内的土地很快吸引了公寓建设。"
+        },
+        {
+          "text": "Over the following years, these station areas added substantially more housing than comparable districts away from the route.",
+          "translation": "随后几年，这些车站地区新增的住房明显多于远离线路的类似地区。"
+        },
+        {
+          "text": "Because zoning permitted shops below flats, several stops also developed into compact local centres, reducing the need for some journeys altogether.",
+          "translation": "由于分区规划允许公寓楼下设置商店，几个站点也发展成紧凑的本地中心，从而完全减少了部分出行需求。"
+        }
+      ],
+      [
+        {
+          "text": "Yet rents near the best-connected stations rose faster than the city average.",
+          "translation": "然而，交通最便利的车站附近租金上涨速度超过全市平均水平。"
+        },
+        {
+          "text": "Tenants whose work schedules made them particularly dependent on buses began moving beyond walking distance, where housing was cheaper but feeder services were infrequent.",
+          "translation": "工作时间使其特别依赖公交的租户开始搬到步行范围以外，那里住房更便宜，但接驳服务班次很少。"
+        },
+        {
+          "text": "The infrastructure that had reduced geographical disadvantage was, through its effect on land value, gradually shifting some intended beneficiaries away from it.",
+          "translation": "这项原本减少地理劣势的基础设施，因其对土地价值的影响，逐渐把部分预期受益者推离了线路。"
+        },
+        {
+          "text": "This outcome was not evidence that the bus corridor had failed; rather, it exposed the danger of treating transport and housing as separate policies.",
+          "translation": "这一结果并不说明公交走廊失败了；它揭示的是把交通和住房视为彼此独立政策的危险。"
+        }
+      ],
+      [
+        {
+          "text": "The city later changed its planning rules.",
+          "translation": "该市后来修改了规划规则。"
+        },
+        {
+          "text": "Public land beside three stations was reserved for below-market homes, while private projects received permission for additional floors if they included affordable units.",
+          "translation": "三个车站旁的公共土地被保留用于建设低于市场价格的住房；私人项目如果包含可负担住房单元，则可获准增加楼层。"
+        },
+        {
+          "text": "Critics argued that construction would be slower and that the definition of affordability remained too broad.",
+          "translation": "批评者认为，建设会因此放缓，而且可负担性的定义仍然过于宽泛。"
+        },
+        {
+          "text": "Supporters replied that a route financed by all taxpayers should not become an amenity available mainly to higher earners.",
+          "translation": "支持者则回应说，由全体纳税人出资的线路不应成为主要供高收入者使用的便利设施。"
+        }
+      ],
+      [
+        {
+          "text": "A transport map shows lines and stations, not rent contracts.",
+          "translation": "交通地图显示的是线路和车站，而不是租房合同。"
+        },
+        {
+          "text": "Nevertheless, the usefulness of each line depends on who can reach it from home and at what cost.",
+          "translation": "不过，每条线路是否实用，取决于谁能从家中到达它，以及需要付出多少成本。"
+        },
+        {
+          "text": "The city’s experience suggests that successful transit can create valuable urban land; planning determines whether that value broadens access or quietly rearranges exclusion.",
+          "translation": "这座城市的经验表明，成功的公共交通可以创造有价值的城市土地；而规划决定了这种价值是扩大可达性，还是悄然重新安排排斥。"
+        }
+      ]
     ]
   }
 }

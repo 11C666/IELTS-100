@@ -153,7 +153,8 @@
         "adopt",
         "rely on"
       ],
-      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论文化传统。"
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论文化传统。",
+      "translation": "use 表示使用；make use of、adopt 和 rely on 可分别表示利用、采用或依赖。"
     },
     {
       "base": "choice",
@@ -162,7 +163,8 @@
         "alternative",
         "decision"
       ],
-      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论文化传统。"
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论文化传统。",
+      "translation": "choice 表示选择；option、alternative 和 decision 可根据语境表示选项、替代方案或决定。"
     },
     {
       "base": "cause",
@@ -171,7 +173,8 @@
         "contribute to",
         "give rise to"
       ],
-      "note": "contribute to 表示众多原因之一。 本组可用于讨论文化传统。"
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论文化传统。",
+      "translation": "cause 表示导致；lead to、contribute to 和 give rise to 常用于说明因果关系。"
     },
     {
       "base": "benefit",
@@ -180,7 +183,8 @@
         "positive effect",
         "gain"
       ],
-      "note": "gain 可指个人获得的具体收益。 本组可用于讨论文化传统。"
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论文化传统。",
+      "translation": "benefit 表示益处；advantage、positive effect 和 gain 可表示优势、积极影响或收获。"
     },
     {
       "base": "harm",
@@ -189,7 +193,8 @@
         "negative effect",
         "undermine"
       ],
-      "note": "undermine 强调逐渐削弱。 本组可用于讨论文化传统。"
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论文化传统。",
+      "translation": "harm 表示伤害；damage、negative effect 和 undermine 可表示损害、负面影响或削弱。"
     },
     {
       "base": "support",
@@ -198,7 +203,8 @@
         "backing",
         "provision"
       ],
-      "note": "provision 常指服务或资源的供给。 本组可用于讨论文化传统。"
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论文化传统。",
+      "translation": "support 表示支持；assistance、backing 和 provision 可分别表示帮助、支持及供给。"
     },
     {
       "base": "different",
@@ -207,7 +213,8 @@
         "varied",
         "diverse"
       ],
-      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论文化传统。"
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论文化传统。",
+      "translation": "different 表示不同；distinct、varied 和 diverse 可强调区别、变化或多样性。"
     },
     {
       "base": "common",
@@ -216,51 +223,60 @@
         "frequently observed",
         "part of everyday life"
       ],
-      "note": "widespread 较正式，强调分布广。 本组可用于讨论文化传统。"
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论文化传统。",
+      "translation": "common 表示常见；widespread、frequently observed 和 part of everyday life 可表达普遍或日常可见。"
     }
   ],
   "sentences": [
     {
       "pattern": "A tradition remains meaningful when + community + can adapt + practice + without losing + value.",
       "cn": "当社区能在不失去某价值的情况下调整做法，传统仍有意义。",
-      "example": "A tradition remains meaningful when families can adapt the ceremony without losing its purpose."
+      "example": "A tradition remains meaningful when families can adapt the ceremony without losing its purpose.",
+      "exampleTranslation": "当家庭能够在不失去其目的的情况下调整仪式时，传统仍具有意义。"
     },
     {
       "pattern": "What outsiders describe as + single tradition + may contain + internal diversity.",
       "cn": "外界所称的单一传统，内部可能包含多样性。",
-      "example": "What outsiders describe as one tradition may contain strong regional differences."
+      "example": "What outsiders describe as one tradition may contain strong regional differences.",
+      "exampleTranslation": "外来者所称的一种传统，内部可能包含显著的地区差异。"
     },
     {
       "pattern": "Having been passed down through + generations, + practice + carries + shared meaning.",
       "cn": "某做法传承多代，承载着……。",
-      "example": "Having been passed down through generations, the song carries memories beyond its words."
+      "example": "Having been passed down through generations, the song carries memories beyond its words.",
+      "exampleTranslation": "这首歌代代相传，承载着超越歌词本身的记忆。"
     }
   ],
   "expressions": [
     {
       "text": "pass a tradition down",
       "cn": "传承传统",
-      "example": "Grandparents pass the tradition down through stories and practice."
+      "example": "Grandparents pass the tradition down through stories and practice.",
+      "exampleTranslation": "祖父母通过故事和实践把传统传承下去。"
     },
     {
       "text": "keep a custom alive",
       "cn": "让习俗延续",
-      "example": "Community events help keep the custom alive."
+      "example": "Community events help keep the custom alive.",
+      "exampleTranslation": "社区活动有助于让这一习俗延续下去。"
     },
     {
       "text": "mark a special occasion",
       "cn": "纪念特殊场合",
-      "example": "The meal marks a special occasion for the whole family."
+      "example": "The meal marks a special occasion for the whole family.",
+      "exampleTranslation": "这顿饭标志着全家人的一个特殊时刻。"
     },
     {
       "text": "have cultural significance",
       "cn": "具有文化意义",
-      "example": "The colour has cultural significance beyond decoration."
+      "example": "The colour has cultural significance beyond decoration.",
+      "exampleTranslation": "这种颜色具有超越装饰的文化意义。"
     },
     {
       "text": "adapt to modern life",
       "cn": "适应现代生活",
-      "example": "Traditions often adapt to modern life in order to remain practised."
+      "example": "Traditions often adapt to modern life in order to remain practised.",
+      "exampleTranslation": "传统往往会适应现代生活，以便继续得到实践。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "respond to social change",
         "maintain community participation"
       ],
-      "argument": "A ceremony fixed in every detail may become impossible when families move, working patterns change or materials disappear. Shortening an event or using digital communication can allow younger members to participate. The change should be led by the people for whom the tradition has meaning, not imposed solely for tourist convenience. Debate over adaptation is itself evidence that the practice remains important. Preservation should support continuity of purpose rather than freeze one historical version."
+      "argument": "A ceremony fixed in every detail may become impossible when families move, working patterns change or materials disappear. Shortening an event or using digital communication can allow younger members to participate. The change should be led by the people for whom the tradition has meaning, not imposed solely for tourist convenience. Debate over adaptation is itself evidence that the practice remains important. Preservation should support continuity of purpose rather than freeze one historical version.",
+      "viewpointTranslation": "调整传统可以保护它，而不一定削弱它。",
+      "topicSentenceTranslation": "当社区可以调整形式并保留共同意义时，文化实践才能保持活力。",
+      "collocationTranslations": [
+        "保留文化意义",
+        "调整传统做法",
+        "回应社会变化",
+        "维持社区参与"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A ceremony fixed in every detail may become impossible when families move, working patterns change or materials disappear.",
+          "translation": "如果仪式的每个细节都固定不变，那么当家庭迁移、工作方式改变或材料消失时，它可能无法继续。"
+        },
+        {
+          "text": "Shortening an event or using digital communication can allow younger members to participate.",
+          "translation": "缩短活动或使用数字通信，可以让年轻成员参与。"
+        },
+        {
+          "text": "The change should be led by the people for whom the tradition has meaning, not imposed solely for tourist convenience.",
+          "translation": "改变应由真正赋予传统意义的人主导，而不能只为方便游客从外部强加。"
+        },
+        {
+          "text": "Debate over adaptation is itself evidence that the practice remains important.",
+          "translation": "围绕调整展开的争论，本身就说明这种实践仍然重要。"
+        },
+        {
+          "text": "Preservation should support continuity of purpose rather than freeze one historical version.",
+          "translation": "保护应支持目的的延续，而不是冻结某一历史版本。"
+        }
+      ]
     },
     {
       "viewpoint": "Commercial presentation should not replace community ownership.",
@@ -301,19 +347,99 @@
         "share tourism revenue",
         "set limits on access"
       ],
-      "argument": "Performances and craft sales can fund skills that might otherwise disappear. However, schedules designed only for visitors may remove religious meaning, simplify internal diversity or pressure people to display private practices. Communities should decide which elements are public and how revenue is distributed. Explanation can help visitors understand that they are seeing one context rather than an unchanging national symbol. Economic support is valuable when it strengthens, rather than directs, cultural life."
+      "argument": "Performances and craft sales can fund skills that might otherwise disappear. However, schedules designed only for visitors may remove religious meaning, simplify internal diversity or pressure people to display private practices. Communities should decide which elements are public and how revenue is distributed. Explanation can help visitors understand that they are seeing one context rather than an unchanging national symbol. Economic support is valuable when it strengthens, rather than directs, cultural life.",
+      "viewpointTranslation": "商业展示不应取代社区所有权。",
+      "topicSentenceTranslation": "旅游业可以在经济上支持传统，但当地参与者必须控制文化实践的呈现方式。",
+      "collocationTranslations": [
+        "保留文化所有权",
+        "避免文化失真",
+        "分享旅游收入",
+        "设定参观限制"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Performances and craft sales can fund skills that might otherwise disappear.",
+          "translation": "表演和手工艺品销售可以为本可能消失的技能提供资金。"
+        },
+        {
+          "text": "However, schedules designed only for visitors may remove religious meaning, simplify internal diversity or pressure people to display private practices.",
+          "translation": "然而，只为游客设计的时间安排可能去除宗教意义、简化内部多样性，或迫使人们展示私人习俗。"
+        },
+        {
+          "text": "Communities should decide which elements are public and how revenue is distributed.",
+          "translation": "社区应决定哪些元素可以公开以及收入如何分配。"
+        },
+        {
+          "text": "Explanation can help visitors understand that they are seeing one context rather than an unchanging national symbol.",
+          "translation": "解释可以帮助游客理解，他们看到的是一种具体语境，而不是一成不变的国家象征。"
+        },
+        {
+          "text": "Economic support is valuable when it strengthens, rather than directs, cultural life.",
+          "translation": "只有当经济支持加强而不是支配文化生活时，它才有价值。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Are traditional celebrations important in your family?",
-      "answer": "Yes, mainly because they create a reason for relatives to meet. We do not follow every old detail, but we prepare a familiar meal and contact family members who live elsewhere. The celebration gives the year a rhythm. Its emotional value is stronger than any formal rule. Keeping those few elements consistent gives the gathering a recognisable identity."
+      "answer": "Yes, mainly because they create a reason for relatives to meet. We do not follow every old detail, but we prepare a familiar meal and contact family members who live elsewhere. The celebration gives the year a rhythm. Its emotional value is stronger than any formal rule. Keeping those few elements consistent gives the gathering a recognisable identity.",
+      "questionTranslation": "传统庆祝活动在你家重要吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, mainly because they create a reason for relatives to meet.",
+          "translation": "是的，主要因为它们为亲属见面提供了理由。"
+        },
+        {
+          "text": "We do not follow every old detail, but we prepare a familiar meal and contact family members who live elsewhere.",
+          "translation": "我们不会遵循每个古老细节，但会准备熟悉的饭菜，并联系住在其他地方的家人。"
+        },
+        {
+          "text": "The celebration gives the year a rhythm.",
+          "translation": "庆祝活动赋予一年固定的节奏。"
+        },
+        {
+          "text": "Its emotional value is stronger than any formal rule.",
+          "translation": "它的情感价值比任何正式规则都更强。"
+        },
+        {
+          "text": "Keeping those few elements consistent gives the gathering a recognisable identity.",
+          "translation": "始终保留那几个元素，让聚会具有可辨认的特点。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a tradition that is important to people you know.",
-      "answer": "A tradition important in my family is preparing a large shared meal at the beginning of the new year. Different relatives are responsible for particular dishes, and younger people learn by helping rather than reading recipes. The meal has changed because some family members now live far away and join by video for part of the evening. We also make fewer dishes than my grandparents did, since wasting food would contradict the spirit of care behind the event. What remains constant is the effort to gather, remember absent relatives and begin the year without unresolved arguments. I value the tradition because it connects ordinary practical work—shopping, chopping and washing up—with a sense of continuity."
+      "answer": "A tradition important in my family is preparing a large shared meal at the beginning of the new year. Different relatives are responsible for particular dishes, and younger people learn by helping rather than reading recipes. The meal has changed because some family members now live far away and join by video for part of the evening. We also make fewer dishes than my grandparents did, since wasting food would contradict the spirit of care behind the event. What remains constant is the effort to gather, remember absent relatives and begin the year without unresolved arguments. I value the tradition because it connects ordinary practical work—shopping, chopping and washing up—with a sense of continuity.",
+      "questionTranslation": "描述一个对你认识的人很重要的传统。",
+      "answerSentences": [
+        {
+          "text": "A tradition important in my family is preparing a large shared meal at the beginning of the new year.",
+          "translation": "我家一个重要传统是在新年开始时准备一顿丰盛的团圆饭。"
+        },
+        {
+          "text": "Different relatives are responsible for particular dishes, and younger people learn by helping rather than reading recipes.",
+          "translation": "不同亲属负责特定菜肴，年轻人通过帮忙而不是阅读食谱来学习。"
+        },
+        {
+          "text": "The meal has changed because some family members now live far away and join by video for part of the evening.",
+          "translation": "这顿饭已经有所变化，因为一些家人如今住得很远，只能在晚间部分时间通过视频加入。"
+        },
+        {
+          "text": "We also make fewer dishes than my grandparents did, since wasting food would contradict the spirit of care behind the event.",
+          "translation": "我们做的菜也比祖父母那一代少，因为浪费食物违背了活动背后的关怀精神。"
+        },
+        {
+          "text": "What remains constant is the effort to gather, remember absent relatives and begin the year without unresolved arguments.",
+          "translation": "始终不变的是努力团聚、怀念缺席的亲人，并在没有未解争执的情况下开始新一年。"
+        },
+        {
+          "text": "I value the tradition because it connects ordinary practical work—shopping, chopping and washing up—with a sense of continuity.",
+          "translation": "我珍视这个传统，因为它把购物、切菜和洗碗等普通实际工作与延续感联系起来。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +470,111 @@
         "answer": "the capacity to transmit, discuss and adapt",
         "explanation": "The final sentence lists them."
       }
+    ],
+    "titleTranslation": "一种没有单一原始形式的传统",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Calls to preserve tradition often assume that an original version can be identified and protected.",
+          "translation": "保护传统的呼声常假定可以找出并保护一个原始版本。"
+        },
+        {
+          "text": "Historical evidence frequently shows otherwise.",
+          "translation": "历史证据往往显示事实并非如此。"
+        },
+        {
+          "text": "Songs change as they move between villages, festival dates shift with work patterns, and recipes respond to available crops.",
+          "translation": "歌曲在村庄间传播时会改变，节庆日期随工作方式调整，食谱也会回应可获得的农作物。"
+        },
+        {
+          "text": "Variation may be a feature of transmission rather than proof of decline.",
+          "translation": "变化可能是传承的特征，而非衰落的证据。"
+        }
+      ],
+      [
+        {
+          "text": "Written records can create false certainty.",
+          "translation": "书面记录可能制造虚假的确定性。"
+        },
+        {
+          "text": "A collector may document one performance and later institutions treat it as the standard, although it represented one family, season or performer.",
+          "translation": "收集者可能记录一次表演，后来机构便把它视为标准，尽管它只代表一个家庭、季节或表演者。"
+        },
+        {
+          "text": "Recording protects valuable detail but also gives authority to the version easiest to archive.",
+          "translation": "记录保护了宝贵细节，却也赋予最容易存档的版本以权威。"
+        },
+        {
+          "text": "Oral traditions leave fewer fixed traces precisely because each performance responds to an audience.",
+          "translation": "口述传统留下的固定痕迹较少，正是因为每次表演都会回应受众。"
+        }
+      ],
+      [
+        {
+          "text": "Communities still distinguish acceptable adaptation from loss.",
+          "translation": "社区仍会区分可以接受的调整与传统流失。"
+        },
+        {
+          "text": "The boundary may concern purpose: changing clothing material is tolerated, while removing an act of remembrance is not.",
+          "translation": "界限可能涉及目的：改变服装材料可以接受，而取消纪念行为则不行。"
+        },
+        {
+          "text": "Different members disagree, particularly when age, religion and migration shape experience.",
+          "translation": "不同成员会有分歧，尤其是在年龄、宗教和迁移经历塑造不同体验时。"
+        },
+        {
+          "text": "There is no neutral outsider who can settle every dispute by locating a date in the past.",
+          "translation": "没有任何中立外来者能仅通过寻找过去的某个日期来解决所有争议。"
+        }
+      ],
+      [
+        {
+          "text": "Heritage organisations increasingly document processes as well as products.",
+          "translation": "遗产机构越来越多地记录过程而不仅是成品。"
+        },
+        {
+          "text": "They record who teaches a skill, where materials come from and how decisions are made.",
+          "translation": "它们会记录谁传授技能、材料来自哪里以及决定如何作出。"
+        },
+        {
+          "text": "Support may fund apprenticeships or spaces for practice rather than purchase a finished object for display.",
+          "translation": "支持可能用于资助学徒培训或实践空间，而不是购买成品用于展示。"
+        },
+        {
+          "text": "This approach recognises that living heritage depends on people with time and authority to continue it.",
+          "translation": "这种方法承认，活态遗产依赖有时间和权力延续它的人。"
+        }
+      ],
+      [
+        {
+          "text": "Continuity therefore does not mean repetition without change.",
+          "translation": "因此，延续并不意味着毫无变化地重复。"
+        },
+        {
+          "text": "A tradition survives when participants recognise themselves in its development and can explain why certain elements matter.",
+          "translation": "当参与者能在传统发展中认出自己，并解释某些元素为何重要时，传统才得以存续。"
+        },
+        {
+          "text": "The search for one authentic form can sometimes silence the very variation that allowed the practice to cross generations.",
+          "translation": "寻找唯一正宗形式有时会压制恰恰使这种实践跨越世代的多样性。"
+        },
+        {
+          "text": "Preservation is strongest when it protects the capacity to transmit, discuss and adapt.",
+          "translation": "当保护工作保障传承、讨论和调整的能力时，效果最强。"
+        },
+        {
+          "text": "Migration adds another form of adaptation.",
+          "translation": "迁移带来了另一种调整。"
+        },
+        {
+          "text": "A festival practised abroad may use substitute ingredients, a different public date or a smaller group, while gaining new importance as a connection to language and family history.",
+          "translation": "在海外实践的节庆可能使用替代食材、不同的公开日期或较小群体，同时因其与语言和家族历史的联系而获得新的重要性。"
+        },
+        {
+          "text": "Comparing it with practice in the place of origin reveals divergence, but neither version alone contains the entire meaning of the tradition for its participants.",
+          "translation": "把它与原乡实践比较会发现差异，但任何一个版本都无法单独包含传统对参与者的全部意义。"
+        }
+      ]
     ]
   }
 }

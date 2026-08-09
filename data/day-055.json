@@ -153,7 +153,8 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论语言变化。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论语言变化。",
+      "translation": "result 表示结果；outcome、consequence 和 effect 可根据语境替换。"
     },
     {
       "base": "improve",
@@ -162,7 +163,8 @@
         "strengthen",
         "raise the quality of"
       ],
-      "note": "搭配对象不同，不能机械互换。 本组可用于讨论语言变化。"
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论语言变化。",
+      "translation": "improve 表示改善；enhance、strengthen 和 raise the quality of 可强调提升或加强。"
     },
     {
       "base": "reduce",
@@ -171,7 +173,8 @@
         "limit",
         "bring down"
       ],
-      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论语言变化。"
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论语言变化。",
+      "translation": "reduce 表示减少；decrease、limit 和 bring down 可表达降低或控制。"
     },
     {
       "base": "people",
@@ -180,7 +183,8 @@
         "members of the public",
         "residents"
       ],
-      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论语言变化。"
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论语言变化。",
+      "translation": "people 表示人们；individuals、members of the public 和 residents 可用于更正式或具体的语境。"
     },
     {
       "base": "use",
@@ -189,7 +193,8 @@
         "adopt",
         "rely on"
       ],
-      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论语言变化。"
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论语言变化。",
+      "translation": "use 表示使用；make use of、adopt 和 rely on 可分别表示利用、采用或依赖。"
     },
     {
       "base": "choice",
@@ -198,7 +203,8 @@
         "alternative",
         "decision"
       ],
-      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论语言变化。"
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论语言变化。",
+      "translation": "choice 表示选择；option、alternative 和 decision 可根据语境表示选项、替代方案或决定。"
     },
     {
       "base": "cause",
@@ -207,7 +213,8 @@
         "contribute to",
         "give rise to"
       ],
-      "note": "contribute to 表示众多原因之一。 本组可用于讨论语言变化。"
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论语言变化。",
+      "translation": "cause 表示导致；lead to、contribute to 和 give rise to 常用于说明因果关系。"
     },
     {
       "base": "benefit",
@@ -216,51 +223,60 @@
         "positive effect",
         "gain"
       ],
-      "note": "gain 可指个人获得的具体收益。 本组可用于讨论语言变化。"
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论语言变化。",
+      "translation": "benefit 表示益处；advantage、positive effect 和 gain 可表示优势、积极影响或收获。"
     }
   ],
   "sentences": [
     {
       "pattern": "A new expression gains ground when + speakers + find it useful for + purpose.",
       "cn": "当说话者发现新表达对某目的有用时，它会普及。",
-      "example": "A new expression gains ground when speakers find it useful for naming a shared experience."
+      "example": "A new expression gains ground when speakers find it useful for naming a shared experience.",
+      "exampleTranslation": "当说话者发现一个新表达有助于命名共同经历时，它就会逐渐流行。"
     },
     {
       "pattern": "What is considered incorrect in + context + may be established in + another variety.",
       "cn": "在某语境被视为错误的形式，可能在另一变体中已确立。",
-      "example": "What is considered incorrect in formal writing may be established in regional speech."
+      "example": "What is considered incorrect in formal writing may be established in regional speech.",
+      "exampleTranslation": "在正式写作中被视为错误的形式，可能已在地区口语中确立。"
     },
     {
       "pattern": "The fact that language changes does not mean that + standard/clarity + is irrelevant.",
       "cn": "语言会变化这一事实不意味着标准或清晰度不重要。",
-      "example": "The fact that language changes does not mean that shared conventions are irrelevant."
+      "example": "The fact that language changes does not mean that shared conventions are irrelevant.",
+      "exampleTranslation": "语言会变化这一事实，并不意味着共同规范无关紧要。"
     }
   ],
   "expressions": [
     {
       "text": "coin a new word",
       "cn": "创造新词",
-      "example": "Writers sometimes coin a new word for an emerging idea."
+      "example": "Writers sometimes coin a new word for an emerging idea.",
+      "exampleTranslation": "作家有时会为新兴概念创造新词。"
     },
     {
       "text": "catch on",
       "cn": "流行起来",
-      "example": "The shortened form caught on among younger speakers."
+      "example": "The shortened form caught on among younger speakers.",
+      "exampleTranslation": "这种缩略形式在年轻说话者中流行起来。"
     },
     {
       "text": "fall out of use",
       "cn": "不再使用",
-      "example": "Some technical terms fall out of use when the technology disappears."
+      "example": "Some technical terms fall out of use when the technology disappears.",
+      "exampleTranslation": "有些技术术语会随着相关技术消失而停止使用。"
     },
     {
       "text": "sound old-fashioned",
       "cn": "听起来过时",
-      "example": "The phrase now sounds old-fashioned in ordinary conversation."
+      "example": "The phrase now sounds old-fashioned in ordinary conversation.",
+      "exampleTranslation": "这个短语如今在日常对话中听起来已经过时。"
     },
     {
       "text": "enter everyday language",
       "cn": "进入日常语言",
-      "example": "Several computing terms have entered everyday language."
+      "example": "Several computing terms have entered everyday language.",
+      "exampleTranslation": "几个计算机术语已经进入日常语言。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "track semantic change",
         "distinguish context and register"
       ],
-      "argument": "A new pronunciation or word may serve identity, efficiency or a newly visible concept. Dismissing it immediately prevents analysis of why speakers adopt it. Description does not require accepting the form in every context; a job application and a private message follow different expectations. Evidence about frequency and audience can guide teaching more accurately than personal irritation. Language standards remain useful when presented as contextual conventions rather than proof that other varieties lack structure."
+      "argument": "A new pronunciation or word may serve identity, efficiency or a newly visible concept. Dismissing it immediately prevents analysis of why speakers adopt it. Description does not require accepting the form in every context; a job application and a private message follow different expectations. Evidence about frequency and audience can guide teaching more accurately than personal irritation. Language standards remain useful when presented as contextual conventions rather than proof that other varieties lack structure.",
+      "viewpointTranslation": "判断语言变化之前，应先对其进行描述。",
+      "topicSentenceTranslation": "了解谁在何地、出于何种目的使用一种形式，比把每项创新都称为退化更有用。",
+      "collocationTranslations": [
+        "观察语言使用",
+        "识别语言社群",
+        "追踪语义变化",
+        "区分语境与语域"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A new pronunciation or word may serve identity, efficiency or a newly visible concept.",
+          "translation": "一种新发音或新词可能服务于身份认同、表达效率或一个新近受到关注的概念。"
+        },
+        {
+          "text": "Dismissing it immediately prevents analysis of why speakers adopt it.",
+          "translation": "立即否定它，会阻碍人们分析说话者为何采用它。"
+        },
+        {
+          "text": "Description does not require accepting the form in every context; a job application and a private message follow different expectations.",
+          "translation": "描述并不要求在每种语境中都接受这种形式；求职申请和私人消息遵循不同规范。"
+        },
+        {
+          "text": "Evidence about frequency and audience can guide teaching more accurately than personal irritation.",
+          "translation": "有关频率和受众的证据，比个人反感更能准确指导教学。"
+        },
+        {
+          "text": "Language standards remain useful when presented as contextual conventions rather than proof that other varieties lack structure.",
+          "translation": "如果把语言标准呈现为特定语境下的规范，而不是其他变体缺乏结构的证明，它们依然有用。"
+        }
+      ]
     },
     {
       "viewpoint": "Schools should teach standard forms without devaluing home varieties.",
@@ -301,19 +347,99 @@
         "switch between registers",
         "avoid language prejudice"
       ],
-      "argument": "A regional or social dialect has systematic grammar even when it differs from the written standard. Treating home speech as careless can silence pupils and confuse identity with academic ability. Teachers can explicitly compare contexts and practise the forms expected in examinations or professional writing. This adds a repertoire rather than demanding cultural erasure. Mastery is demonstrated by purposeful choice between varieties, not by denying that variation exists."
+      "argument": "A regional or social dialect has systematic grammar even when it differs from the written standard. Treating home speech as careless can silence pupils and confuse identity with academic ability. Teachers can explicitly compare contexts and practise the forms expected in examinations or professional writing. This adds a repertoire rather than demanding cultural erasure. Mastery is demonstrated by purposeful choice between varieties, not by denying that variation exists.",
+      "viewpointTranslation": "学校应教授标准形式，同时不贬低家庭语言变体。",
+      "topicSentenceTranslation": "学生学会使用正式机构所期待的语域后，能够获得更多机会，同时仍可尊重自己已有的语言。",
+      "collocationTranslations": [
+        "教授标准规范",
+        "承认语言多样性",
+        "在语域间切换",
+        "避免语言偏见"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A regional or social dialect has systematic grammar even when it differs from the written standard.",
+          "translation": "地区或社会方言即使不同于书面标准，也具有系统性语法。"
+        },
+        {
+          "text": "Treating home speech as careless can silence pupils and confuse identity with academic ability.",
+          "translation": "把家庭口语视为马虎会使学生沉默，并混淆身份与学术能力。"
+        },
+        {
+          "text": "Teachers can explicitly compare contexts and practise the forms expected in examinations or professional writing.",
+          "translation": "教师可以明确比较不同语境，并练习考试或专业写作所要求的形式。"
+        },
+        {
+          "text": "This adds a repertoire rather than demanding cultural erasure.",
+          "translation": "这会扩大学生的语言储备，而不是要求他们抹去自己的文化。"
+        },
+        {
+          "text": "Mastery is demonstrated by purposeful choice between varieties, not by denying that variation exists.",
+          "translation": "掌握语言体现在有目的地选择不同变体，而不是否认差异的存在。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you notice new words entering everyday language?",
-      "answer": "Yes, especially words connected with technology or online behaviour. Some spread so quickly that I forget they are recent, while others disappear after a few months. I am interested in whether a new word names something useful. I do not use every fashionable expression simply because other people do. Usage across different situations tells me whether an expression is likely to last."
+      "answer": "Yes, especially words connected with technology or online behaviour. Some spread so quickly that I forget they are recent, while others disappear after a few months. I am interested in whether a new word names something useful. I do not use every fashionable expression simply because other people do. Usage across different situations tells me whether an expression is likely to last.",
+      "questionTranslation": "你会注意到新词进入日常语言吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, especially words connected with technology or online behaviour.",
+          "translation": "会，尤其是与技术或网络行为有关的词。"
+        },
+        {
+          "text": "Some spread so quickly that I forget they are recent, while others disappear after a few months.",
+          "translation": "有些词传播得如此迅速，以至于我忘了它们是新近出现的；另一些则几个月后就消失。"
+        },
+        {
+          "text": "I am interested in whether a new word names something useful.",
+          "translation": "我关心一个新词是否为某种事物提供了有用名称。"
+        },
+        {
+          "text": "I do not use every fashionable expression simply because other people do.",
+          "translation": "我不会仅仅因为别人使用，就采用每个流行表达。"
+        },
+        {
+          "text": "Usage across different situations tells me whether an expression is likely to last.",
+          "translation": "不同场合中的使用情况能帮助我判断一个表达是否可能长期存在。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a word or expression that you find interesting.",
-      "answer": "I find the expression “doomscrolling” interesting because it combines a behaviour and an emotional consequence in one word. It describes continuing to read negative news online even though the experience makes a person feel worse. Before the word became common, the behaviour existed but required a whole sentence to explain. The expression is informal and may not suit every piece of writing, yet it has helped people recognise a shared habit. I also like how its meaning can be guessed from the two parts. It shows why new vocabulary appears: speakers need an efficient label for an experience created or made more visible by social change."
+      "answer": "I find the expression “doomscrolling” interesting because it combines a behaviour and an emotional consequence in one word. It describes continuing to read negative news online even though the experience makes a person feel worse. Before the word became common, the behaviour existed but required a whole sentence to explain. The expression is informal and may not suit every piece of writing, yet it has helped people recognise a shared habit. I also like how its meaning can be guessed from the two parts. It shows why new vocabulary appears: speakers need an efficient label for an experience created or made more visible by social change.",
+      "questionTranslation": "描述一个你觉得有趣的词或表达。",
+      "answerSentences": [
+        {
+          "text": "I find the expression “doomscrolling” interesting because it combines a behaviour and an emotional consequence in one word.",
+          "translation": "我觉得“doomscrolling”这个表达很有趣，因为它用一个词结合了某种行为及其情绪后果。"
+        },
+        {
+          "text": "It describes continuing to read negative news online even though the experience makes a person feel worse.",
+          "translation": "它指不断在网上阅读负面新闻，即使这种体验会让人感觉更糟。"
+        },
+        {
+          "text": "Before the word became common, the behaviour existed but required a whole sentence to explain.",
+          "translation": "这个词普及前，这种行为已经存在，却需要用一整句话解释。"
+        },
+        {
+          "text": "The expression is informal and may not suit every piece of writing, yet it has helped people recognise a shared habit.",
+          "translation": "这个表达比较非正式，可能不适合每种写作，但它帮助人们认识到一种共同习惯。"
+        },
+        {
+          "text": "I also like how its meaning can be guessed from the two parts.",
+          "translation": "我也喜欢人们可以从它的两个组成部分猜出含义。"
+        },
+        {
+          "text": "It shows why new vocabulary appears: speakers need an efficient label for an experience created or made more visible by social change.",
+          "translation": "它说明了新词为何出现：说话者需要一个高效标签来描述由社会变化创造或凸显的经历。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +470,119 @@
         "answer": "analogy",
         "explanation": "Paragraph 2 names analogy."
       }
+    ],
+    "titleTranslation": "错误如何变成规则",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Language histories contain forms that began as reinterpretations.",
+          "translation": "语言史中存在一些始于重新分析的形式。"
+        },
+        {
+          "text": "Speakers hear a boundary between words differently, attach an ending to the wrong part or extend a familiar pattern to an exception.",
+          "translation": "说话者会以不同方式听辨词语边界、把词尾附到错误部分，或把熟悉规则延伸到例外情况。"
+        },
+        {
+          "text": "If the new form remains individual, it is called an error.",
+          "translation": "如果新形式只由个人使用，它会被称为错误。"
+        },
+        {
+          "text": "If a community adopts it across generations, it can become ordinary grammar or vocabulary.",
+          "translation": "如果一个社群跨世代采用它，它就可能成为普通语法或词汇。"
+        }
+      ],
+      [
+        {
+          "text": "One mechanism is analogy.",
+          "translation": "其中一种机制是类推。"
+        },
+        {
+          "text": "Children who say an irregular past tense as if it were regular are not speaking randomly; they have detected a productive rule.",
+          "translation": "儿童把不规则过去式说成规则形式时，并不是随意乱说；他们发现了一条具有能产性的规则。"
+        },
+        {
+          "text": "Most later learn the conventional exception, but sometimes the regular pattern spreads through the wider language.",
+          "translation": "大多数人后来会学会传统例外，但有时规则形式会传播到更广泛的语言中。"
+        },
+        {
+          "text": "Frequency, identity and contact with other varieties all influence which form survives.",
+          "translation": "频率、身份认同以及与其他语言变体的接触都会影响哪种形式得以保留。"
+        }
+      ],
+      [
+        {
+          "text": "Writers and teachers often resist innovation because shared standards support communication across regions and time.",
+          "translation": "作家和教师常抵制创新，因为共同标准支持跨地区和跨时代交流。"
+        },
+        {
+          "text": "Their concern is not meaningless.",
+          "translation": "他们的担忧并非毫无意义。"
+        },
+        {
+          "text": "Rapid variation in spelling or technical terminology can create ambiguity.",
+          "translation": "拼写或技术术语快速变化可能产生歧义。"
+        },
+        {
+          "text": "Yet standardisation itself selects among earlier alternatives, often through printing, education and institutional power rather than inherent linguistic superiority.",
+          "translation": "然而，标准化本身也是从早期选项中作出选择，往往依靠印刷、教育和机构权力，而不是语言本身更优越。"
+        }
+      ],
+      [
+        {
+          "text": "Change also moves in both directions.",
+          "translation": "变化也会双向发生。"
+        },
+        {
+          "text": "Informal expressions enter formal use, while official terminology becomes everyday speech.",
+          "translation": "非正式表达会进入正式用法，而官方术语也会成为日常语言。"
+        },
+        {
+          "text": "A word may narrow, broaden or reverse its evaluation.",
+          "translation": "一个词的意义可能缩窄、扩大或在评价上逆转。"
+        },
+        {
+          "text": "Dictionaries generally record substantial established use; they do not grant permission for a word to exist.",
+          "translation": "词典通常记录大量已经确立的用法；它们并不是在批准一个词存在。"
+        },
+        {
+          "text": "Inclusion usually follows evidence rather than causing adoption.",
+          "translation": "收录通常发生在证据出现之后，而不是导致人们采用该词。"
+        }
+      ],
+      [
+        {
+          "text": "Calling every innovation a mistake misses the collective process, but declaring that anything is acceptable misses context.",
+          "translation": "把每项创新都称为错误，会忽视集体过程；但声称任何形式都可接受，又会忽视语境。"
+        },
+        {
+          "text": "During change, speakers judge audience, register and the risk of misunderstanding.",
+          "translation": "在变化过程中，说话者会判断受众、语域和误解风险。"
+        },
+        {
+          "text": "The most skilled users often command both emerging and established forms.",
+          "translation": "最熟练的使用者往往同时掌握新兴和既有形式。"
+        },
+        {
+          "text": "They understand that language is a changing social agreement, not a choice between permanent rules and complete disorder.",
+          "translation": "他们明白，语言是一种不断变化的社会约定，而不是永久规则与彻底混乱之间的二选一。"
+        },
+        {
+          "text": "Technology accelerates visibility but not necessarily permanent adoption.",
+          "translation": "技术加速了可见性，却不一定带来永久采用。"
+        },
+        {
+          "text": "A spelling can spread through a platform because its interface, character limit or community favours it, then decline when users move elsewhere.",
+          "translation": "一种拼写可能因为平台界面、字符限制或社群偏好而传播，又在用户转向其他平台后衰退。"
+        },
+        {
+          "text": "Linguists therefore distinguish a temporary fashion from change that enters varied contexts and persists across speakers.",
+          "translation": "因此，语言学家会区分短暂潮流与进入多种语境并在不同说话者中持续存在的变化。"
+        },
+        {
+          "text": "Large online datasets help, but they overrepresent people and situations that leave searchable text.",
+          "translation": "大型网络数据集很有帮助，但会过度代表那些留下可搜索文字的人和情境。"
+        }
+      ]
     ]
   }
 }

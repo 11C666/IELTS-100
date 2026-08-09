@@ -153,7 +153,8 @@
         "members of the public",
         "residents"
       ],
-      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论代际差异。"
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论代际差异。",
+      "translation": "people 表示人们；individuals、members of the public 和 residents 可用于更正式或具体的语境。"
     },
     {
       "base": "use",
@@ -162,7 +163,8 @@
         "adopt",
         "rely on"
       ],
-      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论代际差异。"
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论代际差异。",
+      "translation": "use 表示使用；make use of、adopt 和 rely on 可分别表示利用、采用或依赖。"
     },
     {
       "base": "choice",
@@ -171,7 +173,8 @@
         "alternative",
         "decision"
       ],
-      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论代际差异。"
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论代际差异。",
+      "translation": "choice 表示选择；option、alternative 和 decision 可根据语境表示选项、替代方案或决定。"
     },
     {
       "base": "cause",
@@ -180,7 +183,8 @@
         "contribute to",
         "give rise to"
       ],
-      "note": "contribute to 表示众多原因之一。 本组可用于讨论代际差异。"
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论代际差异。",
+      "translation": "cause 表示导致；lead to、contribute to 和 give rise to 常用于说明因果关系。"
     },
     {
       "base": "benefit",
@@ -189,7 +193,8 @@
         "positive effect",
         "gain"
       ],
-      "note": "gain 可指个人获得的具体收益。 本组可用于讨论代际差异。"
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论代际差异。",
+      "translation": "benefit 表示益处；advantage、positive effect 和 gain 可表示优势、积极影响或收获。"
     },
     {
       "base": "harm",
@@ -198,7 +203,8 @@
         "negative effect",
         "undermine"
       ],
-      "note": "undermine 强调逐渐削弱。 本组可用于讨论代际差异。"
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论代际差异。",
+      "translation": "harm 表示伤害；damage、negative effect 和 undermine 可表示损害、负面影响或削弱。"
     },
     {
       "base": "support",
@@ -207,7 +213,8 @@
         "backing",
         "provision"
       ],
-      "note": "provision 常指服务或资源的供给。 本组可用于讨论代际差异。"
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论代际差异。",
+      "translation": "support 表示支持；assistance、backing 和 provision 可分别表示帮助、支持及供给。"
     },
     {
       "base": "different",
@@ -216,51 +223,60 @@
         "varied",
         "diverse"
       ],
-      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论代际差异。"
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论代际差异。",
+      "translation": "different 表示不同；distinct、varied 和 diverse 可强调区别、变化或多样性。"
     }
   ],
   "sentences": [
     {
       "pattern": "Differences between generations often reflect + conditions + rather than + personal flaw.",
       "cn": "代际差异往往反映条件，而不是个人缺陷。",
-      "example": "Differences between generations often reflect housing conditions rather than a lack of ambition."
+      "example": "Differences between generations often reflect housing conditions rather than a lack of ambition.",
+      "exampleTranslation": "代际差异常常反映住房条件，而不是缺乏上进心。"
     },
     {
       "pattern": "What one generation regards as + norm + may appear + contrast + to another.",
       "cn": "一代人视为常态的事物，对另一代可能显得……。",
-      "example": "What one generation regards as loyalty may appear like limited mobility to another."
+      "example": "What one generation regards as loyalty may appear like limited mobility to another.",
+      "exampleTranslation": "一代人视为忠诚的行为，在另一代人看来可能像是流动性有限。"
     },
     {
       "pattern": "Only by comparing + historical circumstances + can people avoid + unfair judgement.",
       "cn": "只有比较历史条件，人们才能避免不公判断。",
-      "example": "Only by comparing labour markets can people avoid judging career choices unfairly."
+      "example": "Only by comparing labour markets can people avoid judging career choices unfairly.",
+      "exampleTranslation": "只有比较不同劳动力市场，人们才能避免不公平地评判职业选择。"
     }
   ],
   "expressions": [
     {
-      "text": "see eye to eye",
-      "cn": "意见一致",
-      "example": "We do not always see eye to eye on spending."
+      "text": "meet someone halfway",
+      "cn": "与某人各退一步",
+      "example": "Both generations need to meet each other halfway when discussing family rules.",
+      "exampleTranslation": "讨论家庭规则时，两代人都需要各退一步。"
     },
     {
       "text": "bridge the generation gap",
       "cn": "缩小代沟",
-      "example": "Shared projects can bridge the generation gap."
+      "example": "Shared projects can bridge the generation gap.",
+      "exampleTranslation": "共同项目可以弥合代沟。"
     },
     {
       "text": "have a different outlook on life",
       "cn": "人生观不同",
-      "example": "My grandparents have a different outlook on job security."
+      "example": "My grandparents have a different outlook on job security.",
+      "exampleTranslation": "我的祖父母对工作稳定性有着不同的人生观。"
     },
     {
       "text": "grow up in a different era",
       "cn": "成长于不同时代",
-      "example": "They grew up in a different era with fewer educational choices."
+      "example": "They grew up in a different era with fewer educational choices.",
+      "exampleTranslation": "他们成长于教育选择较少的不同年代。"
     },
     {
       "text": "learn from one another",
       "cn": "相互学习",
-      "example": "Different generations can learn from one another without agreeing on everything."
+      "example": "Different generations can learn from one another without agreeing on everything.",
+      "exampleTranslation": "不同世代可以相互学习，而无需在所有事情上达成一致。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "experience insecure employment",
         "avoid moral judgement"
       ],
-      "argument": "An older person who bought a home on one salary may underestimate current deposits and prices, while a younger worker may not understand earlier restrictions on education or credit. Each group can mistake an outcome produced by conditions for evidence of character. Comparing wages, costs and institutional rules makes the disagreement more specific. Values still differ, but evidence prevents broad claims about laziness or irresponsibility. Intergenerational debate improves when circumstances are separated from stereotypes."
+      "argument": "An older person who bought a home on one salary may underestimate current deposits and prices, while a younger worker may not understand earlier restrictions on education or credit. Each group can mistake an outcome produced by conditions for evidence of character. Comparing wages, costs and institutional rules makes the disagreement more specific. Values still differ, but evidence prevents broad claims about laziness or irresponsibility. Intergenerational debate improves when circumstances are separated from stereotypes.",
+      "viewpointTranslation": "许多代沟源于经济，而不是道德。",
+      "topicSentenceTranslation": "理解住房和工作选择的差异时，应考虑当时可获得的机会。",
+      "collocationTranslations": [
+        "面对不同经济条件",
+        "进入住房市场",
+        "经历不稳定就业",
+        "避免道德评判"
+      ],
+      "argumentSentences": [
+        {
+          "text": "An older person who bought a home on one salary may underestimate current deposits and prices, while a younger worker may not understand earlier restrictions on education or credit.",
+          "translation": "一位靠单份工资买房的老年人可能低估如今首付和房价，而年轻工作者也可能不了解过去教育或信贷方面的限制。"
+        },
+        {
+          "text": "Each group can mistake an outcome produced by conditions for evidence of character.",
+          "translation": "每个群体都可能把条件造成的结果误认为性格的证据。"
+        },
+        {
+          "text": "Comparing wages, costs and institutional rules makes the disagreement more specific.",
+          "translation": "比较工资、成本和制度规则，可以让分歧更加具体。"
+        },
+        {
+          "text": "Values still differ, but evidence prevents broad claims about laziness or irresponsibility.",
+          "translation": "价值观仍有差异，但证据可以防止关于懒惰或不负责任的笼统说法。"
+        },
+        {
+          "text": "Intergenerational debate improves when circumstances are separated from stereotypes.",
+          "translation": "当具体环境与刻板印象分开时，代际讨论会得到改善。"
+        }
+      ]
     },
     {
       "viewpoint": "Structured contact can reduce age stereotypes.",
@@ -301,19 +347,99 @@
         "work towards a common task",
         "build mutual respect"
       ],
-      "argument": "People often meet other age groups only within family roles, where authority and dependence shape the conversation. Community gardening, mentoring or local research gives participants a purpose that is not defined by age. Competence becomes visible in both directions: one person may contribute technical confidence and another long experience of the area. Disagreement remains possible, but it concerns the task rather than an imagined generation. Repeated cooperation provides evidence against simple stereotypes."
+      "argument": "People often meet other age groups only within family roles, where authority and dependence shape the conversation. Community gardening, mentoring or local research gives participants a purpose that is not defined by age. Competence becomes visible in both directions: one person may contribute technical confidence and another long experience of the area. Disagreement remains possible, but it concerns the task rather than an imagined generation. Repeated cooperation provides evidence against simple stereotypes.",
+      "viewpointTranslation": "有组织的接触可以减少年龄刻板印象。",
+      "topicSentenceTranslation": "围绕共同任务开展的项目，比仅仅赞美代际和谐的活动更能增进理解。",
+      "collocationTranslations": [
+        "挑战年龄刻板印象",
+        "分享实用知识",
+        "为共同任务努力",
+        "建立相互尊重"
+      ],
+      "argumentSentences": [
+        {
+          "text": "People often meet other age groups only within family roles, where authority and dependence shape the conversation.",
+          "translation": "人们与其他年龄群体接触时往往只处于家庭角色中，此时权威和依赖会塑造对话。"
+        },
+        {
+          "text": "Community gardening, mentoring or local research gives participants a purpose that is not defined by age.",
+          "translation": "社区园艺、辅导或本地研究为参与者提供了一个不由年龄定义的目标。"
+        },
+        {
+          "text": "Competence becomes visible in both directions: one person may contribute technical confidence and another long experience of the area.",
+          "translation": "双方的能力都会显现：一人可能贡献技术信心，另一人则贡献对当地的长期经验。"
+        },
+        {
+          "text": "Disagreement remains possible, but it concerns the task rather than an imagined generation.",
+          "translation": "分歧仍可能存在，但它围绕任务，而不是想象中的某一代人。"
+        },
+        {
+          "text": "Repeated cooperation provides evidence against simple stereotypes.",
+          "translation": "反复合作能提供反驳简单刻板印象的证据。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you often talk to people much older than you?",
-      "answer": "Yes, mainly relatives and a few neighbours. Our conversations are easiest when they concern something specific, such as food, local changes or a practical problem. We sometimes disagree about work and technology, but I learn useful background from them. I try not to assume that age alone explains every opinion."
+      "answer": "Yes, mainly relatives and a few neighbours. Our conversations are easiest when they concern something specific, such as food, local changes or a practical problem. We sometimes disagree about work and technology, but I learn useful background from them. I try not to assume that age alone explains every opinion.",
+      "questionTranslation": "你经常和比你年长很多的人交谈吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, mainly relatives and a few neighbours.",
+          "translation": "会，主要是亲属和几位邻居。"
+        },
+        {
+          "text": "Our conversations are easiest when they concern something specific, such as food, local changes or a practical problem.",
+          "translation": "当谈话涉及食物、本地变化或实际问题等具体事物时，交流最顺畅。"
+        },
+        {
+          "text": "We sometimes disagree about work and technology, but I learn useful background from them.",
+          "translation": "我们有时在工作和技术问题上意见不同，但我能从他们那里了解有用的背景。"
+        },
+        {
+          "text": "I try not to assume that age alone explains every opinion.",
+          "translation": "我尽量不假定仅凭年龄就能解释每一种观点。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe something you learned from a person of another generation.",
-      "answer": "An older relative taught me how to repair a loose button and make a simple alteration to clothing. She had learned because replacing things was expensive when she was young, whereas I had become used to buying another item. She showed me how to choose thread, secure the first stitch and check the tension without rushing. The practical skill was simple, but the conversation changed how I viewed maintenance. She did not lecture me about waste; her competence made the alternative visible. I now repair minor damage more often, and I have shown the method to a younger cousin. The experience demonstrated that knowledge can travel across generations through an ordinary shared task."
+      "answer": "An older relative taught me how to repair a loose button and make a simple alteration to clothing. She had learned because replacing things was expensive when she was young, whereas I had become used to buying another item. She showed me how to choose thread, secure the first stitch and check the tension without rushing. The practical skill was simple, but the conversation changed how I viewed maintenance. She did not lecture me about waste; her competence made the alternative visible. I now repair minor damage more often, and I have shown the method to a younger cousin. The experience demonstrated that knowledge can travel across generations through an ordinary shared task.",
+      "questionTranslation": "描述你从另一代人那里学到的一件事。",
+      "answerSentences": [
+        {
+          "text": "An older relative taught me how to repair a loose button and make a simple alteration to clothing.",
+          "translation": "一位年长亲属教我如何缝紧松动的纽扣，并对衣服进行简单修改。"
+        },
+        {
+          "text": "She had learned because replacing things was expensive when she was young, whereas I had become used to buying another item.",
+          "translation": "她学会这些技能，是因为她年轻时更换物品很昂贵，而我已经习惯直接再买一件。"
+        },
+        {
+          "text": "She showed me how to choose thread, secure the first stitch and check the tension without rushing.",
+          "translation": "她教我如何选线、固定第一针，并不慌不忙地检查松紧度。"
+        },
+        {
+          "text": "The practical skill was simple, but the conversation changed how I viewed maintenance.",
+          "translation": "这项实际技能很简单，但那次交流改变了我看待维护物品的方式。"
+        },
+        {
+          "text": "She did not lecture me about waste; her competence made the alternative visible.",
+          "translation": "她没有说教浪费问题；她熟练的做法本身就展示了另一种选择。"
+        },
+        {
+          "text": "I now repair minor damage more often, and I have shown the method to a younger cousin.",
+          "translation": "现在我更常修补小损坏，也把这种方法教给了一位更年轻的表亲。"
+        },
+        {
+          "text": "The experience demonstrated that knowledge can travel across generations through an ordinary shared task.",
+          "translation": "这次经历说明，知识可以通过普通的共同任务跨世代传递。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +476,99 @@
         "answer": "hypothesis",
         "explanation": "The final paragraph uses this contrast."
       }
+    ],
+    "titleTranslation": "随时间移动的世代标签",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Labels such as “baby boomers” or “digital natives” suggest that people born within a period share defining qualities.",
+          "translation": "“婴儿潮一代”或“数字原住民”等标签暗示，出生于某个时期的人具有共同的决定性特征。"
+        },
+        {
+          "text": "They are convenient for headlines and market reports, but the boundaries vary between countries and researchers.",
+          "translation": "这些标签便于新闻标题和市场报告使用，但不同国家和研究人员划定的界限并不一致。"
+        },
+        {
+          "text": "War, economic reform or the arrival of technology does not occur at the same time everywhere.",
+          "translation": "战争、经济改革或技术的到来并不会在所有地方同时发生。"
+        }
+      ],
+      [
+        {
+          "text": "Age, period and cohort effects are also difficult to separate.",
+          "translation": "年龄效应、时期效应和群体效应也很难区分。"
+        },
+        {
+          "text": "Young adults may hold different attitudes because they are at an early life stage, because everyone is responding to a current event, or because a formative experience affected their birth group.",
+          "translation": "年轻人的态度可能不同，是因为他们处于人生早期阶段，因为所有人都在回应当前事件，或因为某种成长经历影响了他们的出生群体。"
+        },
+        {
+          "text": "A single survey comparing twenty-year-olds with sixty-year-olds cannot identify which explanation is correct.",
+          "translation": "仅用一次调查比较二十岁和六十岁的人，无法判断哪种解释正确。"
+        }
+      ],
+      [
+        {
+          "text": "Economic diversity within a generation can exceed the average difference between generations.",
+          "translation": "一个世代内部的经济差异可能超过不同世代之间的平均差异。"
+        },
+        {
+          "text": "A wealthy young homeowner and a young renter do not share the same opportunity merely because they use similar technology.",
+          "translation": "富有的年轻房主和年轻租客不会仅因为使用相似技术就拥有相同机会。"
+        },
+        {
+          "text": "Gender, region, education and family wealth shape experience.",
+          "translation": "性别、地区、教育和家庭财富都会塑造经历。"
+        },
+        {
+          "text": "Broad labels can hide these divisions while presenting one highly visible subgroup as typical.",
+          "translation": "笼统标签会掩盖这些差异，同时把一个高度显眼的群体呈现为典型。"
+        }
+      ],
+      [
+        {
+          "text": "Longitudinal studies follow people or repeat comparable surveys over time.",
+          "translation": "纵向研究会长期跟踪个人，或随时间重复进行可比调查。"
+        },
+        {
+          "text": "They can show whether attitudes change as individuals age and whether gaps persist.",
+          "translation": "它们可以显示态度是否随个人年龄增长而改变，以及差距是否持续。"
+        },
+        {
+          "text": "Such research is slow and still faces migration and changing question meanings, but it provides stronger evidence than anecdotes about one difficult family conversation.",
+          "translation": "这类研究速度慢，仍会面临人口迁移和问题含义变化，但比一次艰难家庭谈话的轶事提供更有力的证据。"
+        }
+      ],
+      [
+        {
+          "text": "Generational language can begin useful questions if treated as a hypothesis rather than a personality test.",
+          "translation": "如果把世代语言当作假设而不是性格测试，它可以引出有用问题。"
+        },
+        {
+          "text": "Asking what event affected a group, through which mechanism and for how long is more informative than assuming a permanent mindset.",
+          "translation": "追问什么事件通过何种机制影响了一个群体、影响持续多久，比假定一种永久心态更有意义。"
+        },
+        {
+          "text": "People are shaped by historical time, yet they also change, differ and respond to circumstances that no birth-year label can contain.",
+          "translation": "人会受到历史时代塑造，但也会变化、彼此不同，并回应出生年份标签无法包含的具体环境。"
+        },
+        {
+          "text": "The labels can affect behaviour after they are published.",
+          "translation": "这些标签发布后还可能影响行为。"
+        },
+        {
+          "text": "Employers may design benefits for an imagined generation, and individuals may explain preferences through a category they have repeatedly heard.",
+          "translation": "雇主可能为想象中的一代人设计福利，个人也可能用反复听到的类别解释自己的偏好。"
+        },
+        {
+          "text": "This does not prove the category was accurate at the start.",
+          "translation": "这并不能证明该类别最初就是准确的。"
+        },
+        {
+          "text": "Researchers need to consider whether a reported difference describes experience or partly reflects a story that institutions and media taught people to expect.",
+          "translation": "研究人员需要考虑，所报告的差异是在描述经历，还是部分反映了机构和媒体教人们期待的故事。"
+        }
+      ]
     ]
   }
 }

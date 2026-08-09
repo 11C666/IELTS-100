@@ -153,7 +153,8 @@
         "obtain a position",
         "enter paid work"
       ],
-      "note": "secure 强调成功获得。"
+      "note": "secure 强调成功获得。",
+      "translation": "find a job 可以表达为“获得稳定工作”“找到职位”或“进入有薪就业”。"
     },
     {
       "base": "job opening",
@@ -162,7 +163,8 @@
         "available position",
         "employment opportunity"
       ],
-      "note": "vacancy 是招聘语境核心词。"
+      "note": "vacancy 是招聘语境核心词。",
+      "translation": "职位空缺可以表示为职位空缺、可用职位、就业机会。"
     },
     {
       "base": "good working conditions",
@@ -171,7 +173,8 @@
         "decent work",
         "favourable employment conditions"
       ],
-      "note": "decent work 包含薪资、安全与权利。"
+      "note": "decent work 包含薪资、安全与权利。",
+      "translation": "良好的工作条件可以表现为高质量的就业、体面的工作、良好的就业条件。"
     },
     {
       "base": "unstable work",
@@ -180,7 +183,8 @@
         "precarious work",
         "irregular paid work"
       ],
-      "note": "precarious 是学术写作常用词。"
+      "note": "precarious 是学术写作常用词。",
+      "translation": "不稳定的工作可以表现为不稳定的就业、不稳定的工作、无规律的有偿工作。"
     },
     {
       "base": "skills from another job",
@@ -189,7 +193,8 @@
         "relevant prior experience",
         "cross-sector skills"
       ],
-      "note": "transferable 不等于完全相同经验。"
+      "note": "transferable 不等于完全相同经验。",
+      "translation": "来自另一份工作的技能可以表示为可转移的能力、相关的先前经验、跨部门技能。"
     },
     {
       "base": "beginner’s job",
@@ -198,7 +203,8 @@
         "junior position",
         "route into an occupation"
       ],
-      "note": "entry-level 应真正允许新人进入。"
+      "note": "entry-level 应真正允许新人进入。",
+      "translation": "beginner job 可以表达为“入门岗位”“初级职位”或“进入某一职业的起点”。"
     },
     {
       "base": "choose an applicant",
@@ -207,7 +213,8 @@
         "make an appointment",
         "recruit a suitable employee"
       ],
-      "note": "appointment 可表示正式任用。"
+      "note": "appointment 可表示正式任用。",
+      "translation": "choose applicants 可以表达为“筛选候选人”“确定录用人选”或“招聘合适员工”。"
     },
     {
       "base": "people looking for work",
@@ -216,51 +223,60 @@
         "applicants",
         "prospective employees"
       ],
-      "note": "applicant 已经申请，jobseeker 范围更广。"
+      "note": "applicant 已经申请，jobseeker 范围更广。",
+      "translation": "寻找工作的人可以表示为求职者、申请人、未来雇员。"
     }
   ],
   "sentences": [
     {
       "pattern": "Employment provides + benefit, but it can also expose workers to + risk.",
       "cn": "就业带来某种益处，但也可能使劳动者面临某种风险。",
-      "example": "Employment provides financial security, but it can also expose workers to excessive demands."
+      "example": "Employment provides financial security, but it can also expose workers to excessive demands.",
+      "exampleTranslation": "就业提供了经济保障，但也可能使工人面临过高的要求。"
     },
     {
       "pattern": "Those who + work condition + are more likely to + outcome.",
       "cn": "处于某种工作条件下的人更可能……。",
-      "example": "Those who receive clear expectations are more likely to work independently."
+      "example": "Those who receive clear expectations are more likely to work independently.",
+      "exampleTranslation": "那些获得明确期望的人更有可能独立工作。"
     },
     {
       "pattern": "Unless + labour protection + is enforced, + negative practice + may persist.",
       "cn": "除非劳动保障得到执行，否则某种不良做法可能持续。",
-      "example": "Unless minimum standards are enforced, unsafe employment may persist."
+      "example": "Unless minimum standards are enforced, unsafe employment may persist.",
+      "exampleTranslation": "除非执行最低标准，否则不安全的就业可能会持续存在。"
     }
   ],
   "expressions": [
     {
       "text": "earn a living",
       "cn": "谋生",
-      "example": "Most adults need to earn a living, but pay is not their only concern."
+      "example": "Most adults need to earn a living, but pay is not their only concern.",
+      "exampleTranslation": "大多数成年人需要谋生，但工资并不是他们唯一关心的问题。"
     },
     {
       "text": "apply for a vacancy",
       "cn": "申请职位空缺",
-      "example": "I applied for a vacancy in a small design firm."
+      "example": "I applied for a vacancy in a small design firm.",
+      "exampleTranslation": "我申请了一家小型设计公司的职位空缺。"
     },
     {
       "text": "gain hands-on experience",
       "cn": "获得实践经验",
-      "example": "The placement helped me gain hands-on experience."
+      "example": "The placement helped me gain hands-on experience.",
+      "exampleTranslation": "这次实习帮助我获得了实践经验。"
     },
     {
       "text": "be out of work",
       "cn": "失业",
-      "example": "He was out of work for several months."
+      "example": "He was out of work for several months.",
+      "exampleTranslation": "他已经失业好几个月了。"
     },
     {
       "text": "enter the labour market",
       "cn": "进入劳动力市场",
-      "example": "Graduates are entering the labour market during a period of uncertainty."
+      "example": "Graduates are entering the labour market during a period of uncertainty.",
+      "exampleTranslation": "毕业生在不确定的时期进入劳动力市场。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "receive a living wage",
         "protect worker well-being"
       ],
-      "argument": "A rise in employment can conceal unstable hours, unsafe conditions or wages that do not cover basic needs. Workers in such roles remain vulnerable even though statistics classify them as employed. Minimum standards and effective inspection reduce the incentive for responsible firms to be undercut by poor practice. Access to predictable schedules also helps families arrange care and transport. Economic success should therefore be judged partly by the quality and not merely the quantity of work."
+      "argument": "A rise in employment can conceal unstable hours, unsafe conditions or wages that do not cover basic needs. Workers in such roles remain vulnerable even though statistics classify them as employed. Minimum standards and effective inspection reduce the incentive for responsible firms to be undercut by poor practice. Access to predictable schedules also helps families arrange care and transport. Economic success should therefore be judged partly by the quality and not merely the quantity of work.",
+      "viewpointTranslation": "工作质量与创造的就业机会数量一样重要。",
+      "topicSentenceTranslation": "就业政策应考虑安全、薪酬和工作条件，而不仅仅是总体就业总数。",
+      "collocationTranslations": [
+        "创造有保障的就业",
+        "执行劳工标准",
+        "领取生活工资",
+        "保护工人福祉"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A rise in employment can conceal unstable hours, unsafe conditions or wages that do not cover basic needs.",
+          "translation": "就业的增加可能掩盖了不稳定的工作时间、不安全的条件或不能满足基本需求的工资。"
+        },
+        {
+          "text": "Workers in such roles remain vulnerable even though statistics classify them as employed.",
+          "translation": "尽管统计数据将担任此类职务的工人归类为就业人员，但他们仍然很容易受到伤害。"
+        },
+        {
+          "text": "Minimum standards and effective inspection reduce the incentive for responsible firms to be undercut by poor practice.",
+          "translation": "最低标准和有效的检查减少了负责任的公司因不良做法而受到削弱的动力。"
+        },
+        {
+          "text": "Access to predictable schedules also helps families arrange care and transport.",
+          "translation": "获得可预测的时间表也有助于家庭安排护理和交通。"
+        },
+        {
+          "text": "Economic success should therefore be judged partly by the quality and not merely the quantity of work.",
+          "translation": "因此，经济成功的判断应部分取决于工作的质量，而不仅仅是工作的数量。"
+        }
+      ]
     },
     {
       "viewpoint": "Entry-level recruitment should recognise potential as well as prior experience.",
@@ -301,19 +347,107 @@
         "provide workplace training",
         "widen the applicant pool"
       ],
-      "argument": "Employers use experience as a convenient signal because it appears to reduce training risk. However, requiring several years for junior roles excludes capable graduates and career changers before their relevant qualities are examined. Work samples, structured interviews and probation with support can provide better evidence of learning ability. Firms also benefit from a wider applicant pool when they distinguish essential competence from familiar background. Entry-level work should contain a genuine route into an occupation."
+      "argument": "Employers use experience as a convenient signal because it appears to reduce training risk. However, requiring several years for junior roles excludes capable graduates and career changers before their relevant qualities are examined. Work samples, structured interviews and probation with support can provide better evidence of learning ability. Firms also benefit from a wider applicant pool when they distinguish essential competence from familiar background. Entry-level work should contain a genuine route into an occupation.",
+      "viewpointTranslation": "入门级招聘应认识到潜力和先前的经验。",
+      "topicSentenceTranslation": "过多的经验要求可能会堵塞初学者获得经验的途径。",
+      "collocationTranslations": [
+        "宣传入门级角色",
+        "展示可转移技能",
+        "提供工作场所培训",
+        "扩大申请人库"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Employers use experience as a convenient signal because it appears to reduce training risk.",
+          "translation": "雇主将经验作为一种方便的信号，因为它似乎可以降低培训风险。"
+        },
+        {
+          "text": "However, requiring several years for junior roles excludes capable graduates and career changers before their relevant qualities are examined.",
+          "translation": "然而，初级职位要求几年的时间，在对有能力的毕业生和职业转换者的相关素质进行审查之前，将他们排除在外。"
+        },
+        {
+          "text": "Work samples, structured interviews and probation with support can provide better evidence of learning ability.",
+          "translation": "工作样本、结构化面试和有支持的试用可以提供更好的学习能力证据。"
+        },
+        {
+          "text": "Firms also benefit from a wider applicant pool when they distinguish essential competence from familiar background.",
+          "translation": "当公司将基本能力与熟悉的背景区分开来时，公司也会受益于更广泛的申请者群体。"
+        },
+        {
+          "text": "Entry-level work should contain a genuine route into an occupation.",
+          "translation": "入门级工作应该包含进入职业的真正途径。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What kind of workplace would you like to work in?",
-      "answer": "I would prefer a fairly small workplace where responsibilities are clear but people can ask for help. I do not need constant social events; I value colleagues who share information and respect focused time. Some flexibility over starting hours would also make a practical difference. The atmosphere matters more to me than an impressive office."
+      "answer": "I would prefer a fairly small workplace where responsibilities are clear but people can ask for help. I do not need constant social events; I value colleagues who share information and respect focused time. Some flexibility over starting hours would also make a practical difference. The atmosphere matters more to me than an impressive office.",
+      "questionTranslation": "您想在什么样的工作场所工作？",
+      "answerSentences": [
+        {
+          "text": "I would prefer a fairly small workplace where responsibilities are clear but people can ask for help.",
+          "translation": "我更喜欢一个相当小的工作场所，职责明确，但人们可以寻求帮助。"
+        },
+        {
+          "text": "I do not need constant social events; I value colleagues who share information and respect focused time.",
+          "translation": "我不需要持续不断的社交活动；我重视分享信息并尊重专注时间的同事。"
+        },
+        {
+          "text": "Some flexibility over starting hours would also make a practical difference.",
+          "translation": "上班时间能够稍微灵活一些，也会带来实际帮助。"
+        },
+        {
+          "text": "The atmosphere matters more to me than an impressive office.",
+          "translation": "对我来说，氛围比令人印象深刻的办公室更重要。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a job you think would be difficult.",
-      "answer": "Emergency call handling seems extremely difficult. The employee has to obtain accurate information from someone who may be frightened, angry or unable to explain their location. Decisions must be made quickly, but the caller still needs to feel heard. Shift work and repeated exposure to distress would add emotional pressure. I admire people who do it because the role combines technical procedure, communication and self-control in every conversation. Small mistakes could have serious consequences, and the handler may never learn what happened after the call was transferred. Training must cover geography, software and emergency procedures, while supervision must support emotional recovery. I would find the uncertainty hardest. It is a job where success may look like an ordinary conversation even though the person has managed considerable risk in a few minutes."
+      "answer": "Emergency call handling seems extremely difficult. The employee has to obtain accurate information from someone who may be frightened, angry or unable to explain their location. Decisions must be made quickly, but the caller still needs to feel heard. Shift work and repeated exposure to distress would add emotional pressure. I admire people who do it because the role combines technical procedure, communication and self-control in every conversation. Small mistakes could have serious consequences, and the handler may never learn what happened after the call was transferred. Training must cover geography, software and emergency procedures, while supervision must support emotional recovery. I would find the uncertainty hardest. It is a job where success may look like an ordinary conversation even though the person has managed considerable risk in a few minutes.",
+      "questionTranslation": "描述一项您认为困难的工作。",
+      "answerSentences": [
+        {
+          "text": "Emergency call handling seems extremely difficult.",
+          "translation": "接听紧急求助电话似乎是一项极其困难的工作。"
+        },
+        {
+          "text": "The employee has to obtain accurate information from someone who may be frightened, angry or unable to explain their location.",
+          "translation": "员工必须从可能受到惊吓、愤怒或无法解释其位置的人那里获取准确信息。"
+        },
+        {
+          "text": "Decisions must be made quickly, but the caller still needs to feel heard.",
+          "translation": "必须迅速做出决定，但来电者仍然需要感到被倾听。"
+        },
+        {
+          "text": "Shift work and repeated exposure to distress would add emotional pressure.",
+          "translation": "轮班工作以及反复接触他人的困境都会增加情绪压力。"
+        },
+        {
+          "text": "I admire people who do it because the role combines technical procedure, communication and self-control in every conversation.",
+          "translation": "我很钦佩从事这项工作的人，因为他们在每次通话中都要兼顾技术流程、沟通能力和自我控制。"
+        },
+        {
+          "text": "Small mistakes could have serious consequences, and the handler may never learn what happened after the call was transferred.",
+          "translation": "小错误可能会造成严重后果，处理人员可能永远不会知道呼叫转接后发生了什么。"
+        },
+        {
+          "text": "Training must cover geography, software and emergency procedures, while supervision must support emotional recovery.",
+          "translation": "培训必须涵盖地理、软件和应急程序，而监督必须支持情绪恢复。"
+        },
+        {
+          "text": "I would find the uncertainty hardest.",
+          "translation": "我发现不确定性是最难的。"
+        },
+        {
+          "text": "It is a job where success may look like an ordinary conversation even though the person has managed considerable risk in a few minutes.",
+          "translation": "在这份工作中，一次看似普通的通话可能就代表成功，尽管接线员在几分钟内处理了相当大的风险。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +478,115 @@
         "answer": "the role, the selection process and the labour market",
         "explanation": "The final paragraph lists these three elements."
       }
+    ],
+    "titleTranslation": "永远无法填补的空缺",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Some organisations advertise the same role repeatedly without appointing anyone.",
+          "translation": "有些组织反复宣传同一职位，但没有任命任何人。"
+        },
+        {
+          "text": "Managers may conclude that a skills shortage exists, yet the vacancy itself can be part of the problem.",
+          "translation": "管理者可能会得出结论，认为存在技能短缺，但职位空缺本身也可能是问题的一部分。"
+        },
+        {
+          "text": "A description assembled from several former jobs may demand an uncommon combination of abilities.",
+          "translation": "由之前的几份工作组合而成的描述可能需要不同寻常的能力组合。"
+        },
+        {
+          "text": "The salary may reflect an entry-level budget while the responsibilities require independent expertise.",
+          "translation": "薪水可能反映入门级预算，而职责则需要独立的专业知识。"
+        },
+        {
+          "text": "Suitable candidates do not necessarily fail to exist; they may decide not to apply.",
+          "translation": "合适的人选不一定不存在；他们可能决定不申请。"
+        }
+      ],
+      [
+        {
+          "text": "Recruitment involves uncertainty on both sides.",
+          "translation": "招聘涉及双方的不确定性。"
+        },
+        {
+          "text": "Employers cannot observe future performance directly, so they use qualifications, years of experience and interview behaviour as signals.",
+          "translation": "雇主无法直接观察未来的表现，因此他们使用资格、多年的经验和面试行为作为信号。"
+        },
+        {
+          "text": "Applicants likewise know little about actual workload, supervision or progression.",
+          "translation": "申请人同样对实际工作量、监督或进展知之甚少。"
+        },
+        {
+          "text": "When advertisements hide salary and use broad phrases such as “must be flexible”, candidates may assume the least favourable meaning.",
+          "translation": "当广告隐藏薪资并使用“必须灵活”等宽泛的短语时，候选人可能会采取最不有利的含义。"
+        },
+        {
+          "text": "Better information can reduce withdrawals before and after appointment.",
+          "translation": "更好的信息可以减少预约前后的取款。"
+        }
+      ],
+      [
+        {
+          "text": "Selection methods also shape who appears qualified.",
+          "translation": "选择方法也会影响谁看起来合格。"
+        },
+        {
+          "text": "An unstructured interview rewards conversational confidence and similarity to the interviewer, qualities that may be unrelated to the work.",
+          "translation": "非结构化面试奖励对话自信和与面试官的相似性，这些品质可能与工作无关。"
+        },
+        {
+          "text": "A job sample asks candidates to perform a small, realistic task under comparable conditions.",
+          "translation": "工作样本要求候选人在类似的条件下执行一项小型的、现实的任务。"
+        },
+        {
+          "text": "It does not predict every aspect of performance, but it provides evidence closer to the role and gives applicants a clearer picture of what will be expected.",
+          "translation": "它并不能预测绩效的各个方面，但它提供了更接近职位的证据，并让申请人更清楚地了解预期的内容。"
+        }
+      ],
+      [
+        {
+          "text": "A persistent vacancy should therefore prompt a review rather than an automatic repetition of the search.",
+          "translation": "因此，持续的空缺应该促使审查，而不是自动重复搜索。"
+        },
+        {
+          "text": "Which requirements are essential on the first day, and which could be learned?",
+          "translation": "哪些要求是第一天必不可少的，哪些是可以学习的？"
+        },
+        {
+          "text": "Does the pay match the responsibility?",
+          "translation": "报酬与责任相符吗？"
+        },
+        {
+          "text": "Has the organisation rejected people for lacking one familiar background while overlooking transferable competence?",
+          "translation": "组织是否因为缺乏熟悉的背景而拒绝了某些人，同时忽视了可转移的能力？"
+        },
+        {
+          "text": "Recruitment succeeds when a role, a selection process and a realistic labour market align.",
+          "translation": "当角色、选拔过程和现实的劳动力市场相一致时，招聘就会成功。"
+        },
+        {
+          "text": "Simply enlarging the advertising budget cannot correct a contradiction between them.",
+          "translation": "单纯增加广告预算并不能解决两者之间的矛盾。"
+        }
+      ],
+      [
+        {
+          "text": "Candidate behaviour after an offer supplies additional evidence.",
+          "translation": "候选人在收到录用通知后的行为提供了额外的证据。"
+        },
+        {
+          "text": "A high rate of rejection may indicate that salary, location or flexibility compares poorly with competing roles.",
+          "translation": "高拒绝率可能表明薪资、工作地点或灵活性与竞争职位相比较差。"
+        },
+        {
+          "text": "Early departures can point to a gap between the advertisement and daily reality.",
+          "translation": "提前离开可能表明广告与日常现实之间存在差距。"
+        },
+        {
+          "text": "Organisations should analyse these patterns instead of blaming each individual applicant, because repeated withdrawal is information about the design and communication of the job.",
+          "translation": "组织应该分析这些模式，而不是责怪每个申请人，因为重复退出是有关工作设计和沟通的信息。"
+        }
+      ]
     ]
   }
 }

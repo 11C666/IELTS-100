@@ -153,7 +153,8 @@
         "coordinate as a team",
         "combine complementary expertise"
       ],
-      "note": "collaborate 强调共同完成。"
+      "note": "collaborate 强调共同完成。",
+      "translation": "一起工作可以表达为协作、团队协调、结合互补的专业知识。"
     },
     {
       "base": "share the work",
@@ -162,7 +163,8 @@
         "allocate responsibilities",
         "distribute project tasks"
       ],
-      "note": "allocate 较正式。"
+      "note": "allocate 较正式。",
+      "translation": "分担工作可以表现为划分工作量、分配职责、分配项目任务。"
     },
     {
       "base": "everyone knows the latest information",
@@ -171,7 +173,8 @@
         "maintain shared awareness",
         "share timely updates"
       ],
-      "note": "in the loop 偏口语。"
+      "note": "in the loop 偏口语。",
+      "translation": "每个人都知道最新信息可以表现为让每个人都了解情况、保持共享意识、共享及时更新。"
     },
     {
       "base": "disagree usefully",
@@ -180,7 +183,8 @@
         "test a proposal",
         "debate the evidence"
       ],
-      "note": "constructively 强调以改进为目的。"
+      "note": "constructively 强调以改进为目的。",
+      "translation": "disagree usefully 可以表达为“建设性地质疑观点”“检验方案”或“围绕证据展开讨论”。"
     },
     {
       "base": "person responsible",
@@ -189,7 +193,8 @@
         "accountable team member",
         "designated lead"
       ],
-      "note": "owner 在项目管理中指明确责任人。"
+      "note": "owner 在项目管理中指明确责任人。",
+      "translation": "负责人可以表示为任务负责人、负责的团队成员、指定领导。"
     },
     {
       "base": "knowledge only one person has",
@@ -198,7 +203,8 @@
         "unshared evidence",
         "specialist insight"
       ],
-      "note": "unshared information 与团队偏差讨论相关。"
+      "note": "unshared information 与团队偏差讨论相关。",
+      "translation": "knowledge only one person has 可以表达为“独有信息”“尚未共享的证据”或“专业见解”。"
     },
     {
       "base": "team agreement",
@@ -207,7 +213,8 @@
         "shared decision",
         "collective judgement"
       ],
-      "note": "consensus 不一定代表信息充分。"
+      "note": "consensus 不一定代表信息充分。",
+      "translation": "团队共识可以表现为群体共识、共同决策、集体判断。"
     },
     {
       "base": "goal everyone shares",
@@ -216,51 +223,60 @@
         "shared outcome",
         "collective purpose"
       ],
-      "note": "objective 比 purpose 更具体可测。"
+      "note": "objective 比 purpose 更具体可测。",
+      "translation": "每个人共享的目标可以表达为共同目标、共享成果、集体目的。"
     }
   ],
   "sentences": [
     {
       "pattern": "A team performs well not when + absence of disagreement, but when + constructive process.",
       "cn": "团队表现好并不是因为没有分歧，而是因为……。",
-      "example": "A team performs well not when disagreement disappears, but when evidence can be challenged safely."
+      "example": "A team performs well not when disagreement disappears, but when evidence can be challenged safely.",
+      "exampleTranslation": "一个团队表现良好，不是当分歧消失时，而是当证据可以安全地受到质疑时。"
     },
     {
       "pattern": "The clearer + division/goal + is, the easier it becomes to + coordinate.",
       "cn": "分工或目标越清晰，就越容易协调。",
-      "example": "The clearer the division of responsibility is, the easier it becomes to detect missing work."
+      "example": "The clearer the division of responsibility is, the easier it becomes to detect missing work.",
+      "exampleTranslation": "职责分工越清晰，就越容易发现漏掉的工作。"
     },
     {
       "pattern": "By + sharing practice, team members can prevent + coordination failure.",
       "cn": "通过某种共享做法，团队成员可以避免协调失败。",
-      "example": "By recording decisions, team members can prevent the same issue from being reopened."
+      "example": "By recording decisions, team members can prevent the same issue from being reopened.",
+      "exampleTranslation": "通过记录决策，团队成员可以防止同一问题再次出现。"
     }
   ],
   "expressions": [
     {
       "text": "pull my weight",
       "cn": "尽到自己的责任",
-      "example": "Everyone needs to pull their weight during a group project."
+      "example": "Everyone needs to pull their weight during a group project.",
+      "exampleTranslation": "小组项目中，每个人都需要尽到自己的责任。"
     },
     {
       "text": "work towards a common goal",
       "cn": "朝共同目标努力",
-      "example": "Different specialists worked towards a common goal."
+      "example": "Different specialists worked towards a common goal.",
+      "exampleTranslation": "不同的专家为了一个共同的目标而努力。"
     },
     {
       "text": "keep everyone in the loop",
       "cn": "让所有人了解进展",
-      "example": "A short update keeps everyone in the loop."
+      "example": "A short update keeps everyone in the loop.",
+      "exampleTranslation": "简短的更新让每个人都了解情况。"
     },
     {
       "text": "divide up the workload",
       "cn": "分配工作量",
-      "example": "We divided up the workload according to experience."
+      "example": "We divided up the workload according to experience.",
+      "exampleTranslation": "我们按照经验分配了工作量。"
     },
     {
       "text": "bounce ideas off someone",
       "cn": "和某人交流想法",
-      "example": "I like to bounce ideas off a colleague before deciding."
+      "example": "I like to bounce ideas off a colleague before deciding.",
+      "exampleTranslation": "我喜欢在做出决定之前向同事征求意见。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "express disagreement respectfully",
         "reach a reasoned decision"
       ],
-      "argument": "Members often possess different information, so immediate agreement may indicate silence rather than shared judgement. Asking one person to test the leading proposal can expose risks before commitment becomes expensive. The criticism should address evidence and consequences, not status or personality. Leaders can model this distinction by changing their own view when stronger evidence appears. A team that disagrees well is often safer than one that merely looks harmonious."
+      "argument": "Members often possess different information, so immediate agreement may indicate silence rather than shared judgement. Asking one person to test the leading proposal can expose risks before commitment becomes expensive. The criticism should address evidence and consequences, not status or personality. Leaders can model this distinction by changing their own view when stronger evidence appears. A team that disagrees well is often safer than one that merely looks harmonious.",
+      "viewpointTranslation": "建设性的分歧可以改善团队决策。",
+      "topicSentenceTranslation": "团队需要允许对假设提出质疑而不会将辩论变成个人冲突的程序。",
+      "collocationTranslations": [
+        "挑战假设",
+        "考虑替代证据",
+        "尊重地表达不同意见",
+        "做出合理的决定"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Members often possess different information, so immediate agreement may indicate silence rather than shared judgement.",
+          "translation": "成员往往拥有不同的信息，因此立即达成一致可能表明沉默而不是共同判断。"
+        },
+        {
+          "text": "Asking one person to test the leading proposal can expose risks before commitment becomes expensive.",
+          "translation": "要求一个人测试主要提案可以在承诺变得昂贵之前暴露风险。"
+        },
+        {
+          "text": "The criticism should address evidence and consequences, not status or personality.",
+          "translation": "批评应该针对证据和后果，而不是地位或个性。"
+        },
+        {
+          "text": "Leaders can model this distinction by changing their own view when stronger evidence appears.",
+          "translation": "当出现更有力的证据时，领导者可以通过改变自己的观点来模仿这种区别。"
+        },
+        {
+          "text": "A team that disagrees well is often safer than one that merely looks harmonious.",
+          "translation": "一个意见分歧很大的团队往往比一个看起来和谐的团队更安全。"
+        }
+      ]
     },
     {
       "viewpoint": "Clear ownership prevents collaboration from becoming diffusion of responsibility.",
@@ -301,19 +347,107 @@
         "track project progress",
         "meet a shared deadline"
       ],
-      "argument": "When everyone is generally responsible, individuals may assume that someone else will notice an unfinished task. Named ownership makes follow-up possible and reveals where support is needed. This does not mean working in isolation, since owners still seek expertise and share drafts. A simple decision record can also prevent confusion when membership changes. Effective teamwork combines collective purpose with individual accountability."
+      "argument": "When everyone is generally responsible, individuals may assume that someone else will notice an unfinished task. Named ownership makes follow-up possible and reveals where support is needed. This does not mean working in isolation, since owners still seek expertise and share drafts. A simple decision record can also prevent confusion when membership changes. Effective teamwork combines collective purpose with individual accountability.",
+      "viewpointTranslation": "明确的所有权可以防止协作变成责任分散。",
+      "topicSentenceTranslation": "共同目标应该伴随着对具体决策和产出的指定责任。",
+      "collocationTranslations": [
+        "分配明确的责任",
+        "协调相互依赖的任务",
+        "跟踪项目进度",
+        "遵守共同的最后期限"
+      ],
+      "argumentSentences": [
+        {
+          "text": "When everyone is generally responsible, individuals may assume that someone else will notice an unfinished task.",
+          "translation": "当每个人都普遍负责时，人们可能会认为其他人会注意到未完成的任务。"
+        },
+        {
+          "text": "Named ownership makes follow-up possible and reveals where support is needed.",
+          "translation": "命名所有权使后续行动成为可能，并揭示哪里需要支持。"
+        },
+        {
+          "text": "This does not mean working in isolation, since owners still seek expertise and share drafts.",
+          "translation": "这并不意味着孤立地工作，因为业主仍在寻求专业知识并共享草稿。"
+        },
+        {
+          "text": "A simple decision record can also prevent confusion when membership changes.",
+          "translation": "简单的决策记录还可以防止成员发生变化时出现混乱。"
+        },
+        {
+          "text": "Effective teamwork combines collective purpose with individual accountability.",
+          "translation": "有效的团队合作将集体目标与个人责任结合起来。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you prefer working alone or in a team?",
-      "answer": "It depends on the stage of the task. I prefer to develop a first idea alone because interruptions make it hard to think deeply. Once there is something concrete to test, a team is better at finding gaps and adding expertise. My ideal arrangement alternates between focused individual work and purposeful discussion."
+      "answer": "It depends on the stage of the task. I prefer to develop a first idea alone because interruptions make it hard to think deeply. Once there is something concrete to test, a team is better at finding gaps and adding expertise. My ideal arrangement alternates between focused individual work and purposeful discussion.",
+      "questionTranslation": "您更喜欢单独工作还是团队合作？",
+      "answerSentences": [
+        {
+          "text": "It depends on the stage of the task.",
+          "translation": "这取决于任务的阶段。"
+        },
+        {
+          "text": "I prefer to develop a first idea alone because interruptions make it hard to think deeply.",
+          "translation": "我更喜欢独自提出第一个想法，因为干扰会让我很难深入思考。"
+        },
+        {
+          "text": "Once there is something concrete to test, a team is better at finding gaps and adding expertise.",
+          "translation": "一旦有了可以具体检验的想法，团队就更擅长发现缺漏并补充专业知识。"
+        },
+        {
+          "text": "My ideal arrangement alternates between focused individual work and purposeful discussion.",
+          "translation": "我理想的安排是在​​专注的个人工作和有目的的讨论之间交替。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a time when you worked successfully with other people.",
-      "answer": "I worked with three classmates on a neighbourhood survey. We divided the roles according to strengths: one person designed questions, two conducted interviews and I organised the responses. We used a shared note after each session, so errors were corrected before the next set of interviews. When our first question confused residents, nobody defended it; we rewrote it together. The project succeeded because information moved quickly and each task had a clear owner. We scheduled two brief check-ins instead of holding long meetings, and between them each person worked independently. One teammate noticed that our sample overrepresented retired residents, so we changed the interview times. That correction strengthened the final findings. I remember the experience because teamwork did not mean constant agreement; it meant that a concern could change the plan before it was too late."
+      "answer": "I worked with three classmates on a neighbourhood survey. We divided the roles according to strengths: one person designed questions, two conducted interviews and I organised the responses. We used a shared note after each session, so errors were corrected before the next set of interviews. When our first question confused residents, nobody defended it; we rewrote it together. The project succeeded because information moved quickly and each task had a clear owner. We scheduled two brief check-ins instead of holding long meetings, and between them each person worked independently. One teammate noticed that our sample overrepresented retired residents, so we changed the interview times. That correction strengthened the final findings. I remember the experience because teamwork did not mean constant agreement; it meant that a concern could change the plan before it was too late.",
+      "questionTranslation": "描述一次您与其他人成功合作的经历。",
+      "answerSentences": [
+        {
+          "text": "I worked with three classmates on a neighbourhood survey.",
+          "translation": "我和三位同学一起进行了一项邻里调查。"
+        },
+        {
+          "text": "We divided the roles according to strengths: one person designed questions, two conducted interviews and I organised the responses.",
+          "translation": "我们按照各自优势分工：一人设计问题，两人进行访谈，我负责整理回答。"
+        },
+        {
+          "text": "We used a shared note after each session, so errors were corrected before the next set of interviews.",
+          "translation": "每轮访谈后我们都会更新共享笔记，因此能在下一轮访谈前纠正错误。"
+        },
+        {
+          "text": "When our first question confused residents, nobody defended it; we rewrote it together.",
+          "translation": "当我们的第一个问题让居民感到困惑时，没有人为它辩护；我们一起重写了它。"
+        },
+        {
+          "text": "The project succeeded because information moved quickly and each task had a clear owner.",
+          "translation": "该项目之所以成功，是因为信息传播迅速，而且每项任务都有明确的负责人。"
+        },
+        {
+          "text": "We scheduled two brief check-ins instead of holding long meetings, and between them each person worked independently.",
+          "translation": "我们安排了两次简短的进度沟通，而不是召开冗长会议；两次沟通之间，每个人独立完成自己的工作。"
+        },
+        {
+          "text": "One teammate noticed that our sample overrepresented retired residents, so we changed the interview times.",
+          "translation": "一位队友注意到我们的样本过多地代表了退休居民，因此我们改变了采访时间。"
+        },
+        {
+          "text": "That correction strengthened the final findings.",
+          "translation": "这一修正强化了最终的调查结果。"
+        },
+        {
+          "text": "I remember the experience because teamwork did not mean constant agreement; it meant that a concern could change the plan before it was too late.",
+          "translation": "我记得这段经历，因为团队合作并不意味着始终意见一致，而是让一项担忧能够在为时过晚之前改变计划。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +484,115 @@
         "answer": "No",
         "explanation": "The final paragraph says the process should match the consequence and routine choices need less."
       }
+    ],
+    "titleTranslation": "没有人带去会议的信息",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Teams are formed because no single member possesses all the necessary knowledge.",
+          "translation": "团队的形成是因为没有一个成员拥有所有必要的知识。"
+        },
+        {
+          "text": "Paradoxically, group discussion often concentrates on information everyone already shares.",
+          "translation": "矛盾的是，小组讨论往往集中在每个人已经分享的信息上。"
+        },
+        {
+          "text": "Shared facts are repeated, confirmed and treated as important, while a unique observation held by one member may be mentioned once or not at all.",
+          "translation": "共同的事实会被重复、确认并被视为重要的，而一名成员持有的独特观察结果可能会被提及一次或根本不被提及。"
+        },
+        {
+          "text": "Researchers call this the common-information bias.",
+          "translation": "研究人员将此称为共同信息偏差。"
+        }
+      ],
+      [
+        {
+          "text": "The pattern has several causes.",
+          "translation": "这种模式有几个原因。"
+        },
+        {
+          "text": "Familiar information is easier to introduce and receives immediate recognition from others.",
+          "translation": "熟悉的信息更容易介绍并立即得到他人的认可。"
+        },
+        {
+          "text": "A junior member may doubt a fact that conflicts with the emerging view, particularly when senior colleagues appear certain.",
+          "translation": "初级成员可能会怀疑与新出现的观点相冲突的事实，特别是当资深同事似乎很确定时。"
+        },
+        {
+          "text": "Meetings also create time pressure, so groups move towards a decision before asking what remains unknown.",
+          "translation": "会议也会造成时间压力，因此团队会在询问尚不清楚的内容之前先做出决定。"
+        },
+        {
+          "text": "Confidence then grows through repetition rather than through the completeness of evidence.",
+          "translation": "然后，信心通过重复而不是通过证据的完整性来增强。"
+        }
+      ],
+      [
+        {
+          "text": "Procedures can counter the bias.",
+          "translation": "程序可以消除偏见。"
+        },
+        {
+          "text": "Before discussion, members can record their independent judgement and the evidence available only to them.",
+          "translation": "在讨论之前，成员可以记录他们的独立判断和只有他们自己掌握的证据。"
+        },
+        {
+          "text": "A chair can ask each specialist what the rest of the group is likely to miss.",
+          "translation": "主席可以询问每位专家，小组的其他成员可能会错过什么。"
+        },
+        {
+          "text": "Delaying an initial vote prevents early preferences from shaping every later comment.",
+          "translation": "推迟最初的投票可以防止早期的偏好影响后来的每一条评论。"
+        },
+        {
+          "text": "In high-risk decisions, assigning someone to construct the strongest alternative explanation can reveal evidence that the preferred account cannot accommodate.",
+          "translation": "在高风险决策中，指派某人构建最强的替代解释可以揭示首选帐户无法容纳的证据。"
+        }
+      ],
+      [
+        {
+          "text": "These methods add friction, and not every minor decision deserves an elaborate process.",
+          "translation": "这些方法会增加摩擦，而且并不是每一个小决定都值得经过精心设计。"
+        },
+        {
+          "text": "The cost should match the consequence of error.",
+          "translation": "成本应该与错误的后果相匹配。"
+        },
+        {
+          "text": "For routine choices, a brief round asking for concerns may be sufficient; for safety or investment decisions, a formal record is justified.",
+          "translation": "对于常规选择，简短的一轮询问可能就足够了；对于安全或投资决策，正式记录是合理的。"
+        },
+        {
+          "text": "Teamwork adds value only if distinct knowledge actually enters the decision.",
+          "translation": "只有当独特的知识真正参与决策时，团队合作才能增加价值。"
+        },
+        {
+          "text": "Gathering experts around a table is not enough when the conversation rewards what they all knew before arriving.",
+          "translation": "当专家们在到达之前就已经知道的内容进行对话时，将专家聚集在一张桌子旁是不够的。"
+        }
+      ],
+      [
+        {
+          "text": "Written agendas can help unique information surface if they frame questions rather than confirm a preferred answer.",
+          "translation": "如果书面议程提出问题而不是确认首选答案，则可以帮助独特的信息浮出水面。"
+        },
+        {
+          "text": "“What could make this plan fail?”",
+          "translation": "“什么会导致这个计划失败？”"
+        },
+        {
+          "text": "invites different evidence; “Are we all happy with the plan?”",
+          "translation": "邀请不同的证据； “我们对这个计划都满意吗？”"
+        },
+        {
+          "text": "mainly invites agreement.",
+          "translation": "主要是邀请协议。"
+        },
+        {
+          "text": "Circulating the questions early also gives reflective members time to retrieve records and formulate a concern that might be lost in rapid discussion.",
+          "translation": "尽早分发问题还可以让反思性成员有时间检索记录并提出可能在快速讨论中丢失的问题。"
+        }
+      ]
     ]
   }
 }

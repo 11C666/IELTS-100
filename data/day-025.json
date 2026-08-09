@@ -153,7 +153,8 @@
         "complete a timed paper",
         "undergo formal assessment"
       ],
-      "note": "sit an exam 常见于英式英语。"
+      "note": "sit an exam 常见于英式英语。",
+      "translation": "参加考试可以表示为参加考试、完成限时论文、接受正式评估。"
     },
     {
       "base": "exam result",
@@ -162,7 +163,8 @@
         "assessment outcome",
         "academic result"
       ],
-      "note": "score 是具体分数，outcome 范围更广。"
+      "note": "score 是具体分数，outcome 范围更广。",
+      "translation": "考试结果可以表示为考试成绩、评估结果、学业成绩。"
     },
     {
       "base": "fair test",
@@ -171,7 +173,8 @@
         "unbiased examination",
         "fair measure of attainment"
       ],
-      "note": "equitable 关注不同考生能否公平参与。"
+      "note": "equitable 关注不同考生能否公平参与。",
+      "translation": "公平考试可以表现为公平评估、公正考试、公平衡量成绩。"
     },
     {
       "base": "measure ability",
@@ -180,7 +183,8 @@
         "evaluate attainment",
         "gauge performance"
       ],
-      "note": "attainment 强调已达到的学习水平。"
+      "note": "attainment 强调已达到的学习水平。",
+      "translation": "衡量能力可以表示为评估能力、评估成就、衡量绩效。"
     },
     {
       "base": "remember facts",
@@ -189,7 +193,8 @@
         "reproduce learned material",
         "retrieve factual knowledge"
       ],
-      "note": "recall 是考试语境常用词。"
+      "note": "recall 是考试语境常用词。",
+      "translation": "记住事实可以表现为回忆信息、重现所学材料、检索事实知识。"
     },
     {
       "base": "same testing conditions",
@@ -198,7 +203,8 @@
         "consistent administration",
         "comparable examination settings"
       ],
-      "note": "standardised 强调统一程序。"
+      "note": "standardised 强调统一程序。",
+      "translation": "相同的测试条件可以表示为标准化条件、一致的管理、可比的检查设置。"
     },
     {
       "base": "other kinds of assessment",
@@ -207,7 +213,8 @@
         "alternative assessment methods",
         "a broader assessment portfolio"
       ],
-      "note": "portfolio 可指一组长期作品。"
+      "note": "portfolio 可指一组长期作品。",
+      "translation": "其他类型的评估可以表现为多种形式的证据、替代的评估方法、更广泛的评估组合。"
     },
     {
       "base": "reliable exam",
@@ -216,51 +223,60 @@
         "stable measurement",
         "dependable test result"
       ],
-      "note": "reliability 不等于 validity。"
+      "note": "reliability 不等于 validity。",
+      "translation": "可靠的考试可以表现为一致的评估、稳定的测量、可靠的测试结果。"
     }
   ],
   "sentences": [
     {
       "pattern": "No matter how carefully + examination + is designed, it cannot fully capture + ability.",
       "cn": "无论考试设计得多么仔细，它都无法完全衡量某种能力。",
-      "example": "No matter how carefully an examination is designed, it cannot fully capture a student’s curiosity."
+      "example": "No matter how carefully an examination is designed, it cannot fully capture a student’s curiosity.",
+      "exampleTranslation": "无论考试设计得多么精心，都无法充分抓住学生的好奇心。"
     },
     {
       "pattern": "By requiring + candidates + to + task, the assessment tests + ability + as well as + ability.",
       "cn": "通过要求考生完成某项任务，该评估既测试……也测试……。",
-      "example": "By requiring candidates to compare sources, the assessment tests judgement as well as factual knowledge."
+      "example": "By requiring candidates to compare sources, the assessment tests judgement as well as factual knowledge.",
+      "exampleTranslation": "通过要求考生比较来源，评估测试了判断力和事实知识。"
     },
     {
       "pattern": "Were + assessment + the only measure, + group/quality + would be overlooked.",
       "cn": "如果某种评估是唯一标准，某类人或品质就会被忽视。",
-      "example": "Were timed tests the only measure, careful students who work slowly would be overlooked."
+      "example": "Were timed tests the only measure, careful students who work slowly would be overlooked.",
+      "exampleTranslation": "如果限时考试是唯一的衡量标准，那么细心、做事缓慢的学生就会被忽视。"
     }
   ],
   "expressions": [
     {
       "text": "sit an exam",
       "cn": "参加考试",
-      "example": "I have to sit an exam at the end of the term."
+      "example": "I have to sit an exam at the end of the term.",
+      "exampleTranslation": "学期末我必须参加考试。"
     },
     {
       "text": "revise under pressure",
       "cn": "在压力下复习",
-      "example": "I find it difficult to revise under pressure."
+      "example": "I find it difficult to revise under pressure.",
+      "exampleTranslation": "我发现自己很难在压力下有效复习。"
     },
     {
       "text": "learn something by heart",
       "cn": "背熟某内容",
-      "example": "We had to learn several formulas by heart."
+      "example": "We had to learn several formulas by heart.",
+      "exampleTranslation": "我们必须熟记几个公式。"
     },
     {
       "text": "perform well on the day",
       "cn": "考试当天发挥良好",
-      "example": "A capable student may not perform well on the day."
+      "example": "A capable student may not perform well on the day.",
+      "exampleTranslation": "一名平时能力很强的学生，也可能在考试当天发挥不佳。"
     },
     {
       "text": "assess a broad range of skills",
       "cn": "评估广泛技能",
-      "example": "Coursework can assess a broader range of skills than a short test."
+      "example": "Coursework can assess a broader range of skills than a short test.",
+      "exampleTranslation": "与短期测试相比，课程作业可以评估更广泛的技能。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "measure recall under pressure",
         "use multiple forms of assessment"
       ],
-      "argument": "When candidates answer the same questions under similar conditions, institutions gain evidence that is relatively easy to compare. This can limit the influence of generous marking or unequal outside help. Nevertheless, a timed paper mainly captures what a student can recall and produce on one occasion. Projects and presentations reveal planning, revision and communication over time. A balanced system should therefore combine common examinations with other independently verified work."
+      "argument": "When candidates answer the same questions under similar conditions, institutions gain evidence that is relatively easy to compare. This can limit the influence of generous marking or unequal outside help. Nevertheless, a timed paper mainly captures what a student can recall and produce on one occasion. Projects and presentations reveal planning, revision and communication over time. A balanced system should therefore combine common examinations with other independently verified work.",
+      "viewpointTranslation": "考试可以提供可比性，但不应孤立存在。",
+      "topicSentenceTranslation": "常见的测试对于比较性能很有用，但它只能提供很小的能力样本。",
+      "collocationTranslations": [
+        "应用一致的标准",
+        "比较学习成绩",
+        "衡量压力下的回忆能力",
+        "使用多种评估形式"
+      ],
+      "argumentSentences": [
+        {
+          "text": "When candidates answer the same questions under similar conditions, institutions gain evidence that is relatively easy to compare.",
+          "translation": "当候选人在相似的条件下回答相同的问题时，机构就会获得相对容易比较的证据。"
+        },
+        {
+          "text": "This can limit the influence of generous marking or unequal outside help.",
+          "translation": "这可以限制慷慨盯防或不平等的外部帮助的影响。"
+        },
+        {
+          "text": "Nevertheless, a timed paper mainly captures what a student can recall and produce on one occasion.",
+          "translation": "然而，限时论文主要捕捉学生在一次场合中能够回忆和产出的内容。"
+        },
+        {
+          "text": "Projects and presentations reveal planning, revision and communication over time.",
+          "translation": "项目和演示揭示了随着时间的推移进行的计划、修订和沟通。"
+        },
+        {
+          "text": "A balanced system should therefore combine common examinations with other independently verified work.",
+          "translation": "因此，一个平衡的系统应该将共同检查与其他独立验证的工作结合起来。"
+        }
+      ]
     },
     {
       "viewpoint": "High-stakes exams can distort classroom learning.",
@@ -301,19 +347,107 @@
         "practise examination technique",
         "develop lasting understanding"
       ],
-      "argument": "Schools are accountable for results, so teachers naturally devote time to tasks that will be scored. If consequences are severe, untested discussion, experimentation and creative work may disappear from lessons. Pupils can become skilled at recognising question types without understanding how knowledge applies elsewhere. Moderate examination practice is necessary, but it should not define the entire curriculum. Assessment policy should reward broad learning instead of making it risky."
+      "argument": "Schools are accountable for results, so teachers naturally devote time to tasks that will be scored. If consequences are severe, untested discussion, experimentation and creative work may disappear from lessons. Pupils can become skilled at recognising question types without understanding how knowledge applies elsewhere. Moderate examination practice is necessary, but it should not define the entire curriculum. Assessment policy should reward broad learning instead of making it risky.",
+      "viewpointTranslation": "高风险的考试可能会扭曲课堂学习。",
+      "topicSentenceTranslation": "当一项测试决定进展时，教学可能会过度关注可预测的问题格式。",
+      "collocationTranslations": [
+        "应试教学",
+        "缩小课程范围",
+        "练习考试技巧",
+        "培养持久的理解"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Schools are accountable for results, so teachers naturally devote time to tasks that will be scored.",
+          "translation": "学校对结果负责，因此教师自然会花时间完成需要评分的任务。"
+        },
+        {
+          "text": "If consequences are severe, untested discussion, experimentation and creative work may disappear from lessons.",
+          "translation": "如果后果严重，未经检验的讨论、实验和创造性工作可能会从课程中消失。"
+        },
+        {
+          "text": "Pupils can become skilled at recognising question types without understanding how knowledge applies elsewhere.",
+          "translation": "学生可以熟练地识别问题类型，而无需了解知识如何应用于其他地方。"
+        },
+        {
+          "text": "Moderate examination practice is necessary, but it should not define the entire curriculum.",
+          "translation": "适度的考试练习是必要的，但它不应该定义整个课程。"
+        },
+        {
+          "text": "Assessment policy should reward broad learning instead of making it risky.",
+          "translation": "评估政策应该奖励广泛的学习，而不是增加风险。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "How do you usually prepare for an important exam?",
-      "answer": "I begin by looking at the syllabus and dividing it into small sections. After reviewing one section, I try questions without my notes because rereading alone gives me false confidence. During the final week, I practise under a time limit and then analyse the mistakes. I still feel nervous, but having a routine stops me from studying randomly."
+      "answer": "I begin by looking at the syllabus and dividing it into small sections. After reviewing one section, I try questions without my notes because rereading alone gives me false confidence. During the final week, I practise under a time limit and then analyse the mistakes. I still feel nervous, but having a routine stops me from studying randomly.",
+      "questionTranslation": "您通常如何准备重要的考试？",
+      "answerSentences": [
+        {
+          "text": "I begin by looking at the syllabus and dividing it into small sections.",
+          "translation": "我首先查看教学大纲并将其分成小部分。"
+        },
+        {
+          "text": "After reviewing one section, I try questions without my notes because rereading alone gives me false confidence.",
+          "translation": "复习完一节后，我会在没有笔记的情况下尝试做题，因为单独重读会给我虚假的信心。"
+        },
+        {
+          "text": "During the final week, I practise under a time limit and then analyse the mistakes.",
+          "translation": "最后一周，我在有限的时间内练习，然后分析错误。"
+        },
+        {
+          "text": "I still feel nervous, but having a routine stops me from studying randomly.",
+          "translation": "我仍然会紧张，但规律的复习安排让我不再毫无章法地学习。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe an examination or test you remember well.",
-      "answer": "I remember a practical driving test because it measured very different skills from a written exam. The examiner gave short directions while I dealt with ordinary traffic, so I had to stay calm and observe several things at once. I made one minor mistake but recovered instead of panicking. When I was told I had passed, the relief was immediate. The experience taught me that preparation includes managing attention, not simply knowing the rules. I had practised the route, but the test introduced a road closure that forced me to adapt. The examiner remained neutral, so I could not judge my performance from facial expressions. Afterwards I understood why practical assessments feel intense: knowledge must be applied while conditions continue to change. Passing gave me confidence, though it also made me more aware of how much experience still lay ahead."
+      "answer": "I remember a practical driving test because it measured very different skills from a written exam. The examiner gave short directions while I dealt with ordinary traffic, so I had to stay calm and observe several things at once. I made one minor mistake but recovered instead of panicking. When I was told I had passed, the relief was immediate. The experience taught me that preparation includes managing attention, not simply knowing the rules. I had practised the route, but the test introduced a road closure that forced me to adapt. The examiner remained neutral, so I could not judge my performance from facial expressions. Afterwards I understood why practical assessments feel intense: knowledge must be applied while conditions continue to change. Passing gave me confidence, though it also made me more aware of how much experience still lay ahead.",
+      "questionTranslation": "描述一次您记得很清楚的考试或测试。",
+      "answerSentences": [
+        {
+          "text": "I remember a practical driving test because it measured very different skills from a written exam.",
+          "translation": "我记得一次实际驾驶考试，因为它衡量的技能与笔试截然不同。"
+        },
+        {
+          "text": "The examiner gave short directions while I dealt with ordinary traffic, so I had to stay calm and observe several things at once.",
+          "translation": "当我处理普通交通时，考官给出了简短的指示，所以我必须保持冷静并同时观察几件事。"
+        },
+        {
+          "text": "I made one minor mistake but recovered instead of panicking.",
+          "translation": "我犯了一个小错误，但我没有惊慌，而是恢复了过来。"
+        },
+        {
+          "text": "When I was told I had passed, the relief was immediate.",
+          "translation": "当我被告知我已经通过时，我立即松了口气。"
+        },
+        {
+          "text": "The experience taught me that preparation includes managing attention, not simply knowing the rules.",
+          "translation": "这次经历告诉我，准备工作包括管理注意力，而不仅仅是了解规则。"
+        },
+        {
+          "text": "I had practised the route, but the test introduced a road closure that forced me to adapt.",
+          "translation": "我已经练习过这条路线，但测试中出现了封路，迫使我适应。"
+        },
+        {
+          "text": "The examiner remained neutral, so I could not judge my performance from facial expressions.",
+          "translation": "考官保持中立，所以我无法从面部表情来判断我的表现。"
+        },
+        {
+          "text": "Afterwards I understood why practical assessments feel intense: knowledge must be applied while conditions continue to change.",
+          "translation": "后来我明白了实践考核为什么令人紧张：你必须在条件不断变化时运用知识。"
+        },
+        {
+          "text": "Passing gave me confidence, though it also made me more aware of how much experience still lay ahead.",
+          "translation": "通过考试给了我信心，也让我更清楚自己还有很多经验需要积累。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +478,111 @@
         "answer": "investigation",
         "explanation": "The final paragraph states that disagreement prompts investigation."
       }
+    ],
+    "titleTranslation": "重复考试时会发生什么？",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A test score is often treated as a stable description of ability, yet performance can change when the same person sits a different version of an examination.",
+          "translation": "考试成绩通常被视为对能力的稳定描述，但当同一个人参加不同版本的考试时，表现可能会发生变化。"
+        },
+        {
+          "text": "Illness, unfamiliar wording, noise and chance gaps in revision all influence the result.",
+          "translation": "疾病、不熟悉的措辞、噪音和复习中的机会差距都会影响结果。"
+        },
+        {
+          "text": "Measurement specialists call this problem reliability.",
+          "translation": "测量专家称这个问题为可靠性。"
+        },
+        {
+          "text": "A reliable assessment does not require identical scores on every occasion, but random conditions should not determine major educational opportunities.",
+          "translation": "可靠的评估并不要求每次都获得相同的分数，但随机条件不应决定主要的教育机会。"
+        }
+      ],
+      [
+        {
+          "text": "Length generally improves reliability because a larger sample reduces the influence of one unusual question.",
+          "translation": "长度通常会提高可靠性，因为较大的样本会减少一个不寻常问题的影响。"
+        },
+        {
+          "text": "However, longer examinations create fatigue and cost more to administer.",
+          "translation": "然而，较长的检查会造成疲劳并且管理成本更高。"
+        },
+        {
+          "text": "Designers therefore study how individual items behave.",
+          "translation": "因此，设计师研究各个项目的行为方式。"
+        },
+        {
+          "text": "A question answered correctly by almost everyone reveals little about differences between candidates; one missed by nearly everyone may be unclear or far beyond the intended level.",
+          "translation": "几乎每个人都正确回答的问题几乎无法揭示候选人之间的差异；几乎每个人都错过的一项可能不清楚或远远超出预期水平。"
+        },
+        {
+          "text": "Useful items distinguish between stronger and weaker performance without relying on tricks.",
+          "translation": "有用的项目无需依赖技巧即可区分强弱表现。"
+        }
+      ],
+      [
+        {
+          "text": "Consistency alone is insufficient.",
+          "translation": "仅有一致性是不够的。"
+        },
+        {
+          "text": "A bathroom scale that always adds five kilograms is reliable but inaccurate.",
+          "translation": "总是增加五公斤的浴室秤是可靠的，但不准确。"
+        },
+        {
+          "text": "In assessment, validity asks whether the test supports the interpretation made from its scores.",
+          "translation": "在评估中，有效性询问测试是否支持对其分数所做的解释。"
+        },
+        {
+          "text": "A multiple-choice paper might consistently measure knowledge of grammatical rules, yet provide weak evidence of spontaneous conversation.",
+          "translation": "多项选择题论文可能会一致地衡量语法规则知识，但提供自发对话的证据却很弱。"
+        },
+        {
+          "text": "If the stated goal is communicative ability, the format leaves an important part of the construct unobserved.",
+          "translation": "如果既定目标是沟通能力，则该格式会留下未观察到的结构的重要部分。"
+        }
+      ],
+      [
+        {
+          "text": "There is also a trade-off between standardisation and authenticity.",
+          "translation": "标准化和真实性之间也需要权衡。"
+        },
+        {
+          "text": "Strictly controlled tasks are easier to compare, while real-world projects allow collaboration, revision and access to information.",
+          "translation": "严格控制的任务更容易比较，而现实世界的项目允许协作、修改和访问信息。"
+        },
+        {
+          "text": "Many assessment systems respond by combining evidence: a common examination, teacher-assessed work and a practical task.",
+          "translation": "许多评估系统通过结合证据来做出回应：共同考试、教师评估的作业和实践任务。"
+        },
+        {
+          "text": "Agreement among these sources strengthens confidence; disagreement prompts investigation.",
+          "translation": "这些来源之间的一致增强了信心；分歧促使调查。"
+        },
+        {
+          "text": "The aim is not to find a perfect test, because none exists, but to avoid allowing one uncertain observation to carry more weight than it can justify.",
+          "translation": "我们的目的不是找到一个完美的测试，因为不存在这样的测试，而是为了避免让一个不确定的观察结果具有超出其合理性的分量。"
+        }
+      ],
+      [
+        {
+          "text": "Repeating an assessment can provide further evidence, although practice effects complicate interpretation.",
+          "translation": "重复评估可以提供进一步的证据，尽管实践会使解释变得复杂。"
+        },
+        {
+          "text": "A higher second score may reflect improved ability, greater familiarity with instructions or both.",
+          "translation": "较高的第二分可能反映了能力的提高、对说明的更加熟悉或两者兼而有之。"
+        },
+        {
+          "text": "Where decisions are important, designers can use equivalent forms and combine results rather than selecting whichever attempt appears most favourable.",
+          "translation": "当决策很重要时，设计人员可以使用等效的形式并结合结果，而不是选择看起来最有利的尝试。"
+        },
+        {
+          "text": "The procedure must be stated in advance so that repetition does not become another source of inconsistency.",
+          "translation": "必须提前说明程序，以免重复成为不一致的另一个根源。"
+        }
+      ]
     ]
   }
 }

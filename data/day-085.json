@@ -153,7 +153,8 @@
         "one-off paid task",
         "a time-limited piece of work"
       ],
-      "note": "gig通常比temporary job更短且按任务计酬。"
+      "note": "gig通常比temporary job更短且按任务计酬。",
+      "translation": "临时工作，也可表达为短期工作、限期岗位或没有长期保障的职位。"
     },
     {
       "base": "work when you want",
@@ -162,7 +163,8 @@
         "exercise control over one’s schedule",
         "decide when to make oneself available for work"
       ],
-      "note": "available不保证一定获得任务。"
+      "note": "available不保证一定获得任务。",
+      "translation": "想工作时就工作，也可表达为自行安排工时、灵活选择班次或决定何时上线接单。"
     },
     {
       "base": "unstable pay",
@@ -171,7 +173,8 @@
         "income volatility",
         "substantial variation in income over time"
       ],
-      "note": "volatility适合分析经济风险。"
+      "note": "volatility适合分析经济风险。",
+      "translation": "收入不稳定，也可表达为不可预测的收入、波动的报酬或每周收入不确定。"
     },
     {
       "base": "worker benefits",
@@ -180,7 +183,8 @@
         "work-related social protection",
         "entitlements such as leave and sick pay"
       ],
-      "note": "entitlement指依法或依规享有的待遇。"
+      "note": "entitlement指依法或依规享有的待遇。",
+      "translation": "劳动者福利，也可表达为就业福利、工作相关保障或通常与正式就业相连的权益。"
     },
     {
       "base": "app company",
@@ -189,7 +193,8 @@
         "platform operator",
         "a company that matches workers with customers online"
       ],
-      "note": "platform operator较中性。"
+      "note": "platform operator较中性。",
+      "translation": "应用平台公司，也可表达为数字平台、应用型企业或通过软件连接客户与劳动者的公司。"
     },
     {
       "base": "work expenses",
@@ -198,7 +203,8 @@
         "operating expenses borne by workers",
         "costs incurred while providing a service"
       ],
-      "note": "incurred是正式写作搭配。"
+      "note": "incurred是正式写作搭配。",
+      "translation": "工作开支，也可表达为运营成本、自付费用或劳动者为完成任务承担的成本。"
     },
     {
       "base": "customer score",
@@ -207,7 +213,8 @@
         "platform reputation score",
         "a numerical evaluation submitted by a client"
       ],
-      "note": "reputation score强调评分影响接单。"
+      "note": "reputation score强调评分影响接单。",
+      "translation": "客户评分，也可表达为用户评价、平台评级或由客户反馈形成的分数。"
     },
     {
       "base": "secure job",
@@ -216,51 +223,60 @@
         "work with predictable income",
         "employment offering continuity and protection"
       ],
-      "note": "continuity突出持续性。"
+      "note": "continuity突出持续性。",
+      "translation": "稳定工作，也可表达为有保障的就业、可预测的工作或提供可靠收入与保障的职位。"
     }
   ],
   "sentences": [
     {
       "pattern": "The freedom to + flexible action + is valuable only if + worker + can also + practical need.",
       "cn": "做某项灵活安排的自由只有在劳动者还能满足实际需要时才真正有价值。",
-      "example": "The freedom to choose working hours is valuable only if a courier can also earn enough during those hours."
+      "example": "The freedom to choose working hours is valuable only if a courier can also earn enough during those hours.",
+      "exampleTranslation": "只有当快递员也能在所选时间内赚取足够收入时，自由选择工作时间才真正有价值。"
     },
     {
       "pattern": "Because + platform decision + determines + work outcome, workers need a clear way to + challenge action.",
       "cn": "由于平台决定会影响工作结果，劳动者需要清晰的申诉途径。",
-      "example": "Because an automated rating determines access to orders, workers need a clear way to challenge incorrect reviews."
+      "example": "Because an automated rating determines access to orders, workers need a clear way to challenge incorrect reviews.",
+      "exampleTranslation": "由于自动评分决定劳动者能否获得订单，他们需要一种清晰的途径来申诉不实评价。"
     },
     {
       "pattern": "Instead of attaching + benefit + to one employer, a portable system could + action + whenever + worker activity.",
       "cn": "与其把福利绑定在单一雇主上，可携带制度可以在劳动者每次工作时作出相应积累。",
-      "example": "Instead of attaching leave to one employer, a portable system could collect contributions whenever a worker completes a job."
+      "example": "Instead of attaching leave to one employer, a portable system could collect contributions whenever a worker completes a job.",
+      "exampleTranslation": "休假权益可以不再依附于单一雇主，而由可携带制度在劳动者每完成一项工作时累计缴费。"
     }
   ],
   "expressions": [
     {
       "text": "pick up extra work",
       "cn": "接额外的活",
-      "example": "I pick up extra work when household bills are higher."
+      "example": "I pick up extra work when household bills are higher.",
+      "exampleTranslation": "家庭账单较高时，我会接一些额外工作。"
     },
     {
       "text": "be your own boss",
       "cn": "自己做主",
-      "example": "The idea of being your own boss attracts some drivers."
+      "example": "The idea of being your own boss attracts some drivers.",
+      "exampleTranslation": "自己当老板的想法吸引了一些司机。"
     },
     {
       "text": "work around family commitments",
       "cn": "围绕家庭责任安排工作",
-      "example": "Flexible shifts let her work around family commitments."
+      "example": "Flexible shifts let her work around family commitments.",
+      "exampleTranslation": "灵活的班次让她能够围绕家庭责任安排工作。"
     },
     {
       "text": "bear the operating costs",
       "cn": "承担运营成本",
-      "example": "Couriers often bear the operating costs themselves."
+      "example": "Couriers often bear the operating costs themselves.",
+      "exampleTranslation": "快递员往往需要自行承担运营成本。"
     },
     {
       "text": "provide a predictable income floor",
       "cn": "提供可预期的收入下限",
-      "example": "Minimum-pay rules can provide a predictable income floor."
+      "example": "Minimum-pay rules can provide a predictable income floor.",
+      "exampleTranslation": "最低报酬规定可以提供可预期的收入底线。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "absorb unpaid waiting time",
         "earn a viable hourly return"
       ],
-      "argument": "A delivery app may permit a courier to log in at any time, which appears to offer complete control. In practice, demand and higher rates may be concentrated in evenings, pushing workers towards the same narrow periods. Those who log in elsewhere can spend long intervals waiting without pay. Regulators assessing flexibility should therefore consider earnings across total working time, not merely the absence of a formal schedule. Choice is meaningful only when several options are economically realistic."
+      "argument": "A delivery app may permit a courier to log in at any time, which appears to offer complete control. In practice, demand and higher rates may be concentrated in evenings, pushing workers towards the same narrow periods. Those who log in elsewhere can spend long intervals waiting without pay. Regulators assessing flexibility should therefore consider earnings across total working time, not merely the absence of a formal schedule. Choice is meaningful only when several options are economically realistic.",
+      "viewpointTranslation": "灵活性应从劳动者的角度来衡量。",
+      "topicSentenceTranslation": "如果劳动者必须在特定时段保持待命才能赚到足以生活的收入，那么平台并不真正灵活。",
+      "collocationTranslations": [
+        "选择工作时间",
+        "响应高峰加价激励",
+        "承担无报酬等待时间",
+        "获得足以生活的小时回报"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A delivery app may permit a courier to log in at any time, which appears to offer complete control.",
+          "translation": "外卖应用可能允许快递员随时上线，这看起来给予了他们完全的控制权。"
+        },
+        {
+          "text": "In practice, demand and higher rates may be concentrated in evenings, pushing workers towards the same narrow periods.",
+          "translation": "实际上，需求和较高费率可能集中在晚间，从而把劳动者推向同样狭窄的时段。"
+        },
+        {
+          "text": "Those who log in elsewhere can spend long intervals waiting without pay.",
+          "translation": "在其他时间上线的人可能长时间等待而没有报酬。"
+        },
+        {
+          "text": "Regulators assessing flexibility should therefore consider earnings across total working time, not merely the absence of a formal schedule.",
+          "translation": "因此，监管机构在评估灵活性时，应考虑全部工作时间内的收入，而不能只看是否没有正式排班。"
+        },
+        {
+          "text": "Choice is meaningful only when several options are economically realistic.",
+          "translation": "只有当多种选择在经济上都切实可行时，选择才有意义。"
+        }
+      ]
     },
     {
       "viewpoint": "Portable benefits suit workers who earn through several platforms.",
@@ -301,19 +347,103 @@
         "cover paid leave",
         "avoid fragmented protection"
       ],
-      "argument": "Requiring each platform to provide a full package may be awkward when someone completes only a few tasks through each one. A shared fund could instead receive a small contribution proportional to every payment. The worker would accumulate sick-pay or leave entitlement across platforms, just as the income itself is assembled from several sources. Clear public rules would be needed to prevent firms from shifting all costs into lower pay. A portable system addresses the fragmented nature of gig work without pretending that each task is a separate working life."
+      "argument": "Requiring each platform to provide a full package may be awkward when someone completes only a few tasks through each one. A shared fund could instead receive a small contribution proportional to every payment. The worker would accumulate sick-pay or leave entitlement across platforms, just as the income itself is assembled from several sources. Clear public rules would be needed to prevent firms from shifting all costs into lower pay. A portable system addresses the fragmented nature of gig work without pretending that each task is a separate working life.",
+      "viewpointTranslation": "可携带福利适合通过多个平台获得收入的劳动者。",
+      "topicSentenceTranslation": "当没有任何一个平台提供传统雇佣关系时，社会保障应当跟随劳动者流动。",
+      "collocationTranslations": [
+        "按比例缴费",
+        "累积可携带权益",
+        "涵盖带薪休假",
+        "避免保障碎片化"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Requiring each platform to provide a full package may be awkward when someone completes only a few tasks through each one.",
+          "translation": "如果某人通过每个平台只完成少量任务，要求每个平台都提供一整套福利可能并不现实。"
+        },
+        {
+          "text": "A shared fund could instead receive a small contribution proportional to every payment.",
+          "translation": "共享基金可以改为从每笔报酬中按比例收取一小部分缴费。"
+        },
+        {
+          "text": "The worker would accumulate sick-pay or leave entitlement across platforms, just as the income itself is assembled from several sources.",
+          "translation": "劳动者可以跨平台累积病假工资或休假权益，就像其收入本身也是由多个来源汇集而成一样。"
+        },
+        {
+          "text": "Clear public rules would be needed to prevent firms from shifting all costs into lower pay.",
+          "translation": "还需要清晰的公共规则，防止企业通过降低报酬把全部成本转嫁出去。"
+        },
+        {
+          "text": "A portable system addresses the fragmented nature of gig work without pretending that each task is a separate working life.",
+          "translation": "可携带制度回应了零工工作碎片化的特点，而不把每项任务假装成彼此独立的职业生涯。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a time when flexible working was useful to you or someone you know.",
-      "answer": "A friend used delivery work for several months while completing a professional course. His classes changed each week, so a fixed part-time rota would have been difficult. He logged onto the app mainly at weekends and occasionally worked after an evening class. The flexibility helped him cover groceries without missing lessons. However, he said the advertised earnings ignored fuel and quiet periods, so he had to record his actual hourly return carefully. It was useful as a temporary arrangement, but he did not see it as a secure long-term job. The experience made the trade-off between flexibility and predictable income much more concrete to me."
+      "answer": "A friend used delivery work for several months while completing a professional course. His classes changed each week, so a fixed part-time rota would have been difficult. He logged onto the app mainly at weekends and occasionally worked after an evening class. The flexibility helped him cover groceries without missing lessons. However, he said the advertised earnings ignored fuel and quiet periods, so he had to record his actual hourly return carefully. It was useful as a temporary arrangement, but he did not see it as a secure long-term job. The experience made the trade-off between flexibility and predictable income much more concrete to me.",
+      "questionTranslation": "请描述一次灵活工作对你或你认识的人很有帮助的经历。",
+      "answerSentences": [
+        {
+          "text": "A friend used delivery work for several months while completing a professional course.",
+          "translation": "一位朋友在完成职业课程期间做了几个月的外卖配送。"
+        },
+        {
+          "text": "His classes changed each week, so a fixed part-time rota would have been difficult.",
+          "translation": "他的课程安排每周都会变化，因此固定的兼职轮班会很难配合。"
+        },
+        {
+          "text": "He logged onto the app mainly at weekends and occasionally worked after an evening class.",
+          "translation": "他主要在周末登录应用接单，偶尔也会在晚课后工作。"
+        },
+        {
+          "text": "The flexibility helped him cover groceries without missing lessons.",
+          "translation": "这种灵活性帮助他支付日常食品开支，同时不耽误课程。"
+        },
+        {
+          "text": "However, he said the advertised earnings ignored fuel and quiet periods, so he had to record his actual hourly return carefully.",
+          "translation": "不过，他说广告中的收入没有计入燃油成本和清闲时段，因此必须仔细记录实际的小时收入。"
+        },
+        {
+          "text": "It was useful as a temporary arrangement, but he did not see it as a secure long-term job.",
+          "translation": "这作为临时安排很有用，但他并不把它视为有保障的长期工作。"
+        },
+        {
+          "text": "The experience made the trade-off between flexibility and predictable income much more concrete to me.",
+          "translation": "这段经历让我更具体地理解了灵活性与可预期收入之间的权衡。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "What responsibilities should digital work platforms have towards workers?",
-      "answer": "They should explain pay calculations, fees and account decisions clearly because the platform controls information that an individual worker cannot see. Workers also need insurance for occupational accidents and a fair process for challenging suspension or false reviews. Whether every person should receive identical employee benefits is more complicated, since some use an app occasionally while others depend on it full time. Contributions linked to each completed job could provide basic protection without ignoring those differences. Clear written terms would also make comparison between platforms easier."
+      "answer": "They should explain pay calculations, fees and account decisions clearly because the platform controls information that an individual worker cannot see. Workers also need insurance for occupational accidents and a fair process for challenging suspension or false reviews. Whether every person should receive identical employee benefits is more complicated, since some use an app occasionally while others depend on it full time. Contributions linked to each completed job could provide basic protection without ignoring those differences. Clear written terms would also make comparison between platforms easier.",
+      "questionTranslation": "数字工作平台应对劳动者承担哪些责任？",
+      "answerSentences": [
+        {
+          "text": "They should explain pay calculations, fees and account decisions clearly because the platform controls information that an individual worker cannot see.",
+          "translation": "平台应清楚说明报酬计算、收费和账户决定，因为平台掌握着个体劳动者无法看到的信息。"
+        },
+        {
+          "text": "Workers also need insurance for occupational accidents and a fair process for challenging suspension or false reviews.",
+          "translation": "劳动者还需要职业事故保险，以及申诉停用账户或虚假评价的公平程序。"
+        },
+        {
+          "text": "Whether every person should receive identical employee benefits is more complicated, since some use an app occasionally while others depend on it full time.",
+          "translation": "是否每个人都应获得完全相同的雇员福利则更复杂，因为有些人只是偶尔使用应用，而另一些人则全职依赖它。"
+        },
+        {
+          "text": "Contributions linked to each completed job could provide basic protection without ignoring those differences.",
+          "translation": "与每项已完成工作挂钩的缴费可以提供基本保障，同时不忽视这些差异。"
+        },
+        {
+          "text": "Clear written terms would also make comparison between platforms easier.",
+          "translation": "清晰的书面条款也能让不同平台之间更容易比较。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -349,6 +479,89 @@
         "answer": "Not Given",
         "explanation": "They waited less, but the passage gives no universal claim about their wage."
       }
+    ],
+    "titleTranslation": "从工资中消失的等待时间",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A courier’s app records the moment an order is accepted and the moment it is delivered with remarkable precision.",
+          "translation": "快递员的应用会极其精确地记录订单被接受和送达的时刻。"
+        },
+        {
+          "text": "The interval before an order appears is less visible in both company reports and customer receipts.",
+          "translation": "订单出现之前的那段时间，在公司报告和顾客收据中都不那么明显。"
+        },
+        {
+          "text": "During that time, a worker may be positioned near restaurants, watching the screen and unable to begin another activity.",
+          "translation": "在此期间，劳动者可能待在餐馆附近，盯着屏幕，无法开始其他活动。"
+        },
+        {
+          "text": "Whether this counts as work has become central to arguments about pay in the gig economy.",
+          "translation": "这段时间是否算工作，已成为零工经济薪酬争论的核心。"
+        }
+      ],
+      [
+        {
+          "text": "Researchers at a transport institute followed a group of couriers over several weeks, using voluntary location diaries alongside platform records.",
+          "translation": "一家交通研究所的研究人员利用自愿填写的位置日志和平台记录，对一组快递员进行了数周跟踪。"
+        },
+        {
+          "text": "Payment per active delivery appeared comfortably above the local minimum wage.",
+          "translation": "只计算实际配送时，每单报酬看起来明显高于当地最低工资。"
+        },
+        {
+          "text": "Once the analysis included time spent waiting while logged in and deducted bicycle maintenance or fuel, median hourly earnings fell substantially.",
+          "translation": "一旦分析计入登录后的等待时间，并扣除自行车保养或燃油费用，小时收入中位数便大幅下降。"
+        },
+        {
+          "text": "The effect varied: workers who knew busy locations and switched between two apps waited less, while newcomers and those restricted by childcare experienced longer inactive periods.",
+          "translation": "影响因人而异：熟悉繁忙地点并在两个应用间切换的劳动者等待较少，而新手以及受儿童照护限制的人经历了更长的无任务时段。"
+        }
+      ],
+      [
+        {
+          "text": "Platforms argue that logged-in time cannot automatically be treated as employment because a worker may reject orders, use competing apps or attend to personal matters.",
+          "translation": "平台认为，登录时间不能自动被视为工作，因为劳动者可能拒绝订单、使用竞争平台或处理私人事务。"
+        },
+        {
+          "text": "This objection is significant.",
+          "translation": "这一反驳具有重要意义。"
+        },
+        {
+          "text": "A driver at home with an app open is not in the same position as one whom an algorithm has directed towards an airport queue.",
+          "translation": "在家打开应用的司机，与被算法引导到机场队列中的司机处境并不相同。"
+        },
+        {
+          "text": "Researchers therefore proposed several categories, distinguishing unrestricted availability from time spent following platform instructions or waiting in a specified zone.",
+          "translation": "因此，研究人员提出了几种分类，把不受限制的待命与遵从平台指示或在指定区域等待的时间区分开来。"
+        }
+      ],
+      [
+        {
+          "text": "The categories complicate a simple wage calculation, but they also expose the weakness of counting deliveries alone.",
+          "translation": "这些分类使简单的工资计算更加复杂，但也揭示了只计算配送任务的缺陷。"
+        },
+        {
+          "text": "One city now requires platforms to publish aggregate figures for engaged time, instructed waiting and total logged-in time.",
+          "translation": "目前有一座城市要求平台公布实际工作时间、按指示等待时间和总登录时间的汇总数据。"
+        },
+        {
+          "text": "These figures can also be compared across different operators and seasons.",
+          "translation": "这些数据还可以在不同运营商和季节之间进行比较。"
+        },
+        {
+          "text": "The data do not settle every worker’s legal status.",
+          "translation": "这些数据无法判定每位劳动者的法律身份。"
+        },
+        {
+          "text": "They do, however, show who carries the cost when customer demand is uncertain.",
+          "translation": "但它们确实显示了顾客需求不确定时由谁承担成本。"
+        },
+        {
+          "text": "Digital systems are exceptionally good at measuring activity; the policy question is which activities they choose to make visible.",
+          "translation": "数字系统极其擅长衡量活动；政策问题在于它们选择让哪些活动可见。"
+        }
+      ]
     ]
   }
 }

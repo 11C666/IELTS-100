@@ -153,7 +153,8 @@
         "limit",
         "bring down"
       ],
-      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论公共卫生。"
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论公共卫生。",
+      "translation": "reduce 表示减少；decrease、limit 和 bring down 可表达降低或控制。"
     },
     {
       "base": "people",
@@ -162,7 +163,8 @@
         "members of the public",
         "residents"
       ],
-      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论公共卫生。"
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论公共卫生。",
+      "translation": "people 表示人们；individuals、members of the public 和 residents 可用于更正式或具体的语境。"
     },
     {
       "base": "use",
@@ -171,7 +173,8 @@
         "adopt",
         "rely on"
       ],
-      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论公共卫生。"
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论公共卫生。",
+      "translation": "use 表示使用；make use of、adopt 和 rely on 可分别表示利用、采用或依赖。"
     },
     {
       "base": "choice",
@@ -180,7 +183,8 @@
         "alternative",
         "decision"
       ],
-      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论公共卫生。"
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论公共卫生。",
+      "translation": "choice 表示选择；option、alternative 和 decision 可根据语境表示选项、替代方案或决定。"
     },
     {
       "base": "cause",
@@ -189,7 +193,8 @@
         "contribute to",
         "give rise to"
       ],
-      "note": "contribute to 表示众多原因之一。 本组可用于讨论公共卫生。"
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论公共卫生。",
+      "translation": "cause 表示导致；lead to、contribute to 和 give rise to 常用于说明因果关系。"
     },
     {
       "base": "benefit",
@@ -198,7 +203,8 @@
         "positive effect",
         "gain"
       ],
-      "note": "gain 可指个人获得的具体收益。 本组可用于讨论公共卫生。"
+      "note": "gain 可指个人获得的具体收益。 本组可用于讨论公共卫生。",
+      "translation": "benefit 表示益处；advantage、positive effect 和 gain 可表示优势、积极影响或收获。"
     },
     {
       "base": "harm",
@@ -207,7 +213,8 @@
         "negative effect",
         "undermine"
       ],
-      "note": "undermine 强调逐渐削弱。 本组可用于讨论公共卫生。"
+      "note": "undermine 强调逐渐削弱。 本组可用于讨论公共卫生。",
+      "translation": "harm 表示伤害；damage、negative effect 和 undermine 可表示损害、负面影响或削弱。"
     },
     {
       "base": "support",
@@ -216,51 +223,60 @@
         "backing",
         "provision"
       ],
-      "note": "provision 常指服务或资源的供给。 本组可用于讨论公共卫生。"
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论公共卫生。",
+      "translation": "support 表示支持；assistance、backing 和 provision 可分别表示帮助、支持及供给。"
     }
   ],
   "sentences": [
     {
       "pattern": "Public health measures are most effective when + population + can understand both + benefit + and + burden.",
       "cn": "当公众能理解益处与负担时，公共卫生措施最有效。",
-      "example": "Public health measures are most effective when residents can understand both the collective benefit and the personal burden."
+      "example": "Public health measures are most effective when residents can understand both the collective benefit and the personal burden.",
+      "exampleTranslation": "当居民既能理解集体收益，也能理解个人负担时，公共卫生措施最为有效。"
     },
     {
       "pattern": "Preventing + health problem + requires action before + visible outcome.",
       "cn": "预防某健康问题需要在明显结果出现之前行动。",
-      "example": "Preventing infectious disease requires action before hospitals become overwhelmed."
+      "example": "Preventing infectious disease requires action before hospitals become overwhelmed.",
+      "exampleTranslation": "预防传染病需要在医院不堪重负之前采取行动。"
     },
     {
       "pattern": "The fact that + risk + is unevenly distributed means that + targeted response.",
       "cn": "某风险分布不均这一事实意味着需要针对性应对。",
-      "example": "The fact that air-pollution risk is unevenly distributed means that city-wide averages are insufficient."
+      "example": "The fact that air-pollution risk is unevenly distributed means that city-wide averages are insufficient.",
+      "exampleTranslation": "空气污染风险分布不均这一事实意味着，仅看全市平均值是不够的。"
     }
   ],
   "expressions": [
     {
       "text": "prevent the spread of disease",
       "cn": "防止疾病传播",
-      "example": "Clean water systems prevent the spread of disease."
+      "example": "Clean water systems prevent the spread of disease.",
+      "exampleTranslation": "清洁供水系统能防止疾病传播。"
     },
     {
       "text": "raise public awareness",
       "cn": "提高公众意识",
-      "example": "The campaign raised public awareness without explaining where to seek help."
+      "example": "The campaign raised public awareness without explaining where to seek help.",
+      "exampleTranslation": "这项宣传活动提高了公众意识，却没有说明应去哪里寻求帮助。"
     },
     {
       "text": "at greater risk of",
       "cn": "面临更高风险",
-      "example": "Older adults may be at greater risk of severe illness."
+      "example": "Older adults may be at greater risk of severe illness.",
+      "exampleTranslation": "老年人患重症的风险可能更高。"
     },
     {
       "text": "place pressure on health services",
       "cn": "给医疗服务带来压力",
-      "example": "A severe outbreak can place pressure on health services."
+      "example": "A severe outbreak can place pressure on health services.",
+      "exampleTranslation": "严重疫情会给医疗服务带来压力。"
     },
     {
       "text": "address the root causes",
       "cn": "处理根本原因",
-      "example": "Public health policy should address the root causes of unequal outcomes."
+      "example": "Public health policy should address the root causes of unequal outcomes.",
+      "exampleTranslation": "公共卫生政策应解决健康结果不平等背后的根本原因。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "detect risk early",
         "lower long-term demand"
       ],
-      "argument": "Vaccination, screening and safer street design may appear costly before a crisis because the avoided case cannot be observed directly. Decision-makers can estimate likely outcomes by comparing populations and trends over time. When prevention works, lower demand may incorrectly be interpreted as evidence that the programme was unnecessary. Stable funding should reflect expected harm and the strength of evidence, not only immediate pressure. Waiting for visible failure is usually the more expensive test."
+      "argument": "Vaccination, screening and safer street design may appear costly before a crisis because the avoided case cannot be observed directly. Decision-makers can estimate likely outcomes by comparing populations and trends over time. When prevention works, lower demand may incorrectly be interpreted as evidence that the programme was unnecessary. Stable funding should reflect expected harm and the strength of evidence, not only immediate pressure. Waiting for visible failure is usually the more expensive test.",
+      "viewpointTranslation": "即使成效不可见，预防也值得投资。",
+      "topicSentenceTranslation": "公共卫生项目往往通过阻止本来只有在造成伤害后才会被统计的事件来创造价值。",
+      "collocationTranslations": [
+        "投资预防",
+        "减少可避免疾病",
+        "及早发现风险",
+        "降低长期需求"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Vaccination, screening and safer street design may appear costly before a crisis because the avoided case cannot be observed directly.",
+          "translation": "在危机发生前，疫苗接种、筛查和更安全的街道设计可能显得成本高昂，因为被避免的病例无法直接观察到。"
+        },
+        {
+          "text": "Decision-makers can estimate likely outcomes by comparing populations and trends over time.",
+          "translation": "决策者可以通过比较不同人群和长期趋势来估算可能的结果。"
+        },
+        {
+          "text": "When prevention works, lower demand may incorrectly be interpreted as evidence that the programme was unnecessary.",
+          "translation": "当预防奏效时，需求降低反而可能被误解为该项目原本没有必要。"
+        },
+        {
+          "text": "Stable funding should reflect expected harm and the strength of evidence, not only immediate pressure.",
+          "translation": "稳定的资金投入应依据预期伤害和证据强度，而不能只看眼前压力。"
+        },
+        {
+          "text": "Waiting for visible failure is usually the more expensive test.",
+          "translation": "等到明显失败后再行动，通常是一种成本更高的检验方式。"
+        }
+      ]
     },
     {
       "viewpoint": "Universal programmes may need targeted delivery.",
@@ -301,19 +347,103 @@
         "remove practical barriers",
         "reduce health inequalities"
       ],
-      "argument": "A screening programme may be free, yet shift workers, rural residents or people with limited language proficiency can struggle to attend. Evening appointments, mobile services and translated guidance improve participation without changing eligibility. Data should be examined by location and group so that a strong average does not conceal a missing population. Targeted delivery is not unfair preference; it is a way of making a universal promise real. Public health equality requires attention to who can actually use the service."
+      "argument": "A screening programme may be free, yet shift workers, rural residents or people with limited language proficiency can struggle to attend. Evening appointments, mobile services and translated guidance improve participation without changing eligibility. Data should be examined by location and group so that a strong average does not conceal a missing population. Targeted delivery is not unfair preference; it is a way of making a universal promise real. Public health equality requires attention to who can actually use the service.",
+      "viewpointTranslation": "普遍性项目可能需要有针对性的实施方式。",
+      "topicSentenceTranslation": "即使一项服务面向所有人提供，不同群体面临不同障碍时，结果仍可能不平等。",
+      "collocationTranslations": [
+        "提供普遍可及服务",
+        "提供针对性额外支持",
+        "消除实际障碍",
+        "减少健康不平等"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A screening programme may be free, yet shift workers, rural residents or people with limited language proficiency can struggle to attend.",
+          "translation": "筛查项目可能免费，但轮班工作者、农村居民或语言能力有限的人仍可能难以前往。"
+        },
+        {
+          "text": "Evening appointments, mobile services and translated guidance improve participation without changing eligibility.",
+          "translation": "晚间预约、流动服务和翻译后的指南可以在不改变资格条件的情况下提高参与率。"
+        },
+        {
+          "text": "Data should be examined by location and group so that a strong average does not conceal a missing population.",
+          "translation": "应按地区和群体分析数据，以免良好的平均值掩盖某个缺席的人群。"
+        },
+        {
+          "text": "Targeted delivery is not unfair preference; it is a way of making a universal promise real.",
+          "translation": "有针对性的实施并非不公平偏爱，而是让普遍承诺真正落实的方法。"
+        },
+        {
+          "text": "Public health equality requires attention to who can actually use the service.",
+          "translation": "公共卫生平等需要关注谁实际上能够使用这项服务。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you pay much attention to public health advice?",
-      "answer": "I pay attention when the advice is specific and explains the evidence. General messages like “live more healthily” are easy to ignore because they do not suggest a practical next step. I also check whether the guidance comes from a health authority rather than an anonymous social-media post. Clear sourcing makes me more willing to follow the recommendation consistently."
+      "answer": "I pay attention when the advice is specific and explains the evidence. General messages like “live more healthily” are easy to ignore because they do not suggest a practical next step. I also check whether the guidance comes from a health authority rather than an anonymous social-media post. Clear sourcing makes me more willing to follow the recommendation consistently.",
+      "questionTranslation": "你是否很关注公共卫生建议？",
+      "answerSentences": [
+        {
+          "text": "I pay attention when the advice is specific and explains the evidence.",
+          "translation": "当建议具体并说明证据时，我会关注。"
+        },
+        {
+          "text": "General messages like “live more healthily” are easy to ignore because they do not suggest a practical next step.",
+          "translation": "“生活得更健康”之类笼统信息很容易被忽略，因为它们没有给出切实可行的下一步。"
+        },
+        {
+          "text": "I also check whether the guidance comes from a health authority rather than an anonymous social-media post.",
+          "translation": "我还会查看指导是否来自卫生机构，而不是匿名社交媒体帖子。"
+        },
+        {
+          "text": "Clear sourcing makes me more willing to follow the recommendation consistently.",
+          "translation": "来源清晰会让我更愿意持续遵循建议。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a public health campaign you remember.",
-      "answer": "I remember a campaign encouraging people to wash their hands more carefully during an outbreak. The posters were placed near sinks and showed the sequence visually rather than relying on a long paragraph. They also explained when handwashing mattered most, such as before preparing food and after returning home. What made the campaign effective was its location: the reminder appeared exactly where the action could happen. Some messages later became repetitive, but this one remained practical. It did not promise complete protection or use frightening images. Instead, it connected a small personal behaviour with reduced transmission in the wider community. I remember it because the design was simple, timely and easy for people of different ages to follow."
+      "answer": "I remember a campaign encouraging people to wash their hands more carefully during an outbreak. The posters were placed near sinks and showed the sequence visually rather than relying on a long paragraph. They also explained when handwashing mattered most, such as before preparing food and after returning home. What made the campaign effective was its location: the reminder appeared exactly where the action could happen. Some messages later became repetitive, but this one remained practical. It did not promise complete protection or use frightening images. Instead, it connected a small personal behaviour with reduced transmission in the wider community. I remember it because the design was simple, timely and easy for people of different ages to follow.",
+      "questionTranslation": "描述一个你记得的公共卫生宣传活动。",
+      "answerSentences": [
+        {
+          "text": "I remember a campaign encouraging people to wash their hands more carefully during an outbreak.",
+          "translation": "我记得一次在疫情期间鼓励人们更认真洗手的宣传活动。"
+        },
+        {
+          "text": "The posters were placed near sinks and showed the sequence visually rather than relying on a long paragraph.",
+          "translation": "海报张贴在洗手池附近，用图片展示步骤，而不是依赖长篇文字。"
+        },
+        {
+          "text": "They also explained when handwashing mattered most, such as before preparing food and after returning home.",
+          "translation": "海报还说明了洗手最重要的时机，例如准备食物前和回家后。"
+        },
+        {
+          "text": "What made the campaign effective was its location: the reminder appeared exactly where the action could happen.",
+          "translation": "这项宣传有效之处在于它的位置：提醒恰好出现在可以采取行动的地方。"
+        },
+        {
+          "text": "Some messages later became repetitive, but this one remained practical.",
+          "translation": "后来有些信息变得重复，但这一项始终很实用。"
+        },
+        {
+          "text": "It did not promise complete protection or use frightening images.",
+          "translation": "它没有承诺完全保护，也没有使用吓人的图片。"
+        },
+        {
+          "text": "Instead, it connected a small personal behaviour with reduced transmission in the wider community.",
+          "translation": "相反，它把个人的小行为与整个社区传播减少联系起来。"
+        },
+        {
+          "text": "I remember it because the design was simple, timely and easy for people of different ages to follow.",
+          "translation": "我记得它，是因为设计简单、时机恰当，而且不同年龄的人都容易照做。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +474,111 @@
         "answer": "several years of data",
         "explanation": "Paragraph 2 states that analysts often combine several years."
       }
+    ],
+    "titleTranslation": "一幅揭示健康不平等的地图",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A city-wide average can suggest improvement while particular neighbourhoods move in the opposite direction.",
+          "translation": "全市平均值可能显示情况有所改善，而某些社区却朝相反方向发展。"
+        },
+        {
+          "text": "Public health analysts therefore map outcomes such as asthma admissions, heat-related illness or access to screening.",
+          "translation": "因此，公共卫生分析人员会绘制哮喘住院、热相关疾病或筛查服务可及性等结果的地图。"
+        },
+        {
+          "text": "The purpose is not merely to colour areas on a map.",
+          "translation": "其目的不只是给地图上的区域涂色。"
+        },
+        {
+          "text": "Spatial patterns can reveal exposures and barriers that disappear when data are combined.",
+          "translation": "空间分布能够揭示数据合并后消失的暴露因素和障碍。"
+        }
+      ],
+      [
+        {
+          "text": "Interpretation requires care.",
+          "translation": "解读这些信息需要谨慎。"
+        },
+        {
+          "text": "A neighbourhood with high hospital admissions may have more illness, better access to a hospital or both.",
+          "translation": "住院率高的社区可能疾病更多，也可能更容易就医，或者两者兼有。"
+        },
+        {
+          "text": "Boundaries used for data collection rarely match the area residents identify as their community.",
+          "translation": "数据收集使用的边界很少与居民认同的社区范围完全一致。"
+        },
+        {
+          "text": "Small populations also produce unstable rates: a change of a few cases can look dramatic.",
+          "translation": "人口较少还会造成比率不稳定：几个病例的变化就可能显得十分剧烈。"
+        },
+        {
+          "text": "Analysts often combine several years and compare related indicators before drawing conclusions.",
+          "translation": "分析人员通常会合并数年数据并比较相关指标，然后才得出结论。"
+        }
+      ],
+      [
+        {
+          "text": "Maps become more informative when joined with local knowledge.",
+          "translation": "地图与本地知识结合后会提供更多信息。"
+        },
+        {
+          "text": "Residents may identify a bus route that makes clinic attendance difficult, housing that overheats or heavy traffic beside a school.",
+          "translation": "居民可能指出使就诊困难的公交线路、容易过热的住房，或学校旁的繁忙交通。"
+        },
+        {
+          "text": "These observations suggest mechanisms that administrative records cannot contain.",
+          "translation": "这些观察结果能提示行政记录无法包含的作用机制。"
+        },
+        {
+          "text": "They do not replace measurement, but they direct further investigation and help distinguish a statistical cluster from a plausible cause.",
+          "translation": "它们不能取代测量，却能为进一步调查指明方向，并帮助区分统计聚集现象与可信的原因。"
+        }
+      ],
+      [
+        {
+          "text": "There are ethical risks.",
+          "translation": "其中也存在伦理风险。"
+        },
+        {
+          "text": "Publishing a map of disease can stigmatise an area or affect property values, especially if uncertainty is hidden.",
+          "translation": "公布疾病地图可能使某一地区受到污名化或影响房产价值，尤其是在不确定性被隐瞒时。"
+        },
+        {
+          "text": "Individual privacy must be protected when rare conditions could make a person identifiable.",
+          "translation": "当罕见疾病可能使个人身份被识别时，必须保护个人隐私。"
+        },
+        {
+          "text": "Good reports explain limits, use sufficiently broad areas and involve communities before attaching labels to places.",
+          "translation": "优质报告会说明局限、使用足够宽泛的区域，并在给某些地方贴标签之前让社区参与。"
+        }
+      ],
+      [
+        {
+          "text": "Used responsibly, mapping changes the policy question from “Is the city healthier?” to “Who is not benefiting, and why?”",
+          "translation": "负责任地使用地图，会把政策问题从“这座城市是否更健康”转变为“哪些人没有受益，为什么”。"
+        },
+        {
+          "text": "Resources can then be directed towards mobile clinics, housing improvements or pollution control.",
+          "translation": "随后便可把资源投向流动诊所、住房改善或污染控制。"
+        },
+        {
+          "text": "The map does not prescribe which intervention will work, but it prevents a favourable average from ending the enquiry before unequal experience has been examined.",
+          "translation": "地图无法规定哪种干预一定有效，但它能防止有利的平均值在不平等体验得到审视前就终止调查。"
+        },
+        {
+          "text": "Maps can also guide evaluation after an intervention.",
+          "translation": "地图还可以指导干预后的评估。"
+        },
+        {
+          "text": "If a mobile clinic is introduced, analysts can compare attendance and outcomes in the intended area while watching for unchanged barriers nearby.",
+          "translation": "如果引入流动诊所，分析人员可以比较目标地区的就诊率和健康结果，同时观察附近是否仍有未改变的障碍。"
+        },
+        {
+          "text": "A visually persuasive map should not replace statistical testing, but it helps decision-makers ask whether resources reached the population and place for which they were designed.",
+          "translation": "视觉上具有说服力的地图不应取代统计检验，但它能帮助决策者判断资源是否到达了原定服务的人群和地点。"
+        }
+      ]
     ]
   }
 }

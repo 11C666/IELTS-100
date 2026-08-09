@@ -153,7 +153,8 @@
         "take a virtual course",
         "participate in distance learning"
       ],
-      "note": "remote 强调地点分离，virtual 强调线上环境。"
+      "note": "remote 强调地点分离，virtual 强调线上环境。",
+      "translation": "在线学习可以表述为远程学习、参加虚拟课程、参与远程学习。"
     },
     {
       "base": "study when convenient",
@@ -162,7 +163,8 @@
         "access lessons on demand",
         "study around other commitments"
       ],
-      "note": "on demand 表示需要时即可访问。"
+      "note": "on demand 表示需要时即可访问。",
+      "translation": "方便时学习可以表述为灵活的时间学习、按需学习课程、围绕其他承诺学习。"
     },
     {
       "base": "watch a recorded lesson",
@@ -171,7 +173,8 @@
         "replay an instructional video",
         "access an asynchronous session"
       ],
-      "note": "asynchronous 指无需同时在线。"
+      "note": "asynchronous 指无需同时在线。",
+      "translation": "观看录制的课程可以表示为查看存档的讲座、重播教学视频、访问异步会话。"
     },
     {
       "base": "take part online",
@@ -180,7 +183,8 @@
         "participate remotely",
         "contribute to an online discussion"
       ],
-      "note": "engage 强调主动投入。"
+      "note": "engage 强调主动投入。",
+      "translation": "take part online 表示在线参与；可具体表达为“参加线上活动”“远程参与”或“参与线上讨论”。"
     },
     {
       "base": "stop studying a course",
@@ -189,7 +193,8 @@
         "withdraw from the programme",
         "drop out"
       ],
-      "note": "drop out 较口语且通常指未完成离开。"
+      "note": "drop out 较口语且通常指未完成离开。",
+      "translation": "停止学习一门课程可以表示为脱离课程、退出课程、退出。"
     },
     {
       "base": "internet problems",
@@ -198,7 +203,8 @@
         "an unreliable connection",
         "limited digital access"
       ],
-      "note": "connectivity 是正式学术用语。"
+      "note": "connectivity 是正式学术用语。",
+      "translation": "互联网问题可以表现为连接困难、连接不可靠、数字访问受限。"
     },
     {
       "base": "teacher comments",
@@ -207,7 +213,8 @@
         "instructor guidance",
         "academic response"
       ],
-      "note": "feedback 应包含可执行的改进信息。"
+      "note": "feedback 应包含可执行的改进信息。",
+      "translation": "教师评价可以表现为导师反馈、导师指导、学术回应。"
     },
     {
       "base": "online study data",
@@ -216,51 +223,60 @@
         "digital activity records",
         "platform engagement data"
       ],
-      "note": "learning analytics 指分析学习行为数据。"
+      "note": "learning analytics 指分析学习行为数据。",
+      "translation": "在线学习数据可以表示为学习分析、数字活动记录、平台参与数据。"
     }
   ],
   "sentences": [
     {
       "pattern": "Online learning is most effective when + learners + have access to + resource/support.",
       "cn": "当学习者能够获得某种资源或支持时，在线学习最有效。",
-      "example": "Online learning is most effective when learners have access to timely feedback."
+      "example": "Online learning is most effective when learners have access to timely feedback.",
+      "exampleTranslation": "当学习者能够及时获得反馈时，在线学习是最有效的。"
     },
     {
       "pattern": "Although + digital tool + removes + barrier, it does not by itself + outcome.",
       "cn": "虽然数字工具消除了某种障碍，但它本身并不能……。",
-      "example": "Although recorded lectures remove scheduling barriers, they do not by themselves sustain attention."
+      "example": "Although recorded lectures remove scheduling barriers, they do not by themselves sustain attention.",
+      "exampleTranslation": "尽管录制的讲座消除了日程安排障碍，但它们本身并不能维持注意力。"
     },
     {
       "pattern": "For + online activity + to work, + participant + must + action.",
       "cn": "要让某项在线活动发挥作用，参与者必须……。",
-      "example": "For an online discussion to work, participants must respond to one another rather than post isolated comments."
+      "example": "For an online discussion to work, participants must respond to one another rather than post isolated comments.",
+      "exampleTranslation": "为了使在线讨论发挥作用，参与者必须相互回应，而不是发表孤立的评论。"
     }
   ],
   "expressions": [
     {
       "text": "learn at my own pace",
       "cn": "按自己的节奏学习",
-      "example": "Recorded material lets me learn at my own pace."
+      "example": "Recorded material lets me learn at my own pace.",
+      "exampleTranslation": "录制的材料让我可以按照自己的节奏学习。"
     },
     {
       "text": "log in to a live session",
       "cn": "登录直播课程",
-      "example": "I log in to a live session every Thursday evening."
+      "example": "I log in to a live session every Thursday evening.",
+      "exampleTranslation": "我每周四晚上都会登录直播课程。"
     },
     {
-      "text": "lose track of time",
-      "cn": "忘记时间",
-      "example": "Without a timetable, I can easily lose track of time."
+      "text": "stay on top of my coursework",
+      "cn": "及时跟上课程进度",
+      "example": "Weekly reminders help me stay on top of my coursework.",
+      "exampleTranslation": "每周提醒能帮助我及时跟上课程进度。"
     },
     {
       "text": "get distracted by notifications",
       "cn": "被通知分散注意力",
-      "example": "I turn off my phone because I get distracted by notifications."
+      "example": "I turn off my phone because I get distracted by notifications.",
+      "exampleTranslation": "我关掉手机，因为我会被通知分散注意力。"
     },
     {
       "text": "provide timely feedback",
       "cn": "提供及时反馈",
-      "example": "Short online quizzes can provide timely feedback to learners."
+      "example": "Short online quizzes can provide timely feedback to learners.",
+      "exampleTranslation": "简短的在线测验可以为学习者提供及时的反馈。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "maintain learning momentum",
         "manage study time"
       ],
-      "argument": "Flexible access helps workers and carers fit education around obligations that cannot be moved. Nevertheless, a single final deadline encourages some learners to postpone difficult tasks until recovery is impossible. Weekly goals and brief progress checks divide a large course into manageable stages. They also alert tutors when a student has quietly disengaged. Well-designed flexibility therefore removes unnecessary scheduling barriers without removing all structure."
+      "argument": "Flexible access helps workers and carers fit education around obligations that cannot be moved. Nevertheless, a single final deadline encourages some learners to postpone difficult tasks until recovery is impossible. Weekly goals and brief progress checks divide a large course into manageable stages. They also alert tutors when a student has quietly disengaged. Well-designed flexibility therefore removes unnecessary scheduling barriers without removing all structure.",
+      "viewpointTranslation": "只有当结构清晰可见时，灵活性才对学习者有利。",
+      "topicSentenceTranslation": "在线课程应将日程安排自由与明确的中间期限结合起来。",
+      "collocationTranslations": [
+        "按照自己的节奏学习",
+        "满足临时期限",
+        "保持学习动力",
+        "管理学习时间"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Flexible access helps workers and carers fit education around obligations that cannot be moved.",
+          "translation": "灵活的访问帮助工人和护理人员围绕无法转移的义务进行教育。"
+        },
+        {
+          "text": "Nevertheless, a single final deadline encourages some learners to postpone difficult tasks until recovery is impossible.",
+          "translation": "然而，单一的最后期限会鼓励一些学习者推迟困难的任务，直到不可能恢复为止。"
+        },
+        {
+          "text": "Weekly goals and brief progress checks divide a large course into manageable stages.",
+          "translation": "每周目标和简短的进度检查将大型课程划分为可管理的阶段。"
+        },
+        {
+          "text": "They also alert tutors when a student has quietly disengaged.",
+          "translation": "当学生悄悄脱离时，他们还会提醒导师。"
+        },
+        {
+          "text": "Well-designed flexibility therefore removes unnecessary scheduling barriers without removing all structure.",
+          "translation": "因此，精心设计的灵活性可以消除不必要的调度障碍，而无需删除所有结构。"
+        }
+      ]
     },
     {
       "viewpoint": "Digital access is not equivalent to educational access.",
@@ -301,19 +347,103 @@
         "provide loan equipment",
         "create an effective study environment"
       ],
-      "argument": "A course may be technically open to everyone while remaining unusable for people with weak internet or a shared device. Video-heavy teaching can consume costly data, and crowded homes may offer no quiet place for live participation. Downloadable audio, transcripts and equipment loans reduce these obstacles. Local study centres can provide connectivity for learners who need it. Online expansion becomes equitable only when access is defined by actual participation rather than registration."
+      "argument": "A course may be technically open to everyone while remaining unusable for people with weak internet or a shared device. Video-heavy teaching can consume costly data, and crowded homes may offer no quiet place for live participation. Downloadable audio, transcripts and equipment loans reduce these obstacles. Local study centres can provide connectivity for learners who need it. Online expansion becomes equitable only when access is defined by actual participation rather than registration.",
+      "viewpointTranslation": "数字访问并不等同于教育访问。",
+      "topicSentenceTranslation": "机构在扩大在线服务时必须解决设备、连接和学习条件的问题。",
+      "collocationTranslations": [
+        "弥合数字鸿沟",
+        "访问可靠的连接",
+        "提供借用设备",
+        "创造有效的学习环境"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A course may be technically open to everyone while remaining unusable for people with weak internet or a shared device.",
+          "translation": "课程在技术上可能对所有人开放，但对于互联网较弱或共享设备的人来说仍然无法使用。"
+        },
+        {
+          "text": "Video-heavy teaching can consume costly data, and crowded homes may offer no quiet place for live participation.",
+          "translation": "大量视频教学会消耗昂贵的数据，而拥挤的家庭可能无法为现场参与提供安静的场所。"
+        },
+        {
+          "text": "Downloadable audio, transcripts and equipment loans reduce these obstacles.",
+          "translation": "可下载的音频、文字记录和设备借用减少了这些障碍。"
+        },
+        {
+          "text": "Local study centres can provide connectivity for learners who need it.",
+          "translation": "当地学习中心可以为有需要的学习者提供连接。"
+        },
+        {
+          "text": "Online expansion becomes equitable only when access is defined by actual participation rather than registration.",
+          "translation": "只有当访问是通过实际参与而不是注册来定义时，在线扩展才变得公平。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you find it easy to concentrate during online lessons?",
-      "answer": "Only if the lesson asks me to do something regularly. During a long presentation, I start checking messages without even noticing. Short questions, shared documents or a clear note-taking task keep me involved. I also concentrate better at a desk than on a sofa, because the location signals that I am there to study."
+      "answer": "Only if the lesson asks me to do something regularly. During a long presentation, I start checking messages without even noticing. Short questions, shared documents or a clear note-taking task keep me involved. I also concentrate better at a desk than on a sofa, because the location signals that I am there to study.",
+      "questionTranslation": "您觉得上网课时容易集中注意力吗？",
+      "answerSentences": [
+        {
+          "text": "Only if the lesson asks me to do something regularly.",
+          "translation": "仅当课程要求我定期做某事时。"
+        },
+        {
+          "text": "During a long presentation, I start checking messages without even noticing.",
+          "translation": "听长篇讲解时，我会不知不觉地开始查看消息。"
+        },
+        {
+          "text": "Short questions, shared documents or a clear note-taking task keep me involved.",
+          "translation": "简短的问题、共享的文档或清晰的笔记任务让我参与其中。"
+        },
+        {
+          "text": "I also concentrate better at a desk than on a sofa, because the location signals that I am there to study.",
+          "translation": "我在桌子上比在沙发上更能集中注意力，因为这个位置表明我在那里学习。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe an online course or lesson that was useful to you.",
-      "answer": "I once took a short online course on spreadsheet skills. Each lesson demonstrated one practical task, and then I downloaded a small file to repeat it myself. The best feature was the immediate explanation after an incorrect answer, so I did not practise the same mistake. I completed it after work over about three weeks. It was useful because I could apply the formulas to a real budget the following day. The tutor also kept each video under ten minutes, which made it easy to return to one precise technique. Other learners posted alternative solutions, and comparing them showed that the same result could be reached in several ways. Unlike a long recorded lecture, the course made progress visible after every session, so I rarely postponed the next lesson."
+      "answer": "I once took a short online course on spreadsheet skills. Each lesson demonstrated one practical task, and then I downloaded a small file to repeat it myself. The best feature was the immediate explanation after an incorrect answer, so I did not practise the same mistake. I completed it after work over about three weeks. It was useful because I could apply the formulas to a real budget the following day. The tutor also kept each video under ten minutes, which made it easy to return to one precise technique. Other learners posted alternative solutions, and comparing them showed that the same result could be reached in several ways. Unlike a long recorded lecture, the course made progress visible after every session, so I rarely postponed the next lesson.",
+      "questionTranslation": "描述对您有用的在线课程或课程。",
+      "answerSentences": [
+        {
+          "text": "I once took a short online course on spreadsheet skills.",
+          "translation": "我曾经参加过有关电子表格技能的短期在线课程。"
+        },
+        {
+          "text": "Each lesson demonstrated one practical task, and then I downloaded a small file to repeat it myself.",
+          "translation": "每节课都会演示一项实际任务，然后我下载一个小文件来自己重复它。"
+        },
+        {
+          "text": "The best feature was the immediate explanation after an incorrect answer, so I did not practise the same mistake.",
+          "translation": "最好的地方是答错后会立即给出解释，因此我不会把同一个错误反复练习下去。"
+        },
+        {
+          "text": "I completed it after work over about three weeks.",
+          "translation": "我下班后花了大约三周的时间完成了它。"
+        },
+        {
+          "text": "It was useful because I could apply the formulas to a real budget the following day.",
+          "translation": "它很有用，因为我可以在第二天将这些公式应用于实际预算。"
+        },
+        {
+          "text": "The tutor also kept each video under ten minutes, which made it easy to return to one precise technique.",
+          "translation": "导师还把每段视频控制在十分钟以内，因此想回头查看某项具体技巧时很方便。"
+        },
+        {
+          "text": "Other learners posted alternative solutions, and comparing them showed that the same result could be reached in several ways.",
+          "translation": "其他学习者发布了替代解决方案，并对它们进行比较表明可以通过多种方式达到相同的结果。"
+        },
+        {
+          "text": "Unlike a long recorded lecture, the course made progress visible after every session, so I rarely postponed the next lesson.",
+          "translation": "与长时间录制的讲座不同，该课程在每堂课后都会取得明显的进步，因此我很少推迟下一堂课。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +474,111 @@
         "answer": "conversation",
         "explanation": "The final paragraph states that effective support combines data with conversation."
       }
+    ],
+    "titleTranslation": "隐形学习者的问题",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "In a physical classroom, absence is visible.",
+          "translation": "在实体教室中，缺席是显而易见的。"
+        },
+        {
+          "text": "An empty chair prompts a teacher to ask what happened, while a confused expression may lead to an immediate explanation.",
+          "translation": "空椅子会促使老师询问发生了什么事，而困惑的表情可能会导致立即解释。"
+        },
+        {
+          "text": "Online, a learner can remain officially enrolled while gradually disappearing.",
+          "translation": "在网上，学习者可以保持正式注册，但逐渐消失。"
+        },
+        {
+          "text": "Videos go unwatched, discussion posts become shorter and assignments arrive late.",
+          "translation": "视频无人观看，讨论帖子变短，作业迟到。"
+        },
+        {
+          "text": "By the time a final assessment confirms the problem, several weeks of recovery may be required.",
+          "translation": "当最终评估确认问题时，可能需要几周的恢复时间。"
+        }
+      ],
+      [
+        {
+          "text": "Digital platforms record large amounts of behaviour, including log-in times, pages opened and quiz attempts.",
+          "translation": "数字平台记录大量行为，包括登录时间、打开的页面和测验尝试。"
+        },
+        {
+          "text": "Some institutions use these traces to identify students who may need support.",
+          "translation": "一些机构使用这些痕迹来识别可能需要支持的学生。"
+        },
+        {
+          "text": "A sudden decline in activity can trigger a message from a tutor, and repeated errors can direct a learner towards revision.",
+          "translation": "活动的突然减少可能会触发导师的消息，而重复的错误可能会引导学习者进行修改。"
+        },
+        {
+          "text": "Compared with waiting for an examination, this approach offers an earlier opportunity to intervene.",
+          "translation": "与等待检查相比，这种方式提供了更早干预的机会。"
+        }
+      ],
+      [
+        {
+          "text": "However, activity data are imperfect evidence of learning.",
+          "translation": "然而，活动数据并不是学习的不完美证据。"
+        },
+        {
+          "text": "A student may download material once and study it offline, while another leaves a video running without paying attention.",
+          "translation": "一个学生可能会下载一次材料并离线学习，而另一个学生可能会不加注意地继续播放视频。"
+        },
+        {
+          "text": "Frequent logging in can indicate confusion rather than commitment.",
+          "translation": "频繁登录可能表明混乱而不是承诺。"
+        },
+        {
+          "text": "There are also questions about privacy: learners may not know which actions are monitored or how a risk score affects the help they receive.",
+          "translation": "还有关于隐私的问题：学习者可能不知道哪些行为受到监控，或者风险评分如何影响他们获得的帮助。"
+        },
+        {
+          "text": "Automated warnings can feel accusatory if no human being first checks the circumstances.",
+          "translation": "如果没有人首先检查情况，自动警告可能会让人感到指责。"
+        }
+      ],
+      [
+        {
+          "text": "Effective support therefore combines data with conversation.",
+          "translation": "因此，有效的支持将数据与对话结合起来。"
+        },
+        {
+          "text": "A tutor can ask whether low activity reflects illness, technical difficulty, poor time management or a deliberate study method.",
+          "translation": "导师可以询问低活动是否反映了疾病、技术困难、时间管理不善或刻意的学习方法。"
+        },
+        {
+          "text": "The response should match the cause: an equipment loan will not solve unclear instruction, and a motivational message will not repair an unreliable connection.",
+          "translation": "响应应该与原因相匹配：设备借用无法解决不明确的指令，激励性消息也无法修复不可靠的连接。"
+        },
+        {
+          "text": "Researchers examining student retention have repeatedly noted the importance of a sense of academic belonging.",
+          "translation": "研究学生保留率的研究人员一再指出学术归属感的重要性。"
+        },
+        {
+          "text": "Analytics may reveal who has become less visible, but sustained contact helps that person return.",
+          "translation": "分析可能会揭示谁变得不那么引人注目，但持续的联系可以帮助那个人回归。"
+        }
+      ],
+      [
+        {
+          "text": "The timing of contact matters as well.",
+          "translation": "接触的时间也很重要。"
+        },
+        {
+          "text": "A generic warning sent after several missed deadlines feels administrative, whereas a brief personal message after the first unexplained change can signal that participation has been noticed.",
+          "translation": "在几次错过最后期限后发出的一般性警告给人一种行政性的感觉，而在第一次无法解释的变化后发出的简短的个人信息则可以表明参与已被注意到。"
+        },
+        {
+          "text": "Support need not be intrusive.",
+          "translation": "支持不必是侵入性的。"
+        },
+        {
+          "text": "It should explain why contact was made, offer a simple route to reply and allow the learner to describe circumstances in their own terms.",
+          "translation": "它应该解释为什么进行联系，提供简单的回复途径，并允许学习者用自己的语言描述情况。"
+        }
+      ]
     ]
   }
 }

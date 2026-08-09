@@ -153,7 +153,8 @@
         "cut waste generation",
         "minimise discarded material"
       ],
-      "note": "prevent强调从源头避免，minimise适合正式写作。"
+      "note": "prevent强调从源头避免，minimise适合正式写作。",
+      "translation": "减少废物"
     },
     {
       "base": "recycle",
@@ -162,7 +163,8 @@
         "recover materials from",
         "return to productive use"
       ],
-      "note": "reprocess强调工业处理过程。"
+      "note": "reprocess强调工业处理过程。",
+      "translation": "回收利用"
     },
     {
       "base": "throw away",
@@ -171,7 +173,8 @@
         "dispose of",
         "send to waste"
       ],
-      "note": "dispose of较正式，后接具体物品。"
+      "note": "dispose of较正式，后接具体物品。",
+      "translation": "丢弃"
     },
     {
       "base": "too much packaging",
@@ -180,7 +183,8 @@
         "unnecessary wrapping",
         "an overuse of packaging"
       ],
-      "note": "excessive可直接用于Task 2批评过度包装。"
+      "note": "excessive可直接用于Task 2批评过度包装。",
+      "translation": "过度包装"
     },
     {
       "base": "household rubbish",
@@ -189,7 +193,8 @@
         "residential refuse",
         "waste produced at home"
       ],
-      "note": "domestic waste是常见学术搭配。"
+      "note": "domestic waste是常见学术搭配。",
+      "translation": "家庭垃圾"
     },
     {
       "base": "reuse products",
@@ -198,7 +203,8 @@
         "give products a second life",
         "keep goods in circulation"
       ],
-      "note": "keep goods in circulation适合循环经济语境。"
+      "note": "keep goods in circulation适合循环经济语境。",
+      "translation": "重复使用产品"
     },
     {
       "base": "make producers responsible",
@@ -207,7 +213,8 @@
         "hold manufacturers accountable",
         "shift disposal costs to producers"
       ],
-      "note": "三种表达侧重点分别是制度、问责和成本。"
+      "note": "三种表达侧重点分别是制度、问责和成本。",
+      "translation": "让生产者承担责任"
     },
     {
       "base": "a recycling system",
@@ -216,51 +223,60 @@
         "a material-collection network",
         "a resource-recovery system"
       ],
-      "note": "resource recovery比单纯recycling范围更广。"
+      "note": "resource recovery比单纯recycling范围更广。",
+      "translation": "回收体系"
     }
   ],
   "sentences": [
     {
       "pattern": "Rather than treating + a used product + as waste, + a company or household + can + repair, reuse or recover it.",
       "cn": "与其把某种废弃物当作垃圾，相关主体可以采取回收利用措施。",
-      "example": "Rather than treating old laptops as waste, repair centres can recover working components."
+      "example": "Rather than treating old laptops as waste, repair centres can recover working components.",
+      "exampleTranslation": "维修中心可以回收仍能工作的零部件，而不是把旧笔记本电脑当作废物处理。"
     },
     {
       "pattern": "Whether + a material + can be recycled depends less on + the symbol on its package + than on + local collection and processing facilities.",
       "cn": "某种材料能否回收，与其说取决于通常的假设，不如说取决于实际条件。",
-      "example": "Whether plastic can be recycled depends less on its symbol than on the facilities available locally."
+      "example": "Whether plastic can be recycled depends less on its symbol than on the facilities available locally.",
+      "exampleTranslation": "塑料能否回收，更多取决于当地可用设施，而不是上面的符号。"
     },
     {
       "pattern": "Only when + recyclable materials are collected separately + does + high-quality recycling become possible.",
       "cn": "只有满足某种收集条件，理想的回收结果才会出现。",
-      "example": "Only when food residue is removed does recycled paper retain sufficient quality."
+      "example": "Only when food residue is removed does recycled paper retain sufficient quality.",
+      "exampleTranslation": "只有清除食物残渣，再生纸才能保持足够质量。"
     }
   ],
   "expressions": [
     {
       "text": "put the recycling out",
       "cn": "把回收物拿出去等待收集",
-      "example": "I put the recycling out before leaving for work."
+      "example": "I put the recycling out before leaving for work.",
+      "exampleTranslation": "我上班前把回收物拿出去。"
     },
     {
       "text": "give it a second life",
       "cn": "让某物得到二次利用",
-      "example": "Repairing the chair gave it a second life."
+      "example": "Repairing the chair gave it a second life.",
+      "exampleTranslation": "把椅子修好后，它得以继续被使用。"
     },
     {
       "text": "end up in landfill",
       "cn": "最终进入填埋场",
-      "example": "Many usable objects still end up in landfill."
+      "example": "Many usable objects still end up in landfill.",
+      "exampleTranslation": "许多仍可使用的物品最终还是进入了填埋场。"
     },
     {
       "text": "reduce waste at source",
       "cn": "从源头减少废物",
-      "example": "Refill systems reduce waste at source."
+      "example": "Refill systems reduce waste at source.",
+      "exampleTranslation": "补充装系统从源头减少废物。"
     },
     {
       "text": "keep materials in circulation",
       "cn": "让材料持续循环使用",
-      "example": "Repair and resale keep materials in circulation."
+      "example": "Repair and resale keep materials in circulation.",
+      "exampleTranslation": "维修和转售让材料继续流通。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,34 @@
         "discourage disposable consumption",
         "reduce demand for raw materials"
       ],
-      "argument": "Recycling recovers some resources, but collection and reprocessing still require energy and infrastructure. Preventing an item from becoming waste avoids those costs altogether. For example, repair guarantees can keep appliances in use while refill services eliminate repeated packaging. Recycling remains necessary for unavoidable waste, yet it should follow reduction and reuse in the policy hierarchy."
+      "argument": "Recycling recovers some resources, but collection and reprocessing still require energy and infrastructure. Preventing an item from becoming waste avoids those costs altogether. For example, repair guarantees can keep appliances in use while refill services eliminate repeated packaging. Recycling remains necessary for unavoidable waste, yet it should follow reduction and reuse in the policy hierarchy.",
+      "viewpointTranslation": "预防废物应优先于回收。",
+      "topicSentenceTranslation": "政府应首先防止产生不必要的废物，而不是依赖消费后的回收处理。",
+      "collocationTranslations": [
+        "从源头防止废物",
+        "延长产品寿命",
+        "抑制一次性消费",
+        "减少原材料需求"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Recycling recovers some resources, but collection and reprocessing still require energy and infrastructure.",
+          "translation": "回收可以重新利用一部分资源，但收集和再加工仍需要能源与基础设施。"
+        },
+        {
+          "text": "Preventing an item from becoming waste avoids those costs altogether.",
+          "translation": "防止一件物品变成废物，可以完全避免这些成本。"
+        },
+        {
+          "text": "For example, repair guarantees can keep appliances in use while refill services eliminate repeated packaging.",
+          "translation": "例如，维修保障可以让电器继续使用，而补充装服务可以避免反复产生包装。"
+        },
+        {
+          "text": "Recycling remains necessary for unavoidable waste, yet it should follow reduction and reuse in the policy hierarchy.",
+          "translation": "对于不可避免的废物，回收仍然必要，但在政策优先顺序中，它应排在减量和重复使用之后。"
+        }
+      ],
+      "translation": "回收可以重新利用一部分资源，但收集和再加工仍需要能源与基础设施。防止一件物品变成废物，可以完全避免这些成本。例如，维修保障可以让电器继续使用，而补充装服务可以避免反复产生包装。对于不可避免的废物，回收仍然必要，但在政策优先顺序中，它应排在减量和重复使用之后。"
     },
     {
       "viewpoint": "Producers should bear more end-of-life responsibility.",
@@ -301,19 +344,106 @@
         "design for disassembly",
         "create a financial incentive"
       ],
-      "argument": "At present, local taxpayers often fund the disposal of goods whose packaging and construction they did not choose. If producers must collect or finance those products at the end of their lives, difficult-to-recycle designs become more expensive. Manufacturers then have an incentive to reduce mixed materials and make components replaceable. Deposit schemes for bottles show how responsibility can also create a convenient return route. Carefully designed rules can therefore shift waste prevention upstream without removing consumer choice."
+      "argument": "At present, local taxpayers often fund the disposal of goods whose packaging and construction they did not choose. If producers must collect or finance those products at the end of their lives, difficult-to-recycle designs become more expensive. Manufacturers then have an incentive to reduce mixed materials and make components replaceable. Deposit schemes for bottles show how responsibility can also create a convenient return route. Carefully designed rules can therefore shift waste prevention upstream without removing consumer choice.",
+      "viewpointTranslation": "生产者应承担更多产品报废责任。",
+      "topicSentenceTranslation": "让制造商对废弃产品负责，既能改善产品设计，也能改善废物收集。",
+      "collocationTranslations": [
+        "扩大生产者责任",
+        "承担处置成本",
+        "为拆解而设计",
+        "形成经济激励"
+      ],
+      "argumentSentences": [
+        {
+          "text": "At present, local taxpayers often fund the disposal of goods whose packaging and construction they did not choose.",
+          "translation": "目前，地方纳税人往往为商品处置买单，却无权选择这些商品的包装和结构。"
+        },
+        {
+          "text": "If producers must collect or finance those products at the end of their lives, difficult-to-recycle designs become more expensive.",
+          "translation": "如果生产者必须在产品寿命结束时负责回收或承担费用，难以回收的设计就会变得更加昂贵。"
+        },
+        {
+          "text": "Manufacturers then have an incentive to reduce mixed materials and make components replaceable.",
+          "translation": "制造商因此会有动力减少混合材料，并使零部件可以更换。"
+        },
+        {
+          "text": "Deposit schemes for bottles show how responsibility can also create a convenient return route.",
+          "translation": "瓶子押金制度说明，责任制度也能建立便利的返还渠道。"
+        },
+        {
+          "text": "Carefully designed rules can therefore shift waste prevention upstream without removing consumer choice.",
+          "translation": "因此，设计得当的规则可以在不剥夺消费者选择的情况下，把废物预防责任向生产上游转移。"
+        }
+      ],
+      "translation": "目前，地方纳税人往往为商品处置买单，却无权选择这些商品的包装和结构。如果生产者必须在产品寿命结束时负责回收或承担费用，难以回收的设计就会变得更加昂贵。制造商因此会有动力减少混合材料，并使零部件可以更换。瓶子押金制度说明，责任制度也能建立便利的返还渠道。因此，设计得当的规则可以在不剥夺消费者选择的情况下，把废物预防责任向生产上游转移。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe something you repaired instead of throwing away.",
-      "answer": "I repaired a desk lamp that had stopped working after several years. At first I assumed the whole lamp was broken, but a local repair shop found that only the switch needed replacing. The repair took about twenty minutes and cost far less than a new lamp. I was pleased because the metal body and shade were still in excellent condition, so throwing them away would have made no sense. Since then, I have become more willing to ask whether an object has one faulty part rather than treating it as completely useless. I still replace things when repair is unsafe or impractical, but that small experience made repair feel like a normal option rather than a specialist hobby."
+      "answer": "I repaired a desk lamp that had stopped working after several years. At first I assumed the whole lamp was broken, but a local repair shop found that only the switch needed replacing. The repair took about twenty minutes and cost far less than a new lamp. I was pleased because the metal body and shade were still in excellent condition, so throwing them away would have made no sense. Since then, I have become more willing to ask whether an object has one faulty part rather than treating it as completely useless. I still replace things when repair is unsafe or impractical, but that small experience made repair feel like a normal option rather than a specialist hobby.",
+      "questionTranslation": "描述一件你修理后没有丢弃的物品。",
+      "answerSentences": [
+        {
+          "text": "I repaired a desk lamp that had stopped working after several years.",
+          "translation": "我修过一盏用了几年后停止工作的台灯。"
+        },
+        {
+          "text": "At first I assumed the whole lamp was broken, but a local repair shop found that only the switch needed replacing.",
+          "translation": "起初我以为整盏灯坏了，但当地一家维修店发现只需更换开关。"
+        },
+        {
+          "text": "The repair took about twenty minutes and cost far less than a new lamp.",
+          "translation": "维修大约用了二十分钟，费用远低于购买新灯。"
+        },
+        {
+          "text": "I was pleased because the metal body and shade were still in excellent condition, so throwing them away would have made no sense.",
+          "translation": "我很高兴，因为金属灯身和灯罩仍然完好，扔掉它们毫无道理。"
+        },
+        {
+          "text": "Since then, I have become more willing to ask whether an object has one faulty part rather than treating it as completely useless.",
+          "translation": "从那以后，我更愿意先问问一件物品是否只是某个部件出了故障，而不会把它当作完全无用。"
+        },
+        {
+          "text": "I still replace things when repair is unsafe or impractical, but that small experience made repair feel like a normal option rather than a specialist hobby.",
+          "translation": "当维修不安全或不切实际时，我仍会更换物品，但这次小经历让我觉得维修是一种正常选择，而不只是专业爱好。"
+        }
+      ],
+      "translation": "我修过一盏用了几年后停止工作的台灯。起初我以为整盏灯坏了，但当地一家维修店发现只需更换开关。维修大约用了二十分钟，费用远低于购买新灯。我很高兴，因为金属灯身和灯罩仍然完好，扔掉它们毫无道理。从那以后，我更愿意先问问一件物品是否只是某个部件出了故障，而不会把它当作完全无用。当维修不安全或不切实际时，我仍会更换物品，但这次小经历让我觉得维修是一种正常选择，而不只是专业爱好。"
     },
     {
       "part": "Part 3",
       "question": "Why do some people fail to recycle even when collection services are available?",
-      "answer": "Convenience is only part of the explanation. People may be unsure which materials belong in each bin, especially when labels vary between neighbourhoods or packaging combines several materials. Limited space in small homes can also make sorting difficult. In addition, some residents doubt that separated waste is genuinely recycled, so they see little value in making an effort. Clear instructions, reliable collection and honest reporting about what happens afterwards can address these barriers. Penalties alone are unlikely to work if the system itself remains confusing."
+      "answer": "Convenience is only part of the explanation. People may be unsure which materials belong in each bin, especially when labels vary between neighbourhoods or packaging combines several materials. Limited space in small homes can also make sorting difficult. In addition, some residents doubt that separated waste is genuinely recycled, so they see little value in making an effort. Clear instructions, reliable collection and honest reporting about what happens afterwards can address these barriers. Penalties alone are unlikely to work if the system itself remains confusing.",
+      "questionTranslation": "为什么即使有回收服务，一些人仍不进行垃圾分类回收？",
+      "answerSentences": [
+        {
+          "text": "Convenience is only part of the explanation.",
+          "translation": "便利性只是部分原因。"
+        },
+        {
+          "text": "People may be unsure which materials belong in each bin, especially when labels vary between neighbourhoods or packaging combines several materials.",
+          "translation": "人们可能不确定每种材料应放进哪个垃圾桶，尤其是在不同社区标签不一，或包装混合多种材料时。"
+        },
+        {
+          "text": "Limited space in small homes can also make sorting difficult.",
+          "translation": "小型住宅空间有限，也会增加分类难度。"
+        },
+        {
+          "text": "In addition, some residents doubt that separated waste is genuinely recycled, so they see little value in making an effort.",
+          "translation": "此外，一些居民怀疑分类后的垃圾是否真的会被回收，因此觉得付出努力没有意义。"
+        },
+        {
+          "text": "Clear instructions, reliable collection and honest reporting about what happens afterwards can address these barriers.",
+          "translation": "清晰说明、可靠收集以及如实报告后续处理情况，可以解决这些障碍。"
+        },
+        {
+          "text": "Penalties alone are unlikely to work if the system itself remains confusing.",
+          "translation": "如果系统本身仍然令人困惑，单靠处罚不太可能奏效。"
+        }
+      ],
+      "translation": "便利性只是部分原因。人们可能不确定每种材料应放进哪个垃圾桶，尤其是在不同社区标签不一，或包装混合多种材料时。小型住宅空间有限，也会增加分类难度。此外，一些居民怀疑分类后的垃圾是否真的会被回收，因此觉得付出努力没有意义。清晰说明、可靠收集以及如实报告后续处理情况，可以解决这些障碍。如果系统本身仍然令人困惑，单靠处罚不太可能奏效。"
     }
   ],
   "reading": {
@@ -344,6 +474,98 @@
         "answer": "price",
         "explanation": "Paragraph 3 states that cleaner material commands a better price."
       }
+    ],
+    "titleTranslation": "一个回收标志无法告诉你的事",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A triangle of arrows on a package appears to offer a simple instruction: recycle this item.",
+          "translation": "包装上的三箭头三角形似乎给出了简单指示：回收这件物品。"
+        },
+        {
+          "text": "In practice, the symbol may identify the type of plastic rather than confirm that a local service accepts it.",
+          "translation": "实际上，该符号可能只是标明塑料类型，而不代表当地服务会接收它。"
+        },
+        {
+          "text": "Residents who place every marked package in a recycling bin are therefore acting reasonably, yet their well-intentioned decisions can create contamination at sorting facilities.",
+          "translation": "因此，把每件带标志的包装都放进回收箱的居民行为合乎情理，但这种出于好意的决定可能给分拣设施造成污染。"
+        }
+      ],
+      [
+        {
+          "text": "Local variation explains much of the confusion.",
+          "translation": "地方差异解释了大部分困惑。"
+        },
+        {
+          "text": "A council that has a buyer for clear plastic trays may collect them, whereas a neighbouring authority, using different machinery and serving a smaller market, may reject the same objects.",
+          "translation": "某个市政机构如果有买家收购透明塑料托盘，就可能回收它们；而邻近机构由于使用不同机器、服务较小市场，可能拒收相同物品。"
+        },
+        {
+          "text": "Packaging design changes faster than collection contracts, which are often agreed for several years.",
+          "translation": "包装设计的变化速度快于收集合同，而这些合同通常一次签订数年。"
+        },
+        {
+          "text": "Consequently, a label printed for a national market cannot always describe a recycling route that depends on local equipment, transport costs and demand for recovered material.",
+          "translation": "因此，为全国市场印制的标签无法始终描述一条取决于当地设备、运输成本和再生材料需求的回收路径。"
+        }
+      ],
+      [
+        {
+          "text": "Contamination is not merely an untidy bin.",
+          "translation": "污染不只是垃圾桶看起来杂乱。"
+        },
+        {
+          "text": "Food residue can damage paper fibres, and plastic film, wrapping itself around rotating equipment, may force a processing line to stop while workers remove it.",
+          "translation": "食物残渣会损坏纸纤维，而塑料薄膜缠绕在旋转设备上，可能迫使加工线停机以便工人清除。"
+        },
+        {
+          "text": "Some facilities accept mixed recyclables because participation is higher when households use one container; others require separation because cleaner material commands a better price.",
+          "translation": "一些设施接受混合可回收物，因为家庭只用一个容器时参与率更高；另一些设施要求分类，因为更洁净的材料售价更高。"
+        },
+        {
+          "text": "Neither arrangement is automatically superior, although instructions must match the system actually operating.",
+          "translation": "两种安排都不一定天然更优，但说明必须与实际运行的系统相符。"
+        }
+      ],
+      [
+        {
+          "text": "Several governments are developing labels that combine material information with disposal guidance.",
+          "translation": "多个政府正在开发把材料信息与处置指南结合起来的标签。"
+        },
+        {
+          "text": "For such labels to remain accurate, producers, retailers and waste authorities need a shared database that can reflect regional differences.",
+          "translation": "为了让这些标签保持准确，生产者、零售商和废物管理部门需要一个能够反映地区差异的共享数据库。"
+        },
+        {
+          "text": "Digital codes could provide local instructions, but requiring a phone to understand a packet would disadvantage some users.",
+          "translation": "数字代码可以提供当地说明，但要求使用手机才能看懂包装会让部分用户处于不利地位。"
+        },
+        {
+          "text": "The essential message still needs to be visible at the moment of disposal.",
+          "translation": "关键信息仍需在人们丢弃物品时清晰可见。"
+        }
+      ],
+      [
+        {
+          "text": "Better labels will not solve weak markets for recovered material or make every composite package recyclable.",
+          "translation": "更好的标签无法解决再生材料市场疲弱的问题，也无法让所有复合包装都可回收。"
+        },
+        {
+          "text": "They can, however, replace a hopeful symbol with a realistic action.",
+          "translation": "然而，它们可以用切实可行的行动取代一个只表达希望的符号。"
+        },
+        {
+          "text": "That modest improvement matters: a recycling system works not when every object carries green arrows, but when people can identify the correct route and trust that the route leads somewhere useful.",
+          "translation": "这种适度改进很重要：回收体系有效运行，不是因为每件物品都有绿色箭头，而是因为人们能找到正确渠道，并相信这条渠道确实通向有用的去处。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "包装上的三箭头三角形似乎给出了简单指示：回收这件物品。实际上，该符号可能只是标明塑料类型，而不代表当地服务会接收它。因此，把每件带标志的包装都放进回收箱的居民行为合乎情理，但这种出于好意的决定可能给分拣设施造成污染。",
+      "地方差异解释了大部分困惑。某个市政机构如果有买家收购透明塑料托盘，就可能回收它们；而邻近机构由于使用不同机器、服务较小市场，可能拒收相同物品。包装设计的变化速度快于收集合同，而这些合同通常一次签订数年。因此，为全国市场印制的标签无法始终描述一条取决于当地设备、运输成本和再生材料需求的回收路径。",
+      "污染不只是垃圾桶看起来杂乱。食物残渣会损坏纸纤维，而塑料薄膜缠绕在旋转设备上，可能迫使加工线停机以便工人清除。一些设施接受混合可回收物，因为家庭只用一个容器时参与率更高；另一些设施要求分类，因为更洁净的材料售价更高。两种安排都不一定天然更优，但说明必须与实际运行的系统相符。",
+      "多个政府正在开发把材料信息与处置指南结合起来的标签。为了让这些标签保持准确，生产者、零售商和废物管理部门需要一个能够反映地区差异的共享数据库。数字代码可以提供当地说明，但要求使用手机才能看懂包装会让部分用户处于不利地位。关键信息仍需在人们丢弃物品时清晰可见。",
+      "更好的标签无法解决再生材料市场疲弱的问题，也无法让所有复合包装都可回收。然而，它们可以用切实可行的行动取代一个只表达希望的符号。这种适度改进很重要：回收体系有效运行，不是因为每件物品都有绿色箭头，而是因为人们能找到正确渠道，并相信这条渠道确实通向有用的去处。"
     ]
   }
 }

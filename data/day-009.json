@@ -153,7 +153,8 @@
         "motion picture",
         "cinematic work"
       ],
-      "note": "film 最常用；cinematic work 较正式。"
+      "note": "film 最常用；cinematic work 较正式。",
+      "translation": "movie 表示电影；film 是常用同义词，motion picture 较正式，cinematic work 强调电影作品。"
     },
     {
       "base": "very popular film",
@@ -162,7 +163,8 @@
         "commercial success",
         "widely watched release"
       ],
-      "note": "box-office hit 特指影院票房成功。"
+      "note": "box-office hit 特指影院票房成功。",
+      "translation": "非常受欢迎的电影可以表现为票房大卖、商业上的成功、上映后受到广泛关注。"
     },
     {
       "base": "based on a book",
@@ -171,7 +173,8 @@
         "a screen adaptation",
         "derived from a literary work"
       ],
-      "note": "adapted from 是最自然的表达。"
+      "note": "adapted from 是最自然的表达。",
+      "translation": "根据一本书可以表达为改编自小说、改编自文学作品、改编成电影。"
     },
     {
       "base": "good acting",
@@ -180,7 +183,8 @@
         "strong cast",
         "believable portrayal"
       ],
-      "note": "portrayal 指对具体人物的塑造。"
+      "note": "portrayal 指对具体人物的塑造。",
+      "translation": "好的表演可以表现为令人信服的表演、强大的演员阵容、可信的刻画。"
     },
     {
       "base": "beautiful images",
@@ -189,7 +193,8 @@
         "visually impressive scenes",
         "distinctive visual style"
       ],
-      "note": "cinematography 包含摄影和画面处理。"
+      "note": "cinematography 包含摄影和画面处理。",
+      "translation": "美丽的图像可以通过引人注目的摄影、视觉上令人印象深刻的场景、独特的视觉风格来表达。"
     },
     {
       "base": "film story",
@@ -198,7 +203,8 @@
         "narrative",
         "storyline"
       ],
-      "note": "plot 强调事件安排。"
+      "note": "plot 强调事件安排。",
+      "translation": "电影故事可以表现为情节、叙述、故事情节。"
     },
     {
       "base": "comments from experts",
@@ -207,7 +213,8 @@
         "professional criticism",
         "critical response"
       ],
-      "note": "critical 在此表示评论性的，不一定负面。"
+      "note": "critical 在此表示评论性的，不一定负面。",
+      "translation": "专家的评论可以表现为批判性评论、专业批评、批判性回应。"
     },
     {
       "base": "watch at home",
@@ -216,51 +223,60 @@
         "view on demand",
         "use a streaming service"
       ],
-      "note": "stream 强调在线播放。"
+      "note": "stream 强调在线播放。",
+      "translation": "在家观看可以表示为流媒体电影、点播观看、使用流媒体服务。"
     }
   ],
   "sentences": [
     {
       "pattern": "Although + film + is set in + place or period, its central theme is + noun.",
       "cn": "虽然电影以某地或某时期为背景，但核心主题是……",
-      "example": "Although the film is set in the distant future, its central theme is family loyalty."
+      "example": "Although the film is set in the distant future, its central theme is family loyalty.",
+      "exampleTranslation": "尽管这部电影以遥远的未来为背景，但其中心主题是家庭忠诚。"
     },
     {
       "pattern": "What makes the performance convincing is the way + actor + verb.",
       "cn": "让表演可信的是演员……的方式。",
-      "example": "What makes the performance convincing is the way the actor shows fear without speaking."
+      "example": "What makes the performance convincing is the way the actor shows fear without speaking.",
+      "exampleTranslation": "表演令人信服的地方在于演员不说话而表现出恐惧的方式。"
     },
     {
       "pattern": "The film raises the question of whether + complete clause.",
       "cn": "这部电影提出了是否……的问题。",
-      "example": "The film raises the question of whether technological progress always improves human life."
+      "example": "The film raises the question of whether technological progress always improves human life.",
+      "exampleTranslation": "这部电影提出了技术进步是否总能改善人类生活的问题。"
     }
   ],
   "expressions": [
     {
       "text": "worth watching",
       "cn": "值得一看",
-      "example": "It isn’t perfect, but it’s definitely worth watching."
+      "example": "It isn’t perfect, but it’s definitely worth watching.",
+      "exampleTranslation": "它并不完美，但绝对值得一看。"
     },
     {
       "text": "live up to the hype",
       "cn": "不负盛名或宣传",
-      "example": "The sequel didn’t quite live up to the hype."
+      "example": "The sequel didn’t quite live up to the hype.",
+      "exampleTranslation": "这部续集并没有完全达到人们此前的期待。"
     },
     {
       "text": "keep me on the edge of my seat",
       "cn": "让我高度紧张投入",
-      "example": "The final twenty minutes kept me on the edge of my seat."
+      "example": "The final twenty minutes kept me on the edge of my seat.",
+      "exampleTranslation": "最后二十分钟的情节让我一直紧张得不敢放松。"
     },
     {
       "text": "steal the show",
       "cn": "抢尽风头",
-      "example": "The supporting actor completely stole the show."
+      "example": "The supporting actor completely stole the show.",
+      "exampleTranslation": "配角完全抢尽风头。"
     },
     {
       "text": "based on a true story",
       "cn": "根据真实故事改编",
-      "example": "It’s based on a true story, although some details were changed."
+      "example": "It’s based on a true story, although some details were changed.",
+      "exampleTranslation": "它是根据真实故事改编的，尽管有些细节有所改变。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "historical accuracy",
         "consult reliable sources"
       ],
-      "argument": "A well-made film can give viewers a vivid sense of clothing, setting and social conflict. This emotional connection may encourage them to learn more about a period. Directors, however, often combine characters or alter events to create a clearer plot. Viewers who treat every scene as fact may develop a misleading picture. Historical cinema is therefore a useful starting point, provided that important claims are checked against reliable sources."
+      "argument": "A well-made film can give viewers a vivid sense of clothing, setting and social conflict. This emotional connection may encourage them to learn more about a period. Directors, however, often combine characters or alter events to create a clearer plot. Viewers who treat every scene as fact may develop a misleading picture. Historical cinema is therefore a useful starting point, provided that important claims are checked against reliable sources.",
+      "viewpointTranslation": "电影可以激发人们对历史的兴趣，但不应取代历史研究。",
+      "topicSentenceTranslation": "历史电影让过去的事件变得容易理解，但戏剧性的故事讲述可能会扭曲证据。",
+      "collocationTranslations": [
+        "将历史带入生活",
+        "发挥创意自由",
+        "历史准确性",
+        "咨询可靠来源"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A well-made film can give viewers a vivid sense of clothing, setting and social conflict.",
+          "translation": "一部制作精良的电影可以让观众对服装、场景和社会冲突有生动的感受。"
+        },
+        {
+          "text": "This emotional connection may encourage them to learn more about a period.",
+          "translation": "这种情感联系可能会鼓励他们更多地了解某个时期。"
+        },
+        {
+          "text": "Directors, however, often combine characters or alter events to create a clearer plot.",
+          "translation": "然而，导演经常组合角色或改变事件来创造更清晰的情节。"
+        },
+        {
+          "text": "Viewers who treat every scene as fact may develop a misleading picture.",
+          "translation": "将每个场景都视为事实的观众可能会产生误导性的画面。"
+        },
+        {
+          "text": "Historical cinema is therefore a useful starting point, provided that important claims are checked against reliable sources.",
+          "translation": "因此，历史电影是一个有用的起点，前提是重要的主张要根据可靠的来源进行检查。"
+        }
+      ]
     },
     {
       "viewpoint": "Local film production deserves public support.",
@@ -301,19 +347,87 @@
         "create skilled jobs",
         "reach an international audience"
       ],
-      "argument": "Large international studios dominate distribution because they possess extensive finance and marketing networks. Smaller local filmmakers may struggle even when their stories are relevant to domestic audiences. Grants or shared production facilities can help them develop work without dictating its message. Successful films also employ writers, technicians, designers and musicians. Carefully allocated support can therefore strengthen both cultural representation and the creative economy."
+      "argument": "Large international studios dominate distribution because they possess extensive finance and marketing networks. Smaller local filmmakers may struggle even when their stories are relevant to domestic audiences. Grants or shared production facilities can help them develop work without dictating its message. Successful films also employ writers, technicians, designers and musicians. Carefully allocated support can therefore strengthen both cultural representation and the creative economy.",
+      "viewpointTranslation": "本地电影制作值得公众支持。",
+      "topicSentenceTranslation": "国内电影业可以在创造技术就业的同时保留文化声音。",
+      "collocationTranslations": [
+        "支持本地生产",
+        "代表不同的经历",
+        "创造技能型就业岗位",
+        "接触国际观众"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Large international studios dominate distribution because they possess extensive finance and marketing networks.",
+          "translation": "大型国际电影公司在发行方面占据主导地位，因为它们拥有广泛的财务和营销网络。"
+        },
+        {
+          "text": "Smaller local filmmakers may struggle even when their stories are relevant to domestic audiences.",
+          "translation": "即使规模较小的本土电影制片人的故事与国内观众相关，他们也可能会陷入困境。"
+        },
+        {
+          "text": "Grants or shared production facilities can help them develop work without dictating its message.",
+          "translation": "赠款或共享生产设施可以帮助他们开发工作，而无需规定其信息。"
+        },
+        {
+          "text": "Successful films also employ writers, technicians, designers and musicians.",
+          "translation": "成功的电影还聘请编剧、技术人员、设计师和音乐家。"
+        },
+        {
+          "text": "Carefully allocated support can therefore strengthen both cultural representation and the creative economy.",
+          "translation": "因此，精心分配的支持可以加强文化代表性和创意经济。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What kind of films do you enjoy watching?",
-      "answer": "I enjoy character-driven dramas and the occasional science-fiction film. I’m less interested in constant action than in a story where people have to make difficult choices. If the dialogue feels natural, I can forgive a modest budget. I also like documentaries, particularly when they explain a familiar issue from an angle I hadn’t considered."
+      "answer": "I enjoy character-driven dramas and the occasional science-fiction film. I’m less interested in constant action than in a story where people have to make difficult choices. If the dialogue feels natural, I can forgive a modest budget. I also like documentaries, particularly when they explain a familiar issue from an angle I hadn’t considered.",
+      "questionTranslation": "您喜欢看什么类型的电影？",
+      "answerSentences": [
+        {
+          "text": "I enjoy character-driven dramas and the occasional science-fiction film.",
+          "translation": "我喜欢以角色为主导的戏剧，偶尔也喜欢看科幻电影。"
+        },
+        {
+          "text": "I’m less interested in constant action than in a story where people have to make difficult choices.",
+          "translation": "我对持续的行动不太感兴趣，而对人们必须做出艰难选择的故事更感兴趣。"
+        },
+        {
+          "text": "If the dialogue feels natural, I can forgive a modest budget.",
+          "translation": "如果对话感觉很自然，我可以原谅适度的预算。"
+        },
+        {
+          "text": "I also like documentaries, particularly when they explain a familiar issue from an angle I hadn’t considered.",
+          "translation": "我也喜欢纪录片，特别是当它们从我没有考虑过的角度解释一个熟悉的问题时。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Do you prefer watching films at home or at the cinema?",
-      "answer": "For a visually impressive film, I prefer the cinema because the screen and sound make it easier to concentrate. At home, I’m tempted to pause the film or check my phone. Still, streaming is far more convenient for an ordinary weekday, and I can choose subtitles. I probably watch more at home but remember cinema trips more clearly."
+      "answer": "For a visually impressive film, I prefer the cinema because the screen and sound make it easier to concentrate. At home, I’m tempted to pause the film or check my phone. Still, streaming is far more convenient for an ordinary weekday, and I can choose subtitles. I probably watch more at home but remember cinema trips more clearly.",
+      "questionTranslation": "你更喜欢在家看电影还是去电影院看电影？",
+      "answerSentences": [
+        {
+          "text": "For a visually impressive film, I prefer the cinema because the screen and sound make it easier to concentrate.",
+          "translation": "对于视觉上令人印象深刻的电影，我更喜欢电影院，因为屏幕和声音更容易集中注意力。"
+        },
+        {
+          "text": "At home, I’m tempted to pause the film or check my phone.",
+          "translation": "在家里，我很想暂停电影或查看手机。"
+        },
+        {
+          "text": "Still, streaming is far more convenient for an ordinary weekday, and I can choose subtitles.",
+          "translation": "不过，对于普通工作日来说，流媒体要方便得多，而且我可以选择字幕。"
+        },
+        {
+          "text": "I probably watch more at home but remember cinema trips more clearly.",
+          "translation": "我可能在家看的更多，但对电影之旅的记忆更清晰。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,107 @@
         "answer": "A",
         "explanation": "Paragraph D discusses accessibility and language learning."
       }
+    ],
+    "titleTranslation": "字幕如何改变观众",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "For much of cinema history, the international movement of films depended on translation.",
+          "translation": "在电影史上的大部分时间里，电影的国际运动都依赖于翻译。"
+        },
+        {
+          "text": "Dubbing replaced the original voices, while subtitles placed a written version of the dialogue at the bottom of the screen.",
+          "translation": "配音取代了原来的声音，而字幕则将对话的书面版本放在屏幕底部。"
+        },
+        {
+          "text": "Each method had supporters.",
+          "translation": "每种方法都有支持者。"
+        },
+        {
+          "text": "Dubbing allowed viewers to focus on the image, but subtitles preserved the actors’ voices and the rhythm of the original language.",
+          "translation": "配音使观众能够专注于图像，但字幕保留了演员的声音和原始语言的节奏。"
+        }
+      ],
+      [
+        {
+          "text": "The growth of streaming has made subtitled material ordinary for audiences who once encountered it mainly at festivals or specialist cinemas.",
+          "translation": "流媒体的发展使得带字幕的内容对于那些曾经主要在节日或专业电影院看到的观众来说变得司空见惯。"
+        },
+        {
+          "text": "Viewers can move from a Korean drama to a Spanish documentary without waiting for a domestic remake.",
+          "translation": "观众可以从韩剧转向西班牙纪录片，而无需等待国内翻拍。"
+        },
+        {
+          "text": "This change has expanded the market for smaller production industries and weakened the assumption that popular entertainment must be in English.",
+          "translation": "这一变化扩大了小型制作行业的市场，并削弱了流行娱乐必须采用英语的假设。"
+        },
+        {
+          "text": "It has also made audiences more familiar with differences in speech, humour and social convention.",
+          "translation": "它还让观众更加熟悉言语、幽默和社会习俗的差异。"
+        }
+      ],
+      [
+        {
+          "text": "Reading subtitles is not a neutral process.",
+          "translation": "阅读字幕不是一个中立的过程。"
+        },
+        {
+          "text": "Text must be shortened because viewers need enough time to read while following the image.",
+          "translation": "文本必须缩短，因为观众在跟随图像时需要足够的时间来阅读。"
+        },
+        {
+          "text": "Jokes, dialect and culturally specific references may have no direct equivalent.",
+          "translation": "笑话、方言和特定文化的参考可能没有直接对应的内容。"
+        },
+        {
+          "text": "A translator therefore makes continual choices about what information can be preserved.",
+          "translation": "因此，译者不断选择可以保留哪些信息。"
+        },
+        {
+          "text": "Two accurate subtitle versions may use noticeably different wording because they prioritise tone, clarity or literal meaning differently.",
+          "translation": "两个准确的字幕版本可能使用明显不同的措辞，因为它们对语气、清晰度或字面意义的优先顺序不同。"
+        }
+      ],
+      [
+        {
+          "text": "Subtitles also have educational uses.",
+          "translation": "字幕也有教育用途。"
+        },
+        {
+          "text": "Language learners can compare spoken words with written text, while captions for viewers with hearing loss may include music and sound descriptions.",
+          "translation": "语言学习者可以将口语与书面文字进行比较，而为听力损失的观众提供的字幕可能包括音乐和声音描述。"
+        },
+        {
+          "text": "However, relying on translated subtitles can draw attention away from the original speech.",
+          "translation": "然而，依赖翻译字幕可能会分散人们对原始演讲的注意力。"
+        },
+        {
+          "text": "The most useful setting depends on the viewer’s purpose.",
+          "translation": "最有用的设置取决于观看者的目的。"
+        },
+        {
+          "text": "What began as a practical solution for distributing films has become a flexible tool for access, learning and cultural exchange.",
+          "translation": "最初作为电影发行的实用解决方案，现已成为获取、学习和文化交流的灵活工具。"
+        }
+      ],
+      [
+        {
+          "text": "Translation choices can even influence a film’s reputation abroad.",
+          "translation": "翻译选择甚至会影响电影在国外的声誉。"
+        },
+        {
+          "text": "A character whose speech is playful in the original may sound formal if the subtitles preserve literal meaning but lose tone.",
+          "translation": "如果字幕保留了字面意义却丢失了语气，原作中说话幽默的角色在译文中可能会显得过于正式。"
+        },
+        {
+          "text": "Viewers then judge not only the filmmaker’s work but also an invisible layer created for them.",
+          "translation": "观众不仅会评判电影制片人的作品，还会评判为他们创造的无形层。"
+        },
+        {
+          "text": "Good subtitles attract little attention precisely because they allow both layers to function together.",
+          "translation": "好的字幕很少引起注意，正是因为它们允许两个层一起发挥作用。"
+        }
+      ]
     ]
   }
 }

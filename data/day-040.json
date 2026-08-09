@@ -148,6 +148,7 @@
   "paraphrases": [
     {
       "base": "machines do routine work",
+      "translation": "机器完成常规工作",
       "options": [
         "automate repetitive tasks",
         "use automated processing",
@@ -157,6 +158,7 @@
     },
     {
       "base": "people lose jobs to technology",
+      "translation": "人们因技术而失去工作",
       "options": [
         "workers are displaced",
         "roles are eliminated",
@@ -166,6 +168,7 @@
     },
     {
       "base": "person checks the system",
+      "translation": "人工检查系统",
       "options": [
         "human oversight",
         "manual review",
@@ -175,6 +178,7 @@
     },
     {
       "base": "unusual case",
+      "translation": "异常情况",
       "options": [
         "exception",
         "non-routine case",
@@ -184,6 +188,7 @@
     },
     {
       "base": "change what a job contains",
+      "translation": "改变工作内容",
       "options": [
         "redesign a role",
         "alter the task composition",
@@ -193,6 +198,7 @@
     },
     {
       "base": "teach workers new skills",
+      "translation": "培训员工掌握新技能",
       "options": [
         "provide reskilling",
         "fund vocational retraining",
@@ -202,6 +208,7 @@
     },
     {
       "base": "system repeats an error",
+      "translation": "系统重复错误",
       "options": [
         "scale a flawed decision",
         "reproduce bias automatically",
@@ -211,6 +218,7 @@
     },
     {
       "base": "people and machines together",
+      "translation": "人与机器协作",
       "options": [
         "human–machine collaboration",
         "technology-assisted work",
@@ -223,44 +231,52 @@
     {
       "pattern": "Automation is most suitable for tasks that are + properties, whereas humans remain necessary when + condition.",
       "cn": "自动化最适合具有某些特征的任务，而在某种条件下仍需要人。",
-      "example": "Automation is most suitable for tasks that are repetitive and predictable, whereas humans remain necessary when goals conflict."
+      "example": "Automation is most suitable for tasks that are repetitive and predictable, whereas humans remain necessary when goals conflict.",
+      "exampleTranslation": "自动化最适合重复且可预测的任务，而在目标发生冲突时，人工仍不可或缺。"
     },
     {
       "pattern": "Once + process + is automated, errors can be + scale effect + unless + safeguard.",
       "cn": "一旦流程自动化，错误可能产生规模效应，除非……。",
-      "example": "Once screening is automated, errors can be repeated at scale unless outcomes are audited."
+      "example": "Once screening is automated, errors can be repeated at scale unless outcomes are audited.",
+      "exampleTranslation": "筛选一旦自动化，如果不审核结果，错误就可能大规模重复。"
     },
     {
       "pattern": "Rather than replacing + whole occupation, technology often changes + task composition.",
       "cn": "技术往往不是取代整个职业，而是改变任务构成。",
-      "example": "Rather than replacing the whole occupation, technology often changes which cases require human attention."
+      "example": "Rather than replacing the whole occupation, technology often changes which cases require human attention.",
+      "exampleTranslation": "技术往往不是取代整个职业，而是改变哪些情况需要人工处理。"
     }
   ],
   "expressions": [
     {
       "text": "automate a routine task",
       "cn": "自动化常规任务",
-      "example": "The software automates a routine data-entry task."
+      "example": "The software automates a routine data-entry task.",
+      "exampleTranslation": "这款软件使一项常规数据录入任务实现了自动化。"
     },
     {
       "text": "work alongside machines",
       "cn": "与机器协同工作",
-      "example": "Technicians increasingly work alongside machines."
+      "example": "Technicians increasingly work alongside machines.",
+      "exampleTranslation": "技术人员越来越多地与机器协同工作。"
     },
     {
       "text": "free up time for",
       "cn": "腾出时间用于……",
-      "example": "Automation can free up time for complex customer problems."
+      "example": "Automation can free up time for complex customer problems.",
+      "exampleTranslation": "自动化可以腾出时间处理复杂的客户问题。"
     },
     {
       "text": "require human judgement",
       "cn": "需要人类判断",
-      "example": "Unusual safety cases still require human judgement."
+      "example": "Unusual safety cases still require human judgement.",
+      "exampleTranslation": "异常的安全情况仍需人工判断。"
     },
     {
       "text": "be displaced by technology",
       "cn": "被技术取代",
-      "example": "Some clerical tasks may be displaced by technology."
+      "example": "Some clerical tasks may be displaced by technology.",
+      "exampleTranslation": "部分文职任务可能被技术取代。"
     }
   ],
   "mistakes": [
@@ -283,41 +299,114 @@
   "writingIdeas": [
     {
       "viewpoint": "Automation should be evaluated at task level.",
+      "viewpointTranslation": "应在任务层面评估自动化。",
       "topicSentence": "Predictions about whole occupations hide the different ways technology affects their component tasks.",
+      "topicSentenceTranslation": "对整个职业的预测掩盖了技术影响其各项组成任务的不同方式。",
       "collocations": [
         "automate routine processing",
         "redesign a job role",
         "retain human oversight",
         "handle exceptional cases"
       ],
-      "argument": "A job usually combines predictable processing, communication, physical action and judgement. Software may remove one component while increasing demand for another, as automated screening creates more unusual cases for staff to review. Task-level analysis identifies who needs training and where accountability should remain. It also avoids assuming that technical capability guarantees economical adoption. Policy should prepare for changing roles as well as complete displacement."
+      "argument": "A job usually combines predictable processing, communication, physical action and judgement. Software may remove one component while increasing demand for another, as automated screening creates more unusual cases for staff to review. Task-level analysis identifies who needs training and where accountability should remain. It also avoids assuming that technical capability guarantees economical adoption. Policy should prepare for changing roles as well as complete displacement.",
+      "collocationTranslations": ["自动处理常规流程", "重新设计工作岗位", "保留人工监督", "处理异常情况"],
+      "argumentSentences": [
+        {"text":"A job usually combines predictable processing, communication, physical action and judgement.","translation":"一项工作通常结合了可预测的处理、沟通、实际操作和判断。"},
+        {"text":"Software may remove one component while increasing demand for another, as automated screening creates more unusual cases for staff to review.","translation":"软件可能在消除一项工作内容的同时增加对另一项内容的需求，例如自动筛选会产生更多需要员工审查的异常情况。"},
+        {"text":"Task-level analysis identifies who needs training and where accountability should remain.","translation":"任务层面的分析可以确定谁需要培训，以及问责应保留在哪些环节。"},
+        {"text":"It also avoids assuming that technical capability guarantees economical adoption.","translation":"它还能避免误以为技术上可行就一定能经济地采用。"},
+        {"text":"Policy should prepare for changing roles as well as complete displacement.","translation":"政策既应为岗位变化做好准备，也应应对岗位被完全取代的情况。"}
+      ]
     },
     {
       "viewpoint": "Workers affected by automation need paid routes to transition.",
+      "viewpointTranslation": "受自动化影响的劳动者需要有薪的转型路径。",
       "topicSentence": "Retraining is credible only when people can participate without losing the income needed for daily life.",
+      "topicSentenceTranslation": "只有当人们能够在不失去日常生活所需收入的情况下参加培训时，再培训才真正可行。",
       "collocations": [
         "fund vocational retraining",
         "provide paid learning leave",
         "recognise existing skills",
         "move into a redesigned role"
       ],
-      "argument": "A displaced worker cannot necessarily complete a long unpaid course, even when future demand is strong. Employers can offer paid learning time before redundancy and map existing experience onto new tasks. Public funds may support transitions where benefits extend across an industry. Courses should connect to actual vacancies rather than generic digital confidence. Adjustment policy succeeds when it creates a realistic bridge from present income to future employment."
+      "argument": "A displaced worker cannot necessarily complete a long unpaid course, even when future demand is strong. Employers can offer paid learning time before redundancy and map existing experience onto new tasks. Public funds may support transitions where benefits extend across an industry. Courses should connect to actual vacancies rather than generic digital confidence. Adjustment policy succeeds when it creates a realistic bridge from present income to future employment.",
+      "collocationTranslations": ["资助职业再培训", "提供带薪学习假", "认可现有技能", "转入重新设计的岗位"],
+      "argumentSentences": [
+        {"text":"A displaced worker cannot necessarily complete a long unpaid course, even when future demand is strong.","translation":"即使未来需求旺盛，失去岗位的劳动者也未必能够完成长期的无薪课程。"},
+        {"text":"Employers can offer paid learning time before redundancy and map existing experience onto new tasks.","translation":"雇主可以在裁员前提供带薪学习时间，并把员工现有经验与新任务对应起来。"},
+        {"text":"Public funds may support transitions where benefits extend across an industry.","translation":"如果转型的收益惠及整个行业，公共资金可以提供支持。"},
+        {"text":"Courses should connect to actual vacancies rather than generic digital confidence.","translation":"课程应与真实职位空缺衔接，而不是只培养笼统的数字技术信心。"},
+        {"text":"Adjustment policy succeeds when it creates a realistic bridge from present income to future employment.","translation":"当调整政策在当前收入与未来就业之间搭建起切实可行的桥梁时，它才算成功。"}
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you use any automated tools in daily life?",
-      "answer": "Yes, I use automatic bill payments and spam filters most often. I value them because the tasks are repetitive and easy to forget, but I still check the results occasionally. I would not want every decision automated, especially when a mistake could block an important service. Convenience is useful only when correction remains possible."
+      "questionTranslation": "你在日常生活中使用自动化工具吗？",
+      "answer": "Yes, I use automatic bill payments and spam filters most often. I value them because the tasks are repetitive and easy to forget, but I still check the results occasionally. I would not want every decision automated, especially when a mistake could block an important service. Convenience is useful only when correction remains possible.",
+      "answerSentences": [
+        {"text":"Yes, I use automatic bill payments and spam filters most often.","translation":"会，我最常使用自动缴费和垃圾邮件过滤器。"},
+        {"text":"I value them because the tasks are repetitive and easy to forget, but I still check the results occasionally.","translation":"我很看重这些工具，因为相关任务重复又容易忘记，不过我仍会偶尔检查结果。"},
+        {"text":"I would not want every decision automated, especially when a mistake could block an important service.","translation":"我不希望所有决定都自动化，尤其是在一个错误可能阻断重要服务的情况下。"},
+        {"text":"Convenience is useful only when correction remains possible.","translation":"只有在仍能纠正错误时，便利才真正有用。"}
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a piece of technology that changed the way people work.",
-      "answer": "Cloud-based shared documents changed everyday teamwork quite significantly. Several people can edit the same file, leave comments and see earlier versions instead of sending many attachments. The tool did not remove the need for discussion, but it reduced confusion about which version was current. It also made remote collaboration much easier. The main drawback is that constant notifications can fragment attention unless teams agree on when a response is actually required. Earlier, people often saved separate copies with unclear names, and useful comments became scattered across email threads. Version history made correction less risky because an earlier draft could be restored. At the same time, shared access required clearer ownership: not everyone should edit every section at once. The technology improved work most when the team also agreed on roles and communication rules."
+      "questionTranslation": "描述一项改变了人们工作方式的技术。",
+      "answer": "Cloud-based shared documents changed everyday teamwork quite significantly. Several people can edit the same file, leave comments and see earlier versions instead of sending many attachments. The tool did not remove the need for discussion, but it reduced confusion about which version was current. It also made remote collaboration much easier. The main drawback is that constant notifications can fragment attention unless teams agree on when a response is actually required. Earlier, people often saved separate copies with unclear names, and useful comments became scattered across email threads. Version history made correction less risky because an earlier draft could be restored. At the same time, shared access required clearer ownership: not everyone should edit every section at once. The technology improved work most when the team also agreed on roles and communication rules.",
+      "answerSentences": [
+        {"text":"Cloud-based shared documents changed everyday teamwork quite significantly.","translation":"云端共享文档显著改变了日常团队协作。"},
+        {"text":"Several people can edit the same file, leave comments and see earlier versions instead of sending many attachments.","translation":"多人可以编辑同一文件、留下评论并查看早期版本，而不必发送大量附件。"},
+        {"text":"The tool did not remove the need for discussion, but it reduced confusion about which version was current.","translation":"这项工具并没有消除讨论的必要，却减少了对当前版本的混淆。"},
+        {"text":"It also made remote collaboration much easier.","translation":"它也使远程协作容易得多。"},
+        {"text":"The main drawback is that constant notifications can fragment attention unless teams agree on when a response is actually required.","translation":"主要缺点是，持续不断的通知会分散注意力，除非团队约定何时确实需要回复。"},
+        {"text":"Earlier, people often saved separate copies with unclear names, and useful comments became scattered across email threads.","translation":"过去，人们常保存名称不清的独立副本，有用的评论也散落在各个邮件讨论串中。"},
+        {"text":"Version history made correction less risky because an earlier draft could be restored.","translation":"版本历史降低了修改风险，因为可以恢复较早的草稿。"},
+        {"text":"At the same time, shared access required clearer ownership: not everyone should edit every section at once.","translation":"与此同时，共享访问需要更清晰的责任划分：不应让所有人同时编辑每个部分。"},
+        {"text":"The technology improved work most when the team also agreed on roles and communication rules.","translation":"当团队同时就角色和沟通规则达成一致时，这项技术对工作的改善最大。"}
+      ]
     }
   ],
   "reading": {
     "title": "The Exception Queue",
+    "titleTranslation": "异常情况队列",
+    "paragraphSentencePairs": [
+      [
+        {"text":"Automation is often introduced with a simple division: machines handle routine cases and people handle exceptions.","translation":"引入自动化时，人们常采用一种简单分工：机器处理常规情况，人类处理异常情况。"},
+        {"text":"The arrangement appears efficient because software processes high volumes quickly.","translation":"这种安排看似高效，因为软件能够迅速处理大量任务。"},
+        {"text":"Yet removing ordinary cases changes the human job.","translation":"然而，去除普通情况会改变人类的工作。"},
+        {"text":"Employees no longer alternate easy and difficult work; they receive a continuous queue of ambiguity, conflict and error.","translation":"员工不再交替处理简单与困难的工作，而是持续面对由模糊情况、冲突和错误组成的队列。"}
+      ],
+      [
+        {"text":"This concentration creates new demands.","translation":"这种集中带来了新的要求。"},
+        {"text":"Exceptional cases take longer, offer fewer clear rules and often involve frustrated customers who have already failed to resolve a problem through the automated channel.","translation":"异常情况耗时更长、明确规则更少，而且往往涉及已经无法通过自动渠道解决问题、感到沮丧的客户。"},
+        {"text":"Staff need broader authority and stronger diagnostic knowledge, not merely instructions to follow.","translation":"员工需要更大的权限和更强的诊断知识，而不只是可供遵循的指示。"},
+        {"text":"If staffing is calculated from the speed of routine automated transactions, the exception queue grows even while the system reports high overall efficiency.","translation":"如果按自动处理常规交易的速度配置人员，即使系统报告整体效率很高，异常队列仍会不断增长。"}
+      ],
+      [
+        {"text":"Automation can also weaken the experience from which judgement develops.","translation":"自动化也可能削弱培养判断力所需的经验。"},
+        {"text":"A junior employee once learned patterns by handling many ordinary cases before meeting rare ones.","translation":"过去，初级员工先通过处理大量普通情况来认识规律，然后才遇到罕见情况。"},
+        {"text":"If software hides those examples, the employee encounters only difficult cases without the background needed to interpret them.","translation":"如果软件隐藏了这些例子，员工就只会接触困难情况，却没有解读它们所需的背景。"},
+        {"text":"Some organisations respond with simulations, sampled review of automated decisions and deliberate rotation through the underlying process.","translation":"一些组织通过模拟训练、抽样审查自动决策以及有计划地轮岗参与底层流程来应对这一问题。"}
+      ],
+      [
+        {"text":"The design lesson is that human oversight is a form of work, not a final button labelled “check”.","translation":"设计上的启示是，人工监督是一项工作，而不是最后一个标有“检查”的按钮。"},
+        {"text":"Reviewers need time, information and permission to reverse a system’s recommendation.","translation":"审核人员需要时间、信息以及推翻系统建议的权限。"},
+        {"text":"Their corrections should feed back into monitoring so that a repeated exception becomes visible as a pattern.","translation":"他们的纠正应反馈到监测环节，使反复出现的异常能够被识别为一种规律。"},
+        {"text":"Automation succeeds when the whole process, including recovery from error, improves.","translation":"只有当包括错误恢复在内的整个流程得到改善时，自动化才算成功。"},
+        {"text":"Counting only the transactions completed without human contact overlooks the people and knowledge required when the ordinary path fails.","translation":"只统计无需人工接触便完成的交易，会忽视常规路径失效时所需的人员和知识。"}
+      ],
+      [
+        {"text":"Measures of success should include the exception path.","translation":"衡量成功的指标应包括异常处理路径。"},
+        {"text":"Waiting time, reversal rates and repeated complaints show whether automation has merely moved effort out of the visible channel.","translation":"等待时间、撤销率和重复投诉能够说明自动化是否只是把工作转移出了可见渠道。"},
+        {"text":"Employees reviewing difficult cases can also identify rules that create unnecessary exceptions.","translation":"审查困难案例的员工也能发现哪些规则制造了不必要的异常。"},
+        {"text":"Treating their knowledge as feedback improves both the automated route and the remaining human role, rather than using people as a silent buffer for system weakness.","translation":"把他们的知识视为反馈，可以同时改善自动化路径和保留下来的人工角色，而不是把人当作默默承受系统缺陷的缓冲层。"}
+      ]
+    ],
     "paragraphs": [
       "Automation is often introduced with a simple division: machines handle routine cases and people handle exceptions. The arrangement appears efficient because software processes high volumes quickly. Yet removing ordinary cases changes the human job. Employees no longer alternate easy and difficult work; they receive a continuous queue of ambiguity, conflict and error.",
       "This concentration creates new demands. Exceptional cases take longer, offer fewer clear rules and often involve frustrated customers who have already failed to resolve a problem through the automated channel. Staff need broader authority and stronger diagnostic knowledge, not merely instructions to follow. If staffing is calculated from the speed of routine automated transactions, the exception queue grows even while the system reports high overall efficiency.",

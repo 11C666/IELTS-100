@@ -153,7 +153,8 @@
         "a diverse range of species",
         "substantial biological diversity"
       ],
-      "note": "richness是可测量概念。"
+      "note": "richness是可测量概念。",
+      "translation": "众多物种"
     },
     {
       "base": "protect nature",
@@ -162,7 +163,8 @@
         "safeguard ecosystems",
         "maintain ecological integrity"
       ],
-      "note": "integrity强调系统结构与功能。"
+      "note": "integrity强调系统结构与功能。",
+      "translation": "保护自然"
     },
     {
       "base": "loss of habitat",
@@ -171,7 +173,8 @@
         "the contraction of suitable habitat",
         "declining habitat extent and quality"
       ],
-      "note": "最后一项兼顾面积和质量。"
+      "note": "最后一项兼顾面积和质量。",
+      "translation": "栖息地丧失"
     },
     {
       "base": "animals move between areas",
@@ -180,7 +183,8 @@
         "wildlife travels between habitats",
         "populations remain ecologically connected"
       ],
-      "note": "connected强调基因交流。"
+      "note": "connected强调基因交流。",
+      "translation": "动物在区域之间迁移"
     },
     {
       "base": "important species",
@@ -189,7 +193,8 @@
         "a species with a disproportionate role",
         "a keystone species"
       ],
-      "note": "keystone不能泛指所有重要物种。"
+      "note": "keystone不能泛指所有重要物种。",
+      "translation": "重要物种"
     },
     {
       "base": "nature helps people",
@@ -198,7 +203,8 @@
         "biodiversity supports human well-being",
         "ecological processes generate public benefits"
       ],
-      "note": "services可包括授粉、防洪等。"
+      "note": "services可包括授粉、防洪等。",
+      "translation": "自然惠及人类"
     },
     {
       "base": "numbers fall",
@@ -207,7 +213,8 @@
         "abundance decreases",
         "a species undergoes sustained decline"
       ],
-      "note": "abundance比species number准确。"
+      "note": "abundance比species number准确。",
+      "translation": "数量下降"
     },
     {
       "base": "bring nature back",
@@ -216,51 +223,60 @@
         "support ecological recovery",
         "re-establish functioning ecosystems"
       ],
-      "note": "restore不一定恢复到某个完美历史状态。"
+      "note": "restore不一定恢复到某个完美历史状态。",
+      "translation": "恢复自然"
     }
   ],
   "sentences": [
     {
       "pattern": "A site may contain + many species + while lacking + the habitat quality + that enables them to + survive and reproduce.",
       "cn": "某地可能拥有一定数量的物种，却缺乏让它们发挥功能的生态质量。",
-      "example": "A park may contain many plant species while lacking the connected habitat that enables pollinators to survive year-round."
+      "example": "A park may contain many plant species while lacking the connected habitat that enables pollinators to survive year-round.",
+      "exampleTranslation": "一座公园可能拥有许多植物物种，却缺少能让传粉动物全年生存的连通栖息地。"
     },
     {
       "pattern": "The species on which + an ecosystem + depends may not be the ones that + attract the most public attention.",
       "cn": "某生态系统所依赖的物种可能并不是最受公众关注的物种。",
-      "example": "The species on which soil renewal depends may not be the ones that attract conservation campaigns."
+      "example": "The species on which soil renewal depends may not be the ones that attract conservation campaigns.",
+      "exampleTranslation": "土壤更新所依赖的物种，可能并不是吸引保护活动关注的物种。"
     },
     {
       "pattern": "By reconnecting + fragmented habitats, a conservation project allows + wildlife populations + to + move and breed, thereby + improving long-term survival.",
       "cn": "通过重新连接破碎区域，项目使种群获得益处，从而带来更广泛结果。",
-      "example": "By reconnecting woodland fragments, the corridor allows mammals to disperse, thereby maintaining genetic diversity."
+      "example": "By reconnecting woodland fragments, the corridor allows mammals to disperse, thereby maintaining genetic diversity.",
+      "exampleTranslation": "通过重新连接破碎林地，这条通道让哺乳动物得以扩散，从而维持遗传多样性。"
     }
   ],
   "expressions": [
     {
       "text": "a haven for wildlife",
       "cn": "野生动物的安居地",
-      "example": "The wetland is a haven for migratory birds."
+      "example": "The wetland is a haven for migratory birds.",
+      "exampleTranslation": "这片湿地是候鸟的栖息乐园。"
     },
     {
       "text": "let nature take its course",
       "cn": "让自然按自身规律发展",
-      "example": "In one section, managers let nature take its course."
+      "example": "In one section, managers let nature take its course.",
+      "exampleTranslation": "在其中一个区域，管理者让自然自行发展。"
     },
     {
       "text": "see a species in the wild",
       "cn": "在野外看到某物种",
-      "example": "I would love to see an otter in the wild."
+      "example": "I would love to see an otter in the wild.",
+      "exampleTranslation": "我很想在野外看到一只水獭。"
     },
     {
       "text": "restore ecological connectivity",
       "cn": "恢复生态连通性",
-      "example": "Hedgerows can restore ecological connectivity."
+      "example": "Hedgerows can restore ecological connectivity.",
+      "exampleTranslation": "树篱可以恢复生态连通性。"
     },
     {
       "text": "support a functioning ecosystem",
       "cn": "维持正常运作的生态系统",
-      "example": "Conservation should support a functioning ecosystem, not just a species list."
+      "example": "Conservation should support a functioning ecosystem, not just a species list.",
+      "exampleTranslation": "保护工作应支持正常运作的生态系统，而不只是一份物种清单。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "enable seasonal movement",
         "plan across boundaries"
       ],
-      "argument": "A small reserve may protect breeding habitat yet leave feeding grounds or migration routes exposed. When roads and intensive land use isolate populations, genetic diversity can decline even inside a well-managed site. Corridors such as hedgerows, river margins and wildlife crossings allow movement between habitat fragments. The most effective route will depend on the target species rather than a standard strip of greenery. Conservation planning should therefore treat reserves as parts of a landscape network, not as self-contained islands."
+      "argument": "A small reserve may protect breeding habitat yet leave feeding grounds or migration routes exposed. When roads and intensive land use isolate populations, genetic diversity can decline even inside a well-managed site. Corridors such as hedgerows, river margins and wildlife crossings allow movement between habitat fragments. The most effective route will depend on the target species rather than a standard strip of greenery. Conservation planning should therefore treat reserves as parts of a landscape network, not as self-contained islands.",
+      "viewpointTranslation": "栖息地连通可能比孤立保护更有效。",
+      "topicSentenceTranslation": "如果野生动物无法在保护区之间移动，保护区带来的益处就很有限。",
+      "collocationTranslations": [
+        "连接破碎的栖息地",
+        "维持遗传多样性",
+        "支持季节性迁徙",
+        "跨边界规划"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A small reserve may protect breeding habitat yet leave feeding grounds or migration routes exposed.",
+          "translation": "小型保护区可能保护了繁殖栖息地，却让觅食地或迁徙路线暴露在外。"
+        },
+        {
+          "text": "When roads and intensive land use isolate populations, genetic diversity can decline even inside a well-managed site.",
+          "translation": "当道路和密集土地利用使种群相互隔离时，即使管理良好的地点内部，遗传多样性也会下降。"
+        },
+        {
+          "text": "Corridors such as hedgerows, river margins and wildlife crossings allow movement between habitat fragments.",
+          "translation": "树篱、河岸带和野生动物通道等走廊，可以让动物在破碎的栖息地之间移动。"
+        },
+        {
+          "text": "The most effective route will depend on the target species rather than a standard strip of greenery.",
+          "translation": "最有效的路线取决于目标物种，而不是一条标准化绿化带。"
+        },
+        {
+          "text": "Conservation planning should therefore treat reserves as parts of a landscape network, not as self-contained islands.",
+          "translation": "因此，保护规划应把保护区视为景观网络的一部分，而不是独立岛屿。"
+        }
+      ],
+      "translation": "小型保护区可能保护了繁殖栖息地，却让觅食地或迁徙路线暴露在外。当道路和密集土地利用使种群相互隔离时，即使管理良好的地点内部，遗传多样性也会下降。树篱、河岸带和野生动物通道等走廊，可以让动物在破碎的栖息地之间移动。最有效的路线取决于目标物种，而不是一条标准化绿化带。因此，保护规划应把保护区视为景观网络的一部分，而不是独立岛屿。"
     },
     {
       "viewpoint": "Urban biodiversity policy should prioritise ecological function over decorative variety.",
@@ -301,19 +348,106 @@
         "avoid intensive maintenance",
         "support local food webs"
       ],
-      "argument": "A garden containing many ornamental species may offer little pollen, shelter or food for native insects. By contrast, fewer carefully selected plants can flower across seasons and support several stages of a pollinator’s life. Reducing pesticide use and leaving some dead wood may look less tidy but add essential habitat. Public explanation is important because residents may otherwise interpret ecological management as neglect. The goal should be a functioning urban ecosystem rather than the longest possible plant list."
+      "argument": "A garden containing many ornamental species may offer little pollen, shelter or food for native insects. By contrast, fewer carefully selected plants can flower across seasons and support several stages of a pollinator’s life. Reducing pesticide use and leaving some dead wood may look less tidy but add essential habitat. Public explanation is important because residents may otherwise interpret ecological management as neglect. The goal should be a functioning urban ecosystem rather than the longest possible plant list.",
+      "viewpointTranslation": "城市生物多样性政策应优先考虑生态功能，而非装饰性多样。",
+      "topicSentenceTranslation": "视觉上多样的种植方案未必对当地野生动物有价值。",
+      "collocationTranslations": [
+        "种植本地植被",
+        "全年提供资源",
+        "避免高强度养护",
+        "支持当地食物网"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A garden containing many ornamental species may offer little pollen, shelter or food for native insects.",
+          "translation": "包含许多观赏物种的花园，可能几乎不能为本地昆虫提供花粉、庇护或食物。"
+        },
+        {
+          "text": "By contrast, fewer carefully selected plants can flower across seasons and support several stages of a pollinator’s life.",
+          "translation": "相比之下，数量更少但精心选择的植物可以跨季节开花，并支持传粉动物生命周期的多个阶段。"
+        },
+        {
+          "text": "Reducing pesticide use and leaving some dead wood may look less tidy but add essential habitat.",
+          "translation": "减少农药使用并保留部分枯木可能看起来不够整洁，却能增加必要栖息地。"
+        },
+        {
+          "text": "Public explanation is important because residents may otherwise interpret ecological management as neglect.",
+          "translation": "公众说明非常重要，否则居民可能把生态管理理解为疏于维护。"
+        },
+        {
+          "text": "The goal should be a functioning urban ecosystem rather than the longest possible plant list.",
+          "translation": "目标应是一个能够运作的城市生态系统，而不是尽可能长的植物清单。"
+        }
+      ],
+      "translation": "包含许多观赏物种的花园，可能几乎不能为本地昆虫提供花粉、庇护或食物。相比之下，数量更少但精心选择的植物可以跨季节开花，并支持传粉动物生命周期的多个阶段。减少农药使用并保留部分枯木可能看起来不够整洁，却能增加必要栖息地。公众说明非常重要，否则居民可能把生态管理理解为疏于维护。目标应是一个能够运作的城市生态系统，而不是尽可能长的植物清单。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a place where you have seen interesting wildlife.",
-      "answer": "I have seen the most interesting wildlife at a wetland park on the edge of the city. A raised wooden path crosses shallow pools, so visitors can watch birds without entering their feeding areas. On my last visit, I saw a kingfisher for the first time. It appeared only briefly as a bright blue movement above the water, but a volunteer helped me identify it. I also noticed insects, frogs and plants that I would normally overlook. The park is not completely wild because water levels and visitor routes are managed, yet it feels much more alive than a decorative urban lake. That visit made me understand biodiversity as a network of ordinary species, not only rare animals."
+      "answer": "I have seen the most interesting wildlife at a wetland park on the edge of the city. A raised wooden path crosses shallow pools, so visitors can watch birds without entering their feeding areas. On my last visit, I saw a kingfisher for the first time. It appeared only briefly as a bright blue movement above the water, but a volunteer helped me identify it. I also noticed insects, frogs and plants that I would normally overlook. The park is not completely wild because water levels and visitor routes are managed, yet it feels much more alive than a decorative urban lake. That visit made me understand biodiversity as a network of ordinary species, not only rare animals.",
+      "questionTranslation": "描述一个你见过有趣野生动物的地方。",
+      "answerSentences": [
+        {
+          "text": "I have seen the most interesting wildlife at a wetland park on the edge of the city.",
+          "translation": "我见过最有趣野生动物的地方，是城市边缘的一座湿地公园。"
+        },
+        {
+          "text": "A raised wooden path crosses shallow pools, so visitors can watch birds without entering their feeding areas.",
+          "translation": "一条架高的木栈道穿过浅水池，因此游客可以观察鸟类而不进入它们的觅食区。"
+        },
+        {
+          "text": "On my last visit, I saw a kingfisher for the first time.",
+          "translation": "上次参观时，我第一次看到翠鸟。"
+        },
+        {
+          "text": "It appeared only briefly as a bright blue movement above the water, but a volunteer helped me identify it.",
+          "translation": "它只是短暂地以一道鲜蓝色身影掠过水面，不过一位志愿者帮我辨认出了它。"
+        },
+        {
+          "text": "I also noticed insects, frogs and plants that I would normally overlook.",
+          "translation": "我还注意到了平时会忽略的昆虫、青蛙和植物。"
+        },
+        {
+          "text": "The park is not completely wild because water levels and visitor routes are managed, yet it feels much more alive than a decorative urban lake.",
+          "translation": "由于水位和游客路线受到管理，这座公园并非完全野生，但它比装饰性城市湖泊显得生机勃勃得多。"
+        },
+        {
+          "text": "That visit made me understand biodiversity as a network of ordinary species, not only rare animals.",
+          "translation": "那次参观让我把生物多样性理解为普通物种构成的网络，而不只是稀有动物。"
+        }
+      ],
+      "translation": "我见过最有趣野生动物的地方，是城市边缘的一座湿地公园。一条架高的木栈道穿过浅水池，因此游客可以观察鸟类而不进入它们的觅食区。上次参观时，我第一次看到翠鸟。它只是短暂地以一道鲜蓝色身影掠过水面，不过一位志愿者帮我辨认出了它。我还注意到了平时会忽略的昆虫、青蛙和植物。由于水位和游客路线受到管理，这座公园并非完全野生，但它比装饰性城市湖泊显得生机勃勃得多。那次参观让我把生物多样性理解为普通物种构成的网络，而不只是稀有动物。"
     },
     {
       "part": "Part 3",
       "question": "Why do conservation campaigns often focus on attractive animals?",
-      "answer": "An appealing animal gives a campaign a memorable image and makes an unfamiliar ecological problem easier to communicate. People may donate more readily to protect a tiger than a fungus or soil insect. This attention can benefit a wider habitat if the chosen animal needs a large and healthy ecosystem. However, funding can become distorted when appearance rather than ecological importance sets priorities. Campaigns should use familiar species as an entry point while explaining the less visible organisms and processes on which the whole system depends."
+      "answer": "An appealing animal gives a campaign a memorable image and makes an unfamiliar ecological problem easier to communicate. People may donate more readily to protect a tiger than a fungus or soil insect. This attention can benefit a wider habitat if the chosen animal needs a large and healthy ecosystem. However, funding can become distorted when appearance rather than ecological importance sets priorities. Campaigns should use familiar species as an entry point while explaining the less visible organisms and processes on which the whole system depends.",
+      "questionTranslation": "为什么保护活动常常重点关注外形讨喜的动物？",
+      "answerSentences": [
+        {
+          "text": "An appealing animal gives a campaign a memorable image and makes an unfamiliar ecological problem easier to communicate.",
+          "translation": "一种讨喜的动物能为活动提供令人难忘的形象，也让陌生的生态问题更容易传播。"
+        },
+        {
+          "text": "People may donate more readily to protect a tiger than a fungus or soil insect.",
+          "translation": "相比真菌或土壤昆虫，人们可能更愿意为保护老虎捐款。"
+        },
+        {
+          "text": "This attention can benefit a wider habitat if the chosen animal needs a large and healthy ecosystem.",
+          "translation": "如果被选中的动物需要庞大健康的生态系统，这种关注就能惠及更广泛的栖息地。"
+        },
+        {
+          "text": "However, funding can become distorted when appearance rather than ecological importance sets priorities.",
+          "translation": "然而，如果优先级由外表而不是生态重要性决定，资金分配就可能扭曲。"
+        },
+        {
+          "text": "Campaigns should use familiar species as an entry point while explaining the less visible organisms and processes on which the whole system depends.",
+          "translation": "保护活动应把熟悉物种作为切入点，同时解释整个系统所依赖、但不太显眼的生物与过程。"
+        }
+      ],
+      "translation": "一种讨喜的动物能为活动提供令人难忘的形象，也让陌生的生态问题更容易传播。相比真菌或土壤昆虫，人们可能更愿意为保护老虎捐款。如果被选中的动物需要庞大健康的生态系统，这种关注就能惠及更广泛的栖息地。然而，如果优先级由外表而不是生态重要性决定，资金分配就可能扭曲。保护活动应把熟悉物种作为切入点，同时解释整个系统所依赖、但不太显眼的生物与过程。"
     }
   ],
   "reading": {
@@ -344,6 +478,102 @@
         "answer": "False",
         "explanation": "Paragraphs 2 and 5 state that results were uneven."
       }
+    ],
+    "titleTranslation": "那片看起来杂乱的草地",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "When a university stopped mowing several lawns every week, complaints arrived before the wildflowers did.",
+          "translation": "一所大学停止每周修剪几块草坪后，投诉比野花更早出现。"
+        },
+        {
+          "text": "Students described the long grass as neglected, and maintenance staff worried that litter would be harder to find.",
+          "translation": "学生说长草显得无人维护，养护人员则担心垃圾更难发现。"
+        },
+        {
+          "text": "The project had been created to support insects, but its first challenge was cultural: for many users, short grass signalled care, whereas unmanaged height suggested that nobody was responsible.",
+          "translation": "该项目本来是为了支持昆虫，但第一个挑战来自文化观念：对许多使用者而言，短草代表有人照料，而未经管理的高度则意味着无人负责。"
+        }
+      ],
+      [
+        {
+          "text": "Ecologists did not simply abandon the sites.",
+          "translation": "生态学家并没有简单地放弃这些场地。"
+        },
+        {
+          "text": "They selected sunny areas connected to hedges, removed cut vegetation so that nutrient-loving grasses would not dominate and retained narrow mown paths.",
+          "translation": "他们选择与树篱相连的向阳区域，清除割下的植被以免喜肥草种占据优势，并保留狭窄的修剪小径。"
+        },
+        {
+          "text": "Surveys recorded plants and pollinators before the change and at fixed intervals afterwards.",
+          "translation": "调查在改变前及之后的固定时间记录植物和传粉动物。"
+        },
+        {
+          "text": "One lawn produced more flowers but few additional bee species because it remained isolated between buildings; another, adjoining gardens and a railway edge, became part of a longer foraging route.",
+          "translation": "一块草坪开出了更多花，却几乎没有增加蜜蜂种类，因为它仍被建筑隔离；另一块邻接花园和铁路边缘，则成为较长觅食路线的一部分。"
+        }
+      ],
+      [
+        {
+          "text": "The contrast altered the next phase.",
+          "translation": "这种差异改变了下一阶段。"
+        },
+        {
+          "text": "Rather than converting the greatest possible area, the team mapped where insects could move and where nesting material was available.",
+          "translation": "团队没有改造尽可能大的面积，而是绘制昆虫可以移动以及筑巢材料可获得的地点。"
+        },
+        {
+          "text": "Some small patches, positioned between larger habitats, were judged more useful than extensive but disconnected grass.",
+          "translation": "一些位于较大栖息地之间的小块地，被认为比面积广但彼此断开的草地更有用。"
+        },
+        {
+          "text": "This finding, which surprised administrators accustomed to measuring environmental projects by area, shifted attention from the quantity of meadow to its ecological relationship with surrounding land.",
+          "translation": "这一发现让习惯按面积衡量环境项目的管理人员感到意外，也使关注点从草地数量转向它与周围土地的生态关系。"
+        }
+      ],
+      [
+        {
+          "text": "Public acceptance also improved once intention became visible.",
+          "translation": "一旦意图变得清晰可见，公众接受度也提高了。"
+        },
+        {
+          "text": "Low signs named several plants, while neatly cut borders showed that the longer vegetation was deliberate.",
+          "translation": "低矮标牌列出了几种植物，而修剪整齐的边缘说明较长植被是有意保留的。"
+        },
+        {
+          "text": "The university kept open lawns for sport and social events instead of presenting biodiversity as the only valid use.",
+          "translation": "大学保留了用于运动和社交活动的开放草坪，而没有把生物多样性说成唯一合理用途。"
+        },
+        {
+          "text": "Complaints declined, although some users still preferred the earlier appearance.",
+          "translation": "投诉减少了，尽管一些使用者仍更喜欢以前的外观。"
+        }
+      ],
+      [
+        {
+          "text": "After four years, the project reported greater pollinator abundance in connected sites, not a universal increase everywhere.",
+          "translation": "四年后，项目报告相互连通的地点传粉动物数量有所增加，但并非每个地方都普遍增长。"
+        },
+        {
+          "text": "Its value lay partly in that uneven result.",
+          "translation": "它的价值部分就在于这种不均衡结果。"
+        },
+        {
+          "text": "The campus became a field experiment showing that urban nature needs design, monitoring and explanation.",
+          "translation": "校园成为一个现场实验，表明城市自然需要设计、监测和说明。"
+        },
+        {
+          "text": "Letting grass grow was the visible action; understanding where that action supported a functioning habitat was the more demanding work.",
+          "translation": "让草生长是看得见的行动；弄清这种行动在哪里支持了正常运作的栖息地，才是要求更高的工作。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "一所大学停止每周修剪几块草坪后，投诉比野花更早出现。学生说长草显得无人维护，养护人员则担心垃圾更难发现。该项目本来是为了支持昆虫，但第一个挑战来自文化观念：对许多使用者而言，短草代表有人照料，而未经管理的高度则意味着无人负责。",
+      "生态学家并没有简单地放弃这些场地。他们选择与树篱相连的向阳区域，清除割下的植被以免喜肥草种占据优势，并保留狭窄的修剪小径。调查在改变前及之后的固定时间记录植物和传粉动物。一块草坪开出了更多花，却几乎没有增加蜜蜂种类，因为它仍被建筑隔离；另一块邻接花园和铁路边缘，则成为较长觅食路线的一部分。",
+      "这种差异改变了下一阶段。团队没有改造尽可能大的面积，而是绘制昆虫可以移动以及筑巢材料可获得的地点。一些位于较大栖息地之间的小块地，被认为比面积广但彼此断开的草地更有用。这一发现让习惯按面积衡量环境项目的管理人员感到意外，也使关注点从草地数量转向它与周围土地的生态关系。",
+      "一旦意图变得清晰可见，公众接受度也提高了。低矮标牌列出了几种植物，而修剪整齐的边缘说明较长植被是有意保留的。大学保留了用于运动和社交活动的开放草坪，而没有把生物多样性说成唯一合理用途。投诉减少了，尽管一些使用者仍更喜欢以前的外观。",
+      "四年后，项目报告相互连通的地点传粉动物数量有所增加，但并非每个地方都普遍增长。它的价值部分就在于这种不均衡结果。校园成为一个现场实验，表明城市自然需要设计、监测和说明。让草生长是看得见的行动；弄清这种行动在哪里支持了正常运作的栖息地，才是要求更高的工作。"
     ]
   }
 }

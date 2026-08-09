@@ -153,7 +153,8 @@
         "investigators identified",
         "a study revealed"
       ],
-      "note": "用于替换笼统的 discovered"
+      "note": "用于替换笼统的 discovered",
+      "translation": "科学家发现可以表达为研究人员发现、调查人员确定、一项研究揭示。"
     },
     {
       "base": "prove an idea",
@@ -162,7 +163,8 @@
         "provide strong evidence",
         "confirm a prediction"
       ],
-      "note": "科学语境谨慎使用 prove"
+      "note": "科学语境谨慎使用 prove",
+      "translation": "证明一个想法可以表达为支持假设、提供强有力的证据、证实预测。"
     },
     {
       "base": "not certain",
@@ -171,7 +173,8 @@
         "not conclusively established",
         "open to revision"
       ],
-      "note": "体现结论的暂定性"
+      "note": "体现结论的暂定性",
+      "translation": "不确定可以表达为受到不确定性的影响，尚未最终确定，可以修改。"
     },
     {
       "base": "experts agree",
@@ -180,7 +183,8 @@
         "specialists broadly concur",
         "evidence converges"
       ],
-      "note": "共识并非毫无分歧"
+      "note": "共识并非毫无分歧",
+      "translation": "专家一致可以表示为已形成共识、专家普遍同意、证据趋于一致。"
     },
     {
       "base": "use research",
@@ -189,7 +193,8 @@
         "translate evidence into practice",
         "base policy on research"
       ],
-      "note": "突出研究应用"
+      "note": "突出研究应用",
+      "translation": "使用研究可以表述为应用科学发现、将证据转化为实践、以研究为基础制定政策。"
     },
     {
       "base": "false information",
@@ -198,7 +203,8 @@
         "scientific misinformation",
         "a misleading interpretation"
       ],
-      "note": "按错误类型选词"
+      "note": "按错误类型选词",
+      "translation": "虚假信息可以表现为未经证实的主张、科学错误信息、误导性解释。"
     },
     {
       "base": "benefit society",
@@ -207,7 +213,8 @@
         "produce social value",
         "improve collective wellbeing"
       ],
-      "note": "适合公共投入论证"
+      "note": "适合公共投入论证",
+      "translation": "造福社会可以表现为服务公共利益​​、创造社会价值、提高集体福祉。"
     },
     {
       "base": "careful study",
@@ -216,51 +223,60 @@
         "systematic inquiry",
         "well-designed research"
       ],
-      "note": "强调方法质量"
+      "note": "强调方法质量",
+      "translation": "认真研究可以表现为严谨的调查、系统的探究、精心设计的研究。"
     }
   ],
   "sentences": [
     {
       "pattern": "While + a single study + may suggest + a finding, a reliable conclusion usually depends on + repeated and wider evidence.",
       "cn": "单项研究或许表明某一发现，但可靠结论通常依赖更广泛的证据。",
-      "example": "While a single study may suggest that a treatment is effective, a reliable conclusion usually depends on repeated trials."
+      "example": "While a single study may suggest that a treatment is effective, a reliable conclusion usually depends on repeated trials.",
+      "exampleTranslation": "虽然一项研究可能表明治疗有效，但可靠的结论通常取决于重复试验。"
     },
     {
       "pattern": "What matters for policy is not whether + the evidence + is perfect, but whether it is + more reliable + than the alternatives.",
       "cn": "政策关注的不是证据是否完美，而是它是否比其他选择所依据的证据更可靠。",
-      "example": "What matters for policy is not whether projections are perfect, but whether they are more reliable than guesswork."
+      "example": "What matters for policy is not whether projections are perfect, but whether they are more reliable than guesswork.",
+      "exampleTranslation": "对于政策而言，重要的不是预测是否完美，而是它们是否比猜测更可靠。"
     },
     {
       "pattern": "By explaining both + what is known + and + what remains uncertain, researchers can + build public trust.",
       "cn": "通过同时解释已知结果和剩余的不确定性，研究人员能够带来公共益处。",
-      "example": "By explaining both the observed trend and the remaining uncertainty, researchers can build public trust."
+      "example": "By explaining both the observed trend and the remaining uncertainty, researchers can build public trust.",
+      "exampleTranslation": "通过解释观察到的趋势和剩余的不确定性，研究人员可以建立公众信任。"
     }
   ],
   "expressions": [
     {
       "text": "take something with a pinch of salt",
       "cn": "对某事持保留态度",
-      "example": "I take dramatic health claims with a pinch of salt."
+      "example": "I take dramatic health claims with a pinch of salt.",
+      "exampleTranslation": "我对戏剧性的健康主张持保留态度。"
     },
     {
       "text": "look at the bigger picture",
       "cn": "着眼大局",
-      "example": "We should look at the bigger picture rather than one unusual result."
+      "example": "We should look at the bigger picture rather than one unusual result.",
+      "exampleTranslation": "我们应该着眼于大局，而不是一个不寻常的结果。"
     },
     {
       "text": "stand up to scrutiny",
       "cn": "经得起审查",
-      "example": "A strong claim should stand up to scrutiny."
+      "example": "A strong claim should stand up to scrutiny.",
+      "exampleTranslation": "强有力的主张应该经得起审查。"
     },
     {
       "text": "inform public policy",
       "cn": "为公共政策提供依据",
-      "example": "Long-term research can inform public policy."
+      "example": "Long-term research can inform public policy.",
+      "exampleTranslation": "长期研究可以为公共政策提供依据。"
     },
     {
       "text": "bridge the gap between research and practice",
       "cn": "弥合研究与实践的差距",
-      "example": "Training can bridge the gap between research and practice."
+      "example": "Training can bridge the gap between research and practice.",
+      "exampleTranslation": "培训可以弥合研究与实践之间的差距。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,33 @@
         "avoid duplicated effort",
         "refine future hypotheses"
       ],
-      "argument": "Journals often prefer striking positive findings, so an unsuccessful trial may remain unseen. Another team can then spend money repeating the same unproductive approach. Requiring publicly funded projects to register methods and report outcomes would reveal a fuller record. Accessible negative findings would consequently make later research more efficient and less distorted."
+      "argument": "Journals often prefer striking positive findings, so an unsuccessful trial may remain unseen. Another team can then spend money repeating the same unproductive approach. Requiring publicly funded projects to register methods and report outcomes would reveal a fuller record. Accessible negative findings would consequently make later research more efficient and less distorted.",
+      "viewpointTranslation": "阴性结果值得发表。",
+      "topicSentenceTranslation": "未能证实假设的研究仍然可以防止浪费并提高知识。",
+      "collocationTranslations": [
+        "发表负面调查结果",
+        "减少发表偏见",
+        "避免重复工作",
+        "完善未来的假设"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Journals often prefer striking positive findings, so an unsuccessful trial may remain unseen.",
+          "translation": "期刊通常更喜欢引人注目的积极发现，因此不成功的试验可能不会被发现。"
+        },
+        {
+          "text": "Another team can then spend money repeating the same unproductive approach.",
+          "translation": "然后另一个团队可以花钱重复相同的低效方法。"
+        },
+        {
+          "text": "Requiring publicly funded projects to register methods and report outcomes would reveal a fuller record.",
+          "translation": "要求公共资助的项目登记方法并报告结果将揭示更完整的记录。"
+        },
+        {
+          "text": "Accessible negative findings would consequently make later research more efficient and less distorted.",
+          "translation": "因此，可获得的负面结果将使以后的研究更加有效且更少扭曲。"
+        }
+      ]
     },
     {
       "viewpoint": "Uncertainty should be communicated openly.",
@@ -301,19 +343,103 @@
         "revise advice responsibly",
         "maintain public confidence"
       ],
-      "argument": "During a new health threat, officials may fear that admitting uncertainty will confuse people. Yet confident advice that changes without explanation can appear dishonest. Advisers should identify assumptions and explain what evidence could alter their recommendation. Citizens can then understand revision as a responsible scientific response rather than proof of incompetence."
+      "argument": "During a new health threat, officials may fear that admitting uncertainty will confuse people. Yet confident advice that changes without explanation can appear dishonest. Advisers should identify assumptions and explain what evidence could alter their recommendation. Citizens can then understand revision as a responsible scientific response rather than proof of incompetence.",
+      "viewpointTranslation": "应公开传达不确定性。",
+      "topicSentenceTranslation": "解释证据的局限性可以增强而不是削弱公众的信任。",
+      "collocationTranslations": [
+        "国家置信水平",
+        "区分风险和确定性",
+        "负责任地修改建议",
+        "维护公众信心"
+      ],
+      "argumentSentences": [
+        {
+          "text": "During a new health threat, officials may fear that admitting uncertainty will confuse people.",
+          "translation": "在新的健康威胁期间，官员们可能担心承认不确定性会让人们感到困惑。"
+        },
+        {
+          "text": "Yet confident advice that changes without explanation can appear dishonest.",
+          "translation": "然而，在没有解释的情况下进行更改的自信建议可能会显得不诚实。"
+        },
+        {
+          "text": "Advisers should identify assumptions and explain what evidence could alter their recommendation.",
+          "translation": "顾问应该确定假设并解释哪些证据可以改变他们的建议。"
+        },
+        {
+          "text": "Citizens can then understand revision as a responsible scientific response rather than proof of incompetence.",
+          "translation": "这样，公民就可以将修订理解为负责任的科学反应，而不是无能的证明。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a piece of scientific information that changed something you do.",
-      "answer": "I read a careful summary about how evening light can affect sleep. What convinced me was not one dramatic claim but several studies pointing in the same direction. I began lowering my phone brightness and leaving the device outside my bedroom. After a few weeks, I found it easier to stop checking messages late at night. I cannot prove that the screen was the only cause because my schedule also changed, but the advice was practical and low-risk. The experience showed me how evidence can guide an ordinary decision without promising a perfect result. I have maintained the routine because it costs nothing and makes the end of the day feel calmer."
+      "answer": "I read a careful summary about how evening light can affect sleep. What convinced me was not one dramatic claim but several studies pointing in the same direction. I began lowering my phone brightness and leaving the device outside my bedroom. After a few weeks, I found it easier to stop checking messages late at night. I cannot prove that the screen was the only cause because my schedule also changed, but the advice was practical and low-risk. The experience showed me how evidence can guide an ordinary decision without promising a perfect result. I have maintained the routine because it costs nothing and makes the end of the day feel calmer.",
+      "questionTranslation": "描述一条改变了你所做的事情的科学信息。",
+      "answerSentences": [
+        {
+          "text": "I read a careful summary about how evening light can affect sleep.",
+          "translation": "我阅读了一篇关于夜间光线如何影响睡眠的详细总结。"
+        },
+        {
+          "text": "What convinced me was not one dramatic claim but several studies pointing in the same direction.",
+          "translation": "令我信服的不是一项戏剧性的主张，而是几项指向同一方向的研究。"
+        },
+        {
+          "text": "I began lowering my phone brightness and leaving the device outside my bedroom.",
+          "translation": "我开始降低手机亮度，并将设备放在卧室外面。"
+        },
+        {
+          "text": "After a few weeks, I found it easier to stop checking messages late at night.",
+          "translation": "几周后，我发现在深夜停止查看消息变得更容易。"
+        },
+        {
+          "text": "I cannot prove that the screen was the only cause because my schedule also changed, but the advice was practical and low-risk.",
+          "translation": "我无法证明屏幕是唯一的原因，因为我的日程安排也发生了变化，但建议是实用且低风险的。"
+        },
+        {
+          "text": "The experience showed me how evidence can guide an ordinary decision without promising a perfect result.",
+          "translation": "这次经历向我展示了证据如何在不保证完美结果的情况下指导普通决策。"
+        },
+        {
+          "text": "I have maintained the routine because it costs nothing and makes the end of the day feel calmer.",
+          "translation": "我一直保持着这个习惯，因为它不需要任何成本，而且能让一天结束时感觉更平静。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Why do some people distrust scientific advice?",
-      "answer": "Scientific conclusions sometimes change, which can look like inconsistency when the process is poorly explained. Trust also suffers when institutions communicate too confidently or hide commercial interests. In addition, a personal story feels clearer than a statistical probability. Researchers can respond by explaining uncertainty in plain language, publishing methods and acknowledging errors. People do not need every technical detail, but they reasonably want to know how a conclusion was reached. Trust is also easier to preserve when revised advice is presented as learning from new evidence rather than as an embarrassing reversal."
+      "answer": "Scientific conclusions sometimes change, which can look like inconsistency when the process is poorly explained. Trust also suffers when institutions communicate too confidently or hide commercial interests. In addition, a personal story feels clearer than a statistical probability. Researchers can respond by explaining uncertainty in plain language, publishing methods and acknowledging errors. People do not need every technical detail, but they reasonably want to know how a conclusion was reached. Trust is also easier to preserve when revised advice is presented as learning from new evidence rather than as an embarrassing reversal.",
+      "questionTranslation": "为什么有些人不相信科学建议？",
+      "answerSentences": [
+        {
+          "text": "Scientific conclusions sometimes change, which can look like inconsistency when the process is poorly explained.",
+          "translation": "科学结论有时会发生变化，当过程解释不清时，这可能看起来不一致。"
+        },
+        {
+          "text": "Trust also suffers when institutions communicate too confidently or hide commercial interests.",
+          "translation": "当机构过于自信地沟通或隐藏商业利益时，信任也会受到损害。"
+        },
+        {
+          "text": "In addition, a personal story feels clearer than a statistical probability.",
+          "translation": "此外，个人故事比统计概率更清晰。"
+        },
+        {
+          "text": "Researchers can respond by explaining uncertainty in plain language, publishing methods and acknowledging errors.",
+          "translation": "研究人员可以通过用通俗易懂的语言解释不确定性、发布方法和承认错误来做出回应。"
+        },
+        {
+          "text": "People do not need every technical detail, but they reasonably want to know how a conclusion was reached.",
+          "translation": "人们不需要每一个技术细节，但他们有理由想知道结论是如何得出的。"
+        },
+        {
+          "text": "Trust is also easier to preserve when revised advice is presented as learning from new evidence rather than as an embarrassing reversal.",
+          "translation": "当修改后的建议是从新证据中学习而不是令人尴尬的逆转时，信任也更容易保持。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +476,99 @@
         "answer": "No",
         "explanation": "Paragraph 4 explicitly rejects this idea."
       }
+    ],
+    "titleTranslation": "为什么证据迟迟没有到达街头",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A successful laboratory result does not travel directly into public life.",
+          "translation": "成功的实验室结果不会直接进入公众生活。"
+        },
+        {
+          "text": "Between discovery and routine use lie replication, safety assessment, professional guidance, budgets and the habits of the people expected to act.",
+          "translation": "在发现和日常使用之间存在复制、安全评估、专业指导、预算和预期采取行动的人们的习惯。"
+        },
+        {
+          "text": "This journey, sometimes called research translation, explains why an apparently effective idea may take years to become ordinary practice.",
+          "translation": "这个旅程有时被称为研究翻译，它解释了为什么一个看似有效的想法可能需要数年时间才能成为普通实践。"
+        },
+        {
+          "text": "Delay is not always resistance; it can be the time required to learn whether an effect survives outside controlled conditions.",
+          "translation": "拖延并不总是阻力；它可能是了解某种效应是否在受控条件之外仍然存在所需的时间。"
+        }
+      ],
+      [
+        {
+          "text": "Consider a city trial showing that a particular road surface reduces stopping distance in wet weather.",
+          "translation": "考虑一项城市试验，该试验表明特定的路面可以缩短潮湿天气下的停车距离。"
+        },
+        {
+          "text": "The result may be statistically strong, yet transport officials must ask whether the material tolerates frost, heavy vehicles and local maintenance equipment.",
+          "translation": "结果可能在统计上是强有力的，但运输官员必须询问该材料是否能耐受霜冻、重型车辆和当地维护设备。"
+        },
+        {
+          "text": "Engineers who were not involved in the original study may attempt to reproduce it under different conditions.",
+          "translation": "未参与原始研究的工程师可能会尝试在不同条件下重现它。"
+        },
+        {
+          "text": "A finding that remains useful across these variations deserves more confidence than one impressive demonstration.",
+          "translation": "一项在这些变化中仍然有用的发现值得比一次令人印象深刻的演示更有信心。"
+        }
+      ],
+      [
+        {
+          "text": "Institutional boundaries create another delay.",
+          "translation": "制度界限又造成了延误。"
+        },
+        {
+          "text": "Researchers are rewarded for publishing, whereas local managers are responsible for cost, staffing and disruption.",
+          "translation": "研究人员因发表论文而获得奖励，而当地管理者则负责成本、人员配备和干扰。"
+        },
+        {
+          "text": "The report that satisfies a specialist journal may not state how many workers need training or whether existing machinery can be adapted.",
+          "translation": "满足专业期刊要求的报告可能不会说明有多少工人需要培训或是否可以调整现有机械。"
+        },
+        {
+          "text": "Knowledge brokers—professionals who understand both research and implementation—can translate evidence into decisions without pretending that the two settings have identical priorities.",
+          "translation": "知识经纪人——既了解研究又了解实施的专业人士——可以将证据转化为决策，而无需假装这两种环境具有相同的优先级。"
+        }
+      ],
+      [
+        {
+          "text": "Public response also matters.",
+          "translation": "公众的反应也很重要。"
+        },
+        {
+          "text": "A technically effective intervention may fail if residents misunderstand its purpose or bear costs that the trial did not measure.",
+          "translation": "如果居民误解其目的或承担试验未衡量的成本，技术上有效的干预措施可能会失败。"
+        },
+        {
+          "text": "Consultation can reveal practical effects, but it should not turn every scientific question into a popularity contest.",
+          "translation": "咨询可以带来实际效果，但不应该把每个科学问题都变成一场人气竞赛。"
+        },
+        {
+          "text": "The difficult task is to distinguish objections that identify missing evidence from preferences that must be negotiated politically.",
+          "translation": "困难的任务是区分那些识别缺失证据的反对意见和必须通过政治谈判的偏好。"
+        }
+      ],
+      [
+        {
+          "text": "Translation is therefore not a mechanical final stage of science.",
+          "translation": "因此，翻译并不是科学的机械最后阶段。"
+        },
+        {
+          "text": "It produces new questions about scale, context and fairness, which may send an innovation back for further study.",
+          "translation": "它产生了有关规模、背景和公平性的新问题，这可能会将创新送回进一步研究。"
+        },
+        {
+          "text": "The slow route from laboratory to street can be frustrating when a need is urgent.",
+          "translation": "当需求紧急时，从实验室到街道的缓慢路线可能会令人沮丧。"
+        },
+        {
+          "text": "Nevertheless, bypassing that route risks converting an encouraging result into an expensive policy whose original conditions no longer exist.",
+          "translation": "然而，绕过这条路线有可能将令人鼓舞的结果变成一项昂贵的政策，而其原始条件已不复存在。"
+        }
+      ]
     ]
   }
 }

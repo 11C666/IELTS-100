@@ -148,6 +148,7 @@
   "paraphrases": [
     {
       "base": "honest business behaviour",
+      "translation": "诚信的商业行为",
       "options": [
         "ethical conduct",
         "responsible commercial practice",
@@ -157,6 +158,7 @@
     },
     {
       "base": "tell customers important facts",
+      "translation": "告知客户重要事实",
       "options": [
         "disclose material information",
         "provide meaningful transparency",
@@ -166,6 +168,7 @@
     },
     {
       "base": "hidden extra cost",
+      "translation": "隐藏的额外费用",
       "options": [
         "undisclosed fee",
         "compulsory additional charge",
@@ -175,6 +178,7 @@
     },
     {
       "base": "mislead people",
+      "translation": "误导他人",
       "options": [
         "create a false impression",
         "use deceptive presentation",
@@ -184,6 +188,7 @@
     },
     {
       "base": "supplier working conditions",
+      "translation": "供应商的工作条件",
       "options": [
         "labour conditions in the supply chain",
         "contractor employment practices",
@@ -193,6 +198,7 @@
     },
     {
       "base": "check business risks",
+      "translation": "审查商业风险",
       "options": [
         "exercise due diligence",
         "investigate foreseeable harm",
@@ -202,6 +208,7 @@
     },
     {
       "base": "answer for harm",
+      "translation": "为伤害承担责任",
       "options": [
         "be held accountable",
         "accept corporate responsibility",
@@ -211,6 +218,7 @@
     },
     {
       "base": "personal interest affects duty",
+      "translation": "个人利益影响职责",
       "options": [
         "conflict of interest",
         "competing private incentive",
@@ -223,44 +231,52 @@
     {
       "pattern": "A practice may be legal while still + ethical concern + because + reason.",
       "cn": "某做法可能合法，却仍存在伦理问题，因为……。",
-      "example": "A practice may be legal while still being unfair because customers cannot understand its consequences."
+      "example": "A practice may be legal while still being unfair because customers cannot understand its consequences.",
+      "exampleTranslation": "一种做法可能合法却仍不公平，因为客户无法理解其后果。"
     },
     {
       "pattern": "The more difficult + information + is to verify, the greater the responsibility of + business + to + action.",
       "cn": "信息越难核实，企业就越有责任……。",
-      "example": "The more difficult a safety claim is to verify, the greater the responsibility of a business to provide evidence."
+      "example": "The more difficult a safety claim is to verify, the greater the responsibility of a business to provide evidence.",
+      "exampleTranslation": "安全声明越难核实，企业提供证据的责任就越大。"
     },
     {
       "pattern": "Had + company + disclosed + fact earlier, + stakeholders + could have + informed action.",
       "cn": "如果公司更早披露某事实，利益相关者本可以……。",
-      "example": "Had the company disclosed the fee earlier, customers could have compared the offers accurately."
+      "example": "Had the company disclosed the fee earlier, customers could have compared the offers accurately.",
+      "exampleTranslation": "如果公司更早披露这项费用，客户本可以准确比较不同方案。"
     }
   ],
   "expressions": [
     {
       "text": "act in good faith",
       "cn": "诚信行事",
-      "example": "Both sides are expected to act in good faith."
+      "example": "Both sides are expected to act in good faith.",
+      "exampleTranslation": "双方都应当本着诚信行事。"
     },
     {
       "text": "turn a blind eye to",
       "cn": "对……视而不见",
-      "example": "Managers must not turn a blind eye to unsafe suppliers."
+      "example": "Managers must not turn a blind eye to unsafe suppliers.",
+      "exampleTranslation": "管理者绝不能对存在安全问题的供应商视而不见。"
     },
     {
       "text": "be transparent about costs",
       "cn": "对成本保持透明",
-      "example": "Platforms should be transparent about additional costs."
+      "example": "Platforms should be transparent about additional costs.",
+      "exampleTranslation": "平台应当公开透明地说明额外费用。"
     },
     {
       "text": "hold a company accountable",
       "cn": "追究企业责任",
-      "example": "Independent reporting can hold a company accountable."
+      "example": "Independent reporting can hold a company accountable.",
+      "exampleTranslation": "独立报道能够促使公司承担责任。"
     },
     {
       "text": "create a conflict of interest",
       "cn": "造成利益冲突",
-      "example": "Accepting the gift could create a conflict of interest."
+      "example": "Accepting the gift could create a conflict of interest.",
+      "exampleTranslation": "接受这份礼物可能造成利益冲突。"
     }
   ],
   "mistakes": [
@@ -283,41 +299,264 @@
   "writingIdeas": [
     {
       "viewpoint": "Ethical disclosure must be understandable, not merely available.",
+      "viewpointTranslation": "合乎道德的信息披露必须让人理解，而不能只是形式上可查。",
       "topicSentence": "Businesses should present material risks and costs in a form that ordinary customers can use.",
+      "topicSentenceTranslation": "企业应以普通客户能够使用的形式呈现重大风险和费用。",
       "collocations": [
         "disclose material information",
         "use plain language",
         "make an informed decision",
         "avoid misleading claims"
       ],
-      "argument": "A long legal document may technically contain a fee while ensuring that few customers notice it. Ethical communication gives important conditions appropriate prominence and explains consequences in plain language. This is especially necessary when the seller understands the product far better than the buyer. Standardised summaries can support comparison without removing detailed terms. Transparency should be judged by informed choice, not by the existence of a hidden link."
+      "argument": "A long legal document may technically contain a fee while ensuring that few customers notice it. Ethical communication gives important conditions appropriate prominence and explains consequences in plain language. This is especially necessary when the seller understands the product far better than the buyer. Standardised summaries can support comparison without removing detailed terms. Transparency should be judged by informed choice, not by the existence of a hidden link.",
+      "collocationTranslations": [
+        "披露重大信息",
+        "使用通俗语言",
+        "作出知情决定",
+        "避免误导性声明"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A long legal document may technically contain a fee while ensuring that few customers notice it.",
+          "translation": "冗长的法律文件在形式上可能写明了某项费用，却会让极少有客户注意到它。"
+        },
+        {
+          "text": "Ethical communication gives important conditions appropriate prominence and explains consequences in plain language.",
+          "translation": "合乎道德的沟通会突出重要条件，并用通俗语言解释其后果。"
+        },
+        {
+          "text": "This is especially necessary when the seller understands the product far better than the buyer.",
+          "translation": "当卖方对产品的了解远胜于买方时，这一点尤其必要。"
+        },
+        {
+          "text": "Standardised summaries can support comparison without removing detailed terms.",
+          "translation": "标准化摘要可以在不删除详细条款的情况下帮助客户比较。"
+        },
+        {
+          "text": "Transparency should be judged by informed choice, not by the existence of a hidden link.",
+          "translation": "衡量透明度的标准应是客户能否作出知情选择，而不是某个隐藏链接是否存在。"
+        }
+      ]
     },
     {
       "viewpoint": "Supply-chain responsibility cannot end at the first contractor.",
+      "viewpointTranslation": "供应链责任不能止于第一层承包商。",
       "topicSentence": "Companies that benefit from outsourced production should investigate serious labour and environmental risks.",
+      "topicSentenceTranslation": "从外包生产中获益的公司应调查严重的劳工和环境风险。",
       "collocations": [
         "audit a supply chain",
         "set minimum standards",
         "remedy a violation",
         "exercise due diligence"
       ],
-      "argument": "Outsourcing does not remove the connection between a brand and the conditions used to make its goods. A low price may depend on subcontracting that purchasing managers could reasonably anticipate. Firms should map high-risk suppliers, provide credible reporting channels and require corrective action. Audits alone can be staged, so worker testimony and follow-up matter. Responsibility should reflect both the company’s influence and the benefit it receives from the arrangement."
+      "argument": "Outsourcing does not remove the connection between a brand and the conditions used to make its goods. A low price may depend on subcontracting that purchasing managers could reasonably anticipate. Firms should map high-risk suppliers, provide credible reporting channels and require corrective action. Audits alone can be staged, so worker testimony and follow-up matter. Responsibility should reflect both the company’s influence and the benefit it receives from the arrangement.",
+      "collocationTranslations": [
+        "审核供应链",
+        "设定最低标准",
+        "纠正违规行为",
+        "履行尽职调查"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Outsourcing does not remove the connection between a brand and the conditions used to make its goods.",
+          "translation": "外包并不会切断品牌与商品生产条件之间的联系。"
+        },
+        {
+          "text": "A low price may depend on subcontracting that purchasing managers could reasonably anticipate.",
+          "translation": "低价可能依赖于采购经理能够合理预见的分包安排。"
+        },
+        {
+          "text": "Firms should map high-risk suppliers, provide credible reporting channels and require corrective action.",
+          "translation": "企业应梳理高风险供应商、提供可信的举报渠道，并要求采取整改行动。"
+        },
+        {
+          "text": "Audits alone can be staged, so worker testimony and follow-up matter.",
+          "translation": "单靠审计可能会被精心布置，因此工人的证词和后续跟进十分重要。"
+        },
+        {
+          "text": "Responsibility should reflect both the company’s influence and the benefit it receives from the arrangement.",
+          "translation": "责任应同时体现公司对该安排的影响力以及它从中获得的利益。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you pay attention to how a company behaves?",
-      "answer": "Yes, especially when the information is concrete. I notice whether prices are clear, complaints are handled fairly and environmental claims include evidence. I cannot investigate every supplier behind a small purchase, so I am cautious about dramatic promises. Consistent behaviour influences me more than a polished campaign. Clear evidence makes the judgement more practical and less dependent on branding."
+      "questionTranslation": "你会关注一家公司的行为方式吗？",
+      "answer": "Yes, especially when the information is concrete. I notice whether prices are clear, complaints are handled fairly and environmental claims include evidence. I cannot investigate every supplier behind a small purchase, so I am cautious about dramatic promises. Consistent behaviour influences me more than a polished campaign. Clear evidence makes the judgement more practical and less dependent on branding.",
+      "answerSentences": [
+        {
+          "text": "Yes, especially when the information is concrete.",
+          "translation": "会，尤其是在信息具体明确的情况下。"
+        },
+        {
+          "text": "I notice whether prices are clear, complaints are handled fairly and environmental claims include evidence.",
+          "translation": "我会留意价格是否清晰、投诉是否得到公平处理，以及环保声明是否有证据支持。"
+        },
+        {
+          "text": "I cannot investigate every supplier behind a small purchase, so I am cautious about dramatic promises.",
+          "translation": "我无法调查一笔小额消费背后的每个供应商，因此会谨慎看待夸张的承诺。"
+        },
+        {
+          "text": "Consistent behaviour influences me more than a polished campaign.",
+          "translation": "始终如一的行为比精心包装的宣传活动更能影响我。"
+        },
+        {
+          "text": "Clear evidence makes the judgement more practical and less dependent on branding.",
+          "translation": "清晰的证据使判断更切合实际，也更少依赖品牌形象。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a time when a business treated you fairly.",
-      "answer": "An online retailer once contacted me before sending an order because the product description had contained the wrong measurement. They offered an immediate refund or a substitute and covered the price difference. The delay was inconvenient, but the message explained the mistake plainly and did not pressure me to continue. I chose the substitute and later used the shop again. Their response showed that fairness after an error can build more trust than pretending errors never happen. The employee included a photograph showing the correct dimensions, which made comparison simple. After delivery, the company checked that the replacement solved the problem instead of closing the case automatically. This was not expensive compensation; it was careful communication at the right time. I now regard that response as a more credible sign of business ethics than a general promise about putting customers first."
+      "questionTranslation": "描述一次某家企业公平对待你的经历。",
+      "answer": "An online retailer once contacted me before sending an order because the product description had contained the wrong measurement. They offered an immediate refund or a substitute and covered the price difference. The delay was inconvenient, but the message explained the mistake plainly and did not pressure me to continue. I chose the substitute and later used the shop again. Their response showed that fairness after an error can build more trust than pretending errors never happen. The employee included a photograph showing the correct dimensions, which made comparison simple. After delivery, the company checked that the replacement solved the problem instead of closing the case automatically. This was not expensive compensation; it was careful communication at the right time. I now regard that response as a more credible sign of business ethics than a general promise about putting customers first.",
+      "answerSentences": [
+        {
+          "text": "An online retailer once contacted me before sending an order because the product description had contained the wrong measurement.",
+          "translation": "有一次，一家网络零售商在发货前联系我，因为商品描述中的尺寸有误。"
+        },
+        {
+          "text": "They offered an immediate refund or a substitute and covered the price difference.",
+          "translation": "他们提出立即退款或更换商品，并承担差价。"
+        },
+        {
+          "text": "The delay was inconvenient, but the message explained the mistake plainly and did not pressure me to continue.",
+          "translation": "延误确实带来不便，但信息坦率地解释了错误，也没有施压让我继续交易。"
+        },
+        {
+          "text": "I chose the substitute and later used the shop again.",
+          "translation": "我选择了替代商品，之后又在这家店购物。"
+        },
+        {
+          "text": "Their response showed that fairness after an error can build more trust than pretending errors never happen.",
+          "translation": "他们的处理方式表明，出错后公平补救，比假装从不出错更能建立信任。"
+        },
+        {
+          "text": "The employee included a photograph showing the correct dimensions, which made comparison simple.",
+          "translation": "员工还附上了一张展示正确尺寸的照片，让比较变得很简单。"
+        },
+        {
+          "text": "After delivery, the company checked that the replacement solved the problem instead of closing the case automatically.",
+          "translation": "送达后，公司确认替代商品是否解决了问题，而不是自动结案。"
+        },
+        {
+          "text": "This was not expensive compensation; it was careful communication at the right time.",
+          "translation": "这并非昂贵的赔偿，而是在恰当时机进行的细致沟通。"
+        },
+        {
+          "text": "I now regard that response as a more credible sign of business ethics than a general promise about putting customers first.",
+          "translation": "如今，我认为这种回应比“顾客至上”的笼统承诺更能真实体现商业道德。"
+        }
+      ]
     }
   ],
   "reading": {
     "title": "When Disclosure Fails to Inform",
+    "titleTranslation": "当信息披露未能真正告知消费者",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Many markets rely on disclosure.",
+          "translation": "许多市场依赖信息披露。"
+        },
+        {
+          "text": "Instead of banning a complex product or fee, regulators require a business to provide information and allow the customer to choose.",
+          "translation": "监管机构并不禁止复杂产品或费用，而是要求企业提供信息，让客户自行选择。"
+        },
+        {
+          "text": "In theory, this preserves freedom and encourages competition.",
+          "translation": "理论上，这既保留了自由，也鼓励了竞争。"
+        },
+        {
+          "text": "In practice, disclosure can satisfy a legal rule without producing understanding, particularly when documents are long, technical or presented after the customer has invested time in the transaction.",
+          "translation": "实践中，信息披露可能满足法律规定，却未能让人理解，尤其是在文件冗长、技术性强，或客户已为交易投入时间后才提供的情况下。"
+        }
+      ],
+      [
+        {
+          "text": "Businesses control not only what is stated but how attention is directed.",
+          "translation": "企业不仅控制陈述什么，也控制人们的注意力被引向何处。"
+        },
+        {
+          "text": "A prominent monthly price may be followed by compulsory charges in pale text; a privacy request may offer one bright acceptance button and several screens for refusal.",
+          "translation": "醒目的月费后面可能用浅色文字标注强制费用；隐私请求可能提供一个鲜明的同意按钮，却要经过多个页面才能拒绝。"
+        },
+        {
+          "text": "Behavioural research suggests that such design choices affect decisions even when every option remains technically available.",
+          "translation": "行为研究表明，即使从技术上看所有选项仍然可用，这类设计选择也会影响决定。"
+        },
+        {
+          "text": "The ethical question therefore extends beyond whether a statement is literally true.",
+          "translation": "因此，道德问题不只在于陈述从字面上看是否属实。"
+        }
+      ],
+      [
+        {
+          "text": "More information is not always the solution.",
+          "translation": "提供更多信息并不总是解决方案。"
+        },
+        {
+          "text": "Adding pages can protect the writer while increasing the reader’s burden.",
+          "translation": "增加页数可以保护撰写者，却会加重读者负担。"
+        },
+        {
+          "text": "Standardised labels work better when they identify a small number of material facts in consistent positions.",
+          "translation": "标准化标签若能在固定位置标明少量重大事实，效果会更好。"
+        },
+        {
+          "text": "Timing also matters: a cancellation condition is useful before payment, not inside a receipt.",
+          "translation": "提供信息的时机也很重要：取消条件应在付款前说明，而不是藏在收据里。"
+        },
+        {
+          "text": "Independent testing can reveal whether typical users notice and interpret a disclosure as intended.",
+          "translation": "独立测试能够揭示普通用户是否注意到披露内容，并按预期理解它。"
+        }
+      ],
+      [
+        {
+          "text": "No design can remove the customer’s responsibility to read important terms.",
+          "translation": "任何设计都无法免除客户阅读重要条款的责任。"
+        },
+        {
+          "text": "Nevertheless, expertise and control are distributed unequally.",
+          "translation": "尽管如此，专业知识和控制权的分配并不平等。"
+        },
+        {
+          "text": "The seller usually knows which details cause complaints and decides the order in which information appears.",
+          "translation": "卖方通常知道哪些细节会引发投诉，并决定信息出现的顺序。"
+        },
+        {
+          "text": "Ethical disclosure recognises this advantage.",
+          "translation": "合乎道德的信息披露会承认这种优势。"
+        },
+        {
+          "text": "Its purpose is not to transfer every risk through a sentence; it is to enable a reasonably attentive person to compare options and understand the main consequence of choosing one.",
+          "translation": "其目的不是用一句话转移所有风险，而是让一个具有合理注意力的人能够比较选项，并理解作出选择的主要后果。"
+        }
+      ],
+      [
+        {
+          "text": "Comparison tools can strengthen disclosure when they remain independent of the sellers being compared.",
+          "translation": "当比较工具独立于被比较的卖方时，它们能够加强信息披露。"
+        },
+        {
+          "text": "A common table of total cost, cancellation rights and principal risks reduces the effort required to locate material differences.",
+          "translation": "一张统一列出总成本、取消权和主要风险的表格，可以减少寻找重大差异所需的精力。"
+        },
+        {
+          "text": "Yet the categories themselves must be reviewed as products change.",
+          "translation": "然而，随着产品变化，这些类别本身也必须重新审查。"
+        },
+        {
+          "text": "A standard form that omits a new source of harm can create confidence without supplying the information that confidence appears to rest on.",
+          "translation": "如果标准表格遗漏了新的危害来源，就可能制造信心，却没有提供这种信心看似依赖的信息。"
+        }
+      ]
+    ],
     "paragraphs": [
       "Many markets rely on disclosure. Instead of banning a complex product or fee, regulators require a business to provide information and allow the customer to choose. In theory, this preserves freedom and encourages competition. In practice, disclosure can satisfy a legal rule without producing understanding, particularly when documents are long, technical or presented after the customer has invested time in the transaction.",
       "Businesses control not only what is stated but how attention is directed. A prominent monthly price may be followed by compulsory charges in pale text; a privacy request may offer one bright acceptance button and several screens for refusal. Behavioural research suggests that such design choices affect decisions even when every option remains technically available. The ethical question therefore extends beyond whether a statement is literally true.",

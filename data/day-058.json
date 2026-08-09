@@ -153,7 +153,8 @@
         "backing",
         "provision"
       ],
-      "note": "provision 常指服务或资源的供给。 本组可用于讨论社区生活。"
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论社区生活。",
+      "translation": "支持可以表达为协助、支持、提供。"
     },
     {
       "base": "different",
@@ -162,7 +163,8 @@
         "varied",
         "diverse"
       ],
-      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论社区生活。"
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论社区生活。",
+      "translation": "different 表示不同；distinct 强调有明显区别，varied 强调种类多或富于变化，diverse 强调构成多元。"
     },
     {
       "base": "common",
@@ -171,7 +173,8 @@
         "frequently observed",
         "part of everyday life"
       ],
-      "note": "widespread 较正式，强调分布广。 本组可用于讨论社区生活。"
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论社区生活。",
+      "translation": "common 可以表示为日常生活中普遍存在的、经常观察到的一部分。"
     },
     {
       "base": "help",
@@ -180,7 +183,8 @@
         "enable",
         "make it easier to"
       ],
-      "note": "enable 后接宾语和 to do。 本组可用于讨论社区生活。"
+      "note": "enable 后接宾语和 to do。 本组可用于讨论社区生活。",
+      "translation": "help 表示帮助；assist 指协助，enable 表示使某人或某事能够做到，make it easier to 表示让某事更容易完成。"
     },
     {
       "base": "problem",
@@ -189,7 +193,8 @@
         "concern",
         "obstacle"
       ],
-      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论社区生活。"
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论社区生活。",
+      "translation": "问题可以表达为挑战、关注、障碍。"
     },
     {
       "base": "change",
@@ -198,7 +203,8 @@
         "development",
         "transformation"
       ],
-      "note": "transformation 表示幅度较大的变化。 本组可用于讨论社区生活。"
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论社区生活。",
+      "translation": "变化可以表现为转变、发展、转变。"
     },
     {
       "base": "important",
@@ -207,7 +213,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论社区生活。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论社区生活。",
+      "translation": "important 表示重要；significant 强调意义或影响重大，crucial 强调关键性，essential 强调必不可少。"
     },
     {
       "base": "result",
@@ -216,51 +223,60 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论社区生活。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论社区生活。",
+      "translation": "结果可以表示为结果、后果、效果。"
     }
   ],
   "sentences": [
     {
       "pattern": "A sense of community develops through + repeated interaction + rather than + single event.",
       "cn": "社区感通过反复互动形成，而非一次活动。",
-      "example": "A sense of community develops through repeated small encounters rather than an annual festival alone."
+      "example": "A sense of community develops through repeated small encounters rather than an annual festival alone.",
+      "exampleTranslation": "社区意识是通过反复的小邂逅而不仅仅是一年一度的节日来发展的。"
     },
     {
       "pattern": "The presence of + shared place + gives residents an opportunity to + social action.",
       "cn": "某共享场所的存在给居民机会去……。",
-      "example": "The presence of a local garden gives residents an opportunity to meet without formal invitations."
+      "example": "The presence of a local garden gives residents an opportunity to meet without formal invitations.",
+      "exampleTranslation": "当地花园的存在让居民有机会在没有正式邀请的情况下见面。"
     },
     {
       "pattern": "Even residents who do not + active participation + may benefit from + community outcome.",
       "cn": "即使不积极参与的居民，也可能从社区结果中受益。",
-      "example": "Even residents who do not attend meetings may benefit from stronger informal support networks."
+      "example": "Even residents who do not attend meetings may benefit from stronger informal support networks.",
+      "exampleTranslation": "即使不参加会议的居民也可能受益于更强大的非正式支持网络。"
     }
   ],
   "expressions": [
     {
       "text": "get to know my neighbours",
       "cn": "认识邻居",
-      "example": "A shared courtyard helped me get to know my neighbours."
+      "example": "A shared courtyard helped me get to know my neighbours.",
+      "exampleTranslation": "共用庭院帮助我认识了邻居。"
     },
     {
       "text": "feel part of the community",
       "cn": "感到属于社区",
-      "example": "Local events help new residents feel part of the community."
+      "example": "Local events help new residents feel part of the community.",
+      "exampleTranslation": "当地活动帮助新居民感受到自己是社区的一部分。"
     },
     {
       "text": "look out for one another",
       "cn": "互相照应",
-      "example": "Neighbours look out for one another during extreme weather."
+      "example": "Neighbours look out for one another during extreme weather.",
+      "exampleTranslation": "极端天气期间，邻居们会互相照应。"
     },
     {
       "text": "get involved locally",
       "cn": "参与本地事务",
-      "example": "I got involved locally through a clean-up group."
+      "example": "I got involved locally through a clean-up group.",
+      "exampleTranslation": "我通过一个清洁小组参与了当地的活动。"
     },
     {
       "text": "build a sense of belonging",
       "cn": "建立归属感",
-      "example": "Repeated contact builds a sense of belonging."
+      "example": "Repeated contact builds a sense of belonging.",
+      "exampleTranslation": "反复接触可以建立归属感。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "develop neighbourly trust",
         "create a sense of belonging"
       ],
-      "argument": "A large festival may attract attention but offers little continuity if residents never meet again. Benches, playgrounds, libraries and shared entrances create small encounters that gradually turn strangers into familiar faces. Familiarity makes it easier to exchange information or offer help during difficulty. Design cannot force friendship, and some residents prefer privacy. It can nevertheless create opportunities for contact without requiring formal membership or spending money."
+      "argument": "A large festival may attract attention but offers little continuity if residents never meet again. Benches, playgrounds, libraries and shared entrances create small encounters that gradually turn strangers into familiar faces. Familiarity makes it easier to exchange information or offer help during difficulty. Design cannot force friendship, and some residents prefer privacy. It can nevertheless create opportunities for contact without requiring formal membership or spending money.",
+      "viewpointTranslation": "日常空间对于社区生活至关重要。",
+      "topicSentenceTranslation": "邻里关系往往在支持反复、低压力接触的地方发展。",
+      "collocationTranslations": [
+        "鼓励非正式互动",
+        "提供共享设施",
+        "发展睦邻信任",
+        "创造归属感"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A large festival may attract attention but offers little continuity if residents never meet again.",
+          "translation": "大型节日可能会吸引人们的注意，但如果居民再也没有见面，那么就没有什么连续性了。"
+        },
+        {
+          "text": "Benches, playgrounds, libraries and shared entrances create small encounters that gradually turn strangers into familiar faces.",
+          "translation": "长凳、游乐场、图书馆和共用入口创造了小小的邂逅，逐渐将陌生人变成熟悉的面孔。"
+        },
+        {
+          "text": "Familiarity makes it easier to exchange information or offer help during difficulty.",
+          "translation": "熟悉使得在遇到困难时更容易交换信息或提供帮助。"
+        },
+        {
+          "text": "Design cannot force friendship, and some residents prefer privacy.",
+          "translation": "设计不能强迫友谊，一些居民更喜欢隐私。"
+        },
+        {
+          "text": "It can nevertheless create opportunities for contact without requiring formal membership or spending money.",
+          "translation": "尽管如此，它仍然可以创造联系的机会，而无需正式会员资格或花钱。"
+        }
+      ]
     },
     {
       "viewpoint": "Community participation should offer several levels of commitment.",
@@ -301,19 +347,99 @@
         "include underrepresented residents",
         "provide feedback on decisions"
       ],
-      "argument": "Care responsibilities, language and shift work prevent many people from joining traditional committees. Short surveys, drop-in sessions and paid childcare can capture views from a wider group. Organisers should explain what can change and report how input affected the result. Otherwise consultation becomes a request for time without evidence of influence. Flexible participation strengthens legitimacy while leaving elected bodies responsible for final decisions."
+      "argument": "Care responsibilities, language and shift work prevent many people from joining traditional committees. Short surveys, drop-in sessions and paid childcare can capture views from a wider group. Organisers should explain what can change and report how input affected the result. Otherwise consultation becomes a request for time without evidence of influence. Flexible participation strengthens legitimacy while leaving elected bodies responsible for final decisions.",
+      "viewpointTranslation": "社区参与应提供多个层次的承诺。",
+      "topicSentenceTranslation": "当居民无需参加长时间的晚间会议即可做出贡献时，地方决策就更具包容性。",
+      "collocationTranslations": [
+        "扩大当地参与",
+        "提供灵活的咨询",
+        "包括代表性不足的居民",
+        "提供决策反馈"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Care responsibilities, language and shift work prevent many people from joining traditional committees.",
+          "translation": "照顾责任、语言和轮班工作使许多人无法加入传统的委员会。"
+        },
+        {
+          "text": "Short surveys, drop-in sessions and paid childcare can capture views from a wider group.",
+          "translation": "简短的调查、临时拜访和付费托儿服务可以收集更广泛群体的意见。"
+        },
+        {
+          "text": "Organisers should explain what can change and report how input affected the result.",
+          "translation": "组织者应该解释什么可以改变并报告输入如何影响结果。"
+        },
+        {
+          "text": "Otherwise consultation becomes a request for time without evidence of influence.",
+          "translation": "否则，协商就变成了对时间的要求，而没有影响力的证据。"
+        },
+        {
+          "text": "Flexible participation strengthens legitimacy while leaving elected bodies responsible for final decisions.",
+          "translation": "灵活的参与增强了合法性，同时让民选机构负责最终决定。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you know many people in your neighbourhood?",
-      "answer": "I know a few neighbours well enough to stop and talk, although we are not close friends. We exchange practical information about deliveries, repairs and local events. That level of familiarity is useful because it makes asking for small help less awkward. I would like to know more people without losing privacy."
+      "answer": "I know a few neighbours well enough to stop and talk, although we are not close friends. We exchange practical information about deliveries, repairs and local events. That level of familiarity is useful because it makes asking for small help less awkward. I would like to know more people without losing privacy.",
+      "questionTranslation": "你认识的邻居中有很多人吗？",
+      "answerSentences": [
+        {
+          "text": "I know a few neighbours well enough to stop and talk, although we are not close friends.",
+          "translation": "尽管我们不是亲密的朋友，但我对一些邻居很熟悉，可以停下来交谈。"
+        },
+        {
+          "text": "We exchange practical information about deliveries, repairs and local events.",
+          "translation": "我们交换有关送货、维修和当地活动的实用信息。"
+        },
+        {
+          "text": "That level of familiarity is useful because it makes asking for small help less awkward.",
+          "translation": "这种熟悉程度很有用，因为它可以让寻求小小的帮助变得不那么尴尬。"
+        },
+        {
+          "text": "I would like to know more people without losing privacy.",
+          "translation": "我想在不失去隐私的情况下认识更多的人。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a community event you enjoyed.",
-      "answer": "I enjoyed a small street market organised by local residents and shops. It included food stalls, a repair table and a space where children could exchange books. I helped set up signs in the morning, which meant I met organisers before the public arrived. The event was not especially large, but people stayed to talk because there were seats and no entrance fee. I learned about a gardening group that I later joined for one session. What made the market successful was its connection to ongoing local activities; it did not disappear completely when the stalls closed. It gave newer residents an easy first step into community life without demanding a major commitment."
+      "answer": "I enjoyed a small street market organised by local residents and shops. It included food stalls, a repair table and a space where children could exchange books. I helped set up signs in the morning, which meant I met organisers before the public arrived. The event was not especially large, but people stayed to talk because there were seats and no entrance fee. I learned about a gardening group that I later joined for one session. What made the market successful was its connection to ongoing local activities; it did not disappear completely when the stalls closed. It gave newer residents an easy first step into community life without demanding a major commitment.",
+      "questionTranslation": "描述一个您喜欢的社区活动。",
+      "answerSentences": [
+        {
+          "text": "I enjoyed a small street market organised by local residents and shops.",
+          "translation": "我很喜欢当地居民和商店组织的小街市。"
+        },
+        {
+          "text": "It included food stalls, a repair table and a space where children could exchange books.",
+          "translation": "它包括食品摊位、修理台和孩子们可以交换书籍的空间。"
+        },
+        {
+          "text": "I helped set up signs in the morning, which meant I met organisers before the public arrived.",
+          "translation": "我早上帮忙设立了标牌，这意味着我在公众到达之前就见到了组织者。"
+        },
+        {
+          "text": "The event was not especially large, but people stayed to talk because there were seats and no entrance fee.",
+          "translation": "活动规模不是特别大，但人们留下来聊天，因为有座位，而且不收入场费。"
+        },
+        {
+          "text": "I learned about a gardening group that I later joined for one session.",
+          "translation": "我了解到一个园艺小组，后来我参加了一次课程。"
+        },
+        {
+          "text": "What made the market successful was its connection to ongoing local activities; it did not disappear completely when the stalls closed.",
+          "translation": "该市场的成功在于它与当地正在进行的活动的联系；当摊位关门时，它并没有完全消失。"
+        },
+        {
+          "text": "It gave newer residents an easy first step into community life without demanding a major commitment.",
+          "translation": "它为新居民提供了轻松进入社区生活的第一步，无需做出重大承诺。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +476,111 @@
         "answer": "anonymity",
         "explanation": "The final paragraph provides the contrast."
       }
+    ],
+    "titleTranslation": "弱邻里关系的力量",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Community is often associated with close friendship, but neighbourhoods also depend on weaker ties.",
+          "translation": "社区通常与亲密的友谊联系在一起，但邻里关系也依赖于较弱的联系。"
+        },
+        {
+          "text": "A person who recognises the shopkeeper, greets another dog walker or exchanges parcels with a neighbour may know little about their private life.",
+          "translation": "一个认出店主、向另一位遛狗者打招呼或与邻居交换包裹的人可能对他们的私生活知之甚少。"
+        },
+        {
+          "text": "These connections still provide information, familiarity and a small expectation of mutual conduct.",
+          "translation": "这些联系仍然提供信息、熟悉感和对相互行为的小小的期望。"
+        }
+      ],
+      [
+        {
+          "text": "Weak ties are easier to maintain across difference because they demand less agreement and time.",
+          "translation": "弱联系更容易跨越差异维持，因为它们需要更少的共识和时间。"
+        },
+        {
+          "text": "They can connect age, occupation and cultural groups that otherwise remain separate.",
+          "translation": "它们可以将原本相互独立的年龄、职业和文化群体联系起来。"
+        },
+        {
+          "text": "During disruption, such as a power cut, these acquaintances may spread practical information faster than official channels.",
+          "translation": "在停电等中断期间，这些熟人可能比官方渠道更快地传播实用信息。"
+        },
+        {
+          "text": "They are not substitutes for emergency services, but they help residents interpret what is happening nearby.",
+          "translation": "它们不能替代紧急服务，但可以帮助居民了解附近发生的情况。"
+        }
+      ],
+      [
+        {
+          "text": "Physical routine supports their formation.",
+          "translation": "身体活动有利于他们的形成。"
+        },
+        {
+          "text": "Seeing the same people at a bus stop or playground creates recognition before conversation.",
+          "translation": "在公共汽车站或游乐场看到同一个人会在交谈之前产生识别。"
+        },
+        {
+          "text": "High turnover, hostile shared areas and journeys made entirely by car reduce these encounters.",
+          "translation": "高周转率、敌对的共享区域以及完全由汽车进行的旅程减少了这些遭遇。"
+        },
+        {
+          "text": "Online neighbourhood groups can connect people, although conflict and misinformation may spread when names are known without the moderating effect of face-to-face familiarity.",
+          "translation": "在线邻里团体可以将人们联系起来，尽管如果没有面对面熟悉的调节作用，当名字已知时，冲突和错误信息可能会传播。"
+        }
+      ],
+      [
+        {
+          "text": "There are limits to celebrating community.",
+          "translation": "庆祝社区是有限制的。"
+        },
+        {
+          "text": "Strong local expectations can exclude newcomers or pressure residents to participate.",
+          "translation": "当地强烈的期望可能会排斥新来者或迫使居民参与。"
+        },
+        {
+          "text": "Informal surveillance may feel supportive to one person and intrusive to another.",
+          "translation": "非正式监视可能会让一个人感到支持，但会让另一个人感觉受到干扰。"
+        },
+        {
+          "text": "Healthy community life needs boundaries, routes for disagreement and respect for those who contribute quietly rather than attending every event.",
+          "translation": "健康的社区生活需要界限、分歧的途径和尊重那些默默贡献而不是参加每一次活动的人。"
+        }
+      ],
+      [
+        {
+          "text": "Weak ties matter precisely because they sit between intimacy and anonymity.",
+          "translation": "弱关系之所以重要，正是因为它们介于亲密和匿名之间。"
+        },
+        {
+          "text": "They create enough connection for a warning, recommendation or small favour without requiring everyone to become friends.",
+          "translation": "他们为警告、推荐或小恩小惠建立了足够的联系，而不要求每个人都成为朋友。"
+        },
+        {
+          "text": "Policies that protect shared places and residential stability can support this social layer, but trust develops through repeated conduct.",
+          "translation": "保护共享场所和居住稳定的政策可以支持这个社会层面，但信任是通过重复的行为而发展起来的。"
+        },
+        {
+          "text": "It cannot be installed as a facility or produced by a single campaign.",
+          "translation": "它不能作为设施安装或由单个活动产生。"
+        },
+        {
+          "text": "Local institutions often anchor these connections.",
+          "translation": "当地机构通常会锚定这些联系。"
+        },
+        {
+          "text": "A school gate, clinic waiting area or familiar shop creates overlapping routines even when community-building is not its formal purpose.",
+          "translation": "学校门口、诊所等候区或熟悉的商店会造成重叠的日常活动，即使社区建设不是其正式目的。"
+        },
+        {
+          "text": "When such places close, the lost service may be replaced online or farther away, but the repeated encounters are not automatically transferred.",
+          "translation": "当此类场所关闭时，丢失的服务可能会在网上或更远的地方替代，但重复的遭遇不会自动转移。"
+        },
+        {
+          "text": "Evaluations should therefore consider social contact as one consequence of changing local provision.",
+          "translation": "因此，评估应将社会接触视为当地供应变化的结果之一。"
+        }
+      ]
     ]
   }
 }

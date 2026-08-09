@@ -153,7 +153,8 @@
         "be tied up",
         "have a lot on"
       ],
-      "note": "tied up 和 have a lot on 更适合口语。"
+      "note": "tied up 和 have a lot on 更适合口语。",
+      "translation": "busy 可以表达为“日程很满”“抽不开身”或“有很多事要忙”。"
     },
     {
       "base": "usually",
@@ -162,7 +163,8 @@
         "on most days",
         "as a rule"
       ],
-      "note": "as a rule 表示通常情况，而非硬性规则。"
+      "note": "as a rule 表示通常情况，而非硬性规则。",
+      "translation": "usually 可以表达为“一般来说”“大多数时候”或“通常情况下”。"
     },
     {
       "base": "do first",
@@ -171,7 +173,8 @@
         "deal with first",
         "give priority to"
       ],
-      "note": "prioritise 更简洁正式。"
+      "note": "prioritise 更简洁正式。",
+      "translation": "do first 可以表达为“优先处理”“先处理”或“给予优先考虑”。"
     },
     {
       "base": "rest",
@@ -180,7 +183,8 @@
         "unwind",
         "recharge"
       ],
-      "note": "unwind 指逐渐放松；recharge 比喻恢复精力。"
+      "note": "unwind 指逐渐放松；recharge 比喻恢复精力。",
+      "translation": "休息可以表达为休息、放松、充电。"
     },
     {
       "base": "every day",
@@ -189,7 +193,8 @@
         "on a daily basis",
         "day to day"
       ],
-      "note": "daily 最简洁，避免过度使用 on a daily basis。"
+      "note": "daily 最简洁，避免过度使用 on a daily basis。",
+      "translation": "every day 可以表达为“每天”“每日”或“日常地”。"
     },
     {
       "base": "waste time",
@@ -198,7 +203,8 @@
         "lose track of time",
         "spend too long on"
       ],
-      "note": "三者原因和语气不同。"
+      "note": "三者原因和语气不同。",
+      "translation": "waste time 可以表达为“低效地利用时间”“忘记时间”或“在……上花太久”。"
     },
     {
       "base": "changeable plan",
@@ -207,7 +213,8 @@
         "an adaptable routine",
         "plans that can be adjusted"
       ],
-      "note": "flexible schedule 最自然常用。"
+      "note": "flexible schedule 最自然常用。",
+      "translation": "可变计划可以表示为灵活的时间表、适应性强的例程、可以调整的计划。"
     },
     {
       "base": "balance responsibilities",
@@ -216,51 +223,60 @@
         "juggle several commitments",
         "divide time effectively"
       ],
-      "note": "juggle commitments 常用于口语和半正式写作。"
+      "note": "juggle commitments 常用于口语和半正式写作。",
+      "translation": "平衡责任可以表现为管理相互竞争的需求、兼顾多项承诺、有效分配时间。"
     }
   ],
   "sentences": [
     {
       "pattern": "Subject + tend to + verb whenever + complete clause.",
       "cn": "每当……时，某人往往会……",
-      "example": "I tend to plan the next day whenever I have a particularly busy schedule."
+      "example": "I tend to plan the next day whenever I have a particularly busy schedule.",
+      "exampleTranslation": "当我的日程特别繁忙时，我倾向于计划第二天。"
     },
     {
       "pattern": "The more + subject + verb, the easier it becomes to + verb.",
       "cn": "越……，做……就越容易。",
-      "example": "The more consistently people follow a routine, the easier it becomes to concentrate."
+      "example": "The more consistently people follow a routine, the easier it becomes to concentrate.",
+      "exampleTranslation": "人们越坚持遵循惯例，就越容易集中注意力。"
     },
     {
       "pattern": "Rather than + gerund, subject + try to + verb.",
       "cn": "某人尽量做……，而不是做……",
-      "example": "Rather than checking my phone first thing, I try to get ready for the day."
+      "example": "Rather than checking my phone first thing, I try to get ready for the day.",
+      "exampleTranslation": "我第一件事不是检查手机，而是努力为新的一天做好准备。"
     }
   ],
   "expressions": [
     {
       "text": "I’m an early bird.",
       "cn": "我是习惯早起的人。",
-      "example": "I’m an early bird, so I do my best work before breakfast."
+      "example": "I’m an early bird, so I do my best work before breakfast.",
+      "exampleTranslation": "我是个习惯早起的人，所以早餐前是我工作效率最高的时候。"
     },
     {
       "text": "I have a lot on at the moment.",
       "cn": "我目前有很多事情要处理。",
-      "example": "I have a lot on at the moment, but it should calm down next week."
+      "example": "I have a lot on at the moment, but it should calm down next week.",
+      "exampleTranslation": "我现在有很多事情，但下周应该会平静下来。"
     },
     {
       "text": "It keeps me on track.",
       "cn": "它帮助我保持进度。",
-      "example": "A short to-do list keeps me on track."
+      "example": "A short to-do list keeps me on track.",
+      "exampleTranslation": "一份简短的待办事项清单能帮助我按计划推进。"
     },
     {
       "text": "strike a balance between + noun and + noun",
       "cn": "在……与……之间取得平衡",
-      "example": "A flexible routine helps people strike a balance between work and family life."
+      "example": "A flexible routine helps people strike a balance between work and family life.",
+      "exampleTranslation": "灵活的作息可以帮助人们在工作和家庭生活之间取得平衡。"
     },
     {
       "text": "set aside time for + noun or gerund",
       "cn": "专门留出时间做……",
-      "example": "People should set aside time for regular exercise."
+      "example": "People should set aside time for regular exercise.",
+      "exampleTranslation": "人们应该留出时间进行定期锻炼。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "reduce commuting time",
         "maintain productivity"
       ],
-      "argument": "People differ in their family responsibilities, commuting conditions and periods of peak concentration. A limited degree of flexibility allows employees to arrange focused work around these demands instead of following an unnecessarily rigid timetable. This can reduce commuting pressure and help workers deal with personal responsibilities without lowering their output. For example, a parent might begin earlier and finish in time to collect a child from school. Flexible schedules can therefore support well-being while maintaining productivity, provided that expectations remain clear."
+      "argument": "People differ in their family responsibilities, commuting conditions and periods of peak concentration. A limited degree of flexibility allows employees to arrange focused work around these demands instead of following an unnecessarily rigid timetable. This can reduce commuting pressure and help workers deal with personal responsibilities without lowering their output. For example, a parent might begin earlier and finish in time to collect a child from school. Flexible schedules can therefore support well-being while maintaining productivity, provided that expectations remain clear.",
+      "viewpointTranslation": "灵活的时间表可以改善幸福感。",
+      "topicSentenceTranslation": "让人们对自己的日程安排有一定的控制权可以减轻压力并提高绩效。",
+      "collocationTranslations": [
+        "安排工作时间",
+        "管理竞争需求",
+        "减少通勤时间",
+        "保持生产力"
+      ],
+      "argumentSentences": [
+        {
+          "text": "People differ in their family responsibilities, commuting conditions and periods of peak concentration.",
+          "translation": "人们的家庭责任、通勤条件以及注意力最集中的时段各不相同。"
+        },
+        {
+          "text": "A limited degree of flexibility allows employees to arrange focused work around these demands instead of following an unnecessarily rigid timetable.",
+          "translation": "一定程度的灵活性让员工可以围绕这些需求安排需要专注的工作，而不必遵循没有必要的僵化时间表。"
+        },
+        {
+          "text": "This can reduce commuting pressure and help workers deal with personal responsibilities without lowering their output.",
+          "translation": "这可以减轻通勤压力并帮助工人在不降低产出的情况下处理个人责任。"
+        },
+        {
+          "text": "For example, a parent might begin earlier and finish in time to collect a child from school.",
+          "translation": "例如，家长可能会提前开始并及时完成以接孩子放学。"
+        },
+        {
+          "text": "Flexible schedules can therefore support well-being while maintaining productivity, provided that expectations remain clear.",
+          "translation": "因此，只要期望保持明确，灵活的时间表就可以在保持生产力的同时支持福祉。"
+        }
+      ]
     },
     {
       "viewpoint": "A stable routine supports healthy behaviour.",
@@ -301,19 +347,79 @@
         "set aside time for",
         "support mental well-being"
       ],
-      "argument": "Regular daily patterns reduce the number of small decisions that people must make repeatedly. When exercise, meals and sleep occur at predictable times, healthy behaviour becomes easier to continue even during busy periods. A fixed bedtime, for example, can discourage late-night screen use and support more consistent sleep. Nevertheless, an effective routine must allow occasional changes when work or family circumstances require them. Stability is therefore most beneficial when it provides direction without becoming inflexible."
+      "argument": "Regular daily patterns reduce the number of small decisions that people must make repeatedly. When exercise, meals and sleep occur at predictable times, healthy behaviour becomes easier to continue even during busy periods. A fixed bedtime, for example, can discourage late-night screen use and support more consistent sleep. Nevertheless, an effective routine must allow occasional changes when work or family circumstances require them. Stability is therefore most beneficial when it provides direction without becoming inflexible.",
+      "viewpointTranslation": "稳定的作息习惯支持健康的行为。",
+      "topicSentenceTranslation": "有规律的日常模式使有益的选择更容易维持。",
+      "collocationTranslations": [
+        "形成持久的习惯",
+        "遵循规律的睡眠时间表",
+        "留出时间",
+        "支持心理健康"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Regular daily patterns reduce the number of small decisions that people must make repeatedly.",
+          "translation": "规律的日常模式减少了人们必须反复做出的小决定的数量。"
+        },
+        {
+          "text": "When exercise, meals and sleep occur at predictable times, healthy behaviour becomes easier to continue even during busy periods.",
+          "translation": "当锻炼、进餐和睡眠在可预测的时间进行时，即使在忙碌的时期，健康的行为也变得更容易持续。"
+        },
+        {
+          "text": "A fixed bedtime, for example, can discourage late-night screen use and support more consistent sleep.",
+          "translation": "例如，固定的就寝时间可以阻止深夜使用屏幕并支持更稳定的睡眠。"
+        },
+        {
+          "text": "Nevertheless, an effective routine must allow occasional changes when work or family circumstances require them.",
+          "translation": "不过，有效的作息安排必须允许人们在工作或家庭情况需要时偶尔作出调整。"
+        },
+        {
+          "text": "Stability is therefore most beneficial when it provides direction without becoming inflexible.",
+          "translation": "因此，稳定的作息在提供方向、同时又不至于僵化时最有益。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What is your usual morning routine?",
-      "answer": "On weekdays, I get up at about seven and try not to look at my phone straight away. I make coffee, have a quick breakfast and check the three most important things I need to do. It’s nothing special, but that short list keeps me on track."
+      "answer": "On weekdays, I get up at about seven, make coffee and have a quick breakfast. Then I check the three most important things I need to do. That short list helps me stay on track.",
+      "questionTranslation": "你早上通常有什么固定安排？",
+      "answerSentences": [
+        {
+          "text": "On weekdays, I get up at about seven, make coffee and have a quick breakfast.",
+          "translation": "工作日，我大约七点起床，煮杯咖啡，再简单吃点早餐。"
+        },
+        {
+          "text": "Then I check the three most important things I need to do.",
+          "translation": "然后，我会看看当天最重要的三件事。"
+        },
+        {
+          "text": "That short list helps me stay on track.",
+          "translation": "这份简短的清单能帮助我保持进度。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Is your routine different at weekends?",
-      "answer": "Yes, quite a bit. I’m still an early bird, but I don’t plan the day so carefully. I might go for a long walk, meet a friend or just cook something that takes more time. I like having a bit of structure without watching the clock."
+      "answer": "Yes, quite a bit. I still get up early, but I don’t plan the day so carefully. I might go for a long walk, meet a friend or cook something that takes more time.",
+      "questionTranslation": "周末你的作息有什么不同吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, quite a bit.",
+          "translation": "是的，相当多。"
+        },
+        {
+          "text": "I still get up early, but I don’t plan the day so carefully.",
+          "translation": "我还是会早起，但不会把一天安排得那么细。"
+        },
+        {
+          "text": "I might go for a long walk, meet a friend or cook something that takes more time.",
+          "translation": "我可能会走很长一段路、见见朋友，或者做一道比较费时间的菜。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -349,6 +455,109 @@
         "answer": "D",
         "explanation": "Paragraph D states that reviewing and adapting routines may allow a useful pattern to survive."
       }
+    ],
+    "titleTranslation": "为什么例行公事可以减少脑力劳动",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A.",
+          "translation": "A."
+        },
+        {
+          "text": "Daily routines are sometimes dismissed as dull, yet behavioural researchers have long been interested in their practical value.",
+          "translation": "日常生活有时被认为是乏味的，但行为研究人员长期以来一直对其实用价值感兴趣。"
+        },
+        {
+          "text": "Every choice requires a small amount of mental effort.",
+          "translation": "每一个选择都需要少量的脑力劳动。"
+        },
+        {
+          "text": "Deciding when to exercise, what to eat and which task to begin may appear trivial, but these decisions accumulate over the course of a day.",
+          "translation": "决定何时锻炼、吃什么以及开始哪项任务可能看起来微不足道，但这些决定会在一天的过程中累积起来。"
+        },
+        {
+          "text": "When a useful behaviour becomes habitual, it can be performed with less conscious thought, leaving attention available for problems that demand judgement or creativity.",
+          "translation": "当一种有用的行为成为习惯时，就可以用不那么有意识的思维来执行它，从而将注意力集中在需要判断力或创造力的问题上。"
+        }
+      ],
+      [
+        {
+          "text": "B.",
+          "translation": "B."
+        },
+        {
+          "text": "Studies of habit formation suggest that repetition alone is not sufficient.",
+          "translation": "对习惯形成的研究表明，仅靠重复是不够的。"
+        },
+        {
+          "text": "A behaviour is more likely to become automatic when it is connected to a stable cue, such as a particular time, place or preceding action.",
+          "translation": "当一种行为与稳定的线索（例如特定的时间、地点或之前的动作）相关时，它更有可能变得自动。"
+        },
+        {
+          "text": "Someone who reads for ten minutes after breakfast, for instance, is using the meal as a cue.",
+          "translation": "例如，有人在早餐后阅读十分钟，就是在利用这顿饭作为提示。"
+        },
+        {
+          "text": "Researchers have also challenged the popular claim that every habit takes exactly twenty-one days to form.",
+          "translation": "研究人员还对流行的说法提出了质疑，即每个习惯的形成都需要二十一天的时间。"
+        },
+        {
+          "text": "The period varies considerably according to the person, the behaviour and the surrounding circumstances.",
+          "translation": "根据人、行为和周围环境的不同，该时期有很大差异。"
+        }
+      ],
+      [
+        {
+          "text": "C.",
+          "translation": "C."
+        },
+        {
+          "text": "Consistency nevertheless matters more than dramatic short-term effort.",
+          "translation": "连续执行三天的宏大计划，比坚持数周的适度行动更难带来持久改变。"
+        },
+        {
+          "text": "An ambitious schedule followed for three days is less likely to produce lasting change than a modest action repeated for several weeks.",
+          "translation": "连续三天的雄心勃勃的计划比重复几周的温和行动更不可能产生持久的变化。"
+        },
+        {
+          "text": "However, routines can become counterproductive when they leave no room for delay or changing needs.",
+          "translation": "然而，当例行公事没有留下延迟或改变需求的空间时，它可能会适得其反。"
+        },
+        {
+          "text": "In workplaces, excessively rigid procedures may prevent employees from responding creatively to unfamiliar situations.",
+          "translation": "在工作场所，过于严格的程序可能会阻碍员工对不熟悉的情况做出创造性的反应。"
+        },
+        {
+          "text": "The purpose of an effective routine is therefore to reduce repeated decision-making without removing the capacity to choose.",
+          "translation": "因此，有效例程的目的是减少重复决策而不消除选择能力。"
+        }
+      ],
+      [
+        {
+          "text": "D.",
+          "translation": "D."
+        },
+        {
+          "text": "This balance helps explain why many people organise only a few fixed points in the day.",
+          "translation": "这种平衡有助于解释为什么许多人在一天中只安排几个固定的时间点。"
+        },
+        {
+          "text": "They may maintain a regular waking time and protect one period for focused work while leaving the remaining hours flexible.",
+          "translation": "他们可能会保持有规律的起床时间，并在一段时间内专注于工作，而剩下的时间则可以灵活安排。"
+        },
+        {
+          "text": "Long-term observations indicate that routines are easier to sustain when people review and adapt them after changes in health, work or family responsibilities.",
+          "translation": "长期观察表明，当人们在健康、工作或家庭责任发生变化后重新审视和调整日常生活习惯时，就更容易维持下去。"
+        },
+        {
+          "text": "Adjustment is not necessarily evidence of failure; it may be what allows a useful pattern to survive.",
+          "translation": "调整不一定代表失败；它或许正是让一种有益模式得以延续的原因。"
+        },
+        {
+          "text": "Structure is most effective where it saves effort, and flexibility where judgement is still required.",
+          "translation": "在节省精力的地方，结构是最有效的；在仍然需要判断的地方，灵活性是最有效的。"
+        }
+      ]
     ]
   }
 }

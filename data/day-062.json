@@ -153,7 +153,8 @@
         "automated tools improve efficiency",
         "machine assistance saves staff time"
       ],
-      "note": "避免把 faster 用于所有效率论证"
+      "note": "避免把 faster 用于所有效率论证",
+      "translation": "人工智能让工作更快可以表达为人工智能加速日常流程、自动化工具提高效率、机器辅助节省员工时间。"
     },
     {
       "base": "replace workers",
@@ -162,7 +163,8 @@
         "substitute for human labour",
         "take over selected tasks"
       ],
-      "note": "通常是 tasks 而非全部 workers"
+      "note": "通常是 tasks 而非全部 workers",
+      "translation": "取代工人可以表示为取代某些角色、替代人类劳动力、接管选定的任务。"
     },
     {
       "base": "human control",
@@ -171,7 +173,8 @@
         "professional supervision",
         "human review of decisions"
       ],
-      "note": "适用于高风险场景"
+      "note": "适用于高风险场景",
+      "translation": "人类控制可以表现为有意义的人类监督、专业监督、人类对决策的审查。"
     },
     {
       "base": "unfair result",
@@ -180,7 +183,8 @@
         "unequal treatment",
         "systematic disadvantage"
       ],
-      "note": "区分偶然错误与系统偏差"
+      "note": "区分偶然错误与系统偏差",
+      "translation": "不公平结果可以表现为有偏见的结果、不平等的待遇、系统性的劣势。"
     },
     {
       "base": "use AI",
@@ -189,7 +193,8 @@
         "deploy an automated system",
         "integrate machine assistance"
       ],
-      "note": "体现不同实施阶段"
+      "note": "体现不同实施阶段",
+      "translation": "使用人工智能可以表述为采用人工智能工具、部署自动化系统、集成机器辅助。"
     },
     {
       "base": "very accurate",
@@ -198,7 +203,8 @@
         "capable of strong predictive performance",
         "accurate under defined conditions"
       ],
-      "note": "学术写作应注明适用条件"
+      "note": "学术写作应注明适用条件",
+      "translation": "非常准确可以表示为高度可靠、能够具有很强的预测性能、在规定的条件下准确。"
     },
     {
       "base": "cannot explain",
@@ -207,7 +213,8 @@
         "offers no clear rationale",
         "operates as a black box"
       ],
-      "note": "black box 较形象"
+      "note": "black box 较形象",
+      "translation": "无法解释可以表达为缺乏可解释性，没有提供明确的理由，像黑匣子一样运作。"
     },
     {
       "base": "help people decide",
@@ -216,51 +223,60 @@
         "inform professional decisions",
         "provide decision assistance"
       ],
-      "note": "避免暗示机器必须作最终决定"
+      "note": "避免暗示机器必须作最终决定",
+      "translation": "帮助人们决定可以表达为支持人类判断、为专业决策提供信息、提供决策帮助。"
     }
   ],
   "sentences": [
     {
       "pattern": "Although + an AI system + can identify patterns in data, it cannot make + an ethical or professional judgement + without human input.",
       "cn": "尽管某人工智能系统能够识别某种规律，但没有人工参与，它无法决定价值判断。",
-      "example": "Although an AI system can identify patients at higher statistical risk, it cannot determine how limited treatment should be allocated without human input."
+      "example": "Although an AI system can identify patients at higher statistical risk, it cannot determine how limited treatment should be allocated without human input.",
+      "exampleTranslation": "尽管人工智能系统可以识别统计风险较高的患者，但在没有人工输入的情况下，它无法确定如何分配有限的治疗。"
     },
     {
       "pattern": "The more serious the consequences of + an automated decision + are, the stronger + human oversight + should be.",
       "cn": "自动化决定的影响越重大，监督或保障措施就应越严格。",
-      "example": "The more consequential an automated hiring decision is, the stronger the opportunity for human review should be."
+      "example": "The more consequential an automated hiring decision is, the stronger the opportunity for human review should be.",
+      "exampleTranslation": "自动招聘决策越重要，人工审核的机会就应该越大。"
     },
     {
       "pattern": "Rather than asking whether AI can + perform a task, institutions should ask whether it can do so + accurately and fairly.",
       "cn": "与其问人工智能能否完成某项任务，机构更应问它在什么条件下能够达到某项标准。",
-      "example": "Rather than asking whether AI can mark essays, schools should ask under what conditions it can do so consistently and fairly."
+      "example": "Rather than asking whether AI can mark essays, schools should ask under what conditions it can do so consistently and fairly.",
+      "exampleTranslation": "学校不应该问人工智能是否可以批改论文，而应该问它在什么条件下可以一致、公平地批改论文。"
     }
   ],
   "expressions": [
     {
       "text": "take the guesswork out of something",
       "cn": "消除某事中的猜测成分",
-      "example": "A forecasting tool can take some of the guesswork out of stock planning."
+      "example": "A forecasting tool can take some of the guesswork out of stock planning.",
+      "exampleTranslation": "预测工具可以减少库存规划中的不确定性。"
     },
     {
       "text": "do the heavy lifting",
       "cn": "承担繁重工作",
-      "example": "Software can do the heavy lifting when thousands of records need sorting."
+      "example": "Software can do the heavy lifting when thousands of records need sorting.",
+      "exampleTranslation": "当数千条记录需要排序时，软件可以完成繁重的工作。"
     },
     {
       "text": "use your own judgement",
       "cn": "运用自己的判断",
-      "example": "You still need to use your own judgement when the answer affects a client."
+      "example": "You still need to use your own judgement when the answer affects a client.",
+      "exampleTranslation": "当答案会影响客户时，你仍然需要运用自己的判断。"
     },
     {
       "text": "improve decision-making",
       "cn": "改善决策",
-      "example": "AI can improve decision-making when its evidence is clearly presented."
+      "example": "AI can improve decision-making when its evidence is clearly presented.",
+      "exampleTranslation": "当人工智能的证据清晰呈现时，它可以改善决策。"
     },
     {
       "text": "remain accountable for the outcome",
       "cn": "仍对结果负责",
-      "example": "Managers must remain accountable for the outcome of an automated process."
+      "example": "Managers must remain accountable for the outcome of an automated process.",
+      "exampleTranslation": "管理者必须对自动化流程的结果负责。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,33 @@
         "retain human oversight",
         "take responsibility for outcomes"
       ],
-      "argument": "An algorithm can scan more records than one professional and draw attention to patterns that might otherwise be missed. However, an unusual patient or legal case may fall outside the examples on which the system was trained. A qualified professional can interpret context, explain uncertainty and accept responsibility for the final choice. Combining computational speed with accountable judgement therefore offers a safer advantage than allowing either component to operate alone."
+      "argument": "An algorithm can scan more records than one professional and draw attention to patterns that might otherwise be missed. However, an unusual patient or legal case may fall outside the examples on which the system was trained. A qualified professional can interpret context, explain uncertainty and accept responsibility for the final choice. Combining computational speed with accountable judgement therefore offers a safer advantage than allowing either component to operate alone.",
+      "viewpointTranslation": "人工智能应该增强高风险领域的专业知识。",
+      "topicSentenceTranslation": "在医学和法律领域，人工智能在扩展而不是取代专家判断时才最有价值。",
+      "collocationTranslations": [
+        "分析大型数据集",
+        "标记异常情况",
+        "保留人类监督",
+        "对结果负责"
+      ],
+      "argumentSentences": [
+        {
+          "text": "An algorithm can scan more records than one professional and draw attention to patterns that might otherwise be missed.",
+          "translation": "算法可以扫描比一名专业人员更多的记录，并引起人们对可能会被遗漏的模式的注意。"
+        },
+        {
+          "text": "However, an unusual patient or legal case may fall outside the examples on which the system was trained.",
+          "translation": "然而，不寻常的患者或法律案件可能不属于系统训练的示例范围。"
+        },
+        {
+          "text": "A qualified professional can interpret context, explain uncertainty and accept responsibility for the final choice.",
+          "translation": "合格的专业人士可以解释背景、解释不确定性并承担最终选择的责任。"
+        },
+        {
+          "text": "Combining computational speed with accountable judgement therefore offers a safer advantage than allowing either component to operate alone.",
+          "translation": "因此，将计算速度与负责任的判断相结合提供了比允许任一组件单独运行更安全的优势。"
+        }
+      ]
     },
     {
       "viewpoint": "Public bodies must test unequal effects before deployment.",
@@ -301,19 +343,99 @@
         "provide a route of appeal",
         "suspend harmful deployment"
       ],
-      "argument": "Suppose a voice-recognition service is highly accurate for the speakers most common in its dataset but frequently misunderstands a regional accent. If access to benefits depends on that service, average accuracy conceals a serious barrier. Agencies should test results separately across relevant populations and offer an accessible human alternative. Where a consistent gap cannot be corrected, efficiency is not a sufficient reason to keep the system in use."
+      "argument": "Suppose a voice-recognition service is highly accurate for the speakers most common in its dataset but frequently misunderstands a regional accent. If access to benefits depends on that service, average accuracy conceals a serious barrier. Agencies should test results separately across relevant populations and offer an accessible human alternative. Where a consistent gap cannot be corrected, efficiency is not a sufficient reason to keep the system in use.",
+      "viewpointTranslation": "公共机构必须在部署之前测试不平等的效果。",
+      "topicSentenceTranslation": "平均表现良好的自动化系统可能仍然对特定群体不利。",
+      "collocationTranslations": [
+        "跨组审计绩效",
+        "使用代表性训练数据",
+        "提供上诉途径",
+        "暂停有害部署"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Suppose a voice-recognition service is highly accurate for the speakers most common in its dataset but frequently misunderstands a regional accent.",
+          "translation": "假设语音识别服务对于其数据集中最常见的说话者来说非常准确，但经常误解地区口音。"
+        },
+        {
+          "text": "If access to benefits depends on that service, average accuracy conceals a serious barrier.",
+          "translation": "如果获得福利取决于该服务，那么平均准确度掩盖了一个严重的障碍。"
+        },
+        {
+          "text": "Agencies should test results separately across relevant populations and offer an accessible human alternative.",
+          "translation": "各机构应分别测试相关人群的结果，并提供可行的人类替代方案。"
+        },
+        {
+          "text": "Where a consistent gap cannot be corrected, efficiency is not a sufficient reason to keep the system in use.",
+          "translation": "如果无法纠正一致的差距，效率就不足以成为继续使用系统的理由。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe an AI-based tool that you have found useful.",
-      "answer": "I use a transcription tool after online meetings. It produces a rough written record, separates speakers and lets me search for a particular decision instead of replaying an hour of audio. The main benefit is not perfect accuracy but speed. Names and technical terms are sometimes wrong, so I compare important sections with the recording before sharing the notes. I also tell participants that transcription is being used because conversations can contain sensitive information. The tool has reduced a repetitive task, while the responsibility for checking and summarising still belongs to me. That balance is why I find it genuinely useful rather than simply impressive."
+      "answer": "I use a transcription tool after online meetings. It produces a rough written record, separates speakers and lets me search for a particular decision instead of replaying an hour of audio. The main benefit is not perfect accuracy but speed. Names and technical terms are sometimes wrong, so I compare important sections with the recording before sharing the notes. I also tell participants that transcription is being used because conversations can contain sensitive information. The tool has reduced a repetitive task, while the responsibility for checking and summarising still belongs to me. That balance is why I find it genuinely useful rather than simply impressive.",
+      "questionTranslation": "描述一个您认为有用的基于人工智能的工具。",
+      "answerSentences": [
+        {
+          "text": "I use a transcription tool after online meetings.",
+          "translation": "我在在线会议后使用转录工具。"
+        },
+        {
+          "text": "It produces a rough written record, separates speakers and lets me search for a particular decision instead of replaying an hour of audio.",
+          "translation": "它会生成一份粗略的书面记录，将扬声器分开，让我搜索特定的决定，而不是重播一个小时的音频。"
+        },
+        {
+          "text": "The main benefit is not perfect accuracy but speed.",
+          "translation": "主要好处不是完美的准确性而是速度。"
+        },
+        {
+          "text": "Names and technical terms are sometimes wrong, so I compare important sections with the recording before sharing the notes.",
+          "translation": "名称和技术术语有时是错误的，因此我在分享笔记之前将重要部分与录音进行比较。"
+        },
+        {
+          "text": "I also tell participants that transcription is being used because conversations can contain sensitive information.",
+          "translation": "我还告诉参与者，使用转录是因为对话可能包含敏感信息。"
+        },
+        {
+          "text": "The tool has reduced a repetitive task, while the responsibility for checking and summarising still belongs to me.",
+          "translation": "该工具减少了重复性工作，而检查和总结的责任仍然属于我。"
+        },
+        {
+          "text": "That balance is why I find it genuinely useful rather than simply impressive.",
+          "translation": "这种平衡就是为什么我发现它真正有用而不仅仅是令人印象深刻。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Which decisions should never be left entirely to artificial intelligence?",
-      "answer": "Decisions involving basic rights, severe punishment or life-changing medical treatment should always include accountable human judgement. AI may organise evidence or estimate risk, but statistics cannot settle questions about compassion, acceptable uncertainty or competing public values. People also need a meaningful explanation and a route of appeal. Human involvement is not automatically fair, of course, so reviewers need evidence and clear standards too. The essential point is that an institution cannot avoid responsibility by saying a system made the decision."
+      "answer": "Decisions involving basic rights, severe punishment or life-changing medical treatment should always include accountable human judgement. AI may organise evidence or estimate risk, but statistics cannot settle questions about compassion, acceptable uncertainty or competing public values. People also need a meaningful explanation and a route of appeal. Human involvement is not automatically fair, of course, so reviewers need evidence and clear standards too. The essential point is that an institution cannot avoid responsibility by saying a system made the decision.",
+      "questionTranslation": "哪些决定不应该完全留给人工智能？",
+      "answerSentences": [
+        {
+          "text": "Decisions involving basic rights, severe punishment or life-changing medical treatment should always include accountable human judgement.",
+          "translation": "涉及基本权利、严厉惩罚或改变生活的医疗的决定应始终包括负责任的人类判断。"
+        },
+        {
+          "text": "AI may organise evidence or estimate risk, but statistics cannot settle questions about compassion, acceptable uncertainty or competing public values.",
+          "translation": "人工智能可以组织证据或评估风险，但统计数据无法解决有关同情心、可接受的不确定性或相互竞争的公共价值观的问题。"
+        },
+        {
+          "text": "People also need a meaningful explanation and a route of appeal.",
+          "translation": "人们还需要有意义的解释和诉求途径。"
+        },
+        {
+          "text": "Human involvement is not automatically fair, of course, so reviewers need evidence and clear standards too.",
+          "translation": "当然，人类的参与并不一定是公平的，因此评审者也需要证据和明确的标准。"
+        },
+        {
+          "text": "The essential point is that an institution cannot avoid responsibility by saying a system made the decision.",
+          "translation": "要点是，机构不能通过说是系统做出决定来逃避责任。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +466,107 @@
         "answer": "evidence",
         "explanation": "Paragraph 4 explicitly describes disagreement as useful evidence."
       }
+    ],
+    "titleTranslation": "标记数据的安静工作",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Public discussion of artificial intelligence often concentrates on powerful models and specialist engineers.",
+          "translation": "对人工智能的公开讨论通常集中在强大的模型和专业工程师身上。"
+        },
+        {
+          "text": "Less visible is the human labour used to prepare examples from which many systems learn.",
+          "translation": "不太明显的是用于准备许多系统学习的示例的人力。"
+        },
+        {
+          "text": "Workers label road signs in photographs, judge whether comments are offensive or outline organs in medical scans.",
+          "translation": "工作人员在照片中标记路标，判断评论是否具有冒犯性，或者在医学扫描中勾勒出器官的轮廓。"
+        },
+        {
+          "text": "Their decisions convert complicated reality into categories a computer can process.",
+          "translation": "他们的决策将复杂的现实转化为计算机可以处理的类别。"
+        }
+      ],
+      [
+        {
+          "text": "The task can appear straightforward until cases become uncertain.",
+          "translation": "在情况变得不确定之前，任务可能看起来很简单。"
+        },
+        {
+          "text": "Is a partly hidden bicycle still a bicycle?",
+          "translation": "部分隐藏的自行车还是自行车吗？"
+        },
+        {
+          "text": "Does a sarcastic sentence express hostility, humour or both?",
+          "translation": "讽刺的句子是否表达敌意、幽默或两者兼而有之？"
+        },
+        {
+          "text": "Project instructions, usually written before every ambiguity is known, may not provide an answer.",
+          "translation": "项目说明通常是在发现所有歧义之前编写的，可能无法提供答案。"
+        },
+        {
+          "text": "Labelers then rely on experience or make inconsistent choices, which later appear to the model as if they were objective facts.",
+          "translation": "然后，贴标签者依赖经验或做出不一致的选择，这些选择随后在模型中看起来就好像它们是客观事实一样。"
+        },
+        {
+          "text": "A dataset of millions of examples can therefore contain the accumulated interpretation of workers whose names never accompany it.",
+          "translation": "因此，包含数百万个示例的数据集可以包含对姓名从未出现过的工人的累积解释。"
+        }
+      ],
+      [
+        {
+          "text": "Working conditions influence quality.",
+          "translation": "工作条件影响质量。"
+        },
+        {
+          "text": "Tight deadlines reward speed, while payment per item may discourage careful consultation.",
+          "translation": "紧迫的期限会奖励速度，而按项目付款可能会阻碍仔细的咨询。"
+        },
+        {
+          "text": "Some content-moderation datasets also expose workers to disturbing material.",
+          "translation": "一些内容审核数据集还让工作人员接触到令人不安的材料。"
+        },
+        {
+          "text": "Companies have improved guidance and wellbeing support in certain projects, yet long subcontracting chains can make responsibility difficult to locate.",
+          "translation": "公司在某些项目中改进了指导和福利支持，但较长的分包链可能使责任难以定位。"
+        },
+        {
+          "text": "The organisation deploying a system may know little about the people who produced its training categories.",
+          "translation": "部署系统的组织可能对创建其培训类别的人员知之甚少。"
+        }
+      ],
+      [
+        {
+          "text": "Researchers increasingly measure disagreement instead of forcing every item into one accepted label.",
+          "translation": "研究人员越来越多地衡量分歧，而不是强迫每一项都贴上一个公认的标签。"
+        },
+        {
+          "text": "If several careful reviewers interpret a sentence differently, that variation can be useful evidence about the sentence rather than mere noise to remove.",
+          "translation": "如果几个仔细的审阅者对一个句子有不同的解释，那么这种变化可以成为该句子的有用证据，而不仅仅是需要消除的噪音。"
+        },
+        {
+          "text": "Models designed to express uncertainty may preserve such information, whereas a single-label dataset hides it.",
+          "translation": "旨在表达不确定性的模型可能会保留此类信息，而单标签数据集则隐藏它。"
+        },
+        {
+          "text": "This approach requires more time and complicates performance scores, which helps explain why it is not universal.",
+          "translation": "这种方法需要更多的时间并且使性能分数变得复杂，这有助于解释为什么它不通用。"
+        }
+      ],
+      [
+        {
+          "text": "Data labelling is neither an insignificant preliminary step nor a guarantee of intelligence.",
+          "translation": "数据标记既不是一个无关紧要的预备步骤，也不是情报的保证。"
+        },
+        {
+          "text": "It is a sequence of human judgements, made under particular instructions and economic conditions, that shapes what a system can recognise.",
+          "translation": "这是在特定指令和经济条件下做出的一系列人类判断，决定了系统可以识别的内容。"
+        },
+        {
+          "text": "Evaluating AI responsibly consequently involves looking behind the final interface—not only at code and accuracy figures, but also at whose interpretations became data and whose uncertainty disappeared.",
+          "translation": "因此，负责任地评估人工智能需要关注最终界面的背后——不仅关注代码和准确性数据，还关注其解释变成了数据以及其不确定性消失了。"
+        }
+      ]
     ]
   }
 }

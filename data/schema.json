@@ -3,12 +3,85 @@
   "$id": "https://example.local/ielts-day.schema.json",
   "title": "IELTS 100-Day Topic",
   "type": "object",
-  "required": ["id","topic","topicCN","category","vocabulary","paraphrases","sentences","expressions","mistakes","writingIdeas","speaking","reading"],
+  "required": ["id", "topic", "topicCN", "category", "vocabulary", "paraphrases", "sentences", "expressions", "mistakes", "writingIdeas", "speaking", "reading"],
   "properties": {
-    "id":{"type":"integer","minimum":1,"maximum":100},"topic":{"type":"string"},"topicCN":{"type":"string"},"category":{"type":"string"},
-    "vocabulary":{"type":"array","minItems":20,"maxItems":20,"items":{"type":"object","required":["word","ipa","meaning","collocation","collocationCN"]}},
-    "paraphrases":{"type":"array","minItems":8,"maxItems":8},"sentences":{"type":"array","minItems":3,"maxItems":3},"expressions":{"type":"array","minItems":5,"maxItems":5},"mistakes":{"type":"array","minItems":3,"maxItems":3},
-    "writingIdeas":{"type":"array","minItems":2,"maxItems":2},"speaking":{"type":"array","minItems":2,"maxItems":2},
-    "reading":{"type":"object","required":["title","paragraphs","questions"],"properties":{"paragraphs":{"type":"array","minItems":3,"maxItems":5},"questions":{"type":"array","minItems":3,"maxItems":3}}}
+    "id": { "type": "integer", "minimum": 1, "maximum": 100 },
+    "topic": { "type": "string" },
+    "topicCN": { "type": "string" },
+    "category": { "type": "string" },
+    "vocabulary": {
+      "type": "array", "minItems": 20, "maxItems": 20,
+      "items": { "type": "object", "required": ["word", "ipa", "meaning", "collocation", "collocationCN"] }
+    },
+    "paraphrases": {
+      "type": "array", "minItems": 8, "maxItems": 8,
+      "items": { "type": "object", "properties": { "translation": { "type": "string" } } }
+    },
+    "sentences": {
+      "type": "array", "minItems": 3, "maxItems": 3,
+      "items": { "type": "object", "properties": { "translation": { "type": "string" }, "exampleTranslation": { "type": "string" } } }
+    },
+    "expressions": {
+      "type": "array", "minItems": 5, "maxItems": 5,
+      "items": { "type": "object", "properties": { "translation": { "type": "string" }, "exampleTranslation": { "type": "string" } } }
+    },
+    "mistakes": { "type": "array", "minItems": 3, "maxItems": 3 },
+    "writingIdeas": {
+      "type": "array", "minItems": 2, "maxItems": 2,
+      "items": {
+        "type": "object",
+        "properties": {
+          "viewpointTranslation": { "type": "string" },
+          "topicSentenceTranslation": { "type": "string" },
+          "translation": { "type": "string" },
+          "argumentTranslation": { "type": "string" },
+          "argumentSentences": { "type": "array", "items": { "$ref": "#/$defs/sentencePair" } },
+          "collocationTranslations": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "speaking": {
+      "type": "array", "minItems": 2, "maxItems": 2,
+      "items": {
+        "type": "object",
+        "properties": {
+          "questionTranslation": { "type": "string" },
+          "translation": { "type": "string" },
+          "answerTranslation": { "type": "string" }
+          ,"answerSentences": { "type": "array", "items": { "$ref": "#/$defs/sentencePair" } }
+        }
+      }
+    },
+    "reading": {
+      "type": "object",
+      "required": ["title", "paragraphs", "questions"],
+      "properties": {
+        "titleTranslation": { "type": "string" },
+        "paragraphs": { "type": "array", "minItems": 3, "maxItems": 5 },
+        "paragraphTranslations": { "type": "array", "items": { "type": "string" } },
+        "paragraphSentencePairs": { "type": "array", "items": { "type": "array", "items": { "$ref": "#/$defs/sentencePair" } } },
+        "questions": {
+          "type": "array", "minItems": 3, "maxItems": 3,
+          "items": {
+            "type": "object",
+            "properties": {
+              "promptTranslation": { "type": "string" },
+              "optionsTranslations": { "type": "array", "items": { "type": "string" } },
+              "explanationTranslation": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "sentencePair": {
+      "type": "object",
+      "required": ["text", "translation"],
+      "properties": {
+        "text": { "type": "string" },
+        "translation": { "type": "string" }
+      }
+    }
   }
 }

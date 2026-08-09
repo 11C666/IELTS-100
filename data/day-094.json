@@ -153,7 +153,8 @@
         "an obligation of the state",
         "a function entrusted to government"
       ],
-      "note": "obligation强调必须履行的责任。"
+      "note": "obligation强调必须履行的责任。",
+      "translation": "政府责任，也可表达为国家职责、公共部门义务或政府应承担的责任。"
     },
     {
       "base": "spend public money",
@@ -162,7 +163,8 @@
         "allocate public expenditure",
         "direct state resources"
       ],
-      "note": "allocate适合讨论预算优先次序。"
+      "note": "allocate适合讨论预算优先次序。",
+      "translation": "使用公共资金，也可表达为财政支出、分配纳税人资金或投资公共资源。"
     },
     {
       "base": "be accountable",
@@ -171,7 +173,8 @@
         "be subject to scrutiny",
         "bear institutional responsibility"
       ],
-      "note": "scrutiny强调接受严格审查。"
+      "note": "scrutiny强调接受严格审查。",
+      "translation": "承担问责，也可表达为对决定负责、接受公众监督或说明权力如何使用。"
     },
     {
       "base": "protect citizens",
@@ -180,7 +183,8 @@
         "protect public welfare",
         "reduce citizens’ exposure to harm"
       ],
-      "note": "exposure适合风险语境。"
+      "note": "exposure适合风险语境。",
+      "translation": "保护公民，也可表达为保障公众安全、维护居民权益或防范共同风险。"
     },
     {
       "base": "limited budget",
@@ -189,7 +193,8 @@
         "fiscal constraints",
         "competing claims on revenue"
       ],
-      "note": "competing claims突出预算取舍。"
+      "note": "competing claims突出预算取舍。",
+      "translation": "预算有限，也可表达为财政约束、资源不足或公共资金存在上限。"
     },
     {
       "base": "public services",
@@ -198,7 +203,8 @@
         "collective provision",
         "services financed for public benefit"
       ],
-      "note": "collective provision强调共同供给。"
+      "note": "collective provision强调共同供给。",
+      "translation": "公共服务，也可表达为政府服务、基本公共设施或由国家保障的服务。"
     },
     {
       "base": "consult people",
@@ -207,7 +213,8 @@
         "conduct public consultation",
         "involve affected communities"
       ],
-      "note": "affected communities比泛指people更精确。"
+      "note": "affected communities比泛指people更精确。",
+      "translation": "咨询公众，也可表达为征求居民意见、开展公众参与或让受影响群体参与决策。"
     },
     {
       "base": "keep a promise",
@@ -216,51 +223,60 @@
         "deliver on a pledge",
         "follow through on a public undertaking"
       ],
-      "note": "undertaking是正式承诺。"
+      "note": "undertaking是正式承诺。",
+      "translation": "兑现承诺，也可表达为履行诺言、落实政策承诺或交付已承诺的结果。"
     }
   ],
   "sentences": [
     {
       "pattern": "When + public problem + cannot be solved by individuals alone, government has a responsibility to + action.",
       "cn": "当某项公共问题无法仅靠个人解决时，政府有责任采取某项行动。",
-      "example": "When unsafe water cannot be addressed by households alone, government has a responsibility to enforce common standards."
+      "example": "When unsafe water cannot be addressed by households alone, government has a responsibility to enforce common standards.",
+      "exampleTranslation": "当家庭无法独自解决不安全饮用水问题时，政府有责任执行统一标准。"
     },
     {
       "pattern": "The question is not whether government should + action, but how it can do so without + risk.",
       "cn": "问题不在于政府是否应采取行动，而在于如何行动且不造成某种风险。",
-      "example": "The question is not whether government should support vulnerable families, but how it can do so without creating arbitrary rules."
+      "example": "The question is not whether government should support vulnerable families, but how it can do so without creating arbitrary rules.",
+      "exampleTranslation": "问题不在于政府是否应支持弱势家庭，而在于如何做到这一点而不制定武断规则。"
     },
     {
       "pattern": "By publishing + information, authorities can both + benefit one + and + benefit two.",
       "cn": "通过公开某类信息，政府既能带来一项益处，也能带来另一项益处。",
-      "example": "By publishing contract costs, authorities can both deter waste and help voters judge performance."
+      "example": "By publishing contract costs, authorities can both deter waste and help voters judge performance.",
+      "exampleTranslation": "通过公布合同成本，当局既能遏制浪费，也能帮助选民判断绩效。"
     }
   ],
   "expressions": [
     {
       "text": "hold the government to account",
       "cn": "要求政府负责",
-      "example": "Independent reporting helps citizens hold the government to account."
+      "example": "Independent reporting helps citizens hold the government to account.",
+      "exampleTranslation": "独立报告有助于公民追究政府责任。"
     },
     {
       "text": "pick up the slack",
       "cn": "补上缺口",
-      "example": "Local charities often pick up the slack when services are delayed."
+      "example": "Local charities often pick up the slack when services are delayed.",
+      "exampleTranslation": "服务延迟时，本地慈善机构常常填补缺口。"
     },
     {
       "text": "deliver on a promise",
       "cn": "兑现承诺",
-      "example": "Voters expect ministers to deliver on a promise once funding is approved."
+      "example": "Voters expect ministers to deliver on a promise once funding is approved.",
+      "exampleTranslation": "资金获批后，选民期望部长兑现承诺。"
     },
     {
       "text": "serve the public interest",
       "cn": "服务公共利益",
-      "example": "Regulation should serve the public interest rather than a narrow industry."
+      "example": "Regulation should serve the public interest rather than a narrow industry.",
+      "exampleTranslation": "监管应服务于公共利益，而不是某个少数行业的利益。"
     },
     {
       "text": "strike a balance between",
       "cn": "在……之间取得平衡",
-      "example": "Officials must strike a balance between speed and public scrutiny."
+      "example": "Officials must strike a balance between speed and public scrutiny.",
+      "exampleTranslation": "官员必须在效率与公众监督之间取得平衡。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "pool social risk",
         "maintain minimum standards"
       ],
-      "argument": "Markets can distribute many ordinary goods efficiently, but emergency care and clean water have consequences beyond the buyer. If low-income households are excluded, preventable illness spreads and later public costs rise. A universal baseline therefore protects both individual welfare and the wider community. Private providers may still deliver services, provided that government funds access and enforces quality. The state’s role is to guarantee the outcome rather than operate every facility itself."
+      "argument": "Markets can distribute many ordinary goods efficiently, but emergency care and clean water have consequences beyond the buyer. If low-income households are excluded, preventable illness spreads and later public costs rise. A universal baseline therefore protects both individual welfare and the wider community. Private providers may still deliver services, provided that government funds access and enforces quality. The state’s role is to guarantee the outcome rather than operate every facility itself.",
+      "viewpointTranslation": "核心服务需要公共保障。",
+      "topicSentenceTranslation": "政府应保障基本服务，因为获得这些服务不能安全地只取决于购买力。",
+      "collocationTranslations": [
+        "保障普遍可及",
+        "提供基本公共产品",
+        "共同分担社会风险",
+        "维持最低标准"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Markets can distribute many ordinary goods efficiently, but emergency care and clean water have consequences beyond the buyer.",
+          "translation": "市场可以高效分配许多普通商品，但急救和清洁饮用水产生的后果超出了购买者个人。"
+        },
+        {
+          "text": "If low-income households are excluded, preventable illness spreads and later public costs rise.",
+          "translation": "如果低收入家庭被排除在外，可预防疾病会传播，后续公共成本也会上升。"
+        },
+        {
+          "text": "A universal baseline therefore protects both individual welfare and the wider community.",
+          "translation": "因此，普遍适用的基础保障既保护个人福祉，也保护更广泛的社区。"
+        },
+        {
+          "text": "Private providers may still deliver services, provided that government funds access and enforces quality.",
+          "translation": "私人机构仍可提供服务，前提是政府为获得服务提供资金并执行质量标准。"
+        },
+        {
+          "text": "The state’s role is to guarantee the outcome rather than operate every facility itself.",
+          "translation": "国家的作用是保障结果，而不必亲自运营每一项设施。"
+        }
+      ]
     },
     {
       "viewpoint": "Transparency is a practical form of responsibility.",
@@ -301,19 +347,103 @@
         "identify conflicts of interest",
         "restore civic trust"
       ],
-      "argument": "After a project collapses, an inquiry may explain the loss but cannot recover every wasted opportunity. Publishing bids, costs and performance milestones allows journalists and auditors to identify warning signs earlier. For example, repeated contracts awarded without competition can trigger review before the budget is exhausted. Disclosure must protect legitimate privacy, yet inconvenience is not a sufficient reason for secrecy. Preventive transparency makes responsibility continuous rather than a ritual performed after damage."
+      "argument": "After a project collapses, an inquiry may explain the loss but cannot recover every wasted opportunity. Publishing bids, costs and performance milestones allows journalists and auditors to identify warning signs earlier. For example, repeated contracts awarded without competition can trigger review before the budget is exhausted. Disclosure must protect legitimate privacy, yet inconvenience is not a sufficient reason for secrecy. Preventive transparency makes responsibility continuous rather than a ritual performed after damage.",
+      "viewpointTranslation": "透明度是责任的一种实际形式。",
+      "topicSentenceTranslation": "当公民能够在失败发生前审查决定时，公共机构会更加负责。",
+      "collocationTranslations": [
+        "公布采购数据",
+        "允许独立监督",
+        "识别利益冲突",
+        "恢复公众信任"
+      ],
+      "argumentSentences": [
+        {
+          "text": "After a project collapses, an inquiry may explain the loss but cannot recover every wasted opportunity.",
+          "translation": "项目失败后，调查可能解释损失，却无法挽回每一个被浪费的机会。"
+        },
+        {
+          "text": "Publishing bids, costs and performance milestones allows journalists and auditors to identify warning signs earlier.",
+          "translation": "公布投标、成本和绩效里程碑，让记者和审计人员能够更早发现警示信号。"
+        },
+        {
+          "text": "For example, repeated contracts awarded without competition can trigger review before the budget is exhausted.",
+          "translation": "例如，在没有竞争的情况下反复授予合同，可以在预算耗尽前触发审查。"
+        },
+        {
+          "text": "Disclosure must protect legitimate privacy, yet inconvenience is not a sufficient reason for secrecy.",
+          "translation": "信息披露必须保护正当隐私，但不方便并不足以成为保密理由。"
+        },
+        {
+          "text": "Preventive transparency makes responsibility continuous rather than a ritual performed after damage.",
+          "translation": "预防性透明让责任成为持续过程，而不是损害发生后的仪式。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a public service that you think is well run.",
-      "answer": "The public library near my home is a service I genuinely value. It lends books, provides quiet desks and helps older residents use online government forms. What impresses me is its reliability: opening times are clear, reservations arrive when promised, and staff explain rules without making visitors feel awkward. The building is modest, but the service responds to real routines, including evening study and weekend family activities. I think it is well run because public money is visible in practical details rather than expensive decoration. It also asks users for suggestions and reports which changes it can afford, so expectations remain realistic."
+      "answer": "The public library near my home is a service I genuinely value. It lends books, provides quiet desks and helps older residents use online government forms. What impresses me is its reliability: opening times are clear, reservations arrive when promised, and staff explain rules without making visitors feel awkward. The building is modest, but the service responds to real routines, including evening study and weekend family activities. I think it is well run because public money is visible in practical details rather than expensive decoration. It also asks users for suggestions and reports which changes it can afford, so expectations remain realistic.",
+      "questionTranslation": "请描述一项你认为运营良好的公共服务。",
+      "answerSentences": [
+        {
+          "text": "The public library near my home is a service I genuinely value.",
+          "translation": "我家附近的公共图书馆是一项我真正看重的服务。"
+        },
+        {
+          "text": "It lends books, provides quiet desks and helps older residents use online government forms.",
+          "translation": "它外借图书、提供安静书桌，并帮助年长居民使用线上政府表格。"
+        },
+        {
+          "text": "What impresses me is its reliability: opening times are clear, reservations arrive when promised, and staff explain rules without making visitors feel awkward.",
+          "translation": "让我印象深刻的是其可靠性：开放时间清楚，预约资料按承诺到达，工作人员解释规则时不会让访客感到尴尬。"
+        },
+        {
+          "text": "The building is modest, but the service responds to real routines, including evening study and weekend family activities.",
+          "translation": "建筑本身很朴素，但服务会回应真实的生活安排，包括晚间学习和周末家庭活动。"
+        },
+        {
+          "text": "I think it is well run because public money is visible in practical details rather than expensive decoration.",
+          "translation": "我认为它运营良好，因为公共资金体现在实用细节上，而不是昂贵装饰上。"
+        },
+        {
+          "text": "It also asks users for suggestions and reports which changes it can afford, so expectations remain realistic.",
+          "translation": "它还征求用户建议，并报告哪些变化负担得起，因此人们的预期能保持现实。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Should governments be responsible for every social problem?",
-      "answer": "No, because responsibility should follow both capacity and cause. Governments are best placed to set common rules, fund essential services and respond when individual action cannot manage a collective risk. They cannot, however, replace families, communities or professional judgement in every decision. Excessive intervention can make services rigid and weaken local initiative. I would judge each problem by asking whether it crosses household boundaries, whether unequal resources block a fair solution, and whether public action is likely to improve the outcome. That gives government a substantial but not unlimited role."
+      "answer": "No, because responsibility should follow both capacity and cause. Governments are best placed to set common rules, fund essential services and respond when individual action cannot manage a collective risk. They cannot, however, replace families, communities or professional judgement in every decision. Excessive intervention can make services rigid and weaken local initiative. I would judge each problem by asking whether it crosses household boundaries, whether unequal resources block a fair solution, and whether public action is likely to improve the outcome. That gives government a substantial but not unlimited role.",
+      "questionTranslation": "政府是否应对每一个社会问题负责？",
+      "answerSentences": [
+        {
+          "text": "No, because responsibility should follow both capacity and cause.",
+          "translation": "不应该，因为责任应与能力和原因相匹配。"
+        },
+        {
+          "text": "Governments are best placed to set common rules, fund essential services and respond when individual action cannot manage a collective risk.",
+          "translation": "政府最适合制定共同规则、资助基本服务，并在个人行动无法管理共同风险时作出回应。"
+        },
+        {
+          "text": "They cannot, however, replace families, communities or professional judgement in every decision.",
+          "translation": "然而，它们不能在每项决定中取代家庭、社区或专业判断。"
+        },
+        {
+          "text": "Excessive intervention can make services rigid and weaken local initiative.",
+          "translation": "过度干预会使服务僵化并削弱本地主动性。"
+        },
+        {
+          "text": "I would judge each problem by asking whether it crosses household boundaries, whether unequal resources block a fair solution, and whether public action is likely to improve the outcome.",
+          "translation": "我会通过询问问题是否跨越家庭边界、资源不平等是否妨碍公平解决，以及公共行动是否可能改善结果来判断每个问题。"
+        },
+        {
+          "text": "That gives government a substantial but not unlimited role.",
+          "translation": "这使政府承担重要但并非无限的角色。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +480,103 @@
         "answer": "risks",
         "explanation": "Paragraph 4 lists unresolved risks."
       }
+    ],
+    "titleTranslation": "谁应为失败的公共项目负责？",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A new civic hall opened eighteen months late, cost almost twice its approved budget and developed a leaking roof before its first winter.",
+          "translation": "一座新市政大厅晚了十八个月才开放，成本几乎是批准预算的两倍，而且第一个冬天到来前屋顶就开始漏水。"
+        },
+        {
+          "text": "Public anger focused on the minister who had announced it.",
+          "translation": "公众的愤怒集中在宣布该项目的部长身上。"
+        },
+        {
+          "text": "Yet the decisions behind the failure were dispersed among civil servants, design consultants, a construction partnership and a council committee that had repeatedly changed the brief.",
+          "translation": "然而，导致失败的决定分散在公务员、设计顾问、建筑合作方以及反复修改任务要求的市政委员会之间。"
+        },
+        {
+          "text": "The project raised a familiar democratic problem: responsibility is easy to demand but difficult to locate.",
+          "translation": "该项目提出了一个常见的民主问题：责任很容易要求，却很难定位。"
+        }
+      ],
+      [
+        {
+          "text": "Investigators reconstructed the sequence rather than searching immediately for one guilty actor.",
+          "translation": "调查人员重建了事件顺序，而没有立即寻找一个有罪者。"
+        },
+        {
+          "text": "Early cost estimates had excluded ground repairs because surveys were incomplete.",
+          "translation": "早期成本估算因勘测不完整而没有包括地基修复。"
+        },
+        {
+          "text": "The contractor, selected partly for a low headline price, later charged for changes that the original contract did not cover.",
+          "translation": "承包商部分因报价低而入选，后来却对原合同未涵盖的变更另外收费。"
+        },
+        {
+          "text": "Meanwhile, officials who saw the growing risk reported it upward, but each report treated delay, cost and design as separate issues.",
+          "translation": "与此同时，看到风险增加的官员向上汇报，但每份报告都把延误、成本和设计当作独立问题。"
+        },
+        {
+          "text": "No single warning captured their combined effect.",
+          "translation": "没有一项警告反映它们共同产生的影响。"
+        }
+      ],
+      [
+        {
+          "text": "Some commentators argued that shared responsibility meant nobody was accountable.",
+          "translation": "一些评论者认为，共同责任意味着无人负责。"
+        },
+        {
+          "text": "The inquiry reached a different conclusion.",
+          "translation": "调查得出了不同结论。"
+        },
+        {
+          "text": "It distinguished operational errors, which belonged to professionals with relevant expertise, from political responsibility for the system within which those errors accumulated.",
+          "translation": "它把相关专业人员承担的操作错误，与让这些错误不断累积的制度所对应的政治责任区分开来。"
+        },
+        {
+          "text": "The minister had not chosen roof materials, but her department had approved a reporting process that concealed the total risk and had continued to describe the project as on schedule after internal forecasts changed.",
+          "translation": "部长没有选择屋顶材料，但她的部门批准了一套掩盖总体风险的汇报流程，而且在内部预测改变后仍继续声称项目按计划推进。"
+        }
+      ],
+      [
+        {
+          "text": "The inquiry recommended a public dashboard showing cost ranges, unresolved risks and alterations to scope.",
+          "translation": "调查建议建立公共信息面板，展示成本区间、未解决风险和范围变更。"
+        },
+        {
+          "text": "More controversially, it required one named senior official to integrate information across contracts.",
+          "translation": "更具争议的是，它要求指定一名高级官员整合各份合同的信息。"
+        },
+        {
+          "text": "Critics feared that this would encourage blame avoidance.",
+          "translation": "批评者担心这会鼓励逃避责任。"
+        },
+        {
+          "text": "Supporters replied that the official need not personally cause every problem; the role was to ensure that fragmented evidence produced a decision.",
+          "translation": "支持者回应说，该官员不必亲自造成每个问题；这一职责是确保碎片化证据能够形成决定。"
+        }
+      ],
+      [
+        {
+          "text": "Accountability, the report concluded, is not the claim that one person performed all the work.",
+          "translation": "报告总结说，问责并不意味着声称一个人完成了全部工作。"
+        },
+        {
+          "text": "It is an agreed chain through which explanations, corrections and consequences can travel.",
+          "translation": "它是一条经约定的链条，解释、纠正和后果可以沿着这条链传递。"
+        },
+        {
+          "text": "The hall could not be made cheaper retrospectively.",
+          "translation": "这座大厅无法在事后降低成本。"
+        },
+        {
+          "text": "Its failure nevertheless showed why public responsibility must be designed before a project begins, not improvised when citizens ask who allowed it to go wrong.",
+          "translation": "但它的失败说明，公共责任必须在项目开始前设计好，而不能等公民追问是谁放任问题发生时才临时安排。"
+        }
+      ]
     ]
   }
 }

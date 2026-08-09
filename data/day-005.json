@@ -153,7 +153,8 @@
         "companion",
         "acquaintance"
       ],
-      "note": "acquaintance 只是认识的人，关系通常不亲密。"
+      "note": "acquaintance 只是认识的人，关系通常不亲密。",
+      "translation": "friend 可以根据关系亲疏表达为“好友”“伙伴”或“熟人”。"
     },
     {
       "base": "trust someone",
@@ -162,7 +163,8 @@
         "have confidence in someone",
         "count on someone"
       ],
-      "note": "count on 较口语，强调可以依靠。"
+      "note": "count on 较口语，强调可以依靠。",
+      "translation": "信任某人可以表达为依赖某人、对某人有信心、依靠某人。"
     },
     {
       "base": "meet friends",
@@ -171,7 +173,8 @@
         "get together",
         "catch up"
       ],
-      "note": "catch up 强调一段时间未见后聊天了解近况。"
+      "note": "catch up 强调一段时间未见后聊天了解近况。",
+      "translation": "meet friends 可以表达为“与朋友交往”“聚一聚”或“见面聊近况”。"
     },
     {
       "base": "same interests",
@@ -180,7 +183,8 @@
         "common ground",
         "have a lot in common"
       ],
-      "note": "common ground 也可指共同立场。"
+      "note": "common ground 也可指共同立场。",
+      "translation": "相同的利益可以表现为共同的利益、共同点、有很多共同点。"
     },
     {
       "base": "support a friend",
@@ -189,7 +193,8 @@
         "offer reassurance",
         "lend emotional support"
       ],
-      "note": "lend support 是较正式搭配。"
+      "note": "lend support 是较正式搭配。",
+      "translation": "支持朋友可以表达为陪伴朋友、提供安慰、提供情感支持。"
     },
     {
       "base": "stop being friends",
@@ -198,7 +203,8 @@
         "drift apart",
         "end a friendship"
       ],
-      "note": "drift apart 通常是自然疏远，不一定发生争吵。"
+      "note": "drift apart 通常是自然疏远，不一定发生争吵。",
+      "translation": "停止做朋友可以表达为闹翻、渐行渐远、结束友谊。"
     },
     {
       "base": "make friends",
@@ -207,7 +213,8 @@
         "build social connections",
         "strike up a friendship"
       ],
-      "note": "strike up 强调开始建立关系。"
+      "note": "strike up 强调开始建立关系。",
+      "translation": "交朋友可以表达为建立友谊、建立社会联系、建立友谊。"
     },
     {
       "base": "good friendship",
@@ -216,51 +223,60 @@
         "lasting friendship",
         "supportive friendship"
       ],
-      "note": "lasting 强调持续时间长。"
+      "note": "lasting 强调持续时间长。",
+      "translation": "良好的友谊可以表现为亲密的友谊、持久的友谊、支持的友谊。"
     }
   ],
   "sentences": [
     {
       "pattern": "A friendship is more likely to last when + both people + make an effort to stay in touch.",
       "cn": "当双方都努力保持联系时，友谊更可能长久。",
-      "example": "A friendship is more likely to last when both people make an effort to stay in touch."
+      "example": "A friendship is more likely to last when both people make an effort to stay in touch.",
+      "exampleTranslation": "当双方都努力保持联系时，友谊更有可能持久。"
     },
     {
       "pattern": "What I value most in a friend is + quality or behaviour.",
       "cn": "我最看重朋友的……",
-      "example": "What I value most in a friend is the ability to listen without judging."
+      "example": "What I value most in a friend is the ability to listen without judging.",
+      "exampleTranslation": "我最看重朋友的是能够倾听而不评判的能力。"
     },
     {
       "pattern": "Having common interests may help people connect, but + clause.",
       "cn": "共同兴趣可能帮助人们建立联系，但是……",
-      "example": "Having common interests may help people connect, but trust is what keeps the friendship strong."
+      "example": "Having common interests may help people connect, but trust is what keeps the friendship strong.",
+      "exampleTranslation": "拥有共同的兴趣可能有助于人们建立联系，但信任才能使友谊保持牢固。"
     }
   ],
   "expressions": [
     {
       "text": "keep in touch",
       "cn": "保持联系",
-      "example": "We keep in touch through voice messages because we live in different cities."
+      "example": "We keep in touch through voice messages because we live in different cities.",
+      "exampleTranslation": "因为我们住在不同的城市，所以我们通过语音消息保持联系。"
     },
     {
       "text": "get along well",
       "cn": "相处融洽",
-      "example": "My best friend and I get along well despite having different tastes."
+      "example": "My best friend and I get along well despite having different tastes.",
+      "exampleTranslation": "尽管品味不同，我和我最好的朋友相处得很好。"
     },
     {
       "text": "have a lot in common",
       "cn": "有许多共同点",
-      "example": "We became friends because we had a lot in common at university."
+      "example": "We became friends because we had a lot in common at university.",
+      "exampleTranslation": "我们成为朋友是因为我们在大学时有很多共同点。"
     },
     {
       "text": "drift apart",
       "cn": "逐渐疏远",
-      "example": "We drifted apart after starting work, but there was no argument."
+      "example": "We drifted apart after starting work, but there was no argument.",
+      "exampleTranslation": "上班后我们就疏远了，但没有吵架。"
     },
     {
       "text": "pick up where we left off",
       "cn": "许久未见后仍能自然继续相处",
-      "example": "Even after a year apart, we can pick up where we left off."
+      "example": "Even after a year apart, we can pick up where we left off.",
+      "exampleTranslation": "即使分别一年，我们再次见面时仍能自然地接着以前的话题聊下去。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "offer honest advice",
         "provide companionship"
       ],
-      "argument": "Close friendships require time, repeated contact and a willingness to be honest. Because trust develops gradually, a small number of friends may understand someone better than dozens of casual contacts. They can notice changes in behaviour and offer advice based on long experience. This depth is especially valuable during illness, failure or loneliness. A broad network is useful, but it does not automatically provide the security of a trusted friendship."
+      "argument": "Close friendships require time, repeated contact and a willingness to be honest. Because trust develops gradually, a small number of friends may understand someone better than dozens of casual contacts. They can notice changes in behaviour and offer advice based on long experience. This depth is especially valuable during illness, failure or loneliness. A broad network is useful, but it does not automatically provide the security of a trusted friendship.",
+      "viewpointTranslation": "几个亲密的朋友可能比一个大的社交圈更有价值。",
+      "topicSentenceTranslation": "友谊的质量往往比认识的人的数量更重要。",
+      "collocationTranslations": [
+        "发展相互信任",
+        "分享个人担忧",
+        "提供诚实的建议",
+        "提供陪伴"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Close friendships require time, repeated contact and a willingness to be honest.",
+          "translation": "亲密的友谊需要时间、反复接触和诚实的意愿。"
+        },
+        {
+          "text": "Because trust develops gradually, a small number of friends may understand someone better than dozens of casual contacts.",
+          "translation": "信任需要逐渐建立，因此少数好友可能比几十个泛泛之交更了解一个人。"
+        },
+        {
+          "text": "They can notice changes in behaviour and offer advice based on long experience.",
+          "translation": "他们可以注意到行为的变化，并根据长期经验提供建议。"
+        },
+        {
+          "text": "This depth is especially valuable during illness, failure or loneliness.",
+          "translation": "这种深厚的关系在生病、失败或孤独时尤其珍贵。"
+        },
+        {
+          "text": "A broad network is useful, but it does not automatically provide the security of a trusted friendship.",
+          "translation": "广泛的人际网络固然有用，却不会自然带来一段可信赖友谊所提供的安全感。"
+        }
+      ]
     },
     {
       "viewpoint": "Schools can help children develop friendship skills.",
@@ -301,19 +347,87 @@
         "include isolated pupils",
         "develop empathy"
       ],
-      "argument": "Children do not always know how to join a group, handle rejection or repair a disagreement. Teachers can model respectful language and create activities that require cooperation with different classmates. This is not the same as choosing friends for children; it gives them tools for forming healthier relationships. It may also help isolated pupils participate without being singled out. Basic friendship skills can therefore improve both well-being and the classroom environment."
+      "argument": "Children do not always know how to join a group, handle rejection or repair a disagreement. Teachers can model respectful language and create activities that require cooperation with different classmates. This is not the same as choosing friends for children; it gives them tools for forming healthier relationships. It may also help isolated pupils participate without being singled out. Basic friendship skills can therefore improve both well-being and the classroom environment.",
+      "viewpointTranslation": "学校可以帮助孩子培养友谊技能。",
+      "topicSentenceTranslation": "社交技能应被视为儿童发展的一部分，而不是完全靠运气。",
+      "collocationTranslations": [
+        "解决分歧",
+        "尊重地沟通",
+        "包括孤立的学生",
+        "培养同理心"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Children do not always know how to join a group, handle rejection or repair a disagreement.",
+          "translation": "孩子们并不总是知道如何加入一个团体、如何处理拒绝或修复分歧。"
+        },
+        {
+          "text": "Teachers can model respectful language and create activities that require cooperation with different classmates.",
+          "translation": "教师可以示范如何使用尊重他人的语言，并设计需要孩子与不同同学合作的活动。"
+        },
+        {
+          "text": "This is not the same as choosing friends for children; it gives them tools for forming healthier relationships.",
+          "translation": "这和给孩子选择朋友不一样；它为他们提供了建立更健康关系的工具。"
+        },
+        {
+          "text": "It may also help isolated pupils participate without being singled out.",
+          "translation": "这也能帮助被孤立的学生参与其中，又不会让他们被特别点出来。"
+        },
+        {
+          "text": "Basic friendship skills can therefore improve both well-being and the classroom environment.",
+          "translation": "因此，基本的友谊技能可以改善幸福感和课堂环境。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you prefer having a few close friends or a large group of friends?",
-      "answer": "I prefer a few close friends. I enjoy meeting new people, but I don’t have the time or energy to maintain dozens of close relationships. With my closest friends, I can talk openly and I don’t need to explain every bit of background. A larger group is fun for an event, whereas a small circle is better when I actually need support."
+      "answer": "I prefer a few close friends. I enjoy meeting new people, but I don’t have the time or energy to maintain dozens of close relationships. With my closest friends, I can talk openly and I don’t need to explain every bit of background. A larger group is fun for an event, whereas a small circle is better when I actually need support.",
+      "questionTranslation": "你喜欢有几个亲密的朋友还是一大群朋友？",
+      "answerSentences": [
+        {
+          "text": "I prefer a few close friends.",
+          "translation": "我更喜欢有几个亲密的朋友。"
+        },
+        {
+          "text": "I enjoy meeting new people, but I don’t have the time or energy to maintain dozens of close relationships.",
+          "translation": "我喜欢结识新朋友，但我没有时间或精力去维持几十个亲密的关系。"
+        },
+        {
+          "text": "With my closest friends, I can talk openly and I don’t need to explain every bit of background.",
+          "translation": "和我最亲密的朋友在一起时，我可以开诚布公地交谈，不需要解释每一个背景。"
+        },
+        {
+          "text": "A larger group is fun for an event, whereas a small circle is better when I actually need support.",
+          "translation": "对于活动来说，较大的团体会很有趣，而当我真正需要支持时，小圈子会更好。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "What do you usually do when you meet your friends?",
-      "answer": "Most of the time, we choose somewhere quiet to eat and catch up. We used to go to the cinema quite often, but then we realised we spent the whole evening without speaking. Now we might take a walk after dinner or play a simple board game. The activity isn’t especially important; it just gives us time to talk."
+      "answer": "Most of the time, we choose somewhere quiet to eat and catch up. We used to go to the cinema quite often, but then we realised we spent the whole evening without speaking. Now we might take a walk after dinner or play a simple board game. The activity isn’t especially important; it just gives us time to talk.",
+      "questionTranslation": "当你和朋友见面时，你通常会做什么？",
+      "answerSentences": [
+        {
+          "text": "Most of the time, we choose somewhere quiet to eat and catch up.",
+          "translation": "大多数时候，我们都会选择一个安静的地方吃饭、聊天。"
+        },
+        {
+          "text": "We used to go to the cinema quite often, but then we realised we spent the whole evening without speaking.",
+          "translation": "我们以前经常去看电影，但后来我们发现我们整个晚上都没有说话。"
+        },
+        {
+          "text": "Now we might take a walk after dinner or play a simple board game.",
+          "translation": "现在我们可能会在晚饭后散步或者玩一个简单的棋盘游戏。"
+        },
+        {
+          "text": "The activity isn’t especially important; it just gives us time to talk.",
+          "translation": "这项活动并不是特别重要；它只是让我们有时间交谈。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,111 @@
         "answer": "C",
         "explanation": "Paragraph 3 describes photographs and short recordings used without pressure."
       }
+    ],
+    "titleTranslation": "为什么有些友谊能够跨越距离",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Moving away once placed a severe limit on friendship.",
+          "translation": "搬家曾经严重限制了友谊。"
+        },
+        {
+          "text": "Letters were slow, international calls were expensive, and people who left a town could disappear from everyday life.",
+          "translation": "信件速度很慢，国际电话很昂贵，离开城镇的人可能会从日常生活中消失。"
+        },
+        {
+          "text": "Digital communication has removed much of that practical difficulty.",
+          "translation": "数字通信消除了大部分实际困难。"
+        },
+        {
+          "text": "A message can cross continents instantly, yet many long-distance friendships still fade.",
+          "translation": "一条信息可以瞬间跨越大洲，但许多远距离的友谊仍然会消失。"
+        },
+        {
+          "text": "The availability of contact, it seems, is different from the motivation to maintain it.",
+          "translation": "看来，联系是否方便与人们是否愿意维系友谊并不是一回事。"
+        }
+      ],
+      [
+        {
+          "text": "Friendship is supported by what social researchers sometimes call repeated low-cost interaction.",
+          "translation": "友谊依赖于社会研究者有时所说的“反复发生、成本较低的互动”。"
+        },
+        {
+          "text": "Classmates and colleagues see one another without arranging every meeting.",
+          "translation": "同学、同事之间的见面，并不是每次都安排的。"
+        },
+        {
+          "text": "They exchange small pieces of information, share minor frustrations and gradually build a detailed picture of each other’s lives.",
+          "translation": "他们交换一些小信息，分享一些小挫折，并逐渐详细了解彼此的生活。"
+        },
+        {
+          "text": "After one person moves, this background contact vanishes.",
+          "translation": "其中一人搬走后，这种日常的背景接触便消失了。"
+        },
+        {
+          "text": "Scheduled video calls may be longer, but they cannot always reproduce the ordinary moments that once kept both friends familiar with changing routines.",
+          "translation": "预先安排的视频通话可能持续更久，却未必能重现那些曾让双方熟悉彼此日常变化的普通时刻。"
+        }
+      ],
+      [
+        {
+          "text": "Some pairs adapt by lowering the pressure surrounding communication.",
+          "translation": "有些朋友会通过降低沟通所带来的压力来适应距离。"
+        },
+        {
+          "text": "Instead of expecting an hour-long conversation, they send photographs, short recordings or links that reflect a shared interest.",
+          "translation": "他们不会期待长达一个小时的对话，而是发送反映共同兴趣的照片、简短录音或链接。"
+        },
+        {
+          "text": "These small signals say that the other person remains part of daily thought.",
+          "translation": "这些小小的信号表明，对方仍然存在于自己的日常牵挂之中。"
+        },
+        {
+          "text": "Importantly, successful friends do not treat every delayed reply as rejection.",
+          "translation": "重要的是，能够维持友谊的人不会把每一次迟回复都看成拒绝。"
+        },
+        {
+          "text": "Workload, time differences and family duties can interrupt communication without weakening affection.",
+          "translation": "工作量、时差和家庭责任可能会中断沟通，但不会削弱感情。"
+        }
+      ],
+      [
+        {
+          "text": "Distance can even reveal which friendships are based on convenience and which have a stronger foundation.",
+          "translation": "距离甚至可以揭示哪些友谊是建立在方便的基础上的，哪些友谊的基础更牢固。"
+        },
+        {
+          "text": "Friends who share trust and a history of mutual support may resume a conversation after months with little discomfort.",
+          "translation": "具有相互信任和相互支持历史的朋友可能会在几个月后恢复对话，而不会感到任何不适。"
+        },
+        {
+          "text": "Others discover that a common workplace or neighbourhood was doing most of the work.",
+          "translation": "另一些人则发现，过去主要是共同的工作场所或居住社区在维系这段关系。"
+        },
+        {
+          "text": "Neither outcome makes the earlier friendship false.",
+          "translation": "这两种结果都不会使早期的友谊变得虚假。"
+        },
+        {
+          "text": "Relationships serve different purposes at different stages, and maintaining every connection indefinitely may be neither possible nor desirable.",
+          "translation": "关系在不同的阶段服务于不同的目的，无限期地维持每一种关系可能既不可能也不可取。"
+        }
+      ],
+      [
+        {
+          "text": "Long-distance friendships also need some expectation of a future meeting, even if the date remains uncertain.",
+          "translation": "异地友谊还需要对未来见面有所期待，即使具体日期尚未确定。"
+        },
+        {
+          "text": "Digital contact maintains awareness, but shared physical experiences supply new memories and prevent the relationship from depending entirely on the past.",
+          "translation": "线上联系能让双方了解彼此近况，而共同的线下经历则会创造新的回忆，避免友谊完全依赖过去。"
+        },
+        {
+          "text": "When meetings are rare, ordinary activities such as cooking together may be more restorative than an ambitious programme of sightseeing.",
+          "translation": "当会议很少时，一起做饭等普通活动可能比雄心勃勃的观光计划更能恢复精力。"
+        }
+      ]
     ]
   }
 }

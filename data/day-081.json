@@ -153,7 +153,8 @@
         "build up savings",
         "set aside part of one’s income"
       ],
-      "note": "set aside适合描述有计划的定期储蓄。"
+      "note": "set aside适合描述有计划的定期储蓄。",
+      "translation": "存钱"
     },
     {
       "base": "unexpected cost",
@@ -162,7 +163,8 @@
         "unforeseen financial demand",
         "a bill that was not budgeted for"
       ],
-      "note": "unforeseen较正式，适合Task 2。"
+      "note": "unforeseen较正式，适合Task 2。",
+      "translation": "意外开支"
     },
     {
       "base": "spend less",
@@ -171,7 +173,8 @@
         "reduce discretionary spending",
         "exercise greater control over outgoings"
       ],
-      "note": "discretionary指非必需支出。"
+      "note": "discretionary指非必需支出。",
+      "translation": "减少支出"
     },
     {
       "base": "feel financially safe",
@@ -180,7 +183,8 @@
         "enjoy greater financial security",
         "be better protected against income shocks"
       ],
-      "note": "income shock常指失业或收入骤降。"
+      "note": "income shock常指失业或收入骤降。",
+      "translation": "感到财务安全"
     },
     {
       "base": "low income",
@@ -189,7 +193,8 @@
         "a modest income",
         "restricted financial resources"
       ],
-      "note": "modest比poor更中性。"
+      "note": "modest比poor更中性。",
+      "translation": "低收入"
     },
     {
       "base": "saving regularly",
@@ -198,7 +203,8 @@
         "making routine contributions",
         "setting aside money on a regular basis"
       ],
-      "note": "contribution可指存入账户的金额。"
+      "note": "contribution可指存入账户的金额。",
+      "translation": "定期储蓄"
     },
     {
       "base": "price increases",
@@ -207,7 +213,8 @@
         "inflationary pressure",
         "an increase in the cost of living"
       ],
-      "note": "cost of living侧重日常生活负担。"
+      "note": "cost of living侧重日常生活负担。",
+      "translation": "物价上涨"
     },
     {
       "base": "use savings",
@@ -216,51 +223,60 @@
         "dip into accumulated funds",
         "finance a cost from existing reserves"
       ],
-      "note": "draw on比spend更强调调用已有储备。"
+      "note": "draw on比spend更强调调用已有储备。",
+      "translation": "动用储蓄"
     }
   ],
   "sentences": [
     {
       "pattern": "Even if + saving amount + seems small, it can + long-term benefit + when + regular condition.",
       "cn": "即使储蓄金额看似不多，只要满足持续条件，也能带来长期益处。",
-      "example": "Even if a weekly contribution seems small, it can create a useful emergency fund when maintained for several years."
+      "example": "Even if a weekly contribution seems small, it can create a useful emergency fund when maintained for several years.",
+      "exampleTranslation": "即使每周存入的金额看起来很少，只要坚持数年，也能形成一笔有用的应急储备。"
     },
     {
       "pattern": "The less + person + spends on + non-essential item, the more + person + can save for + priority.",
       "cn": "某人在非必需项目上花得越少，就越能为重要目标储蓄。",
-      "example": "The less a household spends on unused subscriptions, the more it can save for unexpected repairs."
+      "example": "The less a household spends on unused subscriptions, the more it can save for unexpected repairs.",
+      "exampleTranslation": "家庭在不用的订阅服务上花得越少，就越能为意外维修存钱。"
     },
     {
       "pattern": "Setting aside + amount + before + spending event + makes it less likely that + negative outcome.",
       "cn": "在消费发生前先留出一笔钱，可以降低某种负面结果出现的可能性。",
-      "example": "Setting aside ten per cent of each salary before paying for leisure makes it less likely that saving will be postponed."
+      "example": "Setting aside ten per cent of each salary before paying for leisure makes it less likely that saving will be postponed.",
+      "exampleTranslation": "每次发薪后先留出百分之十，再支付休闲开支，可以减少一再推迟储蓄的可能。"
     }
   ],
   "expressions": [
     {
       "text": "have something to fall back on",
       "cn": "有可依靠的经济储备",
-      "example": "An emergency fund gives me something to fall back on."
+      "example": "An emergency fund gives me something to fall back on.",
+      "exampleTranslation": "应急储备让我在困难时有所依靠。"
     },
     {
       "text": "watch where the money goes",
       "cn": "留意钱花到了哪里",
-      "example": "I started watching where the money goes after moving out."
+      "example": "I started watching where the money goes after moving out.",
+      "exampleTranslation": "搬出去独立生活后，我开始留意钱都花到哪里去了。"
     },
     {
       "text": "live within your means",
       "cn": "量入为出",
-      "example": "Living within your means is easier with a clear budget."
+      "example": "Living within your means is easier with a clear budget.",
+      "exampleTranslation": "有清晰预算时，量入为出会更容易。"
     },
     {
       "text": "build long-term financial resilience",
       "cn": "建立长期财务韧性",
-      "example": "Regular saving can build long-term financial resilience."
+      "example": "Regular saving can build long-term financial resilience.",
+      "exampleTranslation": "定期储蓄可以增强长期财务韧性。"
     },
     {
       "text": "absorb an unexpected expense",
       "cn": "承受一笔意外开支",
-      "example": "A cash reserve helps a family absorb an unexpected expense."
+      "example": "A cash reserve helps a family absorb an unexpected expense.",
+      "exampleTranslation": "现金储备能帮助家庭承受意外开支。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "avoid impulsive spending",
         "accumulate a cash reserve"
       ],
-      "argument": "Many people plan to save whatever remains at the end of the month, but discretionary purchases usually consume that balance. An automatic transfer reverses the order by treating saving as a regular commitment. Even a small amount can accumulate without requiring a fresh decision each payday. Someone whose income later rises can increase the contribution while preserving the habit. Consistency, rather than an impressive starting figure, therefore provides the stronger foundation."
+      "argument": "Many people plan to save whatever remains at the end of the month, but discretionary purchases usually consume that balance. An automatic transfer reverses the order by treating saving as a regular commitment. Even a small amount can accumulate without requiring a fresh decision each payday. Someone whose income later rises can increase the contribution while preserving the habit. Consistency, rather than an impressive starting figure, therefore provides the stronger foundation.",
+      "viewpointTranslation": "小额自动存款比雄心勃勃的打算更有效。",
+      "topicSentenceTranslation": "适度的储蓄习惯往往比不切实际的每月目标效果更好。",
+      "collocationTranslations": [
+        "设置每月自动转账",
+        "形成可持续习惯",
+        "避免冲动消费",
+        "积累现金储备"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Many people plan to save whatever remains at the end of the month, but discretionary purchases usually consume that balance.",
+          "translation": "许多人计划把月底剩下的钱存起来，但可自由支配的消费通常会花掉这笔余额。"
+        },
+        {
+          "text": "An automatic transfer reverses the order by treating saving as a regular commitment.",
+          "translation": "自动转账颠倒了这一顺序，把储蓄当作一项固定承诺。"
+        },
+        {
+          "text": "Even a small amount can accumulate without requiring a fresh decision each payday.",
+          "translation": "即使金额很小，也能在每个发薪日无需重新作决定的情况下逐渐积累。"
+        },
+        {
+          "text": "Someone whose income later rises can increase the contribution while preserving the habit.",
+          "translation": "日后收入增加时，人们可以提高存款金额，同时保留原有习惯。"
+        },
+        {
+          "text": "Consistency, rather than an impressive starting figure, therefore provides the stronger foundation.",
+          "translation": "因此，稳定坚持比一个令人印象深刻的起始数字更能打下坚实基础。"
+        }
+      ],
+      "translation": "许多人计划把月底剩下的钱存起来，但可自由支配的消费通常会花掉这笔余额。自动转账颠倒了这一顺序，把储蓄当作一项固定承诺。即使金额很小，也能在每个发薪日无需重新作决定的情况下逐渐积累。日后收入增加时，人们可以提高存款金额，同时保留原有习惯。因此，稳定坚持比一个令人印象深刻的起始数字更能打下坚实基础。"
     },
     {
       "viewpoint": "Public policy should make emergency saving easier for low-paid workers.",
@@ -301,19 +348,98 @@
         "reduce financial vulnerability",
         "target low-income households"
       ],
-      "argument": "Workers on modest wages often face the greatest risk from an unexpected bill, yet have the least capacity to create a reserve. A matched-savings programme could add a public contribution when participants make small regular deposits. Unlike a general tax advantage, which mainly benefits those already able to save, the support would reach households with little disposable income. Access rules must ensure that a small fund does not remove eligibility for essential benefits. Properly targeted assistance can turn sound financial advice into a realistic option."
+      "argument": "Workers on modest wages often face the greatest risk from an unexpected bill, yet have the least capacity to create a reserve. A matched-savings programme could add a public contribution when participants make small regular deposits. Unlike a general tax advantage, which mainly benefits those already able to save, the support would reach households with little disposable income. Access rules must ensure that a small fund does not remove eligibility for essential benefits. Properly targeted assistance can turn sound financial advice into a realistic option.",
+      "viewpointTranslation": "公共政策应让低收入劳动者更容易建立应急储蓄。",
+      "topicSentenceTranslation": "当必要开支几乎耗尽劳动者全部收入时，劝人储蓄的作用十分有限。",
+      "collocationTranslations": [
+        "为小额存款提供配比补助",
+        "保障福利领取资格",
+        "降低财务脆弱性",
+        "面向低收入家庭"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Workers on modest wages often face the greatest risk from an unexpected bill, yet have the least capacity to create a reserve.",
+          "translation": "收入不高的劳动者往往最容易受到意外账单冲击，却最没有能力建立储备。"
+        },
+        {
+          "text": "A matched-savings programme could add a public contribution when participants make small regular deposits.",
+          "translation": "配比储蓄计划可以在参与者定期存入小额资金时增加一笔公共补助。"
+        },
+        {
+          "text": "Unlike a general tax advantage, which mainly benefits those already able to save, the support would reach households with little disposable income.",
+          "translation": "一般性税收优惠主要惠及本来就有能力储蓄的人，而这种支持会覆盖可支配收入很少的家庭。"
+        },
+        {
+          "text": "Access rules must ensure that a small fund does not remove eligibility for essential benefits.",
+          "translation": "准入规则必须确保一小笔储蓄不会使人失去领取基本福利的资格。"
+        },
+        {
+          "text": "Properly targeted assistance can turn sound financial advice into a realistic option.",
+          "translation": "适当定向的援助可以把合理的理财建议变成现实可行的选择。"
+        }
+      ],
+      "translation": "收入不高的劳动者往往最容易受到意外账单冲击，却最没有能力建立储备。配比储蓄计划可以在参与者定期存入小额资金时增加一笔公共补助。一般性税收优惠主要惠及本来就有能力储蓄的人，而这种支持会覆盖可支配收入很少的家庭。准入规则必须确保一小笔储蓄不会使人失去领取基本福利的资格。适当定向的援助可以把合理的理财建议变成现实可行的选择。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe something you saved money to buy.",
-      "answer": "I saved for a reliable laptop when I started doing more work from home. My old one froze during video calls, but I did not want to buy a replacement on credit. I compared prices, chose a realistic model and transferred a fixed amount into a separate account each payday. It took about five months, during which I cut back mainly on takeaway meals and small online purchases. Buying it with money I had already set aside felt satisfying, and the process showed me that a specific goal is much easier to follow than simply telling myself to spend less."
+      "answer": "I saved for a reliable laptop when I started doing more work from home. My old one froze during video calls, but I did not want to buy a replacement on credit. I compared prices, chose a realistic model and transferred a fixed amount into a separate account each payday. It took about five months, during which I cut back mainly on takeaway meals and small online purchases. Buying it with money I had already set aside felt satisfying, and the process showed me that a specific goal is much easier to follow than simply telling myself to spend less.",
+      "questionTranslation": "描述一件你存钱购买的东西。",
+      "answerSentences": [
+        {
+          "text": "I saved for a reliable laptop when I started doing more work from home.",
+          "translation": "开始更多在家工作时，我存钱买了一台可靠的笔记本电脑。"
+        },
+        {
+          "text": "My old one froze during video calls, but I did not want to buy a replacement on credit.",
+          "translation": "我的旧电脑在视频通话时会死机，但我不想贷款购买替代品。"
+        },
+        {
+          "text": "I compared prices, chose a realistic model and transferred a fixed amount into a separate account each payday.",
+          "translation": "我比较了价格，选定一个现实可行的型号，并在每次发薪日把固定金额转入单独账户。"
+        },
+        {
+          "text": "It took about five months, during which I cut back mainly on takeaway meals and small online purchases.",
+          "translation": "这个过程用了大约五个月，期间我主要减少了外卖和小额网购。"
+        },
+        {
+          "text": "Buying it with money I had already set aside felt satisfying, and the process showed me that a specific goal is much easier to follow than simply telling myself to spend less.",
+          "translation": "用已经留出的钱买下电脑让我很满足，这个过程也让我明白，具体目标比仅仅告诉自己少花钱更容易坚持。"
+        }
+      ],
+      "translation": "开始更多在家工作时，我存钱买了一台可靠的笔记本电脑。我的旧电脑在视频通话时会死机，但我不想贷款购买替代品。我比较了价格，选定一个现实可行的型号，并在每次发薪日把固定金额转入单独账户。这个过程用了大约五个月，期间我主要减少了外卖和小额网购。用已经留出的钱买下电脑让我很满足，这个过程也让我明白，具体目标比仅仅告诉自己少花钱更容易坚持。"
     },
     {
       "part": "Part 3",
       "question": "Why do some people find it difficult to save even when they have a regular income?",
-      "answer": "A regular income does not necessarily leave a regular surplus. Rent, childcare and transport can take most of a salary, while irregular bills make one month very different from another. Some people also use spending as a reward after stressful work, or never see clearly how several small payments add up. Automatic saving and a simple spending record can help, but these tools cannot solve genuinely inadequate income. It is important not to treat every lack of savings as a failure of self-control."
+      "answer": "A regular income does not necessarily leave a regular surplus. Rent, childcare and transport can take most of a salary, while irregular bills make one month very different from another. Some people also use spending as a reward after stressful work, or never see clearly how several small payments add up. Automatic saving and a simple spending record can help, but these tools cannot solve genuinely inadequate income. It is important not to treat every lack of savings as a failure of self-control.",
+      "questionTranslation": "为什么有些人即使拥有固定收入，仍觉得存钱困难？",
+      "answerSentences": [
+        {
+          "text": "A regular income does not necessarily leave a regular surplus.",
+          "translation": "固定收入未必会带来固定结余。"
+        },
+        {
+          "text": "Rent, childcare and transport can take most of a salary, while irregular bills make one month very different from another.",
+          "translation": "房租、托儿和交通可能占去工资的大部分，而不定期账单又会使每个月的情况大不相同。"
+        },
+        {
+          "text": "Some people also use spending as a reward after stressful work, or never see clearly how several small payments add up.",
+          "translation": "一些人还把消费当作压力工作后的奖励，或者从未清楚看到多笔小额付款累积起来是多少。"
+        },
+        {
+          "text": "Automatic saving and a simple spending record can help, but these tools cannot solve genuinely inadequate income.",
+          "translation": "自动储蓄和简单的支出记录可以提供帮助，但这些工具无法解决收入确实不足的问题。"
+        },
+        {
+          "text": "It is important not to treat every lack of savings as a failure of self-control.",
+          "translation": "不能把每一种没有储蓄的情况都视为自制力不足。"
+        }
+      ],
+      "translation": "固定收入未必会带来固定结余。房租、托儿和交通可能占去工资的大部分，而不定期账单又会使每个月的情况大不相同。一些人还把消费当作压力工作后的奖励，或者从未清楚看到多笔小额付款累积起来是多少。自动储蓄和简单的支出记录可以提供帮助，但这些工具无法解决收入确实不足的问题。不能把每一种没有储蓄的情况都视为自制力不足。"
     }
   ],
   "reading": {
@@ -349,6 +475,91 @@
         "answer": "reserve",
         "explanation": "Paragraph 3 calls this the precise function of an emergency reserve."
       }
+    ],
+    "titleTranslation": "为什么单独账户会改变储蓄行为",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A household may fully intend to save and still reach the end of each month with nothing left.",
+          "translation": "一个家庭可能真心打算储蓄，却仍在每个月底一分钱也没剩下。"
+        },
+        {
+          "text": "Behavioural researchers have long noted that money held in one current account feels available for several competing purposes.",
+          "translation": "行为研究人员早已指出，放在一个活期账户里的钱似乎可以用于多个相互竞争的目的。"
+        },
+        {
+          "text": "Groceries, a weekend trip and an emergency fund are mentally different goals, yet the balance displayed on a banking screen does not distinguish among them.",
+          "translation": "食品杂货、周末旅行和应急储备在心理上是不同目标，但银行屏幕显示的余额并不区分它们。"
+        },
+        {
+          "text": "A separate savings account creates a visible boundary, even when both accounts belong to the same person.",
+          "translation": "即使两个账户属于同一个人，单独的储蓄账户也会建立一道清晰边界。"
+        }
+      ],
+      [
+        {
+          "text": "To examine whether that boundary affected behaviour, a community bank offered new customers either a standard account or an additional account labelled with a goal of their choice.",
+          "translation": "为了考察这道边界是否影响行为，一家社区银行向新客户提供普通账户，或额外提供一个可由客户自行标注目标的账户。"
+        },
+        {
+          "text": "Customers were not prevented from withdrawing the money, and the interest paid was identical.",
+          "translation": "客户提款不受限制，支付的利息也完全相同。"
+        },
+        {
+          "text": "Over the following year, those with a labelled account accumulated more, although the difference was concentrated among people who also scheduled an automatic transfer.",
+          "translation": "随后一年里，拥有目标标签账户的人积累了更多资金，不过差异主要集中在同时设定自动转账的人身上。"
+        },
+        {
+          "text": "Interviews suggested that naming the account made withdrawals feel like abandoning a stated plan rather than simply moving cash.",
+          "translation": "访谈表明，为账户命名使提款感觉像放弃一项明确计划，而不只是转移现金。"
+        }
+      ],
+      [
+        {
+          "text": "The effect should not be mistaken for proof that account design can overcome poverty.",
+          "translation": "这种效果不应被误认为账户设计可以战胜贫困的证明。"
+        },
+        {
+          "text": "Participants with unstable hours frequently stopped transfers when earnings fell, while several lower-income households used every pound they had saved when an appliance failed.",
+          "translation": "工作时间不稳定的参与者在收入下降时经常停止转账，一些低收入家庭则在电器损坏时动用了全部储蓄。"
+        },
+        {
+          "text": "In such cases, withdrawal was not unsuccessful saving; it was the precise function of an emergency reserve.",
+          "translation": "在这些情况下，提款不是储蓄失败，而恰恰是应急储备的功能。"
+        },
+        {
+          "text": "Moreover, customers who carried expensive debt might have improved their finances more by repaying it than by maintaining a large low-interest balance.",
+          "translation": "此外，背负高息债务的客户偿还债务，可能比维持大量低息存款更能改善财务状况。"
+        }
+      ],
+      [
+        {
+          "text": "What the study illustrates is a modest interaction between intention and financial architecture.",
+          "translation": "这项研究说明的是意图与金融架构之间一种有限的互动。"
+        },
+        {
+          "text": "A goal label supplies meaning, and automation acts before attention is diverted elsewhere.",
+          "translation": "目标标签赋予资金意义，自动化则在注意力转向其他地方之前先执行行动。"
+        },
+        {
+          "text": "Neither creates disposable income, nor does either identify the best priority for every household.",
+          "translation": "两者都不会创造可支配收入，也都不能为每个家庭确定最佳优先事项。"
+        },
+        {
+          "text": "Banks can make useful choices easier to carry out, but responsible guidance must still consider debt, income volatility and the reason for saving.",
+          "translation": "银行可以让有益的选择更容易执行，但负责任的指导仍必须考虑债务、收入波动和储蓄目的。"
+        },
+        {
+          "text": "The most effective account is not necessarily the one with the largest balance; it is the one that helps its owner use limited money according to a deliberate plan.",
+          "translation": "最有效的账户未必拥有最大余额；它应帮助所有者按照经过思考的计划使用有限资金。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "一个家庭可能真心打算储蓄，却仍在每个月底一分钱也没剩下。行为研究人员早已指出，放在一个活期账户里的钱似乎可以用于多个相互竞争的目的。食品杂货、周末旅行和应急储备在心理上是不同目标，但银行屏幕显示的余额并不区分它们。即使两个账户属于同一个人，单独的储蓄账户也会建立一道清晰边界。",
+      "为了考察这道边界是否影响行为，一家社区银行向新客户提供普通账户，或额外提供一个可由客户自行标注目标的账户。客户提款不受限制，支付的利息也完全相同。随后一年里，拥有目标标签账户的人积累了更多资金，不过差异主要集中在同时设定自动转账的人身上。访谈表明，为账户命名使提款感觉像放弃一项明确计划，而不只是转移现金。",
+      "这种效果不应被误认为账户设计可以战胜贫困的证明。工作时间不稳定的参与者在收入下降时经常停止转账，一些低收入家庭则在电器损坏时动用了全部储蓄。在这些情况下，提款不是储蓄失败，而恰恰是应急储备的功能。此外，背负高息债务的客户偿还债务，可能比维持大量低息存款更能改善财务状况。",
+      "这项研究说明的是意图与金融架构之间一种有限的互动。目标标签赋予资金意义，自动化则在注意力转向其他地方之前先执行行动。两者都不会创造可支配收入，也都不能为每个家庭确定最佳优先事项。银行可以让有益的选择更容易执行，但负责任的指导仍必须考虑债务、收入波动和储蓄目的。最有效的账户未必拥有最大余额；它应帮助所有者按照经过思考的计划使用有限资金。"
     ]
   }
 }

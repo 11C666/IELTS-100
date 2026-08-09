@@ -153,7 +153,8 @@
         "members of the household",
         "immediate family"
       ],
-      "note": "immediate family 通常指父母、配偶、子女和兄弟姐妹。"
+      "note": "immediate family 通常指父母、配偶、子女和兄弟姐妹。",
+      "translation": "家庭成员可以表示为亲属、家庭成员、直系亲属。"
     },
     {
       "base": "close relationship",
@@ -162,7 +163,8 @@
         "close connection",
         "supportive relationship"
       ],
-      "note": "bond 强调长期形成的情感联系。"
+      "note": "bond 强调长期形成的情感联系。",
+      "translation": "亲密关系可以表达为牢固的联系、紧密的联系、支持性的关系。"
     },
     {
       "base": "argue",
@@ -171,7 +173,8 @@
         "have a conflict",
         "fall out"
       ],
-      "note": "fall out 较口语，通常指争吵后关系变差。"
+      "note": "fall out 较口语，通常指争吵后关系变差。",
+      "translation": "争论可以表达为不同意、有冲突、闹翻。"
     },
     {
       "base": "help",
@@ -180,7 +183,8 @@
         "assist",
         "be there for"
       ],
-      "note": "be there for somebody 常用于情感支持。"
+      "note": "be there for somebody 常用于情感支持。",
+      "translation": "help 可以表达为“支持”“协助”或“在某人需要时陪伴和支持”。"
     },
     {
       "base": "raise a child",
@@ -189,7 +193,8 @@
         "care for a child",
         "parent a child"
       ],
-      "note": "bring up 最常见；parent 作动词时较正式。"
+      "note": "bring up 最常见；parent 作动词时较正式。",
+      "translation": "养育孩子可以表达为抚养孩子、照顾孩子、养育孩子。"
     },
     {
       "base": "different ages",
@@ -198,7 +203,8 @@
         "age groups",
         "generational differences"
       ],
-      "note": "根据是指人群还是差异选择表达。"
+      "note": "根据是指人群还是差异选择表达。",
+      "translation": "不同年龄可以表现为不同代际、年龄段、代际差异。"
     },
     {
       "base": "live together",
@@ -207,7 +213,8 @@
         "live under one roof",
         "belong to one household"
       ],
-      "note": "under one roof 是自然口语表达。"
+      "note": "under one roof 是自然口语表达。",
+      "translation": "共同生活可以表达为共享一个家，住在一个屋檐下，属于一个家庭。"
     },
     {
       "base": "become independent",
@@ -216,51 +223,60 @@
         "stand on one’s own feet",
         "live independently"
       ],
-      "note": "stand on one’s own feet 强调经济或生活自立。"
+      "note": "stand on one’s own feet 强调经济或生活自立。",
+      "translation": "变得独立可以表达为获得独立，自力更生，独立生活。"
     }
   ],
   "sentences": [
     {
       "pattern": "Even when + family members + disagree, they can still + verb.",
       "cn": "即使家人意见不合，他们仍然可以……",
-      "example": "Even when family members disagree, they can still listen to each other respectfully."
+      "example": "Even when family members disagree, they can still listen to each other respectfully.",
+      "exampleTranslation": "即使家人意见不同，也能互相尊重地倾听。"
     },
     {
       "pattern": "The fact that + family members + share a history often means that + clause.",
       "cn": "家人拥有共同经历这一事实往往意味着……",
-      "example": "The fact that siblings share a history often means that they understand each other’s habits."
+      "example": "The fact that siblings share a history often means that they understand each other’s habits.",
+      "exampleTranslation": "兄弟姐妹有共同的历史这一事实通常意味着他们了解彼此的习惯。"
     },
     {
       "pattern": "As children become more independent, parents may need to + verb.",
       "cn": "随着孩子更加独立，父母可能需要……",
-      "example": "As children become more independent, parents may need to give them more personal space."
+      "example": "As children become more independent, parents may need to give them more personal space.",
+      "exampleTranslation": "随着孩子变得更加独立，父母可能需要给他们更多的个人空间。"
     }
   ],
   "expressions": [
     {
       "text": "be there for someone",
       "cn": "在某人需要时支持他",
-      "example": "My sister has always been there for me when things go wrong."
+      "example": "My sister has always been there for me when things go wrong.",
+      "exampleTranslation": "当事情出错时，我姐姐总是在我身边。"
     },
     {
       "text": "take after someone",
       "cn": "长得或性格像某位家人",
-      "example": "I take after my dad because we’re both fairly quiet."
+      "example": "I take after my dad because we’re both fairly quiet.",
+      "exampleTranslation": "我很像我父亲，因为我们都很安静。"
     },
     {
       "text": "see eye to eye",
       "cn": "意见一致",
-      "example": "We don’t always see eye to eye, but we respect each other."
+      "example": "We don’t always see eye to eye, but we respect each other.",
+      "exampleTranslation": "我们并不总是意见一致，但我们互相尊重。"
     },
     {
       "text": "grow apart",
       "cn": "关系逐渐疏远",
-      "example": "Some cousins grow apart when they move to different cities."
+      "example": "Some cousins grow apart when they move to different cities.",
+      "exampleTranslation": "有些表兄弟姐妹搬到不同的城市后就会疏远。"
     },
     {
       "text": "have a close bond with",
       "cn": "与……关系亲密",
-      "example": "I have a particularly close bond with my grandmother."
+      "example": "I have a particularly close bond with my grandmother.",
+      "exampleTranslation": "我和祖母的关系特别密切。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "cope with personal difficulties",
         "maintain close contact"
       ],
-      "argument": "Family members usually know one another’s history and can recognise changes in mood or behaviour. This allows them to offer practical help before a problem becomes overwhelming. A student living away from home, for example, may cope better with stress when regular calls provide reassurance and perspective. Such support does not remove every difficulty, but it can reduce isolation. Maintaining contact is therefore valuable even when relatives live far apart."
+      "argument": "Family members usually know one another’s history and can recognise changes in mood or behaviour. This allows them to offer practical help before a problem becomes overwhelming. A student living away from home, for example, may cope better with stress when regular calls provide reassurance and perspective. Such support does not remove every difficulty, but it can reduce isolation. Maintaining contact is therefore valuable even when relatives live far apart.",
+      "viewpointTranslation": "定期的家人联系可以保护情绪健康。",
+      "topicSentenceTranslation": "牢固的家庭关系通常可以提供可靠的情感支持来源。",
+      "collocationTranslations": [
+        "提供情感支持",
+        "培养安全感",
+        "应对个人困难",
+        "保持密切联系"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Family members usually know one another’s history and can recognise changes in mood or behaviour.",
+          "translation": "家庭成员通常了解彼此的历史，并且能够识别情绪或行为的变化。"
+        },
+        {
+          "text": "This allows them to offer practical help before a problem becomes overwhelming.",
+          "translation": "这使他们能够在问题变得难以承受之前提供实际帮助。"
+        },
+        {
+          "text": "A student living away from home, for example, may cope better with stress when regular calls provide reassurance and perspective.",
+          "translation": "例如，定期通话带来的安慰和更全面的看法，可以帮助远离家乡的学生更好地应对压力。"
+        },
+        {
+          "text": "Such support does not remove every difficulty, but it can reduce isolation.",
+          "translation": "这种支持并不能消除所有困难，但可以减少孤立。"
+        },
+        {
+          "text": "Maintaining contact is therefore valuable even when relatives live far apart.",
+          "translation": "因此，即使亲戚住得很远，保持联系也很有价值。"
+        }
+      ]
     },
     {
       "viewpoint": "Adult children need space to make their own decisions.",
@@ -301,19 +347,83 @@
         "take responsibility for",
         "learn from mistakes"
       ],
-      "argument": "Parents naturally want to protect their children, yet constant intervention can weaken confidence. Young adults learn judgement by making choices and accepting the consequences, including occasional mistakes. Families can still offer advice without deciding every detail on their behalf. Clear boundaries also reduce resentment and make conversations more honest. Independence and family closeness should therefore be treated as compatible rather than opposing goals."
+      "argument": "Parents naturally want to protect their children, yet constant intervention can weaken confidence. Young adults learn judgement by making choices and accepting the consequences, including occasional mistakes. Families can still offer advice without deciding every detail on their behalf. Clear boundaries also reduce resentment and make conversations more honest. Independence and family closeness should therefore be treated as compatible rather than opposing goals.",
+      "viewpointTranslation": "成年子女需要空间来做出自己的决定。",
+      "topicSentenceTranslation": "健康的家庭支持不应阻止年轻人发展独立性。",
+      "collocationTranslations": [
+        "尊重个人界限",
+        "做出独立决定",
+        "承担责任",
+        "从错误中学习"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Parents naturally want to protect their children, yet constant intervention can weaken confidence.",
+          "translation": "父母自然想要保护孩子，但不断的干预会削弱孩子的信心。"
+        },
+        {
+          "text": "Young adults learn judgement by making choices and accepting the consequences, including occasional mistakes.",
+          "translation": "年轻人通过做出选择并接受后果（包括偶尔的错误）来学习判断力。"
+        },
+        {
+          "text": "Families can still offer advice without deciding every detail on their behalf.",
+          "translation": "家人仍然可以提供建议，而不必替年轻人决定每一个细节。"
+        },
+        {
+          "text": "Clear boundaries also reduce resentment and make conversations more honest.",
+          "translation": "清晰的界限还可以减少怨恨并使对话更加诚实。"
+        },
+        {
+          "text": "Independence and family closeness should therefore be treated as compatible rather than opposing goals.",
+          "translation": "因此，独立和家庭亲密应该被视为兼容而不是相反的目标。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Who are you closest to in your family?",
-      "answer": "I’m probably closest to my older sister. We have quite different personalities, but she’s the first person I call when I need sensible advice. She doesn’t simply agree with me; she’ll point out when I’m being unrealistic. We also share a similar sense of humour, so even serious conversations usually end with us laughing about something."
+      "answer": "I’m probably closest to my older sister. We have quite different personalities, but she’s the first person I call when I need sensible advice. She doesn’t simply agree with me; she’ll point out when I’m being unrealistic. We also share a similar sense of humour, so even serious conversations usually end with us laughing about something.",
+      "questionTranslation": "你在家里和谁最亲近？",
+      "answerSentences": [
+        {
+          "text": "I’m probably closest to my older sister.",
+          "translation": "我可能和我姐姐最亲近。"
+        },
+        {
+          "text": "We have quite different personalities, but she’s the first person I call when I need sensible advice.",
+          "translation": "我们的性格截然不同，但当我需要明智的建议时，她是我第一个打电话给的人。"
+        },
+        {
+          "text": "She doesn’t simply agree with me; she’ll point out when I’m being unrealistic.",
+          "translation": "她不会一味赞同我；当我的想法不切实际时，她会直接指出来。"
+        },
+        {
+          "text": "We also share a similar sense of humour, so even serious conversations usually end with us laughing about something.",
+          "translation": "我们也有相似的幽默感，所以即使是严肃的谈话通常也会以我们开怀大笑而结束。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "How often does your family spend time together?",
-      "answer": "We normally have dinner together a few times a week, although everyone’s schedule is different. The meal itself isn’t elaborate; it’s mainly a chance to catch up without looking at our phones. On major holidays, the wider family meets at my grandparents’ home, which is much noisier but also quite memorable."
+      "answer": "We normally have dinner together a few times a week, although everyone’s schedule is different. The meal itself isn’t elaborate; it’s mainly a chance to catch up without looking at our phones. On major holidays, the wider family meets at my grandparents’ home, which is much noisier but also quite memorable.",
+      "questionTranslation": "你的家人多久会聚在一起？",
+      "answerSentences": [
+        {
+          "text": "We normally have dinner together a few times a week, although everyone’s schedule is different.",
+          "translation": "我们通常每周一起吃几次晚餐，尽管每个人的日程安排都不同。"
+        },
+        {
+          "text": "The meal itself isn’t elaborate; it’s mainly a chance to catch up without looking at our phones.",
+          "translation": "饭菜本身并不讲究；主要是让大家有机会放下手机、聊聊近况。"
+        },
+        {
+          "text": "On major holidays, the wider family meets at my grandparents’ home, which is much noisier but also quite memorable.",
+          "translation": "每逢重大节日，全家人都会在祖父母家聚会，虽然比较吵闹，但也很难忘。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +460,111 @@
         "answer": "conversation",
         "explanation": "Paragraph 3 uses this phrase directly."
       }
+    ],
+    "titleTranslation": "当家庭学会谈判时",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Families are often described as stable units, yet the relationships inside them are continually renegotiated.",
+          "translation": "家庭通常被描述为稳定的单位，但家庭内部的关系却不断地重新协商。"
+        },
+        {
+          "text": "A child who once depended on adults for every decision eventually expects privacy and freedom.",
+          "translation": "曾经每一个决定都依赖成人的孩子最终会期望隐私和自由。"
+        },
+        {
+          "text": "Parents, meanwhile, may still feel responsible for preventing avoidable mistakes.",
+          "translation": "与此同时，父母可能仍然觉得有责任防止发生可避免的错误。"
+        },
+        {
+          "text": "The resulting tension is not necessarily evidence of a weak relationship.",
+          "translation": "由此产生的紧张气氛并不一定是关系薄弱的证据。"
+        },
+        {
+          "text": "It may simply show that roles which worked at one stage of life no longer fit the next.",
+          "translation": "它可能只是表明，在人生某个阶段发挥作用的角色不再适合下一阶段。"
+        }
+      ],
+      [
+        {
+          "text": "Researchers who study family communication have observed that conflict often concerns process rather than the decision itself.",
+          "translation": "研究家庭沟通的研究人员发现，冲突往往与过程有关，而不是与决定本身有关。"
+        },
+        {
+          "text": "A teenager may object less to a household rule than to having no opportunity to discuss it.",
+          "translation": "青少年反感的可能不是某条家庭规则本身，而是自己没有机会参与讨论。"
+        },
+        {
+          "text": "Similarly, an older parent may resist help because it is offered as an instruction rather than a choice.",
+          "translation": "同样，年迈的父母可能拒绝帮助，因为帮助是以命令而不是选择的方式提出的。"
+        },
+        {
+          "text": "In both cases, the person wants some control over a change that affects daily life.",
+          "translation": "在这两种情况下，人们都希望对影响日常生活的变化有一定的控制力。"
+        },
+        {
+          "text": "Listening therefore matters not only as a sign of respect but as a way of discovering the real source of disagreement.",
+          "translation": "因此，倾听不仅是尊重的表现，而且是发现分歧真正根源的一种方式。"
+        }
+      ],
+      [
+        {
+          "text": "Negotiation within a family differs from a formal bargain.",
+          "translation": "家庭内部的谈判不同于正式的讨价还价。"
+        },
+        {
+          "text": "Relatives cannot measure every favour or divide emotional work with perfect equality.",
+          "translation": "亲人无法精确衡量每一次帮助，也无法把情感劳动分配得绝对公平。"
+        },
+        {
+          "text": "Circumstances also change: one sibling may provide more care during an illness, while another contributes money or handles practical arrangements from a distance.",
+          "translation": "情况也会变化：一位兄弟姐妹可能在亲人生病期间承担更多照护工作，另一位则出钱或在远处处理实际安排。"
+        },
+        {
+          "text": "Problems arise when these contributions remain invisible and assumptions replace explicit conversation.",
+          "translation": "如果这些付出无人看见，又用想当然代替明确沟通，问题就会出现。"
+        },
+        {
+          "text": "A brief discussion about expectations can prevent minor frustration from becoming a lasting grievance.",
+          "translation": "关于期望的简短讨论可以防止轻微的挫败感变成持久的不满。"
+        }
+      ],
+      [
+        {
+          "text": "Successful negotiation does not require family members to share the same opinion.",
+          "translation": "成功的谈判并不需要家庭成员意见一致。"
+        },
+        {
+          "text": "It requires them to recognise changing roles, explain their concerns and accept that compromise may be temporary.",
+          "translation": "它要求他们认识到角色的变化，解释他们的担忧并接受妥协可能是暂时的。"
+        },
+        {
+          "text": "A rule about curfews, money or caring duties can be reviewed when circumstances alter.",
+          "translation": "当情况发生变化时，可以审查有关宵禁、金钱或照顾职责的规则。"
+        },
+        {
+          "text": "In this sense, family closeness is not maintained by avoiding disagreement.",
+          "translation": "从这个意义上说，家庭的亲密并不是通过避免分歧来维持的。"
+        },
+        {
+          "text": "It is maintained by creating enough trust for disagreement to occur without threatening the relationship itself.",
+          "translation": "这种亲密关系依靠足够的信任来维系，使家人能够表达分歧，而不至于威胁关系本身。"
+        }
+      ],
+      [
+        {
+          "text": "A further difficulty appears when family members communicate through assumptions about age or duty.",
+          "translation": "如果家人依据对年龄或责任的固有假设进行沟通，还会出现另一种困难。"
+        },
+        {
+          "text": "Advice intended as care may be heard as criticism, while silence intended to prevent an argument may be interpreted as indifference.",
+          "translation": "出于关心的建议可能会被视为批评，而旨在防止争论的沉默可能会被理解为冷漠。"
+        },
+        {
+          "text": "Naming the intention behind an action does not guarantee agreement, but it gives the other person more accurate information from which to respond.",
+          "translation": "说明一种行为背后的意图并不能保证达成一致，却能让对方依据更准确的信息作出回应。"
+        }
+      ]
     ]
   }
 }

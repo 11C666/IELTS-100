@@ -2,11 +2,11 @@
   "passed": true,
   "errors": [],
   "warnings": [
-    "Day 1 Part 1 words=46",
-    "Day 1 Part 1 words=48",
-    "Day 2 Part 1 words=47",
-    "Day 2 Part 1 words=46",
-    "Day 3 Part 1 words=44",
+    "Day 1 Part 1 words=35",
+    "Day 1 Part 1 words=36",
+    "Day 2 Part 1 words=35",
+    "Day 2 Part 1 words=34",
+    "Day 3 Part 1 words=38",
     "Day 3 Part 1 words=40"
   ],
   "metrics": {
@@ -31,7 +31,7 @@
       "Part 3": 40
     },
     "duplicateSentencePatterns": 0,
-    "duplicateExpressions": 6,
+    "duplicateExpressions": 0,
     "duplicateSpeakingQuestions": 0,
     "duplicateReadingTitles": 0,
     "maxReadingSimilarity": {

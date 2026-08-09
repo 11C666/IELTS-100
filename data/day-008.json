@@ -153,7 +153,8 @@
         "volume",
         "work"
       ],
-      "note": "work 可指某位作者的作品；volume 常指一册。"
+      "note": "work 可指某位作者的作品；volume 常指一册。",
+      "translation": "book 可以根据语境表达为“出版物”“书卷”或“作品”。"
     },
     {
       "base": "interesting",
@@ -162,7 +163,8 @@
         "absorbing",
         "thought-provoking"
       ],
-      "note": "thought-provoking 强调引发思考，不一定轻松有趣。"
+      "note": "thought-provoking 强调引发思考，不一定轻松有趣。",
+      "translation": "interesting 表示有趣；engaging 强调吸引人，absorbing 强调令人沉浸其中，thought-provoking 强调引人深思。"
     },
     {
       "base": "read quickly",
@@ -171,7 +173,8 @@
         "read at speed",
         "scan for information"
       ],
-      "note": "scan 是寻找具体信息，skim 是了解大意。"
+      "note": "scan 是寻找具体信息，skim 是了解大意。",
+      "translation": "快速阅读可以表示为略读、快速阅读、扫描信息。"
     },
     {
       "base": "understand",
@@ -180,7 +183,8 @@
         "follow the argument",
         "make sense of"
       ],
-      "note": "follow the argument 常用于学术文章。"
+      "note": "follow the argument 常用于学术文章。",
+      "translation": "理解可以表达为理解、遵循论证、理解。"
     },
     {
       "base": "read often",
@@ -189,7 +193,8 @@
         "maintain a reading habit",
         "be an avid reader"
       ],
-      "note": "avid reader 指阅读热情很高的人。"
+      "note": "avid reader 指阅读热情很高的人。",
+      "translation": "read often 可以表达为“经常阅读”“保持阅读习惯”或“热爱阅读”。"
     },
     {
       "base": "electronic book",
@@ -198,7 +203,8 @@
         "digital edition",
         "electronic text"
       ],
-      "note": "e-book 最自然常用。"
+      "note": "e-book 最自然常用。",
+      "translation": "电子书可以表示为电子书、数字版、电子文本。"
     },
     {
       "base": "story",
@@ -207,7 +213,8 @@
         "plot",
         "account"
       ],
-      "note": "plot 是事件安排；narrative 是讲述方式。"
+      "note": "plot 是事件安排；narrative 是讲述方式。",
+      "translation": "故事可以表达为叙述、情节、叙述。"
     },
     {
       "base": "give an opinion on a book",
@@ -216,51 +223,60 @@
         "evaluate a work",
         "comment on a text"
       ],
-      "note": "review 可作动词，包含评价。"
+      "note": "review 可作动词，包含评价。",
+      "translation": "对一本书发表意见可以表达为评论一本书、评价一部作品、评论一段文字。"
     }
   ],
   "sentences": [
     {
       "pattern": "I find it easier to concentrate on + printed or digital material + when + clause.",
       "cn": "当……时，我发现更容易专注于某类阅读材料。",
-      "example": "I find it easier to concentrate on printed books when I read before bed."
+      "example": "I find it easier to concentrate on printed books when I read before bed.",
+      "exampleTranslation": "我发现睡前阅读时更容易集中精力阅读印刷书籍。"
     },
     {
       "pattern": "The kind of book I am most likely to choose is + genre + because + clause.",
       "cn": "我最可能选择的书籍类型是……，因为……",
-      "example": "The kind of book I am most likely to choose is biography because I enjoy real experiences."
+      "example": "The kind of book I am most likely to choose is biography because I enjoy real experiences.",
+      "exampleTranslation": "我最有可能选择的书是传记，因为我喜欢真实的经历。"
     },
     {
       "pattern": "Regular reading exposes people not only to + noun, but also to + noun.",
       "cn": "规律阅读不仅让人接触……，也让人接触……",
-      "example": "Regular reading exposes people not only to new vocabulary, but also to unfamiliar viewpoints."
+      "example": "Regular reading exposes people not only to new vocabulary, but also to unfamiliar viewpoints.",
+      "exampleTranslation": "定期阅读不仅能让人们接触新词汇，还能接触到不熟悉的观点。"
     }
   ],
   "expressions": [
     {
       "text": "get into the habit of reading",
       "cn": "养成阅读习惯",
-      "example": "I got into the habit of reading on my commute."
+      "example": "I got into the habit of reading on my commute.",
+      "exampleTranslation": "我养成了在上下班路上读书的习惯。"
     },
     {
       "text": "a real page-turner",
       "cn": "让人爱不释手的书",
-      "example": "The plot is simple, but the novel is a real page-turner."
+      "example": "The plot is simple, but the novel is a real page-turner.",
+      "exampleTranslation": "故事情节并不复杂，但这部小说让人一翻开就很难放下。"
     },
     {
       "text": "read for pleasure",
       "cn": "为兴趣而阅读",
-      "example": "I read for pleasure at weekends rather than taking notes."
+      "example": "I read for pleasure at weekends rather than taking notes.",
+      "exampleTranslation": "我周末读书是为了消遣，而不是做笔记。"
     },
     {
       "text": "dip into a book",
       "cn": "随手翻阅一本书",
-      "example": "It’s a collection of essays, so you can dip into it."
+      "example": "It’s a collection of essays, so you can dip into it.",
+      "exampleTranslation": "这是一本论文集，所以可以随意选取其中的篇章翻阅。"
     },
     {
       "text": "broaden my perspective",
       "cn": "拓宽我的视角",
-      "example": "Reading about other societies has broadened my perspective."
+      "example": "Reading about other societies has broadened my perspective.",
+      "exampleTranslation": "阅读其他社会的资料拓宽了我的视野。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "sustain concentration",
         "encounter unfamiliar ideas"
       ],
-      "argument": "Readers meet words repeatedly in meaningful contexts, which helps vocabulary become usable rather than merely recognised. Longer texts also require them to remember earlier information and follow an argument or plot. These habits support concentration in subjects beyond language learning. Because the reader chooses the material, motivation may be stronger than during compulsory exercises. Schools should therefore make appealing books available as well as teaching examination skills."
+      "argument": "Readers meet words repeatedly in meaningful contexts, which helps vocabulary become usable rather than merely recognised. Longer texts also require them to remember earlier information and follow an argument or plot. These habits support concentration in subjects beyond language learning. Because the reader chooses the material, motivation may be stronger than during compulsory exercises. Schools should therefore make appealing books available as well as teaching examination skills.",
+      "viewpointTranslation": "快乐阅读有助于学术发展。",
+      "topicSentenceTranslation": "自愿阅读可以增强语言和思维能力，而不像正式学习那样。",
+      "collocationTranslations": [
+        "培养阅读流畅性",
+        "扩大词汇量",
+        "维持注意力",
+        "遇到陌生的想法"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Readers meet words repeatedly in meaningful contexts, which helps vocabulary become usable rather than merely recognised.",
+          "translation": "读者在有意义的上下文中反复遇到单词，这有助于词汇变得可用而不仅仅是被识别。"
+        },
+        {
+          "text": "Longer texts also require them to remember earlier information and follow an argument or plot.",
+          "translation": "较长的文本还要求他们记住先前的信息并遵循论点或情节。"
+        },
+        {
+          "text": "These habits support concentration in subjects beyond language learning.",
+          "translation": "这些习惯有助于专注于语言学习以外的科目。"
+        },
+        {
+          "text": "Because the reader chooses the material, motivation may be stronger than during compulsory exercises.",
+          "translation": "由于读者选择材料，动机可能比强制练习时更强。"
+        },
+        {
+          "text": "Schools should therefore make appealing books available as well as teaching examination skills.",
+          "translation": "因此，学校除了教授考试技巧，也应提供有吸引力的读物。"
+        }
+      ]
     },
     {
       "viewpoint": "Digital reading is convenient but can encourage fragmented attention.",
@@ -301,19 +347,87 @@
         "search within a text",
         "adjust the reading environment"
       ],
-      "argument": "A phone or tablet gives immediate access to books, articles and dictionaries. The same device, however, also contains messages, videos and alerts that invite the reader to switch tasks. Frequent interruption makes it harder to maintain the argument of a demanding text. Readers can reduce this problem by disabling notifications or using a dedicated e-reader. The issue is not that screens prevent comprehension, but that digital environments often compete for attention."
+      "argument": "A phone or tablet gives immediate access to books, articles and dictionaries. The same device, however, also contains messages, videos and alerts that invite the reader to switch tasks. Frequent interruption makes it harder to maintain the argument of a demanding text. Readers can reduce this problem by disabling notifications or using a dedicated e-reader. The issue is not that screens prevent comprehension, but that digital environments often compete for attention.",
+      "viewpointTranslation": "数字阅读很方便，但会鼓励分散的注意力。",
+      "topicSentenceTranslation": "用于阅读的设备可能会影响读者阅读文本的一致性。",
+      "collocationTranslations": [
+        "不断收到通知",
+        "打断持续注意力",
+        "在文本中搜索",
+        "调整阅读环境"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A phone or tablet gives immediate access to books, articles and dictionaries.",
+          "translation": "手机或平板电脑可以立即访问书籍、文章和词典。"
+        },
+        {
+          "text": "The same device, however, also contains messages, videos and alerts that invite the reader to switch tasks.",
+          "translation": "然而，同一设备还包含邀请读者切换任务的消息、视频和警报。"
+        },
+        {
+          "text": "Frequent interruption makes it harder to maintain the argument of a demanding text.",
+          "translation": "频繁的打断会让一篇要求很高的文本的论证变得更难维持。"
+        },
+        {
+          "text": "Readers can reduce this problem by disabling notifications or using a dedicated e-reader.",
+          "translation": "读者可以通过禁用通知或使用专用电子阅读器来减少这个问题。"
+        },
+        {
+          "text": "The issue is not that screens prevent comprehension, but that digital environments often compete for attention.",
+          "translation": "问题不在于屏幕妨碍理解，而在于数字环境经常争夺注意力。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "How often do you read books or long articles?",
-      "answer": "I read something substantial most days, usually for half an hour before bed. During the week it’s often a novel because I want a break from work-related material. At weekends I’m more likely to read a long newspaper article or biography. I’m not a very fast reader, but I’m fairly consistent, which matters more to me."
+      "answer": "I read something substantial most days, usually for half an hour before bed. During the week it’s often a novel because I want a break from work-related material. At weekends I’m more likely to read a long newspaper article or biography. I’m not a very fast reader, but I’m fairly consistent, which matters more to me.",
+      "questionTranslation": "您多久读一次书籍或长篇文章？",
+      "answerSentences": [
+        {
+          "text": "I read something substantial most days, usually for half an hour before bed.",
+          "translation": "大多数时候我都会读一些实质性的东西，通常是在睡前半小时。"
+        },
+        {
+          "text": "During the week it’s often a novel because I want a break from work-related material.",
+          "translation": "工作日通常会看小说，因为我想从与工作相关的材料中解脱出来。"
+        },
+        {
+          "text": "At weekends I’m more likely to read a long newspaper article or biography.",
+          "translation": "周末我更有可能阅读长篇报纸文章或传记。"
+        },
+        {
+          "text": "I’m not a very fast reader, but I’m fairly consistent, which matters more to me.",
+          "translation": "我的阅读速度不是很快，但我的阅读速度相当稳定，这对我来说更重要。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Do you prefer printed books or e-books?",
-      "answer": "For novels, I still prefer a printed copy. I like seeing how far I’ve progressed, and there are no notifications to distract me. E-books are more practical when I’m travelling, though, because I can carry several without adding weight. So my preference really depends on where I’m reading rather than a strong dislike of screens."
+      "answer": "For novels, I still prefer a printed copy. I like seeing how far I’ve progressed, and there are no notifications to distract me. E-books are more practical when I’m travelling, though, because I can carry several without adding weight. So my preference really depends on where I’m reading rather than a strong dislike of screens.",
+      "questionTranslation": "您更喜欢纸质书还是电子书？",
+      "answerSentences": [
+        {
+          "text": "For novels, I still prefer a printed copy.",
+          "translation": "对于小说，我还是更喜欢印刷版。"
+        },
+        {
+          "text": "I like seeing how far I’ve progressed, and there are no notifications to distract me.",
+          "translation": "我喜欢看到自己的进步，并且没有任何通知分散我的注意力。"
+        },
+        {
+          "text": "E-books are more practical when I’m travelling, though, because I can carry several without adding weight.",
+          "translation": "不过，当我旅行时，电子书更实用，因为我可以携带几本而不增加重量。"
+        },
+        {
+          "text": "So my preference really depends on where I’m reading rather than a strong dislike of screens.",
+          "translation": "所以我的偏好实际上取决于我在哪里阅读，而不是对屏幕的强烈厌恶。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,107 @@
         "answer": "False",
         "explanation": "Paragraph 3 states that no medium is always superior."
       }
+    ],
+    "titleTranslation": "为什么深度阅读需要时间",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Reading appears instantaneous because skilled readers recognise many words without conscious effort.",
+          "translation": "阅读似乎是即时的，因为熟练的读者无需有意识的努力就可以识别许多单词。"
+        },
+        {
+          "text": "Understanding a demanding text, however, involves several slower processes.",
+          "translation": "然而，理解一篇要求较高的文本需要几个较慢的过程。"
+        },
+        {
+          "text": "A reader connects a sentence with earlier information, decides which details matter and sometimes revises an interpretation after reaching a later paragraph.",
+          "translation": "读者将句子与前面的信息联系起来，决定哪些细节重要，有时会在读到后面的段落后修改解释。"
+        },
+        {
+          "text": "Deep reading is therefore not simply the rapid movement of the eyes across a page.",
+          "translation": "因此，深度阅读不仅仅是眼睛在一页纸上快速移动。"
+        }
+      ],
+      [
+        {
+          "text": "Experiments on comprehension often distinguish between locating information and building a mental model.",
+          "translation": "理解实验通常会区分定位信息和建立心理模型。"
+        },
+        {
+          "text": "A person can scan a timetable for a departure time without understanding the document as a whole.",
+          "translation": "人们可以在不了解整个文档的情况下扫描时刻表以了解出发时间。"
+        },
+        {
+          "text": "By contrast, following an argument requires the reader to hold claims in memory and recognise relationships such as cause, contrast and qualification.",
+          "translation": "相比之下，遵循一个论证需要读者将主张牢记在心，并认识到原因、对比和限定等关系。"
+        },
+        {
+          "text": "Speed is useful only if these connections survive it.",
+          "translation": "只有在快速阅读时仍能保持这些联系，速度才真正有用。"
+        }
+      ],
+      [
+        {
+          "text": "Digital formats have complicated the picture.",
+          "translation": "数字格式使情况变得复杂。"
+        },
+        {
+          "text": "Search functions and links make reference faster, while adjustable text benefits readers with visual difficulties.",
+          "translation": "搜索功能和链接使参考速度更快，而可调整的文本则有利于视觉困难的读者。"
+        },
+        {
+          "text": "Yet scrolling can make the physical location of information less memorable, and connected devices offer easy routes away from the text.",
+          "translation": "不过，滚动页面会让人更难记住信息在文本中的位置，而联网设备也使读者很容易离开文本、转向其他内容。"
+        },
+        {
+          "text": "Researchers have not concluded that one medium is always superior.",
+          "translation": "研究人员尚未得出结论认为一种媒介总是优越的。"
+        },
+        {
+          "text": "Task, device design and reading habits all influence the result.",
+          "translation": "任务、设备设计和阅读习惯都会影响结果。"
+        }
+      ],
+      [
+        {
+          "text": "The desire to read faster is understandable when information is abundant.",
+          "translation": "当信息丰富时，想要更快地阅读的愿望是可以理解的。"
+        },
+        {
+          "text": "Nevertheless, efficiency sometimes means choosing a suitable pace rather than maximising words per minute.",
+          "translation": "然而，效率有时意味着选择合适的速度，而不是最大化每分钟的单词数。"
+        },
+        {
+          "text": "A report may deserve close annotation; a familiar news story may require only a quick scan.",
+          "translation": "一份报告可能值得仔细注释；熟悉的新闻故事可能只需要快速浏览一下即可。"
+        },
+        {
+          "text": "Skilled readers vary their method according to purpose.",
+          "translation": "熟练的读者根据目的改变他们的方法。"
+        },
+        {
+          "text": "In this view, slow reading is not evidence of weakness when the material demands reflection—it is one of several strategies available to an experienced reader.",
+          "translation": "从这种观点来看，当材料需要反思时，缓慢阅读并不是弱点的证据——它是有经验的读者可以采用的几种策略之一。"
+        }
+      ],
+      [
+        {
+          "text": "Deep reading is also affected by prior knowledge.",
+          "translation": "深度阅读也受到先验知识的影响。"
+        },
+        {
+          "text": "A specialist can process a difficult article quickly because many concepts are already organised in memory; a newcomer must pause to build those connections.",
+          "translation": "专家可以快速处理一篇困难的文章，因为许多概念已经组织在记忆中；新来者必须停下来建立这些联系。"
+        },
+        {
+          "text": "Comparing their speed without considering background is misleading.",
+          "translation": "在不考虑背景的情况下比较它们的速度是具有误导性的。"
+        },
+        {
+          "text": "Fluency develops partly through reading widely enough for common structures and ideas to become familiar.",
+          "translation": "流利程度的提高部分是通过广泛阅读以熟悉常见的结构和想法。"
+        }
+      ]
     ]
   }
 }

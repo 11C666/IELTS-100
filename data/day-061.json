@@ -153,7 +153,8 @@
         "preserve confidentiality",
         "limit unwanted access"
       ],
-      "note": "强调保护个人资料免遭不当使用"
+      "note": "强调保护个人资料免遭不当使用",
+      "translation": "保护隐私可以表述为保护个人信息、保密、限制不必要的访问。"
     },
     {
       "base": "collect data",
@@ -162,7 +163,8 @@
         "record digital activity",
         "acquire personal details"
       ],
-      "note": "可根据数据类型选择表达"
+      "note": "可根据数据类型选择表达",
+      "translation": "收集数据可以表现为收集用户信息、记录数字活动、获取个人详细信息。"
     },
     {
       "base": "without permission",
@@ -171,7 +173,8 @@
         "without prior authorisation",
         "without the user’s knowledge"
       ],
-      "note": "最后一项强调不知情"
+      "note": "最后一项强调不知情",
+      "translation": "未经许可可以表述为未经明确同意、未经事先授权、在用户不知情的情况下。"
     },
     {
       "base": "personal information",
@@ -180,7 +183,8 @@
         "identifiable details",
         "user-specific records"
       ],
-      "note": "避免反复使用 information"
+      "note": "避免反复使用 information",
+      "translation": "个人信息可以表示为私人数据、可识别的详细信息、用户特定的记录。"
     },
     {
       "base": "monitor users",
@@ -189,7 +193,8 @@
         "observe digital activity",
         "follow browsing patterns"
       ],
-      "note": "适用于平台追踪语境"
+      "note": "适用于平台追踪语境",
+      "translation": "监控用户可以表现为跟踪在线行为、观察数字活动、遵循浏览模式。"
     },
     {
       "base": "strict rules",
@@ -198,7 +203,8 @@
         "tight privacy controls",
         "rigorous regulation"
       ],
-      "note": "rules 可换为更学术的名词"
+      "note": "rules 可换为更学术的名词",
+      "translation": "严格的规则可以表现为强有力的保障措施、严格的隐私控制、严格的监管。"
     },
     {
       "base": "give users control",
@@ -207,7 +213,8 @@
         "let individuals manage access",
         "return control to users"
       ],
-      "note": "突出用户自主权"
+      "note": "突出用户自主权",
+      "translation": "give users control 表示赋予用户控制权；可表达为“让用户作出知情选择”“让个人管理访问权限”或“把控制权交还给用户”。"
     },
     {
       "base": "a serious risk",
@@ -216,51 +223,60 @@
         "a significant source of harm",
         "a cause for considerable concern"
       ],
-      "note": "用于评价潜在危害"
+      "note": "用于评价潜在危害",
+      "translation": "严重风险可以表示为重大隐私威胁、重大伤害来源、引起相当大关注的原因。"
     }
   ],
   "sentences": [
     {
       "pattern": "Only when + an organisation + explains how it uses data + can users make an informed choice.",
       "cn": "只有当某机构解释清楚数据处理方式时，用户才能作出知情选择。",
-      "example": "Only when a platform explains how location data are retained can users make an informed choice."
+      "example": "Only when a platform explains how location data are retained can users make an informed choice.",
+      "exampleTranslation": "只有当平台解释如何保留位置数据时，用户才能做出明智的选择。"
     },
     {
       "pattern": "Information collected to + original purpose + should not be used to + new purpose + unless users give consent.",
       "cn": "为某一原始目的收集的信息不应被用于新的目的，除非满足同意条件。",
-      "example": "Information collected for navigation should not be used to price insurance unless the driver gives explicit consent."
+      "example": "Information collected for navigation should not be used to price insurance unless the driver gives explicit consent.",
+      "exampleTranslation": "除非驾驶员明确同意，否则收集的导航信息不应用于保险定价。"
     },
     {
       "pattern": "The fact that + personal data + are publicly accessible does not mean that + companies + may use them without limits.",
       "cn": "某些数据在技术上可以获取，并不意味着相关使用在社会层面可以接受。",
-      "example": "The fact that public posts are technically accessible does not mean that compiling them into employment profiles is socially acceptable."
+      "example": "The fact that public posts are technically accessible does not mean that compiling them into employment profiles is socially acceptable.",
+      "exampleTranslation": "公共职位在技术上是可获取的，但这并不意味着将其编入就业档案是社会可接受的。"
     }
   ],
   "expressions": [
     {
       "text": "have nothing to hide",
       "cn": "没什么可隐瞒的",
-      "example": "People sometimes say they have nothing to hide, but privacy is not the same as secrecy."
+      "example": "People sometimes say they have nothing to hide, but privacy is not the same as secrecy.",
+      "exampleTranslation": "人们有时会说他们没有什么可隐瞒的，但隐私并不等同于秘密。"
     },
     {
       "text": "think twice before sharing",
       "cn": "分享前再三考虑",
-      "example": "I think twice before sharing photographs that reveal my location."
+      "example": "I think twice before sharing photographs that reveal my location.",
+      "exampleTranslation": "在分享显示我所在位置的照片之前，我会三思而后行。"
     },
     {
       "text": "keep something to yourself",
       "cn": "不把某事告诉别人",
-      "example": "Everyone should be able to keep some personal matters to themselves."
+      "example": "Everyone should be able to keep some personal matters to themselves.",
+      "exampleTranslation": "每个人都应该能够保留一些私人事务。"
     },
     {
       "text": "respect someone’s boundaries",
       "cn": "尊重某人的界限",
-      "example": "Apps should respect users’ boundaries instead of requesting every permission."
+      "example": "Apps should respect users’ boundaries instead of requesting every permission.",
+      "exampleTranslation": "应用程序应该尊重用户的界限，而不是请求所有权限。"
     },
     {
       "text": "strike a balance between privacy and convenience",
       "cn": "在隐私与便利之间取得平衡",
-      "example": "Services must strike a balance between privacy and convenience."
+      "example": "Services must strike a balance between privacy and convenience.",
+      "exampleTranslation": "服务必须在隐私和便利之间取得平衡。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,33 @@
         "reduce exposure to breaches",
         "earn users’ trust"
       ],
-      "argument": "A map application may need a person’s location while giving directions, but it does not need to retain every journey indefinitely. Keeping additional records creates commercial opportunities for the company while transferring the risk of misuse to the user. If a breach occurs, data that were never stored cannot be exposed. Data minimisation therefore preserves useful services without demanding that people surrender information unrelated to the immediate task."
+      "argument": "A map application may need a person’s location while giving directions, but it does not need to retain every journey indefinitely. Keeping additional records creates commercial opportunities for the company while transferring the risk of misuse to the user. If a breach occurs, data that were never stored cannot be exposed. Data minimisation therefore preserves useful services without demanding that people surrender information unrelated to the immediate task.",
+      "viewpointTranslation": "方便并不能成为无限制收集的理由。",
+      "topicSentenceTranslation": "数字服务应仅收集提供用户请求的功能所需的信息。",
+      "collocationTranslations": [
+        "仅收集必要的数据",
+        "限制二次使用",
+        "减少违规风险",
+        "赢得用户的信任"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A map application may need a person’s location while giving directions, but it does not need to retain every journey indefinitely.",
+          "translation": "地图应用程序在提供方向时可能需要一个人的位置，但它不需要无限期地保留每个旅程。"
+        },
+        {
+          "text": "Keeping additional records creates commercial opportunities for the company while transferring the risk of misuse to the user.",
+          "translation": "保存额外的记录为公司创造了商业机会，同时将滥用的风险转移给用户。"
+        },
+        {
+          "text": "If a breach occurs, data that were never stored cannot be exposed.",
+          "translation": "如果发生泄露，从未存储的数据将无法泄露。"
+        },
+        {
+          "text": "Data minimisation therefore preserves useful services without demanding that people surrender information unrelated to the immediate task.",
+          "translation": "因此，数据最小化保留了有用的服务，而不要求人们交出与当前任务无关的信息。"
+        }
+      ]
     },
     {
       "viewpoint": "Privacy controls must be understandable in ordinary use.",
@@ -301,19 +343,99 @@
         "offer accessible controls",
         "prevent manipulative design"
       ],
-      "argument": "Many platforms technically allow tracking to be disabled, yet hide the option across several menus while presenting acceptance in one bright button. This unequal design causes people to share data through fatigue rather than genuine agreement. Regulators should require equally visible choices and concise explanations at the moment information is requested. Such rules would not prevent personalised services; they would ensure that participation reflects a deliberate decision."
+      "argument": "Many platforms technically allow tracking to be disabled, yet hide the option across several menus while presenting acceptance in one bright button. This unequal design causes people to share data through fatigue rather than genuine agreement. Regulators should require equally visible choices and concise explanations at the moment information is requested. Such rules would not prevent personalised services; they would ensure that participation reflects a deliberate decision.",
+      "viewpointTranslation": "隐私控制必须在日常使用中易于理解。",
+      "topicSentenceTranslation": "当行使合法隐私权需要专业知识和大量时间时，其价值有限。",
+      "collocationTranslations": [
+        "提供有意义的同意",
+        "使用简单的语言",
+        "提供可访问的控件",
+        "防止人为设计"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Many platforms technically allow tracking to be disabled, yet hide the option across several menus while presenting acceptance in one bright button.",
+          "translation": "从技术上讲，许多平台允许禁用跟踪，但会在多个菜单中隐藏该选项，同时在一个明亮的按钮中表示接受。"
+        },
+        {
+          "text": "This unequal design causes people to share data through fatigue rather than genuine agreement.",
+          "translation": "这种不平等的设计导致人们通过疲劳而不是真正的同意来共享数据。"
+        },
+        {
+          "text": "Regulators should require equally visible choices and concise explanations at the moment information is requested.",
+          "translation": "在请求信息时，监管机构应要求同样可见的选择和简洁的解释。"
+        },
+        {
+          "text": "Such rules would not prevent personalised services; they would ensure that participation reflects a deliberate decision.",
+          "translation": "此类规则不会阻止个性化服务；他们将确保参与反映经过深思熟虑的决定。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a time when you decided not to share some information online.",
-      "answer": "I once installed a fitness app that immediately asked for access to my contacts, precise location and photographs. Location made sense for mapping a run, but the other permissions seemed unrelated. I checked the settings and discovered that contact access was mainly intended for finding friends on the platform. I declined it and allowed location only while the app was open. The decision took a few minutes, and the app still performed the function I wanted. It made me realise that people often press “allow” simply because they are eager to start using a service. Since then, I have paid closer attention to whether a request is essential or merely useful to the company."
+      "answer": "I once installed a fitness app that immediately asked for access to my contacts, precise location and photographs. Location made sense for mapping a run, but the other permissions seemed unrelated. I checked the settings and discovered that contact access was mainly intended for finding friends on the platform. I declined it and allowed location only while the app was open. The decision took a few minutes, and the app still performed the function I wanted. It made me realise that people often press “allow” simply because they are eager to start using a service. Since then, I have paid closer attention to whether a request is essential or merely useful to the company.",
+      "questionTranslation": "描述一次您决定不在网上分享某些信息的经历。",
+      "answerSentences": [
+        {
+          "text": "I once installed a fitness app that immediately asked for access to my contacts, precise location and photographs.",
+          "translation": "我曾经安装了一款健身应用程序，它立即要求访问我的联系人、精确位置和照片。"
+        },
+        {
+          "text": "Location made sense for mapping a run, but the other permissions seemed unrelated.",
+          "translation": "位置对于映射运行有意义，但其他权限似乎无关。"
+        },
+        {
+          "text": "I checked the settings and discovered that contact access was mainly intended for finding friends on the platform.",
+          "translation": "我检查了设置，发现联系人访问主要是为了在平台上寻找朋友。"
+        },
+        {
+          "text": "I declined it and allowed location only while the app was open.",
+          "translation": "我拒绝了它，并且仅在应用程序打开时才允许定位。"
+        },
+        {
+          "text": "The decision took a few minutes, and the app still performed the function I wanted.",
+          "translation": "这个决定花了几分钟，应用程序仍然执行了我想要的功能。"
+        },
+        {
+          "text": "It made me realise that people often press “allow” simply because they are eager to start using a service.",
+          "translation": "这让我意识到人们经常按下“允许”只是因为他们渴望开始使用某项服务。"
+        },
+        {
+          "text": "Since then, I have paid closer attention to whether a request is essential or merely useful to the company.",
+          "translation": "从那时起，我更加关注请求是必要的还是仅仅对公司有用。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Should employers be allowed to examine applicants’ social-media accounts?",
-      "answer": "Only to a very limited extent. Public posts that directly demonstrate professional misconduct may be relevant, but casual photographs and old opinions rarely predict job performance. Screening also disadvantages applicants who use social media actively and can expose employers to information about religion, health or family status that should not influence selection. A better process would assess evidence related to the role and tell applicants in advance if a public professional profile will be reviewed. Private accounts should remain outside the recruitment process."
+      "answer": "Only to a very limited extent. Public posts that directly demonstrate professional misconduct may be relevant, but casual photographs and old opinions rarely predict job performance. Screening also disadvantages applicants who use social media actively and can expose employers to information about religion, health or family status that should not influence selection. A better process would assess evidence related to the role and tell applicants in advance if a public professional profile will be reviewed. Private accounts should remain outside the recruitment process.",
+      "questionTranslation": "是否应该允许雇主检查申请人的社交媒体帐户？",
+      "answerSentences": [
+        {
+          "text": "Only to a very limited extent.",
+          "translation": "只是在非常有限的程度上。"
+        },
+        {
+          "text": "Public posts that directly demonstrate professional misconduct may be relevant, but casual photographs and old opinions rarely predict job performance.",
+          "translation": "直接证明职业不当行为的公开帖子可能是相关的，但随意的照片和旧观点很少能预测工作表现。"
+        },
+        {
+          "text": "Screening also disadvantages applicants who use social media actively and can expose employers to information about religion, health or family status that should not influence selection.",
+          "translation": "筛选还会对那些积极使用社交媒体的申请人不利，并且可能会让雇主接触到不应影响筛选的有关宗教、健康或家庭状况的信息。"
+        },
+        {
+          "text": "A better process would assess evidence related to the role and tell applicants in advance if a public professional profile will be reviewed.",
+          "translation": "更好的流程将评估与该职位相关的证据，并提前告知申请人是否会审查公共专业档案。"
+        },
+        {
+          "text": "Private accounts should remain outside the recruitment process.",
+          "translation": "私人账户应保留在招聘流程之外。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +472,95 @@
         "answer": "task",
         "explanation": "The final paragraph begins by saying the task should be defined first."
       }
+    ],
+    "titleTranslation": "位置数据的来世",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A location record appears temporary: a phone notes where it is, supplies directions and moves on.",
+          "translation": "位置记录看起来是临时的：手机记录其所在位置，提供方向并继续前进。"
+        },
+        {
+          "text": "In practice, repeated coordinates can reveal a person’s home, workplace, medical visits and religious attendance.",
+          "translation": "实际上，重复的坐标可以揭示一个人的家庭、工作场所、医疗访问和宗教出席情况。"
+        },
+        {
+          "text": "The sensitive information is often not a single point but the pattern produced when thousands of ordinary points are joined.",
+          "translation": "敏感信息往往不是单个点，而是数千个普通点连接在一起产生的模式。"
+        },
+        {
+          "text": "For this reason, location privacy cannot be evaluated solely by asking whether a name has been removed.",
+          "translation": "因此，不能仅通过询问姓名是否被删除来评估位置隐私。"
+        }
+      ],
+      [
+        {
+          "text": "A 2013 study examined fifteen months of mobile-phone mobility records from 1.5 million people.",
+          "translation": "2013 年的一项研究调查了 150 万人 15 个月的手机移动记录。"
+        },
+        {
+          "text": "At the dataset’s hourly and carrier-antenna resolution, researchers found that four randomly selected points in time and space were enough to distinguish 95 per cent of individual traces.",
+          "translation": "在数据集的每小时分辨率和载波天线分辨率下，研究人员发现，时间和空间上随机选择的四个点足以区分 95% 的单独痕迹。"
+        },
+        {
+          "text": "The finding did not mean that every person’s name was already present in the records; it showed how distinctive movement patterns can make supposedly anonymous data vulnerable when outside information is available.",
+          "translation": "这一发现并不意味着每个人的名字都已经出现在记录中；它表明，当外部信息可用时，独特的移动模式如何使所谓的匿名数据变得脆弱。"
+        }
+      ],
+      [
+        {
+          "text": "Location services nevertheless have clear value.",
+          "translation": "然而，定位服务具有明显的价值。"
+        },
+        {
+          "text": "Transport authorities can estimate crowding, emergency teams can locate callers, and retailers can examine how customers move through a building.",
+          "translation": "交通当局可以估计拥挤情况，应急小组可以找到呼叫者，零售商可以检查顾客如何穿过建筑物。"
+        },
+        {
+          "text": "The relevant question is therefore not whether coordinates should ever be collected, but how much detail is necessary, how long it should survive and who may reuse it.",
+          "translation": "因此，相关问题不是是否应该收集坐标，而是需要多少细节、它应该保存多长时间以及谁可以重复使用它。"
+        },
+        {
+          "text": "Aggregating journeys into broad flows may answer a planning question without preserving individual routes.",
+          "translation": "将旅程聚合成广泛的流程可以在不保留单独路线的情况下回答规划问题。"
+        }
+      ],
+      [
+        {
+          "text": "Retention changes the balance of risk.",
+          "translation": "保留改变了风险的平衡。"
+        },
+        {
+          "text": "Information gathered to manage today’s traffic may still exist years later, when it could be purchased by a different company or requested under rules that did not exist at collection.",
+          "translation": "为管理当今流量而收集的信息可能在多年后仍然存在，届时其他公司可以购买这些信息，或者根据收集时不存在的规则进行请求。"
+        },
+        {
+          "text": "Users, who generally make a decision while opening an app, cannot realistically predict every future combination.",
+          "translation": "用户通常在打开应用程序时做出决定，无法现实地预测未来的每一个组合。"
+        },
+        {
+          "text": "Clear deletion schedules and restrictions on secondary use are consequently more meaningful than a promise that data will simply be handled responsibly.",
+          "translation": "因此，明确的删除计划和对二次使用的限制比简单地负责任地处理数据的承诺更有意义。"
+        }
+      ],
+      [
+        {
+          "text": "Good governance begins by defining the task before collecting the trail.",
+          "translation": "良好的治理首先是在收集线索之前定义任务。"
+        },
+        {
+          "text": "A service can reduce precision, process information on the device or discard raw coordinates after producing an aggregate.",
+          "translation": "服务可以降低精度、处理设备上的信息或在生成聚合后丢弃原始坐标。"
+        },
+        {
+          "text": "These choices may limit profitable future uses, which is precisely why voluntary restraint is difficult.",
+          "translation": "这些选择可能会限制未来的有利可图的使用，这正是自愿克制困难的原因。"
+        },
+        {
+          "text": "Location data are not dangerous because movement should be secret; they require care because an unremarkable journey, preserved and connected to others, can become an intimate biography.",
+          "translation": "位置数据并不危险，因为移动应该是秘密的；他们需要照顾，因为一段平凡的旅程，如果保存下来并与他人联系起来，可以成为一部亲密的传记。"
+        }
+      ]
     ]
   }
 }

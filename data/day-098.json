@@ -153,7 +153,8 @@
         "ethically governed AI",
         "AI developed with safeguards"
       ],
-      "note": "trustworthy强调系统值得依赖，ethically governed强调治理过程。"
+      "note": "trustworthy强调系统值得依赖，ethically governed强调治理过程。",
+      "translation": "负责任的人工智能，也可表达为可信AI、合乎伦理的自动化或受到适当治理的智能系统。"
     },
     {
       "base": "biased result",
@@ -162,7 +163,8 @@
         "a systematically distorted result",
         "a decision that disadvantages certain groups"
       ],
-      "note": "systematically distorted强调偏差并非偶然。"
+      "note": "systematically distorted强调偏差并非偶然。",
+      "translation": "有偏见的结果，也可表达为算法偏差、不公平输出或对某些群体系统性不利的决定。"
     },
     {
       "base": "make AI clear",
@@ -171,7 +173,8 @@
         "make automated processes understandable",
         "disclose how the system is used"
       ],
-      "note": "disclose适合讨论机构应公开的信息。"
+      "note": "disclose适合讨论机构应公开的信息。",
+      "translation": "让AI透明，也可表达为解释系统、公开决策因素或让自动化过程可以理解。"
     },
     {
       "base": "people remain in control",
@@ -180,7 +183,8 @@
         "keep humans involved in final decisions",
         "ensure meaningful human control"
       ],
-      "note": "meaningful说明监督不能只是形式。"
+      "note": "meaningful说明监督不能只是形式。",
+      "translation": "让人保持控制，也可表达为保留人工监督、由人作最终决定或允许人工干预。"
     },
     {
       "base": "protect personal information",
@@ -189,7 +193,8 @@
         "preserve users’ privacy",
         "limit inappropriate data use"
       ],
-      "note": "safeguard常用于政策和制度语境。"
+      "note": "safeguard常用于政策和制度语境。",
+      "translation": "保护个人信息，也可表达为保障数据隐私、限制敏感数据使用或防止个人资料泄露。"
     },
     {
       "base": "check an AI system",
@@ -198,7 +203,8 @@
         "evaluate its performance and risks",
         "subject the model to independent scrutiny"
       ],
-      "note": "scrutiny表示严格、细致的审查。"
+      "note": "scrutiny表示严格、细致的审查。",
+      "translation": "检查AI系统，也可表达为审计算法、测试模型表现或独立评估自动化工具。"
     },
     {
       "base": "fix harm",
@@ -207,7 +213,8 @@
         "remedy the harm caused",
         "create an effective appeals process"
       ],
-      "note": "redress兼指纠正结果和补偿受影响者。"
+      "note": "redress兼指纠正结果和补偿受影响者。",
+      "translation": "纠正伤害，也可表达为提供补救、修正错误决定或赔偿受到影响的人。"
     },
     {
       "base": "rules for AI",
@@ -216,51 +223,60 @@
         "a regulatory framework for automated systems",
         "standards governing AI development and use"
       ],
-      "note": "framework适合指成套而非单项规则。"
+      "note": "framework适合指成套而非单项规则。",
+      "translation": "AI规则，也可表达为人工智能监管、算法治理标准或规范AI开发与使用的法律。"
     }
   ],
   "sentences": [
     {
       "pattern": "When + AI system + is used to + high-stakes purpose, + organisation + should + safeguard.",
       "cn": "当人工智能系统用于某种高风险用途时，相关机构应采取具体保障措施。",
-      "example": "When an AI system is used to screen job applicants, employers should allow candidates to challenge obvious errors."
+      "example": "When an AI system is used to screen job applicants, employers should allow candidates to challenge obvious errors.",
+      "exampleTranslation": "使用AI系统筛选求职者时，雇主应允许候选人质疑明显错误。"
     },
     {
       "pattern": "The more + organisation + relies on + automated process, the more important it becomes to + human action.",
       "cn": "机构越依赖某种自动化流程，采取相应人工措施就越重要。",
-      "example": "The more a hospital relies on automated triage, the more important it becomes to retain clinical oversight."
+      "example": "The more a hospital relies on automated triage, the more important it becomes to retain clinical oversight.",
+      "exampleTranslation": "医院越依赖自动分诊，保留临床监督就越重要。"
     },
     {
       "pattern": "Although + AI benefit, it should not be assumed that + unjustified conclusion.",
       "cn": "尽管人工智能具有某项优势，也不应因此想当然地得出某个不合理结论。",
-      "example": "Although AI can process applications quickly, it should not be assumed that its decisions are automatically fair."
+      "example": "Although AI can process applications quickly, it should not be assumed that its decisions are automatically fair.",
+      "exampleTranslation": "尽管AI可以快速处理申请，却不应假定它的决定自动就是公平的。"
     }
   ],
   "expressions": [
     {
       "text": "double-check what it gives you",
       "cn": "复核它给出的内容",
-      "example": "I always double-check what it gives me before sending a report."
+      "example": "I always double-check what it gives me before sending a report.",
+      "exampleTranslation": "发送报告前，我总会再次核对它给出的内容。"
     },
     {
       "text": "know when not to use it",
       "cn": "知道何时不该使用它",
-      "example": "Responsible staff need to know when not to use an AI tool."
+      "example": "Responsible staff need to know when not to use an AI tool.",
+      "exampleTranslation": "负责任的员工需要知道什么时候不应使用人工智能工具。"
     },
     {
       "text": "keep a human in the loop",
       "cn": "让人工参与关键环节",
-      "example": "Banks should keep a human in the loop when loans are rejected."
+      "example": "Banks should keep a human in the loop when loans are rejected.",
+      "exampleTranslation": "银行拒绝贷款时应让人参与决策。"
     },
     {
       "text": "embed safeguards from the outset",
       "cn": "从一开始就纳入保障措施",
-      "example": "Developers should embed safeguards from the outset."
+      "example": "Developers should embed safeguards from the outset.",
+      "exampleTranslation": "开发者应从一开始就嵌入保障措施。"
     },
     {
       "text": "earn public trust",
       "cn": "赢得公众信任",
-      "example": "Transparent complaint procedures can help institutions earn public trust."
+      "example": "Transparent complaint procedures can help institutions earn public trust.",
+      "exampleTranslation": "透明的投诉程序可以帮助机构赢得公众信任。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "retain meaningful oversight",
         "correct contextual errors"
       ],
-      "argument": "Automated assessment can process thousands of cases consistently, yet it may overlook unusual circumstances that its data does not represent. A rejected welfare applicant, for instance, may have been recorded under two slightly different names rather than being ineligible. Human review allows evidence and context to be reconsidered before an error causes lasting harm. It also reveals recurring faults that developers can correct. An appeal should therefore involve real authority to change the result, not merely a person repeating the machine’s conclusion."
+      "argument": "Automated assessment can process thousands of cases consistently, yet it may overlook unusual circumstances that its data does not represent. A rejected welfare applicant, for instance, may have been recorded under two slightly different names rather than being ineligible. Human review allows evidence and context to be reconsidered before an error causes lasting harm. It also reveals recurring faults that developers can correct. An appeal should therefore involve real authority to change the result, not merely a person repeating the machine’s conclusion.",
+      "viewpointTranslation": "高风险AI需要赋予人们人工复审权。",
+      "topicSentenceTranslation": "受到重大自动化决定影响的人应能够请求真正的人工复审。",
+      "collocationTranslations": [
+        "质疑自动化决定",
+        "提供便利的补救途径",
+        "保留有意义的监督",
+        "纠正情境性错误"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Automated assessment can process thousands of cases consistently, yet it may overlook unusual circumstances that its data does not represent.",
+          "translation": "自动评估可以一致地处理数千个案例，却可能忽视其数据无法代表的特殊情况。"
+        },
+        {
+          "text": "A rejected welfare applicant, for instance, may have been recorded under two slightly different names rather than being ineligible.",
+          "translation": "例如，一名福利申请人被拒可能是因为系统以两个略有不同的姓名记录了他，而不是因为他不符合资格。"
+        },
+        {
+          "text": "Human review allows evidence and context to be reconsidered before an error causes lasting harm.",
+          "translation": "人工复审使证据和背景能在错误造成持久伤害前得到重新考虑。"
+        },
+        {
+          "text": "It also reveals recurring faults that developers can correct.",
+          "translation": "它还会揭示开发者可以修复的反复故障。"
+        },
+        {
+          "text": "An appeal should therefore involve real authority to change the result, not merely a person repeating the machine’s conclusion.",
+          "translation": "因此，申诉必须包含真正改变结果的权力，而不能只是由人重复机器结论。"
+        }
+      ]
     },
     {
       "viewpoint": "AI literacy should accompany workplace adoption.",
@@ -301,19 +347,99 @@
         "verify critical information",
         "report recurring errors"
       ],
-      "argument": "A company may purchase an efficient AI assistant, but productivity will not improve if staff either distrust every answer or accept each one without thought. Role-specific training can show employees which tasks the tool handles reliably and where verification remains essential. In accounting, for example, software might classify routine expenses while a qualified employee investigates unusual transactions. This division preserves speed without surrendering professional responsibility. Employers should measure successful adoption through sound decisions, rather than the sheer volume of AI use."
+      "argument": "A company may purchase an efficient AI assistant, but productivity will not improve if staff either distrust every answer or accept each one without thought. Role-specific training can show employees which tasks the tool handles reliably and where verification remains essential. In accounting, for example, software might classify routine expenses while a qualified employee investigates unusual transactions. This division preserves speed without surrendering professional responsibility. Employers should measure successful adoption through sound decisions, rather than the sheer volume of AI use.",
+      "viewpointTranslation": "工作场所采用AI时应同时开展AI素养培训。",
+      "topicSentenceTranslation": "培训员工质疑AI输出，与教他们操作软件同样重要。",
+      "collocationTranslations": [
+        "运用专业判断",
+        "识别系统局限",
+        "核实关键信息",
+        "报告反复出现的错误"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A company may purchase an efficient AI assistant, but productivity will not improve if staff either distrust every answer or accept each one without thought.",
+          "translation": "公司可能购买高效的AI助手，但如果员工要么不信任每个答案，要么不加思考地全部接受，生产力就不会提高。"
+        },
+        {
+          "text": "Role-specific training can show employees which tasks the tool handles reliably and where verification remains essential.",
+          "translation": "针对具体岗位的培训可以让员工了解工具可靠处理哪些任务，以及哪些地方仍必须核实。"
+        },
+        {
+          "text": "In accounting, for example, software might classify routine expenses while a qualified employee investigates unusual transactions.",
+          "translation": "例如在会计领域，软件可以分类日常支出，而合格员工负责调查异常交易。"
+        },
+        {
+          "text": "This division preserves speed without surrendering professional responsibility.",
+          "translation": "这种分工既保留速度，也不放弃专业责任。"
+        },
+        {
+          "text": "Employers should measure successful adoption through sound decisions, rather than the sheer volume of AI use.",
+          "translation": "雇主应通过决定是否可靠而非AI使用量来衡量成功采用。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a time when you had to check information produced by a digital tool.",
-      "answer": "I once used an AI writing assistant to summarise a long set of meeting notes. The summary looked polished and saved me a lot of time, but one sentence attributed a deadline to the wrong department. I noticed the mistake because I remembered that part of the discussion, so I compared every action point with the original notes before sharing it. Most of the summary was accurate, and I still found the tool useful, but the experience changed the way I use it. I now treat generated text as a draft that needs checking rather than as a finished record. That approach takes a few extra minutes, yet it is much safer when other people will act on the information."
+      "answer": "I once used an AI writing assistant to summarise a long set of meeting notes. The summary looked polished and saved me a lot of time, but one sentence attributed a deadline to the wrong department. I noticed the mistake because I remembered that part of the discussion, so I compared every action point with the original notes before sharing it. Most of the summary was accurate, and I still found the tool useful, but the experience changed the way I use it. I now treat generated text as a draft that needs checking rather than as a finished record. That approach takes a few extra minutes, yet it is much safer when other people will act on the information.",
+      "questionTranslation": "请描述一次你必须核查数字工具所生成信息的经历。",
+      "answerSentences": [
+        {
+          "text": "I once used an AI writing assistant to summarise a long set of meeting notes.",
+          "translation": "我曾使用AI写作助手概括一组很长的会议记录。"
+        },
+        {
+          "text": "The summary looked polished and saved me a lot of time, but one sentence attributed a deadline to the wrong department.",
+          "translation": "摘要看起来很流畅，也为我节省了很多时间，但其中一句把截止日期归到了错误的部门。"
+        },
+        {
+          "text": "I noticed the mistake because I remembered that part of the discussion, so I compared every action point with the original notes before sharing it.",
+          "translation": "我记得讨论中的那一部分，因此在分享前把每个行动事项都与原始记录进行了比较。"
+        },
+        {
+          "text": "Most of the summary was accurate, and I still found the tool useful, but the experience changed the way I use it.",
+          "translation": "摘要大部分内容准确，我仍觉得工具有用，但这次经历改变了我的使用方式。"
+        },
+        {
+          "text": "I now treat generated text as a draft that needs checking rather than as a finished record.",
+          "translation": "现在我把生成文本当作需要核查的草稿，而不是最终记录。"
+        },
+        {
+          "text": "That approach takes a few extra minutes, yet it is much safer when other people will act on the information.",
+          "translation": "这会多花几分钟，但当其他人将依据信息采取行动时要安全得多。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Who should be responsible when an AI-assisted decision causes harm?",
-      "answer": "Responsibility should depend on who designed, supplied and used the system, rather than being shifted vaguely onto the technology. A developer may be responsible for a known technical defect, while an organisation may be at fault for using the product in an unsuitable setting or ignoring warnings. The employee who clicks a button should not automatically carry the entire burden if they lacked training or authority. Clear records can show how a decision was reached, and regulation can assign duties before harm occurs. Most importantly, the affected person needs one identifiable organisation from which to seek an explanation and remedy."
+      "answer": "Responsibility should depend on who designed, supplied and used the system, rather than being shifted vaguely onto the technology. A developer may be responsible for a known technical defect, while an organisation may be at fault for using the product in an unsuitable setting or ignoring warnings. The employee who clicks a button should not automatically carry the entire burden if they lacked training or authority. Clear records can show how a decision was reached, and regulation can assign duties before harm occurs. Most importantly, the affected person needs one identifiable organisation from which to seek an explanation and remedy.",
+      "questionTranslation": "AI辅助决定造成伤害时，谁应承担责任？",
+      "answerSentences": [
+        {
+          "text": "Responsibility should depend on who designed, supplied and used the system, rather than being shifted vaguely onto the technology.",
+          "translation": "责任应取决于谁设计、供应和使用系统，而不能含糊地推给技术本身。"
+        },
+        {
+          "text": "A developer may be responsible for a known technical defect, while an organisation may be at fault for using the product in an unsuitable setting or ignoring warnings.",
+          "translation": "开发者可能要为已知技术缺陷负责，机构则可能因在不合适的情境中使用产品或忽视警告而有过错。"
+        },
+        {
+          "text": "The employee who clicks a button should not automatically carry the entire burden if they lacked training or authority.",
+          "translation": "如果点击按钮的员工缺少培训或权限，就不应自动承担全部责任。"
+        },
+        {
+          "text": "Clear records can show how a decision was reached, and regulation can assign duties before harm occurs.",
+          "translation": "清晰记录可以显示决定如何作出，监管也能在伤害发生前分配职责。"
+        },
+        {
+          "text": "Most importantly, the affected person needs one identifiable organisation from which to seek an explanation and remedy.",
+          "translation": "最重要的是，受影响者需要有一个明确的机构，可以向其寻求解释和补救。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +476,95 @@
         "answer": "technical",
         "explanation": "Paragraph 4 states that reviewers can inspect confidential technical details."
       }
+    ],
+    "titleTranslation": "当解释变成另一个屏幕",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A tenant whose housing application is rejected by an automated system may receive an explanation such as “insufficient stability score”.",
+          "translation": "住房申请被自动系统拒绝的租户，可能收到“稳定性评分不足”之类的解释。"
+        },
+        {
+          "text": "Although this statement is technically more informative than a blank refusal, it does not tell the applicant which information was considered, whether it was accurate or how the outcome can be challenged.",
+          "translation": "虽然这句话在技术上比空白拒绝更有信息量，却没有告诉申请人考虑了哪些信息、信息是否准确或如何质疑结果。"
+        },
+        {
+          "text": "As public agencies and businesses respond to demands for transparent artificial intelligence, a new question has emerged: what makes an explanation genuinely useful?",
+          "translation": "随着公共机构和企业回应透明人工智能的要求，一个新问题出现了：什么才能让解释真正有用？"
+        }
+      ],
+      [
+        {
+          "text": "Early work on explainable AI often concentrated on describing which variables influenced a model.",
+          "translation": "早期可解释AI研究常集中于说明哪些变量影响模型。"
+        },
+        {
+          "text": "This can help engineers diagnose performance, but a list of weighted factors may be almost meaningless to somebody seeking a service.",
+          "translation": "这能帮助工程师诊断性能，但加权因素列表对寻求服务的人可能几乎毫无意义。"
+        },
+        {
+          "text": "Researchers conducting user studies have found that different audiences need different accounts.",
+          "translation": "开展用户研究的研究人员发现，不同受众需要不同的说明。"
+        },
+        {
+          "text": "An auditor may require technical evidence across thousands of cases, whereas an individual applicant needs a concise reason connected to a possible next step.",
+          "translation": "审计人员可能需要覆盖数千个案例的技术证据，而个人申请人需要与可行下一步相连的简洁理由。"
+        },
+        {
+          "text": "The most detailed explanation is therefore not necessarily the most effective one.",
+          "translation": "因此，最详细的解释不一定最有效。"
+        }
+      ],
+      [
+        {
+          "text": "Timing also matters.",
+          "translation": "时机也很重要。"
+        },
+        {
+          "text": "A bank that discloses its general use of automation only after a customer complains has provided information, but not meaningful notice.",
+          "translation": "银行只在顾客投诉后才披露其通常使用自动化，虽然提供了信息，却没有作出有意义的事先告知。"
+        },
+        {
+          "text": "By contrast, explaining the process before data is submitted allows a person to decide whether to proceed and to correct obvious inaccuracies.",
+          "translation": "相比之下，在提交数据前解释流程，能让人决定是否继续并纠正明显错误。"
+        },
+        {
+          "text": "Yet complete disclosure has limits: publishing every feature of a fraud-detection model could enable deliberate evasion, while exposing training records might violate other people’s privacy.",
+          "translation": "然而，完整披露也有限度：公开欺诈检测模型的每项特征可能让人故意规避，而暴露训练记录又可能侵犯他人隐私。"
+        }
+      ],
+      [
+        {
+          "text": "Some organisations have introduced layered explanations.",
+          "translation": "一些机构引入了分层解释。"
+        },
+        {
+          "text": "A short notice identifies the decision, the principal factors and an appeal route; further material, available on request, describes testing, data sources and known limitations.",
+          "translation": "简短通知说明决定、主要因素和申诉途径；按要求提供的进一步材料则描述测试、数据来源和已知局限。"
+        },
+        {
+          "text": "Independent reviewers can inspect confidential technical details without placing them all in the public notice.",
+          "translation": "独立审查者可以检查保密技术细节，而无需把它们全部放进公开通知。"
+        },
+        {
+          "text": "This arrangement, which separates practical guidance from specialist evidence, recognises that transparency is a relationship between information and its intended user, not simply a quantity of documents.",
+          "translation": "这种把实际指导与专业证据分开的安排认识到，透明度是信息与预期使用者之间的关系，而不只是文件数量。"
+        }
+      ],
+      [
+        {
+          "text": "No explanation can make an unsuitable system fair.",
+          "translation": "任何解释都无法让不合适的系统变得公平。"
+        },
+        {
+          "text": "Nevertheless, useful explanations can reveal incorrect data, support appeals and expose patterns of harm.",
+          "translation": "不过，有用的解释可以揭示错误数据、支持申诉并暴露伤害模式。"
+        },
+        {
+          "text": "Their success should be measured not by whether a box labelled “explanation” appears on screen, but by whether the people receiving it can understand the decision and do something informed in response.",
+          "translation": "衡量成功的标准不应是屏幕上是否出现一个标为“解释”的方框，而应是收到解释的人能否理解决定并作出知情回应。"
+        }
+      ]
     ]
   }
 }

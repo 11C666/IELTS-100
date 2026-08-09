@@ -153,7 +153,8 @@
         "malicious intrusion",
         "unauthorised system access"
       ],
-      "note": "intrusion 强调闯入系统。"
+      "note": "intrusion 强调闯入系统。",
+      "translation": "计算机攻击可以表现为网络攻击、恶意入侵、未经授权的系统访问。"
     },
     {
       "base": "keep data safe",
@@ -162,7 +163,8 @@
         "secure information",
         "prevent unauthorised disclosure"
       ],
-      "note": "disclosure 指信息泄露。"
+      "note": "disclosure 指信息泄露。",
+      "translation": "保持数据安全可以表述为保护敏感数据、保护信息安全、防止未经授权的泄露。"
     },
     {
       "base": "find a weakness",
@@ -171,7 +173,8 @@
         "detect a security flaw",
         "uncover an exploitable gap"
       ],
-      "note": "exploitable 表示可被利用。"
+      "note": "exploitable 表示可被利用。",
+      "translation": "发现弱点可以表示为识别漏洞、检测安全缺陷、发现可利用的漏洞。"
     },
     {
       "base": "teach employees",
@@ -180,7 +183,8 @@
         "build security awareness",
         "rehearse safe procedures"
       ],
-      "note": "rehearse 强调反复演练。"
+      "note": "rehearse 强调反复演练。",
+      "translation": "教导员工可以表现为培训员工、建立安全意识、演练安全程序。"
     },
     {
       "base": "respond quickly",
@@ -189,7 +193,8 @@
         "contain the incident rapidly",
         "mount an immediate response"
       ],
-      "note": "contain 强调控制影响范围。"
+      "note": "contain 强调控制影响范围。",
+      "translation": "快速反应可以表达为迅速行动，迅速遏制事件，立即做出反应。"
     },
     {
       "base": "criminals online",
@@ -198,7 +203,8 @@
         "malicious actors",
         "online fraudsters"
       ],
-      "note": "fraudsters 特指诈骗者。"
+      "note": "fraudsters 特指诈骗者。",
+      "translation": "网络犯罪分子可以表现为网络犯罪分子、恶意行为者、网络诈骗者。"
     },
     {
       "base": "reduce damage",
@@ -207,7 +213,8 @@
         "mitigate harm",
         "restrict further exposure"
       ],
-      "note": "mitigate 是正式写作用词。"
+      "note": "mitigate 是正式写作用词。",
+      "translation": "减少损害可以表示为限制破坏、减轻损害、限制进一步暴露。"
     },
     {
       "base": "safe system",
@@ -216,51 +223,60 @@
         "well-protected system",
         "secure digital environment"
       ],
-      "note": "resilient 强调受攻击后的恢复力。"
+      "note": "resilient 强调受攻击后的恢复力。",
+      "translation": "安全系统可以表现为有弹性的网络、受到良好保护的系统、安全的数字环境。"
     }
   ],
   "sentences": [
     {
       "pattern": "No matter how sophisticated + a technical defence + may be, it can be undermined if + a user makes a predictable mistake.",
       "cn": "无论技术防御多先进，如果发生某种人为行为，它仍可能失效。",
-      "example": "No matter how sophisticated an email filter may be, it can be undermined if an employee sends credentials to an impostor."
+      "example": "No matter how sophisticated an email filter may be, it can be undermined if an employee sends credentials to an impostor.",
+      "exampleTranslation": "无论电子邮件过滤器多么复杂，如果员工将凭据发送给冒名顶替者，它都可能被破坏。"
     },
     {
       "pattern": "Had + an organisation + installed + a security update + promptly, + the breach + might have been contained.",
       "cn": "如果某机构及时安装更新，某次泄露本可得到控制。",
-      "example": "Had the hospital installed the security update promptly, the breach might have been contained."
+      "example": "Had the hospital installed the security update promptly, the breach might have been contained.",
+      "exampleTranslation": "如果医院及时安装安全更新，漏洞可能会得到遏制。"
     },
     {
       "pattern": "Rather than assuming that + every cyberattack + can be prevented, an organisation should ensure that + essential services can recover quickly.",
       "cn": "与其假定事件能被完全阻止，机构更应确保能够恢复。",
-      "example": "Rather than assuming that every intrusion can be prevented entirely, a company should ensure that essential records can be restored safely."
+      "example": "Rather than assuming that every intrusion can be prevented entirely, a company should ensure that essential records can be restored safely.",
+      "exampleTranslation": "公司不应假设每次入侵都可以完全避免，而应确保可以安全地恢复重要记录。"
     }
   ],
   "expressions": [
     {
       "text": "spot a suspicious message",
       "cn": "识别可疑信息",
-      "example": "I usually spot a suspicious message by checking the sender carefully."
+      "example": "I usually spot a suspicious message by checking the sender carefully.",
+      "exampleTranslation": "我通常会通过仔细检查发件人来发现可疑邮件。"
     },
     {
       "text": "be caught off guard",
       "cn": "措手不及",
-      "example": "A convincing urgent request can catch busy employees off guard."
+      "example": "A convincing urgent request can catch busy employees off guard.",
+      "exampleTranslation": "令人信服的紧急请求可能会让忙碌的员工措手不及。"
     },
     {
       "text": "change my password straight away",
       "cn": "立即更改密码",
-      "example": "I changed my password straight away when the service reported a breach."
+      "example": "I changed my password straight away when the service reported a breach.",
+      "exampleTranslation": "服务商报告发生数据泄露后，我立即更改了密码。"
     },
     {
       "text": "strengthen cyber resilience",
       "cn": "增强网络韧性",
-      "example": "Regular recovery exercises strengthen cyber resilience."
+      "example": "Regular recovery exercises strengthen cyber resilience.",
+      "exampleTranslation": "定期进行恢复演练可以增强网络安全韧性。"
     },
     {
       "text": "limit unauthorised access",
       "cn": "限制未经授权的访问",
-      "example": "Separate permissions can limit unauthorised access to sensitive files."
+      "example": "Separate permissions can limit unauthorised access to sensitive files.",
+      "exampleTranslation": "单独的权限可以限制对敏感文件的未经授权的访问。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "verify unusual requests",
         "report incidents promptly"
       ],
-      "argument": "Employees working under time pressure will occasionally overlook a warning, so a system that depends on perfect attention is fragile. Password managers, clear verification channels and restricted permissions reduce the consequences of an individual mistake. A finance worker who can confirm an unusual payment through a familiar second channel is less likely to obey a fraudulent email. Training remains useful, but it should explain realistic situations and allow staff to report errors without fear. The strongest defence combines human judgement with controls that expect judgement sometimes to fail."
+      "argument": "Employees working under time pressure will occasionally overlook a warning, so a system that depends on perfect attention is fragile. Password managers, clear verification channels and restricted permissions reduce the consequences of an individual mistake. A finance worker who can confirm an unusual payment through a familiar second channel is less likely to obey a fraudulent email. Training remains useful, but it should explain realistic situations and allow staff to report errors without fear. The strongest defence combines human judgement with controls that expect judgement sometimes to fail.",
+      "viewpointTranslation": "组织应该围绕可预测的人类行为来设计安全性。",
+      "topicSentenceTranslation": "当日常工作中的安全行动比危险行动更容易时，网络安全就会得到改善。",
+      "collocationTranslations": [
+        "减少可避免的错误",
+        "设计可用的保障措施",
+        "验证异常请求",
+        "及时报告事件"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Employees working under time pressure will occasionally overlook a warning, so a system that depends on perfect attention is fragile.",
+          "translation": "在时间压力下工作的员工有时会忽视警告，因此依赖完美注意力的系统是脆弱的。"
+        },
+        {
+          "text": "Password managers, clear verification channels and restricted permissions reduce the consequences of an individual mistake.",
+          "translation": "密码管理器、清晰的验证通道和受限的权限可以减少个人错误的后果。"
+        },
+        {
+          "text": "A finance worker who can confirm an unusual payment through a familiar second channel is less likely to obey a fraudulent email.",
+          "translation": "能够通过熟悉的第二渠道确认异常付款的财务人员不太可能遵守欺诈性电子邮件。"
+        },
+        {
+          "text": "Training remains useful, but it should explain realistic situations and allow staff to report errors without fear.",
+          "translation": "培训仍然有用，但它应该解释现实情况并允许员工毫无恐惧地报告错误。"
+        },
+        {
+          "text": "The strongest defence combines human judgement with controls that expect judgement sometimes to fail.",
+          "translation": "最强有力的防御将人类的判断与预期判断有时会失败的控制结合起来。"
+        }
+      ]
     },
     {
       "viewpoint": "Mandatory breach reporting can improve security when rules encourage useful disclosure.",
@@ -301,19 +347,111 @@
         "share threat intelligence",
         "avoid punitive silence"
       ],
-      "argument": "A concealed breach leaves customers unaware that passwords or financial details should be changed. Timely notification reduces this secondary harm and gives regulators evidence about recurring weaknesses across an industry. However, vague rules or automatic punishment for every minor event may encourage defensive reporting or secrecy. Thresholds should focus on material risk, while firms that cooperate and remedy faults receive appropriate consideration. Reporting then becomes a source of collective learning rather than a public-relations contest over which organisation appears never to be attacked."
+      "argument": "A concealed breach leaves customers unaware that passwords or financial details should be changed. Timely notification reduces this secondary harm and gives regulators evidence about recurring weaknesses across an industry. However, vague rules or automatic punishment for every minor event may encourage defensive reporting or secrecy. Thresholds should focus on material risk, while firms that cooperate and remedy faults receive appropriate consideration. Reporting then becomes a source of collective learning rather than a public-relations contest over which organisation appears never to be attacked.",
+      "viewpointTranslation": "当规则鼓励有用的披露时，强制违规报告可以提高安全性。",
+      "topicSentenceTranslation": "要求组织报告严重违规行为可以建立问责制，并允许受影响的用户保护自己。",
+      "collocationTranslations": [
+        "通知受影响的用户",
+        "披露重大事件",
+        "共享威胁情报",
+        "避免惩罚性沉默"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A concealed breach leaves customers unaware that passwords or financial details should be changed.",
+          "translation": "隐蔽的违规行为使客户不知道密码或财务详细信息应该更改。"
+        },
+        {
+          "text": "Timely notification reduces this secondary harm and gives regulators evidence about recurring weaknesses across an industry.",
+          "translation": "及时通知可以减少这种二次伤害，并向监管机构提供有关整个行业反复出现的弱点的证据。"
+        },
+        {
+          "text": "However, vague rules or automatic punishment for every minor event may encourage defensive reporting or secrecy.",
+          "translation": "然而，模糊的规则或对每一个小事件的自动惩罚可能会鼓励防御性报告或保密。"
+        },
+        {
+          "text": "Thresholds should focus on material risk, while firms that cooperate and remedy faults receive appropriate consideration.",
+          "translation": "阈值应侧重于重大风险，而合作和纠正错误的公司则应得到适当的考虑。"
+        },
+        {
+          "text": "Reporting then becomes a source of collective learning rather than a public-relations contest over which organisation appears never to be attacked.",
+          "translation": "这样，报告就成为集体学习的一个来源，而不是一场关于哪个组织似乎永远不会受到攻击的公共关系竞赛。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a time when you received a suspicious online message.",
-      "answer": "I received a text claiming that a parcel could not be delivered until I paid a very small fee. It looked convincing because I was actually expecting an order, and the message used the name of a familiar delivery company. I nearly opened the link, but the unusual web address made me pause. Instead, I checked the order through the retailer's official app and found that it was still in transit. I deleted the message and reported it as spam. What surprised me was how the scam relied on timing and impatience rather than technical knowledge. Since then, I avoid using links in unexpected messages and open the relevant service independently. That small habit makes me feel much more in control."
+      "answer": "I received a text claiming that a parcel could not be delivered until I paid a very small fee. It looked convincing because I was actually expecting an order, and the message used the name of a familiar delivery company. I nearly opened the link, but the unusual web address made me pause. Instead, I checked the order through the retailer's official app and found that it was still in transit. I deleted the message and reported it as spam. What surprised me was how the scam relied on timing and impatience rather than technical knowledge. Since then, I avoid using links in unexpected messages and open the relevant service independently. That small habit makes me feel much more in control.",
+      "questionTranslation": "描述一下您收到可疑在线消息的一次情况。",
+      "answerSentences": [
+        {
+          "text": "I received a text claiming that a parcel could not be delivered until I paid a very small fee.",
+          "translation": "我收到一条短信，声称只有支付很少的费用才能递送包裹。"
+        },
+        {
+          "text": "It looked convincing because I was actually expecting an order, and the message used the name of a familiar delivery company.",
+          "translation": "它看起来很有说服力，因为我实际上正在等待订单，并且该消息使用了一家熟悉的送货公司的名称。"
+        },
+        {
+          "text": "I nearly opened the link, but the unusual web address made me pause.",
+          "translation": "我几乎要打开这个链接，但这个不寻常的网址让我停了下来。"
+        },
+        {
+          "text": "Instead, I checked the order through the retailer's official app and found that it was still in transit.",
+          "translation": "相反，我通过零售商的官方应用程序检查了订单，发现它仍在运输途中。"
+        },
+        {
+          "text": "I deleted the message and reported it as spam.",
+          "translation": "我删除了该邮件并将其报告为垃圾邮件。"
+        },
+        {
+          "text": "What surprised me was how the scam relied on timing and impatience rather than technical knowledge.",
+          "translation": "令我惊讶的是，这个骗局依赖的是时机和急躁，而不是技术知识。"
+        },
+        {
+          "text": "Since then, I avoid using links in unexpected messages and open the relevant service independently.",
+          "translation": "从那时起，我就避免使用意外消息中的链接，并独立打开相关服务。"
+        },
+        {
+          "text": "That small habit makes me feel much more in control.",
+          "translation": "这个小习惯让我感觉更有控制力。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Is cybersecurity mainly the responsibility of individuals or organisations?",
-      "answer": "Responsibility is shared, but organisations carry the larger burden because they design the systems and hold data at scale. Individuals should use strong authentication, update devices and question suspicious requests. Yet users cannot inspect a company's internal access controls or decide how securely records are stored. Organisations need to minimise data collection, repair known vulnerabilities and provide clear support after an incident. Governments also set reporting and safety standards. It is unfair to blame a customer for one mistake when poor system design allows that mistake to expose millions of records."
+      "answer": "Responsibility is shared, but organisations carry the larger burden because they design the systems and hold data at scale. Individuals should use strong authentication, update devices and question suspicious requests. Yet users cannot inspect a company's internal access controls or decide how securely records are stored. Organisations need to minimise data collection, repair known vulnerabilities and provide clear support after an incident. Governments also set reporting and safety standards. It is unfair to blame a customer for one mistake when poor system design allows that mistake to expose millions of records.",
+      "questionTranslation": "网络安全主要是个人还是组织的责任？",
+      "answerSentences": [
+        {
+          "text": "Responsibility is shared, but organisations carry the larger burden because they design the systems and hold data at scale.",
+          "translation": "责任是共同承担的，但组织承担着更大的负担，因为他们设计系统并大规模保存数据。"
+        },
+        {
+          "text": "Individuals should use strong authentication, update devices and question suspicious requests.",
+          "translation": "个人应使用强身份验证、更新设备并质疑可疑请求。"
+        },
+        {
+          "text": "Yet users cannot inspect a company's internal access controls or decide how securely records are stored.",
+          "translation": "然而，用户无法检查公司的内部访问控制或决定记录存储的安全程度。"
+        },
+        {
+          "text": "Organisations need to minimise data collection, repair known vulnerabilities and provide clear support after an incident.",
+          "translation": "组织需要最大限度地减少数据收集、修复已知漏洞并在事件发生后提供明确的支持。"
+        },
+        {
+          "text": "Governments also set reporting and safety standards.",
+          "translation": "政府还制定了报告和安全标准。"
+        },
+        {
+          "text": "It is unfair to blame a customer for one mistake when poor system design allows that mistake to expose millions of records.",
+          "translation": "当糟糕的系统设计导致错误暴露数百万条记录时，将错误归咎于客户是不公平的。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +488,103 @@
         "answer": "who can decide, how to communicate, and which services must return first",
         "explanation": "The final sentence lists these three matters."
       }
+    ],
+    "titleTranslation": "为什么网络安全练习有时需要纸质笔记本",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A cybersecurity exercise may begin with an unexpected instruction: participants are asked to close their laptops.",
+          "translation": "网络安全演习可能会以意想不到的指令开始：参与者被要求关闭笔记本电脑。"
+        },
+        {
+          "text": "The aim is not nostalgia.",
+          "translation": "目的不是怀旧。"
+        },
+        {
+          "text": "If an attack disables email, shared drives or identity systems, a response plan stored only on the affected network becomes inaccessible at precisely the moment it is needed.",
+          "translation": "如果攻击禁用了电子邮件、共享驱动器或身份系统，则仅存储在受影响网络上的响应计划将在需要时变得无法访问。"
+        },
+        {
+          "text": "Printed contacts and offline procedures provide a modest but important form of resilience.",
+          "translation": "打印的联系方式和离线程序提供了一种适度但重要的弹性形式。"
+        }
+      ],
+      [
+        {
+          "text": "Exercises range from discussion-based scenarios to technical simulations.",
+          "translation": "练习范围从基于讨论的场景到技术模拟。"
+        },
+        {
+          "text": "In a tabletop exercise, managers receive fragments of information and decide whether to isolate systems, notify regulators or interrupt services.",
+          "translation": "在桌面练习中，管理人员接收信息片段并决定是否隔离系统、通知监管机构或中断服务。"
+        },
+        {
+          "text": "No malware is released, which allows legal, operational and communication teams to practise together at relatively low cost.",
+          "translation": "不会发布任何恶意软件，这使得法律、运营和沟通团队能够以相对较低的成本一起实践。"
+        },
+        {
+          "text": "A technical exercise tests actual detection and recovery tools, but it requires tighter safeguards because mistakes can disturb live operations.",
+          "translation": "技术演习测试实际的检测和恢复工具，但它需要更严格的保障措施，因为错误可能会干扰实时操作。"
+        }
+      ],
+      [
+        {
+          "text": "The most revealing failures are often organisational.",
+          "translation": "最明显的失败往往是组织方面的。"
+        },
+        {
+          "text": "A security team may detect unusual activity yet have no authority to disconnect a critical server.",
+          "translation": "安全团队可能会检测到异常活动，但无权断开关键服务器的连接。"
+        },
+        {
+          "text": "Executives may delay public communication while waiting for certainty that an unfolding incident cannot provide.",
+          "translation": "高管们可能会推迟公开沟通，同时等待正在发生的事件无法提供的确定性。"
+        },
+        {
+          "text": "Contact lists, painstakingly prepared months earlier, may contain people who have changed roles.",
+          "translation": "几个月前精心准备的联系人名单可能包含角色发生变化的人。"
+        },
+        {
+          "text": "Such discoveries are useful only if the organisation records them as design weaknesses rather than treating participants' hesitation as personal failure.",
+          "translation": "只有当组织将这些发现记录为设计缺陷而不是将参与者的犹豫视为个人失败时，这些发现才有用。"
+        }
+      ],
+      [
+        {
+          "text": "Realism has limits.",
+          "translation": "现实主义有其局限性。"
+        },
+        {
+          "text": "If every employee knows the exact hour of the exercise, response times look impressive but teach little about initial detection.",
+          "translation": "如果每个员工都知道演习的确切时间，那么响应时间看起来会令人印象深刻，但对初步检测的指导却很少。"
+        },
+        {
+          "text": "If almost nobody is informed, however, emergency actions may alarm customers or external authorities.",
+          "translation": "然而，如果几乎没有人知道，紧急行动可能会引起客户或外部当局的警觉。"
+        },
+        {
+          "text": "Exercise planners therefore define boundaries and a small control group, whose members can stop the scenario if it threatens safety or essential services, while preserving enough uncertainty to test judgement.",
+          "translation": "因此，演习规划者会定义边界和一个小型控制小组，如果威胁到安全或基本服务，其成员可以阻止该场景，同时保留足够的不确定性来测试判断。"
+        }
+      ],
+      [
+        {
+          "text": "A successful exercise does not prove that an organisation is secure.",
+          "translation": "成功的演习并不能证明组织是安全的。"
+        },
+        {
+          "text": "It provides evidence about one scenario under chosen conditions and generates a list of changes to be assigned, funded and tested again.",
+          "translation": "它提供了有关选定条件下的某个场景的证据，并生成要分配、资助和再次测试的变更列表。"
+        },
+        {
+          "text": "The paper notebook symbolises the broader lesson: sophisticated defence depends on mundane preparation.",
+          "translation": "纸质笔记本象征着更广泛的教训：复杂的防御取决于平凡的准备。"
+        },
+        {
+          "text": "Recovery is strongest when people know who can decide, how they will communicate and which services must return first—even when the normal digital tools have disappeared.",
+          "translation": "当人们知道谁可以决定、他们将如何沟通以及哪些服务必须首先恢复时，即使正常的数字工具已经消失，恢复也是最强的。"
+        }
+      ]
     ]
   }
 }

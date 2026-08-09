@@ -153,7 +153,8 @@
         "enable",
         "make it easier to"
       ],
-      "note": "enable 后接宾语和 to do。 本组可用于讨论乡村社区。"
+      "note": "enable 后接宾语和 to do。 本组可用于讨论乡村社区。",
+      "translation": "help 表示帮助；assist、enable 和 make it easier to 可用于不同正式程度的语境。"
     },
     {
       "base": "problem",
@@ -162,7 +163,8 @@
         "concern",
         "obstacle"
       ],
-      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论乡村社区。"
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论乡村社区。",
+      "translation": "problem 表示问题；challenge、concern 和 obstacle 可分别强调挑战、隐忧或障碍。"
     },
     {
       "base": "change",
@@ -171,7 +173,8 @@
         "development",
         "transformation"
       ],
-      "note": "transformation 表示幅度较大的变化。 本组可用于讨论乡村社区。"
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论乡村社区。",
+      "translation": "change 表示变化；shift、development 和 transformation 可表示不同幅度的改变。"
     },
     {
       "base": "important",
@@ -180,7 +183,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论乡村社区。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论乡村社区。",
+      "translation": "important 表示重要；significant、crucial 和 essential 可表达不同程度的重要性。"
     },
     {
       "base": "result",
@@ -189,7 +193,8 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论乡村社区。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论乡村社区。",
+      "translation": "result 表示结果；outcome、consequence 和 effect 可根据语境替换。"
     },
     {
       "base": "improve",
@@ -198,7 +203,8 @@
         "strengthen",
         "raise the quality of"
       ],
-      "note": "搭配对象不同，不能机械互换。 本组可用于讨论乡村社区。"
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论乡村社区。",
+      "translation": "improve 表示改善；enhance、strengthen 和 raise the quality of 可强调提升或加强。"
     },
     {
       "base": "reduce",
@@ -207,7 +213,8 @@
         "limit",
         "bring down"
       ],
-      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论乡村社区。"
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论乡村社区。",
+      "translation": "reduce 表示减少；decrease、limit 和 bring down 可表达降低或控制。"
     },
     {
       "base": "people",
@@ -216,51 +223,60 @@
         "members of the public",
         "residents"
       ],
-      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论乡村社区。"
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论乡村社区。",
+      "translation": "people 表示人们；individuals、members of the public 和 residents 可用于更正式或具体的语境。"
     }
   ],
   "sentences": [
     {
       "pattern": "For rural residents, the loss of + service + can mean not only + inconvenience, but also + wider consequence.",
       "cn": "对乡村居民而言，失去某项服务不仅意味着不便，还意味着更广泛后果。",
-      "example": "For rural residents, the loss of a bus can mean not only inconvenience, but also reduced access to healthcare."
+      "example": "For rural residents, the loss of a bus can mean not only inconvenience, but also reduced access to healthcare.",
+      "exampleTranslation": "对农村居民而言，失去一条公交线路不仅意味着不便，也意味着获得医疗服务的机会减少。"
     },
     {
       "pattern": "Because + rural resource + serves a dispersed population, its value cannot be judged solely by + volume measure.",
       "cn": "由于乡村资源服务分散人口，其价值不能只按数量衡量。",
-      "example": "Because a village shop serves a dispersed population, its value cannot be judged solely by daily sales."
+      "example": "Because a village shop serves a dispersed population, its value cannot be judged solely by daily sales.",
+      "exampleTranslation": "由于乡村商店服务的是分散居住的人口，不能只凭每日销售额判断其价值。"
     },
     {
       "pattern": "By sharing + facility/resource, neighbouring communities can + benefit + without + cost.",
       "cn": "通过共享某设施或资源，相邻社区可以在不付出某代价的情况下……。",
-      "example": "By sharing specialist staff, neighbouring communities can maintain services without duplicating every post."
+      "example": "By sharing specialist staff, neighbouring communities can maintain services without duplicating every post.",
+      "exampleTranslation": "相邻社区通过共享专业人员，可以在不重复设置每个岗位的情况下维持服务。"
     }
   ],
   "expressions": [
     {
       "text": "a close-knit community",
       "cn": "关系紧密的社区",
-      "example": "It is a close-knit community where neighbours notice when someone needs help."
+      "example": "It is a close-knit community where neighbours notice when someone needs help.",
+      "exampleTranslation": "这是一个关系紧密的社区，邻居会留意谁需要帮助。"
     },
     {
       "text": "live off the beaten track",
       "cn": "住在偏僻处",
-      "example": "Some families live off the beaten track and depend on private transport."
+      "example": "Some families live off the beaten track and depend on private transport.",
+      "exampleTranslation": "一些家庭住在偏僻地区，依赖私人交通工具。"
     },
     {
       "text": "move away for work",
       "cn": "为工作搬离",
-      "example": "Young adults often move away for work or study."
+      "example": "Young adults often move away for work or study.",
+      "exampleTranslation": "年轻人常常为了工作或学习离开家乡。"
     },
     {
       "text": "keep a village alive",
       "cn": "维持村庄活力",
-      "example": "A school and local shop can help keep a village alive."
+      "example": "A school and local shop can help keep a village alive.",
+      "exampleTranslation": "学校和本地商店有助于维持村庄活力。"
     },
     {
       "text": "access essential services",
       "cn": "获得基本服务",
-      "example": "Reliable broadband can improve access to essential services."
+      "example": "Reliable broadband can improve access to essential services.",
+      "exampleTranslation": "可靠的宽带可以改善获得基本服务的条件。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "prevent social isolation",
         "measure wider social value"
       ],
-      "argument": "A village bus or post office may handle fewer transactions than an urban equivalent, yet each transaction can have greater importance where alternatives are distant. Closing the service may increase isolation, private travel and pressure on relatives who provide lifts. These secondary costs rarely appear in the service’s own budget. Authorities should evaluate access and community resilience before using volume alone. Targeted support can be justified when one modest facility enables several other parts of rural life."
+      "argument": "A village bus or post office may handle fewer transactions than an urban equivalent, yet each transaction can have greater importance where alternatives are distant. Closing the service may increase isolation, private travel and pressure on relatives who provide lifts. These secondary costs rarely appear in the service’s own budget. Authorities should evaluate access and community resilience before using volume alone. Targeted support can be justified when one modest facility enables several other parts of rural life.",
+      "viewpointTranslation": "评估农村服务时，既要考虑社会价值，也要考虑使用量。",
+      "topicSentenceTranslation": "使用者数量少，并不一定意味着某项农村服务不重要。",
+      "collocationTranslations": [
+        "维持基本服务供给",
+        "服务分散人口",
+        "防止社会孤立",
+        "衡量更广泛的社会价值"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A village bus or post office may handle fewer transactions than an urban equivalent, yet each transaction can have greater importance where alternatives are distant.",
+          "translation": "乡村公交或邮局的业务量可能少于城市同类服务，但在其他选择遥远的地方，每笔业务都可能更加重要。"
+        },
+        {
+          "text": "Closing the service may increase isolation, private travel and pressure on relatives who provide lifts.",
+          "translation": "关闭服务可能加剧孤立、增加私人出行，并给负责接送的亲属带来压力。"
+        },
+        {
+          "text": "These secondary costs rarely appear in the service’s own budget.",
+          "translation": "这些次生成本很少出现在该服务本身的预算中。"
+        },
+        {
+          "text": "Authorities should evaluate access and community resilience before using volume alone.",
+          "translation": "管理部门不应只看业务量，还应评估服务可及性和社区韧性。"
+        },
+        {
+          "text": "Targeted support can be justified when one modest facility enables several other parts of rural life.",
+          "translation": "当一项规模不大的设施能够支持农村生活的多个方面时，给予针对性支持是合理的。"
+        }
+      ]
     },
     {
       "viewpoint": "Digital connectivity is infrastructure, not a complete rural strategy.",
@@ -301,19 +347,95 @@
         "access online services",
         "retain face-to-face provision"
       ],
-      "argument": "Reliable broadband allows some residents to work remotely, consult specialists and operate small businesses from rural locations. It can make a village more attractive to working-age households. Nevertheless, online access cannot transport a patient, provide childcare or reproduce the informal contact of a local shop. Digital-only systems may also disadvantage older residents and people with limited skills. Connectivity should strengthen a network of services rather than provide an excuse to withdraw them."
+      "argument": "Reliable broadband allows some residents to work remotely, consult specialists and operate small businesses from rural locations. It can make a village more attractive to working-age households. Nevertheless, online access cannot transport a patient, provide childcare or reproduce the informal contact of a local shop. Digital-only systems may also disadvantage older residents and people with limited skills. Connectivity should strengthen a network of services rather than provide an excuse to withdraw them.",
+      "viewpointTranslation": "数字连接是基础设施，但并非完整的农村发展战略。",
+      "topicSentenceTranslation": "高速互联网可以缩短距离带来的影响，但无法取代所有实体服务或社会联系。",
+      "collocationTranslations": [
+        "扩大宽带覆盖",
+        "远程工作",
+        "获取在线服务",
+        "保留面对面服务"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Reliable broadband allows some residents to work remotely, consult specialists and operate small businesses from rural locations.",
+          "translation": "可靠的宽带使一些居民能够在农村远程工作、咨询专家并经营小企业。"
+        },
+        {
+          "text": "It can make a village more attractive to working-age households.",
+          "translation": "它可以增强乡村对劳动年龄家庭的吸引力。"
+        },
+        {
+          "text": "Nevertheless, online access cannot transport a patient, provide childcare or reproduce the informal contact of a local shop.",
+          "translation": "不过，线上服务无法运送病人、提供儿童照护，也无法复制本地商店中的日常交流。"
+        },
+        {
+          "text": "Digital-only systems may also disadvantage older residents and people with limited skills.",
+          "translation": "完全数字化的系统还可能使老年居民和技能有限的人处于不利地位。"
+        },
+        {
+          "text": "Connectivity should strengthen a network of services rather than provide an excuse to withdraw them.",
+          "translation": "数字连接应加强服务网络，而不应成为撤销服务的借口。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Would you enjoy living in the countryside?",
-      "answer": "I would enjoy the quieter surroundings and access to open land, but I might find the transport difficult. I like being able to walk to shops and services, which is less common in remote places. A small town near the countryside would probably suit me better than an isolated house."
+      "answer": "I would enjoy the quieter surroundings and access to open land, but I might find the transport difficult. I like being able to walk to shops and services, which is less common in remote places. A small town near the countryside would probably suit me better than an isolated house.",
+      "questionTranslation": "你会喜欢住在乡下吗？",
+      "answerSentences": [
+        {
+          "text": "I would enjoy the quieter surroundings and access to open land, but I might find the transport difficult.",
+          "translation": "我会喜欢更安静的环境和开阔土地，但交通可能会让我觉得不便。"
+        },
+        {
+          "text": "I like being able to walk to shops and services, which is less common in remote places.",
+          "translation": "我喜欢步行就能到商店和服务设施，而这在偏远地区并不常见。"
+        },
+        {
+          "text": "A small town near the countryside would probably suit me better than an isolated house.",
+          "translation": "与独立偏远的房屋相比，靠近乡村的小镇可能更适合我。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a rural place you have visited.",
-      "answer": "I once stayed in a farming village surrounded by low hills. There was one main street, a small shop and a bus that ran only a few times a day. In the morning, local people stopped to talk outside the shop, so it functioned as a social place as well as a business. I walked along a path between fields and noticed how quiet the area became once I left the road. The visit was peaceful, but it also showed me the practical limits of rural life. Without a car, an appointment in the nearest town required careful planning. I remember the village because its beauty and its dependence on a few essential services were visible at the same time."
+      "answer": "I once stayed in a farming village surrounded by low hills. There was one main street, a small shop and a bus that ran only a few times a day. In the morning, local people stopped to talk outside the shop, so it functioned as a social place as well as a business. I walked along a path between fields and noticed how quiet the area became once I left the road. The visit was peaceful, but it also showed me the practical limits of rural life. Without a car, an appointment in the nearest town required careful planning. I remember the village because its beauty and its dependence on a few essential services were visible at the same time.",
+      "questionTranslation": "描述一个你去过的乡村地区。",
+      "answerSentences": [
+        {
+          "text": "I once stayed in a farming village surrounded by low hills.",
+          "translation": "我曾住在一个被低矮山丘环绕的农业村庄。"
+        },
+        {
+          "text": "There was one main street, a small shop and a bus that ran only a few times a day.",
+          "translation": "那里只有一条主街、一家小商店和一天只运行几班的公交车。"
+        },
+        {
+          "text": "In the morning, local people stopped to talk outside the shop, so it functioned as a social place as well as a business.",
+          "translation": "早晨，当地人会停在商店外聊天，因此它既是商业场所，也是社交空间。"
+        },
+        {
+          "text": "I walked along a path between fields and noticed how quiet the area became once I left the road.",
+          "translation": "我沿着田野之间的小路散步，发现一离开公路，周围就变得非常安静。"
+        },
+        {
+          "text": "The visit was peaceful, but it also showed me the practical limits of rural life.",
+          "translation": "这次旅行很宁静，但也让我看到乡村生活在实际层面的局限。"
+        },
+        {
+          "text": "Without a car, an appointment in the nearest town required careful planning.",
+          "translation": "没有汽车的话，前往最近城镇赴约需要仔细规划。"
+        },
+        {
+          "text": "I remember the village because its beauty and its dependence on a few essential services were visible at the same time.",
+          "translation": "我记得这个村庄，是因为它的美丽和对少数基本服务的依赖同时清晰可见。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +466,115 @@
         "answer": "volunteers",
         "explanation": "The final paragraph uses this phrase."
       }
+    ],
+    "titleTranslation": "当乡村商店成为基础设施",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A small village shop appears to be an ordinary private business, yet its disappearance can affect far more than shopping.",
+          "translation": "一家小型乡村商店看似只是普通私营企业，但它的消失所带来的影响远不止购物不便。"
+        },
+        {
+          "text": "Where the nearest supermarket is fifteen kilometres away, the shop provides access to food for residents who do not drive.",
+          "translation": "当最近的超市在十五公里外时，这家商店为不会开车的居民提供食品。"
+        },
+        {
+          "text": "It may also receive parcels, display local notices and serve as the one indoor place where people meet without arranging an appointment.",
+          "translation": "它还可能代收包裹、张贴本地通知，并成为人们无需预约便能见面的唯一室内场所。"
+        }
+      ],
+      [
+        {
+          "text": "Financially, such shops face structural disadvantages.",
+          "translation": "从财务角度看，这类商店面临结构性劣势。"
+        },
+        {
+          "text": "Low population limits sales, deliveries cost more and seasonal demand creates uneven cash flow.",
+          "translation": "人口少会限制销售额，配送成本更高，季节性需求还会造成现金流不均。"
+        },
+        {
+          "text": "Extending opening hours may help commuters but increases staffing costs during quiet periods.",
+          "translation": "延长营业时间可能方便通勤者，却会增加清淡时段的人力成本。"
+        },
+        {
+          "text": "Owners often add postal services, a café or local products, not merely to increase revenue but to spread risk across several functions.",
+          "translation": "店主往往增加邮政服务、咖啡馆或本地产品，不只是为了增加收入，也是为了把风险分散到多种功能上。"
+        }
+      ],
+      [
+        {
+          "text": "Community ownership has emerged as one response.",
+          "translation": "社区所有制已成为一种应对方式。"
+        },
+        {
+          "text": "Residents buy small shares or form a cooperative, then employ a manager or contribute volunteer hours.",
+          "translation": "居民购买小额股份或成立合作社，再雇用经理或贡献志愿服务时间。"
+        },
+        {
+          "text": "The model can mobilise local loyalty and allow modest profits to be reinvested.",
+          "translation": "这种模式可以调动当地人的忠诚，并将少量利润重新投入商店。"
+        },
+        {
+          "text": "However, goodwill does not eliminate the need for retail expertise.",
+          "translation": "然而，热情并不能取代零售专业知识。"
+        },
+        {
+          "text": "Poor stock control and unclear responsibility can exhaust volunteers as quickly as financial loss.",
+          "translation": "库存管理不善和责任不清，可能像财务亏损一样迅速耗尽志愿者的精力。"
+        }
+      ],
+      [
+        {
+          "text": "The social value is difficult to price.",
+          "translation": "社会价值很难定价。"
+        },
+        {
+          "text": "A conversation at the counter may reveal that an older customer is unwell; a noticeboard can connect a new resident with a local group.",
+          "translation": "柜台前的一次交谈可能让人发现一位老年顾客身体不适；公告栏也能帮助新居民联系本地团体。"
+        },
+        {
+          "text": "These outcomes are informal and cannot justify every struggling business.",
+          "translation": "这些结果是非正式的，不能证明每一家经营困难的企业都应继续存在。"
+        },
+        {
+          "text": "Nevertheless, closing the shop may transfer costs to health services, transport providers and families without recording them as consequences of the closure.",
+          "translation": "不过，关闭商店可能会把成本转移给医疗服务、交通提供者和家庭，却不会把这些成本记录为关店的后果。"
+        }
+      ],
+      [
+        {
+          "text": "Successful community shops usually combine sentiment with disciplined management.",
+          "translation": "成功的社区商店通常会把情感认同与严格管理结合起来。"
+        },
+        {
+          "text": "They survey what residents will actually buy, set realistic volunteer roles and revise services as the population changes.",
+          "translation": "它们调查居民真正会购买什么，设定现实的志愿者职责，并随人口变化调整服务。"
+        },
+        {
+          "text": "Their purpose is not to preserve an unchanged image of village life.",
+          "translation": "其目的并不是保存一种一成不变的乡村生活形象。"
+        },
+        {
+          "text": "It is to maintain a flexible point of access in a place where distance makes ordinary alternatives unusually expensive.",
+          "translation": "而是在距离使普通替代方案格外昂贵的地方，维持一个灵活的服务入口。"
+        },
+        {
+          "text": "Succession is another challenge.",
+          "translation": "传承也是另一项挑战。"
+        },
+        {
+          "text": "A shop built around one energetic owner may struggle when that person retires.",
+          "translation": "围绕一位精力充沛的店主建立起来的商店，可能在其退休时陷入困境。"
+        },
+        {
+          "text": "Cooperatives can document supplier contacts, maintenance routines and financial decisions so that knowledge belongs to the organisation.",
+          "translation": "合作社可以记录供应商联系方式、维护流程和财务决策，让相关知识归组织所有。"
+        },
+        {
+          "text": "Planning for leadership change is less visible than opening-day fundraising, but it determines whether the service survives beyond its founders.",
+          "translation": "领导层交接规划不如开业时的筹款引人注目，却决定着这项服务能否在创办者离开后继续存在。"
+        }
+      ]
     ]
   }
 }

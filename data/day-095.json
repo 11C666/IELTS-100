@@ -153,7 +153,8 @@
         "a government measure",
         "state intervention"
       ],
-      "note": "state intervention强调政府主动介入。"
+      "note": "state intervention强调政府主动介入。",
+      "translation": "政府政策，也可表达为公共政策、国家措施或政府制定的行动方案。"
     },
     {
       "base": "ask the public",
@@ -162,7 +163,8 @@
         "seek public input",
         "invite community participation"
       ],
-      "note": "consult比ask更适合正式政策语境。"
+      "note": "consult比ask更适合正式政策语境。",
+      "translation": "征求公众意见，也可表达为开展公众咨询、邀请居民参与或收集社会意见。"
     },
     {
       "base": "put a policy into practice",
@@ -171,7 +173,8 @@
         "translate policy into action",
         "turn a proposal into an operational programme"
       ],
-      "note": "translate into action突出从文件到执行。"
+      "note": "translate into action突出从文件到执行。",
+      "translation": "实施政策，也可表达为执行措施、落实方案或把政策付诸实践。"
     },
     {
       "base": "a policy works",
@@ -180,7 +183,8 @@
         "an intervention achieves its objective",
         "a programme produces the intended outcome"
       ],
-      "note": "intended outcome适合评估政策结果。"
+      "note": "intended outcome适合评估政策结果。",
+      "translation": "政策有效，也可表达为政策取得成效、实现预期结果或产生积极影响。"
     },
     {
       "base": "spend public money",
@@ -189,7 +193,8 @@
         "direct government expenditure towards",
         "commit taxpayer resources to"
       ],
-      "note": "commit resources to强调正式投入。"
+      "note": "commit resources to强调正式投入。",
+      "translation": "使用公共资金，也可表达为财政支出、分配纳税人资金或投入公共资源。"
     },
     {
       "base": "change a policy",
@@ -198,7 +203,8 @@
         "adjust the policy design",
         "reform the existing framework"
       ],
-      "note": "reform通常表示较系统的改变。"
+      "note": "reform通常表示较系统的改变。",
+      "translation": "修改政策，也可表达为调整措施、修订规则或根据证据重新设计方案。"
     },
     {
       "base": "fair access",
@@ -207,7 +213,8 @@
         "an inclusive allocation of support",
         "access based on need rather than influence"
       ],
-      "note": "equitable强调根据需要实现公平。"
+      "note": "equitable强调根据需要实现公平。",
+      "translation": "公平获得机会，也可表达为平等可及、无歧视地获得服务或确保不同群体都能参与。"
     },
     {
       "base": "a negative side effect",
@@ -216,51 +223,60 @@
         "an adverse secondary effect",
         "an outcome not anticipated by policymakers"
       ],
-      "note": "unintended不代表后果一定负面，adverse则明确负面。"
+      "note": "unintended不代表后果一定负面，adverse则明确负面。",
+      "translation": "负面副作用，也可表达为意外后果、不利影响或政策造成的附带问题。"
     }
   ],
   "sentences": [
     {
       "pattern": "A policy intended to + desired goal may instead + unintended result if + overlooked condition.",
       "cn": "一项原本旨在实现某目标的政策，如果忽略某项条件，反而可能造成意外结果。",
-      "example": "A policy intended to reduce traffic may instead burden shift workers if late-night buses remain unavailable."
+      "example": "A policy intended to reduce traffic may instead burden shift workers if late-night buses remain unavailable.",
+      "exampleTranslation": "旨在减少交通拥堵的政策，如果夜间公交仍然缺失，反而可能加重轮班劳动者的负担。"
     },
     {
       "pattern": "Before + authority + rolls out + scheme, it should test whether + practical question.",
       "cn": "在有关部门全面推广某项计划前，应先检验一个具体的实施问题。",
-      "example": "Before the council rolls out the subsidy, it should test whether small firms can complete the application easily."
+      "example": "Before the council rolls out the subsidy, it should test whether small firms can complete the application easily.",
+      "exampleTranslation": "市议会在全面推出补贴前，应测试小企业能否轻松完成申请。"
     },
     {
       "pattern": "The question is not simply whether + policy goal, but whether + implementation requirement.",
       "cn": "问题不只是能否实现政策目标，还在于是否满足执行该政策所需的条件。",
-      "example": "The question is not simply whether childcare should be affordable, but whether funding reaches families who need it most."
+      "example": "The question is not simply whether childcare should be affordable, but whether funding reaches families who need it most.",
+      "exampleTranslation": "问题不只是儿童照护是否应负担得起，而是资金能否到达最需要的家庭。"
     }
   ],
   "expressions": [
     {
       "text": "get a policy off the ground",
       "cn": "让一项政策顺利启动",
-      "example": "Local partnerships helped get the recycling policy off the ground."
+      "example": "Local partnerships helped get the recycling policy off the ground.",
+      "exampleTranslation": "本地合作帮助垃圾回收政策顺利启动。"
     },
     {
       "text": "get lost in paperwork",
       "cn": "陷入繁琐的文书流程",
-      "example": "Small charities can get lost in paperwork when applying for grants."
+      "example": "Small charities can get lost in paperwork when applying for grants.",
+      "exampleTranslation": "小型慈善机构申请补助时，可能被繁琐的文书流程拖住。"
     },
     {
       "text": "have a say in",
       "cn": "对某事有发言权",
-      "example": "Residents should have a say in how their square is redesigned."
+      "example": "Residents should have a say in how their square is redesigned.",
+      "exampleTranslation": "居民应有权参与广场改造方式的决定。"
     },
     {
       "text": "allocate resources where they are needed most",
       "cn": "把资源投向最需要的地方",
-      "example": "Good data helps authorities allocate resources where they are needed most."
+      "example": "Good data helps authorities allocate resources where they are needed most.",
+      "exampleTranslation": "良好数据帮助主管部门把资源分配到最需要的地方。"
     },
     {
       "text": "strike a balance between competing priorities",
       "cn": "在相互竞争的优先事项间取得平衡",
-      "example": "Budget decisions must strike a balance between competing priorities."
+      "example": "Budget decisions must strike a balance between competing priorities.",
+      "exampleTranslation": "预算决定必须在相互竞争的优先事项之间取得平衡。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "revise eligibility rules",
         "scale up gradually"
       ],
-      "argument": "A policy may appear convincing on paper yet prove difficult for frontline staff or applicants to use. A limited pilot reveals these operational problems while the financial and social risks remain contained. For instance, a trial of home-energy grants might show that tenants cannot obtain documents from landlords, prompting simpler eligibility rules. After revising the design and comparing outcomes with similar areas, the government can scale up with greater confidence. Piloting is therefore a form of responsible learning, not an excuse for indefinite delay."
+      "argument": "A policy may appear convincing on paper yet prove difficult for frontline staff or applicants to use. A limited pilot reveals these operational problems while the financial and social risks remain contained. For instance, a trial of home-energy grants might show that tenants cannot obtain documents from landlords, prompting simpler eligibility rules. After revising the design and comparing outcomes with similar areas, the government can scale up with greater confidence. Piloting is therefore a form of responsible learning, not an excuse for indefinite delay.",
+      "viewpointTranslation": "试点项目可以改善全国政策设计。",
+      "topicSentenceTranslation": "小规模测试一项提议，使政府能够在投入全国资源前发现实际缺陷。",
+      "collocationTranslations": [
+        "开展有限试点",
+        "收集实施证据",
+        "修订资格规则",
+        "逐步扩大规模"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A policy may appear convincing on paper yet prove difficult for frontline staff or applicants to use.",
+          "translation": "一项政策在纸面上可能很有说服力，实际却可能让一线员工或申请人难以使用。"
+        },
+        {
+          "text": "A limited pilot reveals these operational problems while the financial and social risks remain contained.",
+          "translation": "有限试点可以在财政和社会风险仍可控时揭示这些操作问题。"
+        },
+        {
+          "text": "For instance, a trial of home-energy grants might show that tenants cannot obtain documents from landlords, prompting simpler eligibility rules.",
+          "translation": "例如，家庭能源补助试验可能显示租户无法从房东那里取得文件，从而促使政府简化资格规则。"
+        },
+        {
+          "text": "After revising the design and comparing outcomes with similar areas, the government can scale up with greater confidence.",
+          "translation": "修改设计并与类似地区比较结果后，政府可以更有信心地扩大规模。"
+        },
+        {
+          "text": "Piloting is therefore a form of responsible learning, not an excuse for indefinite delay.",
+          "translation": "因此，试点是负责任的学习方式，而不是无限拖延的借口。"
+        }
+      ]
     },
     {
       "viewpoint": "Public consultation should influence decisions rather than merely legitimise them.",
@@ -301,19 +347,99 @@
         "respond to public concerns",
         "explain the final trade-off"
       ],
-      "argument": "Citizens possess local knowledge that administrative data can miss, such as why a nominally accessible clinic is difficult to reach. However, an open meeting cannot guarantee that every preference becomes policy, since budgets and legal duties still impose limits. Authorities should therefore consult early, publish the alternatives and explain which evidence changed the final decision. They should also state openly why some requests were rejected. This transparent response respects participation while preserving the government’s responsibility to make difficult trade-offs."
+      "argument": "Citizens possess local knowledge that administrative data can miss, such as why a nominally accessible clinic is difficult to reach. However, an open meeting cannot guarantee that every preference becomes policy, since budgets and legal duties still impose limits. Authorities should therefore consult early, publish the alternatives and explain which evidence changed the final decision. They should also state openly why some requests were rejected. This transparent response respects participation while preserving the government’s responsibility to make difficult trade-offs.",
+      "viewpointTranslation": "公众咨询应影响决策，而不只是为决策增加合法性。",
+      "topicSentenceTranslation": "如果官员在核心选择实际上已经确定后才征求意见，咨询就会失去公信力。",
+      "collocationTranslations": [
+        "尽早征求意见",
+        "公布不同选项",
+        "回应公众关切",
+        "解释最终权衡"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Citizens possess local knowledge that administrative data can miss, such as why a nominally accessible clinic is difficult to reach.",
+          "translation": "公民拥有行政数据可能遗漏的本地知识，例如为什么名义上便利的诊所实际上难以到达。"
+        },
+        {
+          "text": "However, an open meeting cannot guarantee that every preference becomes policy, since budgets and legal duties still impose limits.",
+          "translation": "然而，公开会议不能保证每项偏好都会成为政策，因为预算和法律职责仍会施加限制。"
+        },
+        {
+          "text": "Authorities should therefore consult early, publish the alternatives and explain which evidence changed the final decision.",
+          "translation": "因此，主管部门应尽早咨询、公布备选方案，并说明哪些证据改变了最终决定。"
+        },
+        {
+          "text": "They should also state openly why some requests were rejected.",
+          "translation": "他们还应公开说明为何拒绝某些请求。"
+        },
+        {
+          "text": "This transparent response respects participation while preserving the government’s responsibility to make difficult trade-offs.",
+          "translation": "这种透明回应既尊重公众参与，也保留政府作出艰难权衡的责任。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a public service that works well in your area.",
-      "answer": "A public service I rely on is the local library network. Membership is free, and one card works at several branches, so I can reserve a book online and collect it near my workplace. The staff are helpful without being intrusive, and the library also provides quiet desks, printers and basic digital support for older residents. What makes the service work well is its attention to ordinary practical details: opening hours are displayed clearly, overdue reminders arrive by email, and popular books can be transferred between branches. It is not a glamorous service, but it saves people money and gives students and job seekers a reliable place to work. I think that consistency is more valuable than an occasional impressive project."
+      "answer": "A public service I rely on is the local library network. Membership is free, and one card works at several branches, so I can reserve a book online and collect it near my workplace. The staff are helpful without being intrusive, and the library also provides quiet desks, printers and basic digital support for older residents. What makes the service work well is its attention to ordinary practical details: opening hours are displayed clearly, overdue reminders arrive by email, and popular books can be transferred between branches. It is not a glamorous service, but it saves people money and gives students and job seekers a reliable place to work. I think that consistency is more valuable than an occasional impressive project.",
+      "questionTranslation": "请描述你所在地区一项运营良好的公共服务。",
+      "answerSentences": [
+        {
+          "text": "A public service I rely on is the local library network.",
+          "translation": "我经常使用的一项公共服务是本地图书馆网络。"
+        },
+        {
+          "text": "Membership is free, and one card works at several branches, so I can reserve a book online and collect it near my workplace.",
+          "translation": "会员免费，而且一张卡可在多个分馆使用，因此我能在网上预约图书，再到工作地点附近领取。"
+        },
+        {
+          "text": "The staff are helpful without being intrusive, and the library also provides quiet desks, printers and basic digital support for older residents.",
+          "translation": "工作人员乐于帮助却不会过度打扰，图书馆还为年长居民提供安静书桌、打印机和基本数字技术支持。"
+        },
+        {
+          "text": "What makes the service work well is its attention to ordinary practical details: opening hours are displayed clearly, overdue reminders arrive by email, and popular books can be transferred between branches.",
+          "translation": "这项服务运行良好的原因，是它注重普通的实际细节：开放时间标示清楚，逾期提醒通过电子邮件发送，热门图书还能在分馆间调拨。"
+        },
+        {
+          "text": "It is not a glamorous service, but it saves people money and gives students and job seekers a reliable place to work.",
+          "translation": "它并不光鲜，却能帮人们省钱，并为学生和求职者提供可靠的工作场所。"
+        },
+        {
+          "text": "I think that consistency is more valuable than an occasional impressive project.",
+          "translation": "我认为这种稳定性比偶尔出现的亮眼项目更有价值。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "How can governments tell whether a policy is successful?",
-      "answer": "They need to define success before implementation rather than selecting favourable figures afterwards. Numerical outcomes matter, such as waiting times or the proportion of eligible people receiving support, but averages can conceal groups who are still excluded. Governments should also ask users and frontline staff about practical experience, because a service may meet its target while creating unreasonable paperwork. Where possible, outcomes should be compared with a similar population or with a clear baseline. Finally, evaluation should be public and should lead to revision; collecting evidence has little value if officials are unwilling to change the programme."
+      "answer": "They need to define success before implementation rather than selecting favourable figures afterwards. Numerical outcomes matter, such as waiting times or the proportion of eligible people receiving support, but averages can conceal groups who are still excluded. Governments should also ask users and frontline staff about practical experience, because a service may meet its target while creating unreasonable paperwork. Where possible, outcomes should be compared with a similar population or with a clear baseline. Finally, evaluation should be public and should lead to revision; collecting evidence has little value if officials are unwilling to change the programme.",
+      "questionTranslation": "政府如何判断一项政策是否成功？",
+      "answerSentences": [
+        {
+          "text": "They need to define success before implementation rather than selecting favourable figures afterwards.",
+          "translation": "政府需要在实施前定义成功，而不是事后挑选有利数据。"
+        },
+        {
+          "text": "Numerical outcomes matter, such as waiting times or the proportion of eligible people receiving support, but averages can conceal groups who are still excluded.",
+          "translation": "等待时间或符合资格者获得支持的比例等数字结果很重要，但平均值可能掩盖仍被排除的群体。"
+        },
+        {
+          "text": "Governments should also ask users and frontline staff about practical experience, because a service may meet its target while creating unreasonable paperwork.",
+          "translation": "政府还应询问使用者和一线员工的实际体验，因为服务可能达成指标，却制造了不合理的文书负担。"
+        },
+        {
+          "text": "Where possible, outcomes should be compared with a similar population or with a clear baseline.",
+          "translation": "在可能的情况下，应把结果与相似人群或明确基线进行比较。"
+        },
+        {
+          "text": "Finally, evaluation should be public and should lead to revision; collecting evidence has little value if officials are unwilling to change the programme.",
+          "translation": "最后，评估应当公开并促成修订；如果官员不愿改变项目，收集证据几乎没有价值。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +476,99 @@
         "answer": "installation",
         "explanation": "Paragraph 4 states that the city funded assisted installation for these households."
       }
+    ],
+    "titleTranslation": "当试点成为政策",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A city seeking to reduce household energy use offered smart thermostats to a large group of volunteer households.",
+          "translation": "一座希望降低家庭能源使用的城市向一大批志愿家庭提供了智能恒温器。"
+        },
+        {
+          "text": "After the first winter, participating homes used less heating energy than before, and newspapers described the pilot as proof that free devices should be distributed across the city.",
+          "translation": "第一个冬天后，参与家庭使用的供暖能源少于以前，报纸把这项试点描述为应在全市免费发放设备的证明。"
+        },
+        {
+          "text": "The result was encouraging.",
+          "translation": "结果令人鼓舞。"
+        },
+        {
+          "text": "It was not, however, a reliable estimate of what a universal programme would achieve.",
+          "translation": "然而，它并不能可靠估计普惠项目会取得什么效果。"
+        }
+      ],
+      [
+        {
+          "text": "Volunteers differed from the wider population in important ways.",
+          "translation": "志愿者与更广泛人口在重要方面存在差异。"
+        },
+        {
+          "text": "They were more likely to own their homes, to use the city’s online portal and to express prior interest in energy saving.",
+          "translation": "他们更可能拥有自己的住房、使用市政府线上门户，并且此前就对节能表示兴趣。"
+        },
+        {
+          "text": "Many attended an optional demonstration, during which technicians showed them how to create heating schedules.",
+          "translation": "许多人参加了可选演示，技术人员在其中教他们设置供暖计划。"
+        },
+        {
+          "text": "If equipment were simply posted to every address, households that had not actively applied might install it incorrectly or leave its default settings unchanged.",
+          "translation": "如果设备只是寄往每个地址，没有主动申请的家庭可能会错误安装，或让默认设置保持不变。"
+        },
+        {
+          "text": "The measured effect therefore combined the technology with unusually motivated users and additional support.",
+          "translation": "因此，测得的效果同时包含技术、积极性异常高的用户以及额外支持的作用。"
+        }
+      ],
+      [
+        {
+          "text": "Policy analysts redesigned the next stage.",
+          "translation": "政策分析人员重新设计了下一阶段。"
+        },
+        {
+          "text": "Rather than merely enlarging the volunteer group, they selected neighbourhoods with contrasting housing types and offered several forms of installation.",
+          "translation": "他们没有只是扩大志愿者群体，而是选择住房类型不同的社区，并提供多种安装方式。"
+        },
+        {
+          "text": "Some residents received a home visit; others collected a device from a library or followed printed instructions.",
+          "translation": "一些居民获得上门服务；另一些从图书馆领取设备或按印刷说明操作。"
+        },
+        {
+          "text": "This design, which cost more than the original trial, allowed the city to compare not only whether thermostats worked but also which delivery method reached tenants, older people and households without reliable internet access.",
+          "translation": "这一设计成本高于原试验，却让城市不仅能比较恒温器是否有效，还能比较哪种交付方式能触达租户、老年人和网络不稳定的家庭。"
+        }
+      ],
+      [
+        {
+          "text": "The second trial produced a smaller average reduction.",
+          "translation": "第二次试验的平均降幅较小。"
+        },
+        {
+          "text": "Yet officials regarded the evidence as more useful: installation rates were known, barriers had been documented, and savings could be compared with programme costs.",
+          "translation": "但官员认为证据更有用：安装率已知，障碍得到记录，节省金额也能与项目成本比较。"
+        },
+        {
+          "text": "The city eventually funded assisted installation for households receiving energy support while asking other residents to contribute a modest fee.",
+          "translation": "城市最终资助为获得能源援助的家庭提供协助安装，同时要求其他居民支付少量费用。"
+        },
+        {
+          "text": "It also retained telephone booking alongside the online system.",
+          "translation": "它还在网络系统之外保留了电话预约。"
+        }
+      ],
+      [
+        {
+          "text": "A pilot does not answer the broad question “Does this policy work?” in isolation.",
+          "translation": "试点本身不能回答“这项政策是否有效？”这个宽泛问题。"
+        },
+        {
+          "text": "It shows what happened to a particular group under a particular set of conditions.",
+          "translation": "它显示的是特定群体在特定条件下发生了什么。"
+        },
+        {
+          "text": "The task for policymakers is to identify which conditions produced the result, decide whether they can be reproduced at scale and acknowledge whose experience the initial evidence may have excluded.",
+          "translation": "政策制定者的任务是确定哪些条件产生结果、判断它们能否大规模复制，并承认初步证据可能排除了哪些人的经历。"
+        }
+      ]
     ]
   }
 }

@@ -153,7 +153,8 @@
         "relocate internationally",
         "settle in a foreign country"
       ],
-      "note": "settle强调较长期居住。"
+      "note": "settle强调较长期居住。",
+      "translation": "移居另一个国家，也可表达为移民海外、跨国迁居或在国外定居。"
     },
     {
       "base": "foreign workers",
@@ -162,7 +163,8 @@
         "overseas employees",
         "workers recruited from abroad"
       ],
-      "note": "migrant不等于永久移民。"
+      "note": "migrant不等于永久移民。",
+      "translation": "外籍劳动者，也可表达为移民工人、海外劳动力或来自其他国家的雇员。"
     },
     {
       "base": "help the economy",
@@ -171,7 +173,8 @@
         "contribute to national output",
         "strengthen the productive economy"
       ],
-      "note": "contribute避免夸大单一因果。"
+      "note": "contribute避免夸大单一因果。",
+      "translation": "帮助经济发展，也可表达为促进经济增长、作出经济贡献或填补劳动力需求。"
     },
     {
       "base": "fit into society",
@@ -180,7 +183,8 @@
         "participate in civic life",
         "develop a sense of local belonging"
       ],
-      "note": "integration是双向过程。"
+      "note": "integration是双向过程。",
+      "translation": "融入社会，也可表达为融入社区、适应当地社会或参与社会生活。"
     },
     {
       "base": "leave because of danger",
@@ -189,7 +193,8 @@
         "be forcibly displaced",
         "seek safety outside one’s home region"
       ],
-      "note": "displaced强调非自愿。"
+      "note": "displaced强调非自愿。",
+      "translation": "因危险而离开，也可表达为逃离冲突、因安全威胁迁移或被迫离开家园。"
     },
     {
       "base": "qualified people leave",
@@ -198,7 +203,8 @@
         "a country experiences brain drain",
         "professional talent is lost overseas"
       ],
-      "note": "brain drain常带负面评价。"
+      "note": "brain drain常带负面评价。",
+      "translation": "合格人才离开，也可表达为人才外流、熟练劳动者流失或专业人才迁往国外。"
     },
     {
       "base": "money sent home",
@@ -207,7 +213,8 @@
         "cross-border household transfers",
         "earnings returned to families abroad"
       ],
-      "note": "remittance是正式名词。"
+      "note": "remittance是正式名词。",
+      "translation": "汇回家乡的钱，也可表达为侨汇、向家庭汇款或移民寄回原居地的收入。"
     },
     {
       "base": "accept qualifications",
@@ -216,51 +223,60 @@
         "validate foreign professional training",
         "acknowledge qualifications gained abroad"
       ],
-      "note": "recognise credentials常见于就业政策。"
+      "note": "recognise credentials常见于就业政策。",
+      "translation": "认可资格，也可表达为承认海外学历、认证专业资质或接受国外证书。"
     }
   ],
   "sentences": [
     {
       "pattern": "People may move not because + single reason, but because + combined pressures or opportunities.",
       "cn": "人们迁移可能并非由于单一原因，而是多种压力或机会共同作用。",
-      "example": "People may move not because wages are low alone, but because secure work and training are unavailable."
+      "example": "People may move not because wages are low alone, but because secure work and training are unavailable.",
+      "exampleTranslation": "人们迁移可能不只是因为工资低，还因为缺乏稳定工作和培训机会。"
     },
     {
       "pattern": "When + qualification or experience + is not recognised, migrants who + expertise + may have to + lower-level outcome.",
       "cn": "当某种资历或经验得不到认可时，拥有相关专长的移民可能不得不接受较低层级的结果。",
-      "example": "When overseas qualifications are not recognised, migrants who have medical expertise may have to take unrelated jobs."
+      "example": "When overseas qualifications are not recognised, migrants who have medical expertise may have to take unrelated jobs.",
+      "exampleTranslation": "如果海外资格不被认可，拥有医学专长的移民可能不得不从事无关工作。"
     },
     {
       "pattern": "The extent to which + group + integrates depends partly on whether + practical condition.",
       "cn": "某群体融入的程度，部分取决于某项实际条件是否得到满足。",
-      "example": "The extent to which newcomers integrate depends partly on whether they can access language classes and stable housing."
+      "example": "The extent to which newcomers integrate depends partly on whether they can access language classes and stable housing.",
+      "exampleTranslation": "新移民能在多大程度上融入社会，部分取决于他们能否获得语言课程和稳定住房。"
     }
   ],
   "expressions": [
     {
       "text": "start from scratch",
       "cn": "从头开始",
-      "example": "Some migrants have to start from scratch in a new profession."
+      "example": "Some migrants have to start from scratch in a new profession.",
+      "exampleTranslation": "一些移民必须在新职业中从零开始。"
     },
     {
       "text": "put down roots",
       "cn": "在新地方扎根",
-      "example": "Stable work and supportive neighbours helped the family put down roots."
+      "example": "Stable work and supportive neighbours helped the family put down roots.",
+      "exampleTranslation": "稳定的工作和友善的邻居帮助这个家庭扎下根来。"
     },
     {
       "text": "keep close ties with home",
       "cn": "与家乡保持密切联系",
-      "example": "Video calls allow migrants to keep close ties with home."
+      "example": "Video calls allow migrants to keep close ties with home.",
+      "exampleTranslation": "视频通话让移民能够与家乡保持紧密联系。"
     },
     {
       "text": "fill gaps in the workforce",
       "cn": "填补劳动力空缺",
-      "example": "New arrivals can fill gaps in the workforce."
+      "example": "New arrivals can fill gaps in the workforce.",
+      "exampleTranslation": "新移民可以填补劳动力缺口。"
     },
     {
       "text": "contribute to both communities",
       "cn": "为两地社区作贡献",
-      "example": "Diaspora entrepreneurs often contribute to both communities."
+      "example": "Diaspora entrepreneurs often contribute to both communities.",
+      "exampleTranslation": "侨民企业家常常为两个社区都作出贡献。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "provide bridging courses",
         "use existing expertise"
       ],
-      "argument": "A nurse who cannot obtain local recognition may work in a job that uses none of her clinical training, even while hospitals lack staff. Automatic acceptance is not always safe because professional standards differ. However, transparent assessments and short bridging courses can identify genuine gaps without requiring an experienced worker to repeat an entire education. This comparison between verified competence and job placement is more useful than judging people by where a certificate was issued. Better recognition would improve migrants’ incomes and help employers fill urgent vacancies."
+      "argument": "A nurse who cannot obtain local recognition may work in a job that uses none of her clinical training, even while hospitals lack staff. Automatic acceptance is not always safe because professional standards differ. However, transparent assessments and short bridging courses can identify genuine gaps without requiring an experienced worker to repeat an entire education. This comparison between verified competence and job placement is more useful than judging people by where a certificate was issued. Better recognition would improve migrants’ incomes and help employers fill urgent vacancies.",
+      "viewpointTranslation": "资格认证可以把移民转化为生产性就业。",
+      "topicSentenceTranslation": "如果海外资质评估缓慢或标准不一致，接收国就会浪费宝贵技能。",
+      "collocationTranslations": [
+        "认可海外资质",
+        "解决技能短缺",
+        "提供衔接课程",
+        "利用现有专业知识"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A nurse who cannot obtain local recognition may work in a job that uses none of her clinical training, even while hospitals lack staff.",
+          "translation": "一名护士如果无法获得当地认可，可能会在完全用不上临床训练的岗位工作，即使医院正缺少员工。"
+        },
+        {
+          "text": "Automatic acceptance is not always safe because professional standards differ.",
+          "translation": "由于专业标准不同，自动认可并不总是安全的。"
+        },
+        {
+          "text": "However, transparent assessments and short bridging courses can identify genuine gaps without requiring an experienced worker to repeat an entire education.",
+          "translation": "然而，透明的评估和短期衔接课程可以识别真正的差距，而无需让有经验的劳动者重新完成整个教育过程。"
+        },
+        {
+          "text": "This comparison between verified competence and job placement is more useful than judging people by where a certificate was issued.",
+          "translation": "比较经验证的能力与岗位安排，比根据证书颁发地来评价一个人更有意义。"
+        },
+        {
+          "text": "Better recognition would improve migrants’ incomes and help employers fill urgent vacancies.",
+          "translation": "更完善的认证可以提高移民收入，也能帮助雇主填补急需职位。"
+        }
+      ]
     },
     {
       "viewpoint": "Integration policy should include established residents as well as newcomers.",
@@ -301,19 +347,99 @@
         "support language learning",
         "build social trust"
       ],
-      "argument": "Rapid population growth can increase demand for housing, schools and clinics in particular districts. If new services are described as benefits exclusively for migrants, established residents may feel that their own needs are being overlooked. Expanding a clinic for everyone, while adding interpretation where needed, solves the practical pressure without dividing users into rival groups. Shared sports projects and neighbourhood associations can create contact that abstract campaigns rarely achieve. Integration is therefore strongest when public policy improves participation and capacity across the host community."
+      "argument": "Rapid population growth can increase demand for housing, schools and clinics in particular districts. If new services are described as benefits exclusively for migrants, established residents may feel that their own needs are being overlooked. Expanding a clinic for everyone, while adding interpretation where needed, solves the practical pressure without dividing users into rival groups. Shared sports projects and neighbourhood associations can create contact that abstract campaigns rarely achieve. Integration is therefore strongest when public policy improves participation and capacity across the host community.",
+      "viewpointTranslation": "融合政策应同时涵盖原有居民和新移民。",
+      "topicSentenceTranslation": "当与移民相关的投资能够解决当地共同压力时，社区信任更有可能增强。",
+      "collocationTranslations": [
+        "加强本地服务",
+        "创造共享公共空间",
+        "支持语言学习",
+        "建立社会信任"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Rapid population growth can increase demand for housing, schools and clinics in particular districts.",
+          "translation": "人口快速增长会增加特定地区对住房、学校和诊所的需求。"
+        },
+        {
+          "text": "If new services are described as benefits exclusively for migrants, established residents may feel that their own needs are being overlooked.",
+          "translation": "如果新服务被描述为只供移民享用的福利，原有居民可能觉得自己的需求被忽视。"
+        },
+        {
+          "text": "Expanding a clinic for everyone, while adding interpretation where needed, solves the practical pressure without dividing users into rival groups.",
+          "translation": "扩建一所面向所有人的诊所，同时在需要时增加口译服务，可以缓解实际压力，而不会把使用者分成对立群体。"
+        },
+        {
+          "text": "Shared sports projects and neighbourhood associations can create contact that abstract campaigns rarely achieve.",
+          "translation": "共同参与的体育项目和社区协会能够创造实际接触，这是抽象宣传活动很少能做到的。"
+        },
+        {
+          "text": "Integration is therefore strongest when public policy improves participation and capacity across the host community.",
+          "translation": "因此，当公共政策提升整个接收社区的参与度和承载能力时，融合最为稳固。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe someone you know who moved to a new place.",
-      "answer": "A close friend moved from a small inland town to a coastal city for her first professional job. She knew nobody there and initially found everyday tasks, such as choosing a neighbourhood and understanding the bus network, surprisingly tiring. She joined a weekend running group, which gave her regular contact with people outside work, and after a few months she began to feel settled. I admired the way she remained curious rather than constantly comparing the city with home. She still calls her family several times a week and visits when possible. Her experience showed me that moving is not one dramatic decision; it involves many small adjustments before a place feels familiar."
+      "answer": "A close friend moved from a small inland town to a coastal city for her first professional job. She knew nobody there and initially found everyday tasks, such as choosing a neighbourhood and understanding the bus network, surprisingly tiring. She joined a weekend running group, which gave her regular contact with people outside work, and after a few months she began to feel settled. I admired the way she remained curious rather than constantly comparing the city with home. She still calls her family several times a week and visits when possible. Her experience showed me that moving is not one dramatic decision; it involves many small adjustments before a place feels familiar.",
+      "questionTranslation": "请描述一位你认识的搬到新地方的人。",
+      "answerSentences": [
+        {
+          "text": "A close friend moved from a small inland town to a coastal city for her first professional job.",
+          "translation": "一位好友从内陆小镇搬到沿海城市，开始了她的第一份专业工作。"
+        },
+        {
+          "text": "She knew nobody there and initially found everyday tasks, such as choosing a neighbourhood and understanding the bus network, surprisingly tiring.",
+          "translation": "她在那里一个人也不认识，起初发现选择社区、弄懂公交网络等日常事务出乎意料地令人疲惫。"
+        },
+        {
+          "text": "She joined a weekend running group, which gave her regular contact with people outside work, and after a few months she began to feel settled.",
+          "translation": "她参加了周末跑步小组，因此能定期接触工作之外的人，几个月后开始感到安定。"
+        },
+        {
+          "text": "I admired the way she remained curious rather than constantly comparing the city with home.",
+          "translation": "我欣赏她始终保持好奇，而不是不断拿这座城市与家乡比较。"
+        },
+        {
+          "text": "She still calls her family several times a week and visits when possible.",
+          "translation": "她仍然每周给家人打几次电话，并尽可能回去探望。"
+        },
+        {
+          "text": "Her experience showed me that moving is not one dramatic decision; it involves many small adjustments before a place feels familiar.",
+          "translation": "她的经历让我看到，搬迁并不是一个戏剧性的决定；在一个地方变得熟悉之前，需要经历许多细小调整。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "What helps newcomers integrate into a community?",
-      "answer": "Language ability matters, but opportunities to use the language in meaningful situations matter just as much. Stable housing and fair access to employment give people the security to build relationships. Local institutions can help by explaining services clearly and organising activities around shared interests rather than nationality alone. Established residents also influence integration through ordinary behaviour: an invitation, a helpful explanation or patience with an accent can make a real difference. Newcomers should learn local expectations, but integration cannot reasonably be treated as their responsibility only."
+      "answer": "Language ability matters, but opportunities to use the language in meaningful situations matter just as much. Stable housing and fair access to employment give people the security to build relationships. Local institutions can help by explaining services clearly and organising activities around shared interests rather than nationality alone. Established residents also influence integration through ordinary behaviour: an invitation, a helpful explanation or patience with an accent can make a real difference. Newcomers should learn local expectations, but integration cannot reasonably be treated as their responsibility only.",
+      "questionTranslation": "什么能帮助新移民融入社区？",
+      "answerSentences": [
+        {
+          "text": "Language ability matters, but opportunities to use the language in meaningful situations matter just as much.",
+          "translation": "语言能力很重要，但在有意义的情境中使用语言的机会同样重要。"
+        },
+        {
+          "text": "Stable housing and fair access to employment give people the security to build relationships.",
+          "translation": "稳定住房和公平的就业机会能让人们安心建立关系。"
+        },
+        {
+          "text": "Local institutions can help by explaining services clearly and organising activities around shared interests rather than nationality alone.",
+          "translation": "本地机构可以通过清楚说明服务，并围绕共同兴趣而不只是国籍组织活动来提供帮助。"
+        },
+        {
+          "text": "Established residents also influence integration through ordinary behaviour: an invitation, a helpful explanation or patience with an accent can make a real difference.",
+          "translation": "原有居民也会通过日常行为影响融合：一次邀请、一句有用的解释，或对口音多一点耐心，都能带来真正的不同。"
+        },
+        {
+          "text": "Newcomers should learn local expectations, but integration cannot reasonably be treated as their responsibility only.",
+          "translation": "新移民应学习当地规范，但不能合理地把融合只视为他们一方的责任。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +476,87 @@
           "Professional standards were unnecessarily low."
         ]
       }
+    ],
+    "titleTranslation": "当资格证书无法随人迁移",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "On arriving in a new country, an experienced civil engineer found work inspecting goods in a warehouse.",
+          "translation": "一位经验丰富的土木工程师抵达新国家后，找到了一份在仓库检验货物的工作。"
+        },
+        {
+          "text": "His degree was genuine, his former employer supplied references, and local construction firms were recruiting.",
+          "translation": "他的学位真实有效，原雇主也提供了推荐信，当地建筑企业还在招聘。"
+        },
+        {
+          "text": "What he lacked was a familiar professional record: regulators could not easily compare his university modules, safety training and project responsibilities with domestic requirements.",
+          "translation": "他缺少的是当地熟悉的职业记录：监管者无法轻易把他的大学课程、安全培训和项目职责与国内要求进行比较。"
+        }
+      ],
+      [
+        {
+          "text": "This problem, often described as “brain waste”, differs from a simple skills mismatch.",
+          "translation": "这个常被称为“人才浪费”的问题，不同于简单的技能不匹配。"
+        },
+        {
+          "text": "The expertise exists in the destination country but remains unused because evidence about it does not pass smoothly between institutions.",
+          "translation": "专业能力已经存在于目的地国家，却因相关证明无法在机构之间顺畅传递而得不到使用。"
+        },
+        {
+          "text": "Employers, who may be unable to judge an unfamiliar college, tend to prefer local experience; professional bodies must protect safety; and migrants cannot acquire domestic experience until someone hires them.",
+          "translation": "雇主可能无法判断一所陌生院校的水平，因而倾向于本地经验；专业机构必须保障安全；而移民在有人雇用之前又无法获得本地经验。"
+        },
+        {
+          "text": "The result is a circular barrier that language training alone cannot remove.",
+          "translation": "结果形成了单靠语言培训无法消除的循环障碍。"
+        }
+      ],
+      [
+        {
+          "text": "A provincial pilot programme replaced a single document check with several forms of evidence.",
+          "translation": "一项省级试点计划不再只检查单一文件，而是采用多种形式的证据。"
+        },
+        {
+          "text": "Applicants submitted portfolios, completed practical simulations and, where a specific gap was identified, attended a short course.",
+          "translation": "申请人提交作品材料、完成实践模拟，并在发现具体知识缺口时参加短期课程。"
+        },
+        {
+          "text": "Participants entered work related to their previous professions more often than a comparison group using the conventional route, although researchers cautioned that volunteers for the pilot may have been especially motivated.",
+          "translation": "与使用传统途径的对照组相比，参与者更常进入与原专业相关的工作，不过研究人员提醒，主动参加试点的人可能本来就特别积极。"
+        }
+      ],
+      [
+        {
+          "text": "The process was neither quick nor cheap.",
+          "translation": "这一过程既不快捷，也不便宜。"
+        },
+        {
+          "text": "Simulations required trained assessors, and small occupations could not offer enough candidates to run them frequently.",
+          "translation": "模拟考核需要受过训练的评估人员，而规模较小的职业没有足够多的申请者来频繁开展评估。"
+        },
+        {
+          "text": "Yet the programme also revealed that some apparent shortages were failures of recognition rather than failures of supply.",
+          "translation": "不过，该计划还揭示，一些表面的短缺其实是认证失败，而非人才供应不足。"
+        },
+        {
+          "text": "It did not lower professional standards: an applicant unable to demonstrate essential knowledge still needed further study.",
+          "translation": "它没有降低专业标准：无法证明自己掌握必要知识的申请人仍需进一步学习。"
+        }
+      ],
+      [
+        {
+          "text": "Qualifications are not objects that can simply be carried across a border unchanged; they are claims interpreted by employers, regulators and educational systems.",
+          "translation": "资格证书并不是可以原封不动带过边境的物品；它们是需要由雇主、监管机构和教育体系来解读的能力声明。"
+        },
+        {
+          "text": "More reliable interpretation will not place every migrant in an ideal job.",
+          "translation": "更可靠的解读不能让每位移民都获得理想工作。"
+        },
+        {
+          "text": "It can, however, distinguish a genuine training gap from an administrative one—and prevent a society from searching overseas for skills already present within its own workforce.",
+          "translation": "但它可以区分真正的培训差距与行政障碍，并防止社会到海外寻找本国劳动力中已经具备的技能。"
+        }
+      ]
     ]
   }
 }

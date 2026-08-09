@@ -153,7 +153,8 @@
         "long-term climatic change",
         "human-driven climate disruption"
       ],
-      "note": "human-driven明确人为因素。"
+      "note": "human-driven明确人为因素。",
+      "translation": "气候变化"
     },
     {
       "base": "cut carbon emissions",
@@ -162,7 +163,8 @@
         "reduce greenhouse-gas output",
         "lower the carbon intensity of"
       ],
-      "note": "carbon intensity适合比较单位产出。"
+      "note": "carbon intensity适合比较单位产出。",
+      "translation": "减少碳排放"
     },
     {
       "base": "prepare for impacts",
@@ -171,7 +173,8 @@
         "build climate resilience",
         "anticipate unavoidable effects"
       ],
-      "note": "adaptation并不等于放弃减排。"
+      "note": "adaptation并不等于放弃减排。",
+      "translation": "为气候影响做好准备"
     },
     {
       "base": "hotter weather",
@@ -180,7 +183,8 @@
         "a warming climate",
         "higher average and extreme temperatures"
       ],
-      "note": "最后一项同时涵盖均值与极端值。"
+      "note": "最后一项同时涵盖均值与极端值。",
+      "translation": "更炎热的天气"
     },
     {
       "base": "uncertain forecast",
@@ -189,7 +193,8 @@
         "model uncertainty",
         "several plausible future scenarios"
       ],
-      "note": "uncertainty不表示完全无知。"
+      "note": "uncertainty不表示完全无知。",
+      "translation": "不确定的预测"
     },
     {
       "base": "poor countries",
@@ -198,7 +203,8 @@
         "climate-vulnerable states",
         "nations with limited adaptive capacity"
       ],
-      "note": "避免使用带判断色彩的poor countries。"
+      "note": "避免使用带判断色彩的poor countries。",
+      "translation": "贫困国家"
     },
     {
       "base": "act now",
@@ -207,7 +213,8 @@
         "accelerate the response",
         "bring forward investment"
       ],
-      "note": "bring forward表示提前实施。"
+      "note": "bring forward表示提前实施。",
+      "translation": "立即行动"
     },
     {
       "base": "cost of delay",
@@ -216,51 +223,60 @@
         "higher future adjustment costs",
         "the burden created by postponed action"
       ],
-      "note": "inaction适合议论文。"
+      "note": "inaction适合议论文。",
+      "translation": "拖延的代价"
     }
   ],
   "sentences": [
     {
       "pattern": "Even if + an emissions-reduction target + is met, + adaptation measures + will remain necessary because + some climate change is already unavoidable.",
       "cn": "即使减排目标实现，适应措施仍然必要，因为某些影响已经无法完全避免。",
-      "example": "Even if global emissions peak soon, heat adaptation will remain necessary because past emissions continue to affect the climate."
+      "example": "Even if global emissions peak soon, heat adaptation will remain necessary because past emissions continue to affect the climate.",
+      "exampleTranslation": "即使全球排放很快达到峰值，适应高温仍然必要，因为过去的排放会继续影响气候。"
     },
     {
       "pattern": "What climate models provide is not + a perfectly certain forecast + but + a useful range of possible outcomes.",
       "cn": "气候模型提供的不是虚假的确定性，而是有用的范围。",
-      "example": "What climate models provide is not a single guaranteed future but a range within which planners can test decisions."
+      "example": "What climate models provide is not a single guaranteed future but a range within which planners can test decisions.",
+      "exampleTranslation": "气候模型提供的不是一个有保证的未来，而是一个范围，规划者可以在其中检验各种决策。"
     },
     {
       "pattern": "Infrastructure built today, much of which will remain in use for + several decades, must + withstand future climate conditions.",
       "cn": "今天建设的基础设施，其中许多将使用一段很长时间，必须适应未来条件。",
-      "example": "Infrastructure built today, much of which will remain in use for decades, must withstand temperatures outside the historical range."
+      "example": "Infrastructure built today, much of which will remain in use for decades, must withstand temperatures outside the historical range.",
+      "exampleTranslation": "今天建造的基础设施很多会使用数十年，因此必须能够承受历史范围以外的温度。"
     }
   ],
   "expressions": [
     {
       "text": "feel the effects first-hand",
       "cn": "切身体会影响",
-      "example": "Farmers are already feeling climate effects first-hand."
+      "example": "Farmers are already feeling climate effects first-hand.",
+      "exampleTranslation": "农民已经亲身感受到气候影响。"
     },
     {
       "text": "prepare for the worst",
       "cn": "为最坏情况做准备",
-      "example": "Cities should prepare for the worst without assuming it is inevitable."
+      "example": "Cities should prepare for the worst without assuming it is inevitable.",
+      "exampleTranslation": "城市应为最坏情况做好准备，但不应认定它必然发生。"
     },
     {
       "text": "lock in emissions",
       "cn": "锁定未来排放",
-      "example": "New coal plants can lock in emissions for decades."
+      "example": "New coal plants can lock in emissions for decades.",
+      "exampleTranslation": "新建燃煤电厂可能锁定未来数十年的排放。"
     },
     {
       "text": "build climate resilience",
       "cn": "增强气候韧性",
-      "example": "Cool roofs can build climate resilience in dense districts."
+      "example": "Cool roofs can build climate resilience in dense districts.",
+      "exampleTranslation": "凉爽屋顶可以增强密集城区的气候韧性。"
     },
     {
       "text": "keep warming within limits",
       "cn": "把升温控制在一定范围",
-      "example": "Rapid cuts are needed to keep warming within agreed limits."
+      "example": "Rapid cuts are needed to keep warming within agreed limits.",
+      "exampleTranslation": "要把升温控制在商定范围内，就必须迅速减排。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "coordinate public investment",
         "avoid preventable losses"
       ],
-      "argument": "Mitigation addresses the cause by limiting greenhouse-gas emissions, whereas adaptation reduces harm from effects already emerging. Treating the two as alternatives creates a false choice: flood barriers cannot prevent continued warming, and emissions cuts cannot remove next summer’s heat risk. A city might therefore electrify buses while expanding shade and heat-health warnings. The balance of spending will differ by location, but both objectives require early planning. Integrated investment can also prevent an adaptation measure, such as energy-intensive cooling, from undermining mitigation."
+      "argument": "Mitigation addresses the cause by limiting greenhouse-gas emissions, whereas adaptation reduces harm from effects already emerging. Treating the two as alternatives creates a false choice: flood barriers cannot prevent continued warming, and emissions cuts cannot remove next summer’s heat risk. A city might therefore electrify buses while expanding shade and heat-health warnings. The balance of spending will differ by location, but both objectives require early planning. Integrated investment can also prevent an adaptation measure, such as energy-intensive cooling, from undermining mitigation.",
+      "viewpointTranslation": "减缓与适应相辅相成。",
+      "topicSentenceTranslation": "政府必须在减少未来升温的同时，为已经无法避免的气候变化做好准备。",
+      "collocationTranslations": [
+        "减少未来排放",
+        "管理不可避免的影响",
+        "协调公共投资",
+        "避免可预防的损失"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Mitigation addresses the cause by limiting greenhouse-gas emissions, whereas adaptation reduces harm from effects already emerging.",
+          "translation": "减缓通过限制温室气体排放来解决成因，而适应则减少已经出现的影响所造成的伤害。"
+        },
+        {
+          "text": "Treating the two as alternatives creates a false choice: flood barriers cannot prevent continued warming, and emissions cuts cannot remove next summer’s heat risk.",
+          "translation": "把两者视为替代方案会制造虚假选择：防洪设施无法阻止持续变暖，而减排也无法消除明年夏天的高温风险。"
+        },
+        {
+          "text": "A city might therefore electrify buses while expanding shade and heat-health warnings.",
+          "translation": "因此，一座城市可以在公交电动化的同时增加遮阴设施和高温健康预警。"
+        },
+        {
+          "text": "The balance of spending will differ by location, but both objectives require early planning.",
+          "translation": "支出比例会因地区而异，但两个目标都需要提前规划。"
+        },
+        {
+          "text": "Integrated investment can also prevent an adaptation measure, such as energy-intensive cooling, from undermining mitigation.",
+          "translation": "综合投资还可以防止高耗能制冷等适应措施削弱减缓工作。"
+        }
+      ],
+      "translation": "减缓通过限制温室气体排放来解决成因，而适应则减少已经出现的影响所造成的伤害。把两者视为替代方案会制造虚假选择：防洪设施无法阻止持续变暖，而减排也无法消除明年夏天的高温风险。因此，一座城市可以在公交电动化的同时增加遮阴设施和高温健康预警。支出比例会因地区而异，但两个目标都需要提前规划。综合投资还可以防止高耗能制冷等适应措施削弱减缓工作。"
     },
     {
       "viewpoint": "Climate finance should reflect unequal responsibility and capacity.",
@@ -301,19 +348,102 @@
         "strengthen adaptive capacity",
         "fund locally led projects"
       ],
-      "argument": "Many climate-vulnerable states contributed relatively little to accumulated emissions yet face severe adaptation costs. If limited domestic budgets are diverted from health or education, the burden of an international problem becomes still more unequal. Wealthier countries can provide grants and affordable finance for resilient infrastructure and clean energy. Funding should support priorities identified locally rather than impose unsuitable imported projects. Such cooperation is not charity alone; unmanaged climate disruption can also affect trade, migration and stability across borders."
+      "argument": "Many climate-vulnerable states contributed relatively little to accumulated emissions yet face severe adaptation costs. If limited domestic budgets are diverted from health or education, the burden of an international problem becomes still more unequal. Wealthier countries can provide grants and affordable finance for resilient infrastructure and clean energy. Funding should support priorities identified locally rather than impose unsuitable imported projects. Such cooperation is not charity alone; unmanaged climate disruption can also affect trade, migration and stability across borders.",
+      "viewpointTranslation": "气候资金应体现责任与能力的不平等。",
+      "topicSentenceTranslation": "高收入国家既有更强的能力，也负有支持其他地区气候行动的历史责任。",
+      "collocationTranslations": [
+        "提供优惠融资",
+        "应对历史排放责任",
+        "增强适应能力",
+        "资助当地领导的项目"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Many climate-vulnerable states contributed relatively little to accumulated emissions yet face severe adaptation costs.",
+          "translation": "许多易受气候影响的国家对累积排放贡献相对很小，却面临高昂的适应成本。"
+        },
+        {
+          "text": "If limited domestic budgets are diverted from health or education, the burden of an international problem becomes still more unequal.",
+          "translation": "如果有限的国内预算从医疗或教育转移出去，一个国际问题带来的负担就会更加不平等。"
+        },
+        {
+          "text": "Wealthier countries can provide grants and affordable finance for resilient infrastructure and clean energy.",
+          "translation": "富裕国家可以为韧性基础设施和清洁能源提供赠款及可负担融资。"
+        },
+        {
+          "text": "Funding should support priorities identified locally rather than impose unsuitable imported projects.",
+          "translation": "资金应支持当地确定的优先事项，而不是强加不合适的外来项目。"
+        },
+        {
+          "text": "Such cooperation is not charity alone; unmanaged climate disruption can also affect trade, migration and stability across borders.",
+          "translation": "这种合作不只是慈善；未得到控制的气候扰动也会跨境影响贸易、移民和稳定。"
+        }
+      ],
+      "translation": "许多易受气候影响的国家对累积排放贡献相对很小，却面临高昂的适应成本。如果有限的国内预算从医疗或教育转移出去，一个国际问题带来的负担就会更加不平等。富裕国家可以为韧性基础设施和清洁能源提供赠款及可负担融资。资金应支持当地确定的优先事项，而不是强加不合适的外来项目。这种合作不只是慈善；未得到控制的气候扰动也会跨境影响贸易、移民和稳定。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a change made in your area because of hotter weather.",
-      "answer": "My local library changed its summer opening arrangements after several unusually hot periods. It now opens earlier on days when extreme heat is forecast, keeps one large room available as a cool public space and provides drinking-water stations. The building already had good insulation, so the main changes involved staffing and communication rather than expensive construction. Older residents seem to value the service most, particularly those whose homes become uncomfortable in the afternoon. I like the fact that it uses an existing public building instead of creating a separate emergency facility. It is a modest adaptation, but it shows how climate planning can improve an ordinary service for people who need it."
+      "answer": "My local library changed its summer opening arrangements after several unusually hot periods. It now opens earlier on days when extreme heat is forecast, keeps one large room available as a cool public space and provides drinking-water stations. The building already had good insulation, so the main changes involved staffing and communication rather than expensive construction. Older residents seem to value the service most, particularly those whose homes become uncomfortable in the afternoon. I like the fact that it uses an existing public building instead of creating a separate emergency facility. It is a modest adaptation, but it shows how climate planning can improve an ordinary service for people who need it.",
+      "questionTranslation": "描述你所在地区因天气变热而作出的一项改变。",
+      "answerSentences": [
+        {
+          "text": "My local library changed its summer opening arrangements after several unusually hot periods.",
+          "translation": "经历几次异常炎热的时期后，我当地的图书馆调整了夏季开放安排。"
+        },
+        {
+          "text": "It now opens earlier on days when extreme heat is forecast, keeps one large room available as a cool public space and provides drinking-water stations.",
+          "translation": "在预报极端高温的日子，它现在会提早开放，把一个大房间用作凉爽的公共空间，并提供饮水点。"
+        },
+        {
+          "text": "The building already had good insulation, so the main changes involved staffing and communication rather than expensive construction.",
+          "translation": "这栋建筑原本就有良好保温，因此主要变化涉及人员安排和信息沟通，而不是昂贵施工。"
+        },
+        {
+          "text": "Older residents seem to value the service most, particularly those whose homes become uncomfortable in the afternoon.",
+          "translation": "老年居民似乎最重视这项服务，尤其是那些住房在下午会变得不舒适的人。"
+        },
+        {
+          "text": "I like the fact that it uses an existing public building instead of creating a separate emergency facility.",
+          "translation": "我喜欢它利用现有公共建筑，而不是另建紧急设施这一点。"
+        },
+        {
+          "text": "It is a modest adaptation, but it shows how climate planning can improve an ordinary service for people who need it.",
+          "translation": "这是一项规模不大的适应措施，却说明气候规划如何为有需要的人改善一项日常服务。"
+        }
+      ],
+      "translation": "经历几次异常炎热的时期后，我当地的图书馆调整了夏季开放安排。在预报极端高温的日子，它现在会提早开放，把一个大房间用作凉爽的公共空间，并提供饮水点。这栋建筑原本就有良好保温，因此主要变化涉及人员安排和信息沟通，而不是昂贵施工。老年居民似乎最重视这项服务，尤其是那些住房在下午会变得不舒适的人。我喜欢它利用现有公共建筑，而不是另建紧急设施这一点。这是一项规模不大的适应措施，却说明气候规划如何为有需要的人改善一项日常服务。"
     },
     {
       "part": "Part 3",
       "question": "Why is it difficult for governments to make long-term climate decisions?",
-      "answer": "The benefits of prevention may appear decades later, whereas the costs of a policy are visible immediately to voters and businesses. Climate projections also describe a range rather than one exact local outcome, which can make delay seem reasonable. In addition, responsibility crosses ministries and national borders, so no institution controls the whole problem. Governments can manage this difficulty by setting durable targets, reviewing evidence regularly and choosing investments that perform well under several future conditions. Uncertainty should influence the design of action, not become an excuse for doing nothing."
+      "answer": "The benefits of prevention may appear decades later, whereas the costs of a policy are visible immediately to voters and businesses. Climate projections also describe a range rather than one exact local outcome, which can make delay seem reasonable. In addition, responsibility crosses ministries and national borders, so no institution controls the whole problem. Governments can manage this difficulty by setting durable targets, reviewing evidence regularly and choosing investments that perform well under several future conditions. Uncertainty should influence the design of action, not become an excuse for doing nothing.",
+      "questionTranslation": "为什么政府很难作出长期气候决策？",
+      "answerSentences": [
+        {
+          "text": "The benefits of prevention may appear decades later, whereas the costs of a policy are visible immediately to voters and businesses.",
+          "translation": "预防的好处可能数十年后才显现，而政策成本会立即呈现在选民和企业面前。"
+        },
+        {
+          "text": "Climate projections also describe a range rather than one exact local outcome, which can make delay seem reasonable.",
+          "translation": "气候预测描述的是一个范围，而不是某个确切的当地结果，这可能让拖延显得合理。"
+        },
+        {
+          "text": "In addition, responsibility crosses ministries and national borders, so no institution controls the whole problem.",
+          "translation": "此外，责任横跨不同政府部门和国界，因此没有一个机构能控制整个问题。"
+        },
+        {
+          "text": "Governments can manage this difficulty by setting durable targets, reviewing evidence regularly and choosing investments that perform well under several future conditions.",
+          "translation": "政府可以通过设定持久目标、定期审查证据，并选择在多种未来条件下都表现良好的投资来应对这种困难。"
+        },
+        {
+          "text": "Uncertainty should influence the design of action, not become an excuse for doing nothing.",
+          "translation": "不确定性应影响行动设计，而不应成为无所作为的借口。"
+        }
+      ],
+      "translation": "预防的好处可能数十年后才显现，而政策成本会立即呈现在选民和企业面前。气候预测描述的是一个范围，而不是某个确切的当地结果，这可能让拖延显得合理。此外，责任横跨不同政府部门和国界，因此没有一个机构能控制整个问题。政府可以通过设定持久目标、定期审查证据，并选择在多种未来条件下都表现良好的投资来应对这种困难。不确定性应影响行动设计，而不应成为无所作为的借口。"
     }
   ],
   "reading": {
@@ -350,6 +480,102 @@
         "answer": "funding",
         "explanation": "Paragraph 4 names responsibility and funding."
       }
+    ],
+    "titleTranslation": "为尚未到来的气候规划一座桥",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Engineers traditionally design bridges using records of past river flow, temperature and wind.",
+          "translation": "工程师传统上使用过去的河流流量、温度和风力记录设计桥梁。"
+        },
+        {
+          "text": "Climate change weakens the assumption behind that practice: a structure expected to last eighty years will operate under conditions partly outside the record used to design it.",
+          "translation": "气候变化削弱了这种做法背后的假设：一座预期使用八十年的结构，将在部分超出设计依据记录的条件下运行。"
+        },
+        {
+          "text": "The challenge is not to predict the exact weather on a future date, but to make an expensive, long-lived asset reliable across several plausible climates.",
+          "translation": "挑战不是预测未来某一天的确切天气，而是让一项昂贵、寿命长的资产在多个可能的气候情景下都保持可靠。"
+        }
+      ],
+      [
+        {
+          "text": "One response is to select the most severe projection and build for it immediately.",
+          "translation": "一种应对方法是选择最严峻的预测，并立即按此标准建造。"
+        },
+        {
+          "text": "This may appear cautious, yet excessive initial construction consumes materials, raises emissions and can divert money from other safety needs.",
+          "translation": "这看似谨慎，但过度的初期建设会消耗材料、增加排放，还可能挤占其他安全需求的资金。"
+        },
+        {
+          "text": "Using only the middle projection carries a different risk, because an average scenario may conceal a low-probability outcome with catastrophic consequences.",
+          "translation": "只采用中间预测则有另一种风险，因为平均情景可能掩盖发生概率低却后果灾难性的结果。"
+        },
+        {
+          "text": "Engineers therefore examine both the consequence of failure and the cost of adding protection.",
+          "translation": "因此，工程师会同时考察失效后果和增加保护的成本。"
+        }
+      ],
+      [
+        {
+          "text": "Adaptive design offers a third approach.",
+          "translation": "适应性设计提供了第三种方法。"
+        },
+        {
+          "text": "Foundations can be built strong enough for a higher deck, while the deck itself is raised only if monitoring shows faster sea-level rise.",
+          "translation": "地基可以建得足够坚固，以支持更高桥面，而桥面只有在监测显示海平面上升加快时才抬高。"
+        },
+        {
+          "text": "Drainage channels may include space for later widening.",
+          "translation": "排水渠可以预留日后拓宽的空间。"
+        },
+        {
+          "text": "Such decisions, which preserve a practical route for modification without purchasing every component now, are valuable where uncertainty will narrow over time.",
+          "translation": "这类决策无需现在购买每个部件，却保留切实可行的改造路径；在不确定性会随时间缩小的地方，这很有价值。"
+        },
+        {
+          "text": "They are less suitable when later alteration would require closing the bridge for years.",
+          "translation": "如果后续改造会导致桥梁关闭多年，这种方法就不太适用。"
+        }
+      ],
+      [
+        {
+          "text": "Choosing trigger points is difficult.",
+          "translation": "选择触发点并不容易。"
+        },
+        {
+          "text": "A single flood may be exceptional rather than evidence of a trend, while waiting for repeated damage defeats the purpose of preparation.",
+          "translation": "一次洪水可能只是异常事件而非趋势证据，但等待反复受损又违背了提前准备的目的。"
+        },
+        {
+          "text": "Planners can combine observed sea level, updated regional models and the remaining time needed for construction.",
+          "translation": "规划者可以结合观测到的海平面、更新的地区模型和施工所需剩余时间。"
+        },
+        {
+          "text": "Crucially, responsibility and funding for the later stage must be agreed when the original project is approved; otherwise, an adaptable design may never be adapted.",
+          "translation": "关键是，后续阶段的责任和资金必须在原项目获批时就确定，否则可适应设计可能永远得不到调整。"
+        }
+      ],
+      [
+        {
+          "text": "Climate-ready engineering is therefore neither blind overbuilding nor passive waiting.",
+          "translation": "因此，适应气候的工程既不是盲目过度建设，也不是被动等待。"
+        },
+        {
+          "text": "It asks which decisions are irreversible, which can be postponed safely and what evidence should prompt change.",
+          "translation": "它会询问哪些决定不可逆、哪些可以安全推迟，以及哪些证据应触发改变。"
+        },
+        {
+          "text": "A bridge designed in this way embodies a different kind of confidence—not certainty about one future, but confidence that institutions can recognise change and respond before the structure fails.",
+          "translation": "以这种方式设计的桥梁体现了另一种信心——不是确信某一种未来，而是相信机构能够识别变化，并在结构失效前作出反应。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "工程师传统上使用过去的河流流量、温度和风力记录设计桥梁。气候变化削弱了这种做法背后的假设：一座预期使用八十年的结构，将在部分超出设计依据记录的条件下运行。挑战不是预测未来某一天的确切天气，而是让一项昂贵、寿命长的资产在多个可能的气候情景下都保持可靠。",
+      "一种应对方法是选择最严峻的预测，并立即按此标准建造。这看似谨慎，但过度的初期建设会消耗材料、增加排放，还可能挤占其他安全需求的资金。只采用中间预测则有另一种风险，因为平均情景可能掩盖发生概率低却后果灾难性的结果。因此，工程师会同时考察失效后果和增加保护的成本。",
+      "适应性设计提供了第三种方法。地基可以建得足够坚固，以支持更高桥面，而桥面只有在监测显示海平面上升加快时才抬高。排水渠可以预留日后拓宽的空间。这类决策无需现在购买每个部件，却保留切实可行的改造路径；在不确定性会随时间缩小的地方，这很有价值。如果后续改造会导致桥梁关闭多年，这种方法就不太适用。",
+      "选择触发点并不容易。一次洪水可能只是异常事件而非趋势证据，但等待反复受损又违背了提前准备的目的。规划者可以结合观测到的海平面、更新的地区模型和施工所需剩余时间。关键是，后续阶段的责任和资金必须在原项目获批时就确定，否则可适应设计可能永远得不到调整。",
+      "因此，适应气候的工程既不是盲目过度建设，也不是被动等待。它会询问哪些决定不可逆、哪些可以安全推迟，以及哪些证据应触发改变。以这种方式设计的桥梁体现了另一种信心——不是确信某一种未来，而是相信机构能够识别变化，并在结构失效前作出反应。"
     ]
   }
 }

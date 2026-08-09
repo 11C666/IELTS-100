@@ -153,7 +153,8 @@
         "understand personal finance",
         "possess practical financial knowledge"
       ],
-      "note": "financially literate涵盖预算、信贷和风险。"
+      "note": "financially literate涵盖预算、信贷和风险。",
+      "translation": "了解理财知识"
     },
     {
       "base": "borrow money",
@@ -162,7 +163,8 @@
         "obtain a loan",
         "use funds supplied by a lender"
       ],
-      "note": "credit既可指信贷也可指赊购额度。"
+      "note": "credit既可指信贷也可指赊购额度。",
+      "translation": "借钱"
     },
     {
       "base": "repay a debt",
@@ -171,7 +173,8 @@
         "settle an outstanding balance",
         "meet a financial obligation to a lender"
       ],
-      "note": "settle强调结清。"
+      "note": "settle强调结清。",
+      "translation": "偿还债务"
     },
     {
       "base": "compare products",
@@ -180,7 +183,8 @@
         "evaluate competing offers",
         "assess alternatives across providers"
       ],
-      "note": "shop around自然且适合Speaking。"
+      "note": "shop around自然且适合Speaking。",
+      "translation": "比较产品"
     },
     {
       "base": "hidden cost",
@@ -189,7 +193,8 @@
         "a less visible fee",
         "a cost disclosed only in detailed conditions"
       ],
-      "note": "less visible比hidden更谨慎。"
+      "note": "less visible比hidden更谨慎。",
+      "translation": "隐藏成本"
     },
     {
       "base": "plan for retirement",
@@ -198,7 +203,8 @@
         "build retirement provision",
         "make long-term pension arrangements"
       ],
-      "note": "provision表示为未来准备的资金保障。"
+      "note": "provision表示为未来准备的资金保障。",
+      "translation": "规划退休生活"
     },
     {
       "base": "financial risk",
@@ -207,7 +213,8 @@
         "exposure to monetary loss",
         "uncertainty affecting future returns"
       ],
-      "note": "exposure常与risk搭配。"
+      "note": "exposure常与risk搭配。",
+      "translation": "财务风险"
     },
     {
       "base": "money advice",
@@ -216,51 +223,60 @@
         "personal-finance education",
         "professional advice on financial decisions"
       ],
-      "note": "professional advice不等同于一般教育。"
+      "note": "professional advice不等同于一般教育。",
+      "translation": "理财建议"
     }
   ],
   "sentences": [
     {
       "pattern": "Before taking out + financial product, compare not only + obvious feature + but also + less visible cost.",
       "cn": "选择某种金融产品前，不仅要比较显眼条件，还要比较不易察觉的成本。",
-      "example": "Before taking out a loan, compare not only the advertised rate but also late-payment charges."
+      "example": "Before taking out a loan, compare not only the advertised rate but also late-payment charges.",
+      "exampleTranslation": "贷款前，不仅要比较广告利率，还要比较逾期付款费用。"
     },
     {
       "pattern": "If + payment + is missed, + consequence + may occur even though + unexpected fact.",
       "cn": "如果错过某笔付款，即使存在意外情况，也可能产生某种后果。",
-      "example": "If a card repayment is missed, a penalty may apply even though the customer intended to pay on time."
+      "example": "If a card repayment is missed, a penalty may apply even though the customer intended to pay on time.",
+      "exampleTranslation": "如果错过信用卡还款，即使客户原本打算按时支付，也可能产生罚金。"
     },
     {
       "pattern": "People who + financial action + are better placed to + positive outcome.",
       "cn": "采取某项理财行动的人，更有条件取得积极结果。",
-      "example": "People who review their pension statements are better placed to correct an inadequate contribution early."
+      "example": "People who review their pension statements are better placed to correct an inadequate contribution early.",
+      "exampleTranslation": "查看养老金账单的人更有条件及早纠正缴费不足的问题。"
     }
   ],
   "expressions": [
     {
       "text": "know what you are signing up for",
       "cn": "清楚自己同意了什么",
-      "example": "Read the repayment schedule so you know what you are signing up for."
+      "example": "Read the repayment schedule so you know what you are signing up for.",
+      "exampleTranslation": "阅读还款计划，弄清自己究竟同意承担哪些义务。"
     },
     {
       "text": "stay on top of your bills",
       "cn": "及时掌握并处理账单",
-      "example": "A calendar helps me stay on top of my bills."
+      "example": "A calendar helps me stay on top of my bills.",
+      "exampleTranslation": "日历能帮助我及时处理各种账单。"
     },
     {
       "text": "get into debt",
       "cn": "陷入债务",
-      "example": "Small unpaid balances can cause people to get into debt."
+      "example": "Small unpaid balances can cause people to get into debt.",
+      "exampleTranslation": "小额未付余额也可能使人陷入债务。"
     },
     {
       "text": "manage financial risk",
       "cn": "管理财务风险",
-      "example": "Diversification can help manage financial risk."
+      "example": "Diversification can help manage financial risk.",
+      "exampleTranslation": "多元化有助于管理财务风险。"
     },
     {
       "text": "make informed financial choices",
       "cn": "作出知情的财务选择",
-      "example": "Clear comparisons help consumers make informed financial choices."
+      "example": "Clear comparisons help consumers make informed financial choices.",
+      "exampleTranslation": "清晰比较能帮助消费者作出明智的财务选择。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "recognise financial fraud",
         "practise household budgeting"
       ],
-      "argument": "Memorising the meaning of interest does not show a young adult which of two loans costs more. A practical course could ask students to compare repayment schedules, identify suspicious messages and allocate a first salary. Such exercises reveal how fees, time and uncertainty interact in real decisions. They also allow mistakes to occur without financial consequences. Financial education should therefore be assessed through realistic problems rather than a vocabulary test."
+      "argument": "Memorising the meaning of interest does not show a young adult which of two loans costs more. A practical course could ask students to compare repayment schedules, identify suspicious messages and allocate a first salary. Such exercises reveal how fees, time and uncertainty interact in real decisions. They also allow mistakes to occur without financial consequences. Financial education should therefore be assessed through realistic problems rather than a vocabulary test.",
+      "viewpointTranslation": "个人理财教育应通过决策而不是定义来教授。",
+      "topicSentenceTranslation": "当课程再现学生真正会面对的选择时，他们能更有效地学习理财技能。",
+      "collocationTranslations": [
+        "比较借款总成本",
+        "解读工资单",
+        "识别金融诈骗",
+        "练习家庭预算"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Memorising the meaning of interest does not show a young adult which of two loans costs more.",
+          "translation": "记住利息的含义，并不能告诉年轻人两笔贷款中哪一笔成本更高。"
+        },
+        {
+          "text": "A practical course could ask students to compare repayment schedules, identify suspicious messages and allocate a first salary.",
+          "translation": "实践课程可以要求学生比较还款计划、识别可疑信息并分配第一份工资。"
+        },
+        {
+          "text": "Such exercises reveal how fees, time and uncertainty interact in real decisions.",
+          "translation": "这类练习能揭示费用、时间和不确定性在真实决策中如何相互作用。"
+        },
+        {
+          "text": "They also allow mistakes to occur without financial consequences.",
+          "translation": "它们还允许学生犯错而不承受经济后果。"
+        },
+        {
+          "text": "Financial education should therefore be assessed through realistic problems rather than a vocabulary test.",
+          "translation": "因此，理财教育应通过现实问题来考核，而不是词汇测试。"
+        }
+      ],
+      "translation": "记住利息的含义，并不能告诉年轻人两笔贷款中哪一笔成本更高。实践课程可以要求学生比较还款计划、识别可疑信息并分配第一份工资。这类练习能揭示费用、时间和不确定性在真实决策中如何相互作用。它们还允许学生犯错而不承受经济后果。因此，理财教育应通过现实问题来考核，而不是词汇测试。"
     },
     {
       "viewpoint": "Default options can improve retirement saving without removing choice.",
@@ -301,19 +348,102 @@
         "retain the right to opt out",
         "overcome short-term inattention"
       ],
-      "argument": "Retirement feels remote to a new worker, so completing pension forms is easily postponed. Automatic enrolment changes the starting position: contributions begin unless the employee actively declines. Evidence from workplaces suggests that many remain enrolled, not because they were forced, but because a useful decision no longer required immediate action. Workers with urgent expenses must retain a simple way to opt out. This balance can raise long-term provision while respecting different financial circumstances."
+      "argument": "Retirement feels remote to a new worker, so completing pension forms is easily postponed. Automatic enrolment changes the starting position: contributions begin unless the employee actively declines. Evidence from workplaces suggests that many remain enrolled, not because they were forced, but because a useful decision no longer required immediate action. Workers with urgent expenses must retain a simple way to opt out. This balance can raise long-term provision while respecting different financial circumstances.",
+      "viewpointTranslation": "默认选项可以在不剥夺选择权的情况下改善退休储蓄。",
+      "topicSentenceTranslation": "自动让员工加入养老金计划，可以在保留个人自由的同时解决疏忽问题。",
+      "collocationTranslations": [
+        "自动加入计划",
+        "长期养老金保障",
+        "保留退出权利",
+        "克服短期疏忽"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Retirement feels remote to a new worker, so completing pension forms is easily postponed.",
+          "translation": "退休对刚参加工作的员工来说十分遥远，因此填写养老金表格很容易一再推迟。"
+        },
+        {
+          "text": "Automatic enrolment changes the starting position: contributions begin unless the employee actively declines.",
+          "translation": "自动加入改变了起点：员工除非主动拒绝，否则会开始缴费。"
+        },
+        {
+          "text": "Evidence from workplaces suggests that many remain enrolled, not because they were forced, but because a useful decision no longer required immediate action.",
+          "translation": "工作场所的证据表明，许多人继续留在计划中，不是因为受到强迫，而是因为一个有益决定不再需要立即行动。"
+        },
+        {
+          "text": "Workers with urgent expenses must retain a simple way to opt out.",
+          "translation": "有紧急开支的员工必须保留简单的退出方式。"
+        },
+        {
+          "text": "This balance can raise long-term provision while respecting different financial circumstances.",
+          "translation": "这种平衡可以在尊重不同财务状况的同时提高长期保障。"
+        }
+      ],
+      "translation": "退休对刚参加工作的员工来说十分遥远，因此填写养老金表格很容易一再推迟。自动加入改变了起点：员工除非主动拒绝，否则会开始缴费。工作场所的证据表明，许多人继续留在计划中，不是因为受到强迫，而是因为一个有益决定不再需要立即行动。有紧急开支的员工必须保留简单的退出方式。这种平衡可以在尊重不同财务状况的同时提高长期保障。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a useful lesson you learned about managing money.",
-      "answer": "A useful lesson was to compare the total cost of a purchase rather than just the monthly payment. I learned it while considering a phone contract that looked cheap in an advertisement. When I multiplied the payment by twenty-four months and added the upfront fee, it was more expensive than buying the phone separately and keeping my existing plan. Since then, I have checked contract length, cancellation charges and the final total before agreeing to anything. It is a simple calculation, but it helps me resist offers designed to make a large cost look small. I still review the plan once a month and adjust it when regular costs change."
+      "answer": "A useful lesson was to compare the total cost of a purchase rather than just the monthly payment. I learned it while considering a phone contract that looked cheap in an advertisement. When I multiplied the payment by twenty-four months and added the upfront fee, it was more expensive than buying the phone separately and keeping my existing plan. Since then, I have checked contract length, cancellation charges and the final total before agreeing to anything. It is a simple calculation, but it helps me resist offers designed to make a large cost look small. I still review the plan once a month and adjust it when regular costs change.",
+      "questionTranslation": "描述你学到的一条有用理财经验。",
+      "answerSentences": [
+        {
+          "text": "A useful lesson was to compare the total cost of a purchase rather than just the monthly payment.",
+          "translation": "一条有用经验是比较购买的总成本，而不只看每月付款。"
+        },
+        {
+          "text": "I learned it while considering a phone contract that looked cheap in an advertisement.",
+          "translation": "我是在考虑一份广告上看起来很便宜的手机合同时学到这一点的。"
+        },
+        {
+          "text": "When I multiplied the payment by twenty-four months and added the upfront fee, it was more expensive than buying the phone separately and keeping my existing plan.",
+          "translation": "当我把月付款乘以二十四个月，再加上预付费用后，它比单独买手机并保留原有套餐更贵。"
+        },
+        {
+          "text": "Since then, I have checked contract length, cancellation charges and the final total before agreeing to anything.",
+          "translation": "从那以后，我在同意任何合同前都会检查合同期限、取消费用和最终总额。"
+        },
+        {
+          "text": "It is a simple calculation, but it helps me resist offers designed to make a large cost look small.",
+          "translation": "这个计算很简单，却能帮助我抵制那些刻意让大额成本显得很小的优惠。"
+        },
+        {
+          "text": "I still review the plan once a month and adjust it when regular costs change.",
+          "translation": "我仍会每月检查一次计划，并在固定支出变化时进行调整。"
+        }
+      ],
+      "translation": "一条有用经验是比较购买的总成本，而不只看每月付款。我是在考虑一份广告上看起来很便宜的手机合同时学到这一点的。当我把月付款乘以二十四个月，再加上预付费用后，它比单独买手机并保留原有套餐更贵。从那以后，我在同意任何合同前都会检查合同期限、取消费用和最终总额。这个计算很简单，却能帮助我抵制那些刻意让大额成本显得很小的优惠。我仍会每月检查一次计划，并在固定支出变化时进行调整。"
     },
     {
       "part": "Part 3",
       "question": "Who should be responsible for teaching young people about personal finance?",
-      "answer": "Responsibility should be shared. Schools can give every student a reliable foundation, including how interest, tax and insurance work, which is important because not every family has the same knowledge. Parents can connect those ideas to real household choices, provided they feel comfortable discussing money. Banks and employers also have a role, but their guidance may be linked to products or workplace schemes, so it should not replace independent education. The strongest approach combines universal teaching with practical experience at home and work."
+      "answer": "Responsibility should be shared. Schools can give every student a reliable foundation, including how interest, tax and insurance work, which is important because not every family has the same knowledge. Parents can connect those ideas to real household choices, provided they feel comfortable discussing money. Banks and employers also have a role, but their guidance may be linked to products or workplace schemes, so it should not replace independent education. The strongest approach combines universal teaching with practical experience at home and work.",
+      "questionTranslation": "谁应该负责教年轻人个人理财？",
+      "answerSentences": [
+        {
+          "text": "Responsibility should be shared.",
+          "translation": "责任应该共同承担。"
+        },
+        {
+          "text": "Schools can give every student a reliable foundation, including how interest, tax and insurance work, which is important because not every family has the same knowledge.",
+          "translation": "学校可以为每名学生提供可靠基础，包括利息、税收和保险如何运作；这很重要，因为并非每个家庭都拥有同样知识。"
+        },
+        {
+          "text": "Parents can connect those ideas to real household choices, provided they feel comfortable discussing money.",
+          "translation": "父母可以把这些概念与真实家庭选择联系起来，前提是他们愿意谈论金钱。"
+        },
+        {
+          "text": "Banks and employers also have a role, but their guidance may be linked to products or workplace schemes, so it should not replace independent education.",
+          "translation": "银行和雇主也有责任，但其指导可能与产品或工作场所计划相关，因此不应取代独立教育。"
+        },
+        {
+          "text": "The strongest approach combines universal teaching with practical experience at home and work.",
+          "translation": "最有力的方法是把普遍教学与家庭及工作中的实践经验结合起来。"
+        }
+      ],
+      "translation": "责任应该共同承担。学校可以为每名学生提供可靠基础，包括利息、税收和保险如何运作；这很重要，因为并非每个家庭都拥有同样知识。父母可以把这些概念与真实家庭选择联系起来，前提是他们愿意谈论金钱。银行和雇主也有责任，但其指导可能与产品或工作场所计划相关，因此不应取代独立教育。最有力的方法是把普遍教学与家庭及工作中的实践经验结合起来。"
     }
   ],
   "reading": {
@@ -349,6 +479,95 @@
           "Different charges matter to customers with different behaviour."
         ]
       }
+    ],
+    "titleTranslation": "当简单本身成为一种金融特征",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Two savings products can have similar interest rates and still demand very different levels of understanding.",
+          "translation": "两种储蓄产品可能利率相近，却要求完全不同的理解程度。"
+        },
+        {
+          "text": "One may state a single annual fee, while the other offers a temporary bonus, conditions on monthly deposits and a penalty for early withdrawal.",
+          "translation": "一种可能只列出单一年度费用，另一种则提供临时奖励、每月存款条件和提前提款罚金。"
+        },
+        {
+          "text": "Each term can be disclosed accurately, yet the combined product may remain difficult to evaluate.",
+          "translation": "每项条款都可能准确披露，但组合后的产品仍可能难以评价。"
+        },
+        {
+          "text": "For regulators, this creates an awkward question: is information sufficient merely because it is available?",
+          "translation": "这给监管者带来一个棘手问题：信息仅仅因为可以获得就算充分吗？"
+        }
+      ],
+      [
+        {
+          "text": "A consumer organisation tested this issue by asking adults to choose between fictional accounts.",
+          "translation": "一家消费者组织通过要求成年人在虚构账户之间作选择来检验这个问题。"
+        },
+        {
+          "text": "One group received conventional disclosure documents modelled on actual banking language.",
+          "translation": "一组收到仿照真实银行语言编写的传统披露文件。"
+        },
+        {
+          "text": "The remainder saw a one-page comparison showing the amount they would possess under three common scenarios.",
+          "translation": "另一组看到一页比较表，显示他们在三种常见情景下最终拥有的金额。"
+        },
+        {
+          "text": "Participants using the comparison were more likely to identify the cheaper account, particularly when the advertised headline rate concealed a fee.",
+          "translation": "使用比较表的参与者更可能识别出成本较低的账户，尤其是在广告中的醒目利率掩盖费用时。"
+        },
+        {
+          "text": "Interestingly, confidence rose in both groups, although accuracy improved mainly among those given the scenario table.",
+          "translation": "有趣的是，两组信心都提高了，但准确率主要在获得情景表的一组中改善。"
+        }
+      ],
+      [
+        {
+          "text": "The finding challenges the assumption that additional information always protects consumers.",
+          "translation": "这一发现对信息越多越能保护消费者的假设提出挑战。"
+        },
+        {
+          "text": "Lengthy documents serve a legal purpose and contain details that unusual circumstances may make important.",
+          "translation": "长篇文件具有法律用途，也包含在特殊情况下可能很重要的细节。"
+        },
+        {
+          "text": "However, readers with limited time cannot give equal attention to every clause.",
+          "translation": "然而，时间有限的读者无法对每一项条款给予同等关注。"
+        },
+        {
+          "text": "Firms may therefore compete by making one attractive figure prominent while placing qualifying conditions elsewhere, a practice that complies with disclosure rules without necessarily supporting comprehension.",
+          "translation": "因此，企业可能突出一个有吸引力的数字，却把限制条件放在其他地方；这种做法符合披露规则，却未必有助于理解。"
+        }
+      ],
+      [
+        {
+          "text": "Some researchers advocate a standard measure of total cost, comparable across providers.",
+          "translation": "一些研究人员主张采用可在提供者之间比较的标准总成本指标。"
+        },
+        {
+          "text": "Critics reply that no single figure can represent every pattern of borrowing or saving: an early repayment fee matters greatly to one customer and not at all to another.",
+          "translation": "批评者回应说，没有一个数字能代表每种借款或储蓄方式：提前还款费对一名客户影响很大，对另一名则毫无影响。"
+        },
+        {
+          "text": "A more promising design may combine a standard example with tools that allow individuals to alter the assumptions.",
+          "translation": "更有前景的设计或许是把标准示例与允许个人调整假设的工具结合起来。"
+        },
+        {
+          "text": "Simplicity, in this account, does not mean removing complexity from financial life.",
+          "translation": "这种意义上的简单，并不意味着消除金融生活的复杂性。"
+        },
+        {
+          "text": "It means arranging essential information so that an ordinary decision-maker can see which details change the outcome—and which do not.",
+          "translation": "它意味着整理关键信息，让普通决策者看清哪些细节会改变结果——哪些不会。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "两种储蓄产品可能利率相近，却要求完全不同的理解程度。一种可能只列出单一年度费用，另一种则提供临时奖励、每月存款条件和提前提款罚金。每项条款都可能准确披露，但组合后的产品仍可能难以评价。这给监管者带来一个棘手问题：信息仅仅因为可以获得就算充分吗？",
+      "一家消费者组织通过要求成年人在虚构账户之间作选择来检验这个问题。一组收到仿照真实银行语言编写的传统披露文件。另一组看到一页比较表，显示他们在三种常见情景下最终拥有的金额。使用比较表的参与者更可能识别出成本较低的账户，尤其是在广告中的醒目利率掩盖费用时。有趣的是，两组信心都提高了，但准确率主要在获得情景表的一组中改善。",
+      "这一发现对信息越多越能保护消费者的假设提出挑战。长篇文件具有法律用途，也包含在特殊情况下可能很重要的细节。然而，时间有限的读者无法对每一项条款给予同等关注。因此，企业可能突出一个有吸引力的数字，却把限制条件放在其他地方；这种做法符合披露规则，却未必有助于理解。",
+      "一些研究人员主张采用可在提供者之间比较的标准总成本指标。批评者回应说，没有一个数字能代表每种借款或储蓄方式：提前还款费对一名客户影响很大，对另一名则毫无影响。更有前景的设计或许是把标准示例与允许个人调整假设的工具结合起来。这种意义上的简单，并不意味着消除金融生活的复杂性。它意味着整理关键信息，让普通决策者看清哪些细节会改变结果——哪些不会。"
     ]
   }
 }

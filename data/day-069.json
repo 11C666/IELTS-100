@@ -153,7 +153,8 @@
         "misleading content",
         "an unsupported claim"
       ],
-      "note": "misleading 不一定表示发布者有意欺骗。"
+      "note": "misleading 不一定表示发布者有意欺骗。",
+      "translation": "虚假信息"
     },
     {
       "base": "reliable source",
@@ -162,7 +163,8 @@
         "trustworthy outlet",
         "authoritative source"
       ],
-      "note": "authoritative 常指具备专业权威的信息来源。"
+      "note": "authoritative 常指具备专业权威的信息来源。",
+      "translation": "可靠来源"
     },
     {
       "base": "check the facts",
@@ -171,7 +173,8 @@
         "confirm the details",
         "test the claim"
       ],
-      "note": "verify the evidence 适合学术和新闻语境。"
+      "note": "verify the evidence 适合学术和新闻语境。",
+      "translation": "核实事实"
     },
     {
       "base": "influence public opinion",
@@ -180,7 +183,8 @@
         "affect audience perceptions",
         "alter the public debate"
       ],
-      "note": "shape 强调逐步形成看法。"
+      "note": "shape 强调逐步形成看法。",
+      "translation": "影响公众舆论"
     },
     {
       "base": "one-sided report",
@@ -189,7 +193,8 @@
         "selective presentation",
         "unbalanced coverage"
       ],
-      "note": "selective presentation 指只展示部分证据。"
+      "note": "selective presentation 指只展示部分证据。",
+      "translation": "片面的报道"
     },
     {
       "base": "widely shared",
@@ -198,7 +203,8 @@
         "distributed across platforms",
         "reposted by large audiences"
       ],
-      "note": "circulated extensively 适合正式描述传播。"
+      "note": "circulated extensively 适合正式描述传播。",
+      "translation": "被广泛分享"
     },
     {
       "base": "understand the message",
@@ -207,7 +213,8 @@
         "identify the intended meaning",
         "evaluate what is communicated"
       ],
-      "note": "evaluate 还包含判断质量与意图。"
+      "note": "evaluate 还包含判断质量与意图。",
+      "translation": "理解信息含义"
     },
     {
       "base": "online information",
@@ -216,51 +223,60 @@
         "material found on the internet",
         "web-based information"
       ],
-      "note": "digital content 可包括文字、图片和视频。"
+      "note": "digital content 可包括文字、图片和视频。",
+      "translation": "网络信息"
     }
   ],
   "sentences": [
     {
       "pattern": "The fact that + a post or image + has been widely shared does not mean that + it is reliable.",
       "cn": "某项内容被广泛分享，并不意味着它具备某种可靠性。",
-      "example": "The fact that a video has been widely shared does not mean that its caption is accurate."
+      "example": "The fact that a video has been widely shared does not mean that its caption is accurate.",
+      "exampleTranslation": "一段视频被广泛分享，并不意味着它的说明文字准确。"
     },
     {
       "pattern": "Before accepting + an online claim, readers should establish who + created it + and what evidence supports it.",
       "cn": "读者在接受某项说法前，应确认是谁发布了它以及依据何种证据。",
-      "example": "Before accepting a health claim, readers should establish who published it and on what evidence."
+      "example": "Before accepting a health claim, readers should establish who published it and on what evidence.",
+      "exampleTranslation": "在接受某项健康说法之前，读者应弄清是谁发布了它，以及依据是什么。"
     },
     {
       "pattern": "What appears to be + independent advice + may in fact be + advertising, particularly when + payment or sponsorship is hidden.",
       "cn": "看似某类媒体内容的材料，实际上可能具有隐蔽目的，尤其当某种线索出现时。",
-      "example": "What appears to be an independent review may in fact be an advertisement, particularly when sponsorship is disclosed only at the end."
+      "example": "What appears to be an independent review may in fact be an advertisement, particularly when sponsorship is disclosed only at the end.",
+      "exampleTranslation": "看似独立的评论实际上可能是广告，尤其是在赞助信息直到结尾才披露的情况下。"
     }
   ],
   "expressions": [
     {
       "text": "read beyond the headline",
       "cn": "阅读标题之外的正文",
-      "example": "I try to read beyond the headline before sharing a story."
+      "example": "I try to read beyond the headline before sharing a story.",
+      "exampleTranslation": "分享报道之前，我会尽量阅读标题以外的内容。"
     },
     {
       "text": "ring alarm bells",
       "cn": "敲响警钟；引起警觉",
-      "example": "An unnamed expert and an urgent demand should ring alarm bells."
+      "example": "An unnamed expert and an urgent demand should ring alarm bells.",
+      "exampleTranslation": "匿名专家加上紧迫要求，应该让人提高警惕。"
     },
     {
       "text": "get the wrong end of the stick",
       "cn": "误解原意",
-      "example": "People can get the wrong end of the stick when a quotation loses its context."
+      "example": "People can get the wrong end of the stick when a quotation loses its context.",
+      "exampleTranslation": "当引语脱离语境时，人们可能会完全误解其含义。"
     },
     {
       "text": "distinguish fact from opinion",
       "cn": "区分事实与观点",
-      "example": "Students need practice in distinguishing fact from opinion."
+      "example": "Students need practice in distinguishing fact from opinion.",
+      "exampleTranslation": "学生需要练习区分事实与观点。"
     },
     {
       "text": "present a balanced account",
       "cn": "提供平衡的论述",
-      "example": "Responsible reporting should present a balanced account of disputed evidence."
+      "example": "Responsible reporting should present a balanced account of disputed evidence.",
+      "exampleTranslation": "负责任的报道应对有争议的证据作出均衡陈述。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "compare competing accounts",
         "justify an evaluation"
       ],
-      "argument": "Definitions of bias are easy to memorise but difficult to apply when a polished video arrives through a trusted friend. In class, students can trace a current claim to its first publication, compare how several outlets frame it and explain which evidence changes their judgement. This process reveals that reliability is rarely determined by one visual clue. For example, a genuine photograph may still be paired with a false date. Guided analysis of real material therefore develops habits that transfer beyond an examination."
+      "argument": "Definitions of bias are easy to memorise but difficult to apply when a polished video arrives through a trusted friend. In class, students can trace a current claim to its first publication, compare how several outlets frame it and explain which evidence changes their judgement. This process reveals that reliability is rarely determined by one visual clue. For example, a genuine photograph may still be paired with a false date. Guided analysis of real material therefore develops habits that transfer beyond an examination.",
+      "viewpointTranslation": "媒体素养课程应使用真实材料。",
+      "topicSentenceTranslation": "学生在分析真实帖子、报道和图像时，能够更有效地学会评估媒体内容。",
+      "collocationTranslations": [
+        "追溯原始来源",
+        "识别缺失的语境",
+        "比较相互竞争的说法",
+        "说明评价理由"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Definitions of bias are easy to memorise but difficult to apply when a polished video arrives through a trusted friend.",
+          "translation": "偏见的定义很容易记住，但当一段制作精良的视频由可信任的朋友发来时，这些定义却很难应用。"
+        },
+        {
+          "text": "In class, students can trace a current claim to its first publication, compare how several outlets frame it and explain which evidence changes their judgement.",
+          "translation": "课堂上，学生可以追溯当前说法的首次发布来源，比较多家媒体如何呈现它，并说明哪些证据改变了自己的判断。"
+        },
+        {
+          "text": "This process reveals that reliability is rarely determined by one visual clue.",
+          "translation": "这个过程表明，可靠性很少由单一的视觉线索决定。"
+        },
+        {
+          "text": "For example, a genuine photograph may still be paired with a false date.",
+          "translation": "例如，一张真实照片仍可能配上错误日期。"
+        },
+        {
+          "text": "Guided analysis of real material therefore develops habits that transfer beyond an examination.",
+          "translation": "因此，在指导下分析真实材料可以培养能够应用到考试之外的习惯。"
+        }
+      ],
+      "translation": "偏见的定义很容易记住，但当一段制作精良的视频由可信任的朋友发来时，这些定义却很难应用。课堂上，学生可以追溯当前说法的首次发布来源，比较多家媒体如何呈现它，并说明哪些证据改变了自己的判断。这个过程表明，可靠性很少由单一的视觉线索决定。例如，一张真实照片仍可能配上错误日期。因此，在指导下分析真实材料可以培养能够应用到考试之外的习惯。"
     },
     {
       "viewpoint": "Platforms and users have different but connected responsibilities.",
@@ -301,19 +348,110 @@
         "reward user engagement",
         "share responsibility"
       ],
-      "argument": "A user decides whether to repost a doubtful claim, but platforms determine which material receives rapid and repeated exposure. Systems designed mainly to reward engagement can amplify outrage before verification catches up. Platforms should label manipulated media, provide context from independent sources and reduce incentives for accounts that repeatedly distribute falsehoods. Individuals must still pause, cross-check and correct mistakes because no automated system understands every context. Responsibility should be shared in proportion to each party’s control over the spread of information."
+      "argument": "A user decides whether to repost a doubtful claim, but platforms determine which material receives rapid and repeated exposure. Systems designed mainly to reward engagement can amplify outrage before verification catches up. Platforms should label manipulated media, provide context from independent sources and reduce incentives for accounts that repeatedly distribute falsehoods. Individuals must still pause, cross-check and correct mistakes because no automated system understands every context. Responsibility should be shared in proportion to each party’s control over the spread of information.",
+      "viewpointTranslation": "平台与用户承担不同但相互关联的责任。",
+      "topicSentenceTranslation": "改善信息环境既需要个人谨慎判断，也需要改变平台设计。",
+      "collocationTranslations": [
+        "减缓错误信息传播",
+        "标注经过操纵的媒体内容",
+        "奖励用户互动",
+        "共同承担责任"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A user decides whether to repost a doubtful claim, but platforms determine which material receives rapid and repeated exposure.",
+          "translation": "用户决定是否转发可疑说法，而平台则决定哪些内容会获得快速、反复的曝光。"
+        },
+        {
+          "text": "Systems designed mainly to reward engagement can amplify outrage before verification catches up.",
+          "translation": "主要为了奖励互动而设计的系统，可能在事实核查跟上之前放大愤怒情绪。"
+        },
+        {
+          "text": "Platforms should label manipulated media, provide context from independent sources and reduce incentives for accounts that repeatedly distribute falsehoods.",
+          "translation": "平台应标注经过操纵的媒体内容，提供独立来源的背景信息，并减少对反复传播虚假内容账号的激励。"
+        },
+        {
+          "text": "Individuals must still pause, cross-check and correct mistakes because no automated system understands every context.",
+          "translation": "个人仍必须暂停一下、交叉核实并纠正错误，因为没有自动化系统能够理解所有语境。"
+        },
+        {
+          "text": "Responsibility should be shared in proportion to each party’s control over the spread of information.",
+          "translation": "责任应根据各方对信息传播的控制程度共同承担。"
+        }
+      ],
+      "translation": "用户决定是否转发可疑说法，而平台则决定哪些内容会获得快速、反复的曝光。主要为了奖励互动而设计的系统，可能在事实核查跟上之前放大愤怒情绪。平台应标注经过操纵的媒体内容，提供独立来源的背景信息，并减少对反复传播虚假内容账号的激励。个人仍必须暂停一下、交叉核实并纠正错误，因为没有自动化系统能够理解所有语境。责任应根据各方对信息传播的控制程度共同承担。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a time when you discovered that some information was misleading.",
-      "answer": "I once saw a post claiming that a familiar food product had been recalled for safety reasons. The image looked official, and several friends had already forwarded it, so my first reaction was to believe it. Before passing it on, I searched the manufacturer’s website and found a genuine recall notice from three years earlier. Someone had removed the date and presented it as current news. I sent the updated link to the group and explained the mistake. What surprised me was that the photograph itself had not been edited; the missing context created the false impression. Since then, I have become much more careful about dates and original sources, especially when a post creates a sense of urgency."
+      "answer": "I once saw a post claiming that a familiar food product had been recalled for safety reasons. The image looked official, and several friends had already forwarded it, so my first reaction was to believe it. Before passing it on, I searched the manufacturer’s website and found a genuine recall notice from three years earlier. Someone had removed the date and presented it as current news. I sent the updated link to the group and explained the mistake. What surprised me was that the photograph itself had not been edited; the missing context created the false impression. Since then, I have become much more careful about dates and original sources, especially when a post creates a sense of urgency.",
+      "questionTranslation": "描述一次你发现某些信息具有误导性的经历。",
+      "answerSentences": [
+        {
+          "text": "I once saw a post claiming that a familiar food product had been recalled for safety reasons.",
+          "translation": "我曾看到一则帖子，声称一种常见食品因安全原因被召回。"
+        },
+        {
+          "text": "The image looked official, and several friends had already forwarded it, so my first reaction was to believe it.",
+          "translation": "图片看起来很官方，而且已有几个朋友转发，所以我的第一反应是相信它。"
+        },
+        {
+          "text": "Before passing it on, I searched the manufacturer’s website and found a genuine recall notice from three years earlier.",
+          "translation": "在继续转发之前，我搜索了生产商的网站，发现那其实是三年前发布的一份真实召回通知。"
+        },
+        {
+          "text": "Someone had removed the date and presented it as current news.",
+          "translation": "有人删掉了日期，把它当作当前新闻发布。"
+        },
+        {
+          "text": "I sent the updated link to the group and explained the mistake.",
+          "translation": "我把更新后的链接发到群里，并解释了这个错误。"
+        },
+        {
+          "text": "What surprised me was that the photograph itself had not been edited; the missing context created the false impression.",
+          "translation": "令我意外的是，照片本身并没有被修改；缺失的语境造成了错误印象。"
+        },
+        {
+          "text": "Since then, I have become much more careful about dates and original sources, especially when a post creates a sense of urgency.",
+          "translation": "从那以后，我更加留意日期和原始来源，尤其是在帖子营造紧迫感的时候。"
+        }
+      ],
+      "translation": "我曾看到一则帖子，声称一种常见食品因安全原因被召回。图片看起来很官方，而且已有几个朋友转发，所以我的第一反应是相信它。在继续转发之前，我搜索了生产商的网站，发现那其实是三年前发布的一份真实召回通知。有人删掉了日期，把它当作当前新闻发布。我把更新后的链接发到群里，并解释了这个错误。令我意外的是，照片本身并没有被修改；缺失的语境造成了错误印象。从那以后，我更加留意日期和原始来源，尤其是在帖子营造紧迫感的时候。"
     },
     {
       "part": "Part 3",
       "question": "Why do people share stories without checking whether they are true?",
-      "answer": "Speed and emotion are probably the main reasons. People often encounter a story while doing something else, and sharing it takes only a second, whereas checking requires attention. A report that confirms an existing belief or creates anger also feels worth passing on immediately. In addition, users may trust the friend who sent it even though that friend did not create the content. I do not think most people intend to mislead others. Platforms could add useful friction, but individuals also need the habit of opening the article and checking its source before they amplify it."
+      "answer": "Speed and emotion are probably the main reasons. People often encounter a story while doing something else, and sharing it takes only a second, whereas checking requires attention. A report that confirms an existing belief or creates anger also feels worth passing on immediately. In addition, users may trust the friend who sent it even though that friend did not create the content. I do not think most people intend to mislead others. Platforms could add useful friction, but individuals also need the habit of opening the article and checking its source before they amplify it.",
+      "questionTranslation": "人们为什么会在没有核实真伪的情况下分享报道？",
+      "answerSentences": [
+        {
+          "text": "Speed and emotion are probably the main reasons.",
+          "translation": "速度和情绪可能是主要原因。"
+        },
+        {
+          "text": "People often encounter a story while doing something else, and sharing it takes only a second, whereas checking requires attention.",
+          "translation": "人们常常在做其他事情时看到一则报道，分享只需一秒，而核实却需要专注。"
+        },
+        {
+          "text": "A report that confirms an existing belief or creates anger also feels worth passing on immediately.",
+          "translation": "一则印证已有看法或激起愤怒的报道，也会让人觉得应该立即转发。"
+        },
+        {
+          "text": "In addition, users may trust the friend who sent it even though that friend did not create the content.",
+          "translation": "此外，用户可能信任发送它的朋友，尽管那位朋友并不是内容创作者。"
+        },
+        {
+          "text": "I do not think most people intend to mislead others.",
+          "translation": "我认为大多数人并非有意误导他人。"
+        },
+        {
+          "text": "Platforms could add useful friction, but individuals also need the habit of opening the article and checking its source before they amplify it.",
+          "translation": "平台可以适当增加分享前的阻力，但个人也需要养成打开文章并核查来源之后再扩大传播的习惯。"
+        }
+      ],
+      "translation": "速度和情绪可能是主要原因。人们常常在做其他事情时看到一则报道，分享只需一秒，而核实却需要专注。一则印证已有看法或激起愤怒的报道，也会让人觉得应该立即转发。此外，用户可能信任发送它的朋友，尽管那位朋友并不是内容创作者。我认为大多数人并非有意误导他人。平台可以适当增加分享前的阻力，但个人也需要养成打开文章并核查来源之后再扩大传播的习惯。"
     }
   ],
   "reading": {
@@ -344,6 +482,106 @@
         "answer": "a reverse-image search",
         "explanation": "Paragraph B names this method directly."
       }
+    ],
+    "titleTranslation": "真实照片也可能产生误导",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Fact-checking advice often begins with image manipulation: look for an unnatural shadow, a repeated shape or a face produced by artificial intelligence.",
+          "translation": "事实核查建议通常从图像处理讲起：寻找不自然的阴影、重复的形状，或人工智能生成的人脸。"
+        },
+        {
+          "text": "These clues matter, yet some of the most persuasive visual misinformation uses photographs that have not been altered at all.",
+          "translation": "这些线索很重要，但一些最具说服力的视觉错误信息所使用的照片其实完全没有被修改。"
+        },
+        {
+          "text": "The deception lies instead in the relationship between an authentic image and the words, date or location attached to it.",
+          "translation": "欺骗之处反而在于真实图像与附加文字、日期或地点之间的关系。"
+        }
+      ],
+      [
+        {
+          "text": "During a flood, for example, an old photograph of a submerged road may circulate as evidence of current conditions in another country.",
+          "translation": "例如，洪水期间，一张旧的道路被淹照片可能被传播为另一个国家当前状况的证据。"
+        },
+        {
+          "text": "A reverse-image search can reveal its earlier publication, but even that result requires interpretation.",
+          "translation": "反向图片搜索可以找到它较早的发布记录，但即使是这个结果也需要解读。"
+        },
+        {
+          "text": "News organisations legitimately reuse archive photographs when they are clearly labelled, while social-media users may repost an image without knowing its origin.",
+          "translation": "新闻机构在明确标注时会合理地重复使用资料照片，而社交媒体用户可能在不知道来源的情况下转发图片。"
+        },
+        {
+          "text": "The central question is not simply whether the pixels are genuine but whether the new presentation supports the claim being made.",
+          "translation": "核心问题不只是像素是否真实，而是新的呈现方式是否支持所声称的内容。"
+        }
+      ],
+      [
+        {
+          "text": "Captions have particular power because readers tend to treat them as instructions for seeing.",
+          "translation": "图片说明具有特殊影响力，因为读者往往把它当作观看图像的指引。"
+        },
+        {
+          "text": "In one experiment, participants who viewed the same crowd photograph with different political descriptions reported noticing different emotions and intentions.",
+          "translation": "在一项实验中，参与者看到同一张人群照片配上不同政治描述后，声称注意到了不同的情绪和意图。"
+        },
+        {
+          "text": "The image did not settle the disagreement; its ambiguity allowed each caption to organise attention.",
+          "translation": "图像并没有解决分歧；它的模糊性让每段说明得以组织读者的注意力。"
+        },
+        {
+          "text": "Where a photograph captures only a fraction of an event, material immediately outside the frame may also change its meaning—a quiet counter-protest, for instance, or the barrier that explains why people are running.",
+          "translation": "当照片只截取事件的一小部分时，画框外紧邻的内容也可能改变其意义——例如安静的反对示威，或解释人们为何奔跑的障碍物。"
+        }
+      ],
+      [
+        {
+          "text": "Verification teams combine several methods.",
+          "translation": "核查团队会结合多种方法。"
+        },
+        {
+          "text": "They inspect landmarks, weather records and shadows; compare uploads to locate the earliest version; and contact photographers or local witnesses.",
+          "translation": "他们检查地标、天气记录和阴影；比较上传记录以寻找最早版本；并联系摄影者或当地目击者。"
+        },
+        {
+          "text": "None of these techniques is infallible in isolation.",
+          "translation": "这些方法单独使用时都并非万无一失。"
+        },
+        {
+          "text": "A timestamp may reflect the device setting rather than the moment of capture, and an early upload may still contain a false description.",
+          "translation": "时间戳可能反映设备设置而非拍摄时刻，而较早上传的内容仍可能带有错误描述。"
+        },
+        {
+          "text": "Confidence grows when independent clues converge.",
+          "translation": "当相互独立的线索趋于一致时，可信度就会提高。"
+        }
+      ],
+      [
+        {
+          "text": "Visual literacy therefore involves more than detecting sophisticated fakes.",
+          "translation": "因此，视觉素养不只是识别复杂的伪造内容。"
+        },
+        {
+          "text": "Readers should ask who supplied an image, what claim the caption adds and whether reliable sources place the scene in the same context.",
+          "translation": "读者应询问是谁提供了图像、说明文字增加了什么主张，以及可靠来源是否把场景置于相同语境中。"
+        },
+        {
+          "text": "This approach is slower than reacting to a dramatic picture, but it prevents authenticity from becoming a shortcut to accuracy.",
+          "translation": "这种方法比对戏剧性图片立即作出反应更慢，却能防止人们把真实性当作准确性的捷径。"
+        },
+        {
+          "text": "A real photograph is evidence of something; careful verification establishes what.",
+          "translation": "真实照片是某件事情的证据；严谨核查才能确定它究竟证明了什么。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "事实核查建议通常从图像处理讲起：寻找不自然的阴影、重复的形状，或人工智能生成的人脸。这些线索很重要，但一些最具说服力的视觉错误信息所使用的照片其实完全没有被修改。欺骗之处反而在于真实图像与附加文字、日期或地点之间的关系。",
+      "例如，洪水期间，一张旧的道路被淹照片可能被传播为另一个国家当前状况的证据。反向图片搜索可以找到它较早的发布记录，但即使是这个结果也需要解读。新闻机构在明确标注时会合理地重复使用资料照片，而社交媒体用户可能在不知道来源的情况下转发图片。核心问题不只是像素是否真实，而是新的呈现方式是否支持所声称的内容。",
+      "图片说明具有特殊影响力，因为读者往往把它当作观看图像的指引。在一项实验中，参与者看到同一张人群照片配上不同政治描述后，声称注意到了不同的情绪和意图。图像并没有解决分歧；它的模糊性让每段说明得以组织读者的注意力。当照片只截取事件的一小部分时，画框外紧邻的内容也可能改变其意义——例如安静的反对示威，或解释人们为何奔跑的障碍物。",
+      "核查团队会结合多种方法。他们检查地标、天气记录和阴影；比较上传记录以寻找最早版本；并联系摄影者或当地目击者。这些方法单独使用时都并非万无一失。时间戳可能反映设备设置而非拍摄时刻，而较早上传的内容仍可能带有错误描述。当相互独立的线索趋于一致时，可信度就会提高。",
+      "因此，视觉素养不只是识别复杂的伪造内容。读者应询问是谁提供了图像、说明文字增加了什么主张，以及可靠来源是否把场景置于相同语境中。这种方法比对戏剧性图片立即作出反应更慢，却能防止人们把真实性当作准确性的捷径。真实照片是某件事情的证据；严谨核查才能确定它究竟证明了什么。"
     ]
   }
 }

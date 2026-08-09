@@ -153,7 +153,8 @@
         "increase farm production",
         "improve crop yields"
       ],
-      "note": "crop yield 特指单位面积或一次种植的产量。"
+      "note": "crop yield 特指单位面积或一次种植的产量。",
+      "translation": "生产更多粮食"
     },
     {
       "base": "not enough food",
@@ -162,7 +163,8 @@
         "an inadequate food supply",
         "limited access to nutrition"
       ],
-      "note": "limited access 提醒人们问题也可能来自分配。"
+      "note": "limited access 提醒人们问题也可能来自分配。",
+      "translation": "粮食不足"
     },
     {
       "base": "protect farmers",
@@ -171,7 +173,8 @@
         "safeguard rural livelihoods",
         "reduce farmers’ exposure to risk"
       ],
-      "note": "exposure to risk 适合讨论气候与价格波动。"
+      "note": "exposure to risk 适合讨论气候与价格波动。",
+      "translation": "保护农民"
     },
     {
       "base": "damaged soil",
@@ -180,7 +183,8 @@
         "declining soil quality",
         "nutrient-depleted soil"
       ],
-      "note": "nutrient-depleted 强调养分流失。"
+      "note": "nutrient-depleted 强调养分流失。",
+      "translation": "受损的土壤"
     },
     {
       "base": "different crops",
@@ -189,7 +193,8 @@
         "a varied planting system",
         "multiple crop varieties"
       ],
-      "note": "crop diversity 常用于韧性和生态讨论。"
+      "note": "crop diversity 常用于韧性和生态讨论。",
+      "translation": "不同的作物"
     },
     {
       "base": "food transported far away",
@@ -198,7 +203,8 @@
         "extended supply chains",
         "produce shipped over great distances"
       ],
-      "note": "extended supply chains 强调环节较多。"
+      "note": "extended supply chains 强调环节较多。",
+      "translation": "远距离运输的食物"
     },
     {
       "base": "throw away food",
@@ -207,7 +213,8 @@
         "discard usable food",
         "lose food before consumption"
       ],
-      "note": "lose food before consumption 可涵盖农场到家庭的损耗。"
+      "note": "lose food before consumption 可涵盖农场到家庭的损耗。",
+      "translation": "丢弃食物"
     },
     {
       "base": "stable supply",
@@ -216,51 +223,60 @@
         "a secure supply of food",
         "consistent access to staples"
       ],
-      "note": "consistent access 强调长期可获得性。"
+      "note": "consistent access 强调长期可获得性。",
+      "translation": "稳定的供应"
     }
   ],
   "sentences": [
     {
       "pattern": "Food insecurity can persist even where + enough food is produced, because + some households cannot afford or reach it.",
       "cn": "即使某地具备某种生产条件，粮食不安全仍可能持续，因为存在某种获取问题。",
-      "example": "Food insecurity can persist even where national harvests are sufficient, because poor households cannot afford market prices."
+      "example": "Food insecurity can persist even where national harvests are sufficient, because poor households cannot afford market prices.",
+      "exampleTranslation": "即使全国收成充足，粮食不安全仍可能存在，因为贫困家庭负担不起市场价格。"
     },
     {
       "pattern": "By + adopting a particular farming practice, growers can + improve the current harvest + while also + protecting future productivity.",
       "cn": "种植者通过某种耕作方式，既能获得短期益处，也能取得长期成效。",
-      "example": "By rotating crops, growers can interrupt pest cycles while also restoring nutrients to the soil."
+      "example": "By rotating crops, growers can interrupt pest cycles while also restoring nutrients to the soil.",
+      "exampleTranslation": "通过轮作，种植者既能打断害虫繁殖周期，也能恢复土壤养分。"
     },
     {
       "pattern": "The more heavily a region depends on + a single crop or supplier, the more vulnerable it becomes to + disease, extreme weather or trade disruption.",
       "cn": "一个地区越依赖单一资源，就越容易受到某种冲击。",
-      "example": "The more heavily a region depends on one staple crop, the more vulnerable it becomes to disease and extreme weather."
+      "example": "The more heavily a region depends on one staple crop, the more vulnerable it becomes to disease and extreme weather.",
+      "exampleTranslation": "一个地区越依赖单一主粮作物，就越容易受到疾病和极端天气的影响。"
     }
   ],
   "expressions": [
     {
       "text": "from farm to fork",
       "cn": "从农场到餐桌",
-      "example": "Losses can occur at every stage from farm to fork."
+      "example": "Losses can occur at every stage from farm to fork.",
+      "exampleTranslation": "从农场到餐桌的每个环节都可能出现损耗。"
     },
     {
       "text": "a bumper harvest",
       "cn": "大丰收",
-      "example": "Good rainfall produced a bumper harvest last year."
+      "example": "Good rainfall produced a bumper harvest last year.",
+      "exampleTranslation": "充足降雨使去年获得了大丰收。"
     },
     {
       "text": "put food on the table",
       "cn": "维持一家人的温饱",
-      "example": "Many small farms barely earn enough to put food on the table."
+      "example": "Many small farms barely earn enough to put food on the table.",
+      "exampleTranslation": "许多小农场的收入勉强够维持温饱。"
     },
     {
       "text": "build a resilient food system",
       "cn": "建设有韧性的食品体系",
-      "example": "Diverse suppliers can help build a resilient food system."
+      "example": "Diverse suppliers can help build a resilient food system.",
+      "exampleTranslation": "多元化供应商有助于建立有韧性的粮食体系。"
     },
     {
       "text": "improve access to nutritious food",
       "cn": "改善获得营养食物的机会",
-      "example": "School meals improve access to nutritious food for low-income children."
+      "example": "School meals improve access to nutritious food for low-income children.",
+      "exampleTranslation": "学校供餐让低收入儿童更容易获得营养食品。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "avoid land conversion",
         "raise effective food supply"
       ],
-      "argument": "A farmer can achieve a strong harvest and still lose much of it to moisture, pests or delayed transport. Warehouses, local processing and reliable cold chains increase the amount that reaches consumers without requiring additional land or water. In comparison, expanding cultivation can destroy habitats while adding output that the same weak distribution system fails to preserve. Kenya’s use of small solar-powered coolers, for example, has helped some horticultural groups hold produce until collection. Preventing avoidable loss can therefore raise the effective food supply with fewer ecological costs."
+      "argument": "A farmer can achieve a strong harvest and still lose much of it to moisture, pests or delayed transport. Warehouses, local processing and reliable cold chains increase the amount that reaches consumers without requiring additional land or water. In comparison, expanding cultivation can destroy habitats while adding output that the same weak distribution system fails to preserve. Kenya’s use of small solar-powered coolers, for example, has helped some horticultural groups hold produce until collection. Preventing avoidable loss can therefore raise the effective food supply with fewer ecological costs.",
+      "viewpointTranslation": "减少损耗可能比扩大农田更有效。",
+      "topicSentenceTranslation": "粮食政策应先保护已经生产出来的食物，再考虑把更多土地转为农业用地。",
+      "collocationTranslations": [
+        "减少收获后损耗",
+        "改善冷藏条件",
+        "避免土地用途转换",
+        "提高实际粮食供应"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A farmer can achieve a strong harvest and still lose much of it to moisture, pests or delayed transport.",
+          "translation": "农民即使获得丰收，仍可能因潮湿、害虫或运输延误而损失大量农产品。"
+        },
+        {
+          "text": "Warehouses, local processing and reliable cold chains increase the amount that reaches consumers without requiring additional land or water.",
+          "translation": "仓储、本地加工和可靠冷链可以增加送达消费者手中的数量，而无需额外土地或水资源。"
+        },
+        {
+          "text": "In comparison, expanding cultivation can destroy habitats while adding output that the same weak distribution system fails to preserve.",
+          "translation": "相比之下，扩大耕种面积可能破坏栖息地，同时增加的产量仍会因同一套薄弱的分销体系而无法保存。"
+        },
+        {
+          "text": "Kenya’s use of small solar-powered coolers, for example, has helped some horticultural groups hold produce until collection.",
+          "translation": "例如，肯尼亚使用小型太阳能冷藏设备，帮助一些园艺种植团体把农产品保存到收购时。"
+        },
+        {
+          "text": "Preventing avoidable loss can therefore raise the effective food supply with fewer ecological costs.",
+          "translation": "因此，防止可避免的损耗能够以更低的生态成本增加实际粮食供应。"
+        }
+      ],
+      "translation": "农民即使获得丰收，仍可能因潮湿、害虫或运输延误而损失大量农产品。仓储、本地加工和可靠冷链可以增加送达消费者手中的数量，而无需额外土地或水资源。相比之下，扩大耕种面积可能破坏栖息地，同时增加的产量仍会因同一套薄弱的分销体系而无法保存。例如，肯尼亚使用小型太阳能冷藏设备，帮助一些园艺种植团体把农产品保存到收购时。因此，防止可避免的损耗能够以更低的生态成本增加实际粮食供应。"
     },
     {
       "viewpoint": "Resilience requires diversity rather than one optimal crop.",
@@ -301,19 +348,106 @@
         "preserve local varieties",
         "stabilise farm income"
       ],
-      "argument": "A high-yield variety may outperform alternatives under familiar conditions, encouraging an entire region to adopt it. If a new disease or unusual drought then affects that variety, losses occur simultaneously and food prices can rise sharply. Planting crops with different water needs and harvest dates spreads climatic and market risk, although the average yield of each field may be slightly lower. Seed banks and extension services can make suitable local varieties available to farmers. Measured across difficult as well as favourable years, diversity can be the more productive strategy."
+      "argument": "A high-yield variety may outperform alternatives under familiar conditions, encouraging an entire region to adopt it. If a new disease or unusual drought then affects that variety, losses occur simultaneously and food prices can rise sharply. Planting crops with different water needs and harvest dates spreads climatic and market risk, although the average yield of each field may be slightly lower. Seed banks and extension services can make suitable local varieties available to farmers. Measured across difficult as well as favourable years, diversity can be the more productive strategy.",
+      "viewpointTranslation": "韧性需要多样性，而不是一种所谓的最佳作物。",
+      "topicSentenceTranslation": "农业体系既应重视正常年份的产量，也应重视抵御冲击的能力。",
+      "collocationTranslations": [
+        "实现作物生产多样化",
+        "分散气候风险",
+        "保护本地品种",
+        "稳定农场收入"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A high-yield variety may outperform alternatives under familiar conditions, encouraging an entire region to adopt it.",
+          "translation": "高产品种在常规条件下可能优于其他品种，从而促使整个地区采用它。"
+        },
+        {
+          "text": "If a new disease or unusual drought then affects that variety, losses occur simultaneously and food prices can rise sharply.",
+          "translation": "如果一种新疾病或异常干旱随后影响该品种，损失就会同时发生，粮食价格也可能急剧上涨。"
+        },
+        {
+          "text": "Planting crops with different water needs and harvest dates spreads climatic and market risk, although the average yield of each field may be slightly lower.",
+          "translation": "种植需水量和收获日期不同的作物可以分散气候与市场风险，尽管每块田的平均产量可能略低。"
+        },
+        {
+          "text": "Seed banks and extension services can make suitable local varieties available to farmers.",
+          "translation": "种子库和农业推广服务可以为农民提供合适的本地品种。"
+        },
+        {
+          "text": "Measured across difficult as well as favourable years, diversity can be the more productive strategy.",
+          "translation": "如果把困难年份和有利年份一并衡量，多样性可能才是生产力更高的策略。"
+        }
+      ],
+      "translation": "高产品种在常规条件下可能优于其他品种，从而促使整个地区采用它。如果一种新疾病或异常干旱随后影响该品种，损失就会同时发生，粮食价格也可能急剧上涨。种植需水量和收获日期不同的作物可以分散气候与市场风险，尽管每块田的平均产量可能略低。种子库和农业推广服务可以为农民提供合适的本地品种。如果把困难年份和有利年份一并衡量，多样性可能才是生产力更高的策略。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a place where people can buy fresh food.",
-      "answer": "There is a covered market near my grandparents’ home where local farmers and small traders sell vegetables, fruit, eggs and dried goods. It opens very early, so the best time to visit is before nine in the morning. The produce is not arranged as perfectly as it is in a supermarket, but it is usually fresh and sellers can explain where it came from. My grandparents know several stallholders and often ask what is in season before deciding what to cook. I particularly like the fact that customers can buy a small quantity rather than a large package. The market is busy and slightly noisy, but it connects everyday shopping with the people who actually grow or prepare the food."
+      "answer": "There is a covered market near my grandparents’ home where local farmers and small traders sell vegetables, fruit, eggs and dried goods. It opens very early, so the best time to visit is before nine in the morning. The produce is not arranged as perfectly as it is in a supermarket, but it is usually fresh and sellers can explain where it came from. My grandparents know several stallholders and often ask what is in season before deciding what to cook. I particularly like the fact that customers can buy a small quantity rather than a large package. The market is busy and slightly noisy, but it connects everyday shopping with the people who actually grow or prepare the food.",
+      "questionTranslation": "描述一个人们可以买到新鲜食物的地方。",
+      "answerSentences": [
+        {
+          "text": "There is a covered market near my grandparents’ home where local farmers and small traders sell vegetables, fruit, eggs and dried goods.",
+          "translation": "我祖父母家附近有一个室内市场，当地农民和小商贩在那里出售蔬菜、水果、鸡蛋和干货。"
+        },
+        {
+          "text": "It opens very early, so the best time to visit is before nine in the morning.",
+          "translation": "市场开门很早，所以早上九点以前去最好。"
+        },
+        {
+          "text": "The produce is not arranged as perfectly as it is in a supermarket, but it is usually fresh and sellers can explain where it came from.",
+          "translation": "农产品的摆放不像超市里那么整齐，但通常很新鲜，摊主也能说明它们来自哪里。"
+        },
+        {
+          "text": "My grandparents know several stallholders and often ask what is in season before deciding what to cook.",
+          "translation": "我的祖父母认识好几位摊主，常常先询问当季有什么，再决定做什么菜。"
+        },
+        {
+          "text": "I particularly like the fact that customers can buy a small quantity rather than a large package.",
+          "translation": "我尤其喜欢顾客可以买少量商品，而不必购买一大包这一点。"
+        },
+        {
+          "text": "The market is busy and slightly noisy, but it connects everyday shopping with the people who actually grow or prepare the food.",
+          "translation": "市场很繁忙，也有点嘈杂，但它把日常购物与真正种植或制作食物的人联系起来。"
+        }
+      ],
+      "translation": "我祖父母家附近有一个室内市场，当地农民和小商贩在那里出售蔬菜、水果、鸡蛋和干货。市场开门很早，所以早上九点以前去最好。农产品的摆放不像超市里那么整齐，但通常很新鲜，摊主也能说明它们来自哪里。我的祖父母认识好几位摊主，常常先询问当季有什么，再决定做什么菜。我尤其喜欢顾客可以买少量商品，而不必购买一大包这一点。市场很繁忙，也有点嘈杂，但它把日常购物与真正种植或制作食物的人联系起来。"
     },
     {
       "part": "Part 3",
       "question": "How can countries make their food supply more reliable?",
-      "answer": "They need to look beyond the amount produced in one good season. Diverse crops and suppliers reduce the risk that a drought, disease or trade disruption will affect everything at once. Storage and transport are equally important because food that spoils before reaching a market does not improve security. Governments can also provide farmers with weather information, insurance and access to suitable seeds. Finally, low-income families need enough purchasing power; full shops do not prevent hunger if nutritious food is unaffordable. A reliable system combines production, distribution and access rather than treating them as separate issues."
+      "answer": "They need to look beyond the amount produced in one good season. Diverse crops and suppliers reduce the risk that a drought, disease or trade disruption will affect everything at once. Storage and transport are equally important because food that spoils before reaching a market does not improve security. Governments can also provide farmers with weather information, insurance and access to suitable seeds. Finally, low-income families need enough purchasing power; full shops do not prevent hunger if nutritious food is unaffordable. A reliable system combines production, distribution and access rather than treating them as separate issues.",
+      "questionTranslation": "各国怎样才能使粮食供应更加可靠？",
+      "answerSentences": [
+        {
+          "text": "They need to look beyond the amount produced in one good season.",
+          "translation": "各国需要超越一个好年景中的产量来看问题。"
+        },
+        {
+          "text": "Diverse crops and suppliers reduce the risk that a drought, disease or trade disruption will affect everything at once.",
+          "translation": "多样化的作物和供应商能够降低干旱、疾病或贸易中断同时影响一切的风险。"
+        },
+        {
+          "text": "Storage and transport are equally important because food that spoils before reaching a market does not improve security.",
+          "translation": "储存和运输同样重要，因为食物在到达市场前腐坏并不能提高粮食安全。"
+        },
+        {
+          "text": "Governments can also provide farmers with weather information, insurance and access to suitable seeds.",
+          "translation": "政府还可以向农民提供天气信息、保险以及合适种子的获取渠道。"
+        },
+        {
+          "text": "Finally, low-income families need enough purchasing power; full shops do not prevent hunger if nutritious food is unaffordable.",
+          "translation": "最后，低收入家庭需要有足够购买力；如果营养食品买不起，商店货架满满也无法防止饥饿。"
+        },
+        {
+          "text": "A reliable system combines production, distribution and access rather than treating them as separate issues.",
+          "translation": "可靠的体系应把生产、分销和获取结合起来，而不是把它们视为互不相关的问题。"
+        }
+      ],
+      "translation": "各国需要超越一个好年景中的产量来看问题。多样化的作物和供应商能够降低干旱、疾病或贸易中断同时影响一切的风险。储存和运输同样重要，因为食物在到达市场前腐坏并不能提高粮食安全。政府还可以向农民提供天气信息、保险以及合适种子的获取渠道。最后，低收入家庭需要有足够购买力；如果营养食品买不起，商店货架满满也无法防止饥饿。可靠的体系应把生产、分销和获取结合起来，而不是把它们视为互不相关的问题。"
     }
   ],
   "reading": {
@@ -344,6 +478,114 @@
         "answer": "information",
         "explanation": "The final paragraph lists timely market information."
       }
+    ],
+    "titleTranslation": "粮仓为何也是社会制度",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A grain store appears to perform a simple technical function: keeping a harvest dry until it is eaten or sold.",
+          "translation": "粮仓看似执行一种简单的技术功能：在粮食被食用或出售前保持干燥。"
+        },
+        {
+          "text": "In practice, the decision to store grain changes relationships among farmers, traders and households.",
+          "translation": "实际上，储粮的决定会改变农民、贸易商和家庭之间的关系。"
+        },
+        {
+          "text": "It determines who can wait for a better price, who must sell immediately to repay a loan and who controls food during the months before the next harvest.",
+          "translation": "它决定了谁能等待更好的价格、谁必须立即出售以偿还贷款，以及谁在下一次收获前的数月里掌控粮食。"
+        },
+        {
+          "text": "For this reason, improving storage is not merely a matter of distributing stronger containers.",
+          "translation": "因此，改善储存并不只是分发更坚固容器的问题。"
+        }
+      ],
+      [
+        {
+          "text": "Smallholders commonly sell just after harvest, when local supply is high and prices are low, because they need cash for school fees or debts.",
+          "translation": "小农户通常在收获后立即出售，因为此时当地供应量大、价格低，而他们需要现金支付学费或债务。"
+        },
+        {
+          "text": "Traders with warehouses can buy cheaply and release grain later.",
+          "translation": "拥有仓库的贸易商可以低价买入，之后再放粮出售。"
+        },
+        {
+          "text": "A farmers’ cooperative, by pooling produce and negotiating credit against the stored crop, may allow members to delay a sale without losing access to money.",
+          "translation": "农民合作社通过汇集农产品并以库存作物为担保协商信贷，可能让成员延迟出售而不失去资金来源。"
+        },
+        {
+          "text": "The arrangement works only if quantities are measured accurately and members trust the people keeping the records.",
+          "translation": "只有数量得到准确计量且成员信任记录保管者，这种安排才能运作。"
+        }
+      ],
+      [
+        {
+          "text": "Physical design remains crucial.",
+          "translation": "物理设计仍然至关重要。"
+        },
+        {
+          "text": "Moisture encourages mould, while insects can multiply inside apparently secure bags.",
+          "translation": "潮湿会促使霉菌生长，而昆虫可能在看似安全的袋子里大量繁殖。"
+        },
+        {
+          "text": "Sealed containers, raised floors and regular inspection reduce loss, but the best option varies with climate, crop and household scale.",
+          "translation": "密封容器、架高地板和定期检查可以减少损失，但最佳选择会随气候、作物和家庭规模而变化。"
+        },
+        {
+          "text": "A large central warehouse may offer professional management; it may also be too distant for a farmer transporting a few sacks.",
+          "translation": "大型中央仓库可能提供专业管理，但对于只运输几袋粮食的农民来说，也可能过于遥远。"
+        },
+        {
+          "text": "Some programmes have therefore combined household silos with shared testing equipment rather than insisting on one model.",
+          "translation": "因此，一些项目把家庭粮仓与共享检测设备结合起来，而不是坚持单一模式。"
+        }
+      ],
+      [
+        {
+          "text": "Storage can affect diets as well as income.",
+          "translation": "储存既会影响收入，也会影响饮食。"
+        },
+        {
+          "text": "When a household preserves several crops instead of selling them all, meals remain more varied through the dry season.",
+          "translation": "家庭保留多种作物而非全部卖掉时，旱季的膳食会更加多样。"
+        },
+        {
+          "text": "Nevertheless, holding grain is not automatically beneficial.",
+          "translation": "不过，持有粮食并非必然有利。"
+        },
+        {
+          "text": "Prices may fall, stored crops may deteriorate and families may postpone necessary spending in the hope of a return that never arrives.",
+          "translation": "价格可能下跌，储存作物可能变质，家庭也可能为了一个最终无法实现的回报而推迟必要支出。"
+        },
+        {
+          "text": "Training should present those risks instead of promising guaranteed profit.",
+          "translation": "培训应说明这些风险，而不是承诺一定获利。"
+        }
+      ],
+      [
+        {
+          "text": "The most successful projects treat a store as part of a financial and social system.",
+          "translation": "最成功的项目把粮仓视为金融和社会体系的一部分。"
+        },
+        {
+          "text": "They connect pest control with transparent weighing, realistic credit and timely market information.",
+          "translation": "它们把虫害控制与透明称重、合理信贷和及时市场信息结合起来。"
+        },
+        {
+          "text": "Steel, concrete and sealed plastic can protect grain from weather, but only accountable arrangements protect the farmer’s claim to it.",
+          "translation": "钢材、混凝土和密封塑料可以保护粮食免受天气影响，但只有可问责的安排才能保护农民对粮食的所有权。"
+        },
+        {
+          "text": "Food security depends on both kinds of protection.",
+          "translation": "粮食安全依赖这两种保护。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "粮仓看似执行一种简单的技术功能：在粮食被食用或出售前保持干燥。实际上，储粮的决定会改变农民、贸易商和家庭之间的关系。它决定了谁能等待更好的价格、谁必须立即出售以偿还贷款，以及谁在下一次收获前的数月里掌控粮食。因此，改善储存并不只是分发更坚固容器的问题。",
+      "小农户通常在收获后立即出售，因为此时当地供应量大、价格低，而他们需要现金支付学费或债务。拥有仓库的贸易商可以低价买入，之后再放粮出售。农民合作社通过汇集农产品并以库存作物为担保协商信贷，可能让成员延迟出售而不失去资金来源。只有数量得到准确计量且成员信任记录保管者，这种安排才能运作。",
+      "物理设计仍然至关重要。潮湿会促使霉菌生长，而昆虫可能在看似安全的袋子里大量繁殖。密封容器、架高地板和定期检查可以减少损失，但最佳选择会随气候、作物和家庭规模而变化。大型中央仓库可能提供专业管理，但对于只运输几袋粮食的农民来说，也可能过于遥远。因此，一些项目把家庭粮仓与共享检测设备结合起来，而不是坚持单一模式。",
+      "储存既会影响收入，也会影响饮食。家庭保留多种作物而非全部卖掉时，旱季的膳食会更加多样。不过，持有粮食并非必然有利。价格可能下跌，储存作物可能变质，家庭也可能为了一个最终无法实现的回报而推迟必要支出。培训应说明这些风险，而不是承诺一定获利。",
+      "最成功的项目把粮仓视为金融和社会体系的一部分。它们把虫害控制与透明称重、合理信贷和及时市场信息结合起来。钢材、混凝土和密封塑料可以保护粮食免受天气影响，但只有可问责的安排才能保护农民对粮食的所有权。粮食安全依赖这两种保护。"
     ]
   }
 }

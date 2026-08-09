@@ -153,7 +153,8 @@
         "development",
         "transformation"
       ],
-      "note": "transformation 表示幅度较大的变化。 本组可用于讨论消费行为。"
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论消费行为。",
+      "translation": "change 表示变化；shift、development 和 transformation 可表示不同幅度的改变。"
     },
     {
       "base": "important",
@@ -162,7 +163,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论消费行为。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论消费行为。",
+      "translation": "important 表示重要；significant、crucial 和 essential 可表达不同程度的重要性。"
     },
     {
       "base": "result",
@@ -171,7 +173,8 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论消费行为。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论消费行为。",
+      "translation": "result 表示结果；outcome、consequence 和 effect 可根据语境替换。"
     },
     {
       "base": "improve",
@@ -180,7 +183,8 @@
         "strengthen",
         "raise the quality of"
       ],
-      "note": "搭配对象不同，不能机械互换。 本组可用于讨论消费行为。"
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论消费行为。",
+      "translation": "improve 表示改善；enhance、strengthen 和 raise the quality of 可强调提升或加强。"
     },
     {
       "base": "reduce",
@@ -189,7 +193,8 @@
         "limit",
         "bring down"
       ],
-      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论消费行为。"
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论消费行为。",
+      "translation": "reduce 表示减少；decrease、limit 和 bring down 可表达降低或控制。"
     },
     {
       "base": "people",
@@ -198,7 +203,8 @@
         "members of the public",
         "residents"
       ],
-      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论消费行为。"
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论消费行为。",
+      "translation": "people 表示人们；individuals、members of the public 和 residents 可用于更正式或具体的语境。"
     },
     {
       "base": "use",
@@ -207,7 +213,8 @@
         "adopt",
         "rely on"
       ],
-      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论消费行为。"
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论消费行为。",
+      "translation": "use 表示使用；make use of、adopt 和 rely on 可分别表示利用、采用或依赖。"
     },
     {
       "base": "choice",
@@ -216,51 +223,60 @@
         "alternative",
         "decision"
       ],
-      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论消费行为。"
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论消费行为。",
+      "translation": "choice 表示选择；option、alternative 和 decision 可根据语境表示选项、替代方案或决定。"
     }
   ],
   "sentences": [
     {
       "pattern": "Consumers are more likely to choose + option + when it is presented as + default/status.",
       "cn": "当某选项被设为默认或特定状态时，消费者更可能选择它。",
-      "example": "Consumers are more likely to choose paperless billing when it is presented as the default."
+      "example": "Consumers are more likely to choose paperless billing when it is presented as the default.",
+      "exampleTranslation": "当无纸化账单被设为默认选项时，消费者更可能选择它。"
     },
     {
       "pattern": "What appears to be + personal preference + may partly reflect + market/design condition.",
       "cn": "看似个人偏好的事物，可能部分反映市场或设计条件。",
-      "example": "What appears to be brand loyalty may partly reflect the effort required to compare alternatives."
+      "example": "What appears to be brand loyalty may partly reflect the effort required to compare alternatives.",
+      "exampleTranslation": "看似品牌忠诚的行为，部分原因可能是比较其他选择所需的精力。"
     },
     {
       "pattern": "Having paid + sunk cost, buyers may continue + behaviour + even when + disadvantage.",
       "cn": "支付沉没成本后，购买者可能继续某行为，即使……。",
-      "example": "Having paid an annual fee, buyers may continue using a poor service even when better options exist."
+      "example": "Having paid an annual fee, buyers may continue using a poor service even when better options exist.",
+      "exampleTranslation": "支付年费后，即使存在更好的选择，买家仍可能继续使用糟糕的服务。"
     }
   ],
   "expressions": [
     {
-      "text": "shop around",
-      "cn": "货比三家",
-      "example": "I shop around before signing a long contract."
+      "text": "sleep on it",
+      "cn": "考虑一晚再作决定",
+      "example": "If a purchase is expensive, I usually sleep on it before deciding.",
+      "exampleTranslation": "如果一件东西很贵，我通常会考虑一晚再作决定。"
     },
     {
       "text": "make an impulse purchase",
       "cn": "冲动购物",
-      "example": "Limited-time offers encourage people to make an impulse purchase."
+      "example": "Limited-time offers encourage people to make an impulse purchase.",
+      "exampleTranslation": "限时优惠会促使人们冲动购物。"
     },
     {
       "text": "get value for money",
       "cn": "物有所值",
-      "example": "Durability often provides better value for money than a low initial price."
+      "example": "Durability often provides better value for money than a low initial price.",
+      "exampleTranslation": "耐用品通常比初始价格低的产品更物有所值。"
     },
     {
       "text": "stick with a familiar brand",
       "cn": "坚持熟悉品牌",
-      "example": "Some consumers stick with a familiar brand to avoid search effort."
+      "example": "Some consumers stick with a familiar brand to avoid search effort.",
+      "exampleTranslation": "一些消费者会继续选择熟悉的品牌，以省去搜寻和比较的精力。"
     },
     {
       "text": "change my mind at the checkout",
       "cn": "结账时改变主意",
-      "example": "A clear total price can make buyers change their mind at the checkout."
+      "example": "A clear total price can make buyers change their mind at the checkout.",
+      "exampleTranslation": "清晰的总价会让买家在结账时改变主意。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,33 @@
         "obtain informed consent",
         "design a fair interface"
       ],
-      "argument": "People often retain a preselected option because changing it requires attention, not because they examined every alternative. Defaults can support beneficial choices such as paperless communication, but they can also add insurance or data sharing that customers do not want. Important costs and commitments should require a clear action rather than passive acceptance. Choice architecture is unavoidable; fairness depends on whose interest it serves and how easily a decision can be reversed."
+      "argument": "People often retain a preselected option because changing it requires attention, not because they examined every alternative. Defaults can support beneficial choices such as paperless communication, but they can also add insurance or data sharing that customers do not want. Important costs and commitments should require a clear action rather than passive acceptance. Choice architecture is unavoidable; fairness depends on whose interest it serves and how easily a decision can be reversed.",
+      "viewpointTranslation": "消费者的选择取决于选项如何呈现。",
+      "topicSentenceTranslation": "市场不应假定每一个被接受的默认设置都反映主动偏好。",
+      "collocationTranslations": [
+        "设置默认选项",
+        "减少选择阻力",
+        "获得知情同意",
+        "设计公平界面"
+      ],
+      "argumentSentences": [
+        {
+          "text": "People often retain a preselected option because changing it requires attention, not because they examined every alternative.",
+          "translation": "人们常保留预先选中的选项，是因为更改需要投入注意力，而不是因为他们审视了每种替代方案。"
+        },
+        {
+          "text": "Defaults can support beneficial choices such as paperless communication, but they can also add insurance or data sharing that customers do not want.",
+          "translation": "默认设置可以支持无纸化沟通等有益选择，但也可能加入消费者并不需要的保险或数据共享。"
+        },
+        {
+          "text": "Important costs and commitments should require a clear action rather than passive acceptance.",
+          "translation": "重要费用和承诺应要求消费者采取明确行动，而不是被动接受。"
+        },
+        {
+          "text": "Choice architecture is unavoidable; fairness depends on whose interest it serves and how easily a decision can be reversed.",
+          "translation": "选择架构无法避免；其公平性取决于它服务谁的利益，以及决定能否轻易撤销。"
+        }
+      ]
     },
     {
       "viewpoint": "Durability information can improve consumer decisions.",
@@ -301,19 +343,99 @@
         "access spare parts",
         "make an informed purchase"
       ],
-      "argument": "A cheap appliance may cost more over time if it fails quickly and cannot be repaired. Consumers rarely know expected lifespan because manufacturers present features more prominently than maintenance. Standard repair scores, warranty terms and access to spare parts can make long-term cost visible. Such information may reward firms that design for durability. It also gives buyers a basis for choosing quality without relying entirely on brand reputation or uncertain online reviews."
+      "argument": "A cheap appliance may cost more over time if it fails quickly and cannot be repaired. Consumers rarely know expected lifespan because manufacturers present features more prominently than maintenance. Standard repair scores, warranty terms and access to spare parts can make long-term cost visible. Such information may reward firms that design for durability. It also gives buyers a basis for choosing quality without relying entirely on brand reputation or uncertain online reviews.",
+      "viewpointTranslation": "耐用性信息可以改善消费者决策。",
+      "topicSentenceTranslation": "买家需要有关预期产品寿命和可维修性的可比证据，而不只是购买价格。",
+      "collocationTranslations": [
+        "评估产品耐用性",
+        "比较终身成本",
+        "获得备件",
+        "作出知情购买决定"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A cheap appliance may cost more over time if it fails quickly and cannot be repaired.",
+          "translation": "便宜电器如果很快损坏且无法维修，长期成本可能更高。"
+        },
+        {
+          "text": "Consumers rarely know expected lifespan because manufacturers present features more prominently than maintenance.",
+          "translation": "消费者很少了解预期寿命，因为制造商会更突出产品功能而非维护信息。"
+        },
+        {
+          "text": "Standard repair scores, warranty terms and access to spare parts can make long-term cost visible.",
+          "translation": "统一的维修评分、保修条款和备件供应情况可以让长期成本变得可见。"
+        },
+        {
+          "text": "Such information may reward firms that design for durability.",
+          "translation": "这类信息可能奖励为耐用性而设计产品的企业。"
+        },
+        {
+          "text": "It also gives buyers a basis for choosing quality without relying entirely on brand reputation or uncertain online reviews.",
+          "translation": "它也让买家有依据选择质量，而不必完全依赖品牌声誉或不确定的网络评价。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you compare products carefully before buying them?",
-      "answer": "For expensive items, yes. I compare the total price, warranty and a few detailed reviews rather than looking only at star ratings. For ordinary groceries, I rely more on habit because the search would take too long. The amount of effort I spend depends on how costly a mistake would be."
+      "answer": "For expensive items, yes. I compare the total price, warranty and a few detailed reviews rather than looking only at star ratings. For ordinary groceries, I rely more on habit because the search would take too long. The amount of effort I spend depends on how costly a mistake would be.",
+      "questionTranslation": "购买产品前，你会仔细比较吗？",
+      "answerSentences": [
+        {
+          "text": "For expensive items, yes.",
+          "translation": "对于昂贵物品，我会。"
+        },
+        {
+          "text": "I compare the total price, warranty and a few detailed reviews rather than looking only at star ratings.",
+          "translation": "我会比较总价、保修和几篇详细评价，而不只看星级评分。"
+        },
+        {
+          "text": "For ordinary groceries, I rely more on habit because the search would take too long.",
+          "translation": "对于普通食品杂货，我更多依靠习惯，因为搜寻比较会花太多时间。"
+        },
+        {
+          "text": "The amount of effort I spend depends on how costly a mistake would be.",
+          "translation": "我投入多少精力，取决于选错的代价有多高。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe something you bought after careful consideration.",
-      "answer": "I bought a desk chair after several weeks of comparison. My old chair looked acceptable but became uncomfortable during long periods of work. I measured the desk, read about adjustment ranges and visited a shop to test several models. The chair I chose was not the cheapest or most stylish, but its back support could be adjusted and replacement parts were available. I waited for a genuine discount rather than responding to the first countdown offer I saw. After using it for months, I think the careful choice was worthwhile because the relevant feature was comfort over time, which was difficult to judge from photographs. The process taught me to define the problem before comparing products."
+      "answer": "I bought a desk chair after several weeks of comparison. My old chair looked acceptable but became uncomfortable during long periods of work. I measured the desk, read about adjustment ranges and visited a shop to test several models. The chair I chose was not the cheapest or most stylish, but its back support could be adjusted and replacement parts were available. I waited for a genuine discount rather than responding to the first countdown offer I saw. After using it for months, I think the careful choice was worthwhile because the relevant feature was comfort over time, which was difficult to judge from photographs. The process taught me to define the problem before comparing products.",
+      "questionTranslation": "描述一件你经过仔细考虑后购买的物品。",
+      "answerSentences": [
+        {
+          "text": "I bought a desk chair after several weeks of comparison.",
+          "translation": "经过数周比较后，我买了一把办公椅。"
+        },
+        {
+          "text": "My old chair looked acceptable but became uncomfortable during long periods of work.",
+          "translation": "旧椅子看起来尚可，但长时间工作时会变得不舒服。"
+        },
+        {
+          "text": "I measured the desk, read about adjustment ranges and visited a shop to test several models.",
+          "translation": "我测量了书桌，了解了调节范围，还去商店试坐了几个型号。"
+        },
+        {
+          "text": "The chair I chose was not the cheapest or most stylish, but its back support could be adjusted and replacement parts were available.",
+          "translation": "我选择的椅子既不是最便宜的，也不是最时尚的，但它的靠背支撑可以调节，而且可以买到替换零件。"
+        },
+        {
+          "text": "I waited for a genuine discount rather than responding to the first countdown offer I saw.",
+          "translation": "我等到真正降价时才购买，而没有被看到的第一个倒计时优惠影响。"
+        },
+        {
+          "text": "After using it for months, I think the careful choice was worthwhile because the relevant feature was comfort over time, which was difficult to judge from photographs.",
+          "translation": "使用几个月后，我认为这次仔细选择很值得，因为真正相关的特点是长期舒适度，而这一点很难从照片判断。"
+        },
+        {
+          "text": "The process taught me to define the problem before comparing products.",
+          "translation": "这个过程教会我在比较产品前先明确问题。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +466,107 @@
         "answer": "drip pricing",
         "explanation": "Paragraph 1 names the practice."
       }
+    ],
+    "titleTranslation": "出现得太晚的价格",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A consumer searching online may select a service because its advertised price is lower than competitors.",
+          "translation": "在线搜索的消费者可能因为某项服务的广告价格低于竞争对手而选择它。"
+        },
+        {
+          "text": "During checkout, compulsory booking, processing or facility fees appear.",
+          "translation": "结账过程中，强制性的预订费、手续费或设施费才会出现。"
+        },
+        {
+          "text": "The buyer can leave, but by then time has been invested, alternatives may no longer be available and the event itself has become psychologically real.",
+          "translation": "买家可以离开，但此时已经投入时间，其他选择可能不再可用，而且这项活动在心理上已经变得真实。"
+        },
+        {
+          "text": "Economists describe these as drip pricing practices.",
+          "translation": "经济学家把这类做法称为滴水式定价。"
+        }
+      ],
+      [
+        {
+          "text": "The harm is not limited to paying more.",
+          "translation": "损害并不只在于支付更多费用。"
+        },
+        {
+          "text": "When sellers reveal different components at different stages, consumers cannot compare offers on a common basis.",
+          "translation": "当卖家在不同阶段披露不同费用组成时，消费者无法在共同基础上比较报价。"
+        },
+        {
+          "text": "A company advertising the full price looks expensive beside one that postpones charges, even when its final total is lower.",
+          "translation": "一家公布完整价格的公司，在推迟披露费用的公司旁边会显得昂贵，即使前者最终总价更低。"
+        },
+        {
+          "text": "This creates an incentive for transparent firms to copy the less transparent practice.",
+          "translation": "这会激励透明企业模仿不够透明的做法。"
+        }
+      ],
+      [
+        {
+          "text": "Businesses argue that some fees depend on payment method or customer choice.",
+          "translation": "企业认为，一些费用取决于付款方式或顾客选择。"
+        },
+        {
+          "text": "Variable charges can be legitimate if the unavoidable minimum is clear and optional additions are genuinely optional.",
+          "translation": "如果不可避免的最低费用清晰可见，且可选附加项目确实可以不选，浮动费用便可能合理。"
+        },
+        {
+          "text": "A seat fee is not optional when every usable seat requires it.",
+          "translation": "如果每个可用座位都需要付费，座位费就不是可选费用。"
+        },
+        {
+          "text": "The distinction should reflect whether a reasonable customer can complete the advertised purchase at the displayed amount.",
+          "translation": "判断标准应是合理消费者能否按显示金额完成广告中的购买。"
+        }
+      ],
+      [
+        {
+          "text": "Requiring an upfront total changes competition rather than eliminating separate cost components.",
+          "translation": "要求提前显示总价会改变竞争，而不是取消各项独立成本。"
+        },
+        {
+          "text": "Sellers may still explain taxes or delivery, but the prominent figure enables comparison.",
+          "translation": "卖家仍可说明税费或配送费，但醒目的总额便于比较。"
+        },
+        {
+          "text": "Experiments in consumer behaviour indicate that some buyers choose differently when the full cost is visible earlier, suggesting that late disclosure affects decisions rather than merely presenting the same information in another order.",
+          "translation": "消费者行为实验表明，当完整费用更早显示时，一些买家会作出不同选择，这说明延迟披露会影响决定，而不只是以不同顺序呈现相同信息。"
+        }
+      ],
+      [
+        {
+          "text": "Clear pricing also reduces frustration and abandoned transactions.",
+          "translation": "清晰定价还能减少挫败感和交易放弃。"
+        },
+        {
+          "text": "Firms may fear losing the attention gained by a low first number, yet a market in which all sellers follow the same rule removes that disadvantage.",
+          "translation": "企业可能担心失去较低初始数字带来的关注，但如果所有卖家遵循同一规则，这一劣势就会消失。"
+        },
+        {
+          "text": "The ethical and economic principle is straightforward: the price used to attract a consumer should resemble the price that consumer is realistically able to pay.",
+          "translation": "伦理和经济原则很简单：用来吸引消费者的价格应接近消费者实际能够支付的价格。"
+        },
+        {
+          "text": "Subscriptions create a related timing problem.",
+          "translation": "订阅服务会产生相关的时间问题。"
+        },
+        {
+          "text": "A free trial can be useful, but cancellation dates and later charges should be as easy to find as the initial offer.",
+          "translation": "免费试用可能有用，但取消日期和后续费用应当像初始优惠一样容易找到。"
+        },
+        {
+          "text": "Reminder messages before renewal allow a consumer to reassess value with actual experience.",
+          "translation": "续订前发送提醒，让消费者能根据实际体验重新评估价值。"
+        },
+        {
+          "text": "Making exit deliberately harder than entry converts inertia into revenue and weakens evidence that continued payment represents satisfaction.",
+          "translation": "故意让退出比加入更困难，会把惰性转化为收入，并削弱持续付款代表满意度这一判断的可信度。"
+        }
+      ]
     ]
   }
 }

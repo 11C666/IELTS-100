@@ -153,7 +153,8 @@
         "responsible decision-maker",
         "trusted manager"
       ],
-      "note": "effective 强调结果，trusted 强调关系。"
+      "note": "effective 强调结果，trusted 强调关系。",
+      "translation": "优秀的领导者"
     },
     {
       "base": "admit uncertainty",
@@ -162,7 +163,8 @@
         "express justified doubt",
         "recognise incomplete evidence"
       ],
-      "note": "acknowledge 不等于软弱。"
+      "note": "acknowledge 不等于软弱。",
+      "translation": "承认存在不确定性"
     },
     {
       "base": "ask staff for ideas",
@@ -171,7 +173,8 @@
         "invite informed challenge",
         "seek front-line evidence"
       ],
-      "note": "consult 仍保留最终决策权。"
+      "note": "consult 仍保留最终决策权。",
+      "translation": "向员工征求意见"
     },
     {
       "base": "make a hard decision",
@@ -180,7 +183,8 @@
         "take an unpopular decision",
         "exercise judgement under pressure"
       ],
-      "note": "tough call 偏口语。"
+      "note": "tough call 偏口语。",
+      "translation": "作出艰难决定"
     },
     {
       "base": "give work to others",
@@ -189,7 +193,8 @@
         "transfer decision authority",
         "assign ownership"
       ],
-      "note": "delegation 应同时给予相应权力。"
+      "note": "delegation 应同时给予相应权力。",
+      "translation": "把工作交给他人"
     },
     {
       "base": "accept blame",
@@ -198,7 +203,8 @@
         "remain accountable",
         "own the outcome"
       ],
-      "note": "accountable 强调需要解释与承担后果。"
+      "note": "accountable 强调需要解释与承担后果。",
+      "translation": "承担责任"
     },
     {
       "base": "change a decision",
@@ -207,7 +213,8 @@
         "revise the plan",
         "update the judgement"
       ],
-      "note": "correct course 强调根据证据调整。"
+      "note": "correct course 强调根据证据调整。",
+      "translation": "改变决定"
     },
     {
       "base": "safe to speak",
@@ -216,51 +223,60 @@
         "an environment for candid reporting",
         "freedom to raise concerns"
       ],
-      "note": "psychological safety 不代表没有标准。"
+      "note": "psychological safety 不代表没有标准。",
+      "translation": "可以放心表达意见"
     }
   ],
   "sentences": [
     {
       "pattern": "Leadership is demonstrated less by + symbolic action + than by + consistent behaviour.",
       "cn": "领导力与其说体现在象征性行动，不如说体现在持续行为。",
-      "example": "Leadership is demonstrated less by speeches than by consistent decisions under pressure."
+      "example": "Leadership is demonstrated less by speeches than by consistent decisions under pressure.",
+      "exampleTranslation": "领导力与其说体现在演讲中，不如说体现在压力下始终如一的决策中。"
     },
     {
       "pattern": "By admitting + uncertainty/error, a leader makes it easier for others to + beneficial action.",
       "cn": "领导者承认不确定或错误，会让他人更容易……。",
-      "example": "By admitting uncertainty, a leader makes it easier for others to raise concerns."
+      "example": "By admitting uncertainty, a leader makes it easier for others to raise concerns.",
+      "exampleTranslation": "领导者承认不确定性，会让他人更容易提出担忧。"
     },
     {
       "pattern": "A decision may be unpopular without being + negative quality, provided that + accountability condition.",
       "cn": "只要满足问责条件，一个决定即使不受欢迎，也未必……。",
-      "example": "A decision may be unpopular without being unfair, provided that its reasons are transparent."
+      "example": "A decision may be unpopular without being unfair, provided that its reasons are transparent.",
+      "exampleTranslation": "只要理由公开透明，一个决定即使不受欢迎，也未必不公平。"
     }
   ],
   "expressions": [
     {
       "text": "lead by example",
       "cn": "以身作则",
-      "example": "Managers should lead by example when workloads increase."
+      "example": "Managers should lead by example when workloads increase.",
+      "exampleTranslation": "工作量增加时，管理者应当以身作则。"
     },
     {
       "text": "take responsibility for a decision",
       "cn": "为决定承担责任",
-      "example": "A good leader takes responsibility for a decision that goes wrong."
+      "example": "A good leader takes responsibility for a decision that goes wrong.",
+      "exampleTranslation": "优秀的领导者会为出现问题的决定承担责任。"
     },
     {
       "text": "bring people on board",
       "cn": "争取人们支持",
-      "example": "She brought people on board by explaining the purpose of the change."
+      "example": "She brought people on board by explaining the purpose of the change.",
+      "exampleTranslation": "她通过解释变革的目的争取到了大家的支持。"
     },
     {
       "text": "delegate effectively",
       "cn": "有效授权",
-      "example": "Leaders need to delegate effectively instead of controlling every detail."
+      "example": "Leaders need to delegate effectively instead of controlling every detail.",
+      "exampleTranslation": "领导者需要有效授权，而不是控制每一个细节。"
     },
     {
       "text": "make a tough call",
       "cn": "作出艰难决定",
-      "example": "Closing the unsafe site was a tough call, but it was necessary."
+      "example": "Closing the unsafe site was a tough call, but it was necessary.",
+      "exampleTranslation": "关闭不安全的场所是一个艰难的决定，但这样做很有必要。"
     }
   ],
   "mistakes": [
@@ -283,23 +299,83 @@
   "writingIdeas": [
     {
       "viewpoint": "Psychological safety is a leadership responsibility.",
+      "viewpointTranslation": "营造心理安全感是领导者的责任。",
       "topicSentence": "Leaders should make it possible to report errors and risks before they become crises.",
+      "topicSentenceTranslation": "领导者应当让人们能够在错误和风险演变成危机之前将其报告出来。",
       "collocations": [
         "raise a concern",
         "admit an error",
         "respond without blame",
         "prevent avoidable harm"
       ],
+      "collocationTranslations": [
+        "提出担忧",
+        "承认错误",
+        "以不责备的方式回应",
+        "防止可避免的伤害"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Employees remain silent when previous bad news has been punished or ignored.",
+          "translation": "如果过去报告坏消息的人曾受到惩罚或被忽视，员工就会保持沉默。"
+        },
+        {
+          "text": "A leader can change this expectation by thanking people for early warnings and separating honest mistakes from reckless conduct.",
+          "translation": "领导者可以通过感谢及时发出预警的人，并区分无心之失与鲁莽行为，来改变这种预期。"
+        },
+        {
+          "text": "Open reporting allows a team to correct weak processes before damage spreads.",
+          "translation": "公开报告问题能让团队在损害扩大之前纠正薄弱的流程。"
+        },
+        {
+          "text": "It also gives leaders less flattering but more accurate information.",
+          "translation": "这也能让领导者获得虽不那么悦耳、却更准确的信息。"
+        },
+        {
+          "text": "Psychological safety does not remove accountability; it makes accountability informed.",
+          "translation": "心理安全感并不会取消问责，而是让问责建立在充分信息之上。"
+        }
+      ],
       "argument": "Employees remain silent when previous bad news has been punished or ignored. A leader can change this expectation by thanking people for early warnings and separating honest mistakes from reckless conduct. Open reporting allows a team to correct weak processes before damage spreads. It also gives leaders less flattering but more accurate information. Psychological safety does not remove accountability; it makes accountability informed."
     },
     {
       "viewpoint": "Delegation should transfer authority as well as tasks.",
+      "viewpointTranslation": "授权既应转交任务，也应转交相应权力。",
       "topicSentence": "Assigning responsibility without decision-making power creates delay and frustration.",
+      "topicSentenceTranslation": "只分配责任却不给予决策权，会造成延误和挫败感。",
       "collocations": [
         "delegate a responsibility",
         "grant decision-making authority",
         "define clear limits",
         "review the outcome"
+      ],
+      "collocationTranslations": [
+        "委派责任",
+        "授予决策权",
+        "明确界限",
+        "审视结果"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A manager may ask an employee to own a project while requiring approval for every minor choice.",
+          "translation": "管理者可能要求员工全权负责一个项目，却又规定每个细小决定都必须获得批准。"
+        },
+        {
+          "text": "The employee then carries the risk but cannot control the work, and the manager remains a bottleneck.",
+          "translation": "这样一来，员工承担风险却无法掌控工作，而管理者仍然是造成流程堵塞的环节。"
+        },
+        {
+          "text": "Effective delegation defines the result, available resources and decisions that can be made independently.",
+          "translation": "有效授权会明确预期成果、可用资源以及员工能够独立作出的决定。"
+        },
+        {
+          "text": "Review points provide support without constant interference.",
+          "translation": "阶段性检查既能提供支持，又能避免持续干预。"
+        },
+        {
+          "text": "This arrangement develops capability and leaves senior attention for genuinely strategic issues.",
+          "translation": "这种安排能够培养员工能力，并让高级管理者把精力留给真正具有战略意义的问题。"
+        }
       ],
       "argument": "A manager may ask an employee to own a project while requiring approval for every minor choice. The employee then carries the risk but cannot control the work, and the manager remains a bottleneck. Effective delegation defines the result, available resources and decisions that can be made independently. Review points provide support without constant interference. This arrangement develops capability and leaves senior attention for genuinely strategic issues."
     }
@@ -308,16 +384,183 @@
     {
       "part": "Part 1",
       "question": "What qualities do you respect in a leader?",
+      "questionTranslation": "你敬佩领导者的哪些品质？",
+      "answerSentences": [
+        {
+          "text": "I respect leaders who are calm enough to listen before giving an answer.",
+          "translation": "我敬佩那些能够沉着倾听、然后再作答的领导者。"
+        },
+        {
+          "text": "I also notice whether they apply the same standard to themselves and admit when information changes their mind.",
+          "translation": "我也会留意他们是否用同样的标准要求自己，以及是否愿意承认新的信息改变了自己的看法。"
+        },
+        {
+          "text": "Charisma can make a meeting enjoyable, but consistency builds trust over time.",
+          "translation": "个人魅力可以让会议更愉快，但始终如一的表现才能逐渐建立信任。"
+        },
+        {
+          "text": "I would rather have a predictable, honest leader than a dramatic one.",
+          "translation": "比起爱做戏的领导者，我更希望领导者为人坦诚、行事可靠。"
+        }
+      ],
       "answer": "I respect leaders who are calm enough to listen before giving an answer. I also notice whether they apply the same standard to themselves and admit when information changes their mind. Charisma can make a meeting enjoyable, but consistency builds trust over time. I would rather have a predictable, honest leader than a dramatic one."
     },
     {
       "part": "Part 2",
       "question": "Describe someone you consider a good leader.",
+      "questionTranslation": "描述一位你认为是优秀领导者的人。",
+      "answerSentences": [
+        {
+          "text": "A former project manager was a good leader because she made responsibilities exceptionally clear.",
+          "translation": "我以前的一位项目经理是位优秀的领导者，因为她把职责划分得格外清楚。"
+        },
+        {
+          "text": "At the start of each week, she named the key decision and asked which information was still missing.",
+          "translation": "每周开始时，她都会指出需要作出的关键决定，并询问还缺少哪些信息。"
+        },
+        {
+          "text": "If a problem emerged, she focused first on repairing the process rather than finding someone to blame.",
+          "translation": "如果出现问题，她首先关注的是改进流程，而不是找人责备。"
+        },
+        {
+          "text": "She also protected the team from last-minute requests that did not support the goal.",
+          "translation": "她还会保护团队，使其免受那些无助于目标的临时要求干扰。"
+        },
+        {
+          "text": "People worked hard for her because her expectations were demanding but understandable.",
+          "translation": "大家愿意为她努力工作，因为她的要求虽然严格，却清楚合理。"
+        },
+        {
+          "text": "When deadlines slipped, she explained the trade-off to the client rather than transferring panic to the team.",
+          "translation": "项目延期时，她会向客户解释其中的取舍，而不是把焦虑传递给团队。"
+        },
+        {
+          "text": "She also admitted when an early estimate had been unrealistic and changed the schedule openly.",
+          "translation": "她也会承认早期估算不切实际，并公开调整进度安排。"
+        },
+        {
+          "text": "That behaviour made it safe for us to report difficulties early.",
+          "translation": "这种做法让我们能够放心地尽早报告困难。"
+        },
+        {
+          "text": "I learned that good leadership can be quiet: it creates accurate information and steady action rather than relying on inspirational language.",
+          "translation": "我由此认识到，优秀的领导力可以很低调：它依靠准确的信息和稳健的行动，而不是鼓舞人心的言辞。"
+        }
+      ],
       "answer": "A former project manager was a good leader because she made responsibilities exceptionally clear. At the start of each week, she named the key decision and asked which information was still missing. If a problem emerged, she focused first on repairing the process rather than finding someone to blame. She also protected the team from last-minute requests that did not support the goal. People worked hard for her because her expectations were demanding but understandable. When deadlines slipped, she explained the trade-off to the client rather than transferring panic to the team. She also admitted when an early estimate had been unrealistic and changed the schedule openly. That behaviour made it safe for us to report difficulties early. I learned that good leadership can be quiet: it creates accurate information and steady action rather than relying on inspirational language."
     }
   ],
   "reading": {
     "title": "The Cost of the Leader Who Always Knows",
+    "titleTranslation": "凡事都自称知道的领导者所付出的代价",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Leaders are often rewarded for confident answers.",
+          "translation": "领导者常常会因自信的回答而受到肯定。"
+        },
+        {
+          "text": "In uncertain situations, however, certainty can become a performance that blocks useful information.",
+          "translation": "然而，在不确定的情境中，笃定可能变成一种表演，阻碍有用信息的传递。"
+        },
+        {
+          "text": "If a manager announces both the problem and the solution before others speak, employees adjust their contributions around that position.",
+          "translation": "如果管理者在他人发言前便宣布问题和解决方案，员工就会围绕这一立场调整自己的意见。"
+        },
+        {
+          "text": "Doubt is interpreted as disloyalty, and evidence that does not fit may remain at the edge of the conversation.",
+          "translation": "质疑会被视为不忠，而不符合既定观点的证据可能始终处于讨论边缘。"
+        }
+      ],
+      [
+        {
+          "text": "The danger is greatest when information is distributed.",
+          "translation": "当信息分散在不同人手中时，这种危险最为严重。"
+        },
+        {
+          "text": "Front-line staff may notice a small operational change, while analysts see a statistical pattern and customers describe a new frustration.",
+          "translation": "一线员工可能注意到细微的运营变化，分析师看到的是统计规律，而顾客则会描述一种新的困扰。"
+        },
+        {
+          "text": "No individual has the complete picture.",
+          "translation": "任何个人都无法掌握完整情况。"
+        },
+        {
+          "text": "A leader who says “I may be missing something” does not surrender authority; the phrase creates a legitimate opening for knowledge to move upward.",
+          "translation": "领导者说“我可能遗漏了什么”并不意味着放弃权威；这句话为信息向上传递创造了合理空间。"
+        },
+        {
+          "text": "The final decision can still remain clearly theirs.",
+          "translation": "最终决策权仍然可以明确掌握在其手中。"
+        }
+      ],
+      [
+        {
+          "text": "Humility is useful only when paired with action.",
+          "translation": "谦逊只有与行动相结合才有价值。"
+        },
+        {
+          "text": "Endless requests for views can postpone a difficult choice and leave responsibility unclear.",
+          "translation": "无休止地征求意见可能拖延艰难的选择，也会使责任归属不清。"
+        },
+        {
+          "text": "Effective leaders specify when consultation ends, explain the criteria and state which uncertainties remain.",
+          "translation": "高效的领导者会明确征询意见何时结束、解释决策标准，并说明仍存在哪些不确定性。"
+        },
+        {
+          "text": "After implementation, they compare outcomes with the assumptions behind the decision.",
+          "translation": "实施之后，他们会将结果与决策所依据的假设进行比较。"
+        },
+        {
+          "text": "A failed prediction then becomes information for revision rather than something to hide.",
+          "translation": "这样，失败的预测就会成为修正决策的信息，而不是需要掩盖的事情。"
+        }
+      ],
+      [
+        {
+          "text": "This approach changes how competence is understood.",
+          "translation": "这种方法改变了人们对能力的理解。"
+        },
+        {
+          "text": "Expertise includes recognising familiar patterns, but leadership operates precisely where consequences involve other people and evidence is incomplete.",
+          "translation": "专业能力包括识别熟悉的规律，而领导工作恰恰发生在后果涉及他人且证据并不完整的情境中。"
+        },
+        {
+          "text": "The strongest signal is not an uninterrupted record of being right.",
+          "translation": "最有力的能力证明并不是从未出错的记录。"
+        },
+        {
+          "text": "It is the capacity to gather inconvenient information, decide at an appropriate point and correct course without rewriting the history of the earlier choice.",
+          "translation": "真正重要的是收集不利信息、在适当时点作出决定，并在不歪曲先前决策过程的情况下调整方向的能力。"
+        },
+        {
+          "text": "Confidence is valuable when it supports action; it is dangerous when it protects an image.",
+          "translation": "自信在推动行动时很有价值，但在维护个人形象时却很危险。"
+        }
+      ],
+      [
+        {
+          "text": "Corrections also need proportion.",
+          "translation": "调整也需要把握分寸。"
+        },
+        {
+          "text": "Constantly changing direction can be as disruptive as refusing to change at all.",
+          "translation": "不断改变方向可能和完全拒绝改变一样具有破坏性。"
+        },
+        {
+          "text": "Leaders should distinguish new evidence about a central assumption from ordinary variation that the plan already anticipated.",
+          "translation": "领导者应当区分有关核心假设的新证据与计划中已预料到的正常波动。"
+        },
+        {
+          "text": "Stating in advance what would trigger review protects a team from both stubbornness and reaction.",
+          "translation": "预先说明哪些情况会触发复审，可以避免团队陷入固执或过度反应。"
+        },
+        {
+          "text": "It also makes a later change easier to explain without presenting it as personal inconsistency.",
+          "translation": "这也让之后的调整更容易解释，而不至于显得个人立场反复无常。"
+        }
+      ]
+    ],
     "paragraphs": [
       "Leaders are often rewarded for confident answers. In uncertain situations, however, certainty can become a performance that blocks useful information. If a manager announces both the problem and the solution before others speak, employees adjust their contributions around that position. Doubt is interpreted as disloyalty, and evidence that does not fit may remain at the edge of the conversation.",
       "The danger is greatest when information is distributed. Front-line staff may notice a small operational change, while analysts see a statistical pattern and customers describe a new frustration. No individual has the complete picture. A leader who says “I may be missing something” does not surrender authority; the phrase creates a legitimate opening for knowledge to move upward. The final decision can still remain clearly theirs.",

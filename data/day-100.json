@@ -153,7 +153,8 @@
         "a person aware of global responsibilities",
         "someone who connects local choices with wider consequences"
       ],
-      "note": "internationally minded强调视野，后两项强调责任与行动。"
+      "note": "internationally minded强调视野，后两项强调责任与行动。",
+      "translation": "全球公民，也可表达为具有全球责任感的人、参与世界事务的公民或认识跨国联系的社会成员。"
     },
     {
       "base": "understand other cultures",
@@ -162,7 +163,8 @@
         "appreciate different cultural perspectives",
         "interpret unfamiliar practices in context"
       ],
-      "note": "in context提醒学习者避免孤立判断。"
+      "note": "in context提醒学习者避免孤立判断。",
+      "translation": "理解其他文化，也可表达为培养跨文化理解、认识不同生活方式或尊重文化差异。"
     },
     {
       "base": "worldwide problems",
@@ -171,7 +173,8 @@
         "issues that cross national borders",
         "problems requiring international cooperation"
       ],
-      "note": "requiring international cooperation突出解决方式。"
+      "note": "requiring international cooperation突出解决方式。",
+      "translation": "全球性问题，也可表达为跨国挑战、世界共同问题或影响多个国家的议题。"
     },
     {
       "base": "help other people",
@@ -180,7 +183,8 @@
         "act in solidarity with affected communities",
         "contribute to collective well-being"
       ],
-      "note": "solidarity不仅是帮助，也含平等合作。"
+      "note": "solidarity不仅是帮助，也含平等合作。",
+      "translation": "帮助他人，也可表达为支持有需要者、为共同福祉作出贡献或采取利他行动。"
     },
     {
       "base": "take part in society",
@@ -189,7 +193,8 @@
         "engage with public issues",
         "contribute to community decision-making"
       ],
-      "note": "engage适合从讨论到行动的多种参与。"
+      "note": "engage适合从讨论到行动的多种参与。",
+      "translation": "参与社会，也可表达为公民参与、投身社区事务或参与公共生活。"
     },
     {
       "base": "reliable information",
@@ -198,7 +203,8 @@
         "information from trustworthy sources",
         "claims supported by verifiable evidence"
       ],
-      "note": "verifiable强调能够核实。"
+      "note": "verifiable强调能够核实。",
+      "translation": "可靠信息，也可表达为可信证据、经过核实的资料或来源可靠的内容。"
     },
     {
       "base": "different opinions",
@@ -207,7 +213,8 @@
         "contrasting points of view",
         "interpretations shaped by different experiences"
       ],
-      "note": "最后一项说明观点差异的来源。"
+      "note": "最后一项说明观点差异的来源。",
+      "translation": "不同意见，也可表达为多元观点、相互冲突的看法或来自不同群体的视角。"
     },
     {
       "base": "responsible choices",
@@ -216,51 +223,60 @@
         "choices made with wider consequences in mind",
         "decisions that consider effects on other people"
       ],
-      "note": "ethically informed不等于存在唯一正确答案。"
+      "note": "ethically informed不等于存在唯一正确答案。",
+      "translation": "负责任的选择，也可表达为知情决定、考虑后果的行为或符合社会与环境责任的选择。"
     }
   ],
   "sentences": [
     {
       "pattern": "Being aware of + global issue + is valuable only if it leads to + realistic action.",
       "cn": "了解某个全球问题固然有价值，但这种认识只有转化为现实行动才真正有意义。",
-      "example": "Being aware of unfair working conditions is valuable only if it leads to more informed purchasing decisions."
+      "example": "Being aware of unfair working conditions is valuable only if it leads to more informed purchasing decisions.",
+      "exampleTranslation": "了解不公平工作条件只有在促成更知情的购买决定时才有价值。"
     },
     {
       "pattern": "While + local action + cannot solve + global problem + on its own, it can + meaningful contribution.",
       "cn": "虽然某项本地行动无法独自解决全球问题，但它能够作出有意义的贡献。",
-      "example": "While a school exchange cannot solve international conflict on its own, it can challenge stereotypes among participants."
+      "example": "While a school exchange cannot solve international conflict on its own, it can challenge stereotypes among participants.",
+      "exampleTranslation": "学校交流本身虽不能解决国际冲突，却能挑战参与者的刻板印象。"
     },
     {
       "pattern": "Rather than assuming that + group + shares one view, we should + action that recognises diversity.",
       "cn": "与其假定某一群体持有同一种观点，我们更应采取承认其内部多样性的行动。",
-      "example": "Rather than assuming that young people share one view, we should listen to experiences from different regions and backgrounds."
+      "example": "Rather than assuming that young people share one view, we should listen to experiences from different regions and backgrounds.",
+      "exampleTranslation": "我们不应假定年轻人持有同一种观点，而应倾听来自不同地区和背景的经历。"
     }
   ],
   "expressions": [
     {
       "text": "see an issue from another angle",
       "cn": "从另一个角度看问题",
-      "example": "Talking to an exchange student helped me see the issue from another angle."
+      "example": "Talking to an exchange student helped me see the issue from another angle.",
+      "exampleTranslation": "与交换生交谈帮助我从另一个角度看待问题。"
     },
     {
       "text": "do something useful close to home",
       "cn": "在身边做些有用的事",
-      "example": "You can care about global problems and still do something useful close to home."
+      "example": "You can care about global problems and still do something useful close to home.",
+      "exampleTranslation": "你可以关心全球问题，同时在本地做一些实际有用的事情。"
     },
     {
       "text": "question what you see online",
       "cn": "质疑并核实网上内容",
-      "example": "Responsible citizens question what they see online before sharing it."
+      "example": "Responsible citizens question what they see online before sharing it.",
+      "exampleTranslation": "负责任的公民在分享网络内容前会质疑并核实它。"
     },
     {
       "text": "connect local action with global goals",
       "cn": "把本地行动与全球目标联系起来",
-      "example": "The campaign connects local action with global goals."
+      "example": "The campaign connects local action with global goals.",
+      "exampleTranslation": "这项活动把本地行动与全球目标连接起来。"
     },
     {
       "text": "participate on equal terms",
       "cn": "以平等身份参与",
-      "example": "Partnerships work better when communities participate on equal terms."
+      "example": "Partnerships work better when communities participate on equal terms.",
+      "exampleTranslation": "当社区以平等身份参与时，合作关系会更有效。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "avoid simplistic stereotypes",
         "make informed judgements"
       ],
-      "argument": "A memorable campaign can raise concern about a distant crisis, but concern based on an inaccurate story may reinforce stereotypes instead of helping. Students should compare sources, trace images to their origin and ask whether affected communities describe the issue in the same way. For example, analysing competing reports about a supply chain teaches both media literacy and economic interdependence. This method may produce fewer easy answers, yet it develops judgement that can be applied beyond one lesson. Global education should therefore assess how students reason, not how readily they repeat approved language."
+      "argument": "A memorable campaign can raise concern about a distant crisis, but concern based on an inaccurate story may reinforce stereotypes instead of helping. Students should compare sources, trace images to their origin and ask whether affected communities describe the issue in the same way. For example, analysing competing reports about a supply chain teaches both media literacy and economic interdependence. This method may produce fewer easy answers, yet it develops judgement that can be applied beyond one lesson. Global education should therefore assess how students reason, not how readily they repeat approved language.",
+      "viewpointTranslation": "全球公民教育应从证据而非口号开始。",
+      "topicSentenceTranslation": "学生通过学习调查主张并识别缺失的声音，成为负责任的全球参与者。",
+      "collocationTranslations": [
+        "评估可信来源",
+        "认识多种视角",
+        "避免简单化刻板印象",
+        "作出知情判断"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A memorable campaign can raise concern about a distant crisis, but concern based on an inaccurate story may reinforce stereotypes instead of helping.",
+          "translation": "令人印象深刻的宣传活动可以唤起对远方危机的关心，但建立在不准确故事上的关心可能强化刻板印象，而不是提供帮助。"
+        },
+        {
+          "text": "Students should compare sources, trace images to their origin and ask whether affected communities describe the issue in the same way.",
+          "translation": "学生应比较来源、追溯图像出处，并询问受影响社区是否以同样方式描述问题。"
+        },
+        {
+          "text": "For example, analysing competing reports about a supply chain teaches both media literacy and economic interdependence.",
+          "translation": "例如，分析有关供应链的相互竞争报告，可以同时培养媒体素养和对经济相互依存的理解。"
+        },
+        {
+          "text": "This method may produce fewer easy answers, yet it develops judgement that can be applied beyond one lesson.",
+          "translation": "这种方法产生的简单答案或许更少，却能培养可用于一堂课之外的判断力。"
+        },
+        {
+          "text": "Global education should therefore assess how students reason, not how readily they repeat approved language.",
+          "translation": "因此，全球教育应评估学生如何推理，而不是他们多么容易重复认可的语言。"
+        }
+      ]
     },
     {
       "viewpoint": "Local participation is a credible form of global responsibility.",
@@ -301,19 +347,107 @@
         "address shared challenges",
         "create cumulative impact"
       ],
-      "argument": "Climate resilience, public health and social inclusion are international concerns, but their effects are experienced in particular neighbourhoods. A resident who helps design a safer heat plan is acting locally while contributing to a challenge shared by cities worldwide. Local involvement also provides feedback: broad ideals are tested against budgets, competing needs and lived experience. When communities exchange the lessons from such projects, small actions become knowledge that others can adapt. Global citizenship is therefore strongest when wider awareness and sustained local commitment reinforce each other."
+      "argument": "Climate resilience, public health and social inclusion are international concerns, but their effects are experienced in particular neighbourhoods. A resident who helps design a safer heat plan is acting locally while contributing to a challenge shared by cities worldwide. Local involvement also provides feedback: broad ideals are tested against budgets, competing needs and lived experience. When communities exchange the lessons from such projects, small actions become knowledge that others can adapt. Global citizenship is therefore strongest when wider awareness and sustained local commitment reinforce each other.",
+      "viewpointTranslation": "本地参与是全球责任的一种可信形式。",
+      "topicSentenceTranslation": "公民无需到国外工作，也能为全球目标作出有意义的贡献。",
+      "collocationTranslations": [
+        "把原则转化为实践",
+        "加强本地参与",
+        "应对共同挑战",
+        "形成累积影响"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Climate resilience, public health and social inclusion are international concerns, but their effects are experienced in particular neighbourhoods.",
+          "translation": "气候韧性、公共卫生和社会包容是国际关切，但其影响发生在具体社区。"
+        },
+        {
+          "text": "A resident who helps design a safer heat plan is acting locally while contributing to a challenge shared by cities worldwide.",
+          "translation": "帮助设计更安全高温应对方案的居民，是在本地行动，同时也为全球城市共同面对的挑战作出贡献。"
+        },
+        {
+          "text": "Local involvement also provides feedback: broad ideals are tested against budgets, competing needs and lived experience.",
+          "translation": "本地参与还提供反馈：广泛理念会接受预算、相互竞争的需求和真实生活经验的检验。"
+        },
+        {
+          "text": "When communities exchange the lessons from such projects, small actions become knowledge that others can adapt.",
+          "translation": "当社区交流此类项目的经验时，小行动就会成为他人能够调整使用的知识。"
+        },
+        {
+          "text": "Global citizenship is therefore strongest when wider awareness and sustained local commitment reinforce each other.",
+          "translation": "因此，当更广泛的认识与持续的本地承诺彼此加强时，全球公民意识最为有力。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe an experience that helped you understand people from another background.",
-      "answer": "I worked on a short online project with students from three different countries. We had to design a campaign about reducing food waste, and at first I assumed everyone would focus on household habits. One teammate explained that in her area the larger problem was unreliable refrigerated transport, while another described strict supermarket appearance standards. Those examples changed our campaign because they showed that the same issue can have quite different causes. We occasionally misunderstood each other’s humour and meeting times, but asking simple questions solved most problems. The experience did not make me an expert on anyone else’s culture. It did teach me to delay quick conclusions and to look for local context before proposing a universal solution."
+      "answer": "I worked on a short online project with students from three different countries. We had to design a campaign about reducing food waste, and at first I assumed everyone would focus on household habits. One teammate explained that in her area the larger problem was unreliable refrigerated transport, while another described strict supermarket appearance standards. Those examples changed our campaign because they showed that the same issue can have quite different causes. We occasionally misunderstood each other’s humour and meeting times, but asking simple questions solved most problems. The experience did not make me an expert on anyone else’s culture. It did teach me to delay quick conclusions and to look for local context before proposing a universal solution.",
+      "questionTranslation": "请描述一次帮助你理解不同背景人群的经历。",
+      "answerSentences": [
+        {
+          "text": "I worked on a short online project with students from three different countries.",
+          "translation": "我曾与来自三个不同国家的学生合作完成一个短期线上项目。"
+        },
+        {
+          "text": "We had to design a campaign about reducing food waste, and at first I assumed everyone would focus on household habits.",
+          "translation": "我们要设计减少食物浪费的宣传活动，起初我以为每个人都会关注家庭习惯。"
+        },
+        {
+          "text": "One teammate explained that in her area the larger problem was unreliable refrigerated transport, while another described strict supermarket appearance standards.",
+          "translation": "一名队友解释，她所在地区更大的问题是不可靠的冷藏运输；另一人则描述了超市严格的外观标准。"
+        },
+        {
+          "text": "Those examples changed our campaign because they showed that the same issue can have quite different causes.",
+          "translation": "这些例子改变了我们的活动，因为它们表明同一个问题可能有截然不同的原因。"
+        },
+        {
+          "text": "We occasionally misunderstood each other’s humour and meeting times, but asking simple questions solved most problems.",
+          "translation": "我们偶尔误解彼此的幽默和会议时间，但提出简单问题解决了大多数麻烦。"
+        },
+        {
+          "text": "The experience did not make me an expert on anyone else’s culture.",
+          "translation": "这段经历没有让我成为任何其他文化的专家。"
+        },
+        {
+          "text": "It did teach me to delay quick conclusions and to look for local context before proposing a universal solution.",
+          "translation": "它确实教会我推迟草率结论，并在提出普遍适用的方案前寻找本地背景。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Can global citizenship conflict with national identity?",
-      "answer": "It can if either identity is presented as demanding unquestioning loyalty, but they do not inherently conflict. People usually learn responsibility through families, towns and national institutions; those attachments can motivate them to protect others rather than exclude them. Global citizenship adds an awareness that some decisions affect people beyond national borders and that human dignity is not limited by nationality. Genuine tensions still arise over taxes, migration or environmental costs, so vague appeals to unity are insufficient. Citizens should be able to debate those trade-offs while recognising obligations at several levels. In my view, identities can overlap without becoming identical."
+      "answer": "It can if either identity is presented as demanding unquestioning loyalty, but they do not inherently conflict. People usually learn responsibility through families, towns and national institutions; those attachments can motivate them to protect others rather than exclude them. Global citizenship adds an awareness that some decisions affect people beyond national borders and that human dignity is not limited by nationality. Genuine tensions still arise over taxes, migration or environmental costs, so vague appeals to unity are insufficient. Citizens should be able to debate those trade-offs while recognising obligations at several levels. In my view, identities can overlap without becoming identical.",
+      "questionTranslation": "全球公民意识会与国家认同发生冲突吗？",
+      "answerSentences": [
+        {
+          "text": "It can if either identity is presented as demanding unquestioning loyalty, but they do not inherently conflict.",
+          "translation": "如果任何一种身份被说成要求无条件忠诚，两者可能冲突，但它们并非天然对立。"
+        },
+        {
+          "text": "People usually learn responsibility through families, towns and national institutions; those attachments can motivate them to protect others rather than exclude them.",
+          "translation": "人们通常通过家庭、城镇和国家机构学习责任；这些联系可以激励他们保护他人，而不是排斥他人。"
+        },
+        {
+          "text": "Global citizenship adds an awareness that some decisions affect people beyond national borders and that human dignity is not limited by nationality.",
+          "translation": "全球公民意识增加了一种认识，即某些决定会影响国界之外的人，而且人的尊严不受国籍限制。"
+        },
+        {
+          "text": "Genuine tensions still arise over taxes, migration or environmental costs, so vague appeals to unity are insufficient.",
+          "translation": "在税收、移民或环境成本方面仍会出现真实矛盾，因此含糊地呼吁团结并不足够。"
+        },
+        {
+          "text": "Citizens should be able to debate those trade-offs while recognising obligations at several levels.",
+          "translation": "公民应能讨论这些权衡，同时认识不同层级的义务。"
+        },
+        {
+          "text": "In my view, identities can overlap without becoming identical.",
+          "translation": "我认为，不同身份可以重叠，而不必变得完全相同。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +484,111 @@
         "answer": "a workers’ association",
         "explanation": "Paragraph 3 identifies a workers’ association as the producer of the interviews."
       }
+    ],
+    "titleTranslation": "一幅边界不断移动的课堂地图",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "On the first day of a global citizenship course, students were asked to place coloured pins on a world map showing where their clothes, breakfast and mobile phones had come from.",
+          "translation": "全球公民课程的第一天，学生被要求在世界地图上用彩色图钉标出衣服、早餐和手机的来源。"
+        },
+        {
+          "text": "The activity quickly filled the map and illustrated interdependence.",
+          "translation": "这项活动很快填满地图，并展示了相互依存。"
+        },
+        {
+          "text": "It also produced a misleadingly tidy picture: one pin represented an entire country, and each product appeared to have a single origin, although its materials, labour, finance and transport connected several places.",
+          "translation": "它也呈现出一个误导性地整齐的图景：一枚图钉代表整个国家，每种产品似乎只有一个产地，尽管其材料、劳动力、金融和运输连接着多个地方。"
+        }
+      ],
+      [
+        {
+          "text": "The teacher did not discard the exercise.",
+          "translation": "教师没有放弃这项练习。"
+        },
+        {
+          "text": "Instead, the class chose one cotton shirt and replaced its pin with a chain of questions.",
+          "translation": "相反，全班选择了一件棉衬衫，用一连串问题取代它的图钉。"
+        },
+        {
+          "text": "Where was the cotton grown? Who dyed the fabric, under what safety rules, and where did the retailer pay tax?",
+          "translation": "棉花在哪里种植？谁在什么安全规则下给布料染色？零售商又在哪里纳税？"
+        },
+        {
+          "text": "Published company data answered some questions, while independent reports contradicted several claims.",
+          "translation": "企业公开数据回答了一些问题，而独立报告反驳了几个说法。"
+        },
+        {
+          "text": "Students discovered that uncertainty was not a reason to stop investigating; it was information about what consumers and regulators could not readily see.",
+          "translation": "学生发现，不确定性不是停止调查的理由；它本身就是有关消费者和监管者无法轻易看到什么的信息。"
+        }
+      ],
+      [
+        {
+          "text": "A second complication concerned voice.",
+          "translation": "第二个复杂问题涉及谁的声音得到表达。"
+        },
+        {
+          "text": "Early presentations described factory workers chiefly as victims awaiting help from wealthier consumers.",
+          "translation": "早期展示主要把工厂劳动者描述成等待富裕消费者帮助的受害者。"
+        },
+        {
+          "text": "When the class watched interviews produced by a workers’ association, its members spoke about wages but also transport, childcare and the right to organise.",
+          "translation": "全班观看由工人协会制作的访谈后，协会成员谈到了工资，也谈到了交通、儿童照护和组织工会的权利。"
+        },
+        {
+          "text": "Their priorities did not always match the campaign proposed by the students.",
+          "translation": "他们的优先事项并不总与学生提出的活动一致。"
+        },
+        {
+          "text": "The shift was uncomfortable, since it required participants to surrender a simple story in which good intentions guaranteed useful action.",
+          "translation": "这种转变令人不适，因为它要求参与者放弃“善意必然带来有用行动”这一简单故事。"
+        }
+      ],
+      [
+        {
+          "text": "The final assignment was deliberately local.",
+          "translation": "最后的作业被刻意安排在本地。"
+        },
+        {
+          "text": "Groups examined uniforms purchased by their own school and submitted questions about supplier standards, repair and reuse.",
+          "translation": "小组调查本校购买的制服，并就供应商标准、维修和重复使用提交问题。"
+        },
+        {
+          "text": "They could recommend changes, but had to estimate costs and consult cleaning staff, parents and the purchasing manager.",
+          "translation": "他们可以建议修改，但必须估算成本并咨询保洁人员、家长和采购经理。"
+        },
+        {
+          "text": "One group abandoned a proposal to replace every uniform immediately after calculating the waste this would create; it suggested a phased purchasing policy instead.",
+          "translation": "一个小组计算出立即更换所有制服会造成的浪费后，放弃了这一提议，改为建议分阶段采购政策。"
+        }
+      ],
+      [
+        {
+          "text": "Critics sometimes dismiss global citizenship lessons as either abstract idealism or political persuasion.",
+          "translation": "批评者有时把全球公民课程斥为抽象理想主义或政治说教。"
+        },
+        {
+          "text": "This course offered a narrower claim.",
+          "translation": "这门课程提出了更有限的主张。"
+        },
+        {
+          "text": "It did not tell students that one label or campaign could resolve an international supply chain.",
+          "translation": "它没有告诉学生某一种标签或宣传活动能够解决国际供应链问题。"
+        },
+        {
+          "text": "It taught them to follow connections, test evidence, hear from people represented in their arguments and revise a proposal when consequences became visible.",
+          "translation": "它教学生追踪联系、检验证据、倾听自己论述中所代表人群的声音，并在后果显现时修改方案。"
+        },
+        {
+          "text": "The map remained on the wall, but by the end its most useful features were not the pins.",
+          "translation": "地图仍挂在墙上，但课程结束时，最有用的部分已不是图钉。"
+        },
+        {
+          "text": "They were the lines, questions and corrections between them.",
+          "translation": "而是图钉之间的线条、问题和修正。"
+        }
+      ]
     ]
   }
 }

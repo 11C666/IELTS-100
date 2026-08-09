@@ -153,7 +153,8 @@
         "engage in lifelong learning",
         "update one’s knowledge"
       ],
-      "note": "lifelong learning 覆盖正式与非正式学习。"
+      "note": "lifelong learning 覆盖正式与非正式学习。",
+      "translation": "keep learning 可以表达为“继续学习”“终身学习”或“不断更新知识”。"
     },
     {
       "base": "learn a new skill",
@@ -162,7 +163,8 @@
         "develop a practical ability",
         "master an unfamiliar skill"
       ],
-      "note": "master 强调达到熟练程度。"
+      "note": "master 强调达到熟练程度。",
+      "translation": "学习一项新技能可以表示为获得一项新能力、培养一项实践能力、掌握一项不熟悉的技能。"
     },
     {
       "base": "adult student",
@@ -171,7 +173,8 @@
         "adult participant",
         "returning student"
       ],
-      "note": "mature learner 是教育领域常用表达。"
+      "note": "mature learner 是教育领域常用表达。",
+      "translation": "成人学生可以表述为成熟学习者、成人参与者、回国学生。"
     },
     {
       "base": "study after work",
@@ -180,7 +183,8 @@
         "learn alongside employment",
         "combine work and study"
       ],
-      "note": "alongside 强调同时进行。"
+      "note": "alongside 强调同时进行。",
+      "translation": "下班后学习可以表现为参加晚间课程、边就业边学习、工学结合。"
     },
     {
       "base": "previous experience",
@@ -189,7 +193,8 @@
         "existing competence",
         "earlier professional experience"
       ],
-      "note": "prior learning 可用于资格认定。"
+      "note": "prior learning 可用于资格认定。",
+      "translation": "先前的经验可以表示为先前的学习、现有的能力、早期的专业经验。"
     },
     {
       "base": "change occupation",
@@ -198,7 +203,8 @@
         "make a career transition",
         "enter a different field"
       ],
-      "note": "retrain 强调为新职业重新培训。"
+      "note": "retrain 强调为新职业重新培训。",
+      "translation": "改变职业可以表示为新职业的再培训、职业转型、进入不同的领域。"
     },
     {
       "base": "informal learning",
@@ -207,7 +213,8 @@
         "community-based learning",
         "non-formal education"
       ],
-      "note": "non-formal 指有组织但不一定授予学历。"
+      "note": "non-formal 指有组织但不一定授予学历。",
+      "translation": "非正式学习可以表现为自主学习、社区学习、非正规教育。"
     },
     {
       "base": "barrier to study",
@@ -216,51 +223,60 @@
         "access constraint",
         "practical learning barrier"
       ],
-      "note": "participation barrier 常含时间、费用与交通。"
+      "note": "participation barrier 常含时间、费用与交通。",
+      "translation": "学习障碍可以表现为参与障碍、准入限制、实践学习障碍。"
     }
   ],
   "sentences": [
     {
       "pattern": "As + field + continues to change, workers are increasingly expected to + skill.",
       "cn": "随着某领域持续变化，人们越来越需要……。",
-      "example": "As software continues to change, workers are increasingly expected to update their skills."
+      "example": "As software continues to change, workers are increasingly expected to update their skills.",
+      "exampleTranslation": "随着软件不断变化，人们越来越期望员工更新他们的技能。"
     },
     {
       "pattern": "Learning need not lead to + qualification + in order to + benefit.",
       "cn": "学习不一定要获得某种资格才能……。",
-      "example": "Learning need not lead to a formal qualification in order to improve daily life."
+      "example": "Learning need not lead to a formal qualification in order to improve daily life.",
+      "exampleTranslation": "学习不一定要获得正式资格才能改善日常生活。"
     },
     {
       "pattern": "Having once + past participle + subject, + learner + is better able to + action.",
       "cn": "曾经完成某事之后，学习者更能够……。",
-      "example": "Having once mastered a difficult skill, a learner is better able to tolerate early frustration."
+      "example": "Having once mastered a difficult skill, a learner is better able to tolerate early frustration.",
+      "exampleTranslation": "一旦掌握了一项困难的技能，学习者就能够更好地忍受早期的挫折。"
     }
   ],
   "expressions": [
     {
       "text": "pick up a new skill",
       "cn": "学会一项新技能",
-      "example": "I picked up a new skill through an evening class."
+      "example": "I picked up a new skill through an evening class.",
+      "exampleTranslation": "我通过晚间课程学到了一项新技能。"
     },
     {
       "text": "keep my knowledge up to date",
       "cn": "更新我的知识",
-      "example": "Short courses help me keep my knowledge up to date."
+      "example": "Short courses help me keep my knowledge up to date.",
+      "exampleTranslation": "短期课程帮助我及时更新知识。"
     },
     {
       "text": "go back to education",
       "cn": "重返教育",
-      "example": "Many adults go back to education after raising a family."
+      "example": "Many adults go back to education after raising a family.",
+      "exampleTranslation": "许多成年人在组建家庭后重新接受教育。"
     },
     {
       "text": "learn through trial and error",
       "cn": "通过反复尝试学习",
-      "example": "I learned basic repairs through trial and error."
+      "example": "I learned basic repairs through trial and error.",
+      "exampleTranslation": "我通过反复试验学会了基本的维修。"
     },
     {
       "text": "broaden my horizons",
       "cn": "开阔眼界",
-      "example": "Studying local history broadened my horizons."
+      "example": "Studying local history broadened my horizons.",
+      "exampleTranslation": "研究当地历史拓宽了我的视野。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "remove participation barriers",
         "return to formal education"
       ],
-      "argument": "Adults may combine study with employment, care or health needs, so a full-time daytime course excludes many capable learners. Evening classes, modular qualifications and recognition of prior experience make participation more realistic. Guidance is also important because someone returning after twenty years may underestimate existing skills. Flexible routes do not require weaker standards; they allow the same outcomes to be reached differently. Such provision turns lifelong learning from a slogan into a practical possibility."
+      "argument": "Adults may combine study with employment, care or health needs, so a full-time daytime course excludes many capable learners. Evening classes, modular qualifications and recognition of prior experience make participation more realistic. Guidance is also important because someone returning after twenty years may underestimate existing skills. Flexible routes do not require weaker standards; they allow the same outcomes to be reached differently. Such provision turns lifelong learning from a slogan into a practical possibility.",
+      "viewpointTranslation": "成人教育应该提供多种重返学习的途径。",
+      "topicSentenceTranslation": "灵活的切入点是必要的，因为成人学习者有不同的责任和先前的经验。",
+      "collocationTranslations": [
+        "提供灵活的规定",
+        "认识到先前的学习",
+        "消除参与障碍",
+        "重返正规教育"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Adults may combine study with employment, care or health needs, so a full-time daytime course excludes many capable learners.",
+          "translation": "成年人可能会将学习与就业、护理或健康需求结合起来，因此全日制日间课程将许多有能力的学习者排除在外。"
+        },
+        {
+          "text": "Evening classes, modular qualifications and recognition of prior experience make participation more realistic.",
+          "translation": "晚间课程、模块化资格认证和对先前经验的认可使参与变得更加现实。"
+        },
+        {
+          "text": "Guidance is also important because someone returning after twenty years may underestimate existing skills.",
+          "translation": "指导也很重要，因为二十年后返回的人可能会低估现有技能。"
+        },
+        {
+          "text": "Flexible routes do not require weaker standards; they allow the same outcomes to be reached differently.",
+          "translation": "灵活的路线不需要较弱的标准；它们允许以不同的方式达到相同的结果。"
+        },
+        {
+          "text": "Such provision turns lifelong learning from a slogan into a practical possibility.",
+          "translation": "这样的规定使终身学习从口号变成了现实的可能性。"
+        }
+      ]
     },
     {
       "viewpoint": "Not all valuable learning needs certification.",
@@ -301,19 +347,107 @@
         "strengthen cognitive health",
         "learn independently"
       ],
-      "argument": "People learn languages, repair skills, music and local history for reasons unrelated to promotion. These activities can increase confidence, social contact and the ability to solve everyday problems. Requiring every experience to lead to a certificate may add cost and shift attention towards assessment. Libraries and community groups can provide low-pressure opportunities for exploration. Governments should recognise these wider benefits while reserving formal accreditation for situations where competence must be verified."
+      "argument": "People learn languages, repair skills, music and local history for reasons unrelated to promotion. These activities can increase confidence, social contact and the ability to solve everyday problems. Requiring every experience to lead to a certificate may add cost and shift attention towards assessment. Libraries and community groups can provide low-pressure opportunities for exploration. Governments should recognise these wider benefits while reserving formal accreditation for situations where competence must be verified.",
+      "viewpointTranslation": "并非所有有价值的学习都需要认证。",
+      "topicSentenceTranslation": "非正式学习即使无法产生正式证书，也可以提高个人能力。",
+      "collocationTranslations": [
+        "追求个人兴趣",
+        "获得实用技能",
+        "加强认知健康",
+        "独立学习"
+      ],
+      "argumentSentences": [
+        {
+          "text": "People learn languages, repair skills, music and local history for reasons unrelated to promotion.",
+          "translation": "人们出于与晋升无关的原因学习语言、修理技能、音乐和当地历史。"
+        },
+        {
+          "text": "These activities can increase confidence, social contact and the ability to solve everyday problems.",
+          "translation": "这些活动可以增强信心、社交联系以及解决日常问题的能力。"
+        },
+        {
+          "text": "Requiring every experience to lead to a certificate may add cost and shift attention towards assessment.",
+          "translation": "要求每一次经验都获得证书可能会增加成本并将注意力转移到评估上。"
+        },
+        {
+          "text": "Libraries and community groups can provide low-pressure opportunities for exploration.",
+          "translation": "图书馆和社区团体可以提供低压探索机会。"
+        },
+        {
+          "text": "Governments should recognise these wider benefits while reserving formal accreditation for situations where competence must be verified.",
+          "translation": "政府应认识到这些更广泛的好处，同时在必须验证能力的情况下保留正式认证。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Is there anything new you would like to learn?",
-      "answer": "I would like to learn basic photography properly. I can take an acceptable picture on my phone, but I do not understand light or composition, so the results are accidental. A short practical course would give me a reason to practise regularly. I like the idea because it would also make me pay closer attention to ordinary places."
+      "answer": "I would like to learn basic photography properly. I can take an acceptable picture on my phone, but I do not understand light or composition, so the results are accidental. A short practical course would give me a reason to practise regularly. I like the idea because it would also make me pay closer attention to ordinary places.",
+      "questionTranslation": "您有什么想学的新东西吗？",
+      "answerSentences": [
+        {
+          "text": "I would like to learn basic photography properly.",
+          "translation": "我想系统地学习一些摄影基础。"
+        },
+        {
+          "text": "I can take an acceptable picture on my phone, but I do not understand light or composition, so the results are accidental.",
+          "translation": "我能用手机拍出还过得去的照片，但不懂光线和构图，因此好坏往往靠运气。"
+        },
+        {
+          "text": "A short practical course would give me a reason to practise regularly.",
+          "translation": "简短的实践课程会给我一个定期练习的理由。"
+        },
+        {
+          "text": "I like the idea because it would also make me pay closer attention to ordinary places.",
+          "translation": "我喜欢这个想法，因为它也会让我更加关注普通的地方。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a skill you learned as an adult.",
-      "answer": "I learned to cook several reliable meals after I began living on my own. At first I followed recipes too literally and became confused whenever an ingredient was unavailable. Gradually I understood which steps affected flavour and which could be changed. I learned mainly by repeating simple dishes and asking relatives specific questions. The skill matters because it saves money, supports my health and gives me something useful to share with other people. The turning point was learning to taste during cooking rather than waiting until the end. That gave me information early enough to correct a dish. I now keep a few flexible ingredients available and waste far less food. Although the skill is ordinary, becoming competent at it made daily life feel more independent and turned meals from a chore into a small creative routine."
+      "answer": "I learned to cook several reliable meals after I began living on my own. At first I followed recipes too literally and became confused whenever an ingredient was unavailable. Gradually I understood which steps affected flavour and which could be changed. I learned mainly by repeating simple dishes and asking relatives specific questions. The skill matters because it saves money, supports my health and gives me something useful to share with other people. The turning point was learning to taste during cooking rather than waiting until the end. That gave me information early enough to correct a dish. I now keep a few flexible ingredients available and waste far less food. Although the skill is ordinary, becoming competent at it made daily life feel more independent and turned meals from a chore into a small creative routine.",
+      "questionTranslation": "描述您成年后学到的一项技能。",
+      "answerSentences": [
+        {
+          "text": "I learned to cook several reliable meals after I began living on my own.",
+          "translation": "开始独立生活后，我学会了做几顿可靠的饭菜。"
+        },
+        {
+          "text": "At first I followed recipes too literally and became confused whenever an ingredient was unavailable.",
+          "translation": "起初我过分严格地照着食谱做，只要缺少某种食材就会不知所措。"
+        },
+        {
+          "text": "Gradually I understood which steps affected flavour and which could be changed.",
+          "translation": "渐渐地，我明白了哪些步骤会影响风味，哪些步骤可以改变。"
+        },
+        {
+          "text": "I learned mainly by repeating simple dishes and asking relatives specific questions.",
+          "translation": "我主要是通过重复简单的菜肴和询问亲戚的具体问题来学习的。"
+        },
+        {
+          "text": "The skill matters because it saves money, supports my health and gives me something useful to share with other people.",
+          "translation": "这项技能很重要，因为它可以省钱，支持我的健康，并为我提供一些有用的东西与其他人分享。"
+        },
+        {
+          "text": "The turning point was learning to taste during cooking rather than waiting until the end.",
+          "translation": "真正的转折点是学会在烹饪过程中试味，而不是等到最后。"
+        },
+        {
+          "text": "That gave me information early enough to correct a dish.",
+          "translation": "这给了我足够早的信息来纠正菜肴。"
+        },
+        {
+          "text": "I now keep a few flexible ingredients available and waste far less food.",
+          "translation": "我现在保留了一些灵活的食材，浪费的食物也少了很多。"
+        },
+        {
+          "text": "Although the skill is ordinary, becoming competent at it made daily life feel more independent and turned meals from a chore into a small creative routine.",
+          "translation": "尽管这项技能很普通，但掌握它会让日常生活变得更加独立，并将吃饭从一件苦差事变成了一个小小的创意例程。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +484,103 @@
         "answer": "stage",
         "explanation": "The final paragraph uses “a normal stage”."
       }
+    ],
+    "titleTranslation": "成人学徒归来",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "For much of industrial history, apprenticeship was associated with teenagers entering a trade.",
+          "translation": "在工业史上的大部分时间里，学徒期都与青少年进入行业相关。"
+        },
+        {
+          "text": "That pattern is changing.",
+          "translation": "这种模式正在改变。"
+        },
+        {
+          "text": "Longer working lives, technological change and shortages in skilled occupations have led some adults to begin structured training in their thirties, forties or later.",
+          "translation": "更长的工作寿命、技术变革和技术职业的短缺导致一些成年人在三十几岁、四十岁或更晚的时候开始接受结构化培训。"
+        },
+        {
+          "text": "They are not simply continuing an interrupted education; many are leaving an established occupation and accepting beginner status again.",
+          "translation": "他们不仅仅是继续中断的教育；而是继续接受中断的教育。许多人正在离开既定的职业并再次接受初学者的身份。"
+        }
+      ],
+      [
+        {
+          "text": "Adult apprentices bring advantages.",
+          "translation": "成人学徒带来优势。"
+        },
+        {
+          "text": "They may already understand workplace expectations, communicate confidently with customers and organise their time without close supervision.",
+          "translation": "他们可能已经了解工作场所的期望，可以自信地与客户沟通，并在没有密切监督的情况下安排自己的时间。"
+        },
+        {
+          "text": "Experience from an unrelated field can also transfer in unexpected ways: a former care worker may handle anxious clients well, while an office administrator may keep accurate project records.",
+          "translation": "来自不相关领域的经验也可以以意想不到的方式转移：前护理人员可能会很好地处理焦虑的客户，而办公室管理员可能会保留准确的项目记录。"
+        },
+        {
+          "text": "Employers nevertheless sometimes assume that older beginners will resist instruction or expect rapid promotion.",
+          "translation": "然而，雇主有时会认为年长的初学者会抵制指导或期望快速晋升。"
+        }
+      ],
+      [
+        {
+          "text": "The financial transition is often the greater obstacle.",
+          "translation": "金融转型往往是更大的障碍。"
+        },
+        {
+          "text": "Apprenticeship wages are designed partly around young people with limited responsibilities.",
+          "translation": "学徒工资部分是针对责任有限的年轻人设计的。"
+        },
+        {
+          "text": "An adult may have rent, children or debt that cannot be supported during a long period of reduced income.",
+          "translation": "成年人可能有租金、子女或债务，在收入长期减少的情况下无法维持。"
+        },
+        {
+          "text": "Survey data from training providers suggest that completion is affected not only by academic difficulty but by transport, scheduling and sudden household costs.",
+          "translation": "培训机构的调查数据表明，完成情况不仅受到学业难度的影响，还受到交通、日程安排和突发家庭费用的影响。"
+        },
+        {
+          "text": "Grants and part-time routes can therefore determine who is able to retrain.",
+          "translation": "因此，补助金和兼职路线可以决定谁能够接受再培训。"
+        }
+      ],
+      [
+        {
+          "text": "There is a psychological adjustment too.",
+          "translation": "心理上也有一个调整。"
+        },
+        {
+          "text": "Competence in one career does not prevent clumsy first attempts in another.",
+          "translation": "在一个职业中的能力并不能阻止在另一个职业中第一次尝试时的笨拙。"
+        },
+        {
+          "text": "Programmes that acknowledge this loss of status, while setting clear milestones, can help adults interpret difficulty as a normal stage rather than proof that the decision was mistaken.",
+          "translation": "承认这种地位丧失的计划，同时设定明确的里程碑，可以帮助成年人将困难视为正常阶段，而不是证明决定是错误的。"
+        },
+        {
+          "text": "The adult apprentice illustrates a central feature of lifelong learning: access depends on more than willingness.",
+          "translation": "成年学徒说明了终身学习的一个核心特征：获得机会不仅仅取决于意愿。"
+        },
+        {
+          "text": "Time, income and an environment where temporary inexperience is acceptable all shape whether a second beginning becomes sustainable.",
+          "translation": "时间、收入和可以接受暂时缺乏经验的环境都会影响第二次开始是否可持续。"
+        }
+      ],
+      [
+        {
+          "text": "Peer groups can make the return easier by normalising questions that an experienced adult may otherwise hesitate to ask.",
+          "translation": "同伴群体可以通过将有经验的成年人可能会犹豫提出的问题正常化来使返回变得更容易。"
+        },
+        {
+          "text": "They also create a network beyond one tutor and allow learners to exchange strategies for managing study with work.",
+          "translation": "他们还创建了一个超越一名导师的网络，并允许学习者交流管理学习和工作的策略。"
+        },
+        {
+          "text": "Such support is inexpensive, but it should complement rather than replace expert instruction, financial assistance and accessible course design.",
+          "translation": "这种支持并不昂贵，但它应该补充而不是取代专家指导、财务援助和易于理解的课程设计。"
+        }
+      ]
     ]
   }
 }

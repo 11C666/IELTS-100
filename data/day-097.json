@@ -153,7 +153,8 @@
         "suspend armed confrontation",
         "bring active combat to a halt"
       ],
-      "note": "ceasefire通常只是停止战斗，不等于冲突已经解决。"
+      "note": "ceasefire通常只是停止战斗，不等于冲突已经解决。",
+      "translation": "停止战斗，也可表达为结束敌对行动、实现停火或中止武装冲突。"
     },
     {
       "base": "make peace",
@@ -162,7 +163,8 @@
         "negotiate a peace agreement",
         "establish a mutually accepted political arrangement"
       ],
-      "note": "settlement强调经谈判形成的安排。"
+      "note": "settlement强调经谈判形成的安排。",
+      "translation": "实现和平，也可表达为达成和平协议、解决冲突或建立和平关系。"
     },
     {
       "base": "people forced from home",
@@ -171,7 +173,8 @@
         "populations uprooted by conflict",
         "civilians compelled to leave their homes"
       ],
-      "note": "displaced不代表一定跨越国境。"
+      "note": "displaced不代表一定跨越国境。",
+      "translation": "被迫离开家园的人，也可表达为流离失所者、被迫迁移的家庭或因冲突逃离住所的平民。"
     },
     {
       "base": "help two sides talk",
@@ -180,7 +183,8 @@
         "facilitate dialogue",
         "create a channel for negotiation"
       ],
-      "note": "mediate表示调解者协助双方，而非替双方决定。"
+      "note": "mediate表示调解者协助双方，而非替双方决定。",
+      "translation": "帮助双方对话，也可表达为开展调解、促进谈判或维持沟通渠道。"
     },
     {
       "base": "peace that lasts",
@@ -189,7 +193,8 @@
         "a sustainable settlement",
         "long-term stability supported by legitimate institutions"
       ],
-      "note": "durable和sustainable都强调协议能经受压力。"
+      "note": "durable和sustainable都强调协议能经受压力。",
+      "translation": "持久和平，也可表达为可持续和平、长期稳定或不会迅速破裂的政治解决。"
     },
     {
       "base": "reasons for war",
@@ -198,7 +203,8 @@
         "underlying sources of violence",
         "political and social conditions fuelling conflict"
       ],
-      "note": "drivers适合指多种相互作用的因素。"
+      "note": "drivers适合指多种相互作用的因素。",
+      "translation": "战争原因，也可表达为冲突根源、暴力背后的不满或引发战争的政治与社会因素。"
     },
     {
       "base": "protect ordinary people",
@@ -207,7 +213,8 @@
         "safeguard non-combatants",
         "reduce harm to conflict-affected communities"
       ],
-      "note": "civilian是正式而准确的政策用词。"
+      "note": "civilian是正式而准确的政策用词。",
+      "translation": "保护普通民众，也可表达为保护平民、减少民众伤亡或保障非战斗人员安全。"
     },
     {
       "base": "become friendly again",
@@ -216,51 +223,60 @@
         "pursue reconciliation",
         "restore sufficient trust for peaceful coexistence"
       ],
-      "note": "reconciliation不一定意味着遗忘或完全一致。"
+      "note": "reconciliation不一定意味着遗忘或完全一致。",
+      "translation": "重建友好关系，也可表达为和解、恢复社会信任或修复群体关系。"
     }
   ],
   "sentences": [
     {
       "pattern": "A ceasefire can + immediate benefit without necessarily + long-term outcome.",
       "cn": "停火可以带来某项即时益处，但未必自然产生长期结果。",
-      "example": "A ceasefire can allow aid to reach civilians without necessarily resolving the dispute over political power."
+      "example": "A ceasefire can allow aid to reach civilians without necessarily resolving the dispute over political power.",
+      "exampleTranslation": "停火可以让援助送达平民，却不一定能解决有关政治权力的争端。"
     },
     {
       "pattern": "For + group + to accept + peace measure, they need confidence that + security or fairness condition.",
       "cn": "要让某一群体接受和平措施，他们需要相信某项安全或公平条件能够得到满足。",
-      "example": "For displaced families to accept return plans, they need confidence that their homes are safe and their rights will be recognised."
+      "example": "For displaced families to accept return plans, they need confidence that their homes are safe and their rights will be recognised.",
+      "exampleTranslation": "要让流离失所家庭接受返乡计划，他们需要相信家园安全且权利会得到承认。"
     },
     {
       "pattern": "Lasting peace depends not only on + formal agreement but also on + local process.",
       "cn": "持久和平不仅取决于正式协议，也取决于地方层面的具体进程。",
-      "example": "Lasting peace depends not only on a signed agreement but also on whether local disputes can be resolved without violence."
+      "example": "Lasting peace depends not only on a signed agreement but also on whether local disputes can be resolved without violence.",
+      "exampleTranslation": "持久和平不仅取决于签署协议，也取决于本地争端能否以非暴力方式解决。"
     }
   ],
   "expressions": [
     {
       "text": "keep the lines of communication open",
       "cn": "保持沟通渠道畅通",
-      "example": "Mediators tried to keep the lines of communication open during the crisis."
+      "example": "Mediators tried to keep the lines of communication open during the crisis.",
+      "exampleTranslation": "危机期间，调解人努力保持沟通渠道畅通。"
     },
     {
       "text": "live side by side",
       "cn": "和平共处；比邻而居",
-      "example": "The two communities had lived side by side for generations."
+      "example": "The two communities had lived side by side for generations.",
+      "exampleTranslation": "两个社区世世代代比邻而居。"
     },
     {
       "text": "break the cycle of violence",
       "cn": "打破暴力循环",
-      "example": "Schools and local institutions can help break the cycle of violence."
+      "example": "Schools and local institutions can help break the cycle of violence.",
+      "exampleTranslation": "学校和本地机构可以帮助打破暴力循环。"
     },
     {
       "text": "create the conditions for dialogue",
       "cn": "为对话创造条件",
-      "example": "A verified pause can create the conditions for dialogue."
+      "example": "A verified pause can create the conditions for dialogue.",
+      "exampleTranslation": "经核实的暂停行动可以为对话创造条件。"
     },
     {
       "text": "address legitimate grievances",
       "cn": "处理合理诉求",
-      "example": "A settlement must address legitimate grievances without rewarding violence."
+      "example": "A settlement must address legitimate grievances without rewarding violence.",
+      "exampleTranslation": "解决方案必须处理正当诉求，同时不能奖励暴力。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "include community representatives",
         "strengthen social trust"
       ],
-      "argument": "Senior negotiators can settle constitutional or security questions, but they rarely manage conflicts over farmland, water or the return of displaced families. If these disputes remain unresolved, a local incident may undermine confidence in the national agreement. Trained mediators and representative councils can address tensions before they escalate while feeding local concerns into formal talks. Such mechanisms do not replace national leadership; they make a high-level settlement workable in daily life. Peacebuilding should therefore connect negotiation rooms with the communities expected to live under the agreement."
+      "argument": "Senior negotiators can settle constitutional or security questions, but they rarely manage conflicts over farmland, water or the return of displaced families. If these disputes remain unresolved, a local incident may undermine confidence in the national agreement. Trained mediators and representative councils can address tensions before they escalate while feeding local concerns into formal talks. Such mechanisms do not replace national leadership; they make a high-level settlement workable in daily life. Peacebuilding should therefore connect negotiation rooms with the communities expected to live under the agreement.",
+      "viewpointTranslation": "本地和平建设应与全国谈判同时继续。",
+      "topicSentenceTranslation": "当社区拥有和平解决争端的实际途径时，全国协议会更加持久。",
+      "collocationTranslations": [
+        "支持本地调解",
+        "解决日常争端",
+        "纳入社区代表",
+        "增强社会信任"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Senior negotiators can settle constitutional or security questions, but they rarely manage conflicts over farmland, water or the return of displaced families.",
+          "translation": "高级谈判者可以解决宪法或安全问题，却很少处理农田、水源或流离失所家庭返乡方面的冲突。"
+        },
+        {
+          "text": "If these disputes remain unresolved, a local incident may undermine confidence in the national agreement.",
+          "translation": "如果这些争端仍未解决，一次本地事件就可能削弱人们对全国协议的信心。"
+        },
+        {
+          "text": "Trained mediators and representative councils can address tensions before they escalate while feeding local concerns into formal talks.",
+          "translation": "受过训练的调解人和具有代表性的委员会可以在矛盾升级前处理紧张局势，同时把本地关切带入正式谈判。"
+        },
+        {
+          "text": "Such mechanisms do not replace national leadership; they make a high-level settlement workable in daily life.",
+          "translation": "这些机制不会取代国家领导，而是让高层解决方案在日常生活中可行。"
+        },
+        {
+          "text": "Peacebuilding should therefore connect negotiation rooms with the communities expected to live under the agreement.",
+          "translation": "因此，和平建设应把谈判室与预期在协议下生活的社区连接起来。"
+        }
+      ]
     },
     {
       "viewpoint": "Post-conflict justice needs both accountability and social repair.",
@@ -301,19 +347,107 @@
         "restore legitimate institutions",
         "support social reconciliation"
       ],
-      "argument": "Survivors reasonably expect crimes to be acknowledged and the most serious offenders to face credible investigation. However, a court can determine individual guilt without restoring lost livelihoods, locating missing relatives or enabling neighbours to cooperate again. A balanced process might combine focused prosecutions with truth-seeking, compensation and institutional reform. The appropriate mix will differ according to legal capacity and the wishes of affected communities. Justice contributes to peace when it addresses harm while reducing the likelihood that abusive systems will reappear."
+      "argument": "Survivors reasonably expect crimes to be acknowledged and the most serious offenders to face credible investigation. However, a court can determine individual guilt without restoring lost livelihoods, locating missing relatives or enabling neighbours to cooperate again. A balanced process might combine focused prosecutions with truth-seeking, compensation and institutional reform. The appropriate mix will differ according to legal capacity and the wishes of affected communities. Justice contributes to peace when it addresses harm while reducing the likelihood that abusive systems will reappear.",
+      "viewpointTranslation": "冲突后正义需要问责与社会修复并重。",
+      "topicSentenceTranslation": "忽视严重侵害或许能维持短期平静，但单靠惩罚无法重建关系或机构。",
+      "collocationTranslations": [
+        "调查严重侵权行为",
+        "承认受害者经历",
+        "恢复合法机构",
+        "支持社会和解"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Survivors reasonably expect crimes to be acknowledged and the most serious offenders to face credible investigation.",
+          "translation": "幸存者有理由期待罪行得到承认，最严重的犯罪者接受可信调查。"
+        },
+        {
+          "text": "However, a court can determine individual guilt without restoring lost livelihoods, locating missing relatives or enabling neighbours to cooperate again.",
+          "translation": "然而，法院可以判定个人罪责，却无法恢复失去的生计、找到失踪亲属或让邻居重新合作。"
+        },
+        {
+          "text": "A balanced process might combine focused prosecutions with truth-seeking, compensation and institutional reform.",
+          "translation": "均衡的过程可以把重点起诉与寻求真相、赔偿和机构改革结合起来。"
+        },
+        {
+          "text": "The appropriate mix will differ according to legal capacity and the wishes of affected communities.",
+          "translation": "适当组合会因法律能力和受影响社区的意愿而不同。"
+        },
+        {
+          "text": "Justice contributes to peace when it addresses harm while reducing the likelihood that abusive systems will reappear.",
+          "translation": "当正义在处理伤害的同时降低虐待性制度再次出现的可能时，它才有助于和平。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a time when you helped resolve a disagreement.",
-      "answer": "I once helped two classmates resolve a disagreement during a group presentation. One wanted a detailed, research-heavy talk, while the other wanted to simplify everything for the audience. Their messages were becoming personal, so I suggested that we stop discussing whose idea was better and look at the assessment criteria. We agreed to keep the evidence in the main argument but move technical details to one optional slide. I also divided the speaking roles so that both people had clear responsibility. The final presentation was balanced, and the atmosphere improved once each person felt heard. I learned that resolving a disagreement is not always about finding a perfect compromise; sometimes it means identifying the shared goal and making the practical choices more specific."
+      "answer": "I once helped two classmates resolve a disagreement during a group presentation. One wanted a detailed, research-heavy talk, while the other wanted to simplify everything for the audience. Their messages were becoming personal, so I suggested that we stop discussing whose idea was better and look at the assessment criteria. We agreed to keep the evidence in the main argument but move technical details to one optional slide. I also divided the speaking roles so that both people had clear responsibility. The final presentation was balanced, and the atmosphere improved once each person felt heard. I learned that resolving a disagreement is not always about finding a perfect compromise; sometimes it means identifying the shared goal and making the practical choices more specific.",
+      "questionTranslation": "请描述一次你帮助解决分歧的经历。",
+      "answerSentences": [
+        {
+          "text": "I once helped two classmates resolve a disagreement during a group presentation.",
+          "translation": "我曾帮助两名同学解决小组展示期间的分歧。"
+        },
+        {
+          "text": "One wanted a detailed, research-heavy talk, while the other wanted to simplify everything for the audience.",
+          "translation": "一个人希望演讲细致、以研究为主，另一个则想为听众简化一切。"
+        },
+        {
+          "text": "Their messages were becoming personal, so I suggested that we stop discussing whose idea was better and look at the assessment criteria.",
+          "translation": "他们的信息开始带有针对个人的意味，所以我建议停止争论谁的想法更好，转而查看评分标准。"
+        },
+        {
+          "text": "We agreed to keep the evidence in the main argument but move technical details to one optional slide.",
+          "translation": "我们同意保留主要论点中的证据，但把技术细节放在一张可选幻灯片上。"
+        },
+        {
+          "text": "I also divided the speaking roles so that both people had clear responsibility.",
+          "translation": "我还分配了发言角色，让两人都有明确责任。"
+        },
+        {
+          "text": "The final presentation was balanced, and the atmosphere improved once each person felt heard.",
+          "translation": "最终展示很均衡，每个人感到自己的意见被听见后，气氛也改善了。"
+        },
+        {
+          "text": "I learned that resolving a disagreement is not always about finding a perfect compromise; sometimes it means identifying the shared goal and making the practical choices more specific.",
+          "translation": "我认识到，解决分歧不总是寻找完美妥协；有时意味着明确共同目标，并把实际选择说得更具体。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "What makes mediation effective in serious conflicts?",
-      "answer": "The mediator needs enough trust from all parties to maintain communication, but neutrality alone is not sufficient. They must understand the history, recognise unequal power and avoid pushing an agreement that one side cannot safely implement. Timing also matters, because parties may negotiate seriously only when continued conflict appears more costly than compromise. Effective mediation creates a process with clear steps, confidential discussion where necessary and some way to verify commitments. External mediators can offer guarantees or expertise, while respected local figures often understand concerns that formal delegations overlook. Ultimately, the parties themselves must regard the settlement as preferable to returning to violence."
+      "answer": "The mediator needs enough trust from all parties to maintain communication, but neutrality alone is not sufficient. They must understand the history, recognise unequal power and avoid pushing an agreement that one side cannot safely implement. Timing also matters, because parties may negotiate seriously only when continued conflict appears more costly than compromise. Effective mediation creates a process with clear steps, confidential discussion where necessary and some way to verify commitments. External mediators can offer guarantees or expertise, while respected local figures often understand concerns that formal delegations overlook. Ultimately, the parties themselves must regard the settlement as preferable to returning to violence.",
+      "questionTranslation": "在严重冲突中，什么能让调解有效？",
+      "answerSentences": [
+        {
+          "text": "The mediator needs enough trust from all parties to maintain communication, but neutrality alone is not sufficient.",
+          "translation": "调解人需要获得各方足够的信任来维持沟通，但中立本身并不足够。"
+        },
+        {
+          "text": "They must understand the history, recognise unequal power and avoid pushing an agreement that one side cannot safely implement.",
+          "translation": "他们必须理解历史、认识权力不平等，并避免推动一方无法安全执行的协议。"
+        },
+        {
+          "text": "Timing also matters, because parties may negotiate seriously only when continued conflict appears more costly than compromise.",
+          "translation": "时机也很重要，因为只有当持续冲突的代价看起来高于妥协时，各方才可能认真谈判。"
+        },
+        {
+          "text": "Effective mediation creates a process with clear steps, confidential discussion where necessary and some way to verify commitments.",
+          "translation": "有效调解会建立步骤清晰的过程，在必要时进行保密讨论，并提供某种核实承诺的方式。"
+        },
+        {
+          "text": "External mediators can offer guarantees or expertise, while respected local figures often understand concerns that formal delegations overlook.",
+          "translation": "外部调解人可以提供保证或专业知识，而受尊敬的本地人士常能理解正式代表团忽视的关切。"
+        },
+        {
+          "text": "Ultimately, the parties themselves must regard the settlement as preferable to returning to violence.",
+          "translation": "归根结底，各方自身必须认为解决方案优于重返暴力。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +484,91 @@
         "answer": "D",
         "explanation": "Paragraph D says villages away from the road complained that they lacked comparable protection."
       }
+    ],
+    "titleTranslation": "市场道路停火",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "For six weeks, traders in Lenda had reached the regional market by a rough northern track, adding two hours to a journey once made along the main road.",
+          "translation": "六周以来，伦达的商贩只能沿崎岖的北部小路前往地区市场，使原本走主路的行程增加了两小时。"
+        },
+        {
+          "text": "Armed groups had established positions near a bridge, and an earlier promise to let civilian vehicles pass had collapsed after each side accused the other of moving supplies under cover of trade.",
+          "translation": "武装团体在一座桥附近设立阵地，双方互相指责借贸易掩护运输物资，早先允许民用车辆通行的承诺因此破裂。"
+        },
+        {
+          "text": "Prices rose in villages beyond the bridge, while farmers approaching harvest risked losing produce they could not transport.",
+          "translation": "桥另一侧村庄的物价上涨，而临近收获的农民面临因无法运输而损失农产品的风险。"
+        }
+      ],
+      [
+        {
+          "text": "The eventual arrangement began with a narrow question rather than a comprehensive peace proposal: could the road open safely on two market days each week?",
+          "translation": "最终安排从一个狭窄问题入手，而不是全面和平提议：道路能否每周在两个赶集日安全开放？"
+        },
+        {
+          "text": "Village elders, women’s associations and transport unions met representatives of both armed groups separately.",
+          "translation": "村庄长老、妇女协会和运输工会分别会见了两个武装团体的代表。"
+        },
+        {
+          "text": "They mapped checkpoints, agreed on daylight hours and created a list of vehicle types permitted to cross.",
+          "translation": "他们绘制检查站、商定白天开放时间，并列出允许通行的车辆类型。"
+        },
+        {
+          "text": "No group was asked to withdraw permanently or recognise the other’s political claims.",
+          "translation": "没有要求任何团体永久撤离或承认对方的政治主张。"
+        }
+      ],
+      [
+        {
+          "text": "Verification proved more difficult than negotiation.",
+          "translation": "核实事实比谈判更困难。"
+        },
+        {
+          "text": "Each armed group rejected monitors associated with the opposing side, and outside observers could not arrive quickly.",
+          "translation": "两个武装团体都拒绝与对方有关联的监督员，而外部观察员无法迅速抵达。"
+        },
+        {
+          "text": "The mediators therefore formed mixed teams of local residents from communities on both sides of the bridge.",
+          "translation": "调解人因此组建了由桥两侧社区本地居民组成的混合小组。"
+        },
+        {
+          "text": "Team members wore numbered vests, recorded crossing times in identical paper logs and reported incidents through a shared radio channel.",
+          "translation": "成员穿编号背心，在相同纸质日志中记录通行时间，并通过共享无线电频道报告事件。"
+        },
+        {
+          "text": "When one truck arrived carrying fuel, a prohibited item, monitors turned it back without closing the route.",
+          "translation": "一辆卡车运来属于违禁品的燃油时，监督员让它返回，却没有关闭路线。"
+        }
+      ],
+      [
+        {
+          "text": "Trade resumed, but the limited ceasefire created new disputes.",
+          "translation": "贸易恢复了，但有限停火又产生了新争端。"
+        },
+        {
+          "text": "Villages away from the road complained that they received no comparable protection, and some fighters demanded informal payments from passengers before they reached the monitored section.",
+          "translation": "远离道路的村庄抱怨没有得到同等保护，一些战斗人员还在乘客进入受监督路段前索要非正式费用。"
+        },
+        {
+          "text": "Rather than describing the arrangement as a model ready for expansion, organisers published these failures and invited neighbouring communities to design different measures suited to their routes.",
+          "translation": "组织者没有把这一安排描述为可直接扩展的模式，而是公布这些失败，并邀请邻近社区设计适合各自路线的不同措施。"
+        }
+      ],
+      [
+        {
+          "text": "After four months, the main conflict remained unresolved.",
+          "translation": "四个月后，主要冲突仍未解决。"
+        },
+        {
+          "text": "Nevertheless, food prices had fallen, civilian travel had become more predictable and representatives who had previously communicated only through accusation were discussing breaches by radio.",
+          "translation": "不过，食品价格已经下降，平民出行更可预期，而且过去只通过指责交流的代表开始用无线电讨论违规事件。"
+        },
+        {
+          "text": "The road agreement mattered not because it delivered peace in miniature, but because it protected a specific activity and established a procedure for correcting violations without immediately returning to force.",
+          "translation": "道路协议的重要性不在于它带来了微型和平，而在于它保护了一项具体活动，并建立了无需立即诉诸武力即可纠正违规的程序。"
+        }
+      ]
     ]
   }
 }

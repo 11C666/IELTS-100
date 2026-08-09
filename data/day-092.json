@@ -153,7 +153,8 @@
         "support lower-income states",
         "finance programmes in resource-constrained settings"
       ],
-      "note": "lower-income比poor更中性。"
+      "note": "lower-income比poor更中性。",
+      "translation": "帮助较贫困国家，也可表达为提供发展援助、支持低收入国家或向资源有限的国家提供协助。"
     },
     {
       "base": "emergency help",
@@ -162,7 +163,8 @@
         "life-saving assistance",
         "support delivered during a crisis"
       ],
-      "note": "humanitarian侧重紧急人道需求。"
+      "note": "humanitarian侧重紧急人道需求。",
+      "translation": "紧急援助，也可表达为灾害救济、人道主义响应或满足迫切需求的援助。"
     },
     {
       "base": "give money",
@@ -171,7 +173,8 @@
         "disburse financial assistance",
         "allocate resources to a programme"
       ],
-      "note": "disburse强调实际拨付。"
+      "note": "disburse强调实际拨付。",
+      "translation": "提供资金，也可表达为现金援助、拨款或直接提供财政支持。"
     },
     {
       "base": "people receiving help",
@@ -180,7 +183,8 @@
         "recipient communities",
         "populations targeted by assistance"
       ],
-      "note": "community避免把人写成被动对象。"
+      "note": "community避免把人写成被动对象。",
+      "translation": "接受援助的人，也可表达为受援者、受益群体或获得项目支持的社区。"
     },
     {
       "base": "know what people need",
@@ -189,7 +193,8 @@
         "identify locally defined priorities",
         "establish which needs are most urgent"
       ],
-      "note": "locally defined强调参与。"
+      "note": "locally defined强调参与。",
+      "translation": "了解人们的需求，也可表达为评估本地需要、咨询社区或确定受援者的优先事项。"
     },
     {
       "base": "teach useful skills",
@@ -198,7 +203,8 @@
         "strengthen professional capability",
         "develop skills that remain after a project"
       ],
-      "note": "capacity不只是培训。"
+      "note": "capacity不只是培训。",
+      "translation": "教授实用技能，也可表达为开展能力建设、提供技能培训或传授可持续使用的知识。"
     },
     {
       "base": "check where money goes",
@@ -207,7 +213,8 @@
         "track aid expenditure",
         "verify how resources are used"
       ],
-      "note": "accountability还包括结果责任。"
+      "note": "accountability还包括结果责任。",
+      "translation": "检查资金去向，也可表达为监督支出、追踪援助资金或确保财务问责。"
     },
     {
       "base": "depend on aid",
@@ -216,51 +223,60 @@
         "rely persistently on external assistance",
         "lack a sustainable domestic alternative"
       ],
-      "note": "dependency不是短期受援。"
+      "note": "dependency不是短期受援。",
+      "translation": "依赖援助，也可表达为形成援助依赖、长期依靠外部支持或无法自主维持项目。"
     }
   ],
   "sentences": [
     {
       "pattern": "Aid is more likely to + lasting result + when + local actor + decides + priority or method.",
       "cn": "当本地参与者决定重点或实施方式时，援助更可能产生持久效果。",
-      "example": "Aid is more likely to strengthen clinics when local health workers decide which equipment is practical."
+      "example": "Aid is more likely to strengthen clinics when local health workers decide which equipment is practical.",
+      "exampleTranslation": "当本地医护人员决定哪些设备切实可用时，援助更有可能增强诊所能力。"
     },
     {
       "pattern": "What is urgently needed during + crisis + may differ from what will + long-term outcome + once + immediate stage ends.",
       "cn": "危机期间的紧急需求，可能不同于紧急阶段结束后实现长期结果所需的条件。",
-      "example": "What is urgently needed during a flood may differ from what will rebuild livelihoods once the water recedes."
+      "example": "What is urgently needed during a flood may differ from what will rebuild livelihoods once the water recedes.",
+      "exampleTranslation": "洪灾期间的迫切需求，可能不同于洪水退去后重建生计所需的帮助。"
     },
     {
       "pattern": "Unless + resource + is accompanied by + supporting condition, it may + unintended result rather than + intended result.",
       "cn": "除非某种资源配有必要支持条件，否则它可能造成意外结果，而非预期效果。",
-      "example": "Unless donated machinery is accompanied by spare parts and training, it may occupy storage rather than improve production."
+      "example": "Unless donated machinery is accompanied by spare parts and training, it may occupy storage rather than improve production.",
+      "exampleTranslation": "除非捐赠的机器同时配备零件和培训，否则它可能只会占据仓库，而无法改善生产。"
     }
   ],
   "expressions": [
     {
       "text": "meet people’s immediate needs",
       "cn": "满足人们的即时需求",
-      "example": "Clean water must meet people’s immediate needs after a disaster."
+      "example": "Clean water must meet people’s immediate needs after a disaster.",
+      "exampleTranslation": "灾后首先必须提供清洁饮用水，以满足人们的迫切需要。"
     },
     {
       "text": "ask communities what works",
       "cn": "询问社区什么办法有效",
-      "example": "Good agencies ask communities what works locally."
+      "example": "Good agencies ask communities what works locally.",
+      "exampleTranslation": "优秀的援助机构会询问社区哪些做法适合当地。"
     },
     {
       "text": "stay after the cameras leave",
       "cn": "在媒体关注消退后仍持续投入",
-      "example": "Recovery partners need to stay after the cameras leave."
+      "example": "Recovery partners need to stay after the cameras leave.",
+      "exampleTranslation": "复苏合作方需要在媒体离开后继续留下。"
     },
     {
       "text": "strengthen local capacity",
       "cn": "增强本地能力",
-      "example": "Training technicians can strengthen local capacity."
+      "example": "Training technicians can strengthen local capacity.",
+      "exampleTranslation": "培训技术人员可以增强本地能力。"
     },
     {
       "text": "turn short-term relief into recovery",
       "cn": "把短期救济转化为复苏",
-      "example": "Cash support can turn short-term relief into recovery."
+      "example": "Cash support can turn short-term relief into recovery.",
+      "exampleTranslation": "现金支持可以把短期救济转化为复苏。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "reduce transport costs",
         "respect household priorities"
       ],
-      "argument": "A standard parcel assumes that every household requires the same items, although one family may need medicine while another needs transport. Cash allows each to respond to its own most urgent constraint. It can also be spent with local traders, helping commercial activity recover instead of importing goods that compete with it. Cash is unsuitable where supplies are unavailable or prices are being manipulated, so market monitoring remains essential. The best emergency tool should follow local conditions rather than donor convenience."
+      "argument": "A standard parcel assumes that every household requires the same items, although one family may need medicine while another needs transport. Cash allows each to respond to its own most urgent constraint. It can also be spent with local traders, helping commercial activity recover instead of importing goods that compete with it. Cash is unsuitable where supplies are unavailable or prices are being manipulated, so market monitoring remains essential. The best emergency tool should follow local conditions rather than donor convenience.",
+      "viewpointTranslation": "在某些紧急情况之后，现金可能比捐赠物资更有效。",
+      "topicSentenceTranslation": "在本地市场仍能运作的地方，现金援助既能给予受灾家庭灵活性，也能支持附近商家。",
+      "collocationTranslations": [
+        "提供灵活援助",
+        "支持本地市场",
+        "降低运输成本",
+        "尊重家庭优先事项"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A standard parcel assumes that every household requires the same items, although one family may need medicine while another needs transport.",
+          "translation": "标准物资包假定每个家庭需要同样的物品，尽管一个家庭可能需要药品，另一个则需要交通费用。"
+        },
+        {
+          "text": "Cash allows each to respond to its own most urgent constraint.",
+          "translation": "现金使各家庭能够应对自己最迫切的限制。"
+        },
+        {
+          "text": "It can also be spent with local traders, helping commercial activity recover instead of importing goods that compete with it.",
+          "translation": "现金也可以在本地商户消费，从而帮助商业活动恢复，而不是进口商品与当地市场竞争。"
+        },
+        {
+          "text": "Cash is unsuitable where supplies are unavailable or prices are being manipulated, so market monitoring remains essential.",
+          "translation": "如果物资无法获得或价格受到操纵，现金并不适用，因此市场监测仍然必不可少。"
+        },
+        {
+          "text": "The best emergency tool should follow local conditions rather than donor convenience.",
+          "translation": "最佳的紧急援助工具应依据当地条件，而不是捐助方的便利。"
+        }
+      ]
     },
     {
       "viewpoint": "Development projects need local ownership.",
@@ -301,19 +347,107 @@
         "fund ongoing maintenance",
         "create institutional ownership"
       ],
-      "argument": "A donor may build a technically impressive water system, but its pumps will fail if replacement parts cannot be purchased locally. Involving local engineers and users at the design stage can reveal such constraints before money is spent. Responsibility for fees, repairs and oversight should also be agreed with an institution that will remain after foreign staff leave. This approach may slow the opening ceremony, yet it increases the chance that services still function five years later. Sustainable aid transfers decision-making capacity as well as physical resources."
+      "argument": "A donor may build a technically impressive water system, but its pumps will fail if replacement parts cannot be purchased locally. Involving local engineers and users at the design stage can reveal such constraints before money is spent. Responsibility for fees, repairs and oversight should also be agreed with an institution that will remain after foreign staff leave. This approach may slow the opening ceremony, yet it increases the chance that services still function five years later. Sustainable aid transfers decision-making capacity as well as physical resources.",
+      "viewpointTranslation": "发展项目需要本地所有权。",
+      "topicSentenceTranslation": "如果受援者接手的是一个自己没有参与设计的体系，援助很难长久。",
+      "collocationTranslations": [
+        "咨询受援社区",
+        "运用本地专业知识",
+        "资助持续维护",
+        "建立机构所有权"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A donor may build a technically impressive water system, but its pumps will fail if replacement parts cannot be purchased locally.",
+          "translation": "捐助方可能建设技术上令人赞叹的供水系统，但如果替换零件无法在当地购买，水泵就会停转。"
+        },
+        {
+          "text": "Involving local engineers and users at the design stage can reveal such constraints before money is spent.",
+          "translation": "在设计阶段让本地工程师和使用者参与，可以在花钱之前发现这些限制。"
+        },
+        {
+          "text": "Responsibility for fees, repairs and oversight should also be agreed with an institution that will remain after foreign staff leave.",
+          "translation": "收费、维修和监督责任也应与外国员工离开后仍会存在的机构协商确定。"
+        },
+        {
+          "text": "This approach may slow the opening ceremony, yet it increases the chance that services still function five years later.",
+          "translation": "这种方法可能会推迟正式启用，却提高了服务在五年后仍能正常运行的可能性。"
+        },
+        {
+          "text": "Sustainable aid transfers decision-making capacity as well as physical resources.",
+          "translation": "可持续援助不仅转移实物资源，也转移决策能力。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a charity or aid project that you think is practical.",
-      "answer": "I once read about a project that funds bicycles for community health workers in remote districts. The workers already had medical training, but walking between villages limited the number of families they could visit. A robust bicycle, basic repair tools and local maintenance training allowed them to carry supplies and reach patients more regularly. I find the project practical because it solves a clearly identified transport problem without introducing complicated technology. It also relies on people who already understand the community. Of course, a bicycle cannot replace a clinic or an ambulance, but in the right geography it makes existing health skills far more useful. That modest fit between the tool and the need is what impressed me."
+      "answer": "I once read about a project that funds bicycles for community health workers in remote districts. The workers already had medical training, but walking between villages limited the number of families they could visit. A robust bicycle, basic repair tools and local maintenance training allowed them to carry supplies and reach patients more regularly. I find the project practical because it solves a clearly identified transport problem without introducing complicated technology. It also relies on people who already understand the community. Of course, a bicycle cannot replace a clinic or an ambulance, but in the right geography it makes existing health skills far more useful. That modest fit between the tool and the need is what impressed me.",
+      "questionTranslation": "请描述一个你认为切实可行的慈善或援助项目。",
+      "answerSentences": [
+        {
+          "text": "I once read about a project that funds bicycles for community health workers in remote districts.",
+          "translation": "我曾读到一个为偏远地区社区医护人员资助自行车的项目。"
+        },
+        {
+          "text": "The workers already had medical training, but walking between villages limited the number of families they could visit.",
+          "translation": "这些人员已经受过医疗培训，但步行往返村庄限制了他们能探访的家庭数量。"
+        },
+        {
+          "text": "A robust bicycle, basic repair tools and local maintenance training allowed them to carry supplies and reach patients more regularly.",
+          "translation": "一辆结实的自行车、基本维修工具和本地维护培训，使他们能够携带物资并更定期地接触患者。"
+        },
+        {
+          "text": "I find the project practical because it solves a clearly identified transport problem without introducing complicated technology.",
+          "translation": "我认为这个项目很实用，因为它解决了一个明确的交通问题，又没有引入复杂技术。"
+        },
+        {
+          "text": "It also relies on people who already understand the community.",
+          "translation": "它也依靠已经了解社区的人。"
+        },
+        {
+          "text": "Of course, a bicycle cannot replace a clinic or an ambulance, but in the right geography it makes existing health skills far more useful.",
+          "translation": "当然，自行车无法取代诊所或救护车，但在合适的地理环境中，它能让现有医疗技能发挥更大作用。"
+        },
+        {
+          "text": "That modest fit between the tool and the need is what impressed me.",
+          "translation": "工具与需求之间这种朴素的契合给我留下了深刻印象。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Why do some aid projects fail?",
-      "answer": "Sometimes donors begin with a product they want to provide instead of a problem that communities have identified. Projects can also overlook maintenance costs, local skills or political relationships. A school building, for instance, achieves little without teachers and a reliable operating budget. Short funding cycles encourage organisations to report quick outputs such as items distributed rather than harder long-term outcomes. Corruption can be a factor, but it should not become a convenient explanation for every failure. Better consultation, transparent spending and independent evaluation can expose whether the original design was realistic."
+      "answer": "Sometimes donors begin with a product they want to provide instead of a problem that communities have identified. Projects can also overlook maintenance costs, local skills or political relationships. A school building, for instance, achieves little without teachers and a reliable operating budget. Short funding cycles encourage organisations to report quick outputs such as items distributed rather than harder long-term outcomes. Corruption can be a factor, but it should not become a convenient explanation for every failure. Better consultation, transparent spending and independent evaluation can expose whether the original design was realistic.",
+      "questionTranslation": "为什么一些援助项目会失败？",
+      "answerSentences": [
+        {
+          "text": "Sometimes donors begin with a product they want to provide instead of a problem that communities have identified.",
+          "translation": "有时，捐助方从自己想提供的产品出发，而不是从社区已经确定的问题出发。"
+        },
+        {
+          "text": "Projects can also overlook maintenance costs, local skills or political relationships.",
+          "translation": "项目也可能忽视维护成本、本地技能或政治关系。"
+        },
+        {
+          "text": "A school building, for instance, achieves little without teachers and a reliable operating budget.",
+          "translation": "例如，一栋校舍如果没有教师和可靠的运营预算，就几乎没有作用。"
+        },
+        {
+          "text": "Short funding cycles encourage organisations to report quick outputs such as items distributed rather than harder long-term outcomes.",
+          "translation": "短期资助周期会鼓励机构报告发放物品等快速产出，而不是更难衡量的长期结果。"
+        },
+        {
+          "text": "Corruption can be a factor, but it should not become a convenient explanation for every failure.",
+          "translation": "腐败可能是一个因素，但不应成为解释每次失败的方便借口。"
+        },
+        {
+          "text": "Better consultation, transparent spending and independent evaluation can expose whether the original design was realistic.",
+          "translation": "更充分的咨询、透明支出和独立评估可以揭示原始设计是否现实。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +484,99 @@
           "Aid should be evaluated through photographs."
         ]
       }
+    ],
+    "titleTranslation": "免费拖拉机停转之后",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Following three seasons of poor harvests, a farming district received sixty imported tractors through an international assistance programme.",
+          "translation": "在连续三个收成不佳的季节后，一个农业地区通过国际援助计划获得了六十台进口拖拉机。"
+        },
+        {
+          "text": "Photographs of the handover showed polished machines lined beside the provincial office.",
+          "translation": "交接照片中，锃亮的机器整齐排列在省政府办公室旁。"
+        },
+        {
+          "text": "The aim was reasonable: faster land preparation would allow farmers to plant during a shorter rainy season.",
+          "translation": "目标很合理：更快整地可以让农民在较短的雨季及时播种。"
+        },
+        {
+          "text": "Within eighteen months, however, fewer than half the tractors were operating regularly.",
+          "translation": "然而，十八个月内，定期运转的拖拉机已不足一半。"
+        }
+      ],
+      [
+        {
+          "text": "An evaluation found no single dramatic failure.",
+          "translation": "评估没有发现某一个严重故障。"
+        },
+        {
+          "text": "The machines were designed for larger fields than the narrow local plots, fuel had to be purchased in a town two hours away, and one specialised filter was unavailable nationally.",
+          "translation": "这些机器是为比当地狭窄地块更大的农田设计的，燃油必须到两小时车程外的城镇购买，而且一种专用滤芯在全国都买不到。"
+        },
+        {
+          "text": "Training had been given to drivers but not to mechanics.",
+          "translation": "培训只提供给驾驶员，没有提供给维修人员。"
+        },
+        {
+          "text": "Moreover, the tractors were assigned to village committees without a clear agreement about booking, fees or responsibility for damage.",
+          "translation": "此外，拖拉机分配给村委会时，并未明确约定预约、收费或损坏责任。"
+        },
+        {
+          "text": "Each obstacle was manageable; together they made use unreliable.",
+          "translation": "每项障碍单独看都可以处理，但合在一起就使使用变得不可靠。"
+        }
+      ],
+      [
+        {
+          "text": "A second programme began with the same agricultural goal but a different question: what prevented timely planting?",
+          "translation": "第二个项目以同一个农业目标为起点，却提出了不同的问题：是什么阻碍了及时播种？"
+        },
+        {
+          "text": "Farmers identified several answers, including labour peaks, broken animal-drawn ploughs and lack of short-term credit.",
+          "translation": "农民给出了几种答案，包括农忙期劳动力紧张、畜力犁损坏以及缺少短期信贷。"
+        },
+        {
+          "text": "Instead of distributing one technology, the programme funded local repair shops, tested several smaller machines and created a rental service managed by an existing cooperative.",
+          "translation": "项目没有发放单一技术，而是资助本地维修店、测试几种较小的机器，并建立由现有合作社管理的租赁服务。"
+        },
+        {
+          "text": "During the first year, only twelve machines were available, yet they completed more field days than the original fleet.",
+          "translation": "第一年虽然只有十二台机器可用，但它们完成的田间作业天数超过了原来的整支车队。"
+        }
+      ],
+      [
+        {
+          "text": "The comparison does not prove that imported equipment is always unsuitable.",
+          "translation": "这一比较并不能证明进口设备总是不合适。"
+        },
+        {
+          "text": "Some components still came from abroad, and larger farms used the earlier tractors successfully once spare parts arrived.",
+          "translation": "一些零部件仍来自国外，而较大农场在零件到货后也成功使用了早期拖拉机。"
+        },
+        {
+          "text": "The important difference was institutional rather than national:",
+          "translation": "关键差异在于制度而非国别："
+        },
+        {
+          "text": "the later scheme financed maintenance, clarified access and allowed several tools to address several constraints.",
+          "translation": "后来的方案为维护提供资金、明确使用方式，并允许多种工具应对多种限制。"
+        }
+      ],
+      [
+        {
+          "text": "Aid is often evaluated by what can be counted at delivery—a sum transferred, a well opened or a machine handed over.",
+          "translation": "援助常通过交付时可统计的内容来评估——转入多少资金、新投入使用多少口水井，或交付多少台机器。"
+        },
+        {
+          "text": "These figures demonstrate activity, but continued use reveals whether activity became capacity.",
+          "translation": "这些数字表明开展了活动，但持续使用才能揭示活动是否转化为能力。"
+        },
+        {
+          "text": "In the farming district, the quieter investment in repair skills produced fewer ceremonial photographs and more reliable planting days.",
+          "translation": "在这个农业地区，对维修技能的低调投资带来的仪式照片更少，却带来了更可靠的播种作业日。"
+        }
+      ]
     ]
   }
 }

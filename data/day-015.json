@@ -153,7 +153,8 @@
         "home town",
         "place of origin"
       ],
-      "note": "place of origin 较正式，不一定有情感含义。"
+      "note": "place of origin 较正式，不一定有情感含义。",
+      "translation": "故乡可以表达为我长大的地方、故乡、出生地。"
     },
     {
       "base": "local people",
@@ -162,7 +163,8 @@
         "the local community",
         "people living in the area"
       ],
-      "note": "residents 是正式高频词。"
+      "note": "residents 是正式高频词。",
+      "translation": "local people 可以表达为“当地居民”“本地社区”或“居住在该地区的人”。"
     },
     {
       "base": "changed a lot",
@@ -171,7 +173,8 @@
         "undergone major change",
         "been transformed"
       ],
-      "note": "transformed 表示变化幅度大。"
+      "note": "transformed 表示变化幅度大。",
+      "translation": "变化很多可以表达为发展迅速、发生重大变化、被改造。"
     },
     {
       "base": "famous place",
@@ -180,7 +183,8 @@
         "well-known site",
         "local attraction"
       ],
-      "note": "landmark 也可作为辨识地点的标志。"
+      "note": "landmark 也可作为辨识地点的标志。",
+      "translation": "著名的地方可以表示为地标、著名景点、当地景点。"
     },
     {
       "base": "quiet",
@@ -189,7 +193,8 @@
         "relatively calm",
         "free from heavy traffic"
       ],
-      "note": "根据具体安静来源选择。"
+      "note": "根据具体安静来源选择。",
+      "translation": "安静可以表达平静、相对平静、没有拥挤的交通。"
     },
     {
       "base": "city edge",
@@ -198,7 +203,8 @@
         "urban fringe",
         "edge of town"
       ],
-      "note": "outskirts 通常用复数。"
+      "note": "outskirts 通常用复数。",
+      "translation": "城市边缘可以表示为郊区、城市边缘、城镇边缘。"
     },
     {
       "base": "feel connected",
@@ -207,7 +213,8 @@
         "identify with the place",
         "feel rooted"
       ],
-      "note": "feel rooted 强调长期归属。"
+      "note": "feel rooted 强调长期归属。",
+      "translation": "感觉有联系可以表达为有归属感、认同这个地方、感觉扎根。"
     },
     {
       "base": "old buildings",
@@ -216,51 +223,60 @@
         "built heritage",
         "traditional architecture"
       ],
-      "note": "built heritage 是较正式集合概念。"
+      "note": "built heritage 是较正式集合概念。",
+      "translation": "旧建筑可以表述为历史建筑、遗产建筑、传统建筑。"
     }
   ],
   "sentences": [
     {
       "pattern": "What has changed most in my hometown is + noun.",
       "cn": "我的家乡变化最大的是……",
-      "example": "What has changed most in my hometown is the public transport system."
+      "example": "What has changed most in my hometown is the public transport system.",
+      "exampleTranslation": "我家乡变化最大的是公共交通系统。"
     },
     {
       "pattern": "Despite + development, the town has managed to retain + noun.",
       "cn": "尽管经历发展，这座城镇仍保留了……",
-      "example": "Despite rapid development, the town has managed to retain its traditional market."
+      "example": "Despite rapid development, the town has managed to retain its traditional market.",
+      "exampleTranslation": "尽管发展迅速，该镇仍设法保留了其传统市场。"
     },
     {
       "pattern": "People who grow up in + place + often associate it with + memory.",
       "cn": "在某地长大的人常把它与某种记忆联系起来。",
-      "example": "People who grow up near the sea often associate their hometown with the sound of waves."
+      "example": "People who grow up near the sea often associate their hometown with the sound of waves.",
+      "exampleTranslation": "在海边长大的人，常常将家乡与海浪声联系起来。"
     }
   ],
   "expressions": [
     {
       "text": "the place where I grew up",
       "cn": "我长大的地方",
-      "example": "It’s the place where I grew up, so I know it extremely well."
+      "example": "It’s the place where I grew up, so I know it extremely well.",
+      "exampleTranslation": "这是我长大的地方，所以我非常了解它。"
     },
     {
       "text": "know the area like the back of my hand",
       "cn": "对这个地方了如指掌",
-      "example": "I know the old town like the back of my hand."
+      "example": "I know the old town like the back of my hand.",
+      "exampleTranslation": "我对老城区了如指掌。"
     },
     {
       "text": "a strong sense of belonging",
       "cn": "强烈归属感",
-      "example": "The local festival gives residents a strong sense of belonging."
+      "example": "The local festival gives residents a strong sense of belonging.",
+      "exampleTranslation": "当地的节日给居民带来强烈的归属感。"
     },
     {
       "text": "have changed beyond recognition",
       "cn": "变化大到认不出来",
-      "example": "Some streets have changed beyond recognition."
+      "example": "Some streets have changed beyond recognition.",
+      "exampleTranslation": "有些街道已经面目全非。"
     },
     {
       "text": "retain its character",
       "cn": "保留自身特色",
-      "example": "The centre has modern shops but still retains its character."
+      "example": "The centre has modern shops but still retains its character.",
+      "exampleTranslation": "该中心拥有现代化的商店，但仍保留其特色。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "attract responsible tourism",
         "support local businesses"
       ],
-      "argument": "Generic shopping centres and apartment blocks can provide services, but they may make different towns look identical. Historic streets, markets and traditional industries give residents a shared reference point and attract visitors seeking a real local experience. Preservation does not require freezing every building in time. Old structures can be adapted for new uses while important features remain. Development should add opportunity without removing the qualities that make a place recognisable."
+      "argument": "Generic shopping centres and apartment blocks can provide services, but they may make different towns look identical. Historic streets, markets and traditional industries give residents a shared reference point and attract visitors seeking a real local experience. Preservation does not require freezing every building in time. Old structures can be adapted for new uses while important features remain. Development should add opportunity without removing the qualities that make a place recognisable.",
+      "viewpointTranslation": "家乡发展要保持鲜明的地方特色。",
+      "topicSentenceTranslation": "当经济增长加强而不是消除当地特色时，经济增长就更具可持续性。",
+      "collocationTranslations": [
+        "保护当地遗产",
+        "保留历史建筑",
+        "吸引负责任的旅游业",
+        "支持当地企业"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Generic shopping centres and apartment blocks can provide services, but they may make different towns look identical.",
+          "translation": "普通的购物中心和公寓楼可以提供服务，但它们可能使不同的城镇看起来相同。"
+        },
+        {
+          "text": "Historic streets, markets and traditional industries give residents a shared reference point and attract visitors seeking a real local experience.",
+          "translation": "历史悠久的街道、市场和传统产业为居民提供了共同的参考点，并吸引了寻求真正当地体验的游客。"
+        },
+        {
+          "text": "Preservation does not require freezing every building in time.",
+          "translation": "保存并不需要及时冻结每座建筑物。"
+        },
+        {
+          "text": "Old structures can be adapted for new uses while important features remain.",
+          "translation": "旧结构可以适应新用途，同时保留重要特征。"
+        },
+        {
+          "text": "Development should add opportunity without removing the qualities that make a place recognisable.",
+          "translation": "发展应该增加机会，同时又不消除使一个地方具有辨识度的品质。"
+        }
+      ]
     },
     {
       "viewpoint": "Smaller towns need opportunities for young adults.",
@@ -301,19 +347,87 @@
         "support local enterprise",
         "revitalise the town centre"
       ],
-      "argument": "Migration to large cities can improve individual careers, yet it also reduces the working-age population of smaller towns. Local businesses lose customers and public services become harder to sustain. Investment in reliable internet, training and small enterprises can support a wider range of jobs. Not every graduate will stay, nor should they be forced to. The aim is to make remaining or returning a realistic choice."
+      "argument": "Migration to large cities can improve individual careers, yet it also reduces the working-age population of smaller towns. Local businesses lose customers and public services become harder to sustain. Investment in reliable internet, training and small enterprises can support a wider range of jobs. Not every graduate will stay, nor should they be forced to. The aim is to make remaining or returning a realistic choice.",
+      "viewpointTranslation": "小城镇需要为年轻人提供机会。",
+      "topicSentenceTranslation": "如果大多数年轻居民必须永久外出工作，家乡就无法保持社会平衡。",
+      "collocationTranslations": [
+        "创造熟练就业",
+        "留住年轻居民",
+        "支持本地企业",
+        "振兴市中心"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Migration to large cities can improve individual careers, yet it also reduces the working-age population of smaller towns.",
+          "translation": "移民到大城市可以改善个人职业生涯，但也会减少小城镇的工作年龄人口。"
+        },
+        {
+          "text": "Local businesses lose customers and public services become harder to sustain.",
+          "translation": "当地企业失去客户，公共服务变得更难以维持。"
+        },
+        {
+          "text": "Investment in reliable internet, training and small enterprises can support a wider range of jobs.",
+          "translation": "对可靠的互联网、培训和小型企业的投资可以支持更广泛的就业机会。"
+        },
+        {
+          "text": "Not every graduate will stay, nor should they be forced to.",
+          "translation": "并不是每个毕业生都会留下来，也不应该强迫他们留下来。"
+        },
+        {
+          "text": "The aim is to make remaining or returning a realistic choice.",
+          "translation": "目的是使留下或返回成为现实的选择。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What do you like most about your hometown?",
-      "answer": "I like its scale. It’s large enough to have good cafés, schools and public transport, but small enough that journeys rarely take more than half an hour. There’s also a river path through the centre, which gives people somewhere to walk away from traffic. That combination makes everyday life convenient without feeling too crowded."
+      "answer": "I like its scale. It’s large enough to have good cafés, schools and public transport, but small enough that journeys rarely take more than half an hour. There’s also a river path through the centre, which gives people somewhere to walk away from traffic. That combination makes everyday life convenient without feeling too crowded.",
+      "questionTranslation": "你最喜欢家乡的什么？",
+      "answerSentences": [
+        {
+          "text": "I like its scale.",
+          "translation": "我喜欢它的规模。"
+        },
+        {
+          "text": "It’s large enough to have good cafés, schools and public transport, but small enough that journeys rarely take more than half an hour.",
+          "translation": "它足够大，拥有良好的咖啡馆、学校和公共交通，但又足够小，旅程很少会超过半小时。"
+        },
+        {
+          "text": "There’s also a river path through the centre, which gives people somewhere to walk away from traffic.",
+          "translation": "还有一条穿过市中心的河道，为人们提供了远离交通的地方。"
+        },
+        {
+          "text": "That combination makes everyday life convenient without feeling too crowded.",
+          "translation": "这种组合使日常生活变得方便，而又不会感到太拥挤。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Has your hometown changed since you were a child?",
-      "answer": "Yes, mainly around the edges. New apartment blocks and a shopping area have replaced fields where we used to cycle. The transport system is better, and there are more jobs, so the change isn’t entirely negative. Still, I miss a few independent shops in the old centre that disappeared when rents increased."
+      "answer": "Yes, mainly around the edges. New apartment blocks and a shopping area have replaced fields where we used to cycle. The transport system is better, and there are more jobs, so the change isn’t entirely negative. Still, I miss a few independent shops in the old centre that disappeared when rents increased.",
+      "questionTranslation": "你的家乡从小到大有变化吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, mainly around the edges.",
+          "translation": "有变化，主要发生在城市边缘地区。"
+        },
+        {
+          "text": "New apartment blocks and a shopping area have replaced fields where we used to cycle.",
+          "translation": "新的公寓楼和购物区取代了我们过去骑自行车的地方。"
+        },
+        {
+          "text": "The transport system is better, and there are more jobs, so the change isn’t entirely negative.",
+          "translation": "交通系统更好了，就业机会也更多了，所以这种变化并不完全是负面的。"
+        },
+        {
+          "text": "Still, I miss a few independent shops in the old centre that disappeared when rents increased.",
+          "translation": "尽管如此，我还是怀念老城区的一些独立商店，它们随着租金上涨而消失了。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,103 @@
         "answer": "stories",
         "explanation": "The answer appears in Paragraph 3."
       }
+    ],
+    "titleTranslation": "当工厂小镇找到新目标时",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Many towns grew around a single industry: mining, textiles, shipbuilding or metal production.",
+          "translation": "许多城镇都是围绕单一行业发展的：采矿、纺织、造船或金属生产。"
+        },
+        {
+          "text": "Housing, transport and social life developed around the major employer.",
+          "translation": "住房、交通和社会生活围绕主要雇主发展。"
+        },
+        {
+          "text": "When that industry declined, the loss was larger than the number of jobs.",
+          "translation": "当该行业衰退时，损失比就业岗位的数量还多。"
+        },
+        {
+          "text": "Shops lost customers, young workers moved away and buildings designed for production became empty reminders of a more confident period.",
+          "translation": "商店失去了顾客，年轻工人搬走了，专为生产而设计的建筑变得空荡荡，提醒着人们更加自信的时期。"
+        }
+      ],
+      [
+        {
+          "text": "Early regeneration plans often tried to attract another large employer.",
+          "translation": "早期的重建计划常常试图吸引另一个大雇主。"
+        },
+        {
+          "text": "Success was limited because modern firms required different skills and fewer workers.",
+          "translation": "成功是有限的，因为现代企业需要不同的技能和更少的工人。"
+        },
+        {
+          "text": "Later approaches treated the industrial landscape itself as an asset.",
+          "translation": "后来的方法将工业景观本身视为一种资产。"
+        },
+        {
+          "text": "Warehouses became studios, markets or training centres, while machinery and workers’ stories formed the basis of museums.",
+          "translation": "仓库变成了工作室、市场或培训中心，而机械和工人的故事构成了博物馆的基础。"
+        },
+        {
+          "text": "Such projects could preserve identity while giving neglected spaces a practical use.",
+          "translation": "此类项目可以保留身份，同时赋予被忽视的空间实际用途。"
+        }
+      ],
+      [
+        {
+          "text": "Cultural regeneration is not a guaranteed solution.",
+          "translation": "文化复兴并不是一个有保证的解决方案。"
+        },
+        {
+          "text": "A renovated district may attract visitors but create mainly temporary service work.",
+          "translation": "改造后的地区可能会吸引游客，但主要创造临时服务工作。"
+        },
+        {
+          "text": "Rising property prices can also push out residents whose families built the town’s industrial history.",
+          "translation": "不断上涨的房价也会将那些为该镇创造了工业历史的家庭的居民赶出家门。"
+        },
+        {
+          "text": "Projects are more credible when local people help decide which stories are told and when training links new activity to stable employment.",
+          "translation": "当当地人帮助决定讲述哪些故事以及培训将新活动与稳定就业联系起来时，项目就会更加可信。"
+        }
+      ],
+      [
+        {
+          "text": "A town cannot live entirely through memory, yet ignoring the past may weaken the sense of continuity needed for change.",
+          "translation": "一个城镇不能完全靠记忆而生存，但忽视过去可能会削弱变革所需的连续性。"
+        },
+        {
+          "text": "The most successful transitions combine preservation with new skills, transport and housing.",
+          "translation": "最成功的转型将保护与新技能、交通和住房结合起来。"
+        },
+        {
+          "text": "An old factory can become a symbol of failure or a resource for a different economy.",
+          "translation": "一座旧工厂可能成为失败的象征或不同经济体的资源。"
+        },
+        {
+          "text": "The outcome depends less on the building itself than on whether regeneration creates a place local residents can still recognise and afford to inhabit.",
+          "translation": "结果与其说取决于建筑本身，不如说取决于重建是否能创造一个当地居民仍能认可并负担得起的居住地。"
+        }
+      ],
+      [
+        {
+          "text": "Regeneration also needs patience.",
+          "translation": "再生也需要耐心。"
+        },
+        {
+          "text": "Restoring a building can be completed within a few years, whereas rebuilding skills, businesses and confidence may take a generation.",
+          "translation": "修复建筑物可以在几年内完成，而重建技能、业务和信心可能需要一代人的时间。"
+        },
+        {
+          "text": "Short funding cycles encourage visible construction because it is easy to photograph and count.",
+          "translation": "较短的融资周期鼓励可见的建设，因为它很容易拍照和计数。"
+        },
+        {
+          "text": "Less visible work—training apprentices, supporting local suppliers and maintaining affordable premises—often determines whether the physical investment produces a durable economy.",
+          "translation": "不太明显的工作——培训学徒、支持当地供应商和维护经济适用房——通常决定实体投资能否产生持久的经济。"
+        }
+      ]
     ]
   }
 }

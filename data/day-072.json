@@ -153,7 +153,8 @@
         "an insufficient supply",
         "limited water availability"
       ],
-      "note": "availability 强调可获得的水量。"
+      "note": "availability 强调可获得的水量。",
+      "translation": "水资源不足"
     },
     {
       "base": "use less water",
@@ -162,7 +163,8 @@
         "conserve water",
         "curb demand"
       ],
-      "note": "curb demand 常用于政策层面的需求管理。"
+      "note": "curb demand 常用于政策层面的需求管理。",
+      "translation": "减少用水"
     },
     {
       "base": "dirty water",
@@ -171,7 +173,8 @@
         "unsafe water",
         "polluted supplies"
       ],
-      "note": "unsafe 强调不适合饮用或使用。"
+      "note": "unsafe 强调不适合饮用或使用。",
+      "translation": "受污染的水"
     },
     {
       "base": "water below the ground",
@@ -180,7 +183,8 @@
         "subsurface water",
         "water held in an aquifer"
       ],
-      "note": "aquifer 是储存和传导地下水的地层。"
+      "note": "aquifer 是储存和传导地下水的地层。",
+      "translation": "地下水"
     },
     {
       "base": "share water fairly",
@@ -189,7 +193,8 @@
         "balance competing demands",
         "ensure fair access to water"
       ],
-      "note": "balance competing demands 适合农业、城市与生态比较。"
+      "note": "balance competing demands 适合农业、城市与生态比较。",
+      "translation": "公平分配水资源"
     },
     {
       "base": "collect rain",
@@ -198,7 +203,8 @@
         "capture stormwater",
         "store rainfall"
       ],
-      "note": "harvest rainwater 是常见可持续用水搭配。"
+      "note": "harvest rainwater 是常见可持续用水搭配。",
+      "translation": "收集雨水"
     },
     {
       "base": "old pipes lose water",
@@ -207,7 +213,8 @@
         "distribution systems waste water",
         "pipe leakage reduces supply"
       ],
-      "note": "distribution system 指从水源到用户的输水网络。"
+      "note": "distribution system 指从水源到用户的输水网络。",
+      "translation": "老旧管道漏水"
     },
     {
       "base": "a long dry period",
@@ -216,51 +223,60 @@
         "an extended absence of rain",
         "persistent dry conditions"
       ],
-      "note": "persistent 强调情况持续不退。"
+      "note": "persistent 强调情况持续不退。",
+      "translation": "长期干旱"
     }
   ],
   "sentences": [
     {
       "pattern": "Although + a region + receives + substantial rainfall, only a fraction of it can be + stored and used safely.",
       "cn": "虽然某地区具备某种降雨条件，但其中只有一部分能够被有效利用。",
-      "example": "Although the city receives heavy seasonal rain, only a fraction of it can be stored for the dry months."
+      "example": "Although the city receives heavy seasonal rain, only a fraction of it can be stored for the dry months.",
+      "exampleTranslation": "虽然这座城市季节性降雨量很大，但只有一小部分能储存起来供旱季使用。"
     },
     {
       "pattern": "Water saved through + repairing leaks + can be used to + meet essential demand, reducing the need to + develop an expensive new supply.",
       "cn": "通过某项干预节省的水可以用于其他用途，从而减少采取高成本措施的需要。",
-      "example": "Water saved through leak repair can be used to meet household demand, reducing the need to develop a distant reservoir."
+      "example": "Water saved through leak repair can be used to meet household demand, reducing the need to develop a distant reservoir.",
+      "exampleTranslation": "修复漏水所节省的水可以用于满足家庭需求，从而减少开发远处水库的必要性。"
     },
     {
       "pattern": "Because an aquifer may extend beneath + several regions or countries, extraction by one area can + reduce water available elsewhere.",
       "cn": "由于含水层可能横跨多个行政区域，一地的开采会造成跨区域后果。",
-      "example": "Because an aquifer may extend beneath several provinces, extraction by one area can lower wells across an administrative boundary."
+      "example": "Because an aquifer may extend beneath several provinces, extraction by one area can lower wells across an administrative boundary.",
+      "exampleTranslation": "由于含水层可能横跨多个省份，一个地区取水可能导致行政边界另一侧的水井水位下降。"
     }
   ],
   "expressions": [
     {
       "text": "every drop counts",
       "cn": "每一滴水都很重要",
-      "example": "During a severe drought, every drop counts."
+      "example": "During a severe drought, every drop counts.",
+      "exampleTranslation": "严重干旱期间，每一滴水都很重要。"
     },
     {
       "text": "a drop in the ocean",
       "cn": "杯水车薪",
-      "example": "One repaired tap is a drop in the ocean if the main pipe is leaking."
+      "example": "One repaired tap is a drop in the ocean if the main pipe is leaking.",
+      "exampleTranslation": "如果主管道正在漏水，修好一个水龙头也只是杯水车薪。"
     },
     {
       "text": "weather a dry spell",
       "cn": "度过一段少雨期",
-      "example": "Stored rainwater helps gardens weather a dry spell."
+      "example": "Stored rainwater helps gardens weather a dry spell.",
+      "exampleTranslation": "储存的雨水可以帮助花园熬过一段干旱期。"
     },
     {
       "text": "manage water sustainably",
       "cn": "可持续管理水资源",
-      "example": "Cities must manage water sustainably across wet and dry years."
+      "example": "Cities must manage water sustainably across wet and dry years.",
+      "exampleTranslation": "城市必须在丰水年和枯水年都以可持续方式管理水资源。"
     },
     {
       "text": "ease pressure on freshwater supplies",
       "cn": "缓解淡水供应压力",
-      "example": "Reusing treated water can ease pressure on freshwater supplies."
+      "example": "Reusing treated water can ease pressure on freshwater supplies.",
+      "exampleTranslation": "再利用处理后的水可以减轻淡水供应压力。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "reduce non-revenue water",
         "build public cooperation"
       ],
-      "argument": "Households can shorten showers, but a cracked main may lose more water each hour than many families save in a day. If utilities ignore visible leakage while warning residents, conservation begins to look like an unfair transfer of responsibility. Pressure monitoring and targeted pipe replacement can recover supply and reduce treatment costs, although they require upfront investment. Publishing leakage rates also shows consumers that the provider is meeting deadlines as well as issuing advice. Once institutional waste is addressed, temporary household restrictions are more likely to receive cooperation during drought."
+      "argument": "Households can shorten showers, but a cracked main may lose more water each hour than many families save in a day. If utilities ignore visible leakage while warning residents, conservation begins to look like an unfair transfer of responsibility. Pressure monitoring and targeted pipe replacement can recover supply and reduce treatment costs, although they require upfront investment. Publishing leakage rates also shows consumers that the provider is meeting deadlines as well as issuing advice. Once institutional waste is addressed, temporary household restrictions are more likely to receive cooperation during drought.",
+      "viewpointTranslation": "公用事业机构应先维修管网，再要求家庭作出牺牲。",
+      "topicSentenceTranslation": "只有供水机构先解决自身能够控制的损耗，节水宣传才更具可信度。",
+      "collocationTranslations": [
+        "发现隐蔽漏点",
+        "更换老化管道",
+        "减少无收益水量",
+        "争取公众配合"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Households can shorten showers, but a cracked main may lose more water each hour than many families save in a day.",
+          "translation": "家庭可以缩短淋浴时间，但一条破裂的主管道每小时损失的水量，可能比许多家庭一天节省的还多。"
+        },
+        {
+          "text": "If utilities ignore visible leakage while warning residents, conservation begins to look like an unfair transfer of responsibility.",
+          "translation": "如果公用事业机构一边无视明显漏水，一边警告居民，节水就会显得是在不公平地转移责任。"
+        },
+        {
+          "text": "Pressure monitoring and targeted pipe replacement can recover supply and reduce treatment costs, although they require upfront investment.",
+          "translation": "压力监测和有针对性的管道更换可以挽回供水并降低处理成本，尽管需要前期投资。"
+        },
+        {
+          "text": "Publishing leakage rates also shows consumers that the provider is meeting deadlines as well as issuing advice.",
+          "translation": "公布漏损率也能表明，供水机构不只是提出建议，也在按期完成任务。"
+        },
+        {
+          "text": "Once institutional waste is addressed, temporary household restrictions are more likely to receive cooperation during drought.",
+          "translation": "机构浪费得到解决后，干旱期间的临时家庭用水限制更有可能获得配合。"
+        }
+      ],
+      "translation": "家庭可以缩短淋浴时间，但一条破裂的主管道每小时损失的水量，可能比许多家庭一天节省的还多。如果公用事业机构一边无视明显漏水，一边警告居民，节水就会显得是在不公平地转移责任。压力监测和有针对性的管道更换可以挽回供水并降低处理成本，尽管需要前期投资。公布漏损率也能表明，供水机构不只是提出建议，也在按期完成任务。机构浪费得到解决后，干旱期间的临时家庭用水限制更有可能获得配合。"
     },
     {
       "viewpoint": "Scarcity should be managed through priorities as well as price.",
@@ -301,19 +348,102 @@
         "protect basic household needs",
         "signal the cost of scarcity"
       ],
-      "argument": "A uniform low price gives heavy users little reason to conserve, whereas a steep price can force poor households to reduce hygiene or cooking. A tiered tariff offers one response: a basic quantity is affordable, while unusually high consumption costs progressively more. This comparison distinguishes a necessary bucket of water from a private swimming pool without declaring either use invisible. Meter accuracy and assistance for large low-income households are essential to prevent unfair bills. Price can signal scarcity, but public rules must decide which needs receive protection."
+      "argument": "A uniform low price gives heavy users little reason to conserve, whereas a steep price can force poor households to reduce hygiene or cooking. A tiered tariff offers one response: a basic quantity is affordable, while unusually high consumption costs progressively more. This comparison distinguishes a necessary bucket of water from a private swimming pool without declaring either use invisible. Meter accuracy and assistance for large low-income households are essential to prevent unfair bills. Price can signal scarcity, but public rules must decide which needs receive protection.",
+      "viewpointTranslation": "水资源短缺既应通过价格管理，也应依据需求优先级管理。",
+      "topicSentenceTranslation": "水价可以抑制浪费，但基本用水不应完全取决于支付能力。",
+      "collocationTranslations": [
+        "设定基本用水优惠价",
+        "抑制过度用水",
+        "保障家庭基本需求",
+        "反映水资源稀缺成本"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A uniform low price gives heavy users little reason to conserve, whereas a steep price can force poor households to reduce hygiene or cooking.",
+          "translation": "统一的低水价不会给大量用水者多少节水动力，而过高水价可能迫使贫困家庭减少卫生或烹饪用水。"
+        },
+        {
+          "text": "A tiered tariff offers one response: a basic quantity is affordable, while unusually high consumption costs progressively more.",
+          "translation": "阶梯水价提供了一种解决办法：基本用量价格可负担，而异常高的用量价格逐级上升。"
+        },
+        {
+          "text": "This comparison distinguishes a necessary bucket of water from a private swimming pool without declaring either use invisible.",
+          "translation": "这种比较可以区分一桶必需用水和私人游泳池用水，而不必假装任何一种用途不存在。"
+        },
+        {
+          "text": "Meter accuracy and assistance for large low-income households are essential to prevent unfair bills.",
+          "translation": "准确的水表以及对低收入大家庭的援助，是避免不公平账单的关键。"
+        },
+        {
+          "text": "Price can signal scarcity, but public rules must decide which needs receive protection.",
+          "translation": "价格可以传递稀缺信号，但哪些需求应受保护必须由公共规则决定。"
+        }
+      ],
+      "translation": "统一的低水价不会给大量用水者多少节水动力，而过高水价可能迫使贫困家庭减少卫生或烹饪用水。阶梯水价提供了一种解决办法：基本用量价格可负担，而异常高的用量价格逐级上升。这种比较可以区分一桶必需用水和私人游泳池用水，而不必假装任何一种用途不存在。准确的水表以及对低收入大家庭的援助，是避免不公平账单的关键。价格可以传递稀缺信号，但哪些需求应受保护必须由公共规则决定。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe something you do to avoid wasting water.",
-      "answer": "One simple thing I do is keep a bottle beside the kitchen sink and fill it while I’m waiting for the tap water to become warm. I use that water later for plants or cleaning instead of letting it disappear down the drain. I started doing this during a particularly dry summer when the local authority asked residents to reduce unnecessary use. It does not require any special equipment, and after a week it became automatic. I know the amount is modest compared with industrial or agricultural demand, but it made me notice other habits, such as running a half-empty washing machine. The useful part is not feeling virtuous; it is turning a repeated waste into a practical resource."
+      "answer": "One simple thing I do is keep a bottle beside the kitchen sink and fill it while I’m waiting for the tap water to become warm. I use that water later for plants or cleaning instead of letting it disappear down the drain. I started doing this during a particularly dry summer when the local authority asked residents to reduce unnecessary use. It does not require any special equipment, and after a week it became automatic. I know the amount is modest compared with industrial or agricultural demand, but it made me notice other habits, such as running a half-empty washing machine. The useful part is not feeling virtuous; it is turning a repeated waste into a practical resource.",
+      "questionTranslation": "描述一件你为避免浪费水而做的事。",
+      "answerSentences": [
+        {
+          "text": "One simple thing I do is keep a bottle beside the kitchen sink and fill it while I’m waiting for the tap water to become warm.",
+          "translation": "我做的一件简单事情是在厨房水槽旁放一个瓶子，等待水龙头流出热水时就用它接水。"
+        },
+        {
+          "text": "I use that water later for plants or cleaning instead of letting it disappear down the drain.",
+          "translation": "之后我会用这些水浇花或清洁，而不是让它白白流进下水道。"
+        },
+        {
+          "text": "I started doing this during a particularly dry summer when the local authority asked residents to reduce unnecessary use.",
+          "translation": "我是在一个特别干旱的夏天开始这样做的，当时地方政府要求居民减少不必要的用水。"
+        },
+        {
+          "text": "It does not require any special equipment, and after a week it became automatic.",
+          "translation": "这不需要任何特殊设备，而且一周后就成了自然而然的习惯。"
+        },
+        {
+          "text": "I know the amount is modest compared with industrial or agricultural demand, but it made me notice other habits, such as running a half-empty washing machine.",
+          "translation": "我知道与工业或农业用水相比，这点水量很有限，但它让我开始留意其他习惯，例如洗衣机没有装满就运行。"
+        },
+        {
+          "text": "The useful part is not feeling virtuous; it is turning a repeated waste into a practical resource.",
+          "translation": "真正有用的地方不是让我觉得自己多么高尚，而是把反复发生的浪费变成可利用的资源。"
+        }
+      ],
+      "translation": "我做的一件简单事情是在厨房水槽旁放一个瓶子，等待水龙头流出热水时就用它接水。之后我会用这些水浇花或清洁，而不是让它白白流进下水道。我是在一个特别干旱的夏天开始这样做的，当时地方政府要求居民减少不必要的用水。这不需要任何特殊设备，而且一周后就成了自然而然的习惯。我知道与工业或农业用水相比，这点水量很有限，但它让我开始留意其他习惯，例如洗衣机没有装满就运行。真正有用的地方不是让我觉得自己多么高尚，而是把反复发生的浪费变成可利用的资源。"
     },
     {
       "part": "Part 3",
       "question": "Should water cost more when supplies are limited?",
-      "answer": "Higher prices can discourage luxury use, but a basic supply is essential for health and should remain affordable. I would support a tiered system in which normal household consumption is charged at a modest rate and unusually high use becomes progressively more expensive. That sends a conservation signal without punishing a low-income family for cooking or washing. The system would need accurate meters and adjustments for household size. Authorities should also repair leaks and regulate major users, because asking residents to pay more is difficult to justify if the network itself wastes a large share of treated water."
+      "answer": "Higher prices can discourage luxury use, but a basic supply is essential for health and should remain affordable. I would support a tiered system in which normal household consumption is charged at a modest rate and unusually high use becomes progressively more expensive. That sends a conservation signal without punishing a low-income family for cooking or washing. The system would need accurate meters and adjustments for household size. Authorities should also repair leaks and regulate major users, because asking residents to pay more is difficult to justify if the network itself wastes a large share of treated water.",
+      "questionTranslation": "供水有限时，水价是否应该提高？",
+      "answerSentences": [
+        {
+          "text": "Higher prices can discourage luxury use, but a basic supply is essential for health and should remain affordable.",
+          "translation": "提高价格可以抑制奢侈性用水，但基本供水对健康至关重要，应保持在可负担范围内。"
+        },
+        {
+          "text": "I would support a tiered system in which normal household consumption is charged at a modest rate and unusually high use becomes progressively more expensive.",
+          "translation": "我支持阶梯制度，即正常家庭用水按适中费率收费，异常高的用量则逐级提价。"
+        },
+        {
+          "text": "That sends a conservation signal without punishing a low-income family for cooking or washing.",
+          "translation": "这样既传递节水信号，又不会惩罚需要做饭或洗涤的低收入家庭。"
+        },
+        {
+          "text": "The system would need accurate meters and adjustments for household size.",
+          "translation": "该制度需要准确的水表，并根据家庭人数作出调整。"
+        },
+        {
+          "text": "Authorities should also repair leaks and regulate major users, because asking residents to pay more is difficult to justify if the network itself wastes a large share of treated water.",
+          "translation": "有关部门还应修复漏水并监管主要用水者，因为如果管网本身浪费了大量处理后的水，就很难证明要求居民支付更多是合理的。"
+        }
+      ],
+      "translation": "提高价格可以抑制奢侈性用水，但基本供水对健康至关重要，应保持在可负担范围内。我支持阶梯制度，即正常家庭用水按适中费率收费，异常高的用量则逐级提价。这样既传递节水信号，又不会惩罚需要做饭或洗涤的低收入家庭。该制度需要准确的水表，并根据家庭人数作出调整。有关部门还应修复漏水并监管主要用水者，因为如果管网本身浪费了大量处理后的水，就很难证明要求居民支付更多是合理的。"
     }
   ],
   "reading": {
@@ -350,6 +480,118 @@
         "answer": "gauges",
         "explanation": "Paragraph 4 lists river gauges."
       }
+    ],
+    "titleTranslation": "消失在田地下方的河流",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Residents living beside the lower section of the Arven River say it has become seasonal.",
+          "translation": "居住在阿文河下游河段旁的居民说，这条河已经变成季节性河流。"
+        },
+        {
+          "text": "Upstream gauges, however, record only a modest decline in annual flow.",
+          "translation": "然而，上游水文站记录到的年流量下降幅度并不大。"
+        },
+        {
+          "text": "The apparent contradiction is explained partly by what happens beneath irrigated fields: water diverted from the river does not simply vanish after crops use it.",
+          "translation": "这种表面矛盾部分可以由灌溉农田地下发生的情况解释：从河流引走的水并不会在作物使用后完全消失。"
+        },
+        {
+          "text": "Some evaporates, some returns to the channel and some passes through soil to an aquifer, emerging much later—or in a different place.",
+          "translation": "一部分蒸发，一部分回到河道，还有一部分穿过土壤进入含水层，在很久以后——或另一个地点——重新出现。"
+        }
+      ],
+      [
+        {
+          "text": "For decades, planners treated groundwater and river water as separate accounts.",
+          "translation": "数十年来，规划者把地下水和河水视为两个独立账户。"
+        },
+        {
+          "text": "Farmers needed one permit to pump from a well and another to divert from the river.",
+          "translation": "农民从水井抽水需要一种许可证，从河流引水则需要另一种许可证。"
+        },
+        {
+          "text": "Hydrogeologists have since shown that the two sources are closely connected.",
+          "translation": "此后，水文地质学家证明这两种水源紧密相连。"
+        },
+        {
+          "text": "A powerful well near the channel lowers the underground water table, reducing the groundwater that would otherwise feed the river during dry months.",
+          "translation": "河道附近的大功率水井会降低地下水位，从而减少原本会在旱季补给河流的地下水。"
+        },
+        {
+          "text": "The effect may take years to appear, by which time several permits have been issued and no single user seems responsible.",
+          "translation": "这种影响可能多年后才显现，而到那时已经发放了多份许可证，似乎没有任何一个使用者应单独负责。"
+        }
+      ],
+      [
+        {
+          "text": "Improved irrigation creates another puzzle.",
+          "translation": "提高灌溉效率又带来了一个难题。"
+        },
+        {
+          "text": "Replacing open channels with sealed pipes reduces leakage and allows a farmer to produce the same crop with less diverted water.",
+          "translation": "用密封管道替代明渠可以减少渗漏，使农民用更少的引水量生产同样的作物。"
+        },
+        {
+          "text": "At field level this is efficient.",
+          "translation": "从田间层面看，这很高效。"
+        },
+        {
+          "text": "Yet part of the former leakage may have recharged the aquifer and eventually returned to the river.",
+          "translation": "然而，以前渗漏的一部分水可能补给了含水层，并最终回到河流。"
+        },
+        {
+          "text": "If the saved allocation is then used to expand irrigated land, total crop consumption can rise while downstream flow falls further.",
+          "translation": "如果节省下来的配额随后用于扩大灌溉面积，作物总耗水量可能增加，而下游流量会进一步下降。"
+        },
+        {
+          "text": "Engineers therefore distinguish water withdrawn from water actually consumed.",
+          "translation": "因此，工程师会区分取出的水与实际消耗的水。"
+        }
+      ],
+      [
+        {
+          "text": "The regional authority is now combining permits within a shared water budget.",
+          "translation": "地区管理机构现在正把各类许可证纳入一个共享用水预算。"
+        },
+        {
+          "text": "Satellite estimates of crop evaporation are compared with well readings and river gauges, while farmers can trade limited allocations.",
+          "translation": "他们把卫星估算的作物蒸发量与水井读数和河流测量数据相比较，同时允许农民交易有限配额。"
+        },
+        {
+          "text": "Environmental groups support the recognition of connected sources but worry that uncertain models may legalise excessive extraction.",
+          "translation": "环保团体支持承认水源之间的联系，但担心不确定的模型可能使过度开采合法化。"
+        },
+        {
+          "text": "Farmers, by contrast, want rules stable enough to plan crops and repay equipment loans.",
+          "translation": "相比之下，农民希望规则足够稳定，以便规划作物种植并偿还设备贷款。"
+        }
+      ],
+      [
+        {
+          "text": "No measurement will account perfectly for every drop moving through rock and soil.",
+          "translation": "任何测量都无法完美核算穿过岩石和土壤的每一滴水。"
+        },
+        {
+          "text": "The practical aim is to make uncertainty visible and adjust the budget when evidence changes.",
+          "translation": "实际目标是让不确定性清晰可见，并在证据发生变化时调整预算。"
+        },
+        {
+          "text": "Managing the river alone produced a reassuring annual figure while its lower reaches dried.",
+          "translation": "只管理河流曾得出一个令人安心的年度数字，河流下游却在干涸。"
+        },
+        {
+          "text": "The new approach asks a harder question: not only how much water enters the system, but where, when and for whom it remains available.",
+          "translation": "新方法提出了一个更难的问题：不仅要问多少水进入系统，还要问这些水在何处、何时以及可供谁使用。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "居住在阿文河下游河段旁的居民说，这条河已经变成季节性河流。然而，上游水文站记录到的年流量下降幅度并不大。这种表面矛盾部分可以由灌溉农田地下发生的情况解释：从河流引走的水并不会在作物使用后完全消失。一部分蒸发，一部分回到河道，还有一部分穿过土壤进入含水层，在很久以后——或另一个地点——重新出现。",
+      "数十年来，规划者把地下水和河水视为两个独立账户。农民从水井抽水需要一种许可证，从河流引水则需要另一种许可证。此后，水文地质学家证明这两种水源紧密相连。河道附近的大功率水井会降低地下水位，从而减少原本会在旱季补给河流的地下水。这种影响可能多年后才显现，而到那时已经发放了多份许可证，似乎没有任何一个使用者应单独负责。",
+      "提高灌溉效率又带来了一个难题。用密封管道替代明渠可以减少渗漏，使农民用更少的引水量生产同样的作物。从田间层面看，这很高效。然而，以前渗漏的一部分水可能补给了含水层，并最终回到河流。如果节省下来的配额随后用于扩大灌溉面积，作物总耗水量可能增加，而下游流量会进一步下降。因此，工程师会区分取出的水与实际消耗的水。",
+      "地区管理机构现在正把各类许可证纳入一个共享用水预算。他们把卫星估算的作物蒸发量与水井读数和河流测量数据相比较，同时允许农民交易有限配额。环保团体支持承认水源之间的联系，但担心不确定的模型可能使过度开采合法化。相比之下，农民希望规则足够稳定，以便规划作物种植并偿还设备贷款。",
+      "任何测量都无法完美核算穿过岩石和土壤的每一滴水。实际目标是让不确定性清晰可见，并在证据发生变化时调整预算。只管理河流曾得出一个令人安心的年度数字，河流下游却在干涸。新方法提出了一个更难的问题：不仅要问多少水进入系统，还要问这些水在何处、何时以及可供谁使用。"
     ]
   }
 }

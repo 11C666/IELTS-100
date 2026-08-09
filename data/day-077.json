@@ -153,7 +153,8 @@
         "reduce one’s everyday footprint",
         "make environmentally responsible choices"
       ],
-      "note": "lower-impact避免声称零影响。"
+      "note": "lower-impact避免声称零影响。",
+      "translation": "以可持续方式生活"
     },
     {
       "base": "buy less",
@@ -162,7 +163,8 @@
         "purchase fewer new goods",
         "avoid unnecessary purchases"
       ],
-      "note": "unnecessary突出不影响必要消费。"
+      "note": "unnecessary突出不影响必要消费。",
+      "translation": "减少购买"
     },
     {
       "base": "green product",
@@ -171,7 +173,8 @@
         "environmentally preferable option",
         "product marketed as sustainable"
       ],
-      "note": "marketed as不等于确实环保。"
+      "note": "marketed as不等于确实环保。",
+      "translation": "环保产品"
     },
     {
       "base": "easy choice",
@@ -180,7 +183,8 @@
         "low-effort alternative",
         "choice built into daily routines"
       ],
-      "note": "built into routines强调系统设计。"
+      "note": "built into routines强调系统设计。",
+      "translation": "容易作出的选择"
     },
     {
       "base": "save energy",
@@ -189,7 +193,8 @@
         "improve energy efficiency",
         "reduce household energy demand"
       ],
-      "note": "efficiency不一定等于总用量下降。"
+      "note": "efficiency不一定等于总用量下降。",
+      "translation": "节约能源"
     },
     {
       "base": "personal action",
@@ -198,7 +203,8 @@
         "household-level change",
         "a consumer’s everyday choices"
       ],
-      "note": "语域从正式到日常。"
+      "note": "语域从正式到日常。",
+      "translation": "个人行动"
     },
     {
       "base": "lasting habit",
@@ -207,7 +213,8 @@
         "a routine that persists",
         "a practice maintained over time"
       ],
-      "note": "persist适合研究描述。"
+      "note": "persist适合研究描述。",
+      "translation": "持久的习惯"
     },
     {
       "base": "tell people the impact",
@@ -216,51 +223,60 @@
         "make consequences visible",
         "communicate the environmental trade-offs"
       ],
-      "note": "trade-offs避免过度简化。"
+      "note": "trade-offs避免过度简化。",
+      "translation": "告诉人们其影响"
     }
   ],
   "sentences": [
     {
       "pattern": "A sustainable choice is more likely to become routine when it is both + convenient + and + affordable.",
       "cn": "当可持续选择同时具备两种实际品质时，它更可能成为日常习惯。",
-      "example": "A sustainable choice is more likely to become routine when it is both affordable and convenient."
+      "example": "A sustainable choice is more likely to become routine when it is both affordable and convenient.",
+      "exampleTranslation": "如果一种可持续选择既负担得起又方便，它更有可能成为日常习惯。"
     },
     {
       "pattern": "Having + tried a lower-impact option + once, a person may continue to + use it + if + the result is practical and visible.",
       "cn": "在尝试过某种行为后，如果获得反馈，人们可能会继续行动。",
-      "example": "Having monitored her electricity use once, a resident may continue to conserve energy if the savings remain visible."
+      "example": "Having monitored her electricity use once, a resident may continue to conserve energy if the savings remain visible.",
+      "exampleTranslation": "居民在监测过一次用电后，如果节省效果持续可见，就可能继续节约能源。"
     },
     {
       "pattern": "The claim that + a product + is greener matters only insofar as + credible evidence supports the comparison.",
       "cn": "声称某产品更环保，只有在证据条件成立时才有意义。",
-      "example": "The claim that a detergent is greener matters only insofar as its full ingredients and packaging are compared."
+      "example": "The claim that a detergent is greener matters only insofar as its full ingredients and packaging are compared.",
+      "exampleTranslation": "只有比较洗涤剂的全部成分和包装，声称它更环保才有意义。"
     }
   ],
   "expressions": [
     {
       "text": "cut back on",
       "cn": "减少",
-      "example": "I am trying to cut back on unnecessary deliveries."
+      "example": "I am trying to cut back on unnecessary deliveries.",
+      "exampleTranslation": "我正努力减少不必要的配送。"
     },
     {
       "text": "get into the habit of",
       "cn": "养成某习惯",
-      "example": "I have got into the habit of carrying a bottle."
+      "example": "I have got into the habit of carrying a bottle.",
+      "exampleTranslation": "我已经养成了随身带水瓶的习惯。"
     },
     {
       "text": "use what I already have",
       "cn": "使用已有物品",
-      "example": "Before shopping, I check whether I can use what I already have."
+      "example": "Before shopping, I check whether I can use what I already have.",
+      "exampleTranslation": "购物前，我会看看能否利用已有物品。"
     },
     {
       "text": "make a lower-impact choice",
       "cn": "作出环境影响较低的选择",
-      "example": "Clear labels help shoppers make a lower-impact choice."
+      "example": "Clear labels help shoppers make a lower-impact choice.",
+      "exampleTranslation": "清晰的标签能帮助消费者选择环境影响较低的产品。"
     },
     {
       "text": "avoid shifting the burden",
       "cn": "避免转移负担",
-      "example": "A policy should avoid shifting the burden to low-income households."
+      "example": "A policy should avoid shifting the burden to low-income households.",
+      "exampleTranslation": "政策应避免把负担转嫁给低收入家庭。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "support lasting habits",
         "provide convenient alternatives"
       ],
-      "argument": "Most people make repeated choices under time and budget pressure rather than after detailed environmental research. If buses are infrequent or refill points are distant, good intentions are unlikely to survive a busy week. By contrast, convenient collection, reliable transport and efficient appliances turn lower-impact behaviour into the easiest routine. Individuals still make choices, but the environment shapes how costly those choices feel. Policy should therefore combine information with practical systems that make sustainable living ordinary."
+      "argument": "Most people make repeated choices under time and budget pressure rather than after detailed environmental research. If buses are infrequent or refill points are distant, good intentions are unlikely to survive a busy week. By contrast, convenient collection, reliable transport and efficient appliances turn lower-impact behaviour into the easiest routine. Individuals still make choices, but the environment shapes how costly those choices feel. Policy should therefore combine information with practical systems that make sustainable living ordinary.",
+      "viewpointTranslation": "当更好的选择更便利时，可持续习惯会得到普及。",
+      "topicSentenceTranslation": "基础设施和产品设计对家庭行为的影响，往往比道德呼吁更加可靠。",
+      "collocationTranslations": [
+        "消除实际障碍",
+        "让默认选择具有可持续性",
+        "支持持久习惯",
+        "提供便利替代方案"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Most people make repeated choices under time and budget pressure rather than after detailed environmental research.",
+          "translation": "大多数人是在时间和预算压力下反复作出选择，而不是先进行详细环境研究。"
+        },
+        {
+          "text": "If buses are infrequent or refill points are distant, good intentions are unlikely to survive a busy week.",
+          "translation": "如果公交班次稀少或补充点很远，再好的意愿也很难撑过繁忙的一周。"
+        },
+        {
+          "text": "By contrast, convenient collection, reliable transport and efficient appliances turn lower-impact behaviour into the easiest routine.",
+          "translation": "相比之下，便利的收集、可靠的交通和高效电器能让影响较低的行为成为最容易坚持的日常习惯。"
+        },
+        {
+          "text": "Individuals still make choices, but the environment shapes how costly those choices feel.",
+          "translation": "个人仍在作选择，但周围环境会影响这些选择让人感到付出多大代价。"
+        },
+        {
+          "text": "Policy should therefore combine information with practical systems that make sustainable living ordinary.",
+          "translation": "因此，政策应把信息与实际系统结合起来，让可持续生活成为普通选择。"
+        }
+      ],
+      "translation": "大多数人是在时间和预算压力下反复作出选择，而不是先进行详细环境研究。如果公交班次稀少或补充点很远，再好的意愿也很难撑过繁忙的一周。相比之下，便利的收集、可靠的交通和高效电器能让影响较低的行为成为最容易坚持的日常习惯。个人仍在作选择，但周围环境会影响这些选择让人感到付出多大代价。因此，政策应把信息与实际系统结合起来，让可持续生活成为普通选择。"
     },
     {
       "viewpoint": "Sustainable consumption can save money, but affordability is not automatic.",
@@ -301,19 +348,102 @@
         "offer targeted assistance",
         "share long-term savings"
       ],
-      "argument": "Using leftovers or buying fewer clothes costs little and may immediately save money. Home insulation and efficient heating, however, require capital even though they reduce future bills. A tenant may also lack authority to improve the building while paying its energy costs. Grants, landlord standards and affordable finance can solve this mismatch more effectively than advising residents to spend wisely. Sustainable living becomes fairer when people can access long-term savings regardless of their initial resources."
+      "argument": "Using leftovers or buying fewer clothes costs little and may immediately save money. Home insulation and efficient heating, however, require capital even though they reduce future bills. A tenant may also lack authority to improve the building while paying its energy costs. Grants, landlord standards and affordable finance can solve this mismatch more effectively than advising residents to spend wisely. Sustainable living becomes fairer when people can access long-term savings regardless of their initial resources.",
+      "viewpointTranslation": "可持续消费可以省钱，但并非人人都能自然负担。",
+      "topicSentenceTranslation": "环境政策应区分低成本习惯与许多家庭无法预先承担的投资。",
+      "collocationTranslations": [
+        "面临前期成本",
+        "降低运行费用",
+        "提供针对性援助",
+        "共享长期节省"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Using leftovers or buying fewer clothes costs little and may immediately save money.",
+          "translation": "利用剩饭或少买衣服几乎不花成本，而且可能立即省钱。"
+        },
+        {
+          "text": "Home insulation and efficient heating, however, require capital even though they reduce future bills.",
+          "translation": "然而，住宅保温和高效供暖虽然能减少未来账单，却需要投入资金。"
+        },
+        {
+          "text": "A tenant may also lack authority to improve the building while paying its energy costs.",
+          "translation": "租户还可能一边承担能源费用，一边无权改善房屋。"
+        },
+        {
+          "text": "Grants, landlord standards and affordable finance can solve this mismatch more effectively than advising residents to spend wisely.",
+          "translation": "补助、房东标准和可负担融资，比建议居民精明消费更能有效解决这种不匹配。"
+        },
+        {
+          "text": "Sustainable living becomes fairer when people can access long-term savings regardless of their initial resources.",
+          "translation": "无论最初资源多少，当人们都能获得长期节省时，可持续生活才会更加公平。"
+        }
+      ],
+      "translation": "利用剩饭或少买衣服几乎不花成本，而且可能立即省钱。然而，住宅保温和高效供暖虽然能减少未来账单，却需要投入资金。租户还可能一边承担能源费用，一边无权改善房屋。补助、房东标准和可负担融资，比建议居民精明消费更能有效解决这种不匹配。无论最初资源多少，当人们都能获得长期节省时，可持续生活才会更加公平。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe an environmentally friendly habit that fits easily into your life.",
-      "answer": "The habit that fits most naturally is carrying a reusable water bottle. I began doing it mainly to avoid buying drinks while commuting, so the environmental benefit was not my only motivation. I leave the bottle beside my keys, which means I rarely forget it, and there are refill taps at my workplace. It saves a small amount of money and lets me see how much water I drink. I do not think this single habit has a dramatic effect, but it has lasted because it is convenient and useful. That has taught me that a sustainable routine is easier to maintain when it solves an everyday problem as well."
+      "answer": "The habit that fits most naturally is carrying a reusable water bottle. I began doing it mainly to avoid buying drinks while commuting, so the environmental benefit was not my only motivation. I leave the bottle beside my keys, which means I rarely forget it, and there are refill taps at my workplace. It saves a small amount of money and lets me see how much water I drink. I do not think this single habit has a dramatic effect, but it has lasted because it is convenient and useful. That has taught me that a sustainable routine is easier to maintain when it solves an everyday problem as well.",
+      "questionTranslation": "描述一种很容易融入你生活的环保习惯。",
+      "answerSentences": [
+        {
+          "text": "The habit that fits most naturally is carrying a reusable water bottle.",
+          "translation": "对我来说最自然的习惯是携带可重复使用的水瓶。"
+        },
+        {
+          "text": "I began doing it mainly to avoid buying drinks while commuting, so the environmental benefit was not my only motivation.",
+          "translation": "我开始这样做主要是为了避免通勤时买饮料，所以环保并不是唯一动机。"
+        },
+        {
+          "text": "I leave the bottle beside my keys, which means I rarely forget it, and there are refill taps at my workplace.",
+          "translation": "我把水瓶放在钥匙旁，因此很少忘记，而且工作场所有补水龙头。"
+        },
+        {
+          "text": "It saves a small amount of money and lets me see how much water I drink.",
+          "translation": "它能省一点钱，也让我知道自己喝了多少水。"
+        },
+        {
+          "text": "I do not think this single habit has a dramatic effect, but it has lasted because it is convenient and useful.",
+          "translation": "我认为这个习惯本身没有巨大影响，但它一直保持下来，因为既方便又实用。"
+        },
+        {
+          "text": "That has taught me that a sustainable routine is easier to maintain when it solves an everyday problem as well.",
+          "translation": "这让我明白，当可持续习惯同时解决日常问题时，会更容易坚持。"
+        }
+      ],
+      "translation": "对我来说最自然的习惯是携带可重复使用的水瓶。我开始这样做主要是为了避免通勤时买饮料，所以环保并不是唯一动机。我把水瓶放在钥匙旁，因此很少忘记，而且工作场所有补水龙头。它能省一点钱，也让我知道自己喝了多少水。我认为这个习惯本身没有巨大影响，但它一直保持下来，因为既方便又实用。这让我明白，当可持续习惯同时解决日常问题时，会更容易坚持。"
     },
     {
       "part": "Part 3",
       "question": "Do environmental labels help people live more sustainably?",
-      "answer": "They can help when they compare products using clear and consistent criteria. A shopper cannot research every supply chain, so trustworthy labels reduce the effort required to make an informed decision. The problem is that vague claims such as “natural” or “green” may look official without explaining what was measured. Too many competing labels also create confusion. Independent standards, plain language and information about the whole product life cycle would make labels more useful, although price and availability will still shape the final choice."
+      "answer": "They can help when they compare products using clear and consistent criteria. A shopper cannot research every supply chain, so trustworthy labels reduce the effort required to make an informed decision. The problem is that vague claims such as “natural” or “green” may look official without explaining what was measured. Too many competing labels also create confusion. Independent standards, plain language and information about the whole product life cycle would make labels more useful, although price and availability will still shape the final choice.",
+      "questionTranslation": "环保标签能否帮助人们以更可持续的方式生活？",
+      "answerSentences": [
+        {
+          "text": "They can help when they compare products using clear and consistent criteria.",
+          "translation": "如果标签使用清晰一致的标准比较产品，它们就能提供帮助。"
+        },
+        {
+          "text": "A shopper cannot research every supply chain, so trustworthy labels reduce the effort required to make an informed decision.",
+          "translation": "消费者无法研究每条供应链，因此可信标签减少了作出明智决定所需的精力。"
+        },
+        {
+          "text": "The problem is that vague claims such as “natural” or “green” may look official without explaining what was measured.",
+          "translation": "问题在于，“天然”或“绿色”等模糊说法可能看起来很正式，却没有解释测量了什么。"
+        },
+        {
+          "text": "Too many competing labels also create confusion.",
+          "translation": "相互竞争的标签太多也会造成困惑。"
+        },
+        {
+          "text": "Independent standards, plain language and information about the whole product life cycle would make labels more useful, although price and availability will still shape the final choice.",
+          "translation": "独立标准、通俗语言和有关产品整个生命周期的信息会让标签更有用，不过价格和可获得性仍会影响最终选择。"
+        }
+      ],
+      "translation": "如果标签使用清晰一致的标准比较产品，它们就能提供帮助。消费者无法研究每条供应链，因此可信标签减少了作出明智决定所需的精力。问题在于，“天然”或“绿色”等模糊说法可能看起来很正式，却没有解释测量了什么。相互竞争的标签太多也会造成困惑。独立标准、通俗语言和有关产品整个生命周期的信息会让标签更有用，不过价格和可获得性仍会影响最终选择。"
     }
   ],
   "reading": {
@@ -350,6 +480,102 @@
           "Feedback works when it is interpretable and actionable."
         ]
       }
+    ],
+    "titleTranslation": "恒温器显示屏为何改变了行为",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A housing association installed smart energy displays in two hundred flats, expecting residents to respond to real-time information about electricity use.",
+          "translation": "某住房协会在两百套公寓安装智能能源显示屏，希望居民根据实时用电信息采取行动。"
+        },
+        {
+          "text": "Early results were disappointing.",
+          "translation": "初步结果令人失望。"
+        },
+        {
+          "text": "People watched the figures for several days, switched appliances off more carefully and then stopped looking.",
+          "translation": "人们看了几天数字，更仔细地关闭电器，随后便不再查看。"
+        },
+        {
+          "text": "Information had created curiosity, but it had not become part of household routine.",
+          "translation": "信息激发了好奇心，却没有成为家庭日常习惯的一部分。"
+        }
+      ],
+      [
+        {
+          "text": "Researchers interviewing residents found that the display showed energy in technical units that meant little without comparison.",
+          "translation": "研究人员采访居民后发现，显示屏用技术单位展示能源数据，如果没有比较，这些数字意义不大。"
+        },
+        {
+          "text": "A number rising from 0.4 to 0.8 kilowatts appeared important, yet users did not know whether it reflected a wasteful appliance or normal cooking.",
+          "translation": "数字从0.4上升到0.8千瓦看似重要，但用户不知道这反映的是浪费电力的电器，还是正常烹饪。"
+        },
+        {
+          "text": "The device also reported immediate consumption, whereas monthly bills combined energy price, standing charges and previous use.",
+          "translation": "该设备还报告即时用量，而每月账单包含能源价格、固定费用和过去用量。"
+        },
+        {
+          "text": "Residents could not easily connect one careful evening with money saved.",
+          "translation": "居民很难把某一个节约用电的夜晚与省下的钱联系起来。"
+        }
+      ],
+      [
+        {
+          "text": "The association redesigned the feedback rather than adding more advice.",
+          "translation": "协会没有增加更多建议，而是重新设计了反馈方式。"
+        },
+        {
+          "text": "The screen compared each flat with its own previous week, identified unusually high overnight use and estimated cost over a month.",
+          "translation": "屏幕把每套公寓与其上一周相比，识别夜间异常高的用电量，并估算一个月的成本。"
+        },
+        {
+          "text": "It did not rank neighbours, since flats differed in size and occupancy.",
+          "translation": "它没有给邻居排名，因为各套公寓面积和居住人数不同。"
+        },
+        {
+          "text": "Most importantly, residents could set one modest target and receive a message when a routine—such as reducing standby use—produced a measurable change.",
+          "translation": "最重要的是，居民可以设定一个适度目标，并在减少待机用电等习惯产生可测量变化时收到信息。"
+        }
+      ],
+      [
+        {
+          "text": "Six months later, average electricity use had fallen, although the distribution was uneven.",
+          "translation": "六个月后，平均用电量下降了，但分布并不均衡。"
+        },
+        {
+          "text": "Households with old electric heating had limited control over their largest expense, and some residents found repeated messages irritating.",
+          "translation": "使用老旧电供暖设备的家庭难以控制最大一笔支出，一些居民也觉得反复收到信息很烦。"
+        },
+        {
+          "text": "Those who saved most were not necessarily the people most concerned about climate change; they were often users who discovered a specific source of avoidable cost and could act on it without sacrificing comfort.",
+          "translation": "节省最多的未必是最关心气候变化的人；他们往往是发现了某项可避免成本，而且可以在不牺牲舒适度的情况下采取行动的用户。"
+        }
+      ],
+      [
+        {
+          "text": "The trial does not show that every home needs another digital screen.",
+          "translation": "这项试验并不表明每个家庭都需要另一块数字屏幕。"
+        },
+        {
+          "text": "It demonstrates that feedback supports sustainable behaviour only when people can interpret it, connect it to an available action and see a relevant result.",
+          "translation": "它说明，只有当人们能理解反馈、将其与可行行动联系起来并看到相关结果时，反馈才能支持可持续行为。"
+        },
+        {
+          "text": "A number, however accurate, rarely changes a routine by itself.",
+          "translation": "一个数字无论多么准确，很少能独自改变习惯。"
+        },
+        {
+          "text": "Information becomes useful when it helps a household decide what to do next.",
+          "translation": "当信息帮助家庭决定下一步该做什么时，它才会变得有用。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "某住房协会在两百套公寓安装智能能源显示屏，希望居民根据实时用电信息采取行动。初步结果令人失望。人们看了几天数字，更仔细地关闭电器，随后便不再查看。信息激发了好奇心，却没有成为家庭日常习惯的一部分。",
+      "研究人员采访居民后发现，显示屏用技术单位展示能源数据，如果没有比较，这些数字意义不大。数字从0.4上升到0.8千瓦看似重要，但用户不知道这反映的是浪费电力的电器，还是正常烹饪。该设备还报告即时用量，而每月账单包含能源价格、固定费用和过去用量。居民很难把某一个节约用电的夜晚与省下的钱联系起来。",
+      "协会没有增加更多建议，而是重新设计了反馈方式。屏幕把每套公寓与其上一周相比，识别夜间异常高的用电量，并估算一个月的成本。它没有给邻居排名，因为各套公寓面积和居住人数不同。最重要的是，居民可以设定一个适度目标，并在减少待机用电等习惯产生可测量变化时收到信息。",
+      "六个月后，平均用电量下降了，但分布并不均衡。使用老旧电供暖设备的家庭难以控制最大一笔支出，一些居民也觉得反复收到信息很烦。节省最多的未必是最关心气候变化的人；他们往往是发现了某项可避免成本，而且可以在不牺牲舒适度的情况下采取行动的用户。",
+      "这项试验并不表明每个家庭都需要另一块数字屏幕。它说明，只有当人们能理解反馈、将其与可行行动联系起来并看到相关结果时，反馈才能支持可持续行为。一个数字无论多么准确，很少能独自改变习惯。当信息帮助家庭决定下一步该做什么时，它才会变得有用。"
     ]
   }
 }

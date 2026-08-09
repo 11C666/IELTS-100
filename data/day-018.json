@@ -153,7 +153,8 @@
         "sleep soundly",
         "have a good night’s sleep"
       ],
-      "note": "sleep soundly 强调睡得沉。"
+      "note": "sleep soundly 强调睡得沉。",
+      "translation": "sleep well 可以表达为“睡得安稳”“获得高质量睡眠”或“睡个好觉”。"
     },
     {
       "base": "very tired",
@@ -162,7 +163,8 @@
         "fatigued",
         "worn out"
       ],
-      "note": "fatigued 较正式；worn out 常用于口语。"
+      "note": "fatigued 较正式；worn out 常用于口语。",
+      "translation": "非常累可以表达为精疲力竭、疲倦、精疲力竭。"
     },
     {
       "base": "cannot sleep",
@@ -171,7 +173,8 @@
         "experience insomnia",
         "lie awake"
       ],
-      "note": "insomnia 通常指持续问题。"
+      "note": "insomnia 通常指持续问题。",
+      "translation": "无法入睡可以表现为难以入睡、失眠、无法入睡。"
     },
     {
       "base": "sleeping time",
@@ -180,7 +183,8 @@
         "hours of sleep",
         "time spent asleep"
       ],
-      "note": "duration 较正式。"
+      "note": "duration 较正式。",
+      "translation": "睡眠时间可以表示为睡眠持续时间、睡眠小时数、睡眠时间。"
     },
     {
       "base": "short sleep",
@@ -189,7 +193,8 @@
         "brief rest",
         "short period of sleep"
       ],
-      "note": "nap 通常发生在白天。"
+      "note": "nap 通常发生在白天。",
+      "translation": "短睡眠可以表现为午睡、短暂休息、短时间睡眠。"
     },
     {
       "base": "sleep regularly",
@@ -198,7 +203,8 @@
         "maintain a regular bedtime",
         "follow a stable sleep routine"
       ],
-      "note": "consistent 强调每天相近。"
+      "note": "consistent 强调每天相近。",
+      "translation": "有规律的睡眠可以表现为保持一致的作息时间、保持有规律的就寝时间、遵循稳定的睡眠习惯。"
     },
     {
       "base": "awake and focused",
@@ -207,7 +213,8 @@
         "mentally sharp",
         "able to concentrate"
       ],
-      "note": "alert 强调清醒反应快。"
+      "note": "alert 强调清醒反应快。",
+      "translation": "清醒和专注可以表达为警觉、思维敏锐、能够集中注意力。"
     },
     {
       "base": "not enough sleep",
@@ -216,51 +223,60 @@
         "insufficient sleep",
         "a lack of rest"
       ],
-      "note": "sleep deprivation 较正式且程度较重。"
+      "note": "sleep deprivation 较正式且程度较重。",
+      "translation": "not enough sleep 表示睡眠不足；sleep deprivation 强调长期或严重缺觉，insufficient sleep 指睡眠时间不足，a lack of rest 指缺乏休息。"
     }
   ],
   "sentences": [
     {
       "pattern": "I find it difficult to fall asleep if + clause.",
       "cn": "如果……，我会很难入睡。",
-      "example": "I find it difficult to fall asleep if I keep checking messages in bed."
+      "example": "I find it difficult to fall asleep if I keep checking messages in bed.",
+      "exampleTranslation": "如果我一直在床上查看消息，我会发现很难入睡。"
     },
     {
       "pattern": "The less sleep people get, the harder it becomes to + verb.",
       "cn": "人们睡得越少，做……就越困难。",
-      "example": "The less sleep people get, the harder it becomes to make careful decisions."
+      "example": "The less sleep people get, the harder it becomes to make careful decisions.",
+      "exampleTranslation": "人们睡眠越少，就越难做出谨慎的决定。"
     },
     {
       "pattern": "A short nap can + benefit, provided that + condition.",
       "cn": "只要……，短暂小睡可以……",
-      "example": "A short nap can restore alertness, provided that it does not continue too long."
+      "example": "A short nap can restore alertness, provided that it does not continue too long.",
+      "exampleTranslation": "短暂的小睡可以恢复警觉，但不要持续太久。"
     }
   ],
   "expressions": [
     {
       "text": "sleep like a log",
       "cn": "睡得很沉",
-      "example": "After the hike, I slept like a log."
+      "example": "After the hike, I slept like a log.",
+      "exampleTranslation": "徒步结束后，我睡得很香。"
     },
     {
       "text": "have a lie-in",
       "cn": "睡懒觉",
-      "example": "I sometimes have a lie-in on Sunday."
+      "example": "I sometimes have a lie-in on Sunday.",
+      "exampleTranslation": "我有时会在周日睡个懒觉。"
     },
     {
       "text": "be wide awake",
       "cn": "完全清醒",
-      "example": "I was tired all evening but wide awake at midnight."
+      "example": "I was tired all evening but wide awake at midnight.",
+      "exampleTranslation": "我整个晚上都很累，但到了半夜就清醒了。"
     },
     {
       "text": "catch up on sleep",
       "cn": "补觉",
-      "example": "I tried to catch up on sleep over the weekend."
+      "example": "I tried to catch up on sleep over the weekend.",
+      "exampleTranslation": "周末我试图补觉。"
     },
     {
       "text": "toss and turn",
       "cn": "辗转难眠",
-      "example": "I tossed and turned before the early flight."
+      "example": "I tossed and turned before the early flight.",
+      "exampleTranslation": "赶早班飞机前，我一整晚都辗转难眠。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "reduce accident risk",
         "support healthy schedules"
       ],
-      "argument": "A tired person may remain at a desk for the required hours while processing information slowly. In schools, this affects learning and emotional control; in safety-critical work, it can put others at risk. Institutions cannot control private bedtime, but they can avoid schedules that repeatedly demand very early starts after late duties. Education about sleep should accompany realistic timetables. Treating exhaustion as dedication is harmful and inefficient."
+      "argument": "A tired person may remain at a desk for the required hours while processing information slowly. In schools, this affects learning and emotional control; in safety-critical work, it can put others at risk. Institutions cannot control private bedtime, but they can avoid schedules that repeatedly demand very early starts after late duties. Education about sleep should accompany realistic timetables. Treating exhaustion as dedication is harmful and inefficient.",
+      "viewpointTranslation": "学校和雇主应该认真对待睡眠。",
+      "topicSentenceTranslation": "慢性睡眠不足会降低注意力并增加可避免的错误。",
+      "collocationTranslations": [
+        "睡眠不足",
+        "保持专注",
+        "降低事故风险",
+        "支持健康的日程安排"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A tired person may remain at a desk for the required hours while processing information slowly.",
+          "translation": "疲惫的人可能会在办公桌前呆上所需的时间，同时缓慢地处理信息。"
+        },
+        {
+          "text": "In schools, this affects learning and emotional control; in safety-critical work, it can put others at risk.",
+          "translation": "在学校，这会影响学习和情绪控制；在安全关键的工作中，它可能会将其他人置于危险之中。"
+        },
+        {
+          "text": "Institutions cannot control private bedtime, but they can avoid schedules that repeatedly demand very early starts after late duties.",
+          "translation": "机构无法控制私人就寝时间，但他们可以避免重复要求在迟到的工作后很早开始的时间表。"
+        },
+        {
+          "text": "Education about sleep should accompany realistic timetables.",
+          "translation": "关于睡眠的教育应该与现实的时间表相结合。"
+        },
+        {
+          "text": "Treating exhaustion as dedication is harmful and inefficient.",
+          "translation": "把疲惫当作奉献是有害且低效的。"
+        }
+      ]
     },
     {
       "viewpoint": "Weekend sleeping cannot fully repair an irregular routine.",
@@ -301,19 +347,87 @@
         "follow a regular schedule",
         "restore alertness"
       ],
-      "argument": "Sleeping longer after a busy week may reduce immediate tiredness. However, a large change in waking time can shift the body clock and make Sunday-night sleep more difficult. The person then begins Monday tired and repeats the cycle. A modest weekend lie-in is unlikely to be harmful, but it cannot replace adequate weekday rest. Regularity should be the foundation, with recovery sleep used only occasionally."
+      "argument": "Sleeping longer after a busy week may reduce immediate tiredness. However, a large change in waking time can shift the body clock and make Sunday-night sleep more difficult. The person then begins Monday tired and repeats the cycle. A modest weekend lie-in is unlikely to be harmful, but it cannot replace adequate weekday rest. Regularity should be the foundation, with recovery sleep used only occasionally.",
+      "viewpointTranslation": "周末睡眠并不能完全修复不规律的生活习惯。",
+      "topicSentenceTranslation": "一致的睡眠计划通常比严格限制和长期恢复之间交替更有用。",
+      "collocationTranslations": [
+        "扰乱生物钟",
+        "积累睡眠债",
+        "遵循规律的时间表",
+        "恢复警觉"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Sleeping longer after a busy week may reduce immediate tiredness.",
+          "translation": "忙碌的一周后睡得更久可能会减少立即的疲劳。"
+        },
+        {
+          "text": "However, a large change in waking time can shift the body clock and make Sunday-night sleep more difficult.",
+          "translation": "然而，起床时间的大幅变化可能会改变生物钟，并使周日晚上的睡眠变得更加困难。"
+        },
+        {
+          "text": "The person then begins Monday tired and repeats the cycle.",
+          "translation": "然后，这个人周一开始感到疲倦，并重复这个循环。"
+        },
+        {
+          "text": "A modest weekend lie-in is unlikely to be harmful, but it cannot replace adequate weekday rest.",
+          "translation": "周末适度的睡个懒觉不太可能有害，但它不能取代工作日充足的休息。"
+        },
+        {
+          "text": "Regularity should be the foundation, with recovery sleep used only occasionally.",
+          "translation": "规律性应该是基础，恢复性睡眠只是偶尔使用。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "How many hours do you usually sleep?",
-      "answer": "Usually about seven and a half hours. I know roughly when I need to go to bed because I wake at the same time for work. If I get less than six hours, I can function, but my concentration drops in the afternoon. I’d rather protect my sleep during the week than spend the whole weekend trying to recover."
+      "answer": "Usually about seven and a half hours. I know roughly when I need to go to bed because I wake at the same time for work. If I get less than six hours, I can function, but my concentration drops in the afternoon. I’d rather protect my sleep during the week than spend the whole weekend trying to recover.",
+      "questionTranslation": "你通常睡几个小时？",
+      "answerSentences": [
+        {
+          "text": "Usually about seven and a half hours.",
+          "translation": "一般是七个半小时左右。"
+        },
+        {
+          "text": "I know roughly when I need to go to bed because I wake at the same time for work.",
+          "translation": "我大概知道什么时候需要睡觉，因为我会在同一时间起床去上班。"
+        },
+        {
+          "text": "If I get less than six hours, I can function, but my concentration drops in the afternoon.",
+          "translation": "如果我的时间少于六个小时，我可以正常工作，但下午我的注意力会下降。"
+        },
+        {
+          "text": "I’d rather protect my sleep during the week than spend the whole weekend trying to recover.",
+          "translation": "我宁愿在一周内保护自己的睡眠，也不愿花整个周末试图恢复。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "What do you do when you cannot fall asleep?",
-      "answer": "I get out of bed for a short while instead of becoming frustrated. I keep the lights low and read something undemanding until I feel sleepy again. Looking at the time makes the problem worse, so I turn the clock away. Fortunately, this doesn’t happen often unless I’ve had coffee too late or I’m worried about an early journey."
+      "answer": "I get out of bed for a short while instead of becoming frustrated. I keep the lights low and read something undemanding until I feel sleepy again. Looking at the time makes the problem worse, so I turn the clock away. Fortunately, this doesn’t happen often unless I’ve had coffee too late or I’m worried about an early journey.",
+      "questionTranslation": "当你睡不着的时候你会做什么？",
+      "answerSentences": [
+        {
+          "text": "I get out of bed for a short while instead of becoming frustrated.",
+          "translation": "我会起床活动一会儿，避免躺在那里越来越烦躁。"
+        },
+        {
+          "text": "I keep the lights low and read something undemanding until I feel sleepy again.",
+          "translation": "我把灯调暗，读一些要求不高的东西，直到我再次感到困倦。"
+        },
+        {
+          "text": "Looking at the time makes the problem worse, so I turn the clock away.",
+          "translation": "看时间会让情况更糟，所以我会把时钟转到看不见的一面。"
+        },
+        {
+          "text": "Fortunately, this doesn’t happen often unless I’ve had coffee too late or I’m worried about an early journey.",
+          "translation": "幸运的是，这种情况并不常发生，除非我太晚喝咖啡，或担心第二天要很早出发。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,99 @@
         "answer": "daylight",
         "explanation": "The final paragraph provides the answer."
       }
+    ],
+    "titleTranslation": "身体为何保持时间",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Sleepiness is not controlled only by the number of hours since a person last slept.",
+          "translation": "困倦不仅仅取决于一个人上次睡觉后的小时数。"
+        },
+        {
+          "text": "The body also follows a roughly twenty-four-hour rhythm that influences alertness, temperature and hormone release.",
+          "translation": "身体还遵循大约二十四小时的节奏，影响警觉性、体温和激素释放。"
+        },
+        {
+          "text": "This internal clock is adjusted each day by external signals, of which light is the most powerful.",
+          "translation": "这个内部时钟每天都会通过外部信号进行调整，其中光的信号最为强大。"
+        },
+        {
+          "text": "Morning light generally moves the clock earlier, while bright light late in the evening can delay it.",
+          "translation": "早晨的光线通常会使时钟提前，而傍晚的明亮光线则会延迟时钟。"
+        }
+      ],
+      [
+        {
+          "text": "The rhythm explains why crossing time zones is uncomfortable.",
+          "translation": "这种节奏解释了为什么跨越时区会让人感到不舒服。"
+        },
+        {
+          "text": "A traveller may arrive at breakfast time while the body still expects the middle of the night.",
+          "translation": "旅行者可能会在早餐时间到达，而身体仍然预计在半夜到达。"
+        },
+        {
+          "text": "Meals and social activity provide additional signals, but the clock cannot shift instantly.",
+          "translation": "膳食和社交活动提供了额外的信号，但时钟不能立即改变。"
+        },
+        {
+          "text": "Travelling east often requires falling asleep earlier than usual, which many people find harder than staying awake later after westward travel.",
+          "translation": "向东旅行通常需要比平时更早入睡，许多人发现这比向西旅行后保持清醒更困难。"
+        }
+      ],
+      [
+        {
+          "text": "Modern indoor life creates a milder form of confusion.",
+          "translation": "现代室内生活造成了一种较温和的混乱。"
+        },
+        {
+          "text": "People may receive too little natural light during the day and strong artificial light at night.",
+          "translation": "人们可能在白天接收到的自然光太少，而在晚上接收到的人造光太强。"
+        },
+        {
+          "text": "Screens are one source, although duration, brightness and content all matter.",
+          "translation": "屏幕是来源之一，尽管持续时间、亮度和内容都很重要。"
+        },
+        {
+          "text": "An exciting conversation on a dim device may delay sleep through mental stimulation, while a calm task on a brighter screen has a different effect.",
+          "translation": "在昏暗的设备上进行令人兴奋的对话可能会通过精神刺激来延迟睡眠，而在较亮的屏幕上进行平静的任务则会产生不同的效果。"
+        },
+        {
+          "text": "Blaming the colour of light alone oversimplifies the problem.",
+          "translation": "仅归咎于光的颜色会使问题过于简单化。"
+        }
+      ],
+      [
+        {
+          "text": "Regular timing helps the body predict when sleep should occur.",
+          "translation": "规律的睡眠时间有助于身体预测何时应该睡觉。"
+        },
+        {
+          "text": "This does not mean everyone needs an identical schedule: natural preferences and work demands vary.",
+          "translation": "这并不意味着每个人都需要相同的时间表：自然偏好和工作要求各不相同。"
+        },
+        {
+          "text": "The practical goal is to keep waking time reasonably stable and obtain daylight after rising.",
+          "translation": "实际目标是保持起床时间合理稳定并在起床后获得日光。"
+        },
+        {
+          "text": "Sleep advice often focuses on what happens in the final hour before bed, but the clock has been collecting time signals throughout the entire day.",
+          "translation": "睡眠建议通常侧重于睡前最后一小时发生的事情，但时钟全天都在收集时间信号。"
+        }
+      ],
+      [
+        {
+          "text": "The timing of exercise, meals and caffeine can reinforce or compete with light signals.",
+          "translation": "运动、进餐和咖啡因的时间可以加强或对抗光信号。"
+        },
+        {
+          "text": "These influences are weaker than light but become relevant when a person is adjusting after travel or shift work.",
+          "translation": "这些影响比光弱，但当一个人在旅行或轮班工作后进行调整时就会变得相关。"
+        },
+        {
+          "text": "Because several signals operate together, changing one evening habit may produce little benefit if the rest of the daily schedule continues to push the clock in another direction.",
+          "translation": "由于多个信号同时起作用，如果日常日程的其余部分继续将时钟推向另一个方向，那么改变晚上的习惯可能不会产生什么好处。"
+        }
+      ]
     ]
   }
 }

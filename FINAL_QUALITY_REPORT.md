@@ -24,15 +24,22 @@
 
 - Course files loaded: **100/100**
 - Structural QA: **0 errors; PASS**
+- Translation data QA: **100/100 PASS**
+- Translation page QA: **100/100 PASS**
+- Pronunciation QA: **PASS** (Vocabulary and Speaking)
+- Mobile/PWA QA: **PASS**
+- Offline cache coverage: **100/100 Day JSON files**; **117 resources** cached
 - Reading pairs above the 45% similarity threshold: **0**
 - Duplicate Sentence Patterns: **0**
 - Duplicate Speaking questions: **0**
-- Frozen-scope verification passed: Day 001–020 and Day 061–080 were unchanged; within Day 021–060 only Vocabulary changed; within Day 081–100 only approved Reading fields changed.
+- Duplicate Reading titles: **0**
+- Duplicate Natural Expressions: **0**
+- Six Day 001–003 Part 1 length notices remain. The answers are now **34–40 words**, within the approved natural range, so these notices require no content change.
 - Final decision: **the targeted revision is complete and the offline website remains at final-version status.**
 
 ## Final status
 
-The complete 100-day offline IELTS course has reached final content status. All 100 day files load successfully; the full structural QA reports **0 errors**. Day 001–060 remained frozen during the final extension. Day 061–080 received only the explicitly approved factual and Sentence Pattern corrections. No UI, layout, schema, navigation, responsive behaviour or localStorage code was changed.
+The complete 100-day offline IELTS course has reached final content status. All 100 day files load successfully; structural QA reports **0 errors**, Translation QA reports **100/100 PASS**, and Pronunciation and Mobile/PWA QA both pass. Final content work was limited to approved translation corrections, six duplicate Natural Expression replacements and the Day 001–003 Speaking Part 1 optimisation. No UI, layout, schema, navigation, responsive behaviour or localStorage code was changed.
 
 ## 1. Complete topic directory
 
@@ -208,6 +215,7 @@ This is an editorial classification of the dominant route in each argument; indi
 ## 6. Repetition and similarity review
 
 - Duplicate Sentence Patterns: **0**
+- Duplicate Natural Expressions: **0**
 - Duplicate Speaking questions: **0**
 - Duplicate Reading titles: **0**
 - Highest Reading trigram similarity: **0.88%** (Day 21 / Day 52)
@@ -215,18 +223,7 @@ This is an editorial classification of the dominant route in each argument; indi
 - Highest Speaking bigram similarity: **4.87%** (Day 23 / Day 33)
 - Reading pairs above the mandatory 45% rewrite threshold: **0**
 
-Six exact Natural Expression repetitions remain inside the user-approved and frozen Day 001–060 corpus:
-
-| Expression | Days |
-|---|---|
-| see eye to eye | Day 004, Day 056 |
-| lose track of time | Day 007, Day 023 |
-| a real page turner | Day 008, Day 054 |
-| shop around | Day 013, Day 049 |
-| within walking distance | Day 014, Day 041 |
-| feel safe after dark | Day 020, Day 060 |
-
-No new Day 061–100 expression duplicates were retained.
+The six previously reported Natural Expression duplicates were removed by replacing the later occurrence with a topic-specific, natural expression. No exact Natural Expression duplicates remain anywhere in Day 001–100.
 
 ## 7. Problems found and corrected
 
@@ -234,11 +231,12 @@ No new Day 061–100 expression duplicates were retained.
 - Reworded all Day 061–080 Sentence Pattern labels into learner-ready structures while preserving their meanings and examples.
 - Corrected the Day 061 question-object syntax error found during staging.
 - Corrected Day 065’s category and Day 066’s full topic title before publication.
-- Rewrote two duplicate Day 081–100 Speaking tasks and two duplicated Natural Expressions.
-- Extended several final Speaking samples that fell below the established length band.
+- Replaced all six later-occurring duplicate Natural Expressions with topic-specific expressions; exact duplicates are now **0**.
+- Optimised the six Day 001–003 Speaking Part 1 samples to a natural **34–40-word** range. Five answers were revised; the existing 40-word answer was retained.
+- Completed full Day 001–100 Chinese translation review and verified sentence-level alignment, English-only Reading questions and no duplicate whole-paragraph translations.
 - Added one sentence to Day 086 Reading after the global tokenizer counted 299 words.
 - Re-ran scoped and global QA after every correction.
 
 ## 8. Final-version decision
 
-**Yes.** The website content is complete through Day 100 and passes the final structural and similarity QA. It now functions as one continuous IELTS Speaking, Writing and Academic Reading course. The only remaining QA notices are six short Part 1 samples in the user-approved Day 001–003 material; they are warnings, not structural errors, and were preserved under the instruction not to modify approved content.
+**Yes.** The website content is complete through Day 100 and passes structural, translation, pronunciation, Mobile/PWA, offline-cache and similarity QA. The only remaining notices are the six Day 001–003 Part 1 length warnings. Those answers are 34–40 words, which is the approved natural range, so the warnings do not affect learning quality and require no further modification.

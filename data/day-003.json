@@ -153,7 +153,8 @@
         "make use of technology",
         "rely on digital services"
       ],
-      "note": "rely on 强调依赖程度。"
+      "note": "rely on 强调依赖程度。",
+      "translation": "使用技术可以表现为采用数字工具、利用技术、依赖数字服务。"
     },
     {
       "base": "easy to use",
@@ -162,7 +163,8 @@
         "intuitive",
         "straightforward to operate"
       ],
-      "note": "intuitive 表示无需太多说明也能理解。"
+      "note": "intuitive 表示无需太多说明也能理解。",
+      "translation": "easy to use 可以表达为“方便使用”“直观”或“操作简单”。"
     },
     {
       "base": "help people",
@@ -171,7 +173,8 @@
         "enable people to",
         "make it possible for people to"
       ],
-      "note": "enable 后接人 + to do。"
+      "note": "enable 后接人 + to do。",
+      "translation": "help people 可以表达为“帮助使用者”“使人们能够……”或“让人们可以……”。"
     },
     {
       "base": "very common",
@@ -180,7 +183,8 @@
         "widely used",
         "part of everyday life"
       ],
-      "note": "widespread 多用于现象或技术普及。"
+      "note": "widespread 多用于现象或技术普及。",
+      "translation": "very common 可以表达为“十分普遍”“被广泛使用”或“已成为日常生活的一部分”。"
     },
     {
       "base": "save time",
@@ -189,7 +193,8 @@
         "speed up a process",
         "improve efficiency"
       ],
-      "note": "三者侧重点不同。"
+      "note": "三者侧重点不同。",
+      "translation": "节省时间可以表示为减少所需时间、加快流程、提高效率。"
     },
     {
       "base": "problem",
@@ -198,7 +203,8 @@
         "concern",
         "potential risk"
       ],
-      "note": "drawback 是缺点；concern 是令人担忧之处。"
+      "note": "drawback 是缺点；concern 是令人担忧之处。",
+      "translation": "问题可以表达为缺点、担忧、潜在风险。"
     },
     {
       "base": "protect information",
@@ -207,7 +213,8 @@
         "protect personal information",
         "strengthen data security"
       ],
-      "note": "safeguard 较正式。"
+      "note": "safeguard 较正式。",
+      "translation": "保护信息可以表现为保护数据、保护个人信息、加强数据安全。"
     },
     {
       "base": "too dependent",
@@ -216,51 +223,60 @@
         "heavily dependent",
         "unable to function without"
       ],
-      "note": "over-reliant 明确带批评意味。"
+      "note": "over-reliant 明确带批评意味。",
+      "translation": "过度依赖可以表达为过度依赖、严重依赖、无法正常运作。"
     }
   ],
   "sentences": [
     {
       "pattern": "What makes + noun + particularly useful is + noun or noun phrase.",
       "cn": "让某事物格外有用的是……",
-      "example": "What makes navigation apps particularly useful is their ability to provide live updates."
+      "example": "What makes navigation apps particularly useful is their ability to provide live updates.",
+      "exampleTranslation": "导航应用格外实用，是因为它们能够提供实时更新。"
     },
     {
       "pattern": "Although + noun + offers clear benefits, it may also + verb.",
       "cn": "虽然某事物有明显好处，但它也可能……",
-      "example": "Although constant connectivity offers clear benefits, it may also make it harder to switch off."
+      "example": "Although constant connectivity offers clear benefits, it may also make it harder to switch off.",
+      "exampleTranslation": "持续在线虽然有明显好处，却也可能让人更难真正放松下来。"
     },
     {
       "pattern": "This is especially valuable for people who + verb.",
       "cn": "这对做……的人尤其有价值。",
-      "example": "Online banking is especially valuable for people who live far from a physical branch."
+      "example": "Online banking is especially valuable for people who live far from a physical branch.",
+      "exampleTranslation": "网上银行对于居住地远离实体分行的人们来说尤其有价值。"
     }
   ],
   "expressions": [
     {
       "text": "I use it all the time.",
       "cn": "我一直都在使用它。",
-      "example": "I use a map app all the time when I’m in a new place."
+      "example": "I use a map app all the time when I’m in a new place.",
+      "exampleTranslation": "当我到了一个新地方时，我总是使用地图应用程序。"
     },
     {
       "text": "It’s a real time-saver.",
       "cn": "它确实很节省时间。",
-      "example": "Paying bills online is a real time-saver."
+      "example": "Paying bills online is a real time-saver.",
+      "exampleTranslation": "在线支付账单确实可以节省时间。"
     },
     {
       "text": "I’m trying to cut down on + noun.",
       "cn": "我正努力减少……",
-      "example": "I’m trying to cut down on mindless screen time."
+      "example": "I’m trying to cut down on mindless screen time.",
+      "exampleTranslation": "我正在努力减少无意识地看屏幕的时间。"
     },
     {
       "text": "improve access to + noun",
       "cn": "改善获得……的机会",
-      "example": "Digital services can improve access to healthcare in remote areas."
+      "example": "Digital services can improve access to healthcare in remote areas.",
+      "exampleTranslation": "数字服务可以改善偏远地区获得医疗保健的机会。"
     },
     {
       "text": "pose a risk to + noun",
       "cn": "对……构成风险",
-      "example": "Weak security can pose a risk to users’ personal data."
+      "example": "Weak security can pose a risk to users’ personal data.",
+      "exampleTranslation": "安全性薄弱可能会给用户的个人数据带来风险。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "make an appointment remotely",
         "serve isolated communities"
       ],
-      "argument": "Digital tools can connect people to banking, education and healthcare without requiring long journeys. This is especially important in isolated communities, where physical services may be limited or expensive to reach. A resident can attend a remote consultation, complete an online course or transfer money using a basic connected device. These options cannot replace every face-to-face service, particularly when specialist equipment or personal examination is needed. Nevertheless, well-designed technology can remove major geographical barriers and widen access to essential support."
+      "argument": "Digital tools can connect people to banking, education and healthcare without requiring long journeys. This is especially important in isolated communities, where physical services may be limited or expensive to reach. A resident can attend a remote consultation, complete an online course or transfer money using a basic connected device. These options cannot replace every face-to-face service, particularly when specialist equipment or personal examination is needed. Nevertheless, well-designed technology can remove major geographical barriers and widen access to essential support.",
+      "viewpointTranslation": "日常技术增加了获得基本服务的机会。",
+      "topicSentenceTranslation": "数字工具可以消除银行、教育和医疗保健的实际障碍。",
+      "collocationTranslations": [
+        "获得基本服务",
+        "克服地理障碍",
+        "远程预约",
+        "服务偏远社区"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Digital tools can connect people to banking, education and healthcare without requiring long journeys.",
+          "translation": "数字工具可以将人们与银行、教育和医疗保健联系起来，而无需长途旅行。"
+        },
+        {
+          "text": "This is especially important in isolated communities, where physical services may be limited or expensive to reach.",
+          "translation": "这对偏远社区尤其重要，因为当地的实体服务可能有限，而且前往这些服务地点的成本很高。"
+        },
+        {
+          "text": "A resident can attend a remote consultation, complete an online course or transfer money using a basic connected device.",
+          "translation": "居民可以使用基本的连接设备参加远程咨询、完成在线课程或转账。"
+        },
+        {
+          "text": "These options cannot replace every face-to-face service, particularly when specialist equipment or personal examination is needed.",
+          "translation": "这些选项无法取代所有面对面的服务，特别是在需要专业设备或个人检查时。"
+        },
+        {
+          "text": "Nevertheless, well-designed technology can remove major geographical barriers and widen access to essential support.",
+          "translation": "尽管如此，精心设计的技术可以消除主要的地理障碍并扩大获得基本支持的机会。"
+        }
+      ]
     },
     {
       "viewpoint": "Constant connectivity can weaken attention.",
@@ -301,19 +347,79 @@
         "develop mindful habits",
         "set clear boundaries"
       ],
-      "argument": "Many digital services are designed to attract attention through alerts, badges and frequent updates. Each interruption may be brief, but repeatedly shifting attention makes complex work slower and increases the likelihood of errors. For example, an employee who checks every message immediately must continually rebuild concentration on the original task. Users and employers can address this problem by disabling non-essential notifications and creating protected periods for focused work. Clear boundaries therefore allow people to retain the benefits of connectivity without remaining constantly available."
+      "argument": "Many digital services are designed to attract attention through alerts, badges and frequent updates. Each interruption may be brief, but repeatedly shifting attention makes complex work slower and increases the likelihood of errors. For example, an employee who checks every message immediately must continually rebuild concentration on the original task. Users and employers can address this problem by disabling non-essential notifications and creating protected periods for focused work. Clear boundaries therefore allow people to retain the benefits of connectivity without remaining constantly available.",
+      "viewpointTranslation": "持续的连接会削弱注意力。",
+      "topicSentenceTranslation": "许多数字服务的设计鼓励频繁中断，而不是持续集中注意力。",
+      "collocationTranslations": [
+        "不断收到通知",
+        "分散用户注意力",
+        "养成正念习惯",
+        "设定明确的界限"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Many digital services are designed to attract attention through alerts, badges and frequent updates.",
+          "translation": "许多数字服务旨在通过警报、徽章和频繁更新来吸引注意力。"
+        },
+        {
+          "text": "Each interruption may be brief, but repeatedly shifting attention makes complex work slower and increases the likelihood of errors.",
+          "translation": "每次中断可能都很短暂，但反复转移注意力会使复杂的工作变慢并增加出错的可能性。"
+        },
+        {
+          "text": "For example, an employee who checks every message immediately must continually rebuild concentration on the original task.",
+          "translation": "例如，一名立即查看每条消息的员工，必须一次次重新集中精力处理原来的任务。"
+        },
+        {
+          "text": "Users and employers can address this problem by disabling non-essential notifications and creating protected periods for focused work.",
+          "translation": "用户和雇主可以通过禁用不必要的通知并为重点工作创建保护期来解决此问题。"
+        },
+        {
+          "text": "Clear boundaries therefore allow people to retain the benefits of connectivity without remaining constantly available.",
+          "translation": "因此，清晰的界限使人们能够保留连接的好处，而无需保持持续可用。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What piece of technology do you use most often?",
-      "answer": "Definitely my phone, mainly because it replaces so many separate things. I use it for directions, messages, payments and the occasional podcast. I’m aware I depend on it a bit too much, though, so I turn off most notifications when I need to focus."
+      "answer": "Definitely my phone, because it replaces so many separate things. I use it for directions, messages, payments and podcasts. I depend on it a little too much, though, so I turn off notifications when I need to focus.",
+      "questionTranslation": "您最常使用哪项技术？",
+      "answerSentences": [
+        {
+          "text": "Definitely my phone, because it replaces so many separate things.",
+          "translation": "肯定是手机，因为它可以代替很多不同的工具。"
+        },
+        {
+          "text": "I use it for directions, messages, payments and podcasts.",
+          "translation": "我会用它导航、发消息、付款和听播客。"
+        },
+        {
+          "text": "I depend on it a little too much, though, so I turn off notifications when I need to focus.",
+          "translation": "不过，我确实有点太依赖它了，所以需要专心时会关掉通知。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "Is there any technology you find difficult to use?",
-      "answer": "New smart-home devices can be surprisingly awkward. They’re meant to be convenient, but setting up several accounts and getting everything connected sometimes takes longer than doing the task manually. Once they work, they’re fine; the setup is the frustrating part."
+      "answer": "New smart-home devices can be surprisingly awkward. They’re meant to be convenient, but setting up several accounts and getting everything connected sometimes takes longer than doing the task manually. Once they work, they’re fine; the setup is the frustrating part.",
+      "questionTranslation": "有什么技术是您觉得难以使用的吗？",
+      "answerSentences": [
+        {
+          "text": "New smart-home devices can be surprisingly awkward.",
+          "translation": "新的智能家居设备有时出人意料地难用。"
+        },
+        {
+          "text": "They’re meant to be convenient, but setting up several accounts and getting everything connected sometimes takes longer than doing the task manually.",
+          "translation": "它们的目的是方便，但设置多个帐户并连接所有内容有时比手动执行任务需要更长的时间。"
+        },
+        {
+          "text": "Once they work, they’re fine; the setup is the frustrating part.",
+          "translation": "一旦设置成功，使用起来就没问题；真正令人沮丧的是设置过程。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -349,6 +455,113 @@
         "answer": "B",
         "explanation": "Paragraph C contrasts unavoidable past delays with modern expectations of immediate replies."
       }
+    ],
+    "titleTranslation": "便利设计",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A.",
+          "translation": "A."
+        },
+        {
+          "text": "Many technologies become almost invisible once they are absorbed into daily life.",
+          "translation": "许多技术一旦融入日常生活就变得几乎看不见。"
+        },
+        {
+          "text": "Contactless payment, route planning and automatic translation are rarely described as remarkable by regular users, although each relies on complex infrastructure.",
+          "translation": "非接触式支付、路线规划和自动翻译虽然都依赖复杂的基础设施，但经常使用它们的人很少再觉得这些技术有什么非凡之处。"
+        },
+        {
+          "text": "Over the past two decades, designers have increasingly focused on reducing friction: a task that once required several deliberate steps can now be completed with a tap.",
+          "translation": "过去二十年来，设计者越来越重视减少操作阻力：过去需要多个明确步骤才能完成的任务，如今轻点一下即可完成。"
+        },
+        {
+          "text": "Compared with earlier systems, the most successful services often demand less attention rather than offering a visibly greater number of features.",
+          "translation": "与早期的系统相比，最成功的服务通常需要较少的关注，而不是提供明显更多的功能。"
+        }
+      ],
+      [
+        {
+          "text": "B.",
+          "translation": "B."
+        },
+        {
+          "text": "This convenience frequently depends on prediction.",
+          "translation": "这种便利性常常取决于预测。"
+        },
+        {
+          "text": "A map application may suggest a familiar destination at a certain hour, while a shopping service remembers previous choices.",
+          "translation": "地图应用程序可能会在某个时间建议一个熟悉的目的地，而购物服务会记住之前的选择。"
+        },
+        {
+          "text": "Research into digital behaviour suggests that such personalisation can reduce mental effort, particularly for repetitive tasks.",
+          "translation": "对数字行为的研究表明，这种个性化可以减少脑力劳动，尤其是重复性任务。"
+        },
+        {
+          "text": "However, prediction requires the collection and analysis of personal data.",
+          "translation": "然而，预测需要收集和分析个人数据。"
+        },
+        {
+          "text": "Users exchange information for speed, often without knowing precisely how much has been gathered, which organisations can access it or how long it will be retained.",
+          "translation": "用户为了速度而交换信息，通常并不确切知道收集了多少信息、哪些组织可以访问这些信息或这些信息将保留多长时间。"
+        }
+      ],
+      [
+        {
+          "text": "C.",
+          "translation": "C."
+        },
+        {
+          "text": "Convenience can also reshape behaviour.",
+          "translation": "便利也可以重塑行为。"
+        },
+        {
+          "text": "When communication requires almost no effort, people send more messages and may begin to expect immediate replies.",
+          "translation": "当沟通几乎不需要任何努力时，人们会发送更多消息，并可能开始期望立即回复。"
+        },
+        {
+          "text": "By contrast, earlier forms of communication introduced unavoidable delays.",
+          "translation": "相比之下，早期的通信形式不可避免地会造成延误。"
+        },
+        {
+          "text": "Streaming services produce a similar change: when entertainment is continuously available, stopping becomes a decision rather than the natural result of a programme ending.",
+          "translation": "流媒体服务也产生了类似的变化：当娱乐持续可用时，停止就成为一个决定，而不是节目结束的自然结果。"
+        },
+        {
+          "text": "These effects are not necessarily harmful, but they demonstrate that digital tools do more than complete existing tasks; they alter the expectations surrounding them.",
+          "translation": "这些影响未必有害，但它们说明数字工具不只是完成已有任务，还会改变人们对这些任务的预期。"
+        }
+      ],
+      [
+        {
+          "text": "D.",
+          "translation": "D."
+        },
+        {
+          "text": "A growing body of research therefore supports what is sometimes called intentional technology use.",
+          "translation": "因此，越来越多的研究支持一种有时被称为“有意识地使用技术”的做法。"
+        },
+        {
+          "text": "This approach does not reject digital services.",
+          "translation": "这种方法并不拒绝数字服务。"
+        },
+        {
+          "text": "Instead, it asks whether a tool serves a defined purpose and whether its settings reflect the user’s priorities.",
+          "translation": "相反，它会追问一种工具是否服务于明确目的，以及其设置是否符合使用者的优先事项。"
+        },
+        {
+          "text": "Turning off non-essential notifications, reviewing privacy permissions and choosing a fixed time for messages are simple examples.",
+          "translation": "关闭不必要的通知、检查隐私权限以及选择固定的消息发送时间都是简单的例子。"
+        },
+        {
+          "text": "Nevertheless, responsibility cannot rest entirely with individuals.",
+          "translation": "然而，责任不能完全由个人承担。"
+        },
+        {
+          "text": "Clear controls and less intrusive default settings are also needed if users are to preserve convenience while recognising its less visible costs.",
+          "translation": "如果要让使用者在享受便利的同时认识到不易察觉的代价，还需要清晰的控制选项和干扰更少的默认设置。"
+        }
+      ]
     ]
   }
 }

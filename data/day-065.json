@@ -153,7 +153,8 @@
         "conduct space missions",
         "extend human observation beyond Earth"
       ],
-      "note": "根据是否载人选择 explore 或 conduct missions。"
+      "note": "根据是否载人选择 explore 或 conduct missions。",
+      "translation": "探索太空可以表现为调查太阳系、执行太空任务、将人类观测范围扩展到地球之外。"
     },
     {
       "base": "expensive",
@@ -162,7 +163,8 @@
         "resource-intensive",
         "financially demanding"
       ],
-      "note": "resource-intensive 不只指资金。"
+      "note": "resource-intensive 不只指资金。",
+      "translation": "昂贵可以表达为昂贵的、资源密集的、财务要求高的。"
     },
     {
       "base": "benefit people",
@@ -171,7 +173,8 @@
         "yield practical benefits",
         "improve life on Earth"
       ],
-      "note": "yield practical benefits 适合正式写作。"
+      "note": "yield practical benefits 适合正式写作。",
+      "translation": "造福人民，可以表现为服务公众需求、产生实际效益、改善地球生活。"
     },
     {
       "base": "discover",
@@ -180,7 +183,8 @@
         "identify",
         "uncover evidence of"
       ],
-      "note": "detect 常用于信号或物质。"
+      "note": "detect 常用于信号或物质。",
+      "translation": "discover 表示发现；detect 常指检测到信号或物质，identify 指识别或确定，uncover evidence of 指发现……的证据。"
     },
     {
       "base": "international project",
@@ -189,7 +193,8 @@
         "cross-border scientific collaboration",
         "joint space programme"
       ],
-      "note": "joint programme 强调共同实施。"
+      "note": "joint programme 强调共同实施。",
+      "translation": "国际项目可以表现为多国任务、跨境科学合作、联合空间计划。"
     },
     {
       "base": "dangerous",
@@ -198,7 +203,8 @@
         "high-risk",
         "exposed to substantial uncertainty"
       ],
-      "note": "hazardous 常指环境。"
+      "note": "hazardous 常指环境。",
+      "translation": "危险可以表示为危险的、高风险的、面临很大的不确定性。"
     },
     {
       "base": "study Earth",
@@ -207,7 +213,8 @@
         "observe the planet remotely",
         "collect Earth-observation data"
       ],
-      "note": "terrestrial 是正式学术用词。"
+      "note": "terrestrial 是正式学术用词。",
+      "translation": "研究地球可以表现为监测地球变化、远程观察地球、收集地球观测数据。"
     },
     {
       "base": "long-term plan",
@@ -216,51 +223,60 @@
         "sustained programme",
         "long-range mission architecture"
       ],
-      "note": "mission architecture 是航天专业表达。"
+      "note": "mission architecture 是航天专业表达。",
+      "translation": "长期计划可以表述为十年战略、持续方案、长期任务架构。"
     }
   ],
   "sentences": [
     {
       "pattern": "Were it not for + a particular satellite service, + an everyday activity + would be far more difficult.",
       "cn": "若没有某项卫星服务，某种日常活动会困难得多。",
-      "example": "Were it not for weather satellites, forecasting severe storms would be far more difficult."
+      "example": "Were it not for weather satellites, forecasting severe storms would be far more difficult.",
+      "exampleTranslation": "如果没有气象卫星，预测强风暴将会困难得多。"
     },
     {
       "pattern": "The question is not simply whether + a space mission + is affordable, but whether + its scientific or practical benefit + justifies the opportunity cost.",
       "cn": "问题不仅是某任务是否负担得起，还在于其收益能否证明机会成本合理。",
-      "example": "The question is not simply whether a lunar mission is affordable, but whether its scientific value justifies the opportunity cost."
+      "example": "The question is not simply whether a lunar mission is affordable, but whether its scientific value justifies the opportunity cost.",
+      "exampleTranslation": "问题不仅仅是登月任务是否负担得起，而是其科学价值是否证明了机会成本的合理性。"
     },
     {
       "pattern": "Data collected by + a satellite or spacecraft, having been + carefully processed, can reveal + a new finding.",
       "cn": "由某设备收集的数据经处理后，可以揭示……",
-      "example": "Data collected by an orbital radar, having been corrected for atmospheric effects, can reveal changes in ice thickness."
+      "example": "Data collected by an orbital radar, having been corrected for atmospheric effects, can reveal changes in ice thickness.",
+      "exampleTranslation": "轨道雷达收集的数据经过大气影响校正后，可以揭示冰厚度的变化。"
     }
   ],
   "expressions": [
     {
       "text": "be fascinated by space",
       "cn": "对太空着迷",
-      "example": "I have been fascinated by space since I saw Saturn through a telescope."
+      "example": "I have been fascinated by space since I saw Saturn through a telescope.",
+      "exampleTranslation": "自从通过望远镜看到土星以来，我就对太空着迷。"
     },
     {
       "text": "capture the public imagination",
       "cn": "激发公众想象",
-      "example": "A successful landing can capture the public imagination."
+      "example": "A successful landing can capture the public imagination.",
+      "exampleTranslation": "成功的着陆可以激发公众的想象力。"
     },
     {
       "text": "be a long way from home",
       "cn": "离家极远",
-      "example": "Astronauts on a lunar mission would be a long way from home."
+      "example": "Astronauts on a lunar mission would be a long way from home.",
+      "exampleTranslation": "执行月球任务的宇航员将离家很远。"
     },
     {
       "text": "advance scientific understanding",
       "cn": "推进科学认识",
-      "example": "Planetary samples may advance scientific understanding of the early solar system."
+      "example": "Planetary samples may advance scientific understanding of the early solar system.",
+      "exampleTranslation": "行星样本可能会促进对早期太阳系的科学认识。"
     },
     {
       "text": "justify the enormous expense",
       "cn": "证明巨额开支合理",
-      "example": "A mission must justify the enormous expense through clear objectives."
+      "example": "A mission must justify the enormous expense through clear objectives.",
+      "exampleTranslation": "任务必须通过明确的目标来证明巨额开支的合理性。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "provide early warning",
         "allocate emergency resources"
       ],
-      "argument": "Observation satellites repeatedly survey areas that would be slow or dangerous to inspect from the ground. Their data can reveal drought stress, wildfire spread and approaching storms, enabling agencies to act before local reports are complete. During major floods, for example, radar images can show inundated roads even through cloud. This advantage is both scientific and operational because it directs rescue teams and supplies. A balanced space budget should therefore protect missions whose evidence is routinely converted into public decisions."
+      "argument": "Observation satellites repeatedly survey areas that would be slow or dangerous to inspect from the ground. Their data can reveal drought stress, wildfire spread and approaching storms, enabling agencies to act before local reports are complete. During major floods, for example, radar images can show inundated roads even through cloud. This advantage is both scientific and operational because it directs rescue teams and supplies. A balanced space budget should therefore protect missions whose evidence is routinely converted into public decisions.",
+      "viewpointTranslation": "地球观测计划应在空间预算中得到优先考虑。",
+      "topicSentenceTranslation": "当所产生的信息支持地球上的紧急决策时，对卫星的投资最容易证明是合理的。",
+      "collocationTranslations": [
+        "监测作物状况",
+        "追踪极端天气",
+        "提供预警",
+        "分配应急资源"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Observation satellites repeatedly survey areas that would be slow or dangerous to inspect from the ground.",
+          "translation": "观测卫星会反复勘察从地面检查速度缓慢或危险的区域。"
+        },
+        {
+          "text": "Their data can reveal drought stress, wildfire spread and approaching storms, enabling agencies to act before local reports are complete.",
+          "translation": "他们的数据可以揭示干旱压力、野火蔓延和即将到来的风暴，使各机构能够在当地报告完成之前采取行动。"
+        },
+        {
+          "text": "During major floods, for example, radar images can show inundated roads even through cloud.",
+          "translation": "例如，在大洪水期间，雷达图像甚至可以透过云层显示被淹没的道路。"
+        },
+        {
+          "text": "This advantage is both scientific and operational because it directs rescue teams and supplies.",
+          "translation": "这种优势既具有科学性又具有可操作性，因为它可以指导救援队伍和物资。"
+        },
+        {
+          "text": "A balanced space budget should therefore protect missions whose evidence is routinely converted into public decisions.",
+          "translation": "因此，平衡的太空预算应该保护那些证据经常转化为公共决策的任务。"
+        }
+      ]
     },
     {
       "viewpoint": "Human and robotic exploration should be judged by different strengths.",
@@ -301,19 +347,107 @@
         "reduce risks to human life",
         "justify crewed involvement"
       ],
-      "argument": "A robot can travel for years without food or protection from isolation, making it suitable for hazardous and repetitive measurement. Human explorers, by contrast, can repair equipment, improvise when observations challenge expectations and select samples using broad contextual judgement. The cost and danger of supporting a crew mean that these abilities should be required, not merely celebrated. A distant outer-planet survey is consequently better automated, whereas a complex field site may eventually benefit from human decisions. Mission design should begin with the research question and then choose the least risky system capable of answering it."
+      "argument": "A robot can travel for years without food or protection from isolation, making it suitable for hazardous and repetitive measurement. Human explorers, by contrast, can repair equipment, improvise when observations challenge expectations and select samples using broad contextual judgement. The cost and danger of supporting a crew mean that these abilities should be required, not merely celebrated. A distant outer-planet survey is consequently better automated, whereas a complex field site may eventually benefit from human decisions. Mission design should begin with the research question and then choose the least risky system capable of answering it.",
+      "viewpointTranslation": "人类和机器人的探索应该根据不同的优势来判断。",
+      "topicSentenceTranslation": "对于同一任务，机器人探测器和载人任务是互补的工具，而不是简单的竞争对手。",
+      "collocationTranslations": [
+        "在恶劣的环境中运行",
+        "对意外发现做出反应",
+        "减少人类生命风险",
+        "证明机组人员参与的合理性"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A robot can travel for years without food or protection from isolation, making it suitable for hazardous and repetitive measurement.",
+          "translation": "机器人可以在没有食物或隔离保护的情况下行驶数年，使其适合危险和重复的测量。"
+        },
+        {
+          "text": "Human explorers, by contrast, can repair equipment, improvise when observations challenge expectations and select samples using broad contextual judgement.",
+          "translation": "相比之下，人类探险家可以修复设备，在观察结果挑战预期时即兴发挥，并使用广泛的背景判断来选择样本。"
+        },
+        {
+          "text": "The cost and danger of supporting a crew mean that these abilities should be required, not merely celebrated.",
+          "translation": "支持船员的成本和危险意味着这些能力应该是必需的，而不仅仅是庆祝。"
+        },
+        {
+          "text": "A distant outer-planet survey is consequently better automated, whereas a complex field site may eventually benefit from human decisions.",
+          "translation": "因此，遥远的外行星调查可以更好地自动化，而复杂的现场站点最终可能会受益于人类的决策。"
+        },
+        {
+          "text": "Mission design should begin with the research question and then choose the least risky system capable of answering it.",
+          "translation": "任务设计应该从研究问题开始，然后选择能够回答该问题的风险最小的系统。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe something you learned about space that interested you.",
-      "answer": "I once watched a short lecture about how scientists detect planets around distant stars. I had assumed that telescopes simply photographed them, but most are found indirectly. When a planet passes in front of its star, the light falls by a tiny but regular amount, and researchers compare many observations before accepting the pattern. I found that method fascinating because it turns a slight change in brightness into evidence about an object that cannot be seen clearly. The lecturer also explained that an atmosphere may leave a chemical signature in the starlight. Afterwards, space research felt less like science fiction and more like patient measurement. It made me appreciate how much can be learned from limited evidence."
+      "answer": "I once watched a short lecture about how scientists detect planets around distant stars. I had assumed that telescopes simply photographed them, but most are found indirectly. When a planet passes in front of its star, the light falls by a tiny but regular amount, and researchers compare many observations before accepting the pattern. I found that method fascinating because it turns a slight change in brightness into evidence about an object that cannot be seen clearly. The lecturer also explained that an atmosphere may leave a chemical signature in the starlight. Afterwards, space research felt less like science fiction and more like patient measurement. It made me appreciate how much can be learned from limited evidence.",
+      "questionTranslation": "描述一下您所学到的有关太空的令您感兴趣的事情。",
+      "answerSentences": [
+        {
+          "text": "I once watched a short lecture about how scientists detect planets around distant stars.",
+          "translation": "我曾经观看过一个关于科学家如何探测遥远恒星周围行星的简短讲座。"
+        },
+        {
+          "text": "I had assumed that telescopes simply photographed them, but most are found indirectly.",
+          "translation": "我原以为望远镜只是简单地拍摄它们，但大多数都是间接发现的。"
+        },
+        {
+          "text": "When a planet passes in front of its star, the light falls by a tiny but regular amount, and researchers compare many observations before accepting the pattern.",
+          "translation": "当一颗行星经过其恒星前方时，光线会下降微小但有规律的量，研究人员在接受这种模式之前会比较许多观测结果。"
+        },
+        {
+          "text": "I found that method fascinating because it turns a slight change in brightness into evidence about an object that cannot be seen clearly.",
+          "translation": "我发现这种方法很有趣，因为它将亮度的轻微变化转化为无法清晰看到的物体的证据。"
+        },
+        {
+          "text": "The lecturer also explained that an atmosphere may leave a chemical signature in the starlight.",
+          "translation": "讲师还解释说，大气层可能会在星光下留下化学特征。"
+        },
+        {
+          "text": "Afterwards, space research felt less like science fiction and more like patient measurement.",
+          "translation": "此后，太空研究不再像科幻小说，而更像是对病人的测量。"
+        },
+        {
+          "text": "It made me appreciate how much can be learned from limited evidence.",
+          "translation": "这让我意识到可以从有限的证据中学到很多东西。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "Should countries cooperate more closely in space exploration?",
-      "answer": "Yes, particularly for costly scientific infrastructure and rules governing shared orbits. Cooperation allows countries to combine specialist instruments, launch capacity and long-term funding, while researchers gain access to a broader range of data. It can also reduce unnecessary duplication. However, a multinational programme needs clear responsibility because political disagreement can delay decisions or threaten continuity. Some competition may still encourage faster innovation, but orbital debris and planetary protection cannot be managed by one state alone. Cooperation works best when objectives, data access and contingency plans are agreed before a mission begins."
+      "answer": "Yes, particularly for costly scientific infrastructure and rules governing shared orbits. Cooperation allows countries to combine specialist instruments, launch capacity and long-term funding, while researchers gain access to a broader range of data. It can also reduce unnecessary duplication. However, a multinational programme needs clear responsibility because political disagreement can delay decisions or threaten continuity. Some competition may still encourage faster innovation, but orbital debris and planetary protection cannot be managed by one state alone. Cooperation works best when objectives, data access and contingency plans are agreed before a mission begins.",
+      "questionTranslation": "各国在太空探索方面是否应该更加密切合作？",
+      "answerSentences": [
+        {
+          "text": "Yes, particularly for costly scientific infrastructure and rules governing shared orbits.",
+          "translation": "是的，特别是对于昂贵的科学基础设施和管理共享轨道的规则而言。"
+        },
+        {
+          "text": "Cooperation allows countries to combine specialist instruments, launch capacity and long-term funding, while researchers gain access to a broader range of data.",
+          "translation": "合作使各国能够将专业仪器、发射能力和长期资金结合起来，同时研究人员可以获得更广泛的数据。"
+        },
+        {
+          "text": "It can also reduce unnecessary duplication.",
+          "translation": "它还可以减少不必要的重复。"
+        },
+        {
+          "text": "However, a multinational programme needs clear responsibility because political disagreement can delay decisions or threaten continuity.",
+          "translation": "然而，跨国项目需要明确的责任，因为政治分歧可能会延迟决策或威胁连续性。"
+        },
+        {
+          "text": "Some competition may still encourage faster innovation, but orbital debris and planetary protection cannot be managed by one state alone.",
+          "translation": "一些竞争可能仍会鼓励更快的创新，但轨道碎片和行星保护不能仅由一个国家来管理。"
+        },
+        {
+          "text": "Cooperation works best when objectives, data access and contingency plans are agreed before a mission begins.",
+          "translation": "在任务开始前就目标、数据访问和应急计划达成一致时，合作效果最佳。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +484,103 @@
         "answer": "No",
         "explanation": "Paragraph D says survival alone is insufficient and productive spacecraft may be retired."
       }
+    ],
+    "titleTranslation": "聆听航天器任务结束后的声音",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A space mission is normally announced with a destination and a planned lifetime.",
+          "translation": "太空任务通常会公布目的地和计划寿命。"
+        },
+        {
+          "text": "The ending, however, is less definite than either term suggests.",
+          "translation": "然而，结局并不像这两个术语所暗示的那么明确。"
+        },
+        {
+          "text": "Engineers have repeatedly kept probes operating beyond their original schedules, sometimes for years, by adapting instruments and conserving dwindling power.",
+          "translation": "工程师们通过调整仪器和节省日益减少的电力，一再让探测器超出原定计划运行，有时甚至长达数年。"
+        },
+        {
+          "text": "These extensions can produce unusually valuable science because the spacecraft is already built, launched and functioning.",
+          "translation": "这些扩展可以产生异常有价值的科学成果，因为航天器已经建造、发射并运行。"
+        }
+      ],
+      [
+        {
+          "text": "Continuing is not free.",
+          "translation": "继续不是免费的。"
+        },
+        {
+          "text": "A distant probe still requires communication antennas, navigation calculations and teams capable of interpreting ageing hardware.",
+          "translation": "远程探测器仍然需要通信天线、导航计算和能够解释老化硬件的团队。"
+        },
+        {
+          "text": "As staff move to new projects, practical knowledge may disappear with them.",
+          "translation": "当员工转向新项目时，实践知识可能会随之消失。"
+        },
+        {
+          "text": "Components also deteriorate unevenly: a camera may fail while a magnetometer remains useful, or power may become so limited that heaters and instruments cannot operate together.",
+          "translation": "组件的老化程度也会不均匀：相机可能会出现故障，而磁力计仍然有用，或者功率可能会变得非常有限，以至于加热器和仪器无法一起运行。"
+        },
+        {
+          "text": "Controllers, deciding which systems to switch off, must preserve the spacecraft without knowing exactly which future observation will matter most.",
+          "translation": "控制人员在决定关闭哪些系统时，必须在不确切知道未来哪个观测最重要的情况下保护航天器。"
+        }
+      ],
+      [
+        {
+          "text": "Extended missions have a particular scientific advantage.",
+          "translation": "扩展任务具有特殊的科学优势。"
+        },
+        {
+          "text": "They allow comparison across time.",
+          "translation": "它们允许跨时间进行比较。"
+        },
+        {
+          "text": "A probe that revisits a planet after several seasons can distinguish a temporary event from a recurring process; one that travels beyond its first target may sample an environment no dedicated mission has reached.",
+          "translation": "几个季节后重新访问行星的探测器可以区分临时事件和重复过程；超出其第一个目标的飞行器可能会采样专门任务尚未到达的环境。"
+        },
+        {
+          "text": "Such opportunities were not always predictable when the equipment was designed, which means old instruments are occasionally used in ways their makers never anticipated.",
+          "translation": "在设计设备时，这种机会并不总是可以预测的，这意味着旧仪器有时会以制造商从未预料到的方式使用。"
+        }
+      ],
+      [
+        {
+          "text": "There are competing claims on ground resources.",
+          "translation": "对地面资源存在相互竞争的主张。"
+        },
+        {
+          "text": "Large antennas that receive faint signals are also needed by newer missions, and maintaining specialist software can be expensive.",
+          "translation": "较新的任务还需要接收微弱信号的大型天线，并且维护专业软件可能会很昂贵。"
+        },
+        {
+          "text": "Agencies therefore review extensions against scientific priorities rather than treating survival itself as sufficient.",
+          "translation": "因此，各机构审查针对科学优先事项的扩展，而不是认为生存本身就足够了。"
+        },
+        {
+          "text": "A productive spacecraft may be retired if its likely discoveries are modest compared with the observations another mission would lose while waiting for antenna time.",
+          "translation": "如果与其他任务在等待天线时间时可能丢失的观测结果相比，一个高效的航天器可能的发现是有限的，那么它可能会退役。"
+        }
+      ],
+      [
+        {
+          "text": "The final decision also has an environmental dimension.",
+          "translation": "最终决定还具有环境因素。"
+        },
+        {
+          "text": "Spacecraft near Earth or another planet must be disposed of without creating dangerous debris or contaminating places that may later be studied for signs of life.",
+          "translation": "靠近地球或其他行星的航天器必须在不产生危险碎片或污染地方的情况下进行处理，以便以后研究生命迹象。"
+        },
+        {
+          "text": "An ending can consequently require as much care as an extension.",
+          "translation": "因此，结局与延伸一样需要谨慎。"
+        },
+        {
+          "text": "The quiet years after a celebrated arrival reveal space exploration as sustained stewardship: extracting knowledge from limited machinery while recognising when continued operation no longer serves the wider programme.",
+          "translation": "著名抵达后的平静岁月揭示了太空探索是一种持续的管理：从有限的机器中提取知识，同时认识到持续运行何时不再服务于更广泛的计划。"
+        }
+      ]
     ]
   }
 }

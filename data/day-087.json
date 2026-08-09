@@ -153,7 +153,8 @@
         "a growing share of older residents",
         "a population with an increasing median age"
       ],
-      "note": "median age是常用人口指标。"
+      "note": "median age是常用人口指标。",
+      "translation": "老年人口增加，也可表达为老年人数量增多、人口老龄化或老年人在人口中所占比例上升。"
     },
     {
       "base": "fewer babies",
@@ -162,7 +163,8 @@
         "a reduction in annual births",
         "a fall in the number of children being born"
       ],
-      "note": "birth rate与出生总数并不完全相同。"
+      "note": "birth rate与出生总数并不完全相同。",
+      "translation": "新生儿减少，也可表达为出生人数下降、出生率降低或年轻人口规模缩小。"
     },
     {
       "base": "people leaving villages",
@@ -171,7 +173,8 @@
         "population loss from rural areas",
         "the movement of residents away from small communities"
       ],
-      "note": "out-migration强调迁出。"
+      "note": "out-migration强调迁出。",
+      "translation": "人们离开乡村，也可表达为农村人口外流、迁往城市或离开偏远社区。"
     },
     {
       "base": "people who can work",
@@ -180,7 +183,8 @@
         "potential labour-force participants",
         "residents within the conventional working-age range"
       ],
-      "note": "working-age不代表一定就业。"
+      "note": "working-age不代表一定就业。",
+      "translation": "能够工作的人，也可表达为劳动年龄人口、可用劳动力或能够参与就业的人群。"
     },
     {
       "base": "people live longer",
@@ -189,7 +193,8 @@
         "life expectancy has risen",
         "average survival into later life has improved"
       ],
-      "note": "life expectancy是群体统计指标。"
+      "note": "life expectancy是群体统计指标。",
+      "translation": "人们寿命延长，也可表达为预期寿命上升、长寿趋势或平均寿命延长。"
     },
     {
       "base": "change in population",
@@ -198,7 +203,8 @@
         "a shift in population structure",
         "a change in the size or composition of a population"
       ],
-      "note": "composition包括年龄等结构。"
+      "note": "composition包括年龄等结构。",
+      "translation": "人口变化，也可表达为人口结构转变、人口趋势变化或居民构成发生改变。"
     },
     {
       "base": "need more carers",
@@ -207,7 +213,8 @@
         "require an expanded care workforce",
         "experience greater labour demand in social care"
       ],
-      "note": "social care有具体行业含义。"
+      "note": "social care有具体行业含义。",
+      "translation": "需要更多照护人员，也可表达为照护需求增加、护理人员短缺或长期照护岗位扩张。"
     },
     {
       "base": "encourage people to stay",
@@ -216,51 +223,60 @@
         "limit outward migration",
         "make continued residence locally more attractive"
       ],
-      "note": "retain不代表限制迁徙自由。"
+      "note": "retain不代表限制迁徙自由。",
+      "translation": "鼓励人们留下，也可表达为留住居民、降低人口外流或让当地生活更具吸引力。"
     }
   ],
   "sentences": [
     {
       "pattern": "As + demographic group + accounts for a larger share of + population, demand for + service + is likely to rise.",
       "cn": "随着某人口群体在总人口中的占比提高，对某项服务的需求可能上升。",
-      "example": "As older adults account for a larger share of the population, demand for home-based care is likely to rise."
+      "example": "As older adults account for a larger share of the population, demand for home-based care is likely to rise.",
+      "exampleTranslation": "随着老年人在总人口中所占比例上升，居家照护需求很可能增加。"
     },
     {
       "pattern": "A fall in + population measure + does not necessarily mean + common conclusion; it may instead reflect + explanation.",
       "cn": "某项人口指标下降并不一定意味着常见结论，也可能反映另一种解释。",
-      "example": "A fall in school enrolment does not necessarily mean families dislike the area; it may instead reflect a smaller generation of children."
+      "example": "A fall in school enrolment does not necessarily mean families dislike the area; it may instead reflect a smaller generation of children.",
+      "exampleTranslation": "学校入学人数下降不一定意味着家庭不喜欢当地；它也可能反映这一代儿童人数更少。"
     },
     {
       "pattern": "For + place + to retain + group, it needs both + opportunity + and + everyday condition.",
       "cn": "某地若要留住某群体，既需要发展机会，也需要日常生活条件。",
-      "example": "For a rural town to retain young adults, it needs both suitable jobs and reliable transport and internet access."
+      "example": "For a rural town to retain young adults, it needs both suitable jobs and reliable transport and internet access.",
+      "exampleTranslation": "一个乡村城镇要留住年轻人，既需要合适的工作，也需要可靠的交通和网络连接。"
     }
   ],
   "expressions": [
     {
       "text": "move closer to family",
       "cn": "搬到离家人更近的地方",
-      "example": "My grandparents moved closer to family as they grew older."
+      "example": "My grandparents moved closer to family as they grew older.",
+      "exampleTranslation": "随着祖父母年纪增长，他们搬到了离子女更近的地方。"
     },
     {
       "text": "leave for better opportunities",
       "cn": "为更好的机会而离开",
-      "example": "Many graduates leave for better opportunities in larger cities."
+      "example": "Many graduates leave for better opportunities in larger cities.",
+      "exampleTranslation": "许多毕业生为了更好的机会前往大城市。"
     },
     {
       "text": "stay active later in life",
       "cn": "晚年保持活跃",
-      "example": "Flexible work can help people stay active later in life."
+      "example": "Flexible work can help people stay active later in life.",
+      "exampleTranslation": "灵活工作可以帮助人们在晚年继续保持活跃。"
     },
     {
       "text": "adapt public services to demographic change",
       "cn": "使公共服务适应人口变化",
-      "example": "Councils must adapt public services to demographic change."
+      "example": "Councils must adapt public services to demographic change.",
+      "exampleTranslation": "地方政府必须使公共服务适应人口变化。"
     },
     {
       "text": "maintain a viable local population",
       "cn": "维持有活力的当地人口规模",
-      "example": "Remote regions need jobs to maintain a viable local population."
+      "example": "Remote regions need jobs to maintain a viable local population.",
+      "exampleTranslation": "偏远地区需要就业机会来维持具有活力的本地人口。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "adapt workplace duties",
         "support lifelong training"
       ],
-      "argument": "A fixed retirement age treats workers of the same age as if they had identical health and occupations. An office employee may wish to reduce hours gradually, whereas someone in physically demanding work may need to leave earlier. Phased retirement and retraining can retain valuable experience without forcing everybody to remain full time. The resulting tax contributions can ease fiscal pressure, while individual choice protects those unable to continue. Adaptation should therefore focus on varied pathways through later working life rather than one higher age for all."
+      "argument": "A fixed retirement age treats workers of the same age as if they had identical health and occupations. An office employee may wish to reduce hours gradually, whereas someone in physically demanding work may need to leave earlier. Phased retirement and retraining can retain valuable experience without forcing everybody to remain full time. The resulting tax contributions can ease fiscal pressure, while individual choice protects those unable to continue. Adaptation should therefore focus on varied pathways through later working life rather than one higher age for all.",
+      "viewpointTranslation": "人口老龄化需要重新设计工作方式，而不只是增加养老金支出。",
+      "topicSentenceTranslation": "更长久的健康寿命使晚年灵活就业既成为可能，也具有经济价值。",
+      "collocationTranslations": [
+        "提供渐进式退休",
+        "留住经验丰富的劳动者",
+        "调整工作职责",
+        "支持终身培训"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A fixed retirement age treats workers of the same age as if they had identical health and occupations.",
+          "translation": "固定退休年龄把同龄劳动者视为健康状况和职业完全相同的人。"
+        },
+        {
+          "text": "An office employee may wish to reduce hours gradually, whereas someone in physically demanding work may need to leave earlier.",
+          "translation": "办公室职员可能希望逐步减少工时，而从事体力劳动的人可能需要更早离职。"
+        },
+        {
+          "text": "Phased retirement and retraining can retain valuable experience without forcing everybody to remain full time.",
+          "translation": "渐进式退休和再培训可以保留宝贵经验，同时不强迫每个人继续全职工作。"
+        },
+        {
+          "text": "The resulting tax contributions can ease fiscal pressure, while individual choice protects those unable to continue.",
+          "translation": "由此产生的税收可以缓解财政压力，而个人选择则保护了无法继续工作的人。"
+        },
+        {
+          "text": "Adaptation should therefore focus on varied pathways through later working life rather than one higher age for all.",
+          "translation": "因此，调整应着眼于晚年职业生涯中的多样化路径，而不是为所有人设定同一个更高年龄。"
+        }
+      ]
     },
     {
       "viewpoint": "Regional population decline should be managed selectively, not reversed at any cost.",
@@ -301,19 +347,99 @@
         "reuse vacant buildings",
         "plan for managed decline"
       ],
-      "argument": "A town losing residents may try to attract a major employer with costly subsidies, but global competition makes such success uncertain. Meanwhile, maintaining half-empty schools and extensive infrastructure can weaken the services that remaining residents use. Combining facilities, providing transport to regional centres and converting vacant homes may produce a more liveable smaller settlement. Investment is still necessary, particularly in digital access and healthcare. The aim should be dignity and connection, not growth treated as the only acceptable demographic outcome."
+      "argument": "A town losing residents may try to attract a major employer with costly subsidies, but global competition makes such success uncertain. Meanwhile, maintaining half-empty schools and extensive infrastructure can weaken the services that remaining residents use. Combining facilities, providing transport to regional centres and converting vacant homes may produce a more liveable smaller settlement. Investment is still necessary, particularly in digital access and healthcare. The aim should be dignity and connection, not growth treated as the only acceptable demographic outcome.",
+      "viewpointTranslation": "地区人口下降应有选择地管理，而不是不惜代价地逆转。",
+      "topicSentenceTranslation": "一些人口缩减的城镇需要以更小规模提供更好的服务，而不是作出快速增长的不现实承诺。",
+      "collocationTranslations": [
+        "整合基本服务",
+        "维持交通连接",
+        "重新利用空置建筑",
+        "规划有序收缩"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A town losing residents may try to attract a major employer with costly subsidies, but global competition makes such success uncertain.",
+          "translation": "一个人口流失的城镇可能试图用高额补贴吸引大型雇主，但全球竞争使这种成功充满不确定性。"
+        },
+        {
+          "text": "Meanwhile, maintaining half-empty schools and extensive infrastructure can weaken the services that remaining residents use.",
+          "translation": "与此同时，维持空置过半的学校和大规模基础设施，可能削弱现有居民所使用的服务。"
+        },
+        {
+          "text": "Combining facilities, providing transport to regional centres and converting vacant homes may produce a more liveable smaller settlement.",
+          "translation": "合并设施、提供前往地区中心的交通并改造空置住房，可能打造一个更宜居的小型聚居地。"
+        },
+        {
+          "text": "Investment is still necessary, particularly in digital access and healthcare.",
+          "translation": "投资仍然必要，尤其是在数字接入和医疗方面。"
+        },
+        {
+          "text": "The aim should be dignity and connection, not growth treated as the only acceptable demographic outcome.",
+          "translation": "目标应是有尊严的生活和良好连接，而不是把增长当作唯一可接受的人口结果。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a place whose population has changed noticeably.",
-      "answer": "A small town where some of my relatives live has become noticeably older over the past decade. Many school-leavers move to a nearby city for university or work, while retired people often remain because housing is affordable and they know the community well. The primary school now has fewer classes, but the health centre is busier and a former shop has become a daytime club for older residents. The town is not disappearing, yet its needs have clearly changed. Better buses and remote-working facilities might help younger adults stay without pretending that the old employment pattern will return. It made population change visible through ordinary services rather than through an abstract national statistic."
+      "answer": "A small town where some of my relatives live has become noticeably older over the past decade. Many school-leavers move to a nearby city for university or work, while retired people often remain because housing is affordable and they know the community well. The primary school now has fewer classes, but the health centre is busier and a former shop has become a daytime club for older residents. The town is not disappearing, yet its needs have clearly changed. Better buses and remote-working facilities might help younger adults stay without pretending that the old employment pattern will return. It made population change visible through ordinary services rather than through an abstract national statistic.",
+      "questionTranslation": "请描述一个人口发生明显变化的地方。",
+      "answerSentences": [
+        {
+          "text": "A small town where some of my relatives live has become noticeably older over the past decade.",
+          "translation": "我的一些亲戚居住在一个小镇，过去十年那里的人口明显老龄化。"
+        },
+        {
+          "text": "Many school-leavers move to a nearby city for university or work, while retired people often remain because housing is affordable and they know the community well.",
+          "translation": "许多中学毕业生前往附近城市上大学或工作，而退休者往往选择留下，因为当地住房负担得起，而且他们熟悉这个社区。"
+        },
+        {
+          "text": "The primary school now has fewer classes, but the health centre is busier and a former shop has become a daytime club for older residents.",
+          "translation": "小学现在班级更少了，但医疗中心更加繁忙，一家旧商店也变成了老年居民的日间活动中心。"
+        },
+        {
+          "text": "The town is not disappearing, yet its needs have clearly changed.",
+          "translation": "这个小镇并没有消失，但它的需求显然已经改变。"
+        },
+        {
+          "text": "Better buses and remote-working facilities might help younger adults stay without pretending that the old employment pattern will return.",
+          "translation": "更好的公交和远程工作设施或许能帮助年轻人留下来，而不必假装过去的就业模式会重新出现。"
+        },
+        {
+          "text": "It made population change visible through ordinary services rather than through an abstract national statistic.",
+          "translation": "这让我通过日常服务而不是抽象的全国统计数据，看到了人口变化。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "How does population ageing affect families?",
-      "answer": "Families may spend more time and money caring for older relatives, especially when formal services are limited. Adult children can face difficult choices between employment, childcare and travelling to provide support. At the same time, older people often contribute by caring for grandchildren, sharing knowledge or offering financial help. The effect is therefore not simply a burden. Policies such as flexible leave, accessible healthcare and suitable housing can help families manage care without assuming that relatives—usually women—will provide unlimited unpaid work."
+      "answer": "Families may spend more time and money caring for older relatives, especially when formal services are limited. Adult children can face difficult choices between employment, childcare and travelling to provide support. At the same time, older people often contribute by caring for grandchildren, sharing knowledge or offering financial help. The effect is therefore not simply a burden. Policies such as flexible leave, accessible healthcare and suitable housing can help families manage care without assuming that relatives—usually women—will provide unlimited unpaid work.",
+      "questionTranslation": "人口老龄化会怎样影响家庭？",
+      "answerSentences": [
+        {
+          "text": "Families may spend more time and money caring for older relatives, especially when formal services are limited.",
+          "translation": "家庭可能需要投入更多时间和金钱照顾年长亲属，尤其是在正规服务有限的情况下。"
+        },
+        {
+          "text": "Adult children can face difficult choices between employment, childcare and travelling to provide support.",
+          "translation": "成年子女可能不得不在工作、照顾孩子和奔波照护亲人之间作出艰难选择。"
+        },
+        {
+          "text": "At the same time, older people often contribute by caring for grandchildren, sharing knowledge or offering financial help.",
+          "translation": "与此同时，老年人也常常通过照顾孙辈、分享知识或提供经济帮助作出贡献。"
+        },
+        {
+          "text": "The effect is therefore not simply a burden.",
+          "translation": "因此，其影响并不只是负担。"
+        },
+        {
+          "text": "Policies such as flexible leave, accessible healthcare and suitable housing can help families manage care without assuming that relatives—usually women—will provide unlimited unpaid work.",
+          "translation": "灵活休假、便利的医疗和合适的住房等政策可以帮助家庭安排照护，而不应假定亲属——通常是女性——会无限承担无偿照护工作。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -349,6 +475,85 @@
           "A larger bus network is the main solution to ageing."
         ]
       }
+    ],
+    "titleTranslation": "当校车上的乘客越来越少",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Population decline rarely arrives as a single dramatic event.",
+          "translation": "人口下降很少以一次剧烈事件的形式到来。"
+        },
+        {
+          "text": "In the northern district of Valmere, it first appeared as empty seats on a school bus.",
+          "translation": "在北部的瓦尔米尔地区，它最初表现为校车上的空座位。"
+        },
+        {
+          "text": "Births had fallen gradually, and young adults who left for college were returning less often than earlier generations.",
+          "translation": "出生人数逐渐下降，而外出上大学的年轻人回乡的比例也低于前几代人。"
+        },
+        {
+          "text": "The total population decreased by only six per cent over a decade, yet the number of primary-age children fell by almost a quarter.",
+          "translation": "十年间总人口只减少了百分之六，但小学学龄儿童人数却下降了近四分之一。"
+        }
+      ],
+      [
+        {
+          "text": "This uneven change mattered because public services are organised around particular groups, not an abstract resident count.",
+          "translation": "这种不均衡变化很重要，因为公共服务是围绕特定群体而非抽象的居民总数来组织的。"
+        },
+        {
+          "text": "Three village schools still required buildings, heating and specialist staff even as classes shrank.",
+          "translation": "即使班级规模缩小，三所乡村学校仍需要校舍、供暖和专业教师。"
+        },
+        {
+          "text": "Closing two sites would save money and widen the range of subjects at the remaining school, but some children would travel for more than an hour.",
+          "translation": "关闭其中两所学校可以节省资金，也能扩大剩余学校的科目范围，但一些儿童的路程将超过一小时。"
+        },
+        {
+          "text": "Parents feared that removing a school would also make their village less attractive to the few young families considering a move there.",
+          "translation": "家长担心，撤掉学校还会使村庄对少数考虑迁居当地的年轻家庭失去吸引力。"
+        }
+      ],
+      [
+        {
+          "text": "The district tested a shared model before closing anything.",
+          "translation": "该地区在关闭任何学校之前先试行了共享模式。"
+        },
+        {
+          "text": "Teachers of science and languages travelled between schools on fixed days, while older pupils used joint online lessons for subjects with very small groups.",
+          "translation": "科学和语言教师在固定日期往返各校，高年级学生则通过联合线上课堂学习人数很少的科目。"
+        },
+        {
+          "text": "One building opened its kitchen and library to the wider community, combining education with services that would otherwise have occupied separate premises.",
+          "translation": "一栋校舍向整个社区开放厨房和图书馆，把教育与原本需要使用其他场所的服务结合起来。"
+        },
+        {
+          "text": "The arrangement did not eliminate costs, and poor winter roads sometimes disrupted staff travel, but it bought time for better evidence.",
+          "translation": "这种安排没有消除成本，冬季道路状况不佳有时也会影响教师出行，但它为获得更充分的证据争取了时间。"
+        }
+      ],
+      [
+        {
+          "text": "After four years, one school eventually merged with another when enrolment fell below a workable level.",
+          "translation": "四年后，当入学人数降到无法维持的水平时，其中一所学校最终与另一所合并。"
+        },
+        {
+          "text": "The building remained a childcare and community centre, and the bus route was redesigned around parents’ working hours rather than the old school timetable alone.",
+          "translation": "原校舍继续作为儿童照护和社区中心，公交路线也根据家长的工作时间重新设计，而不再只围绕旧校时刻表。"
+        },
+        {
+          "text": "Valmere did not reverse its demographic trend.",
+          "translation": "瓦尔米尔没有扭转其人口趋势。"
+        },
+        {
+          "text": "Instead, it learned that adaptation involves deciding which function must survive, not necessarily preserving every institution in its original form.",
+          "translation": "相反，它认识到适应变化意味着决定哪些功能必须保留，而不一定要让每个机构都维持原有形式。"
+        },
+        {
+          "text": "A smaller population can still be served well, provided change is planned before empty seats become empty buildings.",
+          "translation": "只要在人去楼空之前提前规划变化，较少的人口仍然可以获得良好服务。"
+        }
+      ]
     ]
   }
 }

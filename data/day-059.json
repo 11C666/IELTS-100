@@ -153,7 +153,8 @@
         "enable",
         "make it easier to"
       ],
-      "note": "enable 后接宾语和 to do。 本组可用于讨论平等与机会。"
+      "note": "enable 后接宾语和 to do。 本组可用于讨论平等与机会。",
+      "translation": "help 表示帮助；assist 指协助，enable 表示使某人或某事能够做到，make it easier to 表示让某事更容易完成。"
     },
     {
       "base": "problem",
@@ -162,7 +163,8 @@
         "concern",
         "obstacle"
       ],
-      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论平等与机会。"
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论平等与机会。",
+      "translation": "问题可以表达为挑战、关注、障碍。"
     },
     {
       "base": "change",
@@ -171,7 +173,8 @@
         "development",
         "transformation"
       ],
-      "note": "transformation 表示幅度较大的变化。 本组可用于讨论平等与机会。"
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论平等与机会。",
+      "translation": "变化可以表现为转变、发展、转变。"
     },
     {
       "base": "important",
@@ -180,7 +183,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论平等与机会。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论平等与机会。",
+      "translation": "important 表示重要；significant 强调意义或影响重大，crucial 强调关键性，essential 强调必不可少。"
     },
     {
       "base": "result",
@@ -189,7 +193,8 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论平等与机会。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论平等与机会。",
+      "translation": "结果可以表示为结果、后果、效果。"
     },
     {
       "base": "improve",
@@ -198,7 +203,8 @@
         "strengthen",
         "raise the quality of"
       ],
-      "note": "搭配对象不同，不能机械互换。 本组可用于讨论平等与机会。"
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论平等与机会。",
+      "translation": "改进可以表示为提高、加强、提高质量。"
     },
     {
       "base": "reduce",
@@ -207,7 +213,8 @@
         "limit",
         "bring down"
       ],
-      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论平等与机会。"
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论平等与机会。",
+      "translation": "减少可以表达为减少、限制、降低。"
     },
     {
       "base": "people",
@@ -216,51 +223,60 @@
         "members of the public",
         "residents"
       ],
-      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论平等与机会。"
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论平等与机会。",
+      "translation": "人们可以表示为个人、公众成员、居民。"
     }
   ],
   "sentences": [
     {
       "pattern": "Equal treatment produces equal opportunity only when + starting conditions + are comparable.",
       "cn": "只有起点条件相当时，同等对待才会带来机会平等。",
-      "example": "Equal treatment produces equal opportunity only when applicants face comparable barriers."
+      "example": "Equal treatment produces equal opportunity only when applicants face comparable barriers.",
+      "exampleTranslation": "只有当申请人面临类似的障碍时，平等待遇才会产生平等机会。"
     },
     {
       "pattern": "Removing + formal barrier + does not automatically eliminate + informal disadvantage.",
       "cn": "消除正式障碍并不会自动消除非正式劣势。",
-      "example": "Removing an application fee does not automatically eliminate unequal access to guidance."
+      "example": "Removing an application fee does not automatically eliminate unequal access to guidance.",
+      "exampleTranslation": "取消申请费并不会自动消除获得指导的不平等。"
     },
     {
       "pattern": "The extent to which + selection method + is fair depends on whether it measures + relevant ability.",
       "cn": "某选拔方法是否公平，取决于它是否衡量相关能力。",
-      "example": "The extent to which an interview is fair depends on whether it measures skills needed for the role."
+      "example": "The extent to which an interview is fair depends on whether it measures skills needed for the role.",
+      "exampleTranslation": "面试的公平程度取决于它是否衡量该职位所需的技能。"
     }
   ],
   "expressions": [
     {
       "text": "have an equal chance",
       "cn": "拥有平等机会",
-      "example": "Every qualified applicant should have an equal chance to demonstrate ability."
+      "example": "Every qualified applicant should have an equal chance to demonstrate ability.",
+      "exampleTranslation": "每个合格的申请人都应该有平等的机会展示自己的能力。"
     },
     {
       "text": "level the playing field",
       "cn": "创造更公平条件",
-      "example": "Loan equipment can help level the playing field."
+      "example": "Loan equipment can help level the playing field.",
+      "exampleTranslation": "借用设备有助于创造公平的竞争环境。"
     },
     {
       "text": "face a barrier to entry",
       "cn": "面临准入障碍",
-      "example": "Unpaid internships create a barrier to entry."
+      "example": "Unpaid internships create a barrier to entry.",
+      "exampleTranslation": "无薪实习造成了进入壁垒。"
     },
     {
       "text": "be judged on merit",
       "cn": "凭能力接受评判",
-      "example": "Candidates want to be judged on merit."
+      "example": "Candidates want to be judged on merit.",
+      "exampleTranslation": "候选人希望人们根据能力和实际表现来评判自己。"
     },
     {
       "text": "widen access to opportunity",
       "cn": "扩大机会获取",
-      "example": "Transparent recruitment can widen access to opportunity."
+      "example": "Transparent recruitment can widen access to opportunity.",
+      "exampleTranslation": "透明的招聘流程可以扩大人们获得机会的渠道。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "reduce subjective bias",
         "give comparable opportunities"
       ],
-      "argument": "Informal interviews can reward shared background, confidence or familiarity with unwritten conventions. A structured work sample gives candidates the same task and criteria, producing evidence closer to future performance. Adjustments may still be needed so disability or equipment does not distort the result. No method removes judgement entirely, but explicit criteria make decisions easier to challenge and improve. Merit is more credible when the process reveals what it actually means."
+      "argument": "Informal interviews can reward shared background, confidence or familiarity with unwritten conventions. A structured work sample gives candidates the same task and criteria, producing evidence closer to future performance. Adjustments may still be needed so disability or equipment does not distort the result. No method removes judgement entirely, but explicit criteria make decisions easier to challenge and improve. Merit is more credible when the process reveals what it actually means.",
+      "viewpointTranslation": "公平选拔应直接衡量相关能力。",
+      "topicSentenceTranslation": "当证据与任务密切相关时，招聘和录取就会变得更加公平。",
+      "collocationTranslations": [
+        "使用结构化评估",
+        "评估相关能力",
+        "减少主观偏见",
+        "提供类似的机会"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Informal interviews can reward shared background, confidence or familiarity with unwritten conventions.",
+          "translation": "非正式访谈可以奖励共同的背景、信心或对不成文惯例的熟悉程度。"
+        },
+        {
+          "text": "A structured work sample gives candidates the same task and criteria, producing evidence closer to future performance.",
+          "translation": "结构化工作样本为候选人提供相同的任务和标准，提供更接近未来绩效的证据。"
+        },
+        {
+          "text": "Adjustments may still be needed so disability or equipment does not distort the result.",
+          "translation": "可能仍需要进行调整，以便残障或设备不会扭曲结果。"
+        },
+        {
+          "text": "No method removes judgement entirely, but explicit criteria make decisions easier to challenge and improve.",
+          "translation": "没有任何方法可以完全消除判断，但明确的标准可以使决策更容易受到挑战和改进。"
+        },
+        {
+          "text": "Merit is more credible when the process reveals what it actually means.",
+          "translation": "当过程揭示其实际含义时，优点就更可信。"
+        }
+      ]
     },
     {
       "viewpoint": "Opportunity sometimes requires unequal support.",
@@ -301,19 +347,99 @@
         "remove participation barriers",
         "expand substantive opportunity"
       ],
-      "argument": "A free course is formally open, yet a learner without transport, childcare or a device may remain unable to attend. Targeted grants or equipment do not guarantee success; they reduce an obstacle unrelated to academic effort. Support should be proportionate and reviewed for effectiveness. Treating every difference in provision as unfair confuses identical inputs with meaningful access. Equal opportunity concerns the ability to participate and demonstrate competence, not the appearance of uniform treatment."
+      "argument": "A free course is formally open, yet a learner without transport, childcare or a device may remain unable to attend. Targeted grants or equipment do not guarantee success; they reduce an obstacle unrelated to academic effort. Support should be proportionate and reviewed for effectiveness. Treating every difference in provision as unfair confuses identical inputs with meaningful access. Equal opportunity concerns the ability to participate and demonstrate competence, not the appearance of uniform treatment.",
+      "viewpointTranslation": "机会有时需要不平等的支持。",
+      "topicSentenceTranslation": "当起始障碍不同时，向每个人提供相同的资源可能会保持劣势。",
+      "collocationTranslations": [
+        "解决不平等的起点",
+        "提供有针对性的帮助",
+        "消除参与障碍",
+        "扩大实质性机会"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A free course is formally open, yet a learner without transport, childcare or a device may remain unable to attend.",
+          "translation": "免费课程已正式开放，但没有交通、托儿服务或设备的学习者可能仍然无法参加。"
+        },
+        {
+          "text": "Targeted grants or equipment do not guarantee success; they reduce an obstacle unrelated to academic effort.",
+          "translation": "有针对性的赠款或设备并不能保证成功；它们减少了与学术努力无关的障碍。"
+        },
+        {
+          "text": "Support should be proportionate and reviewed for effectiveness.",
+          "translation": "支持应该是相称的，并应审查其有效性。"
+        },
+        {
+          "text": "Treating every difference in provision as unfair confuses identical inputs with meaningful access.",
+          "translation": "将规定中的每一个差异都视为不公平，混淆了相同的投入和有意义的获取。"
+        },
+        {
+          "text": "Equal opportunity concerns the ability to participate and demonstrate competence, not the appearance of uniform treatment.",
+          "translation": "平等机会涉及参与和展示能力的能力，而不是统一待遇的外观。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do you think people have equal educational opportunities?",
-      "answer": "No, even where schools are free, resources and conditions differ. Some pupils have quiet space, tutoring and informed advice, while others manage work or care responsibilities. Schools can reduce these gaps, but they cannot control every household factor. Equality needs to be examined in practical access, not only formal rules."
+      "answer": "No, even where schools are free, resources and conditions differ. Some pupils have quiet space, tutoring and informed advice, while others manage work or care responsibilities. Schools can reduce these gaps, but they cannot control every household factor. Equality needs to be examined in practical access, not only formal rules.",
+      "questionTranslation": "您认为人们享有平等的教育机会吗？",
+      "answerSentences": [
+        {
+          "text": "No, even where schools are free, resources and conditions differ.",
+          "translation": "不，即使学校是免费的，资源和条件也不同。"
+        },
+        {
+          "text": "Some pupils have quiet space, tutoring and informed advice, while others manage work or care responsibilities.",
+          "translation": "一些学生有安静的空间、辅导和明智的建议，而另一些学生则负责工作或照顾责任。"
+        },
+        {
+          "text": "Schools can reduce these gaps, but they cannot control every household factor.",
+          "translation": "学校可以缩小这些差距，但无法控制每个家庭因素。"
+        },
+        {
+          "text": "Equality needs to be examined in practical access, not only formal rules.",
+          "translation": "平等需要在实际的机会中得到检验，而不仅仅是形式规则。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a situation in which someone was given a fair opportunity.",
-      "answer": "I saw a fair process when a community organisation recruited assistants for an event. Instead of asking for previous event experience, it gave applicants a short scheduling problem and clear information about the role. Interviews used the same questions, and candidates could request an accessible format. One successful applicant had never worked at an event but showed excellent organisation through caring responsibilities and school projects. Training covered the specific procedures afterwards. The process seemed fair because it did not lower the standard; it measured the abilities actually needed and allowed different backgrounds to provide evidence. It also showed how an entry-level opportunity can remain genuinely open to beginners."
+      "answer": "I saw a fair process when a community organisation recruited assistants for an event. Instead of asking for previous event experience, it gave applicants a short scheduling problem and clear information about the role. Interviews used the same questions, and candidates could request an accessible format. One successful applicant had never worked at an event but showed excellent organisation through caring responsibilities and school projects. Training covered the specific procedures afterwards. The process seemed fair because it did not lower the standard; it measured the abilities actually needed and allowed different backgrounds to provide evidence. It also showed how an entry-level opportunity can remain genuinely open to beginners.",
+      "questionTranslation": "描述某人获得公平机会的情况。",
+      "answerSentences": [
+        {
+          "text": "I saw a fair process when a community organisation recruited assistants for an event.",
+          "translation": "当一个社区组织为一项活动招募助理时，我看到了一个公平的过程。"
+        },
+        {
+          "text": "Instead of asking for previous event experience, it gave applicants a short scheduling problem and clear information about the role.",
+          "translation": "它没有询问以前的活动经验，而是给申请人提供了一个简短的日程安排问题和有关该角色的清晰信息。"
+        },
+        {
+          "text": "Interviews used the same questions, and candidates could request an accessible format.",
+          "translation": "面试使用相同的问题，候选人可以要求采用易于理解的格式。"
+        },
+        {
+          "text": "One successful applicant had never worked at an event but showed excellent organisation through caring responsibilities and school projects.",
+          "translation": "一位成功的申请者从未参与过任何活动，但通过照顾责任和学校项目表现出了出色的组织能力。"
+        },
+        {
+          "text": "Training covered the specific procedures afterwards.",
+          "translation": "培训涵盖了事后的具体程序。"
+        },
+        {
+          "text": "The process seemed fair because it did not lower the standard; it measured the abilities actually needed and allowed different backgrounds to provide evidence.",
+          "translation": "这个过程看起来很公平，因为它没有降低标准；它衡量了实际需要的能力，并允许不同的背景提供证据。"
+        },
+        {
+          "text": "It also showed how an entry-level opportunity can remain genuinely open to beginners.",
+          "translation": "它还展示了入门级机会如何真正向初学者开放。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +470,107 @@
         "answer": "preparation, entry, assessment and progression",
         "explanation": "The final paragraph lists them."
       }
+    ],
+    "titleTranslation": "屏幕后面的试镜",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Orchestras have used screened auditions to reduce the influence of identity on selection.",
+          "translation": "乐团通过筛选试镜来减少身份对选择的影响。"
+        },
+        {
+          "text": "Musicians perform behind a barrier so judges hear without seeing name, gender or appearance.",
+          "translation": "音乐家在屏障后面表演，这样评委就可以在看不到名字、性别或外表的情况下听到声音。"
+        },
+        {
+          "text": "The method is often cited as proof that removing information produces merit-based choice.",
+          "translation": "该方法经常被引用作为删除信息会产生择优选择的证据。"
+        },
+        {
+          "text": "Its effect, however, depends on which stage of opportunity is examined.",
+          "translation": "然而，其效果取决于所考察的机会阶段。"
+        }
+      ],
+      [
+        {
+          "text": "A screen can reduce visual bias during performance, but it cannot equalise years of access to instruments, tuition and time for practice.",
+          "translation": "屏幕可以减少表演过程中的视觉偏差，但它无法抵消多年使用乐器、学费和练习时间的影响。"
+        },
+        {
+          "text": "Travel costs may affect who attends, while reputation can influence earlier shortlisting if recordings are not anonymous.",
+          "translation": "旅行费用可能会影响参加者，而如果录音不是匿名的，声誉可能会影响早期的入围名单。"
+        },
+        {
+          "text": "Fairness at one decision point does not erase unequal preparation or entry.",
+          "translation": "某一决策点的公平性并不能消除不平等的准备或进入。"
+        }
+      ],
+      [
+        {
+          "text": "The method also works because musical performance can be sampled directly.",
+          "translation": "该方法也有效，因为可以直接对音乐表演进行采样。"
+        },
+        {
+          "text": "In occupations where collaboration, explanation or physical interaction matters, complete anonymity may remove relevant evidence.",
+          "translation": "在协作、解释或身体互动很重要的职业中，完全匿名可能会消除相关证据。"
+        },
+        {
+          "text": "The appropriate lesson is not that every selection process should be blind, but that irrelevant information should be separated from the capability being assessed wherever possible.",
+          "translation": "适当的教训不是每个选择过程都应该是盲目的，而是应该尽可能将不相关的信息与正在评估的能力分开。"
+        }
+      ],
+      [
+        {
+          "text": "Procedural details matter.",
+          "translation": "程序细节很重要。"
+        },
+        {
+          "text": "Footsteps can reveal footwear, judges may recognise a distinctive style and the order of performance can affect attention.",
+          "translation": "脚步声可以揭示鞋子，评委可能会识别出独特的风格，而表演的顺序会影响注意力。"
+        },
+        {
+          "text": "Organisations refine screens, carpets and scoring criteria in response.",
+          "translation": "作为回应，组织改进了屏幕、地毯和评分标准。"
+        },
+        {
+          "text": "These imperfections do not make the attempt useless; they show that fairness is a design problem requiring testing rather than a one-time declaration.",
+          "translation": "这些缺陷并不会使尝试变得毫无意义；他们表明，公平性是一个需要测试的设计问题，而不是一次性声明。"
+        }
+      ],
+      [
+        {
+          "text": "A fair opportunity has several stages: preparation, entry, assessment and progression.",
+          "translation": "一个公平的机会有几个阶段：准备、进入、评估和进步。"
+        },
+        {
+          "text": "Intervention at one stage can produce meaningful improvement while leaving other barriers in place.",
+          "translation": "某一阶段的干预可以产生有意义的改善，同时保留其他障碍。"
+        },
+        {
+          "text": "Claims should therefore be precise.",
+          "translation": "因此，声明应该准确。"
+        },
+        {
+          "text": "A screened audition can make one judgement more focused on sound, but equality requires continued attention to who reaches the screen and what happens after selection.",
+          "translation": "经过筛选的试镜可以使判断更加注重声音，但平等需要持续关注谁到达屏幕以及选择后会发生什么。"
+        },
+        {
+          "text": "Progression is frequently the least visible stage.",
+          "translation": "进展通常是最不明显的阶段。"
+        },
+        {
+          "text": "An organisation may recruit a diverse entry group while promotion relies on informal sponsorship and assignments offered through existing networks.",
+          "translation": "组织可能会招募多元化的参赛团体，而晋升则依赖于通过现有网络提供的非正式赞助和任务。"
+        },
+        {
+          "text": "Publishing criteria, tracking access to developmental work and reviewing who advances can reveal where opportunity narrows later.",
+          "translation": "发布标准、跟踪开发工作的访问情况以及审查谁取得了进步，可以揭示以后机会的缩小范围。"
+        },
+        {
+          "text": "Fair entry is meaningful, but it should open a pathway rather than produce a diverse first photograph.",
+          "translation": "公平的参赛是有意义的，但它应该开辟一条道路，而不是产生一张多样化的第一张照片。"
+        }
+      ]
     ]
   }
 }

@@ -153,7 +153,8 @@
         "frequently observed",
         "part of everyday life"
       ],
-      "note": "widespread 较正式，强调分布广。 本组可用于讨论广告。"
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论广告。",
+      "translation": "common 表示常见；widespread、frequently observed 和 part of everyday life 可表达普遍或日常可见。"
     },
     {
       "base": "help",
@@ -162,7 +163,8 @@
         "enable",
         "make it easier to"
       ],
-      "note": "enable 后接宾语和 to do。 本组可用于讨论广告。"
+      "note": "enable 后接宾语和 to do。 本组可用于讨论广告。",
+      "translation": "help 表示帮助；assist、enable 和 make it easier to 可用于不同正式程度的语境。"
     },
     {
       "base": "problem",
@@ -171,7 +173,8 @@
         "concern",
         "obstacle"
       ],
-      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论广告。"
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论广告。",
+      "translation": "problem 表示问题；challenge、concern 和 obstacle 可分别强调挑战、隐忧或障碍。"
     },
     {
       "base": "change",
@@ -180,7 +183,8 @@
         "development",
         "transformation"
       ],
-      "note": "transformation 表示幅度较大的变化。 本组可用于讨论广告。"
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论广告。",
+      "translation": "change 表示变化；shift、development 和 transformation 可表示不同幅度的改变。"
     },
     {
       "base": "important",
@@ -189,7 +193,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论广告。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论广告。",
+      "translation": "important 表示重要；significant、crucial 和 essential 可表达不同程度的重要性。"
     },
     {
       "base": "result",
@@ -198,7 +203,8 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论广告。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论广告。",
+      "translation": "result 表示结果；outcome、consequence 和 effect 可根据语境替换。"
     },
     {
       "base": "improve",
@@ -207,7 +213,8 @@
         "strengthen",
         "raise the quality of"
       ],
-      "note": "搭配对象不同，不能机械互换。 本组可用于讨论广告。"
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论广告。",
+      "translation": "improve 表示改善；enhance、strengthen 和 raise the quality of 可强调提升或加强。"
     },
     {
       "base": "reduce",
@@ -216,51 +223,60 @@
         "limit",
         "bring down"
       ],
-      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论广告。"
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论广告。",
+      "translation": "reduce 表示减少；decrease、limit 和 bring down 可表达降低或控制。"
     }
   ],
   "sentences": [
     {
       "pattern": "Advertising influences consumers not only by + information, but by associating + product + with + feeling/identity.",
       "cn": "广告不仅通过信息影响消费者，还把产品与感受或身份联系起来。",
-      "example": "Advertising influences consumers not only by describing a product, but by associating it with social status."
+      "example": "Advertising influences consumers not only by describing a product, but by associating it with social status.",
+      "exampleTranslation": "广告不仅通过描述产品影响消费者，也会把产品与社会地位联系起来。"
     },
     {
       "pattern": "The less able + audience + is to recognise + commercial intent, the stronger the case for + protection.",
       "cn": "受众越难识别商业意图，就越有理由加强保护。",
-      "example": "The less able children are to recognise commercial intent, the stronger the case for advertising restrictions."
+      "example": "The less able children are to recognise commercial intent, the stronger the case for advertising restrictions.",
+      "exampleTranslation": "儿童越难识别商业意图，限制广告的理由就越充分。"
     },
     {
       "pattern": "A claim that is technically true may still mislead if + omitted context.",
       "cn": "某主张即使技术上真实，若缺少语境仍可能误导。",
-      "example": "A claim that is technically true may still mislead if the comparison uses an unusually weak competitor."
+      "example": "A claim that is technically true may still mislead if the comparison uses an unusually weak competitor.",
+      "exampleTranslation": "如果比较对象是异常弱的竞争者，一项技术上真实的说法仍可能误导消费者。"
     }
   ],
   "expressions": [
     {
       "text": "catch someone’s attention",
       "cn": "吸引某人注意",
-      "example": "Bright movement catches attention before the brand is understood."
+      "example": "Bright movement catches attention before the brand is understood.",
+      "exampleTranslation": "鲜艳的动态画面可能在人们理解品牌信息之前就吸引注意力。"
     },
     {
       "text": "target a particular audience",
       "cn": "针对特定受众",
-      "example": "The campaign targets first-time buyers."
+      "example": "The campaign targets first-time buyers.",
+      "exampleTranslation": "这项活动面向首次购房者。"
     },
     {
       "text": "make an exaggerated claim",
       "cn": "作夸大宣传",
-      "example": "Advertisers should not make an exaggerated health claim."
+      "example": "Advertisers should not make an exaggerated health claim.",
+      "exampleTranslation": "广告商不应作出夸大的健康声明。"
     },
     {
       "text": "influence purchasing decisions",
       "cn": "影响购买决定",
-      "example": "Repeated exposure can influence purchasing decisions."
+      "example": "Repeated exposure can influence purchasing decisions.",
+      "exampleTranslation": "反复接触广告会影响购买决定。"
     },
     {
       "text": "clearly label sponsored content",
       "cn": "清楚标注赞助内容",
-      "example": "Influencers should clearly label sponsored content."
+      "example": "Influencers should clearly label sponsored content.",
+      "exampleTranslation": "网红应明确标注赞助内容。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "protect consumer understanding",
         "avoid hidden persuasion"
       ],
-      "argument": "An influencer’s recommendation may resemble an ordinary personal opinion even when payment or free products are involved. A small label revealed only after a user opens more text does not inform the first impression. Disclosures should appear clearly in the same language and medium as the promotion. This does not prevent creators from advertising or audiences from choosing the product. It ensures that apparent independence is not itself part of the sales technique."
+      "argument": "An influencer’s recommendation may resemble an ordinary personal opinion even when payment or free products are involved. A small label revealed only after a user opens more text does not inform the first impression. Disclosures should appear clearly in the same language and medium as the promotion. This does not prevent creators from advertising or audiences from choosing the product. It ensures that apparent independence is not itself part of the sales technique.",
+      "viewpointTranslation": "赞助内容必须在用户互动前就能被识别。",
+      "topicSentenceTranslation": "受众无需调查创作者与品牌的关系，就应能识别商业内容。",
+      "collocationTranslations": [
+        "披露商业关系",
+        "标注赞助内容",
+        "保护消费者知情理解",
+        "避免隐性说服"
+      ],
+      "argumentSentences": [
+        {
+          "text": "An influencer’s recommendation may resemble an ordinary personal opinion even when payment or free products are involved.",
+          "translation": "即使涉及付款或免费产品，网红的推荐也可能看起来像普通个人意见。"
+        },
+        {
+          "text": "A small label revealed only after a user opens more text does not inform the first impression.",
+          "translation": "只有在用户展开更多文字后才出现的小标签，无法解释最初印象。"
+        },
+        {
+          "text": "Disclosures should appear clearly in the same language and medium as the promotion.",
+          "translation": "披露信息应使用与推广相同的语言和媒介，并清晰呈现。"
+        },
+        {
+          "text": "This does not prevent creators from advertising or audiences from choosing the product.",
+          "translation": "这不会阻止创作者做广告，也不会阻止受众选择产品。"
+        },
+        {
+          "text": "It ensures that apparent independence is not itself part of the sales technique.",
+          "translation": "它确保所谓的独立性不会成为销售技巧的一部分。"
+        }
+      ]
     },
     {
       "viewpoint": "Children require stronger advertising protection.",
@@ -301,19 +347,95 @@
         "protect young consumers",
         "limit commercial pressure"
       ],
-      "argument": "Children may remember a character or game without understanding that its purpose is to sell. Personalised advertising can use detailed behaviour to reach them at moments of vulnerability. Restrictions on data-based targeting and clear separation from entertainment reduce this imbalance. Parents still influence purchases, but they cannot supervise every screen or peer conversation. Regulation is justified because the audience has limited capacity to evaluate the commercial strategy being used."
+      "argument": "Children may remember a character or game without understanding that its purpose is to sell. Personalised advertising can use detailed behaviour to reach them at moments of vulnerability. Restrictions on data-based targeting and clear separation from entertainment reduce this imbalance. Parents still influence purchases, but they cannot supervise every screen or peer conversation. Regulation is justified because the audience has limited capacity to evaluate the commercial strategy being used.",
+      "viewpointTranslation": "儿童需要更有力的广告保护。",
+      "topicSentenceTranslation": "年轻受众识别说服意图、区分娱乐与推广的能力较弱。",
+      "collocationTranslations": [
+        "识别说服意图",
+        "限制行为定向广告",
+        "保护年轻消费者",
+        "限制商业压力"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Children may remember a character or game without understanding that its purpose is to sell.",
+          "translation": "儿童可能记住一个角色或游戏，却不明白其目的是销售产品。"
+        },
+        {
+          "text": "Personalised advertising can use detailed behaviour to reach them at moments of vulnerability.",
+          "translation": "个性化广告可以利用详细的行为数据，在他们容易受影响的时刻接触他们。"
+        },
+        {
+          "text": "Restrictions on data-based targeting and clear separation from entertainment reduce this imbalance.",
+          "translation": "限制基于数据的定向投放，并把广告与娱乐明确分开，可以减少这种不平衡。"
+        },
+        {
+          "text": "Parents still influence purchases, but they cannot supervise every screen or peer conversation.",
+          "translation": "父母仍会影响购买，但无法监督每个屏幕或每次同伴交流。"
+        },
+        {
+          "text": "Regulation is justified because the audience has limited capacity to evaluate the commercial strategy being used.",
+          "translation": "由于受众评估所用商业策略的能力有限，监管是合理的。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Do advertisements often affect what you buy?",
-      "answer": "They probably affect what I notice more than what I finally choose. An advertisement may introduce a product, but I usually compare reviews and prices before buying anything expensive. Repetition can create familiarity, though, and I sometimes recognise a brand without remembering where I saw it. Awareness of that familiarity effect helps me pause before choosing."
+      "answer": "They probably affect what I notice more than what I finally choose. An advertisement may introduce a product, but I usually compare reviews and prices before buying anything expensive. Repetition can create familiarity, though, and I sometimes recognise a brand without remembering where I saw it. Awareness of that familiarity effect helps me pause before choosing.",
+      "questionTranslation": "广告经常影响你购买的东西吗？",
+      "answerSentences": [
+        {
+          "text": "They probably affect what I notice more than what I finally choose.",
+          "translation": "与最终选择相比，广告可能更影响我注意到什么。"
+        },
+        {
+          "text": "An advertisement may introduce a product, but I usually compare reviews and prices before buying anything expensive.",
+          "translation": "广告可能让我认识一种产品，但购买昂贵物品前，我通常会比较评价和价格。"
+        },
+        {
+          "text": "Repetition can create familiarity, though, and I sometimes recognise a brand without remembering where I saw it.",
+          "translation": "不过，重复出现会产生熟悉感，有时我能认出一个品牌，却不记得在哪里见过。"
+        },
+        {
+          "text": "Awareness of that familiarity effect helps me pause before choosing.",
+          "translation": "意识到这种熟悉效应能帮助我在选择前停下来思考。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe an advertisement you remember well.",
-      "answer": "I remember an outdoor advertisement for a reusable bottle. It showed a row of disposable bottles representing the amount one person might use in a year, with the reusable bottle placed beside them. The visual comparison was immediate and required almost no text. I later checked the company because the image made the waste problem concrete, although I did not buy that exact product. What I admired was the simplicity of the message; what made me cautious was that the environmental claim said little about how the bottle itself was produced. The advertisement succeeded in attracting attention and changing how I thought about the category, even though it did not directly produce a sale."
+      "answer": "I remember an outdoor advertisement for a reusable bottle. It showed a row of disposable bottles representing the amount one person might use in a year, with the reusable bottle placed beside them. The visual comparison was immediate and required almost no text. I later checked the company because the image made the waste problem concrete, although I did not buy that exact product. What I admired was the simplicity of the message; what made me cautious was that the environmental claim said little about how the bottle itself was produced. The advertisement succeeded in attracting attention and changing how I thought about the category, even though it did not directly produce a sale.",
+      "questionTranslation": "描述一个你印象深刻的广告。",
+      "answerSentences": [
+        {
+          "text": "I remember an outdoor advertisement for a reusable bottle.",
+          "translation": "我记得一则可重复使用水瓶的户外广告。"
+        },
+        {
+          "text": "It showed a row of disposable bottles representing the amount one person might use in a year, with the reusable bottle placed beside them.",
+          "translation": "它展示了一排一次性水瓶，代表一个人一年可能使用的数量，旁边放着可重复使用的水瓶。"
+        },
+        {
+          "text": "The visual comparison was immediate and required almost no text.",
+          "translation": "这种视觉比较非常直观，几乎不需要文字。"
+        },
+        {
+          "text": "I later checked the company because the image made the waste problem concrete, although I did not buy that exact product.",
+          "translation": "后来我查看了这家公司，因为图片让浪费问题变得具体，尽管我没有购买那个特定产品。"
+        },
+        {
+          "text": "What I admired was the simplicity of the message; what made me cautious was that the environmental claim said little about how the bottle itself was produced.",
+          "translation": "我欣赏的是信息的简洁；让我保持谨慎的是，其环保声明几乎没有说明水瓶本身如何生产。"
+        },
+        {
+          "text": "The advertisement succeeded in attracting attention and changing how I thought about the category, even though it did not directly produce a sale.",
+          "translation": "这则广告成功吸引了注意力，也改变了我对这类产品的看法，尽管它没有直接促成购买。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +472,111 @@
         "answer": "understanding",
         "explanation": "Paragraph 4 uses this word."
       }
+    ],
+    "titleTranslation": "当广告看起来像建议",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Traditional advertisements interrupt other content and are usually easy to identify.",
+          "translation": "传统广告会打断其他内容，通常很容易识别。"
+        },
+        {
+          "text": "Native advertising does the opposite: it adopts the style of the article, video or social post surrounding it.",
+          "translation": "原生广告则相反：它会采用周围文章、视频或社交帖子的风格。"
+        },
+        {
+          "text": "The format can provide useful information, but it also borrows credibility from an editorial or personal setting.",
+          "translation": "这种形式可以提供有用信息，但也会借用编辑环境或个人语境的可信度。"
+        },
+        {
+          "text": "The central question is whether audiences recognise who is speaking and why.",
+          "translation": "核心问题是受众是否知道谁在表达，以及目的是什么。"
+        }
+      ],
+      [
+        {
+          "text": "Recognition depends on more than a label.",
+          "translation": "识别广告不能只依赖一个标签。"
+        },
+        {
+          "text": "Terms such as “partner content” may be understood by media professionals but remain unclear to ordinary readers.",
+          "translation": "“合作内容”等词可能为媒体专业人士所理解，但普通读者仍会感到含糊。"
+        },
+        {
+          "text": "Placement, colour and timing influence whether disclosure is noticed before the promotional claim.",
+          "translation": "位置、颜色和出现时间会影响披露信息能否在推广说法之前被注意到。"
+        },
+        {
+          "text": "Research using eye-tracking suggests that a technically visible label can still receive little attention when design directs the eye elsewhere.",
+          "translation": "使用眼动追踪的研究表明，当设计把视线引向其他地方时，技术上可见的标签仍可能几乎不被关注。"
+        }
+      ],
+      [
+        {
+          "text": "Influencer promotion adds the language of personal experience.",
+          "translation": "网红推广还会加入个人体验的语言。"
+        },
+        {
+          "text": "A creator may genuinely like a product and also receive payment, so sincerity does not remove the commercial relationship.",
+          "translation": "创作者可能真心喜欢某种产品，同时也收取报酬，因此真诚并不能消除商业关系。"
+        },
+        {
+          "text": "Followers often value a creator’s apparent independence and may interpret an enthusiastic story as advice from a familiar person.",
+          "translation": "粉丝常看重创作者表面上的独立性，并可能把热情讲述理解为熟人的建议。"
+        },
+        {
+          "text": "Clear disclosure allows them to consider that incentive without assuming the opinion is necessarily false.",
+          "translation": "明确披露能让他们考虑这种激励因素，而无需认定该意见必然虚假。"
+        }
+      ],
+      [
+        {
+          "text": "Advertisers argue that rigid labels can disrupt creative communication.",
+          "translation": "广告商认为，僵化的标签可能干扰创意传播。"
+        },
+        {
+          "text": "However, the purpose of disclosure is precisely to interrupt one possible interpretation: that no commercial motive exists.",
+          "translation": "然而，披露的目的正是要打断一种可能的理解：不存在商业动机。"
+        },
+        {
+          "text": "Rules can permit different formats while requiring ordinary words, sufficient prominence and appearance before a purchasing link.",
+          "translation": "规则可以允许不同形式，同时要求使用普通词语、足够醒目，并在购买链接之前出现。"
+        },
+        {
+          "text": "Regulators can test understanding rather than prescribe one permanent design.",
+          "translation": "监管机构可以测试受众理解，而不必规定一种永久不变的设计。"
+        }
+      ],
+      [
+        {
+          "text": "The boundary between information and persuasion will remain flexible as platforms change.",
+          "translation": "随着平台变化，信息与说服之间的界限仍会保持弹性。"
+        },
+        {
+          "text": "Ethical advertising does not require every message to look unattractive.",
+          "translation": "合乎伦理的广告并不要求每条信息都缺乏吸引力。"
+        },
+        {
+          "text": "It requires that design skill is not used to hide the category of communication itself.",
+          "translation": "它要求设计技巧不能被用来隐藏传播本身的类别。"
+        },
+        {
+          "text": "Audiences may welcome recommendations and branded stories, but their consent to persuasion is meaningful only when the commercial role is apparent.",
+          "translation": "受众可能欢迎推荐和品牌故事，但只有当商业角色清晰可见时，他们同意接受说服才有意义。"
+        },
+        {
+          "text": "Media education can help audiences recognise these formats, but the burden cannot rest entirely on individuals.",
+          "translation": "媒介教育可以帮助受众识别这些形式，但责任不能完全落在个人身上。"
+        },
+        {
+          "text": "Advertising systems are tested professionally and repeated at scale, whereas a user may encounter them while tired or distracted.",
+          "translation": "广告系统经过专业测试并大规模重复投放，而用户可能在疲倦或分心时遇到它们。"
+        },
+        {
+          "text": "Clear design standards reduce the need for constant suspicion and allow education to focus on evaluating claims after the commercial relationship is visible.",
+          "translation": "清晰的设计标准可以减少时刻保持怀疑的需要，并让教育在商业关系可见后专注于评估具体说法。"
+        }
+      ]
     ]
   }
 }

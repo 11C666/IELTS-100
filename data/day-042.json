@@ -153,7 +153,8 @@
         "backing",
         "provision"
       ],
-      "note": "provision 常指服务或资源的供给。 本组可用于讨论城市生活。"
+      "note": "provision 常指服务或资源的供给。 本组可用于讨论城市生活。",
+      "translation": "support 表示支持；assistance、backing 和 provision 可分别表示帮助、支持及供给。"
     },
     {
       "base": "different",
@@ -162,7 +163,8 @@
         "varied",
         "diverse"
       ],
-      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论城市生活。"
+      "note": "distinct 强调有明确区别；diverse 强调多样性。 本组可用于讨论城市生活。",
+      "translation": "different 表示不同；distinct、varied 和 diverse 可强调区别、变化或多样性。"
     },
     {
       "base": "common",
@@ -171,7 +173,8 @@
         "frequently observed",
         "part of everyday life"
       ],
-      "note": "widespread 较正式，强调分布广。 本组可用于讨论城市生活。"
+      "note": "widespread 较正式，强调分布广。 本组可用于讨论城市生活。",
+      "translation": "common 表示常见；widespread、frequently observed 和 part of everyday life 可表达普遍或日常可见。"
     },
     {
       "base": "help",
@@ -180,7 +183,8 @@
         "enable",
         "make it easier to"
       ],
-      "note": "enable 后接宾语和 to do。 本组可用于讨论城市生活。"
+      "note": "enable 后接宾语和 to do。 本组可用于讨论城市生活。",
+      "translation": "help 表示帮助；assist、enable 和 make it easier to 可用于不同正式程度的语境。"
     },
     {
       "base": "problem",
@@ -189,7 +193,8 @@
         "concern",
         "obstacle"
       ],
-      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论城市生活。"
+      "note": "obstacle 强调阻碍；concern 强调担忧。 本组可用于讨论城市生活。",
+      "translation": "problem 表示问题；challenge、concern 和 obstacle 可分别强调挑战、隐忧或障碍。"
     },
     {
       "base": "change",
@@ -198,7 +203,8 @@
         "development",
         "transformation"
       ],
-      "note": "transformation 表示幅度较大的变化。 本组可用于讨论城市生活。"
+      "note": "transformation 表示幅度较大的变化。 本组可用于讨论城市生活。",
+      "translation": "change 表示变化；shift、development 和 transformation 可表示不同幅度的改变。"
     },
     {
       "base": "important",
@@ -207,7 +213,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论城市生活。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论城市生活。",
+      "translation": "important 表示重要；significant、crucial 和 essential 可表达不同程度的重要性。"
     },
     {
       "base": "result",
@@ -216,51 +223,60 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论城市生活。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论城市生活。",
+      "translation": "result 表示结果；outcome、consequence 和 effect 可根据语境替换。"
     }
   ],
   "sentences": [
     {
       "pattern": "What draws people to + city feature + is not merely + attraction, but + opportunity.",
       "cn": "吸引人们来到某城市事物的不只是……，还有……。",
-      "example": "What draws people to city centres is not merely entertainment, but the chance for unplanned encounters."
+      "example": "What draws people to city centres is not merely entertainment, but the chance for unplanned encounters.",
+      "exampleTranslation": "吸引人们前往市中心的不仅是娱乐，还有偶然相遇的机会。"
     },
     {
       "pattern": "As + urban area + becomes denser, access to + resource + becomes increasingly important.",
       "cn": "随着城市地区更加密集，获得某种资源变得愈发重要。",
-      "example": "As neighbourhoods become denser, access to quiet green space becomes increasingly important."
+      "example": "As neighbourhoods become denser, access to quiet green space becomes increasingly important.",
+      "exampleTranslation": "随着社区人口密度增加，获得安静绿地变得越来越重要。"
     },
     {
       "pattern": "Unless + urban service + keeps pace with + growth, + negative outcome.",
       "cn": "除非城市服务跟上某种增长，否则……。",
-      "example": "Unless public services keep pace with population growth, residents may experience declining living standards."
+      "example": "Unless public services keep pace with population growth, residents may experience declining living standards.",
+      "exampleTranslation": "除非公共服务跟上人口增长，否则居民的生活水平可能下降。"
     }
   ],
   "expressions": [
     {
       "text": "the hustle and bustle",
       "cn": "熙熙攘攘",
-      "example": "I enjoy the hustle and bustle of the city centre in small doses."
+      "example": "I enjoy the hustle and bustle of the city centre in small doses.",
+      "exampleTranslation": "我偶尔会享受市中心的喧嚣热闹。"
     },
     {
       "text": "right on my doorstep",
       "cn": "近在家门口",
-      "example": "Shops and cafés are right on my doorstep."
+      "example": "Shops and cafés are right on my doorstep.",
+      "exampleTranslation": "商店和咖啡馆就在我家门口。"
     },
     {
       "text": "a fast pace of life",
       "cn": "快节奏生活",
-      "example": "Some people find the fast pace of city life exhausting."
+      "example": "Some people find the fast pace of city life exhausting.",
+      "exampleTranslation": "有些人觉得城市生活的快节奏令人疲惫。"
     },
     {
       "text": "feel anonymous in a crowd",
-      "cn": "在人群中感到匿名或疏离",
-      "example": "It is possible to feel anonymous in a crowd despite living near thousands of people."
+      "cn": "在人群中感到无人知晓或与他人疏离",
+      "example": "It is possible to feel anonymous in a crowd despite living near thousands of people.",
+      "exampleTranslation": "即使身边住着成千上万的人，人们仍可能在人群中感到无人真正认识自己。"
     },
     {
       "text": "improve urban liveability",
       "cn": "提升城市宜居性",
-      "example": "Quiet streets and local parks improve urban liveability."
+      "example": "Quiet streets and local parks improve urban liveability.",
+      "exampleTranslation": "安静的街道和社区公园能提高城市宜居性。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "reduce travel distances",
         "expand public capacity"
       ],
-      "argument": "More residents within walking distance can support frequent transport, shops and public services that would not survive in a dispersed area. This reduces the need for long car journeys and gives people more daily choices nearby. However, density without schools, drainage or open space produces crowding rather than convenience. Planning permission should therefore be linked to timely investment in shared infrastructure. A compact city succeeds by concentrating access, not simply buildings."
+      "argument": "More residents within walking distance can support frequent transport, shops and public services that would not survive in a dispersed area. This reduces the need for long car journeys and gives people more daily choices nearby. However, density without schools, drainage or open space produces crowding rather than convenience. Planning permission should therefore be linked to timely investment in shared infrastructure. A compact city succeeds by concentrating access, not simply buildings.",
+      "viewpointTranslation": "当服务随人口同步发展时，人口密度可以改善便利程度。",
+      "topicSentenceTranslation": "紧凑型城市开发可以缩短出行距离并支持本地设施，但前提是基础设施充足。",
+      "collocationTranslations": [
+        "支持紧凑型开发",
+        "提供本地生活设施",
+        "缩短出行距离",
+        "扩大公共服务容量"
+      ],
+      "argumentSentences": [
+        {
+          "text": "More residents within walking distance can support frequent transport, shops and public services that would not survive in a dispersed area.",
+          "translation": "步行范围内有更多居民，便能支撑班次频繁的交通、商店和公共服务，而这些设施在居民分散的地区可能无法维持。"
+        },
+        {
+          "text": "This reduces the need for long car journeys and gives people more daily choices nearby.",
+          "translation": "这减少了长途驾车的需要，也让人们在附近拥有更多日常选择。"
+        },
+        {
+          "text": "However, density without schools, drainage or open space produces crowding rather than convenience.",
+          "translation": "然而，如果缺少学校、排水设施或开放空间，高密度带来的会是拥挤而非便利。"
+        },
+        {
+          "text": "Planning permission should therefore be linked to timely investment in shared infrastructure.",
+          "translation": "因此，规划许可应与共享基础设施的及时投资挂钩。"
+        },
+        {
+          "text": "A compact city succeeds by concentrating access, not simply buildings.",
+          "translation": "紧凑型城市的成功在于集中提供便利，而不只是集中建筑。"
+        }
+      ]
     },
     {
       "viewpoint": "Cities need places where spending money is optional.",
@@ -301,19 +347,103 @@
         "host informal activity",
         "serve diverse residents"
       ],
-      "argument": "Cafés and shopping centres provide comfortable meeting places, but entry is indirectly conditional on consumption. Parks, squares and libraries allow teenagers, older people and low-income residents to remain without purchasing anything. Such spaces support observation, rest and weak social ties between neighbours who may not know one another well. Their maintenance is a public expense, yet the benefit is broad participation in city life. Commercial vitality should complement rather than replace a genuinely public realm."
+      "argument": "Cafés and shopping centres provide comfortable meeting places, but entry is indirectly conditional on consumption. Parks, squares and libraries allow teenagers, older people and low-income residents to remain without purchasing anything. Such spaces support observation, rest and weak social ties between neighbours who may not know one another well. Their maintenance is a public expense, yet the benefit is broad participation in city life. Commercial vitality should complement rather than replace a genuinely public realm.",
+      "viewpointTranslation": "城市需要一些无需花钱也能停留的地方。",
+      "topicSentenceTranslation": "公共城市生活依赖人人可进入、且不要求居民成为消费者的空间。",
+      "collocationTranslations": [
+        "保护公共空间",
+        "促进社会交往",
+        "容纳非正式活动",
+        "服务多元居民"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Cafés and shopping centres provide comfortable meeting places, but entry is indirectly conditional on consumption.",
+          "translation": "咖啡馆和购物中心提供舒适的会面场所，但进入其中实际上以消费为条件。"
+        },
+        {
+          "text": "Parks, squares and libraries allow teenagers, older people and low-income residents to remain without purchasing anything.",
+          "translation": "公园、广场和图书馆让青少年、老年人及低收入居民无需购物也能停留。"
+        },
+        {
+          "text": "Such spaces support observation, rest and weak social ties between neighbours who may not know one another well.",
+          "translation": "这些空间支持观察、休息，也能在彼此不太熟悉的邻居之间建立较弱但有价值的社会联系。"
+        },
+        {
+          "text": "Their maintenance is a public expense, yet the benefit is broad participation in city life.",
+          "translation": "维护这些空间需要公共支出，但其益处是让更多人广泛参与城市生活。"
+        },
+        {
+          "text": "Commercial vitality should complement rather than replace a genuinely public realm.",
+          "translation": "商业活力应当补充而不应取代真正的公共空间。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What do you like most about living in a city?",
-      "answer": "I value having several useful places within a short distance. I can reach a supermarket, clinic and metro station without planning a whole trip. There is also more variety in food and cultural events. The convenience matters most on ordinary weekdays, not only when I want entertainment. That combination makes everyday urban life much easier to manage."
+      "answer": "I value having several useful places within a short distance. I can reach a supermarket, clinic and metro station without planning a whole trip. There is also more variety in food and cultural events. The convenience matters most on ordinary weekdays, not only when I want entertainment. That combination makes everyday urban life much easier to manage.",
+      "questionTranslation": "生活在城市里，你最喜欢什么？",
+      "answerSentences": [
+        {
+          "text": "I value having several useful places within a short distance.",
+          "translation": "我看重的是短距离内就有多个实用场所。"
+        },
+        {
+          "text": "I can reach a supermarket, clinic and metro station without planning a whole trip.",
+          "translation": "我无需专门规划一次完整行程，就能到达超市、诊所和地铁站。"
+        },
+        {
+          "text": "There is also more variety in food and cultural events.",
+          "translation": "这里的餐饮和文化活动也更加多样。"
+        },
+        {
+          "text": "The convenience matters most on ordinary weekdays, not only when I want entertainment.",
+          "translation": "这种便利在普通工作日最为重要，而不只是在我想娱乐时。"
+        },
+        {
+          "text": "That combination makes everyday urban life much easier to manage.",
+          "translation": "这些因素结合起来，让日常城市生活更容易安排。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe an area of a city that you enjoy visiting.",
-      "answer": "I enjoy visiting an older riverside district that has narrow streets and small independent shops. The area is busiest at weekends, but I prefer going on weekday mornings when local residents are using the market. I usually walk along the river, buy something simple for lunch and spend time in a public garden nearby. What I like is the mixture of activity and quiet space. Historic buildings have been reused rather than turned into a single tourist attraction, so the district still feels lived in. Public transport is convenient, and I do not need a fixed plan once I arrive. The visit reminds me that a good urban area can support commerce, housing and ordinary relaxation at the same time."
+      "answer": "I enjoy visiting an older riverside district that has narrow streets and small independent shops. The area is busiest at weekends, but I prefer going on weekday mornings when local residents are using the market. I usually walk along the river, buy something simple for lunch and spend time in a public garden nearby. What I like is the mixture of activity and quiet space. Historic buildings have been reused rather than turned into a single tourist attraction, so the district still feels lived in. Public transport is convenient, and I do not need a fixed plan once I arrive. The visit reminds me that a good urban area can support commerce, housing and ordinary relaxation at the same time.",
+      "questionTranslation": "描述一个你喜欢游览的城市区域。",
+      "answerSentences": [
+        {
+          "text": "I enjoy visiting an older riverside district that has narrow streets and small independent shops.",
+          "translation": "我喜欢去一个较古老的河畔街区，那里有狭窄的街道和小型独立商店。"
+        },
+        {
+          "text": "The area is busiest at weekends, but I prefer going on weekday mornings when local residents are using the market.",
+          "translation": "这个地区周末最繁忙，但我更喜欢工作日上午去，那时当地居民会逛市场。"
+        },
+        {
+          "text": "I usually walk along the river, buy something simple for lunch and spend time in a public garden nearby.",
+          "translation": "我通常沿河散步，买些简单的午餐，再到附近的公共花园待一会儿。"
+        },
+        {
+          "text": "What I like is the mixture of activity and quiet space.",
+          "translation": "我喜欢的是那里活动与安静空间的结合。"
+        },
+        {
+          "text": "Historic buildings have been reused rather than turned into a single tourist attraction, so the district still feels lived in.",
+          "translation": "历史建筑得到了重新利用，而不是被改造成单一旅游景点，因此这个街区仍有真实的生活气息。"
+        },
+        {
+          "text": "Public transport is convenient, and I do not need a fixed plan once I arrive.",
+          "translation": "公共交通很方便，我到达后也不需要制定固定计划。"
+        },
+        {
+          "text": "The visit reminds me that a good urban area can support commerce, housing and ordinary relaxation at the same time.",
+          "translation": "这次游览让我意识到，优质城市区域可以同时容纳商业、居住和日常休闲。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +480,111 @@
         "answer": "workers, residents and disabled users",
         "explanation": "Paragraph 4 lists these groups."
       }
+    ],
+    "titleTranslation": "夜间城市不同于日间城市",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "City plans often describe permanent features—roads, buildings and land uses—while urban experience changes sharply by the hour.",
+          "translation": "城市规划常描述道路、建筑和土地用途等永久性特征，而城市体验却会随时间显著变化。"
+        },
+        {
+          "text": "A business district crowded at noon may be almost empty after offices close.",
+          "translation": "中午拥挤的商业区可能在办公室关门后几乎空无一人。"
+        },
+        {
+          "text": "A residential street that feels calm in daylight may become difficult to cross during an evening delivery period.",
+          "translation": "白天宁静的住宅街道，在晚间送货时段可能变得难以穿行。"
+        },
+        {
+          "text": "Understanding city life therefore requires attention to time as well as space.",
+          "translation": "因此，理解城市生活既要关注空间，也要关注时间。"
+        }
+      ],
+      [
+        {
+          "text": "Night workers expose this difference.",
+          "translation": "夜间工作者突显了这种差异。"
+        },
+        {
+          "text": "Hospital staff, cleaners, security guards and food workers travel when frequent daytime services have ended.",
+          "translation": "医院员工、清洁工、保安和餐饮从业者出行时，白天频繁的交通服务已经结束。"
+        },
+        {
+          "text": "A journey that requires one direct bus at six in the evening may require two connections at midnight.",
+          "translation": "傍晚六点只需乘一班直达公交的路程，到了午夜可能需要换乘两次。"
+        },
+        {
+          "text": "Survey data from several cities indicate that reduced off-peak frequency particularly affects workers with lower incomes, who are less able to substitute a taxi.",
+          "translation": "多个城市的调查数据表明，非高峰时段班次减少对低收入工作者影响尤其大，因为他们较难改乘出租车。"
+        }
+      ],
+      [
+        {
+          "text": "Public space also changes function.",
+          "translation": "公共空间的功能也会改变。"
+        },
+        {
+          "text": "A square used by office workers for lunch may host teenagers later and early-morning deliveries afterwards.",
+          "translation": "办公人员午餐时使用的广场，稍后可能迎来青少年，之后又用于清晨送货。"
+        },
+        {
+          "text": "Conflict occurs when one group’s presence is treated as abnormal even though the design never stated whose use should take priority.",
+          "translation": "如果某一群体的出现被视为反常，就会引发冲突，尽管设计本身从未规定谁应优先使用。"
+        },
+        {
+          "text": "Lighting can improve visibility, but excessive brightness disturbs residents and does not address harassment or an absence of open businesses.",
+          "translation": "照明可以提高可见度，但过强的亮光会打扰居民，也无法解决骚扰或缺少营业场所的问题。"
+        }
+      ],
+      [
+        {
+          "text": "Some authorities conduct night-time audits in which planners travel routes with workers, residents and disabled users.",
+          "translation": "一些管理部门会开展夜间审查，让规划人员与工作者、居民和残障使用者一同沿路线行走。"
+        },
+        {
+          "text": "The exercise reveals locked entrances, long waits and streets where activity disappears suddenly.",
+          "translation": "这种做法能发现上锁的入口、漫长的等待，以及活动突然消失的街道。"
+        },
+        {
+          "text": "Small changes—coordinated timetables, a later public toilet or a well-positioned crossing—may improve access more than a major visual redesign.",
+          "translation": "协调时刻表、延长公共厕所开放时间或合理设置过街设施等小改变，可能比大规模视觉改造更能改善通行。"
+        }
+      ],
+      [
+        {
+          "text": "A twenty-four-hour city need not remain equally active everywhere.",
+          "translation": "二十四小时城市不必让所有地方始终保持同等活跃。"
+        },
+        {
+          "text": "Quiet periods are valuable, and residential areas require sleep.",
+          "translation": "安静时段很有价值，住宅区也需要保障睡眠。"
+        },
+        {
+          "text": "The aim is to recognise that essential life continues outside the hours when most planning meetings occur.",
+          "translation": "目标是认识到，即使在大多数规划会议举行的时段之外，必要的城市生活仍在继续。"
+        },
+        {
+          "text": "When evidence is collected only from daytime conditions, the needs of night-time users remain visible in employment statistics but invisible in the design of the city that they keep operating.",
+          "translation": "如果证据只取自白天状况，夜间使用者的需求会出现在就业统计中，却不会反映在他们帮助维持运转的城市设计里。"
+        },
+        {
+          "text": "Seasonal darkness adds another variation.",
+          "translation": "季节性黑暗还会带来另一种变化。"
+        },
+        {
+          "text": "A route used comfortably at seven in summer may feel entirely different at the same hour in winter.",
+          "translation": "夏季七点走起来舒适的路线，在冬季同一时间可能给人完全不同的感受。"
+        },
+        {
+          "text": "Audits repeated across seasons can reveal vegetation blocking light, changes in footfall and weather exposure that a single visit misses.",
+          "translation": "跨季节重复开展审查，可以发现单次走访会忽略的植被遮光、人流变化和天气暴露问题。"
+        },
+        {
+          "text": "Time-sensitive planning therefore includes the calendar as well as the clock.",
+          "translation": "因此，具有时间意识的规划既要考虑时钟，也要考虑日历。"
+        }
+      ]
     ]
   }
 }

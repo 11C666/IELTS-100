@@ -153,7 +153,8 @@
         "hazard-related emergency",
         "destructive event shaped by hazard and vulnerability"
       ],
-      "note": "灾害不仅由自然过程决定。"
+      "note": "灾害不仅由自然过程决定。",
+      "translation": "自然灾害"
     },
     {
       "base": "prepare for disaster",
@@ -162,7 +163,8 @@
         "plan for emergencies",
         "build capacity before a hazard occurs"
       ],
-      "note": "capacity包括人员、制度和资源。"
+      "note": "capacity包括人员、制度和资源。",
+      "translation": "为灾害做好准备"
     },
     {
       "base": "warn people",
@@ -171,7 +173,8 @@
         "communicate imminent risk",
         "deliver an actionable early warning"
       ],
-      "note": "actionable强调收到后知道怎么办。"
+      "note": "actionable强调收到后知道怎么办。",
+      "translation": "向人们发出预警"
     },
     {
       "base": "people at risk",
@@ -180,7 +183,8 @@
         "vulnerable populations",
         "communities facing elevated disaster risk"
       ],
-      "note": "vulnerable需说明具体脆弱因素。"
+      "note": "vulnerable需说明具体脆弱因素。",
+      "translation": "面临风险的人群"
     },
     {
       "base": "recover quickly",
@@ -189,7 +193,8 @@
         "restore essential functions",
         "reduce the period of disruption"
       ],
-      "note": "restore functions不等于恢复原貌。"
+      "note": "restore functions不等于恢复原貌。",
+      "translation": "迅速恢复"
     },
     {
       "base": "strong building",
@@ -198,7 +203,8 @@
         "building designed to withstand impact",
         "structure compliant with resilient codes"
       ],
-      "note": "code-compliant更具体。"
+      "note": "code-compliant更具体。",
+      "translation": "坚固的建筑"
     },
     {
       "base": "emergency help",
@@ -207,7 +213,8 @@
         "immediate humanitarian assistance",
         "support delivered during the response phase"
       ],
-      "note": "response与长期recovery区分。"
+      "note": "response与长期recovery区分。",
+      "translation": "紧急援助"
     },
     {
       "base": "damage gets worse",
@@ -216,51 +223,60 @@
         "secondary impacts emerge",
         "initial disruption produces cascading effects"
       ],
-      "note": "cascading effects适合基础设施连锁故障。"
+      "note": "cascading effects适合基础设施连锁故障。",
+      "translation": "损害加剧"
     }
   ],
   "sentences": [
     {
       "pattern": "A hazard becomes a disaster when + a dangerous natural event + affects + exposed and vulnerable people or infrastructure.",
       "cn": "当天然事件与暴露和脆弱条件相遇时，风险才演变成灾害。",
-      "example": "A storm becomes a disaster when extreme winds intersect with fragile housing and limited evacuation options."
+      "example": "A storm becomes a disaster when extreme winds intersect with fragile housing and limited evacuation options.",
+      "exampleTranslation": "当极端强风与脆弱住房和有限撤离选择相遇时，风暴才会变成灾难。"
     },
     {
       "pattern": "Warnings, unless + clearly communicated and linked to action, may + fail to protect people + despite + an accurate forecast.",
       "cn": "预警如果没有满足某种实际条件，即使技术上准确也可能失效。",
-      "example": "Warnings, unless delivered in a language residents understand, may fail despite technical accuracy."
+      "example": "Warnings, unless delivered in a language residents understand, may fail despite technical accuracy.",
+      "exampleTranslation": "预警如果没有使用居民理解的语言，即使技术上准确也可能失效。"
     },
     {
       "pattern": "The speed with which + electricity, water or transport + is restored can determine whether + the initial disaster + develops into + a wider humanitarian crisis.",
       "cn": "某项服务恢复的速度，可能决定最初事件是否演变成次生危机。",
-      "example": "The speed with which drinking water is restored can determine whether a flood develops into a public-health crisis."
+      "example": "The speed with which drinking water is restored can determine whether a flood develops into a public-health crisis.",
+      "exampleTranslation": "恢复饮用水供应的速度，可能决定洪水是否演变为公共卫生危机。"
     }
   ],
   "expressions": [
     {
       "text": "know what to do in an emergency",
       "cn": "知道紧急情况下该做什么",
-      "example": "A clear drill helps children know what to do in an emergency."
+      "example": "A clear drill helps children know what to do in an emergency.",
+      "exampleTranslation": "清晰的演练能帮助儿童知道紧急情况下该怎么做。"
     },
     {
       "text": "get back on your feet",
       "cn": "重新站稳脚跟",
-      "example": "Small grants helped shop owners get back on their feet."
+      "example": "Small grants helped shop owners get back on their feet.",
+      "exampleTranslation": "小额补助帮助店主恢复经营。"
     },
     {
       "text": "take warnings seriously",
       "cn": "认真对待预警",
-      "example": "Residents are more likely to take warnings seriously when earlier alerts were accurate."
+      "example": "Residents are more likely to take warnings seriously when earlier alerts were accurate.",
+      "exampleTranslation": "先前警报准确时，居民更可能认真对待预警。"
     },
     {
       "text": "reduce exposure to hazards",
       "cn": "降低对灾害风险源的暴露",
-      "example": "Land-use planning can reduce exposure to hazards."
+      "example": "Land-use planning can reduce exposure to hazards.",
+      "exampleTranslation": "土地利用规划可以降低人们面临灾害的程度。"
     },
     {
       "text": "prevent cascading failures",
       "cn": "防止连锁故障",
-      "example": "Backup power can prevent cascading failures in hospitals."
+      "example": "Backup power can prevent cascading failures in hospitals.",
+      "exampleTranslation": "备用电源可以防止医院出现连锁故障。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "maintain backup systems",
         "avoid cascading failures"
       ],
-      "argument": "A severe event becomes more destructive when electricity, water and communication fail together. Reinforced facilities, backup power and rehearsed responsibilities can keep essential services operating during the first critical hours. Although prevention spending lacks the visibility of post-disaster aid, it reduces both human suffering and later reconstruction costs. For example, a functioning clinic can treat injuries before transport routes reopen. Governments should therefore maintain preparedness budgets even during long periods without a major event."
+      "argument": "A severe event becomes more destructive when electricity, water and communication fail together. Reinforced facilities, backup power and rehearsed responsibilities can keep essential services operating during the first critical hours. Although prevention spending lacks the visibility of post-disaster aid, it reduces both human suffering and later reconstruction costs. For example, a functioning clinic can treat injuries before transport routes reopen. Governments should therefore maintain preparedness budgets even during long periods without a major event.",
+      "viewpointTranslation": "防灾资金应在灾害发生前保护基本系统。",
+      "topicSentenceTranslation": "在灾害发生前投资，往往比事后完全依赖紧急救援更有效。",
+      "collocationTranslations": [
+        "加强关键基础设施",
+        "开展防灾演练",
+        "维护备用系统",
+        "避免连锁故障"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A severe event becomes more destructive when electricity, water and communication fail together.",
+          "translation": "当电力、供水和通信同时中断时，严重事件会造成更大破坏。"
+        },
+        {
+          "text": "Reinforced facilities, backup power and rehearsed responsibilities can keep essential services operating during the first critical hours.",
+          "translation": "加固设施、备用电源和经过演练的职责分工，可以让基本服务在最关键的最初几小时保持运行。"
+        },
+        {
+          "text": "Although prevention spending lacks the visibility of post-disaster aid, it reduces both human suffering and later reconstruction costs.",
+          "translation": "尽管预防支出不像灾后援助那样显眼，却能减少人员痛苦和后续重建成本。"
+        },
+        {
+          "text": "For example, a functioning clinic can treat injuries before transport routes reopen.",
+          "translation": "例如，正常运作的诊所可以在交通路线重新开放前救治伤员。"
+        },
+        {
+          "text": "Governments should therefore maintain preparedness budgets even during long periods without a major event.",
+          "translation": "因此，即使长期没有重大灾害，政府也应维持防灾预算。"
+        }
+      ],
+      "translation": "当电力、供水和通信同时中断时，严重事件会造成更大破坏。加固设施、备用电源和经过演练的职责分工，可以让基本服务在最关键的最初几小时保持运行。尽管预防支出不像灾后援助那样显眼，却能减少人员痛苦和后续重建成本。例如，正常运作的诊所可以在交通路线重新开放前救治伤员。因此，即使长期没有重大灾害，政府也应维持防灾预算。"
     },
     {
       "viewpoint": "Recovery should address previous vulnerability rather than reproduce it.",
@@ -301,19 +348,106 @@
         "restore secure livelihoods",
         "involve affected residents"
       ],
-      "argument": "Rapid reconstruction can provide housing and jobs, but speed alone is a poor measure of recovery. If homes return to a floodplain with identical materials, public money recreates the original risk. Safer locations, stronger codes and restored local livelihoods can reduce future losses, although plans must reflect residents’ needs and land rights. Community participation helps distinguish necessary improvement from relocation imposed for unrelated development. Recovery succeeds when people regain stable lives with less vulnerability than before."
+      "argument": "Rapid reconstruction can provide housing and jobs, but speed alone is a poor measure of recovery. If homes return to a floodplain with identical materials, public money recreates the original risk. Safer locations, stronger codes and restored local livelihoods can reduce future losses, although plans must reflect residents’ needs and land rights. Community participation helps distinguish necessary improvement from relocation imposed for unrelated development. Recovery succeeds when people regain stable lives with less vulnerability than before.",
+      "viewpointTranslation": "恢复工作应解决既有脆弱性，而不是把它复制出来。",
+      "topicSentenceTranslation": "重建同样的不安全条件，会让社区继续暴露在下一次灾害面前。",
+      "collocationTranslations": [
+        "以更高标准重建",
+        "执行抗灾标准",
+        "恢复稳定生计",
+        "让受影响居民参与"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Rapid reconstruction can provide housing and jobs, but speed alone is a poor measure of recovery.",
+          "translation": "快速重建可以提供住房和就业，但速度本身并不是衡量恢复情况的好标准。"
+        },
+        {
+          "text": "If homes return to a floodplain with identical materials, public money recreates the original risk.",
+          "translation": "如果住宅用相同材料重建在洪泛区，公共资金就在重新制造原有风险。"
+        },
+        {
+          "text": "Safer locations, stronger codes and restored local livelihoods can reduce future losses, although plans must reflect residents’ needs and land rights.",
+          "translation": "更安全的地点、更严格的规范和恢复当地生计可以减少未来损失，但计划必须尊重居民需求和土地权利。"
+        },
+        {
+          "text": "Community participation helps distinguish necessary improvement from relocation imposed for unrelated development.",
+          "translation": "社区参与有助于区分必要改善与借无关开发之名强制搬迁。"
+        },
+        {
+          "text": "Recovery succeeds when people regain stable lives with less vulnerability than before.",
+          "translation": "当人们恢复稳定生活，而且比以前更不易受灾时，恢复工作才算成功。"
+        }
+      ],
+      "translation": "快速重建可以提供住房和就业，但速度本身并不是衡量恢复情况的好标准。如果住宅用相同材料重建在洪泛区，公共资金就在重新制造原有风险。更安全的地点、更严格的规范和恢复当地生计可以减少未来损失，但计划必须尊重居民需求和土地权利。社区参与有助于区分必要改善与借无关开发之名强制搬迁。当人们恢复稳定生活，而且比以前更不易受灾时，恢复工作才算成功。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe an emergency drill or safety exercise you took part in.",
-      "answer": "I took part in a fire evacuation drill at work last year. An alarm sounded without advance notice, and everyone had to leave by the stairs and gather at a marked point outside. My role was simply to follow the route and report to the person checking attendance. The exercise revealed that one exit sign was difficult to see from a meeting room and that visitors were not included clearly on the staff list. Those issues were corrected afterwards. The drill was slightly inconvenient, but it made the procedure familiar enough that I would not need to read instructions during a real emergency. I think that practical memory is the main value of an exercise."
+      "answer": "I took part in a fire evacuation drill at work last year. An alarm sounded without advance notice, and everyone had to leave by the stairs and gather at a marked point outside. My role was simply to follow the route and report to the person checking attendance. The exercise revealed that one exit sign was difficult to see from a meeting room and that visitors were not included clearly on the staff list. Those issues were corrected afterwards. The drill was slightly inconvenient, but it made the procedure familiar enough that I would not need to read instructions during a real emergency. I think that practical memory is the main value of an exercise.",
+      "questionTranslation": "描述一次你参加过的应急演练或安全训练。",
+      "answerSentences": [
+        {
+          "text": "I took part in a fire evacuation drill at work last year.",
+          "translation": "去年，我在工作单位参加了一次消防疏散演练。"
+        },
+        {
+          "text": "An alarm sounded without advance notice, and everyone had to leave by the stairs and gather at a marked point outside.",
+          "translation": "警报在没有提前通知的情况下响起，所有人都必须走楼梯离开，并在室外标记地点集合。"
+        },
+        {
+          "text": "My role was simply to follow the route and report to the person checking attendance.",
+          "translation": "我的任务只是沿指定路线撤离，并向负责清点人数的人报到。"
+        },
+        {
+          "text": "The exercise revealed that one exit sign was difficult to see from a meeting room and that visitors were not included clearly on the staff list.",
+          "translation": "演练发现，从一间会议室很难看清某个出口标志，而且工作人员名单没有明确包含访客。"
+        },
+        {
+          "text": "Those issues were corrected afterwards.",
+          "translation": "这些问题后来得到了纠正。"
+        },
+        {
+          "text": "The drill was slightly inconvenient, but it made the procedure familiar enough that I would not need to read instructions during a real emergency.",
+          "translation": "演练带来了一点不便，但它让我熟悉了流程，因此真正发生紧急情况时无需再阅读指示。"
+        },
+        {
+          "text": "I think that practical memory is the main value of an exercise.",
+          "translation": "我认为这种实际记忆就是演练的主要价值。"
+        }
+      ],
+      "translation": "去年，我在工作单位参加了一次消防疏散演练。警报在没有提前通知的情况下响起，所有人都必须走楼梯离开，并在室外标记地点集合。我的任务只是沿指定路线撤离，并向负责清点人数的人报到。演练发现，从一间会议室很难看清某个出口标志，而且工作人员名单没有明确包含访客。这些问题后来得到了纠正。演练带来了一点不便，但它让我熟悉了流程，因此真正发生紧急情况时无需再阅读指示。我认为这种实际记忆就是演练的主要价值。"
     },
     {
       "part": "Part 3",
       "question": "Why do some people ignore disaster warnings?",
-      "answer": "They may have experienced earlier alerts that did not lead to visible danger, so repeated caution creates warning fatigue. Others cannot act easily: evacuating may mean leaving animals, losing income or travelling without a car. Messages can also be too technical or arrive through channels that some residents do not use. Authorities need accurate forecasts, but they also need trusted local messengers, clear actions and support for people facing practical barriers. Calling residents irresponsible can hide weaknesses in the warning system itself."
+      "answer": "They may have experienced earlier alerts that did not lead to visible danger, so repeated caution creates warning fatigue. Others cannot act easily: evacuating may mean leaving animals, losing income or travelling without a car. Messages can also be too technical or arrive through channels that some residents do not use. Authorities need accurate forecasts, but they also need trusted local messengers, clear actions and support for people facing practical barriers. Calling residents irresponsible can hide weaknesses in the warning system itself.",
+      "questionTranslation": "为什么有些人会无视灾害预警？",
+      "answerSentences": [
+        {
+          "text": "They may have experienced earlier alerts that did not lead to visible danger, so repeated caution creates warning fatigue.",
+          "translation": "他们可能经历过没有出现明显危险的早期警报，因此反复提醒会造成预警疲劳。"
+        },
+        {
+          "text": "Others cannot act easily: evacuating may mean leaving animals, losing income or travelling without a car.",
+          "translation": "其他人则很难采取行动：撤离可能意味着抛下动物、失去收入，或在没有汽车的情况下出行。"
+        },
+        {
+          "text": "Messages can also be too technical or arrive through channels that some residents do not use.",
+          "translation": "信息也可能过于技术化，或通过部分居民不使用的渠道发送。"
+        },
+        {
+          "text": "Authorities need accurate forecasts, but they also need trusted local messengers, clear actions and support for people facing practical barriers.",
+          "translation": "有关部门既需要准确预测，也需要可信的当地信息传递者、明确行动指引以及对面临实际障碍者的支持。"
+        },
+        {
+          "text": "Calling residents irresponsible can hide weaknesses in the warning system itself.",
+          "translation": "把居民称为不负责任，可能掩盖预警系统本身的缺陷。"
+        }
+      ],
+      "translation": "他们可能经历过没有出现明显危险的早期警报，因此反复提醒会造成预警疲劳。其他人则很难采取行动：撤离可能意味着抛下动物、失去收入，或在没有汽车的情况下出行。信息也可能过于技术化，或通过部分居民不使用的渠道发送。有关部门既需要准确预测，也需要可信的当地信息传递者、明确行动指引以及对面临实际障碍者的支持。把居民称为不负责任，可能掩盖预警系统本身的缺陷。"
     }
   ],
   "reading": {
@@ -350,6 +484,98 @@
         "answer": "No",
         "explanation": "The final paragraph says protective action and exclusion must also be assessed."
       }
+    ],
+    "titleTranslation": "预警不只是预测",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "When a cyclone approaches the coast, meteorologists can estimate its path, wind speed and likely storm surge.",
+          "translation": "气旋逼近海岸时，气象学家可以估计其路径、风速和可能出现的风暴潮。"
+        },
+        {
+          "text": "Those forecasts are essential, but they do not constitute a complete warning.",
+          "translation": "这些预测至关重要，却不能构成完整预警。"
+        },
+        {
+          "text": "A warning succeeds only if it reaches people in time, conveys what the danger means for their location and enables an action that is safer than remaining where they are.",
+          "translation": "只有当预警及时传达人群、说明危险对其所在地意味着什么，并使他们能够采取比留在原地更安全的行动时，预警才算成功。"
+        }
+      ],
+      [
+        {
+          "text": "A coastal province tested its system during two moderate storms.",
+          "translation": "某沿海省份在两次中等强度风暴期间测试了其系统。"
+        },
+        {
+          "text": "Text alerts reached most registered phones, yet interviews later found that fishing crews offshore, recent migrants and residents with limited literacy had understood them differently.",
+          "translation": "短信警报送达了大多数登记手机，但后续访谈发现，近海渔船人员、新近移民和识字能力有限的居民对信息有不同理解。"
+        },
+        {
+          "text": "The message named technical surge heights but did not identify which roads would flood first.",
+          "translation": "信息列出了技术性的风暴潮高度，却没有指出哪些道路会最先被淹。"
+        },
+        {
+          "text": "Some families delayed leaving because the official shelter, although marked on a map, required transport they did not have.",
+          "translation": "一些家庭推迟撤离，因为官方避难所虽然标在地图上，却需要他们没有的交通工具才能到达。"
+        }
+      ],
+      [
+        {
+          "text": "Before the next storm season, emergency staff worked with local radio presenters, harbour managers and community health workers.",
+          "translation": "下一个风暴季前，应急人员与当地广播主持人、港口管理者和社区卫生工作者展开合作。"
+        },
+        {
+          "text": "They translated thresholds into landmarks—water may cross the market road—and linked each alert level to a specific action.",
+          "translation": "他们把阈值转化为地标描述——水可能漫过市场道路——并把每一级警报与具体行动相联系。"
+        },
+        {
+          "text": "Volunteer drivers received lists of residents who had requested help, while fishing boats could receive short radio instructions beyond mobile coverage.",
+          "translation": "志愿司机拿到请求帮助的居民名单，渔船则可以在移动网络覆盖范围以外接收简短无线电指示。"
+        },
+        {
+          "text": "The revised system involved more organisations, which made coordination harder but extended the warning’s practical reach.",
+          "translation": "修订后的系统涉及更多机构，使协调更困难，却扩大了预警的实际覆盖范围。"
+        }
+      ],
+      [
+        {
+          "text": "False alarms remained unavoidable because a cyclone can change direction after evacuation begins.",
+          "translation": "误报仍不可避免，因为疏散开始后气旋可能改变方向。"
+        },
+        {
+          "text": "Officials explained that uncertainty directly rather than promising perfect forecasts.",
+          "translation": "官员直接解释这种不确定性，而没有承诺预测完美无误。"
+        },
+        {
+          "text": "They also reviewed every alert to learn whether a missed prediction arose from limited science or a preventable communication failure.",
+          "translation": "他们还审查每次警报，以了解预测失误源于科学局限，还是可避免的沟通失误。"
+        },
+        {
+          "text": "This distinction mattered: improving a model would not solve a message sent in the wrong language, just as clearer wording could not remove uncertainty from the storm track.",
+          "translation": "这种区分很重要：改进模型无法解决用错误语言发送的信息，正如更清晰的措辞无法消除风暴路径的不确定性。"
+        }
+      ],
+      [
+        {
+          "text": "The province ultimately judged warnings by protective action, not message delivery.",
+          "translation": "该省最终依据保护性行动而不是信息发送情况来评价预警。"
+        },
+        {
+          "text": "Phone statistics still showed technical reach, but local reports revealed whether households arrived safely and which groups remained excluded.",
+          "translation": "手机统计仍能显示技术覆盖范围，但当地报告会揭示家庭是否安全抵达，以及哪些群体仍被排除。"
+        },
+        {
+          "text": "Forecasting identifies a possible future; an effective warning builds a bridge between that knowledge and a decision people can realistically carry out.",
+          "translation": "预测识别一种可能的未来；有效预警则在这种知识与人们能够实际执行的决定之间搭建桥梁。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "气旋逼近海岸时，气象学家可以估计其路径、风速和可能出现的风暴潮。这些预测至关重要，却不能构成完整预警。只有当预警及时传达人群、说明危险对其所在地意味着什么，并使他们能够采取比留在原地更安全的行动时，预警才算成功。",
+      "某沿海省份在两次中等强度风暴期间测试了其系统。短信警报送达了大多数登记手机，但后续访谈发现，近海渔船人员、新近移民和识字能力有限的居民对信息有不同理解。信息列出了技术性的风暴潮高度，却没有指出哪些道路会最先被淹。一些家庭推迟撤离，因为官方避难所虽然标在地图上，却需要他们没有的交通工具才能到达。",
+      "下一个风暴季前，应急人员与当地广播主持人、港口管理者和社区卫生工作者展开合作。他们把阈值转化为地标描述——水可能漫过市场道路——并把每一级警报与具体行动相联系。志愿司机拿到请求帮助的居民名单，渔船则可以在移动网络覆盖范围以外接收简短无线电指示。修订后的系统涉及更多机构，使协调更困难，却扩大了预警的实际覆盖范围。",
+      "误报仍不可避免，因为疏散开始后气旋可能改变方向。官员直接解释这种不确定性，而没有承诺预测完美无误。他们还审查每次警报，以了解预测失误源于科学局限，还是可避免的沟通失误。这种区分很重要：改进模型无法解决用错误语言发送的信息，正如更清晰的措辞无法消除风暴路径的不确定性。",
+      "该省最终依据保护性行动而不是信息发送情况来评价预警。手机统计仍能显示技术覆盖范围，但当地报告会揭示家庭是否安全抵达，以及哪些群体仍被排除。预测识别一种可能的未来；有效预警则在这种知识与人们能够实际执行的决定之间搭建桥梁。"
     ]
   }
 }

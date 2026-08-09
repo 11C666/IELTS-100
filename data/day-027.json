@@ -153,7 +153,8 @@
         "reformulate the message",
         "put it another way"
       ],
-      "note": "reformulate 较正式，常用于语言学习。"
+      "note": "reformulate 较正式，常用于语言学习。",
+      "translation": "换一种说法可以表达为重新表述想法、重新表述信息、换种方式表达。"
     },
     {
       "base": "not understand",
@@ -162,7 +163,8 @@
         "misinterpret the message",
         "miss the intended meaning"
       ],
-      "note": "misinterpret 强调作出错误解释。"
+      "note": "misinterpret 强调作出错误解释。",
+      "translation": "not understand 表示没有理解；experience a misunderstanding 指产生误解，misinterpret the message 指误读信息，miss the intended meaning 指没有领会原意。"
     },
     {
       "base": "ask for explanation",
@@ -171,7 +173,8 @@
         "check the intended meaning",
         "seek a clearer account"
       ],
-      "note": "clarification 是沟通修复关键词。"
+      "note": "clarification 是沟通修复关键词。",
+      "translation": "要求解释可以表达为请求澄清，检查意图的含义，寻求更清晰的解释。"
     },
     {
       "base": "speak smoothly",
@@ -180,7 +183,8 @@
         "speak with ease",
         "maintain conversational flow"
       ],
-      "note": "fluency 不等于完全无停顿。"
+      "note": "fluency 不等于完全无停顿。",
+      "translation": "说话流畅可以表达为沟通流畅、说话轻松、保持对话流畅。"
     },
     {
       "base": "meaning from the situation",
@@ -189,7 +193,8 @@
         "contextual clues",
         "implied meaning"
       ],
-      "note": "implied meaning 并非字面直接表达。"
+      "note": "implied meaning 并非字面直接表达。",
+      "translation": "情境意义可以表达为上下文意义、上下文线索、隐含意义。"
     },
     {
       "base": "different language backgrounds",
@@ -198,7 +203,8 @@
         "multilingual participants",
         "speakers of different first languages"
       ],
-      "note": "linguistically diverse 适合学术写作。"
+      "note": "linguistically diverse 适合学术写作。",
+      "translation": "不同的语言背景可以表现为语言不同的说话者、多语言参与者、不同母语的说话者。"
     },
     {
       "base": "correct what was said",
@@ -207,7 +213,8 @@
         "self-correct",
         "revise the wording"
       ],
-      "note": "utterance 指一次具体话语。"
+      "note": "utterance 指一次具体话语。",
+      "translation": "纠正所说的话可以表达为修复话语、自我更正、修改措辞。"
     },
     {
       "base": "make meaning clear",
@@ -216,51 +223,60 @@
         "get the point across",
         "communicate an intention"
       ],
-      "note": "convey 常用于正式写作。"
+      "note": "convey 常用于正式写作。",
+      "translation": "使意思清晰可以表达为准确传达想法、明白要点、传达意图。"
     }
   ],
   "sentences": [
     {
       "pattern": "The ability to + language skill + enables people to + communicative outcome.",
       "cn": "某种语言能力使人们能够……。",
-      "example": "The ability to reformulate an idea enables people to repair misunderstandings."
+      "example": "The ability to reformulate an idea enables people to repair misunderstandings.",
+      "exampleTranslation": "重新表述想法的能力使人们能够修复误解。"
     },
     {
       "pattern": "What sounds + quality + in one language may sound + contrasting quality + when translated literally.",
       "cn": "在一种语言中听来自然的表达，直译后可能显得……。",
-      "example": "What sounds respectful in one language may sound distant when translated literally."
+      "example": "What sounds respectful in one language may sound distant when translated literally.",
+      "exampleTranslation": "在一种语言中听起来很尊重的东西，如果按字面翻译的话，可能听起来很遥远。"
     },
     {
       "pattern": "Only when + speaker + notices + signal + can + repair begin.",
       "cn": "只有当说话者注意到某个信号时，沟通修复才能开始。",
-      "example": "Only when a speaker notices confusion can clarification begin."
+      "example": "Only when a speaker notices confusion can clarification begin.",
+      "exampleTranslation": "只有当演讲者注意到混乱时才能开始澄清。"
     }
   ],
   "expressions": [
     {
       "text": "get my point across",
       "cn": "把意思表达清楚",
-      "example": "I used a simple example to get my point across."
+      "example": "I used a simple example to get my point across.",
+      "exampleTranslation": "我用一个简单的例子来表达我的观点。"
     },
     {
       "text": "pick up on someone’s tone",
       "cn": "注意到某人的语气",
-      "example": "It is harder to pick up on someone’s tone in a text message."
+      "example": "It is harder to pick up on someone’s tone in a text message.",
+      "exampleTranslation": "在短信中辨别某人的语气比较困难。"
     },
     {
       "text": "put something another way",
       "cn": "换一种方式表达",
-      "example": "Let me put the idea another way."
+      "example": "Let me put the idea another way.",
+      "exampleTranslation": "让我换个方式表达这个想法。"
     },
     {
       "text": "lose something in translation",
       "cn": "在翻译中丢失含义",
-      "example": "The joke lost something in translation."
+      "example": "The joke lost something in translation.",
+      "exampleTranslation": "这个笑话在翻译后失去了一部分笑点。"
     },
     {
       "text": "overcome a language barrier",
       "cn": "克服语言障碍",
-      "example": "Pictures helped us overcome the language barrier."
+      "example": "Pictures helped us overcome the language barrier.",
+      "exampleTranslation": "图片帮助我们克服了语言障碍。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "interpret contextual clues",
         "avoid a misunderstanding"
       ],
-      "argument": "Even fluent speakers cannot predict every interpretation of their words. Differences in background, tone and assumed knowledge mean that confusion is inevitable in some conversations. Skilled communicators watch for hesitation, ask checking questions and reformulate an idea without blaming the listener. These small repairs keep a minor ambiguity from becoming conflict. Language education should therefore practise clarification strategies alongside grammar and vocabulary."
+      "argument": "Even fluent speakers cannot predict every interpretation of their words. Differences in background, tone and assumed knowledge mean that confusion is inevitable in some conversations. Skilled communicators watch for hesitation, ask checking questions and reformulate an idea without blaming the listener. These small repairs keep a minor ambiguity from becoming conflict. Language education should therefore practise clarification strategies alongside grammar and vocabulary.",
+      "viewpointTranslation": "成功的沟通需要修复，而不是完美的第一次尝试。",
+      "topicSentenceTranslation": "注意到并纠正误解的能力是一项核心的沟通技能。",
+      "collocationTranslations": [
+        "澄清意图",
+        "改写一个想法",
+        "解释上下文线索",
+        "避免误会"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Even fluent speakers cannot predict every interpretation of their words.",
+          "translation": "即使是流利的演讲者也无法预测他们话语的每一种解释。"
+        },
+        {
+          "text": "Differences in background, tone and assumed knowledge mean that confusion is inevitable in some conversations.",
+          "translation": "背景、语气和假设知识的差异意味着某些对话中不可避免地会出现混乱。"
+        },
+        {
+          "text": "Skilled communicators watch for hesitation, ask checking questions and reformulate an idea without blaming the listener.",
+          "translation": "熟练的沟通者会注意犹豫，提出检查性问题并重新阐述想法，而不会责怪听众。"
+        },
+        {
+          "text": "These small repairs keep a minor ambiguity from becoming conflict.",
+          "translation": "这些小修改可以避免微小的歧义变成冲突。"
+        },
+        {
+          "text": "Language education should therefore practise clarification strategies alongside grammar and vocabulary.",
+          "translation": "因此，语言教育应该在语法和词汇的同时实行澄清策略。"
+        }
+      ]
     },
     {
       "viewpoint": "Learning another language can change how people interpret difference.",
@@ -301,19 +347,107 @@
         "interpret implied meaning",
         "challenge assumptions"
       ],
-      "argument": "Words encode distinctions that a learner may not previously have noticed, including levels of formality and ways of showing respect. Encountering these patterns demonstrates that familiar habits are not universal. Direct contact with speakers also reveals humour and implied meaning that literal translation often weakens. This does not guarantee tolerance, since languages can be learned without curiosity. Nevertheless, thoughtful language education can make cultural judgement slower and more informed."
+      "argument": "Words encode distinctions that a learner may not previously have noticed, including levels of formality and ways of showing respect. Encountering these patterns demonstrates that familiar habits are not universal. Direct contact with speakers also reveals humour and implied meaning that literal translation often weakens. This does not guarantee tolerance, since languages can be learned without curiosity. Nevertheless, thoughtful language education can make cultural judgement slower and more informed.",
+      "viewpointTranslation": "学习另一种语言可以改变人们解释差异的方式。",
+      "topicSentenceTranslation": "语言学习提供了了解仅翻译可能隐藏的社会意义的途径。",
+      "collocationTranslations": [
+        "获得文化洞察力",
+        "了解社会习俗",
+        "解释隐含意义",
+        "挑战假设"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Words encode distinctions that a learner may not previously have noticed, including levels of formality and ways of showing respect.",
+          "translation": "单词编码了学习者以前可能没有注意到的区别，包括正式程度和表示尊重的方式。"
+        },
+        {
+          "text": "Encountering these patterns demonstrates that familiar habits are not universal.",
+          "translation": "遇到这些模式表明熟悉的习惯并不普遍。"
+        },
+        {
+          "text": "Direct contact with speakers also reveals humour and implied meaning that literal translation often weakens.",
+          "translation": "与说话者的直接接触也揭示了直译常常削弱的幽默和隐含意义。"
+        },
+        {
+          "text": "This does not guarantee tolerance, since languages can be learned without curiosity.",
+          "translation": "这并不能保证宽容，因为语言可以在没有好奇心的情况下学习。"
+        },
+        {
+          "text": "Nevertheless, thoughtful language education can make cultural judgement slower and more informed.",
+          "translation": "尽管如此，深思熟虑的语言教育可以使文化判断变得更慢、更明智。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "When do you find communication most difficult?",
-      "answer": "I find it hardest when a message is short and written, especially at work. Without tone of voice, a direct sentence can look annoyed even when the sender is simply busy. I usually avoid guessing and ask a neutral follow-up question. That small check has prevented several unnecessary misunderstandings. A quick clarification is usually kinder than silently forming a negative conclusion."
+      "answer": "I find it hardest when a message is short and written, especially at work. Without tone of voice, a direct sentence can look annoyed even when the sender is simply busy. I usually avoid guessing and ask a neutral follow-up question. That small check has prevented several unnecessary misunderstandings. A quick clarification is usually kinder than silently forming a negative conclusion.",
+      "questionTranslation": "你什么时候觉得沟通最困难？",
+      "answerSentences": [
+        {
+          "text": "I find it hardest when a message is short and written, especially at work.",
+          "translation": "当信息很简短而且只以文字呈现时，我觉得沟通最困难，工作中尤其如此。"
+        },
+        {
+          "text": "Without tone of voice, a direct sentence can look annoyed even when the sender is simply busy.",
+          "translation": "缺少语气线索时，即使发件人只是很忙，直接的句子也可能显得恼火。"
+        },
+        {
+          "text": "I usually avoid guessing and ask a neutral follow-up question.",
+          "translation": "我通常会避免猜测并提出中立的后续问题。"
+        },
+        {
+          "text": "That small check has prevented several unnecessary misunderstandings.",
+          "translation": "这种简单的确认避免了不少不必要的误会。"
+        },
+        {
+          "text": "A quick clarification is usually kinder than silently forming a negative conclusion.",
+          "translation": "快速澄清通常比默默地得出否定结论要友善。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a time when you had to explain something carefully.",
-      "answer": "I once had to explain a payment problem to a visitor who spoke limited English. Repeating the original sentence did not help, so I removed technical terms, wrote down the two amounts and pointed to the relevant dates. I also asked the visitor to tell me what would happen next, which confirmed that we understood each other. The conversation took longer than usual, but it reminded me that clear communication depends on adaptation, not volume. The visitor then used the written figures to ask one further question, which showed exactly where uncertainty remained. I avoided pretending that the conversation was effortless; instead, we both paused when necessary. In the end the payment was corrected without involving a translator. The experience changed my view of fluency because simple language, checking and patience mattered more than producing sophisticated sentences quickly."
+      "answer": "I once had to explain a payment problem to a visitor who spoke limited English. Repeating the original sentence did not help, so I removed technical terms, wrote down the two amounts and pointed to the relevant dates. I also asked the visitor to tell me what would happen next, which confirmed that we understood each other. The conversation took longer than usual, but it reminded me that clear communication depends on adaptation, not volume. The visitor then used the written figures to ask one further question, which showed exactly where uncertainty remained. I avoided pretending that the conversation was effortless; instead, we both paused when necessary. In the end the payment was corrected without involving a translator. The experience changed my view of fluency because simple language, checking and patience mattered more than producing sophisticated sentences quickly.",
+      "questionTranslation": "描述一次你必须仔细解释某事的经历。",
+      "answerSentences": [
+        {
+          "text": "I once had to explain a payment problem to a visitor who spoke limited English.",
+          "translation": "我曾经不得不向一位英语水平有限的访客解释付款问题。"
+        },
+        {
+          "text": "Repeating the original sentence did not help, so I removed technical terms, wrote down the two amounts and pointed to the relevant dates.",
+          "translation": "重复原来的句子没有帮助，所以我删除了技术术语，写下了两个金额并指出了相关日期。"
+        },
+        {
+          "text": "I also asked the visitor to tell me what would happen next, which confirmed that we understood each other.",
+          "translation": "我还请那位访客复述接下来会发生什么，从而确认我们理解一致。"
+        },
+        {
+          "text": "The conversation took longer than usual, but it reminded me that clear communication depends on adaptation, not volume.",
+          "translation": "谈话的时间比平时要长，但它提醒我，清晰的沟通取决于适应，而不是音量。"
+        },
+        {
+          "text": "The visitor then used the written figures to ask one further question, which showed exactly where uncertainty remained.",
+          "translation": "随后，访客根据写下来的数字提出了另一个问题，这准确显示了仍未澄清之处。"
+        },
+        {
+          "text": "I avoided pretending that the conversation was effortless; instead, we both paused when necessary.",
+          "translation": "我避免假装谈话毫不费力；相反，我们都会在必要时停下来。"
+        },
+        {
+          "text": "In the end the payment was corrected without involving a translator.",
+          "translation": "最终，在没有翻译的情况下，付款得到了纠正。"
+        },
+        {
+          "text": "The experience changed my view of fluency because simple language, checking and patience mattered more than producing sophisticated sentences quickly.",
+          "translation": "这次经历改变了我对流畅性的看法，因为简单的语言、检查和耐心比快速说出复杂的句子更重要。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -344,6 +478,107 @@
         "answer": "describe the instructions in their own words",
         "explanation": "The final paragraph gives this method explicitly."
       }
+    ],
+    "titleTranslation": "为什么对话包含如此多的修复",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Printed dialogue often appears orderly: one speaker finishes, another responds, and every sentence is complete.",
+          "translation": "打印出来的对话通常显得井然有序：一个说话者说完，另一个说话者做出回应，每个句子都是完整的。"
+        },
+        {
+          "text": "Natural conversation is different.",
+          "translation": "自然的对话是不同的。"
+        },
+        {
+          "text": "People pause, restart, replace words and interrupt themselves.",
+          "translation": "人们暂停、重新开始、替换单词并打断自己。"
+        },
+        {
+          "text": "Far from showing failure, many of these disruptions are repairs—small adjustments that protect shared understanding while speech is still unfolding.",
+          "translation": "许多这些干扰远非失败，而是修复——在演讲仍在展开时保护共同理解的小调整。"
+        }
+      ],
+      [
+        {
+          "text": "A speaker may detect a problem before anyone responds.",
+          "translation": "发言者可能会在任何人做出反应之前就发现问题。"
+        },
+        {
+          "text": "Someone who says “Turn left on Thurs—sorry, on Thompson Street” corrects both sound and reference immediately.",
+          "translation": "有人说“周四左转——抱歉，在汤普森街”，他会立即纠正声音和参考内容。"
+        },
+        {
+          "text": "At other times, a listener signals trouble with a question, a repeated word or even a delayed response.",
+          "translation": "有时，听众会通过提出问题、重复单词甚至延迟响应来表示遇到麻烦。"
+        },
+        {
+          "text": "The original speaker can then define a term, add context or choose a simpler expression.",
+          "translation": "然后，原来的说话者可以定义术语、添加上下文或选择更简单的表达方式。"
+        },
+        {
+          "text": "Conversation analysts have found that speakers generally prefer to correct their own talk, which allows meaning to be restored without openly criticising the other person.",
+          "translation": "对话分析师发现，说话者通常更喜欢纠正自己的谈话，这样可以在不公开批评对方的情况下恢复意思。"
+        }
+      ],
+      [
+        {
+          "text": "Repair becomes more visible in communication between language learners and fluent speakers, but the underlying process is universal.",
+          "translation": "在语言学习者和流利的说话者之间的交流中，修复变得更加明显，但潜在的过程是普遍的。"
+        },
+        {
+          "text": "Technical meetings, medical appointments and family discussions all contain terms whose meaning is not equally shared.",
+          "translation": "技术会议、医疗预约和家庭讨论都包含含义不一致的术语。"
+        },
+        {
+          "text": "Expertise can make matters worse when a specialist no longer recognises which words require explanation.",
+          "translation": "当专家不再识别哪些词需要解释时，专业知识会让事情变得更糟。"
+        },
+        {
+          "text": "A listener may also pretend to understand in order to avoid embarrassment, allowing the problem to emerge only later.",
+          "translation": "听众也可能假装听懂，以避免尴尬，从而让问题稍后才出现。"
+        }
+      ],
+      [
+        {
+          "text": "Good communication therefore includes ways to make uncertainty safe.",
+          "translation": "因此，良好的沟通包括消除不确定性的方法。"
+        },
+        {
+          "text": "A doctor can ask a patient to describe instructions in their own words rather than asking “Do you understand?”, which invites an automatic yes.",
+          "translation": "医生可以要求患者用自己的话描述说明，而不是问“你明白吗？”，后者会自动回答“是”。"
+        },
+        {
+          "text": "In classrooms, teachers can treat requests for clarification as evidence of attention.",
+          "translation": "在课堂上，教师可以将澄清请求视为注意力的证据。"
+        },
+        {
+          "text": "Digital communication offers fewer immediate signals, so writers may need explicit checks or examples.",
+          "translation": "数字通信提供的即时信号较少，因此作者可能需要明确的检查或示例。"
+        },
+        {
+          "text": "Fluency is often imagined as uninterrupted speech, yet practical fluency includes the ability to stop, notice a mismatch and rebuild the connection.",
+          "translation": "流畅性通常被认为是不间断的言语，但实际的流畅性包括停止、注意到不匹配和重建连接的能力。"
+        }
+      ],
+      [
+        {
+          "text": "Repair can also protect relationships because it gives speakers a route back from an unintended effect.",
+          "translation": "修复还可以保护人际关系，因为它为说话者提供了避免意外影响的途径。"
+        },
+        {
+          "text": "Saying “That sounded more critical than I meant” acknowledges the listener’s experience without claiming that harm was deliberate.",
+          "translation": "说“这听起来比我的意思更重要”承认了听众的经历，而不声称伤害是故意的。"
+        },
+        {
+          "text": "The next sentence can then state the intended concern more precisely.",
+          "translation": "下一句话可以更准确地表达预期的关注点。"
+        },
+        {
+          "text": "This is different from insisting that only the speaker’s intention matters, which closes the opportunity for mutual correction.",
+          "translation": "这与坚持认为只有说话者的意图才是重要的不同，后者关闭了相互纠正的机会。"
+        }
+      ]
     ]
   }
 }

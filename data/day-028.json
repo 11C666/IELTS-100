@@ -153,7 +153,8 @@
         "novel proposal",
         "creative possibility"
       ],
-      "note": "novel 作形容词表示新颖的。"
+      "note": "novel 作形容词表示新颖的。",
+      "translation": "新想法可以表达为原创概念、新颖提案、创造性可能性。"
     },
     {
       "base": "think creatively",
@@ -162,7 +163,8 @@
         "explore unconventional approaches",
         "use divergent thinking"
       ],
-      "note": "divergent thinking 强调扩展可能性。"
+      "note": "divergent thinking 强调扩展可能性。",
+      "translation": "创造性思维可以表现为产生替代方案、探索非常规方法、运用发散性思维。"
     },
     {
       "base": "first version",
@@ -171,7 +173,8 @@
         "early prototype",
         "preliminary concept"
       ],
-      "note": "prototype 强调可测试的早期模型。"
+      "note": "prototype 强调可测试的早期模型。",
+      "translation": "第一个版本可以表示为初始草案、早期原型、初步概念。"
     },
     {
       "base": "improve an idea",
@@ -180,7 +183,8 @@
         "develop the proposal",
         "iterate on the design"
       ],
-      "note": "iterate 强调多轮测试与修改。"
+      "note": "iterate 强调多轮测试与修改。",
+      "translation": "改进一个想法可以表达为完善概念、制定提案、迭代设计。"
     },
     {
       "base": "limit",
@@ -189,7 +193,8 @@
         "restriction",
         "boundary condition"
       ],
-      "note": "constraint 可成为创造性设计条件。"
+      "note": "constraint 可成为创造性设计条件。",
+      "translation": "极限可以表示为约束、限制、边界条件。"
     },
     {
       "base": "judge ideas",
@@ -198,7 +203,8 @@
         "apply selection criteria",
         "assess creative options"
       ],
-      "note": "criteria 是 criterion 的复数。"
+      "note": "criteria 是 criterion 的复数。",
+      "translation": "评判想法可以表达为评估提案、应用选择标准、评估创意选项。"
     },
     {
       "base": "work alone first",
@@ -207,7 +213,8 @@
         "begin with individual ideation",
         "think before group discussion"
       ],
-      "note": "ideation 指产生创意的过程。"
+      "note": "ideation 指产生创意的过程。",
+      "translation": "先单独工作可以表述为独立产生想法，从个人想法开始，在小组讨论之前思考。"
     },
     {
       "base": "creative failure",
@@ -216,51 +223,60 @@
         "fruitless attempt",
         "non-viable design"
       ],
-      "note": "unsuccessful 不代表没有学习价值。"
+      "note": "unsuccessful 不代表没有学习价值。",
+      "translation": "创造性失败可以表现为不成功的实验、徒劳的尝试、不可行的设计。"
     }
   ],
   "sentences": [
     {
       "pattern": "Creativity often emerges from + constraint + rather than from + assumed condition.",
       "cn": "创造力往往来自某种限制，而不是人们以为的条件。",
-      "example": "Creativity often emerges from limited materials rather than from unlimited choice."
+      "example": "Creativity often emerges from limited materials rather than from unlimited choice.",
+      "exampleTranslation": "创造力往往来自有限的材料，而不是来自无限的选择。"
     },
     {
       "pattern": "The purpose of + early draft/prototype + is not to + perfect outcome, but to + learning action.",
       "cn": "早期草稿或原型的目的不是达到完美，而是……。",
-      "example": "The purpose of an early prototype is not to impress users, but to reveal weak assumptions."
+      "example": "The purpose of an early prototype is not to impress users, but to reveal weak assumptions.",
+      "exampleTranslation": "早期原型的目的不是为了给用户留下深刻印象，而是揭示薄弱的假设。"
     },
     {
       "pattern": "Once + idea + has been treated as + status, people become less willing to + revision.",
       "cn": "一旦某想法被视为某种成果，人们就更不愿意……。",
-      "example": "Once an idea has been treated as a finished product, people become less willing to question it."
+      "example": "Once an idea has been treated as a finished product, people become less willing to question it.",
+      "exampleTranslation": "一旦一个想法被视为成品，人们就不太愿意质疑它。"
     }
   ],
   "expressions": [
     {
       "text": "think outside the box",
       "cn": "跳出固有思维",
-      "example": "The team had to think outside the box when the budget was cut."
+      "example": "The team had to think outside the box when the budget was cut.",
+      "exampleTranslation": "预算削减后，团队必须打破常规思路。"
     },
     {
       "text": "come up with an idea",
       "cn": "想出一个点子",
-      "example": "I often come up with ideas while walking."
+      "example": "I often come up with ideas while walking.",
+      "exampleTranslation": "我经常在走路时想出一些点子。"
     },
     {
       "text": "have a creative block",
       "cn": "遇到创作瓶颈",
-      "example": "When I have a creative block, I switch to a simpler task."
+      "example": "When I have a creative block, I switch to a simpler task.",
+      "exampleTranslation": "当我遇到创意障碍时，我会转向更简单的任务。"
     },
     {
       "text": "try a different angle",
       "cn": "换个角度尝试",
-      "example": "We tried a different angle and redesigned the opening."
+      "example": "We tried a different angle and redesigned the opening.",
+      "exampleTranslation": "我们尝试了不同的角度并重新设计了开口。"
     },
     {
       "text": "turn an idea into practice",
       "cn": "把想法付诸实践",
-      "example": "A prototype helps turn an idea into practice."
+      "example": "A prototype helps turn an idea into practice.",
+      "exampleTranslation": "原型有助于将想法转化为实践。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "generate alternative solutions",
         "use resources imaginatively"
       ],
-      "argument": "Unlimited choice encourages people to select the first acceptable convention because every path remains open. A clear constraint narrows the search and makes the central problem visible. Architects working with reused materials, for example, may invent forms that a standard supply catalogue would never suggest. Restrictions can certainly become oppressive when they remove essential time or safety. Within reasonable limits, however, they can provide the resistance against which original thinking develops."
+      "argument": "Unlimited choice encourages people to select the first acceptable convention because every path remains open. A clear constraint narrows the search and makes the central problem visible. Architects working with reused materials, for example, may invent forms that a standard supply catalogue would never suggest. Restrictions can certainly become oppressive when they remove essential time or safety. Within reasonable limits, however, they can provide the resistance against which original thinking develops.",
+      "viewpointTranslation": "约束可以激发创造性地解决问题。",
+      "topicSentenceTranslation": "有限的预算或材料可能会迫使设计师质疑熟悉的解决方案。",
+      "collocationTranslations": [
+        "在限制范围内工作",
+        "挑战假设",
+        "生成替代解决方案",
+        "富有想象力地利用资源"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Unlimited choice encourages people to select the first acceptable convention because every path remains open.",
+          "translation": "无限选择鼓励人们选择第一个可接受的约定，因为每条道路都是开放的。"
+        },
+        {
+          "text": "A clear constraint narrows the search and makes the central problem visible.",
+          "translation": "明确的约束可以缩小搜索范围，并使中心问题变得显而易见。"
+        },
+        {
+          "text": "Architects working with reused materials, for example, may invent forms that a standard supply catalogue would never suggest.",
+          "translation": "例如，使用重复使用材料的建筑师可能会发明标准供应目录永远不会建议的形式。"
+        },
+        {
+          "text": "Restrictions can certainly become oppressive when they remove essential time or safety.",
+          "translation": "当限制消除了必要的时间或安全时，它们肯定会变得令人压抑。"
+        },
+        {
+          "text": "Within reasonable limits, however, they can provide the resistance against which original thinking develops.",
+          "translation": "然而，在合理的范围内，它们可以为原创思维的发展提供阻力。"
+        }
+      ]
     },
     {
       "viewpoint": "Schools should assess creative processes as well as polished products.",
@@ -301,19 +347,107 @@
         "take an intellectual risk",
         "reflect on the process"
       ],
-      "argument": "Creative work often contains unsuccessful attempts that lead to a stronger solution. If only the polished product receives credit, pupils may choose a safe idea or obtain excessive help outside school. Process notes, drafts and short reflections show how decisions changed and why. Teachers can then reward purposeful experimentation without pretending every unusual result is successful. Assessment should recognise both quality and the thinking that produced it."
+      "argument": "Creative work often contains unsuccessful attempts that lead to a stronger solution. If only the polished product receives credit, pupils may choose a safe idea or obtain excessive help outside school. Process notes, drafts and short reflections show how decisions changed and why. Teachers can then reward purposeful experimentation without pretending every unusual result is successful. Assessment should recognise both quality and the thinking that produced it.",
+      "viewpointTranslation": "学校应该评估创意过程以及精美的产品。",
+      "topicSentenceTranslation": "仅判断最终结果会阻碍实验并隐藏学习者的发现。",
+      "collocationTranslations": [
+        "制定原创回应",
+        "修改早期草案",
+        "承担智力风险",
+        "反思过程"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Creative work often contains unsuccessful attempts that lead to a stronger solution.",
+          "translation": "创造性工作通常包含不成功的尝试，但最终会产生更强有力的解决方案。"
+        },
+        {
+          "text": "If only the polished product receives credit, pupils may choose a safe idea or obtain excessive help outside school.",
+          "translation": "如果只有经过打磨的产品获得学分，学生可能会选择安全的想法或在校外获得过多的帮助。"
+        },
+        {
+          "text": "Process notes, drafts and short reflections show how decisions changed and why.",
+          "translation": "流程记录、草稿和简短反思显示了决策如何变化以及原因。"
+        },
+        {
+          "text": "Teachers can then reward purposeful experimentation without pretending every unusual result is successful.",
+          "translation": "然后，教师可以奖励有目的的实验，而不必假装每个不寻常的结果都是成功的。"
+        },
+        {
+          "text": "Assessment should recognise both quality and the thinking that produced it.",
+          "translation": "评估应该认识到质量和产生质量的思维。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What kind of activity makes you feel creative?",
-      "answer": "Cooking makes me feel creative because I have to respond to what is available. I normally begin with a familiar dish, then change one ingredient or texture instead of inventing everything from nothing. Occasionally the result is poor, but the risk is small and I learn something. I enjoy that immediate cycle of trying and adjusting."
+      "answer": "Cooking makes me feel creative because I have to respond to what is available. I normally begin with a familiar dish, then change one ingredient or texture instead of inventing everything from nothing. Occasionally the result is poor, but the risk is small and I learn something. I enjoy that immediate cycle of trying and adjusting.",
+      "questionTranslation": "什么样的活动让你感到有创造力？",
+      "answerSentences": [
+        {
+          "text": "Cooking makes me feel creative because I have to respond to what is available.",
+          "translation": "烹饪让我感到有创造力，因为我必须对可用的东西做出反应。"
+        },
+        {
+          "text": "I normally begin with a familiar dish, then change one ingredient or texture instead of inventing everything from nothing.",
+          "translation": "我通常从一道熟悉的菜肴开始，然后改变一种成分或质地，而不是从无到有发明一切。"
+        },
+        {
+          "text": "Occasionally the result is poor, but the risk is small and I learn something.",
+          "translation": "有时候结果很差，但风险很小，我也能学到一些东西。"
+        },
+        {
+          "text": "I enjoy that immediate cycle of trying and adjusting.",
+          "translation": "我喜欢这种尝试和调整的直接循环。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a creative project you enjoyed.",
-      "answer": "I helped make a photo book for a relative’s birthday. Several family members sent pictures in different sizes and qualities, so the challenge was to create a coherent story rather than simply fill pages. I organised the photographs by places instead of dates and added very short captions from people who were there. The finished book felt personal without being overly decorative. I enjoyed the project because the limitations gave every design choice a clear purpose. I initially wanted every page to use the same grid, but older photographs looked awkward when enlarged. Allowing a few pages to break the rule produced a more natural rhythm. We printed one inexpensive test copy and found several captions that were too small. Revising those details taught me that creative satisfaction often comes from patient editing rather than the first idea."
+      "answer": "I helped make a photo book for a relative’s birthday. Several family members sent pictures in different sizes and qualities, so the challenge was to create a coherent story rather than simply fill pages. I organised the photographs by places instead of dates and added very short captions from people who were there. The finished book felt personal without being overly decorative. I enjoyed the project because the limitations gave every design choice a clear purpose. I initially wanted every page to use the same grid, but older photographs looked awkward when enlarged. Allowing a few pages to break the rule produced a more natural rhythm. We printed one inexpensive test copy and found several captions that were too small. Revising those details taught me that creative satisfaction often comes from patient editing rather than the first idea.",
+      "questionTranslation": "描述一个你喜欢的创意项目。",
+      "answerSentences": [
+        {
+          "text": "I helped make a photo book for a relative’s birthday.",
+          "translation": "我曾为一位亲戚的生日制作一本相册。"
+        },
+        {
+          "text": "Several family members sent pictures in different sizes and qualities, so the challenge was to create a coherent story rather than simply fill pages.",
+          "translation": "几位家人发来了尺寸和质量各不相同的照片，因此真正的挑战是组织出连贯的故事，而不是简单填满页面。"
+        },
+        {
+          "text": "I organised the photographs by places instead of dates and added very short captions from people who were there.",
+          "translation": "我按照地点而不是日期来组织照片，并添加了当时在场的人的简短说明。"
+        },
+        {
+          "text": "The finished book felt personal without being overly decorative.",
+          "translation": "完成的书给人一种个性化的感觉，但又没有过多的装饰。"
+        },
+        {
+          "text": "I enjoyed the project because the limitations gave every design choice a clear purpose.",
+          "translation": "我喜欢这个项目，因为这些限制让每个设计选择都有了明确的目的。"
+        },
+        {
+          "text": "I initially wanted every page to use the same grid, but older photographs looked awkward when enlarged.",
+          "translation": "我最初希望每个页面都使用相同的网格，但旧照片放大后看起来很尴尬。"
+        },
+        {
+          "text": "Allowing a few pages to break the rule produced a more natural rhythm.",
+          "translation": "允许几页打破规则会产生更自然的节奏。"
+        },
+        {
+          "text": "We printed one inexpensive test copy and found several captions that were too small.",
+          "translation": "我们打印了一份便宜的测试副本，发现几个标题太小。"
+        },
+        {
+          "text": "Revising those details taught me that creative satisfaction often comes from patient editing rather than the first idea.",
+          "translation": "修改这些细节告诉我，创意的满足感往往来自于耐心的编辑，而不是第一个想法。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +484,115 @@
         "answer": "No",
         "explanation": "The final paragraph says familiar solutions are sometimes best."
       }
+    ],
+    "titleTranslation": "为什么第一个想法往往太熟悉",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "In group discussions, the first plausible suggestion can gain an advantage unrelated to its quality.",
+          "translation": "在小组讨论中，第一个看似合理的建议可以获得与其质量无关的优势。"
+        },
+        {
+          "text": "Once it is written on a board, later comments tend to modify it rather than question the original direction.",
+          "translation": "一旦它被写在板上，后来的评论往往会修改它，而不是质疑最初的方向。"
+        },
+        {
+          "text": "Psychologists describe this as anchoring.",
+          "translation": "心理学家将其描述为锚定。"
+        },
+        {
+          "text": "The group is no longer searching the whole problem space; it is searching the neighbourhood around one early idea.",
+          "translation": "该小组不再搜索整个问题空间；而是搜索整个问题空间。它正在围绕一个早期的想法在附近进行搜索。"
+        }
+      ],
+      [
+        {
+          "text": "Brainstorming was developed partly to delay judgement and increase the number of possibilities.",
+          "translation": "头脑风暴的出现部分是为了延迟判断并增加可能性的数量。"
+        },
+        {
+          "text": "Yet speaking in a group creates other limits.",
+          "translation": "然而，在群体中发言会产生其他限制。"
+        },
+        {
+          "text": "Only one person can talk at a time, participants forget ideas while waiting, and junior members may avoid contradicting a confident colleague.",
+          "translation": "一次只有一个人可以发言，参与者在等待时忘记想法，初级成员可能会避免与自信的同事发生矛盾。"
+        },
+        {
+          "text": "Experiments comparing methods often find that individuals who first generate ideas separately produce a wider range before discussion begins.",
+          "translation": "比较方法的实验经常发现，首先产生想法的个人在讨论开始之前会产生更广泛的范围。"
+        }
+      ],
+      [
+        {
+          "text": "Quantity alone is not creativity.",
+          "translation": "数量本身并不是创造力。"
+        },
+        {
+          "text": "Twenty minor variations may be less useful than three proposals based on genuinely different assumptions.",
+          "translation": "二十个微小的变化可能不如基于真正不同的假设的三个提案有用。"
+        },
+        {
+          "text": "Some teams therefore separate divergence from evaluation.",
+          "translation": "因此，一些团队将分歧与评估分开。"
+        },
+        {
+          "text": "During divergence, members seek alternatives and use prompts such as reversing a process or removing a component.",
+          "translation": "在分歧期间，成员寻求替代方案并使用提示，例如逆转流程或删除组件。"
+        },
+        {
+          "text": "During evaluation, criteria such as cost, safety and user need become explicit.",
+          "translation": "在评估过程中，成本、安全性和用户需求等标准变得明确。"
+        },
+        {
+          "text": "Keeping the phases distinct prevents practical objections from ending exploration too soon.",
+          "translation": "保持阶段不同可以防止实际反对意见过早结束探索。"
+        }
+      ],
+      [
+        {
+          "text": "The strongest process is neither solitary nor purely collective.",
+          "translation": "最强大的过程既不是孤立的，也不是纯粹的集体。"
+        },
+        {
+          "text": "Independent thought protects variety; exchange allows one person’s knowledge to extend another’s incomplete proposal.",
+          "translation": "独立思想保护多样性；交换允许一个人的知识扩展另一个人不完整的提案。"
+        },
+        {
+          "text": "A facilitator can invite written ideas before a meeting, group them without names and ask which assumptions each group shares.",
+          "translation": "主持人可以在会议前邀请书面想法，将它们分组（不带名字），并询问每个组共享哪些假设。"
+        },
+        {
+          "text": "This procedure does not guarantee originality, and familiar solutions are sometimes best.",
+          "translation": "此过程不能保证原创性，有时熟悉的解决方案是最好的。"
+        },
+        {
+          "text": "It does, however, make the first suggestion compete with alternatives.",
+          "translation": "然而，它确实使第一个建议与其他建议竞争。"
+        },
+        {
+          "text": "Creativity then becomes less dependent on who speaks fastest and more dependent on the range of possibilities examined.",
+          "translation": "这样，创造力就不再那么依赖于谁说得最快，而更多地依赖于所检查的可能性的范围。"
+        }
+      ],
+      [
+        {
+          "text": "Physical arrangements can support the separation of phases.",
+          "translation": "物理布置可以支持相分离。"
+        },
+        {
+          "text": "Some workshops keep incomplete models visible, making revision normal rather than embarrassing.",
+          "translation": "一些研讨会将不完整的模型保持可见，使修改变得正常而不是令人尴尬。"
+        },
+        {
+          "text": "Digital teams may use one board for unfiltered proposals and another for choices that have met agreed criteria.",
+          "translation": "数字团队可以使用一个板来处理未经过滤的提案，使用另一个板来处理符合商定标准的选择。"
+        },
+        {
+          "text": "These simple boundaries remind participants which kind of thinking is required and reduce the temptation to defend an early sketch as if it were a final commitment.",
+          "translation": "这些简单的界限提醒参与者需要哪种思考，并减少了捍卫早期草图的诱惑，就好像它是最终的承诺一样。"
+        }
+      ]
     ]
   }
 }

@@ -153,7 +153,8 @@
         "safeguard wild species",
         "preserve fauna"
       ],
-      "note": "fauna 是某地区动物群的正式表达。"
+      "note": "fauna 是某地区动物群的正式表达。",
+      "translation": "保护野生动物"
     },
     {
       "base": "animals are disappearing",
@@ -162,7 +163,8 @@
         "species are becoming scarce",
         "wildlife numbers are falling"
       ],
-      "note": "population decline 比 disappearing 更准确。"
+      "note": "population decline 比 disappearing 更准确。",
+      "translation": "动物正在消失"
     },
     {
       "base": "natural home",
@@ -171,7 +173,8 @@
         "ecological range",
         "the environment a species occupies"
       ],
-      "note": "ecological range 侧重物种活动分布范围。"
+      "note": "ecological range 侧重物种活动分布范围。",
+      "translation": "自然栖息地"
     },
     {
       "base": "illegal hunting",
@@ -180,7 +183,8 @@
         "unlawful killing of wildlife",
         "prohibited hunting"
       ],
-      "note": "poaching 常指为交易或获取动物部位而非法猎捕。"
+      "note": "poaching 常指为交易或获取动物部位而非法猎捕。",
+      "translation": "非法捕猎"
     },
     {
       "base": "bring a species back",
@@ -189,7 +193,8 @@
         "restore a native population",
         "return animals to their former range"
       ],
-      "note": "reintroduce 强调人为放归原栖息范围。"
+      "note": "reintroduce 强调人为放归原栖息范围。",
+      "translation": "恢复一个物种"
     },
     {
       "base": "animals and people compete",
@@ -198,7 +203,8 @@
         "wildlife comes into conflict with communities",
         "people and animals make competing claims on resources"
       ],
-      "note": "competing claims 适合土地和水资源讨论。"
+      "note": "competing claims 适合土地和水资源讨论。",
+      "translation": "动物与人类争夺资源"
     },
     {
       "base": "variety of life",
@@ -207,7 +213,8 @@
         "the range of living species",
         "ecosystem diversity"
       ],
-      "note": "biological diversity 是 biodiversity 的完整表达。"
+      "note": "biological diversity 是 biodiversity 的完整表达。",
+      "translation": "生物多样性"
     },
     {
       "base": "successful protection",
@@ -216,51 +223,60 @@
         "a positive recovery outcome",
         "measurable ecological improvement"
       ],
-      "note": "recovery outcome 常用于种群恢复项目。"
+      "note": "recovery outcome 常用于种群恢复项目。",
+      "translation": "成功的保护"
     }
   ],
   "sentences": [
     {
       "pattern": "Protecting + a threatened species + requires not only + action against direct harm, but also + protection of its habitat.",
       "cn": "保护某物种不仅需要采取直接行动，还需要采取栖息地层面的措施。",
-      "example": "Protecting sea turtles requires not only preventing egg collection, but also reducing artificial light near nesting beaches."
+      "example": "Protecting sea turtles requires not only preventing egg collection, but also reducing artificial light near nesting beaches.",
+      "exampleTranslation": "保护海龟不仅需要阻止采集龟蛋，还需要减少筑巢海滩附近的人造光。"
     },
     {
       "pattern": "Where + an animal + depends on + a migration corridor, the loss of even a narrow area can + divide the population.",
       "cn": "当某种动物依赖某类景观要素时，即使失去一小片区域也会造成某种后果。",
-      "example": "Where elephants depend on seasonal migration routes, the loss of even a narrow corridor can isolate entire populations."
+      "example": "Where elephants depend on seasonal migration routes, the loss of even a narrow corridor can isolate entire populations.",
+      "exampleTranslation": "在大象依赖季节性迁徙路线的地方，即使失去一条狭窄通道也可能使整个种群相互隔绝。"
     },
     {
       "pattern": "Unless conservation provides + a fair benefit to local communities, residents who bear + its costs + may be unwilling to + support it.",
       "cn": "除非自然保护能为社区带来某种益处，否则承担某种成本的居民可能不愿采取相关行动。",
-      "example": "Unless conservation provides reliable local income, residents who bear crop losses may be unwilling to tolerate large animals nearby."
+      "example": "Unless conservation provides reliable local income, residents who bear crop losses may be unwilling to tolerate large animals nearby.",
+      "exampleTranslation": "除非保护工作能提供可靠的当地收入，否则承受作物损失的居民可能不愿容忍附近的大型动物。"
     }
   ],
   "expressions": [
     {
       "text": "in the wild",
       "cn": "在野外",
-      "example": "Only a few hundred individuals remain in the wild."
+      "example": "Only a few hundred individuals remain in the wild.",
+      "exampleTranslation": "野外现存的该物种仅剩几百只。"
     },
     {
       "text": "on the brink of extinction",
       "cn": "濒临灭绝",
-      "example": "The species was once on the brink of extinction."
+      "example": "The species was once on the brink of extinction.",
+      "exampleTranslation": "该物种曾一度濒临灭绝。"
     },
     {
       "text": "leave wildlife undisturbed",
       "cn": "不打扰野生动物",
-      "example": "Visitors should leave nesting birds undisturbed."
+      "example": "Visitors should leave nesting birds undisturbed.",
+      "exampleTranslation": "游客不应惊扰筑巢的鸟类。"
     },
     {
       "text": "strike a balance between conservation and livelihoods",
       "cn": "在保护与生计之间取得平衡",
-      "example": "The reserve must strike a balance between conservation and livelihoods."
+      "example": "The reserve must strike a balance between conservation and livelihoods.",
+      "exampleTranslation": "保护区必须在自然保护与民生之间取得平衡。"
     },
     {
       "text": "play a vital role in the ecosystem",
       "cn": "在生态系统中发挥关键作用",
-      "example": "Pollinating insects play a vital role in the ecosystem."
+      "example": "Pollinating insects play a vital role in the ecosystem.",
+      "exampleTranslation": "传粉昆虫在生态系统中发挥着关键作用。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,38 @@
         "support community rangers",
         "reduce human–wildlife conflict"
       ],
-      "argument": "A distant public may value elephants simply because they exist, while a nearby farmer may lose a season’s crop to them overnight. Asking that farmer to absorb the entire cost turns a global conservation benefit into a private burden. Revenue-sharing, rapid compensation and locally employed ranger teams can make wildlife an asset rather than only a risk. In Namibia, community conservancies have linked tourism income and local management in several regions. Such arrangements do not remove every conflict, but they give residents a practical reason to report poaching and maintain habitat."
+      "argument": "A distant public may value elephants simply because they exist, while a nearby farmer may lose a season’s crop to them overnight. Asking that farmer to absorb the entire cost turns a global conservation benefit into a private burden. Revenue-sharing, rapid compensation and locally employed ranger teams can make wildlife an asset rather than only a risk. In Namibia, community conservancies have linked tourism income and local management in several regions. Such arrangements do not remove every conflict, but they give residents a practical reason to report poaching and maintain habitat.",
+      "viewpointTranslation": "自然保护应回馈与野生动物共同生活的人们。",
+      "topicSentenceTranslation": "当当地社区从物种保护中获得收益，并在承担实际成本时得到帮助，保护成果会更加持久。",
+      "collocationTranslations": [
+        "分享旅游收入",
+        "补偿经核实的损失",
+        "支持社区巡护员",
+        "减少人类与野生动物冲突"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A distant public may value elephants simply because they exist, while a nearby farmer may lose a season’s crop to them overnight.",
+          "translation": "远方公众可能仅仅因为大象的存在而珍视它们，而附近农民却可能在一夜之间损失一季庄稼。"
+        },
+        {
+          "text": "Asking that farmer to absorb the entire cost turns a global conservation benefit into a private burden.",
+          "translation": "要求农民独自承担全部成本，会把全球性的保护利益变成个人负担。"
+        },
+        {
+          "text": "Revenue-sharing, rapid compensation and locally employed ranger teams can make wildlife an asset rather than only a risk.",
+          "translation": "收益共享、快速补偿和聘用当地人的巡护队，可以使野生动物成为资产，而不只是风险。"
+        },
+        {
+          "text": "In Namibia, community conservancies have linked tourism income and local management in several regions.",
+          "translation": "例如在纳米比亚，社区保护区已在若干地区把旅游收入与地方管理结合起来。"
+        },
+        {
+          "text": "Such arrangements do not remove every conflict, but they give residents a practical reason to report poaching and maintain habitat.",
+          "translation": "这些安排无法消除所有冲突，却能给居民提供举报偷猎和维护栖息地的实际理由。"
+        }
+      ],
+      "translation": "远方公众可能仅仅因为大象的存在而珍视它们，而附近农民却可能在一夜之间损失一季庄稼。要求农民独自承担全部成本，会把全球性的保护利益变成个人负担。收益共享、快速补偿和聘用当地人的巡护队，可以使野生动物成为资产，而不只是风险。例如在纳米比亚，社区保护区已在若干地区把旅游收入与地方管理结合起来。这些安排无法消除所有冲突，却能给居民提供举报偷猎和维护栖息地的实际理由。"
     },
     {
       "viewpoint": "Connectivity can matter more than the total size of protected land.",
@@ -301,19 +348,106 @@
         "preserve genetic diversity",
         "plan across boundaries"
       ],
-      "argument": "Animals that migrate cannot complete their life cycle inside a reserve drawn around only a breeding or feeding site. Roads and farms between protected areas may block movement, separate breeding populations and increase collisions. Wildlife crossings or negotiated corridors can reconnect key sections without excluding all human use from the wider landscape. Their design must follow tracking evidence because an attractive strip of vegetation is useless if animals do not use it. Comparing isolated acreage alone can therefore conceal whether conservation land functions as an ecological network."
+      "argument": "Animals that migrate cannot complete their life cycle inside a reserve drawn around only a breeding or feeding site. Roads and farms between protected areas may block movement, separate breeding populations and increase collisions. Wildlife crossings or negotiated corridors can reconnect key sections without excluding all human use from the wider landscape. Their design must follow tracking evidence because an attractive strip of vegetation is useless if animals do not use it. Comparing isolated acreage alone can therefore conceal whether conservation land functions as an ecological network.",
+      "viewpointTranslation": "栖息地连通性可能比受保护土地的总面积更重要。",
+      "topicSentenceTranslation": "相互连接的栖息地网络，可能比总面积更大但彼此孤立的保护区更能保护迁徙动物。",
+      "collocationTranslations": [
+        "连接破碎的栖息地",
+        "维持迁徙路线",
+        "保护遗传多样性",
+        "跨区域规划"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Animals that migrate cannot complete their life cycle inside a reserve drawn around only a breeding or feeding site.",
+          "translation": "迁徙动物无法在仅围绕繁殖地或觅食地划定的保护区内完成整个生命周期。"
+        },
+        {
+          "text": "Roads and farms between protected areas may block movement, separate breeding populations and increase collisions.",
+          "translation": "保护区之间的道路和农田可能阻断迁徙、分隔繁殖种群并增加碰撞事故。"
+        },
+        {
+          "text": "Wildlife crossings or negotiated corridors can reconnect key sections without excluding all human use from the wider landscape.",
+          "translation": "野生动物通道或协商设立的走廊可以重新连接关键区域，而不必禁止人类使用整个周边景观。"
+        },
+        {
+          "text": "Their design must follow tracking evidence because an attractive strip of vegetation is useless if animals do not use it.",
+          "translation": "设计必须依据追踪数据，因为如果动物不使用，再好看的植被带也毫无作用。"
+        },
+        {
+          "text": "Comparing isolated acreage alone can therefore conceal whether conservation land functions as an ecological network.",
+          "translation": "因此，只比较孤立保护区的面积，可能掩盖保护用地能否作为生态网络发挥作用。"
+        }
+      ],
+      "translation": "迁徙动物无法在仅围绕繁殖地或觅食地划定的保护区内完成整个生命周期。保护区之间的道路和农田可能阻断迁徙、分隔繁殖种群并增加碰撞事故。野生动物通道或协商设立的走廊可以重新连接关键区域，而不必禁止人类使用整个周边景观。设计必须依据追踪数据，因为如果动物不使用，再好看的植被带也毫无作用。因此，只比较孤立保护区的面积，可能掩盖保护用地能否作为生态网络发挥作用。"
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe a wild animal that you would like to learn more about.",
-      "answer": "I would like to learn more about the pangolin. I first saw one in a short wildlife documentary and was surprised by its scales and the way it curls into a ball when threatened. It looks almost prehistoric, but it is a shy mammal that mainly eats ants and termites. I later read that several pangolin species are threatened by illegal trade, which made me wonder how conservation teams monitor an animal that is active at night and difficult to observe. I’d especially like to know how large an area it needs and whether rescued animals can adapt after being released. Learning those details would make the conservation problem feel more concrete than simply hearing that the animal is endangered."
+      "answer": "I would like to learn more about the pangolin. I first saw one in a short wildlife documentary and was surprised by its scales and the way it curls into a ball when threatened. It looks almost prehistoric, but it is a shy mammal that mainly eats ants and termites. I later read that several pangolin species are threatened by illegal trade, which made me wonder how conservation teams monitor an animal that is active at night and difficult to observe. I’d especially like to know how large an area it needs and whether rescued animals can adapt after being released. Learning those details would make the conservation problem feel more concrete than simply hearing that the animal is endangered.",
+      "questionTranslation": "描述一种你想进一步了解的野生动物。",
+      "answerSentences": [
+        {
+          "text": "I would like to learn more about the pangolin.",
+          "translation": "我想进一步了解穿山甲。"
+        },
+        {
+          "text": "I first saw one in a short wildlife documentary and was surprised by its scales and the way it curls into a ball when threatened.",
+          "translation": "我第一次在一部简短的野生动物纪录片中看到它，对它的鳞片以及受威胁时蜷成球的方式感到惊讶。"
+        },
+        {
+          "text": "It looks almost prehistoric, but it is a shy mammal that mainly eats ants and termites.",
+          "translation": "它看起来几乎像史前动物，但其实是一种害羞的哺乳动物，主要以蚂蚁和白蚁为食。"
+        },
+        {
+          "text": "I later read that several pangolin species are threatened by illegal trade, which made me wonder how conservation teams monitor an animal that is active at night and difficult to observe.",
+          "translation": "后来我读到，有几个穿山甲物种受到非法贸易威胁，这让我想知道保护团队如何监测这种夜间活动且难以观察的动物。"
+        },
+        {
+          "text": "I’d especially like to know how large an area it needs and whether rescued animals can adapt after being released.",
+          "translation": "我尤其想了解它需要多大活动范围，以及获救动物被放归后能否适应。"
+        },
+        {
+          "text": "Learning those details would make the conservation problem feel more concrete than simply hearing that the animal is endangered.",
+          "translation": "了解这些细节，会比仅仅听说它濒危更能让我具体认识保护难题。"
+        }
+      ],
+      "translation": "我想进一步了解穿山甲。我第一次在一部简短的野生动物纪录片中看到它，对它的鳞片以及受威胁时蜷成球的方式感到惊讶。它看起来几乎像史前动物，但其实是一种害羞的哺乳动物，主要以蚂蚁和白蚁为食。后来我读到，有几个穿山甲物种受到非法贸易威胁，这让我想知道保护团队如何监测这种夜间活动且难以观察的动物。我尤其想了解它需要多大活动范围，以及获救动物被放归后能否适应。了解这些细节，会比仅仅听说它濒危更能让我具体认识保护难题。"
     },
     {
       "part": "Part 3",
       "question": "Is it reasonable to spend money protecting species that most people will never see?",
-      "answer": "Yes, because direct human enjoyment is not the only measure of value. An unfamiliar insect or amphibian may perform an ecological function that supports soil, water or other species. We also do not fully understand every relationship before a population disappears, so extinction closes options permanently. However, conservation budgets should use evidence and consider local people rather than funding an animal only because it has an appealing image. Protecting habitat can often benefit several species and communities at once. The strongest case combines ecological importance, feasibility and fairness, not simply popularity."
+      "answer": "Yes, because direct human enjoyment is not the only measure of value. An unfamiliar insect or amphibian may perform an ecological function that supports soil, water or other species. We also do not fully understand every relationship before a population disappears, so extinction closes options permanently. However, conservation budgets should use evidence and consider local people rather than funding an animal only because it has an appealing image. Protecting habitat can often benefit several species and communities at once. The strongest case combines ecological importance, feasibility and fairness, not simply popularity.",
+      "questionTranslation": "花钱保护大多数人永远看不到的物种是否合理？",
+      "answerSentences": [
+        {
+          "text": "Yes, because direct human enjoyment is not the only measure of value.",
+          "translation": "是的，因为人类能否直接欣赏并不是衡量价值的唯一标准。"
+        },
+        {
+          "text": "An unfamiliar insect or amphibian may perform an ecological function that supports soil, water or other species.",
+          "translation": "一种不为人熟悉的昆虫或两栖动物，可能承担支持土壤、水或其他物种的生态功能。"
+        },
+        {
+          "text": "We also do not fully understand every relationship before a population disappears, so extinction closes options permanently.",
+          "translation": "在一个种群消失前，我们也并不完全了解所有关系，因此灭绝会永久关闭未来的可能性。"
+        },
+        {
+          "text": "However, conservation budgets should use evidence and consider local people rather than funding an animal only because it has an appealing image.",
+          "translation": "不过，保护预算应依据证据并考虑当地居民，而不是只因某种动物形象讨喜就资助它。"
+        },
+        {
+          "text": "Protecting habitat can often benefit several species and communities at once.",
+          "translation": "保护栖息地通常可以同时惠及多个物种和社区。"
+        },
+        {
+          "text": "The strongest case combines ecological importance, feasibility and fairness, not simply popularity.",
+          "translation": "最有力的理由应结合生态重要性、可行性与公平性，而不只是受欢迎程度。"
+        }
+      ],
+      "translation": "是的，因为人类能否直接欣赏并不是衡量价值的唯一标准。一种不为人熟悉的昆虫或两栖动物，可能承担支持土壤、水或其他物种的生态功能。在一个种群消失前，我们也并不完全了解所有关系，因此灭绝会永久关闭未来的可能性。不过，保护预算应依据证据并考虑当地居民，而不是只因某种动物形象讨喜就资助它。保护栖息地通常可以同时惠及多个物种和社区。最有力的理由应结合生态重要性、可行性与公平性，而不只是受欢迎程度。"
     }
   ],
   "reading": {
@@ -350,6 +484,110 @@
         "answer": "False",
         "explanation": "The final paragraph explicitly says the scheme does not apply to every fence."
       }
+    ],
+    "titleTranslation": "带有季节性通道的围栏",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A fence around a reserve seems to draw a clear line between protection and threat.",
+          "translation": "保护区周围的围栏看似在保护与威胁之间划出了一条清晰界线。"
+        },
+        {
+          "text": "It can reduce poaching, prevent livestock from transmitting disease and keep large animals away from crops.",
+          "translation": "它可以减少偷猎，防止牲畜传播疾病，并阻止大型动物进入农田。"
+        },
+        {
+          "text": "In landscapes where wildlife moves with rainfall, however, a permanent barrier may also separate animals from the water and grazing that enabled them to survive before the reserve existed.",
+          "translation": "然而，在野生动物随降雨迁徙的地区，永久屏障也可能把动物与保护区建立前赖以生存的水源和牧草地隔开。"
+        },
+        {
+          "text": "Managers in one semi-arid region addressed this problem not by removing the entire fence, but by opening selected gates during part of the year.",
+          "translation": "某个半干旱地区的管理者并未拆除整道围栏，而是在一年中的部分时间开放指定通道，以解决这一问题。"
+        }
+      ],
+      [
+        {
+          "text": "The timing is based on satellite collars fitted to a small number of antelope and on reports from herders beyond the reserve.",
+          "translation": "开放时间依据少数羚羊佩戴的卫星项圈数据，以及保护区外牧民的报告。"
+        },
+        {
+          "text": "When temporary pools form after rain, animals historically move north; during the dry season, they return towards permanent water inside the protected area.",
+          "translation": "降雨形成临时水塘时，动物历来会向北迁移；旱季时，它们会返回保护区内的永久水源附近。"
+        },
+        {
+          "text": "A gate opened according to a fixed calendar would fail in years when rain arrives late.",
+          "translation": "如果按照固定日历开放通道，在降雨推迟的年份就会失效。"
+        },
+        {
+          "text": "Rangers therefore use vegetation, water and movement data to decide when access is useful.",
+          "translation": "因此，巡护员利用植被、水源和迁徙数据来决定何时开放有益。"
+        }
+      ],
+      [
+        {
+          "text": "Opening a gate transfers risk as well as opportunity.",
+          "translation": "开放通道既转移机会，也转移风险。"
+        },
+        {
+          "text": "Antelope may reach better grazing, yet they may also encounter roads, farms and unprotected land.",
+          "translation": "羚羊可能获得更好的牧草，却也可能遇到道路、农场和未受保护的土地。"
+        },
+        {
+          "text": "Herders fear competition with cattle, while veterinary officers worry that contact could spread disease in either direction.",
+          "translation": "牧民担心它们与牛争夺资源，兽医则担心接触会向任何一个方向传播疾病。"
+        },
+        {
+          "text": "Before the first trial, local representatives mapped livestock routes and agreed on zones where additional water troughs would reduce crowding.",
+          "translation": "首次试验前，当地代表绘制了牲畜路线图，并商定在一些区域增设饮水槽以减少聚集。"
+        },
+        {
+          "text": "Compensation rules were established for verified crop damage, although claims have remained rare.",
+          "translation": "项目还为经核实的作物损失制定了补偿规则，尽管至今很少有人提出索赔。"
+        }
+      ],
+      [
+        {
+          "text": "Monitoring produced an unexpected result.",
+          "translation": "监测得出了一个意外结果。"
+        },
+        {
+          "text": "The gate was used not only by the target antelope but by smaller mammals whose movements had not been studied.",
+          "translation": "使用通道的不仅是目标羚羊，还有迁徙此前未被研究的小型哺乳动物。"
+        },
+        {
+          "text": "This strengthened the ecological case for seasonal access, while making it harder to attribute changes in vegetation to one species.",
+          "translation": "这加强了开放季节性通道的生态依据，却也让研究者更难把植被变化归因于某一个物种。"
+        },
+        {
+          "text": "Researchers, who had initially planned to count only crossings, expanded the project to compare grazing pressure and predator activity on both sides.",
+          "translation": "研究人员最初只计划统计穿越次数，后来扩大项目，比较通道两侧的放牧压力和捕食者活动。"
+        }
+      ],
+      [
+        {
+          "text": "The scheme does not prove that every conservation fence needs a gate.",
+          "translation": "这项计划并不能证明每一道保护围栏都需要通道。"
+        },
+        {
+          "text": "Some boundaries protect animals from intense settlement or an active disease outbreak, and opening them would be irresponsible.",
+          "translation": "有些边界用于保护动物免受密集人类定居或正在暴发的疾病影响，贸然开放是不负责任的。"
+        },
+        {
+          "text": "It does show that a barrier can be managed as a changing tool rather than treated as a permanent answer.",
+          "translation": "但它确实表明，屏障可以被当作不断调整的工具来管理，而不是永久不变的答案。"
+        },
+        {
+          "text": "In an environment governed by irregular rain, flexible protection may be more realistic than a line that ignores the season.",
+          "translation": "在受不规律降雨支配的环境中，灵活保护可能比无视季节的界线更切合实际。"
+        }
+      ]
+    ],
+    "paragraphTranslations": [
+      "保护区周围的围栏看似在保护与威胁之间划出了一条清晰界线。它可以减少偷猎，防止牲畜传播疾病，并阻止大型动物进入农田。然而，在野生动物随降雨迁徙的地区，永久屏障也可能把动物与保护区建立前赖以生存的水源和牧草地隔开。某个半干旱地区的管理者并未拆除整道围栏，而是在一年中的部分时间开放指定通道，以解决这一问题。",
+      "开放时间依据少数羚羊佩戴的卫星项圈数据，以及保护区外牧民的报告。降雨形成临时水塘时，动物历来会向北迁移；旱季时，它们会返回保护区内的永久水源附近。如果按照固定日历开放通道，在降雨推迟的年份就会失效。因此，巡护员利用植被、水源和迁徙数据来决定何时开放有益。",
+      "开放通道既转移机会，也转移风险。羚羊可能获得更好的牧草，却也可能遇到道路、农场和未受保护的土地。牧民担心它们与牛争夺资源，兽医则担心接触会向任何一个方向传播疾病。首次试验前，当地代表绘制了牲畜路线图，并商定在一些区域增设饮水槽以减少聚集。项目还为经核实的作物损失制定了补偿规则，尽管至今很少有人提出索赔。",
+      "监测得出了一个意外结果。使用通道的不仅是目标羚羊，还有迁徙此前未被研究的小型哺乳动物。这加强了开放季节性通道的生态依据，却也让研究者更难把植被变化归因于某一个物种。研究人员最初只计划统计穿越次数，后来扩大项目，比较通道两侧的放牧压力和捕食者活动。",
+      "这项计划并不能证明每一道保护围栏都需要通道。有些边界用于保护动物免受密集人类定居或正在暴发的疾病影响，贸然开放是不负责任的。但它确实表明，屏障可以被当作不断调整的工具来管理，而不是永久不变的答案。在受不规律降雨支配的环境中，灵活保护可能比无视季节的界线更切合实际。"
     ]
   }
 }

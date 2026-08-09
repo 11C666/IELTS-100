@@ -153,7 +153,8 @@
         "senior citizens",
         "people in later life"
       ],
-      "note": "older adults中性自然，适合多数语境。"
+      "note": "older adults中性自然，适合多数语境。",
+      "translation": "老年人，也可表达为老年群体、年长者或处于晚年阶段的人。"
     },
     {
       "base": "people live longer",
@@ -162,7 +163,8 @@
         "life expectancy is rising",
         "more people survive into old age"
       ],
-      "note": "life expectancy适合数据讨论。"
+      "note": "life expectancy适合数据讨论。",
+      "translation": "人们寿命延长，也可表达为预期寿命上升、人口更加长寿或平均寿命延长。"
     },
     {
       "base": "care for the elderly",
@@ -171,7 +173,8 @@
         "provide later-life care",
         "meet older adults’ care needs"
       ],
-      "note": "meet needs强调服务是否匹配。"
+      "note": "meet needs强调服务是否匹配。",
+      "translation": "照护老年人，也可表达为老年照护、支持年长者或提供长期护理。"
     },
     {
       "base": "fewer babies are born",
@@ -180,7 +183,8 @@
         "fertility is declining",
         "births are becoming less numerous"
       ],
-      "note": "fertility常用于人口研究。"
+      "note": "fertility常用于人口研究。",
+      "translation": "新生儿减少，也可表达为出生率下降、出生人数减少或年轻人口规模缩小。"
     },
     {
       "base": "retire later",
@@ -189,7 +193,8 @@
         "remain in employment for longer",
         "delay departure from the workforce"
       ],
-      "note": "extend working lives适合政策讨论。"
+      "note": "extend working lives适合政策讨论。",
+      "translation": "推迟退休，也可表达为延长职业生涯、提高退休年龄或继续工作更久。"
     },
     {
       "base": "lonely older people",
@@ -198,7 +203,8 @@
         "older adults with limited social contact",
         "people cut off from community life"
       ],
-      "note": "isolated不等于独居。"
+      "note": "isolated不等于独居。",
+      "translation": "孤独的老年人，也可表达为社会孤立的年长者、缺少陪伴的老人或社交联系有限的老年居民。"
     },
     {
       "base": "cost of pensions",
@@ -207,7 +213,8 @@
         "the fiscal burden of retirement income",
         "public spending on pension provision"
       ],
-      "note": "fiscal burden带有成本压力含义。"
+      "note": "fiscal burden带有成本压力含义。",
+      "translation": "养老金成本，也可表达为养老金支出、退休保障的财政负担或公共养老金费用。"
     },
     {
       "base": "use older workers’ skills",
@@ -216,51 +223,60 @@
         "draw on senior staff’s expertise",
         "make productive use of accumulated experience"
       ],
-      "note": "retain强调避免人才过早流失。"
+      "note": "retain强调避免人才过早流失。",
+      "translation": "运用老年劳动者的技能，也可表达为保留经验丰富的员工、利用长期积累的专业知识或发挥年长员工的经验。"
     }
   ],
   "sentences": [
     {
       "pattern": "As + population trend + continues, + service or institution + will need to + response.",
       "cn": "随着某种人口趋势持续，相关服务或机构将需要采取相应措施。",
-      "example": "As life expectancy continues to rise, health services will need to provide more long-term care."
+      "example": "As life expectancy continues to rise, health services will need to provide more long-term care.",
+      "exampleTranslation": "随着预期寿命持续上升，医疗服务需要提供更多长期照护。"
     },
     {
       "pattern": "Older adults who + situation + are more likely to + outcome than those who + contrasting situation.",
       "cn": "处于某种情况的老年人，比处于相反情况的人更可能出现某种结果。",
-      "example": "Older adults who maintain regular social contact are more likely to stay healthy than those who become isolated."
+      "example": "Older adults who maintain regular social contact are more likely to stay healthy than those who become isolated.",
+      "exampleTranslation": "保持规律社交联系的老年人比陷入孤立的人更有可能维持健康。"
     },
     {
       "pattern": "By enabling + group + to + action, + policy + can both + benefit one + and + benefit two.",
       "cn": "通过帮助某群体采取行动，某项政策可以同时带来两方面益处。",
-      "example": "By enabling experienced staff to work flexible hours, employers can both retain expertise and reduce labour shortages."
+      "example": "By enabling experienced staff to work flexible hours, employers can both retain expertise and reduce labour shortages.",
+      "exampleTranslation": "通过让经验丰富的员工灵活工作，雇主既能留住专业知识，也能缓解劳动力短缺。"
     }
   ],
   "expressions": [
     {
       "text": "age in place",
       "cn": "在熟悉的社区养老",
-      "example": "Most people would prefer to age in place if support is available."
+      "example": "Most people would prefer to age in place if support is available.",
+      "exampleTranslation": "如果能够获得支持，大多数人都愿意在熟悉的住所安度晚年。"
     },
     {
       "text": "keep socially connected",
       "cn": "保持社会联系",
-      "example": "Community classes help retired people keep socially connected."
+      "example": "Community classes help retired people keep socially connected.",
+      "exampleTranslation": "社区课程帮助退休人员保持社会联系。"
     },
     {
       "text": "take on a caring role",
       "cn": "承担照护责任",
-      "example": "Many adults take on a caring role for a parent."
+      "example": "Many adults take on a caring role for a parent.",
+      "exampleTranslation": "许多成年人承担起照顾父母的角色。"
     },
     {
       "text": "ease pressure on public services",
       "cn": "缓解公共服务压力",
-      "example": "Preventive care can ease pressure on public services."
+      "example": "Preventive care can ease pressure on public services.",
+      "exampleTranslation": "预防性医疗可以缓解公共服务压力。"
     },
     {
       "text": "draw on a lifetime of experience",
       "cn": "利用一生积累的经验",
-      "example": "Mentoring schemes draw on a lifetime of experience."
+      "example": "Mentoring schemes draw on a lifetime of experience.",
+      "exampleTranslation": "导师计划能够利用一生积累的经验。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "support independent living",
         "adopt universal design"
       ],
-      "argument": "Steps without handrails and bus information displayed in tiny print create obvious difficulties for older adults. The same barriers also affect parents with pushchairs, injured commuters and travellers carrying luggage. Replacing them with level access, seating and clear signs therefore serves a much wider public. A town in which people can continue shopping and meeting friends independently may also require less formal care. Age-friendly investment should consequently be treated as inclusive infrastructure rather than a specialist expense."
+      "argument": "Steps without handrails and bus information displayed in tiny print create obvious difficulties for older adults. The same barriers also affect parents with pushchairs, injured commuters and travellers carrying luggage. Replacing them with level access, seating and clear signs therefore serves a much wider public. A town in which people can continue shopping and meeting friends independently may also require less formal care. Age-friendly investment should consequently be treated as inclusive infrastructure rather than a specialist expense.",
+      "viewpointTranslation": "适老化设计能让全体人口受益。",
+      "topicSentenceTranslation": "为年长居民改造公共空间，可以让城市对每个人都更安全、更易使用。",
+      "collocationTranslations": [
+        "消除物理障碍",
+        "提供无障碍交通",
+        "支持独立生活",
+        "采用通用设计"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Steps without handrails and bus information displayed in tiny print create obvious difficulties for older adults.",
+          "translation": "没有扶手的台阶和以极小字体显示的公交信息，会给老年人带来明显困难。"
+        },
+        {
+          "text": "The same barriers also affect parents with pushchairs, injured commuters and travellers carrying luggage.",
+          "translation": "同样的障碍也会影响推婴儿车的家长、受伤的通勤者和携带行李的旅客。"
+        },
+        {
+          "text": "Replacing them with level access, seating and clear signs therefore serves a much wider public.",
+          "translation": "因此，用平整通道、座椅和清晰标识取代这些障碍，能够服务更广泛的公众。"
+        },
+        {
+          "text": "A town in which people can continue shopping and meeting friends independently may also require less formal care.",
+          "translation": "如果一座城镇让人们可以继续独立购物和与朋友见面，它对正规照护的需求也可能更少。"
+        },
+        {
+          "text": "Age-friendly investment should consequently be treated as inclusive infrastructure rather than a specialist expense.",
+          "translation": "因此，适老化投资应被视为包容性基础设施，而不是专门针对某类人的开支。"
+        }
+      ]
     },
     {
       "viewpoint": "Longer lives require flexible working arrangements.",
@@ -301,19 +347,99 @@
         "offer phased retirement",
         "protect physically demanding workers"
       ],
-      "argument": "An office worker in good health may want to reduce hours gradually and continue contributing, while a construction worker may be unable to remain in the same role. Forcing both to retire on one date wastes some people’s expertise but places an unfair burden on others. Phased retirement and retraining would give capable employees a route to stay without making later retirement compulsory. Employers would retain institutional knowledge, and pension systems would receive contributions for longer. Flexibility, rather than a simple rise in the age threshold, is the more balanced reform."
+      "argument": "An office worker in good health may want to reduce hours gradually and continue contributing, while a construction worker may be unable to remain in the same role. Forcing both to retire on one date wastes some people’s expertise but places an unfair burden on others. Phased retirement and retraining would give capable employees a route to stay without making later retirement compulsory. Employers would retain institutional knowledge, and pension systems would receive contributions for longer. Flexibility, rather than a simple rise in the age threshold, is the more balanced reform.",
+      "viewpointTranslation": "寿命延长需要灵活的工作安排。",
+      "topicSentenceTranslation": "当健康、职业和个人情况差异很大时，统一的退休年龄不再适用。",
+      "collocationTranslations": [
+        "延长职业生涯",
+        "留住熟练员工",
+        "提供渐进式退休",
+        "保护体力劳动者"
+      ],
+      "argumentSentences": [
+        {
+          "text": "An office worker in good health may want to reduce hours gradually and continue contributing, while a construction worker may be unable to remain in the same role.",
+          "translation": "健康状况良好的办公室职员可能希望逐步减少工时并继续贡献，而建筑工人可能无法继续从事同样的工作。"
+        },
+        {
+          "text": "Forcing both to retire on one date wastes some people’s expertise but places an unfair burden on others.",
+          "translation": "强迫两者在同一天退休，会浪费一些人的专业经验，却给另一些人带来不公平的负担。"
+        },
+        {
+          "text": "Phased retirement and retraining would give capable employees a route to stay without making later retirement compulsory.",
+          "translation": "渐进式退休和再培训可以让有能力的员工继续工作，而不把延迟退休变成强制要求。"
+        },
+        {
+          "text": "Employers would retain institutional knowledge, and pension systems would receive contributions for longer.",
+          "translation": "雇主可以保留机构经验，养老金体系也能更长时间地获得缴费。"
+        },
+        {
+          "text": "Flexibility, rather than a simple rise in the age threshold, is the more balanced reform.",
+          "translation": "比起简单提高年龄门槛，灵活性才是更均衡的改革。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 2",
       "question": "Describe an older person whose experience you value.",
-      "answer": "I value the experience of a former colleague who worked in customer service for nearly thirty years. She was calm even when a customer was angry, and she could usually identify the real problem behind a complaint. When I first joined the team, she showed me how to listen without interrupting and how to explain a solution in plain language. What impressed me was that she never presented her advice as a fixed rule; she always asked what I had already tried. We still speak occasionally, and her practical judgement has helped me far more than any short training course. She made experience feel generous rather than authoritative."
+      "answer": "I value the experience of a former colleague who worked in customer service for nearly thirty years. She was calm even when a customer was angry, and she could usually identify the real problem behind a complaint. When I first joined the team, she showed me how to listen without interrupting and how to explain a solution in plain language. What impressed me was that she never presented her advice as a fixed rule; she always asked what I had already tried. We still speak occasionally, and her practical judgement has helped me far more than any short training course. She made experience feel generous rather than authoritative.",
+      "questionTranslation": "请描述一位你很看重其经验的年长者。",
+      "answerSentences": [
+        {
+          "text": "I value the experience of a former colleague who worked in customer service for nearly thirty years.",
+          "translation": "我很看重一位前同事的经验，她从事客户服务工作近三十年。"
+        },
+        {
+          "text": "She was calm even when a customer was angry, and she could usually identify the real problem behind a complaint.",
+          "translation": "即使顾客生气，她也能保持冷静，而且通常能发现投诉背后的真正问题。"
+        },
+        {
+          "text": "When I first joined the team, she showed me how to listen without interrupting and how to explain a solution in plain language.",
+          "translation": "我刚加入团队时，她教我如何不打断别人地倾听，以及如何用简单明了的语言解释解决方案。"
+        },
+        {
+          "text": "What impressed me was that she never presented her advice as a fixed rule; she always asked what I had already tried.",
+          "translation": "让我印象深刻的是，她从不把建议说成固定规则，而总会先问我已经尝试过什么。"
+        },
+        {
+          "text": "We still speak occasionally, and her practical judgement has helped me far more than any short training course.",
+          "translation": "我们现在偶尔仍会交谈，她的实际判断力给我的帮助远胜于任何短期培训课程。"
+        },
+        {
+          "text": "She made experience feel generous rather than authoritative.",
+          "translation": "她让经验显得慷慨分享，而不是居高临下。"
+        }
+      ]
     },
     {
       "part": "Part 3",
       "question": "How can communities reduce loneliness among older people?",
-      "answer": "Regular contact needs to be built into ordinary community life. Affordable transport is important because an excellent activity is useless if someone cannot reach it. Libraries, sports centres and neighbourhood groups can offer sessions that involve a real shared purpose, such as gardening or language exchange, rather than treating older people as passive recipients of entertainment. Telephone support can help people who are housebound, although it should not replace face-to-face contact entirely. It is also worth supporting family carers, whose workload can isolate both themselves and the person they look after."
+      "answer": "Regular contact needs to be built into ordinary community life. Affordable transport is important because an excellent activity is useless if someone cannot reach it. Libraries, sports centres and neighbourhood groups can offer sessions that involve a real shared purpose, such as gardening or language exchange, rather than treating older people as passive recipients of entertainment. Telephone support can help people who are housebound, although it should not replace face-to-face contact entirely. It is also worth supporting family carers, whose workload can isolate both themselves and the person they look after.",
+      "questionTranslation": "社区可以如何减少老年人的孤独？",
+      "answerSentences": [
+        {
+          "text": "Regular contact needs to be built into ordinary community life.",
+          "translation": "应把定期接触融入日常社区生活。"
+        },
+        {
+          "text": "Affordable transport is important because an excellent activity is useless if someone cannot reach it.",
+          "translation": "负担得起的交通非常重要，因为如果有人无法到达，再好的活动也没有用。"
+        },
+        {
+          "text": "Libraries, sports centres and neighbourhood groups can offer sessions that involve a real shared purpose, such as gardening or language exchange, rather than treating older people as passive recipients of entertainment.",
+          "translation": "图书馆、体育中心和社区团体可以开展具有真正共同目标的活动，例如园艺或语言交流，而不是把老年人当作被动接受娱乐的人。"
+        },
+        {
+          "text": "Telephone support can help people who are housebound, although it should not replace face-to-face contact entirely.",
+          "translation": "电话支持可以帮助无法出门的人，不过它不应完全取代面对面接触。"
+        },
+        {
+          "text": "It is also worth supporting family carers, whose workload can isolate both themselves and the person they look after.",
+          "translation": "支持家庭照护者也很重要，因为繁重的照护任务可能使他们自己以及被照护者都陷入孤立。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -349,6 +475,89 @@
         "answer": "shops",
         "explanation": "The final paragraph states that such jobs were referred to nearby shops."
       }
+    ],
+    "titleTranslation": "成为交流场所的维修铺",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "At a repair workshop in a small town, the objects arriving on Tuesday mornings are ordinary:",
+          "translation": "一家小镇维修工坊每周二早晨收到的物品都很普通："
+        },
+        {
+          "text": "lamps with loose wires, stiff bicycle brakes and radios that no longer produce sound.",
+          "translation": "电线松动的台灯、刹车僵硬的自行车，以及不再发声的收音机。"
+        },
+        {
+          "text": "Less visible is the knowledge brought by the volunteers, most of whom are retired technicians or skilled hobbyists.",
+          "translation": "不那么显眼的是志愿者带来的知识，他们大多是退休技术人员或技艺熟练的业余爱好者。"
+        },
+        {
+          "text": "The scheme was established to prevent usable goods from being discarded, yet organisers soon noticed that its social effects were at least as significant as the waste it avoided.",
+          "translation": "该项目原本为防止尚可使用的物品被丢弃而设立，但组织者很快发现，它带来的社会影响至少与减少的废弃物同样重要。"
+        }
+      ],
+      [
+        {
+          "text": "Visitors sit beside the volunteer while an item is examined rather than leaving it at a commercial counter.",
+          "translation": "访客会坐在志愿者旁边，看着物品接受检查，而不是把它留在商业柜台。"
+        },
+        {
+          "text": "This arrangement, which slows the number of repairs completed, allows an explanation to become part of the service.",
+          "translation": "这种安排虽然会减慢维修完成的数量，却能让讲解成为服务的一部分。"
+        },
+        {
+          "text": "A retired electrician may show a student how to test a cable; a former seamstress, having identified a damaged fastening, may let its owner make the final stitches.",
+          "translation": "退休电工可能向学生展示如何检测电线；曾经的裁缝发现损坏的扣件后，可能会让物主完成最后几针。"
+        },
+        {
+          "text": "Neither participant is formally classified as teacher or pupil, and the direction of learning is not always predictable.",
+          "translation": "双方都没有被正式划分为教师或学生，而且学习的方向并不总是可以预料。"
+        },
+        {
+          "text": "Younger visitors often help volunteers use online manuals or locate obscure replacement parts.",
+          "translation": "年轻访客也常帮助志愿者使用在线手册或寻找少见的替换零件。"
+        }
+      ],
+      [
+        {
+          "text": "A multi-year evaluation recorded a large number of attempted repairs and found that a clear majority restored an object to use.",
+          "translation": "一项多年评估记录了大量维修尝试，并发现绝大多数物品恢复了使用。"
+        },
+        {
+          "text": "Surveys also suggested that regular volunteers reported a stronger sense of purpose than before joining.",
+          "translation": "调查还显示，固定参与的志愿者比加入前更有目标感。"
+        },
+        {
+          "text": "The researchers were cautious: people who chose to volunteer might already have been more socially active, so the workshop could not be credited with causing every reported improvement.",
+          "translation": "研究人员对此持谨慎态度：选择做志愿者的人原本可能就更积极参与社交，因此不能把所有报告中的改善都归因于维修工坊。"
+        },
+        {
+          "text": "Nevertheless, interviews showed that scheduled responsibility mattered.",
+          "translation": "不过，访谈表明，按计划承担责任很重要。"
+        },
+        {
+          "text": "Volunteers were expected, not merely invited, to attend.",
+          "translation": "志愿者被期待按时参加，而不只是受到邀请。"
+        }
+      ],
+      [
+        {
+          "text": "The model has limitations.",
+          "translation": "这种模式也有局限。"
+        },
+        {
+          "text": "Complex appliances may be unsafe to open, insurance rules differ, and free repair can be criticised by local businesses.",
+          "translation": "复杂电器可能不宜拆开，各地保险规定不同，而且免费维修可能受到本地商家的批评。"
+        },
+        {
+          "text": "The town addressed the last concern by referring jobs requiring new parts or specialist certification to nearby shops.",
+          "translation": "小镇通过把需要新零件或专业认证的工作转介给附近商店，解决了最后一个问题。"
+        },
+        {
+          "text": "What began as an environmental initiative has thus developed into a modest local network—one in which ageing is associated not only with receiving care, but also with possessing useful knowledge that others still need.",
+          "translation": "这个始于环保的项目由此发展成一个小型本地网络——在这里，老龄化不仅意味着接受照护，也意味着拥有他人仍然需要的实用知识。"
+        }
+      ]
     ]
   }
 }

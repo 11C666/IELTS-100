@@ -148,6 +148,7 @@
   "paraphrases": [
     {
       "base": "enjoy my job",
+      "translation": "喜欢自己的工作",
       "options": [
         "experience job satisfaction",
         "find work rewarding",
@@ -157,6 +158,7 @@
     },
     {
       "base": "work feels important",
+      "translation": "工作让人觉得有意义",
       "options": [
         "experience meaningful work",
         "see a valuable contribution",
@@ -166,6 +168,7 @@
     },
     {
       "base": "freedom in a job",
+      "translation": "工作中的自主权",
       "options": [
         "workplace autonomy",
         "discretion over methods",
@@ -175,6 +178,7 @@
     },
     {
       "base": "praise from a manager",
+      "translation": "来自管理者的表扬",
       "options": [
         "specific recognition",
         "acknowledgement of contribution",
@@ -184,6 +188,7 @@
     },
     {
       "base": "chance to improve",
+      "translation": "提升自己的机会",
       "options": [
         "room to grow",
         "development opportunity",
@@ -193,6 +198,7 @@
     },
     {
       "base": "tired of repetition",
+      "translation": "厌倦重复",
       "options": [
         "stuck in a rut",
         "bored by routine",
@@ -202,6 +208,7 @@
     },
     {
       "base": "good job conditions",
+      "translation": "良好的工作条件",
       "options": [
         "acceptable employment conditions",
         "supportive management",
@@ -211,6 +218,7 @@
     },
     {
       "base": "leave because unhappy",
+      "translation": "因不满而离职",
       "options": [
         "voluntary turnover",
         "resign from the position",
@@ -223,44 +231,52 @@
     {
       "pattern": "Employees tend to find work more satisfying when + psychological condition.",
       "cn": "当某种心理条件得到满足时，员工往往更满意。",
-      "example": "Employees tend to find work more satisfying when they can see the result of their effort."
+      "example": "Employees tend to find work more satisfying when they can see the result of their effort.",
+      "exampleTranslation": "员工能够看到自己努力的成果时，往往会觉得工作更令人满意。"
     },
     {
       "pattern": "Even a well-paid role may become + negative quality + if + condition.",
       "cn": "如果存在某种情况，即使薪资不错的岗位也可能变得……。",
-      "example": "Even a well-paid role may become exhausting if every decision requires approval."
+      "example": "Even a well-paid role may become exhausting if every decision requires approval.",
+      "exampleTranslation": "如果每项决定都需要审批，即使薪酬优厚的职位也可能让人疲惫不堪。"
     },
     {
       "pattern": "What matters is not simply whether + feedback exists, but whether + useful property.",
       "cn": "重要的不只是有没有反馈，还在于反馈是否……。",
-      "example": "What matters is not simply whether feedback exists, but whether it is fair and actionable."
+      "example": "What matters is not simply whether feedback exists, but whether it is fair and actionable.",
+      "exampleTranslation": "重要的不只是有没有反馈，而是反馈是否公平且可以付诸行动。"
     }
   ],
   "expressions": [
     {
       "text": "get a sense of achievement",
       "cn": "获得成就感",
-      "example": "Finishing a difficult repair gives me a sense of achievement."
+      "example": "Finishing a difficult repair gives me a sense of achievement.",
+      "exampleTranslation": "完成一项困难的维修工作让我很有成就感。"
     },
     {
       "text": "feel valued at work",
       "cn": "在工作中感到被重视",
-      "example": "People feel valued at work when their contribution is recognised."
+      "example": "People feel valued at work when their contribution is recognised.",
+      "exampleTranslation": "当个人贡献得到认可时，人们会觉得自己在工作中受到重视。"
     },
     {
       "text": "be stuck in a rut",
       "cn": "陷入一成不变的状态",
-      "example": "I changed responsibilities because I felt stuck in a rut."
+      "example": "I changed responsibilities because I felt stuck in a rut.",
+      "exampleTranslation": "我因为觉得工作陷入一成不变的状态而更换了职责。"
     },
     {
       "text": "have room to grow",
       "cn": "有成长空间",
-      "example": "The role is demanding, but I have room to grow."
+      "example": "The role is demanding, but I have room to grow.",
+      "exampleTranslation": "这个职位要求很高，但我有成长空间。"
     },
     {
       "text": "take pride in my work",
       "cn": "为自己的工作感到自豪",
-      "example": "Craft workers often take pride in the quality of the finished object."
+      "example": "Craft workers often take pride in the quality of the finished object.",
+      "exampleTranslation": "手工艺人常常为成品的质量感到自豪。"
     }
   ],
   "mistakes": [
@@ -283,41 +299,256 @@
   "writingIdeas": [
     {
       "viewpoint": "Autonomy increases satisfaction when expectations remain clear.",
+      "viewpointTranslation": "在期望明确的情况下，自主权能够提高工作满意度。",
       "topicSentence": "Employees are more motivated when they can choose how to meet an understood objective.",
+      "topicSentenceTranslation": "当员工能够自行选择如何实现明确的目标时，他们会更有动力。",
       "collocations": [
         "exercise workplace autonomy",
         "set clear expectations",
         "take ownership of a task",
         "use professional judgement"
       ],
-      "argument": "Detailed control can signal that judgement is neither trusted nor required. Giving employees discretion allows them to adapt a method to real conditions and feel responsible for the result. However, autonomy without priorities or resources becomes abandonment rather than freedom. Managers should define outcomes, limits and review points, then avoid controlling every step. This balance supports both accountability and professional satisfaction."
+      "argument": "Detailed control can signal that judgement is neither trusted nor required. Giving employees discretion allows them to adapt a method to real conditions and feel responsible for the result. However, autonomy without priorities or resources becomes abandonment rather than freedom. Managers should define outcomes, limits and review points, then avoid controlling every step. This balance supports both accountability and professional satisfaction.",
+      "collocationTranslations": [
+        "行使工作自主权",
+        "设定明确期望",
+        "对任务负责",
+        "运用专业判断"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Detailed control can signal that judgement is neither trusted nor required.",
+          "translation": "对细节的严密控制可能表明，员工的判断既不受信任，也不被需要。"
+        },
+        {
+          "text": "Giving employees discretion allows them to adapt a method to real conditions and feel responsible for the result.",
+          "translation": "给予员工酌情决定权，使他们能够根据实际情况调整方法，并对结果产生责任感。"
+        },
+        {
+          "text": "However, autonomy without priorities or resources becomes abandonment rather than freedom.",
+          "translation": "然而，如果没有优先事项或资源，自主就会变成放任，而不是自由。"
+        },
+        {
+          "text": "Managers should define outcomes, limits and review points, then avoid controlling every step.",
+          "translation": "管理者应明确成果、界限和检查节点，然后避免控制每一个步骤。"
+        },
+        {
+          "text": "This balance supports both accountability and professional satisfaction.",
+          "translation": "这种平衡既能促进问责，也能提升职业满意度。"
+        }
+      ]
     },
     {
       "viewpoint": "Recognition should describe contribution rather than distribute empty praise.",
+      "viewpointTranslation": "认可应当具体说明贡献，而不是泛泛地给予空洞赞美。",
       "topicSentence": "Specific acknowledgement strengthens motivation because employees can see which effort mattered.",
+      "topicSentenceTranslation": "具体的认可会增强动力，因为员工能够看出哪些努力真正产生了作用。",
       "collocations": [
         "recognise a contribution",
         "provide specific feedback",
         "acknowledge invisible work",
         "reinforce effective practice"
       ],
-      "argument": "Generic praise may feel pleasant briefly but offers little evidence that work was noticed. A manager who identifies how a careful handover prevented delay makes the contribution visible and encourages repetition. Recognition should include routine coordination and support, not only dramatic sales or public achievements. It must also be credible; constant exaggerated praise loses meaning. Specific acknowledgement helps connect individual effort with a shared result."
+      "argument": "Generic praise may feel pleasant briefly but offers little evidence that work was noticed. A manager who identifies how a careful handover prevented delay makes the contribution visible and encourages repetition. Recognition should include routine coordination and support, not only dramatic sales or public achievements. It must also be credible; constant exaggerated praise loses meaning. Specific acknowledgement helps connect individual effort with a shared result.",
+      "collocationTranslations": [
+        "认可一项贡献",
+        "提供具体反馈",
+        "肯定不显眼的工作",
+        "强化有效做法"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Generic praise may feel pleasant briefly but offers little evidence that work was noticed.",
+          "translation": "泛泛的赞美可能短暂地让人愉快，却几乎不能证明其工作真正受到了关注。"
+        },
+        {
+          "text": "A manager who identifies how a careful handover prevented delay makes the contribution visible and encourages repetition.",
+          "translation": "管理者若能指出一次细致交接如何避免了延误，就能让这项贡献变得可见，并鼓励员工继续这样做。"
+        },
+        {
+          "text": "Recognition should include routine coordination and support, not only dramatic sales or public achievements.",
+          "translation": "认可应涵盖日常协调和支持，而不应只关注亮眼的销售业绩或公开成就。"
+        },
+        {
+          "text": "It must also be credible; constant exaggerated praise loses meaning.",
+          "translation": "认可还必须可信；持续而夸张的赞美会失去意义。"
+        },
+        {
+          "text": "Specific acknowledgement helps connect individual effort with a shared result.",
+          "translation": "具体的肯定有助于把个人努力与共同成果联系起来。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What makes a job enjoyable for you?",
-      "answer": "I enjoy work when I can finish a meaningful piece of it and see what changed. Clear priorities help because I dislike spending energy on tasks that nobody can explain. I also value colleagues who are reliable without needing constant conversation. Pay matters, of course, but daily frustration can outweigh a modest salary difference."
+      "questionTranslation": "什么会让你觉得一份工作令人愉快？",
+      "answer": "I enjoy work when I can finish a meaningful piece of it and see what changed. Clear priorities help because I dislike spending energy on tasks that nobody can explain. I also value colleagues who are reliable without needing constant conversation. Pay matters, of course, but daily frustration can outweigh a modest salary difference.",
+      "answerSentences": [
+        {
+          "text": "I enjoy work when I can finish a meaningful piece of it and see what changed.",
+          "translation": "当我能够完成一项有意义的工作并看到它带来的变化时，我会很享受工作。"
+        },
+        {
+          "text": "Clear priorities help because I dislike spending energy on tasks that nobody can explain.",
+          "translation": "明确的优先事项很有帮助，因为我不喜欢把精力花在无人能够说明意义的任务上。"
+        },
+        {
+          "text": "I also value colleagues who are reliable without needing constant conversation.",
+          "translation": "我也重视那些不需要不断沟通却依然可靠的同事。"
+        },
+        {
+          "text": "Pay matters, of course, but daily frustration can outweigh a modest salary difference.",
+          "translation": "薪资当然重要，但日常工作中的挫败感，影响可能比小幅的薪资差距更大。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a task that gave you a sense of achievement.",
-      "answer": "I once reorganised a confusing set of instructions used by several colleagues. I interviewed the people who used them, removed repeated steps and tested the new version with someone unfamiliar with the process. The task was not prestigious, but questions dropped noticeably afterwards. I felt satisfied because the improvement was concrete and continued saving other people time. It also showed me that small operational problems can be worth solving carefully. The first version looked cleaner but removed a warning that experienced users considered essential. Restoring it taught me not to confuse visual simplicity with practical clarity. I documented why each remaining step existed, so the guide would be easier to update later. The achievement came less from writing elegant sentences than from listening carefully and making the process more dependable."
+      "questionTranslation": "描述一项曾给你带来成就感的任务。",
+      "answer": "I once reorganised a confusing set of instructions used by several colleagues. I interviewed the people who used them, removed repeated steps and tested the new version with someone unfamiliar with the process. The task was not prestigious, but questions dropped noticeably afterwards. I felt satisfied because the improvement was concrete and continued saving other people time. It also showed me that small operational problems can be worth solving carefully. The first version looked cleaner but removed a warning that experienced users considered essential. Restoring it taught me not to confuse visual simplicity with practical clarity. I documented why each remaining step existed, so the guide would be easier to update later. The achievement came less from writing elegant sentences than from listening carefully and making the process more dependable.",
+      "answerSentences": [
+        {
+          "text": "I once reorganised a confusing set of instructions used by several colleagues.",
+          "translation": "我曾经重新整理过一套令人困惑、由几位同事共同使用的说明。"
+        },
+        {
+          "text": "I interviewed the people who used them, removed repeated steps and tested the new version with someone unfamiliar with the process.",
+          "translation": "我询问了实际使用这些说明的人，删去重复步骤，又请一位不熟悉该流程的人测试新版说明。"
+        },
+        {
+          "text": "The task was not prestigious, but questions dropped noticeably afterwards.",
+          "translation": "这项任务并不起眼，但之后相关问题明显减少了。"
+        },
+        {
+          "text": "I felt satisfied because the improvement was concrete and continued saving other people time.",
+          "translation": "我感到很满足，因为这项改进十分具体，而且持续为他人节省时间。"
+        },
+        {
+          "text": "It also showed me that small operational problems can be worth solving carefully.",
+          "translation": "这也让我明白，一些细小的操作问题值得认真解决。"
+        },
+        {
+          "text": "The first version looked cleaner but removed a warning that experienced users considered essential.",
+          "translation": "第一版看起来更简洁，却删掉了一条资深用户认为必不可少的警示。"
+        },
+        {
+          "text": "Restoring it taught me not to confuse visual simplicity with practical clarity.",
+          "translation": "把它恢复后，我懂得了不能把视觉上的简洁与实际使用中的清晰混为一谈。"
+        },
+        {
+          "text": "I documented why each remaining step existed, so the guide would be easier to update later.",
+          "translation": "我记录了保留每个步骤的原因，以便日后更容易更新这份指南。"
+        },
+        {
+          "text": "The achievement came less from writing elegant sentences than from listening carefully and making the process more dependable.",
+          "translation": "这份成就更多来自认真倾听并使流程更加可靠，而不是写出漂亮的句子。"
+        }
+      ]
     }
   ],
   "reading": {
     "title": "Why Meaningful Work Can Still Be Bad Work",
+    "titleTranslation": "为什么有意义的工作仍可能是一份糟糕的工作",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Meaning is frequently presented as a substitute for other employment benefits.",
+          "translation": "工作意义常被说成可以替代其他就业待遇。"
+        },
+        {
+          "text": "People who care deeply about teaching, conservation or social care may accept low pay and heavy workloads because the outcome matters to them.",
+          "translation": "重视教育、环境保护或社会照护的人可能因为在意工作成果，而接受低薪和繁重的工作量。"
+        },
+        {
+          "text": "Employers can then treat commitment as an unlimited resource.",
+          "translation": "雇主于是可能把这种投入视为取之不尽的资源。"
+        },
+        {
+          "text": "The language of vocation hides the fact that purposeful work still requires staffing, recovery and fair treatment.",
+          "translation": "关于使命感的话语掩盖了一个事实：有意义的工作仍需要充足人员、休息恢复和公平待遇。"
+        }
+      ],
+      [
+        {
+          "text": "Researchers distinguish the meaningfulness of a task from the quality of the conditions surrounding it.",
+          "translation": "研究人员把任务本身的意义与其周围工作条件的质量区分开来。"
+        },
+        {
+          "text": "A nurse may value helping patients while being frustrated by inadequate time; a museum worker may believe in public education while living with repeated short contracts.",
+          "translation": "护士可能重视帮助患者，却因时间不足而沮丧；博物馆工作人员可能认同公共教育，却不得不面对接连不断的短期合同。"
+        },
+        {
+          "text": "These attitudes are not contradictory.",
+          "translation": "这些态度并不矛盾。"
+        },
+        {
+          "text": "Satisfaction contains several dimensions, and strength in one does not cancel serious weakness in another.",
+          "translation": "满意度包含多个维度，一个方面的优势不能抵消另一个方面的严重不足。"
+        }
+      ],
+      [
+        {
+          "text": "Meaning can even increase vulnerability to overwork.",
+          "translation": "意义感甚至会增加人们过度工作的可能性。"
+        },
+        {
+          "text": "When stopping feels equivalent to abandoning a person or cause, employees find it difficult to maintain boundaries.",
+          "translation": "当停止工作仿佛等同于抛弃某个人或某项事业时，员工便很难守住界限。"
+        },
+        {
+          "text": "Organisations may praise sacrifice rather than correcting the shortage that made sacrifice necessary.",
+          "translation": "组织可能会赞扬牺牲，而不是解决迫使员工牺牲的人手短缺问题。"
+        },
+        {
+          "text": "Over time, exhaustion can detach workers from the purpose that originally motivated them, producing cynicism as well as turnover.",
+          "translation": "久而久之，疲惫会让员工与最初激励他们的目标疏离，既产生玩世不恭的态度，也导致人员流失。"
+        }
+      ],
+      [
+        {
+          "text": "A sustainable organisation protects meaning from exploitation.",
+          "translation": "可持续发展的组织会防止工作意义被利用。"
+        },
+        {
+          "text": "It connects routine tasks to outcomes, gives staff some influence over methods and ensures that urgent effort is exceptional rather than normal.",
+          "translation": "它把日常任务与成果联系起来，让员工对工作方法拥有一定影响力，并确保紧急加班是例外而不是常态。"
+        },
+        {
+          "text": "Pay cannot create purpose by itself, but purpose cannot pay rent or restore sleep.",
+          "translation": "薪酬本身无法创造使命感，但使命感也无法支付房租或弥补睡眠。"
+        },
+        {
+          "text": "Job satisfaction is strongest when meaningful contribution, competent management and acceptable conditions reinforce one another instead of being offered as alternatives.",
+          "translation": "当有意义的贡献、称职的管理和可接受的条件相互促进，而不是被当作彼此替代的选择时，工作满意度最高。"
+        }
+      ],
+      [
+        {
+          "text": "Individual expectations still differ.",
+          "translation": "个人的期望仍各不相同。"
+        },
+        {
+          "text": "Some employees seek rapid progression, while others value stable hours or deep expertise without management responsibility.",
+          "translation": "一些员工追求快速晋升，另一些则看重稳定工时，或希望深耕专业而不承担管理责任。"
+        },
+        {
+          "text": "Regular conversations should therefore ask which conditions matter rather than assuming that one promotion ladder motivates everyone.",
+          "translation": "因此，定期沟通应询问哪些条件最重要，而不能假定同一条晋升路径能激励所有人。"
+        },
+        {
+          "text": "A role can be redesigned through greater variety, mentoring or clearer ownership even when salary and title remain unchanged.",
+          "translation": "即使薪资和职称不变，也可以通过增加工作多样性、提供指导或明确责任来重新设计职位。"
+        },
+        {
+          "text": "Satisfaction improves when the available form of growth matches the person.",
+          "translation": "当所提供的成长方式与个人需求相匹配时，满意度就会提高。"
+        }
+      ]
+    ],
     "paragraphs": [
       "Meaning is frequently presented as a substitute for other employment benefits. People who care deeply about teaching, conservation or social care may accept low pay and heavy workloads because the outcome matters to them. Employers can then treat commitment as an unlimited resource. The language of vocation hides the fact that purposeful work still requires staffing, recovery and fair treatment.",
       "Researchers distinguish the meaningfulness of a task from the quality of the conditions surrounding it. A nurse may value helping patients while being frustrated by inadequate time; a museum worker may believe in public education while living with repeated short contracts. These attitudes are not contradictory. Satisfaction contains several dimensions, and strength in one does not cancel serious weakness in another.",

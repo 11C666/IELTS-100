@@ -153,7 +153,8 @@
         "shared urban area",
         "community space"
       ],
-      "note": "public space 强调任何人原则上可进入。"
+      "note": "public space 强调任何人原则上可进入。",
+      "translation": "公共场所可以表述为公共空间、共享城市区域、社区空间。"
     },
     {
       "base": "easy to enter and use",
@@ -162,7 +163,8 @@
         "barrier-free",
         "open to all users"
       ],
-      "note": "accessible 也包含残障人士可用性。"
+      "note": "accessible 也包含残障人士可用性。",
+      "translation": "easy to enter and use 表示容易进入和使用；accessible 强调便于使用，barrier-free 强调没有实体障碍，open to all users 强调向所有使用者开放。"
     },
     {
       "base": "look after",
@@ -171,7 +173,8 @@
         "keep in good condition",
         "manage"
       ],
-      "note": "maintain 强调持续维护。"
+      "note": "maintain 强调持续维护。",
+      "translation": "照顾可以表达为维持、保持良好状态、管理。"
     },
     {
       "base": "make safer",
@@ -180,7 +183,8 @@
         "reduce potential hazards",
         "create a sense of security"
       ],
-      "note": "实际安全与安全感并不完全相同。"
+      "note": "实际安全与安全感并不完全相同。",
+      "translation": "make safe 可以表达为“提高安全性”“减少潜在危险”或“营造安全感”。"
     },
     {
       "base": "people meeting",
@@ -189,7 +193,8 @@
         "informal gathering",
         "community contact"
       ],
-      "note": "informal gathering 指非正式聚集。"
+      "note": "informal gathering 指非正式聚集。",
+      "translation": "人们的聚会可以表现为社交互动、非正式聚会、社区接触。"
     },
     {
       "base": "plants in cities",
@@ -198,7 +203,8 @@
         "green space",
         "planted areas"
       ],
-      "note": "green space 也可包括草地和公园。"
+      "note": "green space 也可包括草地和公园。",
+      "translation": "plants in cities 指城市植物；urban greenery 强调城市绿化，green space 指绿地，planted areas 指经过种植的区域。"
     },
     {
       "base": "very busy place",
@@ -207,7 +213,8 @@
         "heavily used space",
         "busy public square"
       ],
-      "note": "heavily used 不一定负面。"
+      "note": "heavily used 不一定负面。",
+      "translation": "非常繁忙的地方可以表示为拥挤的区域、大量使用的空间、繁忙的公共广场。"
     },
     {
       "base": "change an old park",
@@ -216,51 +223,60 @@
         "redesign the space",
         "upgrade public facilities"
       ],
-      "note": "renovate 重在翻修，redesign 重在重新设计。"
+      "note": "renovate 重在翻修，redesign 重在重新设计。",
+      "translation": "公园改造可以表现为公园改造、空间重新设计、公共设施升级。"
     }
   ],
   "sentences": [
     {
       "pattern": "A public space is more inviting when + design condition.",
       "cn": "当具备某种设计条件时，公共空间更吸引人。",
-      "example": "A public space is more inviting when people can find shade and comfortable seating."
+      "example": "A public space is more inviting when people can find shade and comfortable seating.",
+      "exampleTranslation": "当人们可以找到阴凉处和舒适的座位时，公共空间就会更具吸引力。"
     },
     {
       "pattern": "Providing + facility + enables + group + to + verb.",
       "cn": "提供某设施使某类人能够……",
-      "example": "Providing step-free paths enables wheelchair users to move through the park independently."
+      "example": "Providing step-free paths enables wheelchair users to move through the park independently.",
+      "exampleTranslation": "提供无台阶路径，使轮椅使用者能够独立地穿过公园。"
     },
     {
       "pattern": "The success of + public place + should be judged by + measure, not only by + measure.",
       "cn": "某公共场所的成功应根据……判断，而不应只看……",
-      "example": "The success of a square should be judged by how people use it, not only by its appearance."
+      "example": "The success of a square should be judged by how people use it, not only by its appearance.",
+      "exampleTranslation": "一个广场的成功应该根据人们如何使用它来判断，而不仅仅是它的外观。"
     }
   ],
   "expressions": [
     {
       "text": "within easy reach",
       "cn": "容易到达",
-      "example": "The park is within easy reach of several neighbourhoods."
+      "example": "The park is within easy reach of several neighbourhoods.",
+      "exampleTranslation": "该公园距离几个街区都很近。"
     },
     {
       "text": "open to everyone",
       "cn": "向所有人开放",
-      "example": "The garden is free and open to everyone."
+      "example": "The garden is free and open to everyone.",
+      "exampleTranslation": "花园免费向所有人开放。"
     },
     {
       "text": "a place to meet and socialise",
       "cn": "见面和社交的场所",
-      "example": "The square gives teenagers a place to meet and socialise."
+      "example": "The square gives teenagers a place to meet and socialise.",
+      "exampleTranslation": "广场为青少年提供了聚会和社交的场所。"
     },
     {
       "text": "feel safe after dark",
       "cn": "天黑后感到安全",
-      "example": "Better lighting helps residents feel safe after dark."
+      "example": "Better lighting helps residents feel safe after dark.",
+      "exampleTranslation": "更好的照明可以帮助居民在天黑后感到安全。"
     },
     {
       "text": "bring an area to life",
       "cn": "让一个区域充满活力",
-      "example": "The weekend market brings the old square to life."
+      "example": "The weekend market brings the old square to life.",
+      "exampleTranslation": "周末市场让老广场焕发出勃勃生机。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "support informal activity",
         "serve local residents"
       ],
-      "argument": "Architectural features may attract attention, but residents return because a place is comfortable and useful. Parents need seating near play areas, older people need shade, and workers may want somewhere to eat lunch. These modest facilities allow different groups to share the space without attending a special event. Observing daily use can reveal needs that a design competition misses. Public investment should therefore prioritise lived experience alongside appearance."
+      "argument": "Architectural features may attract attention, but residents return because a place is comfortable and useful. Parents need seating near play areas, older people need shade, and workers may want somewhere to eat lunch. These modest facilities allow different groups to share the space without attending a special event. Observing daily use can reveal needs that a design competition misses. Public investment should therefore prioritise lived experience alongside appearance.",
+      "viewpointTranslation": "公共空间应设计用于普通日常使用。",
+      "topicSentenceTranslation": "成功的公园或广场满足日常需求，而不仅仅是作为视觉地标。",
+      "collocationTranslations": [
+        "提供舒适的座位",
+        "提供足够的遮荫",
+        "支持非正式活动",
+        "服务当地居民"
+      ],
+      "argumentSentences": [
+        {
+          "text": "Architectural features may attract attention, but residents return because a place is comfortable and useful.",
+          "translation": "建筑特色可能会引起注意，但居民会回来，因为这个地方舒适且有用。"
+        },
+        {
+          "text": "Parents need seating near play areas, older people need shade, and workers may want somewhere to eat lunch.",
+          "translation": "父母需要靠近游乐区的座位，老年人需要阴凉处，而工人可能想要找个地方吃午餐。"
+        },
+        {
+          "text": "These modest facilities allow different groups to share the space without attending a special event.",
+          "translation": "这些简陋的设施允许不同的团体共享空间，而无需参加特殊活动。"
+        },
+        {
+          "text": "Observing daily use can reveal needs that a design competition misses.",
+          "translation": "观察日常使用可以揭示设计竞赛遗漏的需求。"
+        },
+        {
+          "text": "Public investment should therefore prioritise lived experience alongside appearance.",
+          "translation": "因此，公共投资应优先考虑生活体验和外观。"
+        }
+      ]
     },
     {
       "viewpoint": "Maintenance is as important as construction.",
@@ -301,19 +347,87 @@
         "keep the area clean",
         "protect public investment"
       ],
-      "argument": "A new playground or garden often receives political attention when it opens. Over time, broken lighting, damaged paths and overflowing bins can make the same space unpleasant or unsafe. Residents then use it less, which may lead to further neglect. Maintenance funding and clear reporting channels should be planned before construction begins. Caring for existing spaces can deliver more value than repeatedly announcing new ones."
+      "argument": "A new playground or garden often receives political attention when it opens. Over time, broken lighting, damaged paths and overflowing bins can make the same space unpleasant or unsafe. Residents then use it less, which may lead to further neglect. Maintenance funding and clear reporting channels should be planned before construction begins. Caring for existing spaces can deliver more value than repeatedly announcing new ones.",
+      "viewpointTranslation": "维护与施工同样重要。",
+      "topicSentenceTranslation": "如果没有长期护理的预算或责任，新的公共设施很快就会失去价值。",
+      "collocationTranslations": [
+        "分配维护资金",
+        "修理损坏的设备",
+        "保持该区域清洁",
+        "保护公共投资"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A new playground or garden often receives political attention when it opens.",
+          "translation": "新的游乐场或花园在开放时通常会受到政治关注。"
+        },
+        {
+          "text": "Over time, broken lighting, damaged paths and overflowing bins can make the same space unpleasant or unsafe.",
+          "translation": "随着时间的推移，破损的照明、损坏的路径和溢出的垃圾箱会让同一空间变得不愉快或不安全。"
+        },
+        {
+          "text": "Residents then use it less, which may lead to further neglect.",
+          "translation": "居民会减少使用它，这可能会导致进一步的忽视。"
+        },
+        {
+          "text": "Maintenance funding and clear reporting channels should be planned before construction begins.",
+          "translation": "应在施工开始前规划维护资金和清晰的报告渠道。"
+        },
+        {
+          "text": "Caring for existing spaces can deliver more value than repeatedly announcing new ones.",
+          "translation": "照顾现有空间比反复宣布新空间能带来更多价值。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "Is there a public place near your home that you often visit?",
-      "answer": "Yes, there’s a riverside park about ten minutes away on foot. I usually go there in the early evening because the path is wide enough for walkers and cyclists, and there are several quiet benches. It isn’t a tourist attraction, but it’s well maintained and feels safe. I probably value it most because visiting doesn’t require any planning or money."
+      "answer": "Yes, there’s a riverside park about ten minutes away on foot. I usually go there in the early evening because the path is wide enough for walkers and cyclists, and there are several quiet benches. It isn’t a tourist attraction, but it’s well maintained and feels safe. I probably value it most because visiting doesn’t require any planning or money.",
+      "questionTranslation": "您家附近有您经常去的公共场所吗？",
+      "answerSentences": [
+        {
+          "text": "Yes, there’s a riverside park about ten minutes away on foot.",
+          "translation": "是的，步行十分钟左右就有一个河边公园。"
+        },
+        {
+          "text": "I usually go there in the early evening because the path is wide enough for walkers and cyclists, and there are several quiet benches.",
+          "translation": "我通常在傍晚去那里，因为道路足够宽，适合步行和骑自行车，而且有几张安静的长凳。"
+        },
+        {
+          "text": "It isn’t a tourist attraction, but it’s well maintained and feels safe.",
+          "translation": "它不是一个旅游景点，但维护得很好并且感觉很安全。"
+        },
+        {
+          "text": "I probably value it most because visiting doesn’t require any planning or money.",
+          "translation": "我最看重它的原因可能是，去那里不需要任何计划，也不用花钱。"
+        }
+      ]
     },
     {
       "part": "Part 1",
       "question": "What makes a public space pleasant to spend time in?",
-      "answer": "Shade and seating make a bigger difference than people sometimes expect. A beautiful square isn’t very useful if there’s nowhere to sit or shelter from the sun. I also notice traffic noise, clean toilets and whether the paths are accessible. A pleasant space gives several age groups something to do without forcing them to buy anything."
+      "answer": "Shade and seating make a bigger difference than people sometimes expect. A beautiful square isn’t very useful if there’s nowhere to sit or shelter from the sun. I also notice traffic noise, clean toilets and whether the paths are accessible. A pleasant space gives several age groups something to do without forcing them to buy anything.",
+      "questionTranslation": "是什么让公共空间变得令人愉快？",
+      "answerSentences": [
+        {
+          "text": "Shade and seating make a bigger difference than people sometimes expect.",
+          "translation": "遮阳和座位的影响有时比人们预期的要大。"
+        },
+        {
+          "text": "A beautiful square isn’t very useful if there’s nowhere to sit or shelter from the sun.",
+          "translation": "如果没有地方可以坐下或躲避阳光，那么美丽的广场就没有多大用处。"
+        },
+        {
+          "text": "I also notice traffic noise, clean toilets and whether the paths are accessible.",
+          "translation": "我还会注意到交通噪音、干净的厕所以及道路是否畅通。"
+        },
+        {
+          "text": "A pleasant space gives several age groups something to do without forcing them to buy anything.",
+          "translation": "舒适的公共空间能让不同年龄的人都有事可做，又不强迫他们消费。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +464,103 @@
         "answer": "C",
         "explanation": "Paragraph C describes observation revealing practical failure."
       }
+    ],
+    "titleTranslation": "作为城市基础设施的公共长椅",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "A bench is one of the simplest objects in a city, yet its location changes how public space can be used.",
+          "translation": "长凳是城市中最简单的物体之一，但它的位置改变了公共空间的使用方式。"
+        },
+        {
+          "text": "Without seating, a square functions mainly as a route through which people move.",
+          "translation": "如果没有座位，广场的主要功能是作为人们移动的路线。"
+        },
+        {
+          "text": "Add a bench and it can become a place for waiting, conversation, observation or rest.",
+          "translation": "添加一条长凳，它可以成为等待、交谈、观察或休息的地方。"
+        },
+        {
+          "text": "For someone who cannot walk far, the distance between benches may determine whether a park is accessible at all.",
+          "translation": "对于无法走很远的人来说，长凳之间的距离可能决定公园是否可以进入。"
+        }
+      ],
+      [
+        {
+          "text": "Design decisions reveal assumptions about users.",
+          "translation": "设计决策揭示了关于用户的假设。"
+        },
+        {
+          "text": "A narrow seat without a back may suit a brief pause but not an older person who needs support.",
+          "translation": "没有靠背的狭窄座位可能适合短暂休息，但不适合需要支撑的老年人。"
+        },
+        {
+          "text": "Dividers sometimes prevent people from lying down, a measure intended to discourage long stays or sleeping.",
+          "translation": "隔断有时会阻止人们躺下，这种措施旨在阻止长时间停留或睡觉。"
+        },
+        {
+          "text": "Critics describe such features as hostile design because they remove certain users rather than addressing homelessness or the shortage of safe indoor places.",
+          "translation": "批评者将此类功能描述为敌对设计，因为它们排除了某些用户，而不是解决无家可归或安全室内场所短缺的问题。"
+        }
+      ],
+      [
+        {
+          "text": "Position matters as much as shape.",
+          "translation": "位置和形状一样重要。"
+        },
+        {
+          "text": "People often prefer seats with a view of activity while retaining some protection behind them.",
+          "translation": "人们通常更喜欢能够观看活动的座位，同时在其后面保留一些保护。"
+        },
+        {
+          "text": "Benches placed in intense sun, beside fast traffic or far from pedestrian routes may remain empty despite an attractive appearance.",
+          "translation": "尽管外观吸引人，但放置在强烈阳光下、交通繁忙或远离人行道的长凳可能仍然空着。"
+        },
+        {
+          "text": "Observation after installation can show when a technically adequate seat fails in practice.",
+          "translation": "安装后的观察可以显示技术上足够的座椅在实践中何时出现故障。"
+        }
+      ],
+      [
+        {
+          "text": "Public seating also creates minor negotiations.",
+          "translation": "公共座位也会引发小型谈判。"
+        },
+        {
+          "text": "One person may want solitude, another conversation; a group can occupy the whole bench, while bags reduce available space.",
+          "translation": "一个人可能想要独处，又想要另一种谈话；一群人可以占据整个长凳，而袋子会减少可用空间。"
+        },
+        {
+          "text": "Designers cannot control every interaction, but they can provide varied options: single seats, social arrangements and quiet locations.",
+          "translation": "设计师无法控制每一次互动，但他们可以提供多种选择：单座、社交安排和安静的位置。"
+        },
+        {
+          "text": "The humble bench demonstrates a wider principle of public design.",
+          "translation": "不起眼的长凳展示了公共设计的更广泛原则。"
+        },
+        {
+          "text": "Small facilities influence who can remain in a place, not merely how that place looks.",
+          "translation": "小型设施影响谁可以留在一个地方，而不仅仅是那个地方的外观。"
+        }
+      ],
+      [
+        {
+          "text": "Temporary seating can help planners test a location before installing permanent structures.",
+          "translation": "临时座位可以帮助规划者在安装永久性结构之前测试位置。"
+        },
+        {
+          "text": "If chairs are movable, users reveal whether they prefer sun or shade, face-to-face conversation or a view of passing activity.",
+          "translation": "如果椅子是可移动的，用户会透露他们是喜欢阳光还是阴凉、面对面的交谈还是路过的活动景象。"
+        },
+        {
+          "text": "This inexpensive experiment treats residents as participants in design.",
+          "translation": "这项成本低廉的实验将居民视为设计的参与者。"
+        },
+        {
+          "text": "Their behaviour supplies evidence that a drawing or short consultation may fail to capture.",
+          "translation": "他们的行为提供了绘图或简短咨询可能无法捕捉到的证据。"
+        }
+      ]
     ]
   }
 }

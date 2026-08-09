@@ -153,7 +153,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论健康与幸福。"
+      "note": "crucial 强调决定性；essential 强调不可缺少。 本组可用于讨论健康与幸福。",
+      "translation": "important 表示重要；significant、crucial 和 essential 可表达不同程度的重要性。"
     },
     {
       "base": "result",
@@ -162,7 +163,8 @@
         "consequence",
         "effect"
       ],
-      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论健康与幸福。"
+      "note": "consequence 常用于较明显或负面的后果。 本组可用于讨论健康与幸福。",
+      "translation": "result 表示结果；outcome、consequence 和 effect 可根据语境替换。"
     },
     {
       "base": "improve",
@@ -171,7 +173,8 @@
         "strengthen",
         "raise the quality of"
       ],
-      "note": "搭配对象不同，不能机械互换。 本组可用于讨论健康与幸福。"
+      "note": "搭配对象不同，不能机械互换。 本组可用于讨论健康与幸福。",
+      "translation": "improve 表示改善；enhance、strengthen 和 raise the quality of 可强调提升或加强。"
     },
     {
       "base": "reduce",
@@ -180,7 +183,8 @@
         "limit",
         "bring down"
       ],
-      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论健康与幸福。"
+      "note": "bring down 较常用于数量、成本或比率。 本组可用于讨论健康与幸福。",
+      "translation": "reduce 表示减少；decrease、limit 和 bring down 可表达降低或控制。"
     },
     {
       "base": "people",
@@ -189,7 +193,8 @@
         "members of the public",
         "residents"
       ],
-      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论健康与幸福。"
+      "note": "应根据讨论范围选择具体称呼。 本组可用于讨论健康与幸福。",
+      "translation": "people 表示人们；individuals、members of the public 和 residents 可用于更正式或具体的语境。"
     },
     {
       "base": "use",
@@ -198,7 +203,8 @@
         "adopt",
         "rely on"
       ],
-      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论健康与幸福。"
+      "note": "adopt 强调开始采用；rely on 强调依赖。 本组可用于讨论健康与幸福。",
+      "translation": "use 表示使用；make use of、adopt 和 rely on 可分别表示利用、采用或依赖。"
     },
     {
       "base": "choice",
@@ -207,7 +213,8 @@
         "alternative",
         "decision"
       ],
-      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论健康与幸福。"
+      "note": "option 是可选项；decision 是作出的决定。 本组可用于讨论健康与幸福。",
+      "translation": "choice 表示选择；option、alternative 和 decision 可根据语境表示选项、替代方案或决定。"
     },
     {
       "base": "cause",
@@ -216,51 +223,60 @@
         "contribute to",
         "give rise to"
       ],
-      "note": "contribute to 表示众多原因之一。 本组可用于讨论健康与幸福。"
+      "note": "contribute to 表示众多原因之一。 本组可用于讨论健康与幸福。",
+      "translation": "cause 表示导致；lead to、contribute to 和 give rise to 常用于说明因果关系。"
     }
   ],
   "sentences": [
     {
       "pattern": "Well-being depends not only on + individual behaviour, but also on + surrounding condition.",
       "cn": "幸福感不仅取决于个人行为，也取决于周围条件。",
-      "example": "Well-being depends not only on exercise, but also on whether people have time and safe places to be active."
+      "example": "Well-being depends not only on exercise, but also on whether people have time and safe places to be active.",
+      "exampleTranslation": "福祉不仅取决于锻炼，还取决于人们是否有时间和安全场所进行活动。"
     },
     {
       "pattern": "People are more likely to maintain + healthy habit + when it is + practical property.",
       "cn": "当健康习惯具有某种实际特征时，人们更可能坚持。",
-      "example": "People are more likely to maintain physical activity when it fits naturally into their routine."
+      "example": "People are more likely to maintain physical activity when it fits naturally into their routine.",
+      "exampleTranslation": "当体育活动能自然融入日常安排时，人们更可能坚持下去。"
     },
     {
       "pattern": "Although + indicator + is associated with + health outcome, it should not be treated as + complete measure.",
       "cn": "虽然某指标与健康结果相关，但不应把它当作完整衡量。",
-      "example": "Although body weight is associated with some health outcomes, it should not be treated as a complete measure of well-being."
+      "example": "Although body weight is associated with some health outcomes, it should not be treated as a complete measure of well-being.",
+      "exampleTranslation": "尽管体重与某些健康结果有关，但不应把它视为衡量福祉的完整指标。"
     }
   ],
   "expressions": [
     {
       "text": "feel under the weather",
       "cn": "感觉身体不适",
-      "example": "I felt under the weather and decided to rest."
+      "example": "I felt under the weather and decided to rest.",
+      "exampleTranslation": "我觉得有些不舒服，于是决定休息。"
     },
     {
       "text": "get into a healthy routine",
       "cn": "养成健康规律",
-      "example": "Walking after lunch helped me get into a healthy routine."
+      "example": "Walking after lunch helped me get into a healthy routine.",
+      "exampleTranslation": "午饭后散步帮助我养成了健康的生活规律。"
     },
     {
       "text": "take care of my mental health",
       "cn": "照顾心理健康",
-      "example": "I protect time alone to take care of my mental health."
+      "example": "I protect time alone to take care of my mental health.",
+      "exampleTranslation": "我会留出独处时间来照顾自己的心理健康。"
     },
     {
       "text": "get a good night’s sleep",
       "cn": "睡个好觉",
-      "example": "I concentrate much better after a good night’s sleep."
+      "example": "I concentrate much better after a good night’s sleep.",
+      "exampleTranslation": "睡一晚好觉后，我的注意力会集中得多。"
     },
     {
       "text": "improve overall well-being",
-      "cn": "改善整体幸福感",
-      "example": "Regular social contact can improve overall well-being."
+      "cn": "改善整体身心健康",
+      "example": "Regular social contact can improve overall well-being.",
+      "exampleTranslation": "定期与人交往有助于改善整体身心健康。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,37 @@
         "set realistic goals",
         "support long-term adherence"
       ],
-      "argument": "An intensive plan may produce rapid change but fail when work, care or illness interrupts it. Walking during an existing journey or preparing one reliable meal requires less motivation and can be repeated under ordinary conditions. Early success also builds confidence for further change. This does not mean every health need can be solved by small steps, particularly when clinical treatment is required. For population advice, however, sustainability should be treated as a central outcome rather than an afterthought."
+      "argument": "An intensive plan may produce rapid change but fail when work, care or illness interrupts it. Walking during an existing journey or preparing one reliable meal requires less motivation and can be repeated under ordinary conditions. Early success also builds confidence for further change. This does not mean every health need can be solved by small steps, particularly when clinical treatment is required. For population advice, however, sustainability should be treated as a central outcome rather than an afterthought.",
+      "viewpointTranslation": "健康建议应围绕可持续的日常习惯来设计。",
+      "topicSentenceTranslation": "能够融入日常生活的小行为，往往比要求苛刻的短期计划更有价值。",
+      "collocationTranslations": [
+        "养成健康习惯",
+        "保持规律活动",
+        "设定现实目标",
+        "支持长期坚持"
+      ],
+      "argumentSentences": [
+        {
+          "text": "An intensive plan may produce rapid change but fail when work, care or illness interrupts it.",
+          "translation": "高强度计划可能带来快速变化，却会在工作、照护责任或疾病造成干扰时难以维持。"
+        },
+        {
+          "text": "Walking during an existing journey or preparing one reliable meal requires less motivation and can be repeated under ordinary conditions.",
+          "translation": "在原有行程中步行，或准备一种可靠的餐食，所需动力较少，也能在日常条件下反复实行。"
+        },
+        {
+          "text": "Early success also builds confidence for further change.",
+          "translation": "早期的成功还能为进一步改变建立信心。"
+        },
+        {
+          "text": "This does not mean every health need can be solved by small steps, particularly when clinical treatment is required.",
+          "translation": "这并不意味着所有健康需求都能靠小步骤解决，尤其是在需要临床治疗时。"
+        },
+        {
+          "text": "For population advice, however, sustainability should be treated as a central outcome rather than an afterthought.",
+          "translation": "不过，对面向大众的建议而言，可持续性应被视为核心结果，而不是事后才考虑的因素。"
+        }
+      ]
     },
     {
       "viewpoint": "Well-being policy must consider time and environment.",
@@ -301,19 +347,103 @@
         "reduce time pressure",
         "enable healthy choices"
       ],
-      "argument": "A worker with unpredictable shifts cannot easily maintain sleep or attend a fixed exercise class. A neighbourhood without pavements turns walking into a risk rather than a free option. Information campaigns may increase knowledge while leaving these constraints unchanged. Employers and local authorities can influence schedules, green space and access to affordable food. Personal responsibility remains important, but it operates within conditions that policy helps create."
+      "argument": "A worker with unpredictable shifts cannot easily maintain sleep or attend a fixed exercise class. A neighbourhood without pavements turns walking into a risk rather than a free option. Information campaigns may increase knowledge while leaving these constraints unchanged. Employers and local authorities can influence schedules, green space and access to affordable food. Personal responsibility remains important, but it operates within conditions that policy helps create.",
+      "viewpointTranslation": "福祉政策必须考虑时间和环境。",
+      "topicSentenceTranslation": "如果日常条件让健康选择昂贵或不安全，仅仅要求个人作出健康选择是不够的。",
+      "collocationTranslations": [
+        "应对社会条件",
+        "提供安全公共空间",
+        "减轻时间压力",
+        "使健康选择成为可能"
+      ],
+      "argumentSentences": [
+        {
+          "text": "A worker with unpredictable shifts cannot easily maintain sleep or attend a fixed exercise class.",
+          "translation": "工作班次不可预测的人很难保持规律睡眠或参加固定时间的健身课程。"
+        },
+        {
+          "text": "A neighbourhood without pavements turns walking into a risk rather than a free option.",
+          "translation": "没有人行道的社区会让步行从免费选择变成一种风险。"
+        },
+        {
+          "text": "Information campaigns may increase knowledge while leaving these constraints unchanged.",
+          "translation": "宣传活动可能增加知识，却不会改变这些限制。"
+        },
+        {
+          "text": "Employers and local authorities can influence schedules, green space and access to affordable food.",
+          "translation": "雇主和地方管理部门可以影响工作安排、绿地和可负担食品的获取。"
+        },
+        {
+          "text": "Personal responsibility remains important, but it operates within conditions that policy helps create.",
+          "translation": "个人责任仍然重要，但它是在政策参与塑造的条件中发挥作用的。"
+        }
+      ]
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What helps you feel well during a busy week?",
-      "answer": "Regular sleep makes the biggest difference. If I stay up late several nights, exercise and healthy food become harder as well. I also try to take a short walk without my phone. It gives me a clear pause and usually improves my concentration afterwards. Even a brief routine helps me recover before the next demanding task."
+      "answer": "Regular sleep makes the biggest difference. If I stay up late several nights, exercise and healthy food become harder as well. I also try to take a short walk without my phone. It gives me a clear pause and usually improves my concentration afterwards. Even a brief routine helps me recover before the next demanding task.",
+      "questionTranslation": "忙碌的一周里，什么能让你感觉良好？",
+      "answerSentences": [
+        {
+          "text": "Regular sleep makes the biggest difference.",
+          "translation": "规律睡眠带来的影响最大。"
+        },
+        {
+          "text": "If I stay up late several nights, exercise and healthy food become harder as well.",
+          "translation": "如果连续几个晚上熬夜，锻炼和健康饮食也会变得更困难。"
+        },
+        {
+          "text": "I also try to take a short walk without my phone.",
+          "translation": "我还会尽量不带手机去短暂散步。"
+        },
+        {
+          "text": "It gives me a clear pause and usually improves my concentration afterwards.",
+          "translation": "这让我获得明确的休息，之后通常也能提高注意力。"
+        },
+        {
+          "text": "Even a brief routine helps me recover before the next demanding task.",
+          "translation": "即使是很短的日常习惯，也能帮助我在下一个高要求任务前恢复状态。"
+        }
+      ]
     },
     {
       "part": "Part 2",
       "question": "Describe a healthy habit you have developed.",
-      "answer": "A habit I developed is taking a walk after lunch on most working days. I began because I was sitting for several hours without noticing how stiff and unfocused I became. The walk is only about twenty minutes, so it does not require special clothes or a large block of time. I usually follow the same quiet route and leave my phone in my pocket. After a few weeks, it became connected to lunch rather than to motivation, which made it easier to maintain. It has not transformed my fitness dramatically, but I return to work more alert and sleep slightly better. I value the habit because it is modest enough to survive a busy schedule."
+      "answer": "A habit I developed is taking a walk after lunch on most working days. I began because I was sitting for several hours without noticing how stiff and unfocused I became. The walk is only about twenty minutes, so it does not require special clothes or a large block of time. I usually follow the same quiet route and leave my phone in my pocket. After a few weeks, it became connected to lunch rather than to motivation, which made it easier to maintain. It has not transformed my fitness dramatically, but I return to work more alert and sleep slightly better. I value the habit because it is modest enough to survive a busy schedule.",
+      "questionTranslation": "描述一个你养成的健康习惯。",
+      "answerSentences": [
+        {
+          "text": "A habit I developed is taking a walk after lunch on most working days.",
+          "translation": "我养成的一个习惯是在大多数工作日午饭后散步。"
+        },
+        {
+          "text": "I began because I was sitting for several hours without noticing how stiff and unfocused I became.",
+          "translation": "我开始这样做，是因为自己连续坐了几个小时，却没有意识到身体变得多么僵硬、注意力多么涣散。"
+        },
+        {
+          "text": "The walk is only about twenty minutes, so it does not require special clothes or a large block of time.",
+          "translation": "散步只需大约二十分钟，因此不需要特殊服装或大段时间。"
+        },
+        {
+          "text": "I usually follow the same quiet route and leave my phone in my pocket.",
+          "translation": "我通常走同一条安静路线，并把手机放在口袋里。"
+        },
+        {
+          "text": "After a few weeks, it became connected to lunch rather than to motivation, which made it easier to maintain.",
+          "translation": "几周后，它与午饭形成了固定联系，而不再依靠动力，因此更容易坚持。"
+        },
+        {
+          "text": "It has not transformed my fitness dramatically, but I return to work more alert and sleep slightly better.",
+          "translation": "它并没有显著改变我的体能，但我回去工作时更清醒，睡眠也稍有改善。"
+        },
+        {
+          "text": "I value the habit because it is modest enough to survive a busy schedule.",
+          "translation": "我重视这个习惯，因为它足够简单，即使日程繁忙也能坚持。"
+        }
+      ]
     }
   ],
   "reading": {
@@ -350,6 +480,111 @@
         "answer": "costs",
         "explanation": "The final sentence uses this phrase."
       }
+    ],
+    "titleTranslation": "衡量福祉为何会改变问题本身",
+    "paragraphSentencePairs": [
+      [
+        {
+          "text": "Governments have traditionally used income, employment and life expectancy to describe how populations are doing.",
+          "translation": "政府传统上使用收入、就业和预期寿命来描述人口的生活状况。"
+        },
+        {
+          "text": "These measures remain important, but they do not capture whether people feel secure, connected or able to influence daily life.",
+          "translation": "这些指标仍然重要，但无法反映人们是否感到安全、与他人有联系，或能否影响日常生活。"
+        },
+        {
+          "text": "Well-being surveys attempt to add this perspective by asking respondents to evaluate life satisfaction, purpose or recent emotions.",
+          "translation": "福祉调查试图补充这一视角，让受访者评价生活满意度、人生目标感或近期情绪。"
+        }
+      ],
+      [
+        {
+          "text": "The wording matters.",
+          "translation": "问题的措辞很重要。"
+        },
+        {
+          "text": "A question about happiness yesterday may be strongly affected by weather or an argument, while a question about overall life satisfaction invites a broader judgement.",
+          "translation": "关于昨天是否快乐的问题可能深受天气或争吵影响，而询问整体生活满意度则要求更全面的判断。"
+        },
+        {
+          "text": "Purpose is different again: someone caring for a sick relative may experience stress and meaning at the same time.",
+          "translation": "目标感又有所不同：照顾生病亲属的人可能同时感受到压力和意义。"
+        },
+        {
+          "text": "Combining these responses into one number can hide distinctions that matter for policy.",
+          "translation": "把这些回答合并成一个数字，可能掩盖对政策很重要的差异。"
+        }
+      ],
+      [
+        {
+          "text": "Cultural comparison creates further difficulty.",
+          "translation": "文化比较带来了更多困难。"
+        },
+        {
+          "text": "People use response scales differently and vary in how acceptable it is to claim high satisfaction.",
+          "translation": "不同人使用评分量表的方式不同，对声称自己非常满意的接受程度也不同。"
+        },
+        {
+          "text": "Translation may preserve literal meaning while changing the social tone of a question.",
+          "translation": "翻译可能保留字面含义，却改变问题的社会语气。"
+        },
+        {
+          "text": "Researchers therefore compare patterns over time and use several indicators rather than treating a small difference between countries as a precise ranking.",
+          "translation": "因此，研究人员会比较长期趋势并使用多项指标，而不会把国家之间的微小差距视为精确排名。"
+        }
+      ],
+      [
+        {
+          "text": "Subjective evidence can reveal problems that material measures miss.",
+          "translation": "主观证据能够揭示物质指标遗漏的问题。"
+        },
+        {
+          "text": "Two neighbourhoods with similar income may report different security because traffic, noise or social trust differs.",
+          "translation": "收入相近的两个社区，可能因为交通、噪声或社会信任不同而报告不同的安全感。"
+        },
+        {
+          "text": "Yet a high satisfaction score should not excuse unsafe housing or discrimination.",
+          "translation": "然而，较高的满意度得分不应成为忽视不安全住房或歧视的理由。"
+        },
+        {
+          "text": "People can adapt expectations to difficult circumstances, so objective conditions and personal evaluations need to be read together.",
+          "translation": "人们可能调整对困难环境的预期，因此需要结合客观条件和个人评价来理解。"
+        }
+      ],
+      [
+        {
+          "text": "Measuring well-being does not provide an automatic policy target.",
+          "translation": "衡量福祉不会自动提供政策目标。"
+        },
+        {
+          "text": "Its value lies in changing what decision-makers investigate.",
+          "translation": "它的价值在于改变决策者所调查的问题。"
+        },
+        {
+          "text": "If longer commuting is associated with lower satisfaction despite higher earnings, transport and housing enter the discussion.",
+          "translation": "如果更长的通勤时间即使伴随更高收入也与较低满意度相关，交通和住房就会进入讨论。"
+        },
+        {
+          "text": "The survey is most useful not as a national happiness contest but as evidence about where apparently successful systems impose hidden costs on everyday life.",
+          "translation": "这种调查最有价值的用途，不是举办全国幸福感竞赛，而是揭示那些表面成功的制度在日常生活中造成了哪些隐性成本。"
+        },
+        {
+          "text": "Distribution within the population matters too.",
+          "translation": "人口内部的分布同样重要。"
+        },
+        {
+          "text": "An average rise in life satisfaction can coexist with a severe decline among carers, unemployed residents or young adults.",
+          "translation": "平均生活满意度上升，可能与照护者、失业居民或年轻人的满意度严重下降同时发生。"
+        },
+        {
+          "text": "Reporting the range and examining repeated responses prevents the national figure from representing only the middle.",
+          "translation": "报告分布范围并分析重复调查结果，可以避免全国性数字只代表中间群体。"
+        },
+        {
+          "text": "Policy needs to know not just the typical score, but whose experience departs from it and under which conditions.",
+          "translation": "政策不仅需要知道典型得分，还需要了解哪些人的体验偏离了这一水平，以及这种偏离发生在什么条件下。"
+        }
+      ]
     ]
   }
 }

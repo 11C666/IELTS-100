@@ -153,7 +153,8 @@
         "crucial",
         "essential"
       ],
-      "note": "crucial 强调“决定性”，essential 强调“必不可少”。"
+      "note": "crucial 强调“决定性”，essential 强调“必不可少”。",
+      "translation": "important 表示重要；significant、crucial 和 essential 可根据语境表达不同程度的重要性。"
     },
     {
       "base": "learn",
@@ -162,7 +163,8 @@
         "acquire knowledge",
         "develop a skill"
       ],
-      "note": "根据学习对象选择，不能机械互换。"
+      "note": "根据学习对象选择，不能机械互换。",
+      "translation": "learn 表示学习；study、acquire knowledge 和 develop a skill 适用于不同的学习对象。"
     },
     {
       "base": "students",
@@ -171,7 +173,8 @@
         "pupils",
         "undergraduates"
       ],
-      "note": "pupils 多指中小学生；undergraduates 指本科生。"
+      "note": "pupils 多指中小学生；undergraduates 指本科生。",
+      "translation": "students 可表示学生；learners、pupils 和 undergraduates 指向不同类型的学习者。"
     },
     {
       "base": "improve",
@@ -180,7 +183,8 @@
         "strengthen",
         "raise"
       ],
-      "note": "raise 常与 standards / awareness 搭配。"
+      "note": "raise 常与 standards / awareness 搭配。",
+      "translation": "improve 表示改善或提高；enhance、strengthen 和 raise 需要结合具体搭配使用。"
     },
     {
       "base": "school subjects",
@@ -189,7 +193,8 @@
         "areas of study",
         "disciplines"
       ],
-      "note": "discipline 更正式，常指学科领域。"
+      "note": "discipline 更正式，常指学科领域。",
+      "translation": "school subjects 指学校课程；academic subjects、areas of study 和 disciplines 可用于更正式的语境。"
     },
     {
       "base": "job opportunities",
@@ -198,7 +203,8 @@
         "career opportunities",
         "job prospects"
       ],
-      "note": "均可用于讨论教育的就业回报。"
+      "note": "均可用于讨论教育的就业回报。",
+      "translation": "job opportunities、employment prospects、career opportunities 和 job prospects 都可表示就业或职业机会。"
     },
     {
       "base": "equal education",
@@ -207,7 +213,8 @@
         "educational equality",
         "equitable provision"
       ],
-      "note": "equitable 强调依据需要实现公平。"
+      "note": "equitable 强调依据需要实现公平。",
+      "translation": "equal education 强调教育公平，也可表达为平等的教育机会或公平的教育供给。"
     },
     {
       "base": "good at studying",
@@ -216,51 +223,60 @@
         "achieve strong results",
         "make good academic progress"
       ],
-      "note": "正式写作中避免 be good at study。"
+      "note": "正式写作中避免 be good at study。",
+      "translation": "good at studying 表示学习表现好；正式表达可强调成绩或学业进步。"
     }
   ],
   "sentences": [
     {
       "pattern": "One of the main reasons why + subject + verb is that + complete clause.",
       "cn": "……最主要的原因之一是……",
-      "example": "One of the main reasons why early education matters is that it shapes children’s attitudes towards learning."
+      "example": "One of the main reasons why early education matters is that it shapes children’s attitudes towards learning.",
+      "exampleTranslation": "早期教育之所以重要，最主要的原因之一是它会塑造儿童对学习的态度。"
     },
     {
       "pattern": "Subject + can play a crucial role in + noun or gerund.",
       "cn": "某人或某事能在……中发挥关键作用。",
-      "example": "Teachers can play a crucial role in building students’ confidence."
+      "example": "Teachers can play a crucial role in building students’ confidence.",
+      "exampleTranslation": "教师能够在培养学生自信心方面发挥关键作用。"
     },
     {
       "pattern": "While + complete clause, it is equally important to + verb.",
       "cn": "虽然……，但做……同样重要。",
-      "example": "While academic knowledge is valuable, it is equally important to develop practical skills."
+      "example": "While academic knowledge is valuable, it is equally important to develop practical skills.",
+      "exampleTranslation": "学术知识固然有价值，但培养实践技能同样重要。"
     }
   ],
   "expressions": [
     {
       "text": "I’ve always been keen on + noun or gerund.",
       "cn": "我一直很喜欢……",
-      "example": "I’ve always been keen on subjects that involve problem-solving."
+      "example": "I’ve always been keen on subjects that involve problem-solving.",
+      "exampleTranslation": "我一直很喜欢需要解决问题的学科。"
     },
     {
       "text": "It took me a while to + verb.",
       "cn": "我花了一段时间才……",
-      "example": "It took me a while to get used to studying independently."
+      "example": "It took me a while to get used to studying independently.",
+      "exampleTranslation": "我花了一段时间才适应独立学习。"
     },
     {
       "text": "What I find most useful is + noun phrase.",
       "cn": "我觉得最有用的是……",
-      "example": "What I find most useful is the detailed feedback from my tutor."
+      "example": "What I find most useful is the detailed feedback from my tutor.",
+      "exampleTranslation": "我觉得最有用的是导师给出的详细反馈。"
     },
     {
       "text": "play a vital role in + noun or gerund",
       "cn": "在……中发挥至关重要的作用",
-      "example": "Parental support can play a vital role in a child’s early education."
+      "example": "Parental support can play a vital role in a child’s early education.",
+      "exampleTranslation": "家长的支持能在儿童早期教育中发挥至关重要的作用。"
     },
     {
       "text": "have a positive impact on + noun",
       "cn": "对……产生积极影响",
-      "example": "Constructive feedback can have a positive impact on academic performance."
+      "example": "Constructive feedback can have a positive impact on academic performance.",
+      "exampleTranslation": "建设性的反馈能对学业表现产生积极影响。"
     }
   ],
   "mistakes": [
@@ -290,7 +306,23 @@
         "improve career prospects",
         "break the cycle of poverty"
       ],
-      "argument": "High-quality education gives learners the knowledge and qualifications required for stable employment. This matters particularly to students from low-income families, who may have fewer professional contacts or financial resources. By improving their career prospects, education can increase their earnings and reduce the disadvantages passed from one generation to the next. For example, an affordable vocational course may lead directly to skilled work that was previously inaccessible. Education can therefore promote social mobility when access is genuinely equitable."
+      "collocationTranslations": [
+        "发挥关键作用",
+        "有机会获得；能够使用",
+        "改善职业前景",
+        "打破贫困循环"
+      ],
+      "argument": "High-quality education gives learners the knowledge and qualifications required for stable employment. This matters particularly to students from low-income families, who may have fewer professional contacts or financial resources. By improving their career prospects, education can increase their earnings and reduce the disadvantages passed from one generation to the next. For example, an affordable vocational course may lead directly to skilled work that was previously inaccessible. Education can therefore promote social mobility when access is genuinely equitable.",
+      "argumentSentences": [
+        { "text": "High-quality education gives learners the knowledge and qualifications required for stable employment.", "translation": "高质量教育为学习者提供获得稳定就业所需的知识和资格。" },
+        { "text": "This matters particularly to students from low-income families, who may have fewer professional contacts or financial resources.", "translation": "这对低收入家庭的学生尤其重要，因为他们可能拥有较少的职业人脉或经济资源。" },
+        { "text": "By improving their career prospects, education can increase their earnings and reduce the disadvantages passed from one generation to the next.", "translation": "通过改善职业前景，教育可以提高他们的收入，并减少代际传递的不利因素。" },
+        { "text": "For example, an affordable vocational course may lead directly to skilled work that was previously inaccessible.", "translation": "例如，一门费用合理的职业课程可能让学习者直接进入过去难以接触的技术岗位。" },
+        { "text": "Education can therefore promote social mobility when access is genuinely equitable.", "translation": "因此，当教育机会真正公平时，教育能够促进社会流动。" }
+      ],
+      "viewpointTranslation": "教育能够促进社会流动。",
+      "topicSentenceTranslation": "普惠的教育能帮助弱势背景的人改善长期发展前景。",
+      "translation": "高质量教育为学习者提供获得稳定就业所需的知识和资格。这对低收入家庭的学生尤其重要，因为他们可能缺少职业人脉或经济资源。教育通过改善职业前景，能够提高收入，并减少代际传递的不利处境。例如，一门费用合理的职业课程可能让学习者直接进入过去难以接触的技术岗位。因此，当教育机会真正公平时，教育能够促进社会流动。"
     },
     {
       "viewpoint": "Schools should teach practical life skills.",
@@ -301,28 +333,92 @@
         "enter the workforce",
         "a well-rounded education"
       ],
-      "argument": "Academic subjects provide essential knowledge, but they do not cover every responsibility that school-leavers will face. Many young adults struggle to budget, communicate professionally or evaluate financial information because these skills have never been taught explicitly. Short, practical lessons could allow students to apply such knowledge before they enter the workforce. For instance, learners might compare rental contracts or prepare a realistic monthly budget. A balanced curriculum would consequently prepare students for examinations and independent adult life."
+      "collocationTranslations": [
+        "管理个人财务",
+        "作出明智决定",
+        "进入职场",
+        "全面均衡的教育"
+      ],
+      "argument": "Academic subjects provide essential knowledge, but they do not cover every responsibility that school-leavers will face. Many young adults struggle to budget, communicate professionally or evaluate financial information because these skills have never been taught explicitly. Short, practical lessons could allow students to apply such knowledge before they enter the workforce. For instance, learners might compare rental contracts or prepare a realistic monthly budget. A balanced curriculum would consequently prepare students for examinations and independent adult life.",
+      "argumentSentences": [
+        { "text": "Academic subjects provide essential knowledge, but they do not cover every responsibility that school-leavers will face.", "translation": "学术科目提供必要知识，但无法涵盖毕业生将面对的每一项责任。" },
+        { "text": "Many young adults struggle to budget, communicate professionally or evaluate financial information because these skills have never been taught explicitly.", "translation": "许多年轻人难以合理编制预算、进行职业沟通或评估财务信息，因为这些技能从未被明确教授。" },
+        { "text": "Short, practical lessons could allow students to apply such knowledge before they enter the workforce.", "translation": "简短而实用的课程可以让学生在进入职场前运用这些知识。" },
+        { "text": "For instance, learners might compare rental contracts or prepare a realistic monthly budget.", "translation": "例如，学习者可以比较租赁合同，或编制切合实际的月度预算。" },
+        { "text": "A balanced curriculum would consequently prepare students for examinations and independent adult life.", "translation": "因此，均衡的课程既能帮助学生应对考试，也能为独立的成年生活做好准备。" }
+      ],
+      "viewpointTranslation": "学校应该教授实用生活技能。",
+      "topicSentenceTranslation": "均衡的课程不仅要帮助学生应对考试，也应让他们为日常责任做好准备。",
+      "translation": "学术科目提供必要知识，但无法涵盖毕业生将面对的每一项责任。许多年轻人不会合理预算、进行职业沟通或判断财务信息，因为这些技能从未被明确教授。简短而实用的课程可以让学生在进入职场前运用这些知识。例如，学习者可以比较租赁合同，或编制切合实际的月度预算。因此，均衡的课程既能帮助学生应对考试，也能为独立的成年生活做好准备。"
     }
   ],
   "speaking": [
     {
       "part": "Part 1",
       "question": "What subject did you enjoy most at school?",
-      "answer": "I probably enjoyed history the most. I liked the way one event could be explained from several points of view, so the lessons felt more like solving a puzzle than memorising dates. I also had a teacher who told great stories, which made a huge difference."
+      "answer": "I probably enjoyed history the most. I liked seeing the same event from different points of view, so lessons felt more like solving a puzzle than memorising dates. My teacher was also a great storyteller.",
+      "answerSentences": [
+        { "text": "I probably enjoyed history the most.", "translation": "我最喜欢的可能是历史。" },
+        { "text": "I liked seeing the same event from different points of view, so lessons felt more like solving a puzzle than memorising dates.", "translation": "我喜欢从不同角度看待同一个事件，所以历史课更像是在解谜，而不是死记日期。" },
+        { "text": "My teacher was also a great storyteller.", "translation": "我的老师也特别会讲故事。" }
+      ],
+      "questionTranslation": "你在学校最喜欢哪一门学科？",
+      "translation": "我最喜欢的可能是历史。我喜欢从不同角度看待同一个事件，所以历史课更像是在解谜，而不是死记日期。我的老师也特别会讲故事。"
     },
     {
       "part": "Part 1",
       "question": "Do you prefer studying alone or with other people?",
-      "answer": "Most of the time, I prefer studying alone because I can work at my own pace and focus on what I find difficult. That said, a small study group is useful before an exam. Explaining an idea to someone else quickly shows me whether I really understand it."
+      "answer": "Most of the time, I prefer studying alone because I can work at my own pace. That said, a small study group is useful before an exam, especially when we explain difficult ideas to one another.",
+      "answerSentences": [
+        { "text": "Most of the time, I prefer studying alone because I can work at my own pace.", "translation": "大多数时候，我更喜欢独自学习，因为我可以按照自己的节奏来。" },
+        { "text": "That said, a small study group is useful before an exam, especially when we explain difficult ideas to one another.", "translation": "不过，考试前参加小型学习小组也很有帮助，尤其是大家互相讲解难点的时候。" }
+      ],
+      "questionTranslation": "你更喜欢独自学习还是和其他人一起学习？",
+      "translation": "大多数时候，我更喜欢独自学习，因为我可以按照自己的节奏来。不过，考试前参加小型学习小组也很有帮助，尤其是大家互相讲解难点的时候。"
     }
   ],
   "reading": {
     "title": "Beyond the Examination Hall",
+    "titleTranslation": "走出考场之外",
     "paragraphs": [
       "A. For much of the twentieth century, formal education was organised primarily around the transfer of information. Teachers presented established knowledge, students recorded it, and examinations measured how accurately it could be recalled. This model was efficient when books were scarce and access to reliable information was limited. Since the 1990s, however, digital technology has made facts available almost instantly, prompting educators to reconsider what schools should enable learners to do with knowledge rather than merely how much they can remember.",
       "B. Research on classroom learning has consequently placed greater emphasis on critical thinking. In a review of studies from several education systems, researchers found that students understood complex ideas more securely when they had to compare evidence, explain a conclusion and apply a concept to an unfamiliar problem. This does not mean that factual knowledge has become unnecessary. By contrast, a learner cannot evaluate an argument about climate or economics without first understanding the relevant principles and terminology.",
       "C. Project-based learning is one attempt to combine knowledge with its practical application. Students might investigate a local transport problem, analyse survey data and present a proposal, drawing on mathematics, geography and communication skills. Nevertheless, critics note that such work is difficult to assess consistently. A standardised examination produces results that can be compared across thousands of candidates, whereas a group project may conceal substantial differences in individual effort. Some schools have therefore introduced mixed assessment rather than abandoning examinations altogether.",
       "D. The debate ultimately concerns preparation for an uncertain labour market. Technical knowledge may become outdated, while the ability to learn independently retains value across different occupations. Yet treating knowledge and transferable skills as competing goals creates a false choice. A well-rounded curriculum requires carefully selected content, repeated opportunities to apply it and assessment that measures both secure understanding and effective use. The central challenge is not to replace traditional learning, but to develop a more productive relationship between knowledge and action."
+    ],
+    "paragraphTranslations": [
+      "在二十世纪的大部分时间里，正规教育主要围绕知识传递来组织。教师讲授既定知识，学生记录内容，考试则衡量他们能否准确回忆。这一模式在书籍稀缺、可靠信息难以获得的时代效率很高。然而，自20世纪90年代以来，数字技术让事实信息几乎触手可及，促使教育者重新思考：学校应该让学习者如何运用知识，而不只是记住多少知识。",
+      "因此，课堂学习研究越来越重视批判性思维。研究人员在回顾多个教育体系的研究后发现，当学生需要比较证据、解释结论并把概念应用于陌生问题时，他们对复杂观点的理解更加牢固。这并不意味着事实知识已经没有必要。相反，如果学习者不了解相关原理和术语，就无法评价有关气候或经济的论点。",
+      "项目式学习试图把知识与实际应用结合起来。学生可以调查当地交通问题、分析调查数据并提出方案，同时运用数学、地理和沟通技能。然而，批评者指出，这类学习很难得到一致评价。标准化考试可以比较数千名考生的成绩，而小组项目可能掩盖个人投入程度的巨大差异。因此，一些学校采用混合评价方式，而不是彻底放弃考试。",
+      "这场讨论最终涉及如何为充满不确定性的劳动力市场做准备。技术知识可能会过时，而独立学习能力在不同职业中始终有价值。不过，把知识和可迁移技能视为相互竞争的目标，是一种错误的二选一。全面的课程需要精心选择内容，反复提供应用机会，并通过评价同时衡量扎实理解和有效运用。核心挑战不是取代传统学习，而是让知识与行动形成更有效的关系。"
+    ],
+    "paragraphSentencePairs": [
+      [
+        { "text": "A. For much of the twentieth century, formal education was organised primarily around the transfer of information.", "translation": "A. 在二十世纪的大部分时间里，正规教育主要围绕知识传递来组织。" },
+        { "text": "Teachers presented established knowledge, students recorded it, and examinations measured how accurately it could be recalled.", "translation": "教师讲授既定知识，学生记录内容，考试则衡量他们能否准确回忆这些知识。" },
+        { "text": "This model was efficient when books were scarce and access to reliable information was limited.", "translation": "这一模式在书籍稀缺、可靠信息难以获得的时代效率很高。" },
+        { "text": "Since the 1990s, however, digital technology has made facts available almost instantly, prompting educators to reconsider what schools should enable learners to do with knowledge rather than merely how much they can remember.", "translation": "然而，自20世纪90年代以来，数字技术让事实信息几乎触手可及，促使教育者重新思考：学校应该让学习者如何运用知识，而不只是记住多少知识。" }
+      ],
+      [
+        { "text": "B. Research on classroom learning has consequently placed greater emphasis on critical thinking.", "translation": "B. 因此，课堂学习研究越来越重视批判性思维。" },
+        { "text": "In a review of studies from several education systems, researchers found that students understood complex ideas more securely when they had to compare evidence, explain a conclusion and apply a concept to an unfamiliar problem.", "translation": "研究人员在回顾多个教育体系的研究后发现，当学生需要比较证据、解释结论并把概念应用于陌生问题时，他们对复杂观点的理解更加牢固。" },
+        { "text": "This does not mean that factual knowledge has become unnecessary.", "translation": "这并不意味着事实知识已经没有必要。" },
+        { "text": "By contrast, a learner cannot evaluate an argument about climate or economics without first understanding the relevant principles and terminology.", "translation": "相反，如果学习者不先了解相关原理和术语，就无法评价有关气候或经济的论点。" }
+      ],
+      [
+        { "text": "C. Project-based learning is one attempt to combine knowledge with its practical application.", "translation": "C. 项目式学习是把知识与实际应用结合起来的一种尝试。" },
+        { "text": "Students might investigate a local transport problem, analyse survey data and present a proposal, drawing on mathematics, geography and communication skills.", "translation": "学生可以调查当地交通问题、分析调查数据并提出方案，同时运用数学、地理和沟通技能。" },
+        { "text": "Nevertheless, critics note that such work is difficult to assess consistently.", "translation": "然而，批评者指出，这类学习很难得到一致评价。" },
+        { "text": "A standardised examination produces results that can be compared across thousands of candidates, whereas a group project may conceal substantial differences in individual effort.", "translation": "标准化考试可以比较数千名考生的成绩，而小组项目可能掩盖个人投入程度的巨大差异。" },
+        { "text": "Some schools have therefore introduced mixed assessment rather than abandoning examinations altogether.", "translation": "因此，一些学校采用混合评价方式，而不是彻底放弃考试。" }
+      ],
+      [
+        { "text": "D. The debate ultimately concerns preparation for an uncertain labour market.", "translation": "D. 这场讨论最终涉及如何为充满不确定性的劳动力市场做准备。" },
+        { "text": "Technical knowledge may become outdated, while the ability to learn independently retains value across different occupations.", "translation": "技术知识可能会过时，而独立学习能力在不同职业中始终具有价值。" },
+        { "text": "Yet treating knowledge and transferable skills as competing goals creates a false choice.", "translation": "不过，把知识和可迁移技能视为相互竞争的目标，是一种错误的二选一。" },
+        { "text": "A well-rounded curriculum requires carefully selected content, repeated opportunities to apply it and assessment that measures both secure understanding and effective use.", "translation": "全面均衡的课程需要精心选择内容，反复提供应用机会，并通过评价同时衡量扎实理解和有效运用。" },
+        { "text": "The central challenge is not to replace traditional learning, but to develop a more productive relationship between knowledge and action.", "translation": "核心挑战不是取代传统学习，而是让知识与行动形成更有效的关系。" }
+      ]
     ],
     "questions": [
       {
