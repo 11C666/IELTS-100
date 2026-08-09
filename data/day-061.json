@@ -229,22 +229,22 @@
   ],
   "sentences": [
     {
-      "pattern": "Only when + an organisation + explains how it uses data + can users make an informed choice.",
+      "pattern": "Only when + clause + can + subject + verb.",
       "cn": "只有当某机构解释清楚数据处理方式时，用户才能作出知情选择。",
       "example": "Only when a platform explains how location data are retained can users make an informed choice.",
       "exampleTranslation": "只有当平台解释如何保留位置数据时，用户才能做出明智的选择。"
     },
     {
-      "pattern": "Information collected to + original purpose + should not be used to + new purpose + unless users give consent.",
+      "pattern": "Information collected for + noun phrase + should not be used for + noun phrase + unless + clause.",
       "cn": "为某一原始目的收集的信息不应被用于新的目的，除非满足同意条件。",
       "example": "Information collected for navigation should not be used to price insurance unless the driver gives explicit consent.",
       "exampleTranslation": "除非驾驶员明确同意，否则收集的导航信息不应用于保险定价。"
     },
     {
-      "pattern": "The fact that + personal data + are publicly accessible does not mean that + companies + may use them without limits.",
+      "pattern": "The fact that + clause + does not mean that + clause.",
       "cn": "某些数据在技术上可以获取，并不意味着相关使用在社会层面可以接受。",
       "example": "The fact that public posts are technically accessible does not mean that compiling them into employment profiles is socially acceptable.",
-      "exampleTranslation": "公共职位在技术上是可获取的，但这并不意味着将其编入就业档案是社会可接受的。"
+      "exampleTranslation": "公开发布的帖子在技术上可以获取，但这并不意味着把它们汇编成招聘档案在社会层面可以接受。"
     }
   ],
   "expressions": [
@@ -359,7 +359,7 @@
         },
         {
           "text": "This unequal design causes people to share data through fatigue rather than genuine agreement.",
-          "translation": "这种不平等的设计导致人们通过疲劳而不是真正的同意来共享数据。"
+          "translation": "这种不对等的设计使人们并非出于真正同意，而是因操作疲劳而交出数据。"
         },
         {
           "text": "Regulators should require equally visible choices and concise explanations at the moment information is requested.",
@@ -367,7 +367,7 @@
         },
         {
           "text": "Such rules would not prevent personalised services; they would ensure that participation reflects a deliberate decision.",
-          "translation": "此类规则不会阻止个性化服务；他们将确保参与反映经过深思熟虑的决定。"
+          "translation": "这些规则不会妨碍个性化服务；它们能确保用户是在深思熟虑后作出选择。"
         }
       ]
     }
@@ -385,7 +385,7 @@
         },
         {
           "text": "Location made sense for mapping a run, but the other permissions seemed unrelated.",
-          "translation": "位置对于映射运行有意义，但其他权限似乎无关。"
+          "translation": "为了记录跑步路线，获取位置权限是合理的，但其他权限似乎与此无关。"
         },
         {
           "text": "I checked the settings and discovered that contact access was mainly intended for finding friends on the platform.",
@@ -397,7 +397,7 @@
         },
         {
           "text": "The decision took a few minutes, and the app still performed the function I wanted.",
-          "translation": "这个决定花了几分钟，应用程序仍然执行了我想要的功能。"
+          "translation": "这个决定花了几分钟，而应用仍能正常实现我需要的功能。"
         },
         {
           "text": "It made me realise that people often press “allow” simply because they are eager to start using a service.",
@@ -429,11 +429,11 @@
         },
         {
           "text": "A better process would assess evidence related to the role and tell applicants in advance if a public professional profile will be reviewed.",
-          "translation": "更好的流程将评估与该职位相关的证据，并提前告知申请人是否会审查公共专业档案。"
+          "translation": "更好的流程应评估与职位相关的证据，并提前告知申请人是否会审查其公开的职业资料。"
         },
         {
           "text": "Private accounts should remain outside the recruitment process.",
-          "translation": "私人账户应保留在招聘流程之外。"
+          "translation": "私人账户不应纳入招聘审查。"
         }
       ]
     }
@@ -473,7 +473,7 @@
         "explanation": "The final paragraph begins by saying the task should be defined first."
       }
     ],
-    "titleTranslation": "位置数据的来世",
+    "titleTranslation": "位置数据留下之后",
     "paragraphSentencePairs": [
       [
         {
@@ -482,7 +482,7 @@
         },
         {
           "text": "In practice, repeated coordinates can reveal a person’s home, workplace, medical visits and religious attendance.",
-          "translation": "实际上，重复的坐标可以揭示一个人的家庭、工作场所、医疗访问和宗教出席情况。"
+          "translation": "实际上，反复出现的坐标可以揭示一个人的住所、工作地点、就医记录和参加宗教活动的情况。"
         },
         {
           "text": "The sensitive information is often not a single point but the pattern produced when thousands of ordinary points are joined.",

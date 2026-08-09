@@ -241,7 +241,7 @@
       "exampleTranslation": "医院越依赖自动分诊，保留临床监督就越重要。"
     },
     {
-      "pattern": "Although + AI benefit, it should not be assumed that + unjustified conclusion.",
+      "pattern": "Although + clause, it should not be assumed that + clause.",
       "cn": "尽管人工智能具有某项优势，也不应因此想当然地得出某个不合理结论。",
       "example": "Although AI can process applications quickly, it should not be assumed that its decisions are automatically fair.",
       "exampleTranslation": "尽管AI可以快速处理申请，却不应假定它的决定自动就是公平的。"

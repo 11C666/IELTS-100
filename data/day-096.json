@@ -241,7 +241,7 @@
       "exampleTranslation": "实验室共享耐药数据越快，医生就越能有效调整治疗指南。"
     },
     {
-      "pattern": "Improving + health outcome requires not only + medical measure but also + social or practical measure.",
+      "pattern": "Improving + noun phrase + requires not only + noun phrase, but also + noun phrase.",
       "cn": "改善某项健康结果不仅需要医疗措施，还需要社会或实际层面的配套行动。",
       "example": "Improving maternal health requires not only trained clinicians but also reliable transport to emergency care.",
       "exampleTranslation": "改善孕产妇健康不仅需要受过训练的临床人员，也需要可靠的紧急送医交通。"
@@ -566,7 +566,7 @@
         },
         {
           "text": "Their history suggests that expanding a workforce is easier than sustaining the conditions that allow its members to do useful work.",
-          "translation": "其历史表明，扩大队伍比长期维持让成员有效工作的条件更容易。"
+          "translation": "其历史表明，扩充人员规模，往往比长期维持一支队伍有效运作所需的条件更容易。"
         }
       ]
     ]

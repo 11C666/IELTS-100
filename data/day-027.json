@@ -241,7 +241,7 @@
       "exampleTranslation": "在一种语言中听起来很尊重的东西，如果按字面翻译的话，可能听起来很遥远。"
     },
     {
-      "pattern": "Only when + speaker + notices + signal + can + repair begin.",
+      "pattern": "Only when + subject + verb + object + can + subject + verb.",
       "cn": "只有当说话者注意到某个信号时，沟通修复才能开始。",
       "example": "Only when a speaker notices confusion can clarification begin.",
       "exampleTranslation": "只有当演讲者注意到混乱时才能开始澄清。"

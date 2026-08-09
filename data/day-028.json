@@ -241,7 +241,7 @@
       "exampleTranslation": "早期原型的目的不是为了给用户留下深刻印象，而是揭示薄弱的假设。"
     },
     {
-      "pattern": "Once + idea + has been treated as + status, people become less willing to + revision.",
+      "pattern": "Once + subject + has been + past participle + complement, + subject + becomes less willing to + verb.",
       "cn": "一旦某想法被视为某种成果，人们就更不愿意……。",
       "example": "Once an idea has been treated as a finished product, people become less willing to question it.",
       "exampleTranslation": "一旦一个想法被视为成品，人们就不太愿意质疑它。"

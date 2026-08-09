@@ -229,7 +229,7 @@
   ],
   "sentences": [
     {
-      "pattern": "A ceasefire can + immediate benefit without necessarily + long-term outcome.",
+      "pattern": "Subject + can + verb phrase + without necessarily + gerund phrase.",
       "cn": "停火可以带来某项即时益处，但未必自然产生长期结果。",
       "example": "A ceasefire can allow aid to reach civilians without necessarily resolving the dispute over political power.",
       "exampleTranslation": "停火可以让援助送达平民，却不一定能解决有关政治权力的争端。"

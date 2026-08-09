@@ -235,16 +235,16 @@
       "exampleTranslation": "一处绿地即使距离很近，如果被一条六车道公路隔开，其可达性也可能不如安全路线旁的小公园。"
     },
     {
-      "pattern": "Not only does + an urban tree or wetland + reduce + heat or flooding, but it also + provides a social or health benefit.",
+      "pattern": "Not only does + singular subject + verb, but it also + verb.",
       "cn": "某绿色设施不仅缓解环境问题，还能带来社会效益。",
       "example": "Not only does a rain garden reduce runoff, but it also creates a more pleasant walking route.",
       "exampleTranslation": "雨水花园不仅能减少径流，还能营造更舒适的步行路线。"
     },
     {
-      "pattern": "Planners deciding where to + plant trees or create green space + should consider + local need and accessibility, rather than merely + the total area provided.",
+      "pattern": "Subject + deciding where to + verb + should consider + noun phrase, rather than merely + gerund.",
       "cn": "决定在哪里实施干预的规划者应考虑实际条件，而不能只看单一指标。",
       "example": "Planners deciding where to plant trees should consider pedestrian exposure, rather than merely counting available plots.",
-      "exampleTranslation": "规划者决定在哪里种树时，应考虑行人的暴露情况，而不能只计算可用地块。"
+      "exampleTranslation": "规划者决定在哪里种树时，应考虑行人暴露于高温环境的程度，而不能只计算可用地块。"
     }
   ],
   "expressions": [

@@ -241,7 +241,7 @@
       "exampleTranslation": "平台通过奖励快速互动，可能无意中助长挑衅性帖子。"
     },
     {
-      "pattern": "Not until + user action + does + platform effect + become visible.",
+      "pattern": "Not until + clause + does + subject + become visible.",
       "cn": "直到用户采取某行动，平台影响才变得明显。",
       "example": "Not until a user compares feeds does the effect of personalisation become visible.",
       "exampleTranslation": "只有当用户比较不同信息流时，个性化的影响才会显现。"

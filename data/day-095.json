@@ -241,7 +241,7 @@
       "exampleTranslation": "市议会在全面推出补贴前，应测试小企业能否轻松完成申请。"
     },
     {
-      "pattern": "The question is not simply whether + policy goal, but whether + implementation requirement.",
+      "pattern": "The question is not simply whether + clause, but whether + clause.",
       "cn": "问题不只是能否实现政策目标，还在于是否满足执行该政策所需的条件。",
       "example": "The question is not simply whether childcare should be affordable, but whether funding reaches families who need it most.",
       "exampleTranslation": "问题不只是儿童照护是否应负担得起，而是资金能否到达最需要的家庭。"

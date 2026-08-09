@@ -241,10 +241,10 @@
       "exampleTranslation": "问题不仅仅是登月任务是否负担得起，而是其科学价值是否证明了机会成本的合理性。"
     },
     {
-      "pattern": "Data collected by + a satellite or spacecraft, having been + carefully processed, can reveal + a new finding.",
+      "pattern": "Once + plural subject + have been + past participle, they can + verb.",
       "cn": "由某设备收集的数据经处理后，可以揭示……",
-      "example": "Data collected by an orbital radar, having been corrected for atmospheric effects, can reveal changes in ice thickness.",
-      "exampleTranslation": "轨道雷达收集的数据经过大气影响校正后，可以揭示冰厚度的变化。"
+      "example": "Once data collected by an orbital radar have been corrected for atmospheric effects, they can reveal changes in ice thickness.",
+      "exampleTranslation": "轨道雷达收集的数据经过大气影响校正后，可以揭示冰层厚度的变化。"
     }
   ],
   "expressions": [

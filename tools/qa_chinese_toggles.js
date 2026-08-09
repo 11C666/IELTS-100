@@ -52,9 +52,25 @@ const path = require('path');
   if (await page.evaluate(() => document.documentElement.scrollWidth > document.documentElement.clientWidth)) throw new Error('Mobile layout overflowed');
   await page.setViewportSize({ width: 820, height: 1180 });
   if (await page.evaluate(() => document.documentElement.scrollWidth > document.documentElement.clientWidth)) throw new Error('iPad layout overflowed');
+
+  for (const day of ['001', '061', '080', '100']) {
+    await page.goto(`${base}#day-${day}`, { waitUntil: 'load' });
+    await page.evaluate(() => localStorage.clear());
+    await page.reload({ waitUntil: 'load' });
+    for (const id of ['vocabulary', 'writing', 'speaking', 'reading']) {
+      const button = page.locator(`#${id} .chinese-toggle`);
+      await button.click();
+      if (await page.locator(`#${id}.chinese-hidden`).count() !== 1) throw new Error(`Day ${day} ${id}: Chinese did not hide`);
+      await button.click();
+      if (await page.locator(`#${id}.chinese-hidden`).count()) throw new Error(`Day ${day} ${id}: Chinese did not return`);
+    }
+    if (await page.locator('#vocabulary .pronounce-btn').count() < 40 || await page.locator('#speaking .speaking-listen').count() !== 2) {
+      throw new Error(`Day ${day}: pronunciation controls changed`);
+    }
+  }
   if (errors.length) throw new Error(`Browser errors: ${errors.join(' | ')}`);
 
   console.log('Chinese toggle QA: PASS');
-  console.log('Day 001/050/100, independent persistence, English visibility, pronunciation controls, Reading questions, mobile and iPad verified.');
+  console.log('Day 001/050/061/080/100, independent persistence, English visibility, pronunciation controls, Reading questions, mobile and iPad verified.');
   await browser.close();
 })().catch(error => { console.error(error); process.exit(1); });

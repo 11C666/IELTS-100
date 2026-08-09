@@ -241,7 +241,7 @@
       "exampleTranslation": "学习不一定要获得正式资格才能改善日常生活。"
     },
     {
-      "pattern": "Having once + past participle + subject, + learner + is better able to + action.",
+      "pattern": "Having once + past participle + object, + subject + is/are better able to + verb.",
       "cn": "曾经完成某事之后，学习者更能够……。",
       "example": "Having once mastered a difficult skill, a learner is better able to tolerate early frustration.",
       "exampleTranslation": "一旦掌握了一项困难的技能，学习者就能够更好地忍受早期的挫折。"

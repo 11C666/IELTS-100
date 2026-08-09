@@ -35,7 +35,7 @@
     {
       "word": "connectivity",
       "ipa": "/ˌkɒnekˈtɪvəti/",
-      "meaning": "连接条件",
+      "meaning": "连接能力；网络连通性",
       "collocation": "lack reliable connectivity",
       "collocationCN": "缺少可靠连接"
     },
@@ -133,7 +133,7 @@
     {
       "word": "digital exclusion",
       "ipa": "/ˌdɪdʒɪtl ɪkˈskluːʒn/",
-      "meaning": "数字排斥",
+      "meaning": "数字排斥；因数字条件不足而无法获得服务",
       "collocation": "reduce digital exclusion",
       "collocationCN": "减少数字排斥"
     },
@@ -154,7 +154,7 @@
         "experience digital exclusion"
       ],
       "note": "unconnected 侧重连接缺失。",
-      "translation": "没有互联网接入可以表述为保持未连接、缺乏可靠的连接、经历数字排斥。"
+      "translation": "no internet access 可以表述为“处于未联网状态”“缺乏可靠的网络连接”或“遭遇数字排斥”。"
     },
     {
       "base": "cheap enough",
@@ -564,7 +564,7 @@
         },
         {
           "text": "If policy celebrates the number of households technically online while essential tasks remain impractical, it mistakes the presence of a doorway for the ability to pass through it.",
-          "translation": "如果政策庆祝技术上在线的家庭数量，而基本任务仍然不切实际，那么它就会错误地认为门口的存在是通过它的能力。"
+          "translation": "如果政策只看有多少家庭在技术上已经联网，而基本任务实际上仍难以完成，就等于把有一扇门误当成人人都有能力跨过这扇门。"
         }
       ]
     ]
