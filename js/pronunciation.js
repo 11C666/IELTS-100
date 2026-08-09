@@ -16,7 +16,9 @@
   }
 
   function chooseVoice() {
-    return englishVoices.find(voice => voice.default) ||
+    return englishVoices.find(voice => String(voice.lang || '').toLowerCase() === 'en-gb' && voice.localService) ||
+      englishVoices.find(voice => String(voice.lang || '').toLowerCase() === 'en-gb') ||
+      englishVoices.find(voice => voice.default) ||
       englishVoices.find(voice => voice.localService) ||
       englishVoices[0] || null;
   }
@@ -42,7 +44,7 @@
       utterance.voice = voice;
       utterance.lang = voice.lang;
     } else {
-      utterance.lang = 'en';
+      utterance.lang = 'en-GB';
     }
     utterance.rate = rate || 0.95;
     utterance.pitch = 1;
@@ -124,12 +126,36 @@
     });
   }
 
+  function decorateExpressions() {
+    document.querySelectorAll('#expressions .list-row').forEach(item => {
+      if (item.dataset.pronunciationReady) return;
+      const example = item.querySelector(':scope > .example');
+      if (!example) return;
+      const text = example.textContent.trim();
+      if (!text) return;
+
+      const button = makeButton(text, 0.92);
+      button.classList.add('expression-listen');
+      button.dataset.idleLabel = '🔊';
+      button.dataset.activeLabel = '■';
+      button.dataset.idleAria = 'Listen to English example';
+      button.dataset.activeAria = 'Stop English example';
+      button.textContent = button.dataset.idleLabel;
+      button.setAttribute('aria-label', button.dataset.idleAria);
+      button.title = 'Listen to English example';
+      example.classList.add('expression-example');
+      example.append(' ', button);
+      item.dataset.pronunciationReady = 'true';
+    });
+  }
+
   function decoratePronunciation() {
     if (activeButton && typeof document.contains === 'function' && !document.contains(activeButton)) {
       synthesis.cancel();
       clearActiveButton();
     }
     decorateVocabulary();
+    decorateExpressions();
     decorateSpeaking();
   }
 

@@ -3,18 +3,10 @@ from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.units import mm
 from reportlab.platypus import PageBreak, Spacer, Table, TableStyle, KeepTogether
-import make_day1_pdfs as m
+import pdf_common as m
 
 OUT = Path(__file__).resolve().parent / "output" / "pdf" / "Reading"
 OUT.mkdir(parents=True, exist_ok=True)
-
-def footer2(canvas, doc):
-    canvas.saveState(); w, _ = A4
-    canvas.setStrokeColor(m.RULE); canvas.line(18*mm, 14*mm, w-18*mm, 14*mm)
-    canvas.setFont(m.FONT, 7.5); canvas.setFillColor(m.MUTED)
-    canvas.drawString(18*mm, 9*mm, "IELTS Daily Practice · Day 2 · Saudi date 2026-08-07")
-    canvas.drawRightString(w-18*mm, 9*mm, f"Page {doc.page}"); canvas.restoreState()
-m.footer = footer2
 
 PASSAGE = [
 ("A", "For centuries, historians reconstructed ancient trade mainly from surviving documents, coins and the remains of ports. These sources are valuable but incomplete. Written records often reflect the priorities of governments or wealthy merchants, while everyday transactions may never have been recorded. Shipwrecks offer a different kind of archive. A vessel that sank with its cargo can preserve a single commercial journey in remarkable detail, including objects that would normally have been reused, consumed or discarded."),
@@ -28,7 +20,7 @@ PASSAGE = [
 ]
 
 def build():
-    path = OUT / "IELTS_Day_002_Reading_2026-08-07.pdf"
+    path = OUT / "IELTS_Day_002_Reading_2026-08-09.pdf"
     st = m.cover("Academic Reading · Part 2", "IELTS Daily Practice · Day 2",
                  "Shipwreck Cargo and the Reconstruction of Ancient Trade · 13 questions")
     st += [m.P("1 · Reading Passage", "h1"),
