@@ -9,3 +9,16 @@
 @media (max-width:519px){.topic-grid{grid-template-columns:minmax(0,1fr)}.topic-card{min-height:110px}.topbar .nav-link[data-route="home"]{display:none}.topbar nav{font-size:14px}.progress-panel{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.metric strong{font-size:22px}}
 .sentence-pair-list{margin-bottom:0}.sentence-pair{display:block;margin-bottom:15px}.sentence-original{display:block}.sentence-pair .sentence-translation{display:block;margin:3px 0 0}.reading .sentence-pair{margin-bottom:18px}.reading .sentence-pair .sentence-translation{margin:3px 0 0}.study-card.part-collapsed>:not(header){display:none!important}.study-card.part-collapsed>header{margin-bottom:0}.part-translation{margin:6px 0 12px;color:#596561;font-size:14px;line-height:1.68;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,"Microsoft YaHei",sans-serif;overflow-wrap:anywhere}.reading .part-translation{font-size:14px;line-height:1.72;margin-bottom:18px}.part-translation+.part-translation{margin-top:-6px}.collocation-pills>span{display:inline-flex;align-items:baseline;gap:4px;flex-wrap:wrap}.pill-translation{color:#68726f;font-size:11px;font-weight:500;line-height:1.4}.option-translation{display:block;margin-top:2px;color:#596561;font:13px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,"Microsoft YaHei",sans-serif}@media(max-width:767px){.study-card>header .reveal{flex:0 0 auto;min-width:64px}.part-translation{font-size:14px;margin-bottom:14px}}
 .section-actions{display:flex;align-items:center;justify-content:flex-end;gap:7px;flex-wrap:wrap}.chinese-toggle{white-space:nowrap}.chinese-hidden .chinese-content{display:none!important}#reading.chinese-hidden .sentence-pair{display:inline;margin:0}#reading.chinese-hidden .sentence-original{display:inline}#reading.chinese-hidden .sentence-pair:not(:last-child) .sentence-original::after{content:" "}@media(max-width:767px){.study-card>header{flex-wrap:wrap}.section-actions{margin-left:auto}.chinese-toggle{min-width:112px}}
+
+/* Shared pronunciation preferences, including narrow mobile screens. */
+.audio-settings{margin:0 0 24px;padding:14px 18px;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.audio-settings>summary{min-height:28px;color:var(--accent);font-size:15px}
+.audio-settings-controls{display:flex;flex-wrap:wrap;align-items:end;gap:12px;margin-top:12px}
+.audio-settings-controls label{display:grid;gap:5px;min-width:0;font-size:14px}
+.audio-settings-controls select{width:100%;max-width:420px;min-height:44px;padding:8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font:inherit}
+.audio-settings-controls label:first-child{flex:1 1 240px}
+.audio-settings-controls .audio-preview{min-height:44px;cursor:pointer}
+.audio-preview.is-speaking{background:var(--accent2);color:var(--accent)}
+.audio-settings-note,#pronunciation-status{margin:10px 0 0;color:var(--muted);font-size:13px;overflow-wrap:anywhere}
+#pronunciation-status:empty{display:none}
+@media(max-width:767px){.audio-settings{padding:12px}.audio-settings-controls{align-items:stretch}.audio-settings-controls label:first-child{flex-basis:100%}}

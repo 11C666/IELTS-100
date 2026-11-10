@@ -1,99 +1,201 @@
-const fs = require('fs');
-const path = require('path');
-const vm = require('vm');
-
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const path = require('node:path');
+const vm = require('node:vm');
 const root = path.join(__dirname, '..');
 const source = fs.readFileSync(path.join(root, 'js', 'pronunciation.js'), 'utf8');
-const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
-const css = fs.readFileSync(path.join(root, 'css', 'styles.css'), 'utf8');
-const calls = { cancel: 0, speak: [], listeners: {} };
-let voices = [
-  { name: 'Default Chinese', lang: 'zh-CN', default: true, localService: true },
-  { name: 'Local English', lang: 'en-US', default: false, localService: true },
-  { name: 'Default English', lang: 'en-GB', default: true, localService: true }
-];
+const legacy = { name: 'Legacy British', voiceURI: 'legacy', lang: 'en-GB', localService: true };
+const natural = { name: 'English Natural', voiceURI: 'natural', lang: 'en-US', localService: false };
 
-function Utterance(text) { this.text = text; }
-const synthesis = {
-  getVoices: () => voices,
-  cancel: () => { calls.cancel++; },
-  speak: utterance => calls.speak.push(utterance),
-  addEventListener: (type, handler) => { calls.listeners[type] = handler; }
-};
-const document = {
-  listeners: {},
-  addEventListener(type, handler) { this.listeners[type] = handler; },
-  getElementById() { return {}; },
-  querySelectorAll() { return []; },
-  createElement() { return {}; }
-};
-function MutationObserver(callback) { this.observe = () => callback(); }
-const window = { speechSynthesis: synthesis, SpeechSynthesisUtterance: Utterance };
-
-vm.runInNewContext(source, { window, document, MutationObserver, SpeechSynthesisUtterance: Utterance, Node: { TEXT_NODE: 3 } });
-
-const buttonA = { classList: { add() {}, remove() {} } };
-const buttonB = { classList: { add() {}, remove() {} } };
-if (!window.speakEnglish('curriculum', 0.9, buttonA)) throw new Error('Word playback failed');
-if (!window.speakEnglish('revise the curriculum', 0.95, buttonB)) throw new Error('Collocation playback failed');
-if (calls.cancel !== 2) throw new Error('Every playback must cancel the previous utterance');
-if (calls.speak.length !== 2) throw new Error('Unexpected utterance count');
-if (calls.speak[0].text !== 'curriculum' || calls.speak[0].rate !== 0.9) throw new Error('Word utterance is incorrect');
-if (calls.speak[1].text !== 'revise the curriculum' || calls.speak[1].rate !== 0.95) throw new Error('Collocation utterance is incorrect');
-if (calls.speak[1].voice.lang !== 'en-GB') throw new Error('Default English voice was not preferred');
-if (!calls.listeners.voiceschanged) throw new Error('Asynchronous voice loading is not handled');
-if (!html.includes('js/pronunciation.js')) throw new Error('Pronunciation script is not loaded');
-if (!css.includes('.pronounce-btn')) throw new Error('Pronunciation button styles are missing');
-
-function mockButton(text, rate, speaking = false) {
-  const classes = new Set(speaking ? ['speaking-listen'] : []);
-  const button = {
-    dataset: {
-      pronounce: text,
-      rate: String(rate),
-      idleLabel: speaking ? '🔊 Listen' : '',
-      activeLabel: speaking ? '■ Stop' : '',
-      idleAria: speaking ? 'Listen to sample answer' : '',
-      activeAria: speaking ? 'Stop sample answer' : ''
+function harness({ voices = [legacy, natural], saved = {}, storageBlocked = false, unsupported = false, online = true } = {}) {
+  let clock = 0, timerId = 0, observer;
+  const timers = new Map();
+  const calls = { cancel: 0, spoken: [], resumes: 0 };
+  const events = {}, windowEvents = {}, voiceEvents = {};
+  const status = { textContent: '' }, panel = { open: false };
+  const synthesis = {
+    speaking: false, pending: false, paused: false,
+    getVoices: () => voices,
+    cancel() {
+      calls.cancel++;
+      this.speaking = this.pending = false;
+      if (this.cancelCallback) this.cancelCallback();
     },
-    disabled: false,
-    textContent: speaking ? '🔊 Listen' : '🔊',
-    classList: {
-      add(value) { classes.add(value); },
-      remove(value) { classes.delete(value); },
-      contains(value) { return classes.has(value); }
-    },
-    setAttribute(name, value) { if (name === 'aria-label') this.ariaLabel = value; }
+    resume() { calls.resumes++; this.paused = false; },
+    speak(utterance) { calls.spoken.push(utterance); this.pending = true; },
+    addEventListener(type, handler) { voiceEvents[type] = handler; }
   };
-  button.closest = () => button;
-  return button;
+  const document = {
+    hidden: false,
+    contains(button) { return !button.removed; },
+    addEventListener(type, handler) { events[type] = handler; },
+    getElementById(id) { return id === 'pronunciation-status' ? status : id === 'pronunciation-settings' ? panel : null; },
+    querySelector() { return null; }, querySelectorAll() { return []; }
+  };
+  const window = {
+    navigator: { onLine: online },
+    speechSynthesis: unsupported ? null : synthesis,
+    SpeechSynthesisUtterance: class { constructor(text) { this.text = text; } },
+    addEventListener(type, handler) { windowEvents[type] = handler; }
+  };
+  const localStorage = { getItem() { if (storageBlocked) throw Error('blocked'); return JSON.stringify(saved); } };
+  vm.runInNewContext(source, {
+    window, document, localStorage,
+    MutationObserver: class { constructor(callback) { observer = callback; } observe() {} },
+    setTimeout(fn, delay) { const id = ++timerId; timers.set(id, { at: clock + delay, fn }); return id; },
+    clearTimeout(id) { timers.delete(id); }
+  });
+  return {
+    window, document, synthesis, events, windowEvents, calls, status, panel, timers,
+    mutate: () => observer(),
+    voices(value) { voices = value; voiceEvents.voiceschanged(); },
+    tick(ms) {
+      const target = clock + ms;
+      while (true) {
+        const next = [...timers].filter(([, t]) => t.at <= target).sort((a, b) => a[1].at - b[1].at)[0];
+        if (!next) break;
+        clock = next[1].at; timers.delete(next[0]); next[1].fn();
+      }
+      clock = target;
+    },
+    start(utterance = calls.spoken.at(-1)) {
+      synthesis.pending = false; synthesis.speaking = true; utterance.onstart();
+    },
+    end(utterance = calls.spoken.at(-1)) {
+      synthesis.pending = synthesis.speaking = false; utterance.onend();
+    },
+    click(button) { events.click({ target: { closest: () => button } }); }
+  };
+}
+function button(text = 'curriculum', rate = 0.9) {
+  const classes = new Set();
+  return {
+    dataset: { pronounce: text, rate: String(rate), idleLabel: 'Listen', activeLabel: 'Stop', idleAria: 'Listen', activeAria: 'Stop' },
+    classList: { toggle(name, enabled) { if (enabled) classes.add(name); else classes.delete(name); }, contains: name => classes.has(name) },
+    setAttribute(name, value) { this[name] = value; },
+    disabled: false
+  };
 }
 
-const speakingButton = mockButton('This is a complete sample answer.', 0.98, true);
-document.listeners.click({ target: speakingButton });
-if (calls.speak.at(-1).text !== 'This is a complete sample answer.' || calls.speak.at(-1).rate !== 0.98) throw new Error('Speaking answer playback is incorrect');
-if (speakingButton.textContent !== '■ Stop' || speakingButton.ariaLabel !== 'Stop sample answer') throw new Error('Speaking play state is incorrect');
-const countBeforeStop = calls.speak.length;
-document.listeners.click({ target: speakingButton });
-if (calls.speak.length !== countBeforeStop || speakingButton.textContent !== '🔊 Listen') throw new Error('Speaking stop toggle failed');
-
-const vocabularyButton = mockButton('curriculum', 0.9);
-document.listeners.click({ target: speakingButton });
-document.listeners.click({ target: vocabularyButton });
-if (calls.speak.at(-1).text !== 'curriculum' || speakingButton.textContent !== '🔊 Listen') throw new Error('Vocabulary and Speaking playback did not interrupt each other');
-
-const expressionButton = mockButton("I've always been keen on subjects that involve problem-solving.", 0.92);
-document.listeners.click({ target: expressionButton });
-if (calls.speak.at(-1).text !== "I've always been keen on subjects that involve problem-solving." || calls.speak.at(-1).rate !== 0.92) throw new Error('Natural Expression example playback is incorrect');
-if (calls.speak.at(-1).lang !== 'en-GB') throw new Error('Natural Expression did not use the preferred English locale');
-
-for (const id of [1, 20, 50, 80, 100]) {
+// First click must speak synchronously (mobile user activation), without canceling an idle engine.
+{
+  const h = harness(), b = button();
+  h.click(b);
+  assert.equal(h.calls.cancel, 0);
+  assert.equal(h.calls.spoken.length, 1);
+  assert.equal(h.calls.spoken[0].voice.voiceURI, 'natural');
+  assert.equal(h.calls.spoken[0].rate, 0.9);
+  assert.equal(h.calls.spoken[0].pitch, 1);
+  assert.equal(b['aria-pressed'], 'true');
+  h.start(); h.end();
+  assert.equal(b.textContent, 'Listen');
+  assert.equal(h.timers.size, 0);
+}
+// User choice beats automatic ranking; delayed voice lists are refreshed without restarting speech.
+{
+  const h = harness({ saved: { voiceURI: 'legacy', rate: 0.8 } });
+  h.window.speakEnglish('Hello.');
+  assert.equal(h.calls.spoken[0].voice.voiceURI, 'legacy');
+  assert.equal(h.calls.spoken[0].rate, 0.8);
+  h.window.stopEnglish();
+  const empty = harness({ voices: [] });
+  empty.window.speakEnglish('Hello.');
+  assert.equal(empty.calls.spoken[0].lang, 'en-GB');
+  empty.voices([natural]);
+  assert.equal(empty.calls.spoken.length, 1);
+  empty.end(); empty.window.speakEnglish('Hello again.');
+  assert.equal(empty.calls.spoken[1].voice.voiceURI, 'natural');
+}
+{
+  const h = harness({ online: false });
+  h.window.speakEnglish('Hello.');
+  assert.equal(h.calls.spoken[0].voice.voiceURI, 'legacy', 'Offline mode must use an installed local voice');
+}
+// A canceled utterance's asynchronous callbacks must not clear or advance the new playback.
+{
+  const h = harness(), a = button('First answer.'), b = button('Second answer.');
+  h.click(a); const old = h.calls.spoken[0];
+  h.synthesis.cancelCallback = () => old.onerror({ error: 'interrupted' });
+  h.click(b);
+  assert.equal(h.calls.spoken.length, 1, 'Wait for cancel to settle');
+  assert.equal(a.textContent, 'Listen');
+  assert.equal(b.textContent, 'Stop');
+  old.onend(); old.onerror({ error: 'canceled' });
+  h.tick(120);
+  assert.equal(h.calls.spoken[1].text, 'Second answer.');
+  assert.equal(b.textContent, 'Stop');
+  h.start(); h.end();
+  h.click(a); h.tick(120);
+  assert.equal(h.calls.spoken.at(-1).text, 'First answer.');
+  old.onend();
+  assert.equal(a.textContent, 'Stop', 'Old callback must not clear a replay of the same button');
+  h.window.stopEnglish();
+}
+// Rapid switching and stop during the cancellation delay cannot resurrect queued playback.
+{
+  const h = harness(), a = button('First.'), b = button('Second.'), c = button('Third.');
+  h.click(a); h.click(b); h.click(c); h.tick(120);
+  assert.deepEqual(h.calls.spoken.map(x => x.text), ['First.', 'Third.']);
+  h.click(b); h.click(b); h.tick(1000);
+  assert.equal(h.calls.spoken.length, 2);
+  assert.equal(b['aria-pressed'], 'false');
+  assert.equal(h.timers.size, 0);
+}
+// Missing starts, errors, and lost end events must reset the button and show a useful retry message.
+{
+  const h = harness(), b = button();
+  h.click(b); h.tick(5000);
+  assert.equal(b.textContent, 'Listen');
+  assert.match(h.status.textContent, /未能启动/);
+  assert.equal(h.panel.open, true);
+  h.click(b); h.start(); h.calls.spoken.at(-1).onerror({ error: 'network' });
+  assert.match(h.status.textContent, /播放失败/);
+  h.click(b); h.start(); h.tick(25000);
+  assert.match(h.status.textContent, /播放中断/);
+  assert.equal(h.timers.size, 0);
+  h.synthesis.speak = () => { throw Error('engine failure'); };
+  h.click(b);
+  assert.equal(b.textContent, 'Listen');
+  assert.match(h.status.textContent, /播放失败/);
+}
+// Navigation, backgrounding and explicit stop cancel the entire answer, not just its current sentence.
+for (const action of ['removed', 'hidden', 'pagehide', 'stop']) {
+  const h = harness(), b = button('First sentence. Second sentence.');
+  h.click(b); const old = h.calls.spoken[0];
+  if (action === 'removed') { b.removed = true; h.mutate(); }
+  if (action === 'hidden') { h.document.hidden = true; h.events.visibilitychange(); }
+  if (action === 'pagehide') h.windowEvents.pagehide();
+  if (action === 'stop') h.window.stopEnglish();
+  old.onend(); h.tick(1000);
+  assert.equal(h.calls.spoken.length, 1);
+  assert.equal(b.textContent, 'Listen');
+  assert.equal(h.timers.size, 0);
+}
+{
+  const h = harness({ storageBlocked: true });
+  h.synthesis.paused = true;
+  h.window.speakEnglish('Hello.'); h.tick(120);
+  assert.equal(h.calls.resumes, 1);
+  assert.equal(h.calls.spoken[0].rate, 0.9);
+  assert.equal(harness({ unsupported: true }).window.speakEnglish('Hello.'), false);
+}
+// All 4,700 existing lesson clips preserve every word, in order, through all chunk boundaries.
+let clips = 0;
+for (let id = 1; id <= 100; id++) {
   const day = JSON.parse(fs.readFileSync(path.join(root, 'data', `day-${String(id).padStart(3, '0')}.json`), 'utf8'));
-  if (day.vocabulary.length !== 20) throw new Error(`Day ${id} does not have 20 vocabulary entries`);
-  if (day.vocabulary.some(item => !item.word || !item.collocation)) throw new Error(`Day ${id} has an unplayable entry`);
-  if (day.speaking.length !== 2 || day.speaking.some(item => !item.answer)) throw new Error(`Day ${id} has an unplayable Speaking answer`);
-  if (day.expressions.length !== 5 || day.expressions.some(item => !item.example)) throw new Error(`Day ${id} has an unplayable Natural Expression example`);
+  const texts = [...day.vocabulary.flatMap(x => [x.word, x.collocation]), ...day.expressions.map(x => x.example), ...day.speaking.map(x => x.answer)];
+  for (const text of texts) {
+    const h = harness();
+    assert.equal(h.window.speakEnglish(text), true);
+    let position = 0;
+    while (position < h.calls.spoken.length) {
+      const utterance = h.calls.spoken[position++];
+      assert.ok(utterance.text.length <= 180, `Day ${id}: chunk too long`);
+      h.start(utterance); h.end(utterance);
+    }
+    assert.equal(h.calls.spoken.map(x => x.text).join(' '), text.trim().replace(/\s+/g, ' '), `Day ${id}: speech omitted or repeated words`);
+    assert.equal(h.timers.size, 0);
+    clips++;
+  }
 }
-
-console.log('Pronunciation QA: PASS');
-console.log('Vocabulary, Speaking and Natural Expression playback, interruption, English voice selection, async voices, and Day 001/020/050/080/100 coverage verified.');
+console.log(`Pronunciation QA: PASS (${clips} clips across 100 days; natural voice preference, mobile first click, cancellation races, replay, timeouts, complete long answers and lifecycle cleanup)`);

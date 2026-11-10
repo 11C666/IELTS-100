@@ -41,7 +41,7 @@
       const collapsed = section.classList.toggle('part-collapsed');
       button.textContent = collapsed ? 'Show' : 'Hide';
       button.setAttribute('aria-expanded', String(!collapsed));
-      if (collapsed && section.querySelector('.is-speaking')) window.speechSynthesis?.cancel();
+      if (collapsed && section.querySelector('.is-speaking')) window.stopEnglish?.();
     });
     section.dataset.partControlReady = 'true';
   }
