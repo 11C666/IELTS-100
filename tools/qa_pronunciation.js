@@ -5,13 +5,14 @@ const vm = require('node:vm');
 const root = path.join(__dirname, '..');
 const source = fs.readFileSync(path.join(root, 'js', 'pronunciation.js'), 'utf8');
 const legacy = { name: 'Legacy British', voiceURI: 'legacy', lang: 'en-GB', localService: true };
-const natural = { name: 'English Natural', voiceURI: 'natural', lang: 'en-US', localService: false };
+const natural = { name: 'English Natural', voiceURI: 'natural', lang: 'en-US', localService: true };
+const remote = { name: 'Microsoft Aria Online (Natural)', voiceURI: 'aria-online', lang: 'en-US', localService: false };
 
 function harness({ voices = [legacy, natural], saved = {}, storageBlocked = false, unsupported = false, online = true } = {}) {
   let clock = 0, timerId = 0, observer;
   const timers = new Map();
   const calls = { cancel: 0, spoken: [], resumes: 0 };
-  const events = {}, windowEvents = {}, voiceEvents = {};
+  const events = {}, windowEvents = {}, voiceEvents = {}, writes = [];
   const status = { textContent: '' }, panel = { open: false };
   const synthesis = {
     speaking: false, pending: false, paused: false,
@@ -38,7 +39,10 @@ function harness({ voices = [legacy, natural], saved = {}, storageBlocked = fals
     SpeechSynthesisUtterance: class { constructor(text) { this.text = text; } },
     addEventListener(type, handler) { windowEvents[type] = handler; }
   };
-  const localStorage = { getItem() { if (storageBlocked) throw Error('blocked'); return JSON.stringify(saved); } };
+  const localStorage = {
+    getItem() { if (storageBlocked) throw Error('blocked'); return JSON.stringify(saved); },
+    setItem(key, value) { if (storageBlocked) throw Error('blocked'); writes.push({key, value: JSON.parse(value)}); }
+  };
   vm.runInNewContext(source, {
     window, document, localStorage,
     MutationObserver: class { constructor(callback) { observer = callback; } observe() {} },
@@ -46,7 +50,7 @@ function harness({ voices = [legacy, natural], saved = {}, storageBlocked = fals
     clearTimeout(id) { timers.delete(id); }
   });
   return {
-    window, document, synthesis, events, windowEvents, calls, status, panel, timers,
+    window, document, synthesis, events, windowEvents, calls, status, panel, timers, writes,
     mutate: () => observer(),
     voices(value) { voices = value; voiceEvents.voiceschanged(); },
     tick(ms) {
@@ -107,7 +111,7 @@ function button(text = 'curriculum', rate = 0.9) {
   assert.equal(empty.calls.spoken[1].voice.voiceURI, 'natural');
 }
 {
-  const h = harness({ online: false });
+  const h = harness({ online: false, voices: [legacy, remote] });
   h.window.speakEnglish('Hello.');
   assert.equal(h.calls.spoken[0].voice.voiceURI, 'legacy', 'Offline mode must use an installed local voice');
 }
@@ -141,22 +145,110 @@ function button(text = 'curriculum', rate = 0.9) {
   assert.equal(b['aria-pressed'], 'false');
   assert.equal(h.timers.size, 0);
 }
-// Missing starts, errors, and lost end events must reset the button and show a useful retry message.
+// Automatic mode prioritizes a working local voice over an unverified online listing.
 {
-  const h = harness(), b = button();
+  const h = harness({ voices: [remote, legacy] });
+  h.window.speakEnglish('Hello.');
+  assert.equal(h.calls.spoken[0].voice.voiceURI, 'legacy');
+  const mislabeled = harness({ voices: [{ ...remote, localService: true }, legacy] });
+  mislabeled.window.speakEnglish('Hello.');
+  assert.equal(mislabeled.calls.spoken[0].voice.voiceURI, 'legacy', 'Online names must not be treated as installed local voices');
+  const enhanced = { ...legacy, name: 'Daniel', voiceURI: 'com.apple.voice.enhanced.en-GB.Daniel' };
+  const apple = harness({ voices: [legacy, enhanced] });
+  apple.window.speakEnglish('Hello.');
+  assert.equal(apple.calls.spoken[0].voice.voiceURI, enhanced.voiceURI);
+}
+// Reproduce Edge's listed Aria Online voice never starting, then fall back from the beginning.
+{
+  const h = harness({ voices: [remote, legacy], saved: { voiceURI: remote.voiceURI, rate: 0.8 } });
+  const b = button('First sentence. Second sentence.', 0.8);
+  h.click(b);
+  const old = h.calls.spoken[0];
+  assert.equal(old.voice.voiceURI, remote.voiceURI);
+  h.tick(9999);
+  assert.equal(h.calls.spoken.length, 1, 'Allow slow online voice startup');
+  h.tick(1);
+  assert.match(h.status.textContent, /在线音色无法播放.*本地/);
+  assert.equal(h.panel.open, true);
+  h.tick(120);
+  assert.equal(h.calls.spoken[1].voice.voiceURI, legacy.voiceURI);
+  assert.equal(h.calls.spoken[1].text, 'First sentence.');
+  assert.equal(h.calls.spoken[1].rate, 0.8);
+  assert.equal(h.writes.at(-1).value.voiceURI, legacy.voiceURI);
+  old.onend(); old.onerror({ error: 'network' });
+  assert.equal(b.textContent, 'Stop', 'Late failed-voice events must not clear fallback');
+  h.start(); h.end();
+  assert.equal(h.calls.spoken.at(-1).text, 'Second sentence.');
+  h.start(); h.end();
+  assert.equal(b.textContent, 'Listen');
+  assert.match(h.status.textContent, /已切换为本地/);
+  h.click(b);
+  assert.equal(h.calls.spoken.at(-1).voice.voiceURI, legacy.voiceURI, 'Next click must retain local fallback');
+  h.window.stopEnglish();
+}
+// A network error after part of an answer must replay the entire answer, never only the last half.
+{
+  const h = harness({ voices: [remote, legacy], saved: { voiceURI: remote.voiceURI } });
+  const b = button('First sentence. Second sentence.');
+  h.click(b); h.start(); h.end(); h.start();
+  h.calls.spoken.at(-1).onerror({ error: 'network' });
+  h.tick(120);
+  assert.equal(h.calls.spoken.at(-1).text, 'First sentence.');
+  assert.equal(h.calls.spoken.at(-1).voice.voiceURI, legacy.voiceURI);
+  h.start(); h.end(); h.start(); h.end();
+  assert.deepEqual(h.calls.spoken.slice(-2).map(x => x.text), ['First sentence.', 'Second sentence.']);
+  assert.equal(h.timers.size, 0);
+}
+// Stop during a fallback delay cannot resurrect playback; each request retries at most once.
+{
+  const h = harness({ voices: [remote, legacy, natural], saved: { voiceURI: remote.voiceURI } });
+  const b = button();
+  h.click(b); h.calls.spoken.at(-1).onerror({ error: 'network' });
+  h.click(b); h.tick(120);
+  assert.equal(h.calls.spoken.length, 1);
+  h.click(b); h.calls.spoken.at(-1).onerror({ error: 'synthesis-failed' });
+  h.tick(120);
+  const count = h.calls.spoken.length;
+  h.calls.spoken.at(-1).onerror({ error: 'synthesis-failed' });
+  h.tick(10000);
+  assert.equal(h.calls.spoken.length, count, 'Never retry indefinitely');
+  assert.equal(b.textContent, 'Listen');
+  assert.equal(h.timers.size, 0);
+}
+// Missing local voices and blocked permissions produce actionable errors, not futile retries.
+{
+  const h = harness({ voices: [remote], saved: { voiceURI: remote.voiceURI } }), b = button();
+  h.click(b); h.tick(10000);
+  assert.equal(h.calls.spoken.length, 1);
+  assert.match(h.status.textContent, /安装英语语音/);
+  assert.equal(b.textContent, 'Listen');
+  const blocked = harness({ voices: [remote, legacy], saved: { voiceURI: remote.voiceURI } });
+  blocked.click(b); blocked.calls.spoken[0].onerror({ error: 'not-allowed' }); blocked.tick(10000);
+  assert.equal(blocked.calls.spoken.length, 1);
+  assert.match(blocked.status.textContent, /声音权限/);
+}
+// Slow but successful online startup must not be canceled by the watchdog.
+{
+  const h = harness({ voices: [remote, legacy], saved: { voiceURI: remote.voiceURI } });
+  h.window.speakEnglish('Hello.'); h.tick(8000); h.start(); h.tick(3000);
+  assert.equal(h.calls.spoken.length, 1);
+  h.end();
+  assert.equal(h.timers.size, 0);
+}
+// Local failures, missing starts and lost end events still terminate with a useful message.
+{
+  const h = harness({ voices: [legacy] }), b = button();
   h.click(b); h.tick(5000);
   assert.equal(b.textContent, 'Listen');
   assert.match(h.status.textContent, /未能启动/);
   assert.equal(h.panel.open, true);
-  h.click(b); h.start(); h.calls.spoken.at(-1).onerror({ error: 'network' });
-  assert.match(h.status.textContent, /播放失败/);
   h.click(b); h.start(); h.tick(25000);
   assert.match(h.status.textContent, /播放中断/);
   assert.equal(h.timers.size, 0);
   h.synthesis.speak = () => { throw Error('engine failure'); };
   h.click(b);
   assert.equal(b.textContent, 'Listen');
-  assert.match(h.status.textContent, /播放失败/);
+  assert.match(h.status.textContent, /语音/);
 }
 // Navigation, backgrounding and explicit stop cancel the entire answer, not just its current sentence.
 for (const action of ['removed', 'hidden', 'pagehide', 'stop']) {
@@ -198,4 +290,4 @@ for (let id = 1; id <= 100; id++) {
     clips++;
   }
 }
-console.log(`Pronunciation QA: PASS (${clips} clips across 100 days; natural voice preference, mobile first click, cancellation races, replay, timeouts, complete long answers and lifecycle cleanup)`);
+console.log(`Pronunciation QA: PASS (${clips} clips across 100 days; natural voice preference, mobile first click, Edge online voice failure, bounded local fallback, cancellation races, replay, timeouts, complete long answers and lifecycle cleanup)`);

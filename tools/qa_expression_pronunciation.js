@@ -10,7 +10,7 @@ function mockSpeech() {
   const voices = [
     { name: 'Chinese', voiceURI: 'chinese', lang: 'zh-CN', default: true, localService: true },
     { name: 'Legacy English', voiceURI: 'legacy', lang: 'en-GB', localService: true },
-    { name: 'US Natural', voiceURI: 'natural-us', lang: 'en-US', localService: false },
+    { name: 'Microsoft Aria Online (Natural)', voiceURI: 'natural-us', lang: 'en-US', localService: false },
     { name: 'British Enhanced', voiceURI: 'enhanced-gb', lang: 'en-GB', localService: true }
   ];
   const calls = { spoken: [], current: null, cancel: 0 };
@@ -28,6 +28,11 @@ function mockSpeech() {
     speak(utterance) {
       calls.current = utterance;
       calls.spoken.push({ text: utterance.text, rate: utterance.rate, lang: utterance.lang, voiceURI: utterance.voice?.voiceURI });
+      if (!utterance.voice?.localService && calls.onlineFailure) {
+        this.pending = true;
+        if (calls.onlineFailure === 'network') setTimeout(() => utterance.onerror({ error: 'network' }), 0);
+        return;
+      }
       this.speaking = true;
       utterance.onstart();
     },
@@ -48,7 +53,7 @@ function mockSpeech() {
 (async () => {
   let serveLegacyWorker = false;
   const legacyPronunciation = 'window.__legacyPronunciation = true;';
-  const legacyWorker = fs.readFileSync(path.join(root, 'service-worker.js'), 'utf8').replace('ielts-mastery-v3', 'ielts-mastery-v2');
+  const legacyWorker = fs.readFileSync(path.join(root, 'service-worker.js'), 'utf8').replace('ielts-mastery-v4', 'ielts-mastery-v3');
   const server = http.createServer((req, res) => {
     const file = path.resolve(root, '.' + decodeURIComponent(req.url.split('?')[0] === '/' ? '/index.html' : req.url.split('?')[0]));
     if (!file.startsWith(root + path.sep)) { res.writeHead(403).end(); return; }
@@ -90,6 +95,25 @@ function mockSpeech() {
     await page.locator('#pronunciation-settings > summary').click();
     await page.locator('#pronunciation-voice').selectOption('');
     await page.locator('#pronunciation-rate').selectOption('0.9');
+
+    // Reproduce the reported Edge Aria Online timeout and verify one complete local replay.
+    await page.evaluate(() => { window.__speech.onlineFailure = 'stall'; });
+    await page.locator('#pronunciation-voice').selectOption('natural-us');
+    await page.locator('.audio-preview').click();
+    assert.equal(await page.evaluate(() => window.__speech.current.voice.voiceURI), 'natural-us');
+    await page.waitForFunction(() => window.__speech.current?.voice.voiceURI === 'enhanced-gb', { timeout: 15000 });
+    assert.match(await page.locator('#pronunciation-status').textContent(), /在线音色无法播放.*本地/);
+    assert.equal(await page.locator('#pronunciation-voice').inputValue(), 'enhanced-gb');
+    assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem('ieltsPronunciationV1')).voiceURI), 'enhanced-gb');
+    assert.equal(await page.evaluate(() => window.__speech.current.text), 'Hello!');
+    await page.locator('.audio-preview').click();
+    // Manual re-selection can retry the online voice, but a network error also falls back.
+    await page.evaluate(() => { window.__speech.onlineFailure = 'network'; });
+    await page.locator('#pronunciation-voice').selectOption('natural-us');
+    await page.locator('.audio-preview').click();
+    await page.waitForFunction(() => window.__speech.current?.voice.voiceURI === 'enhanced-gb');
+    await page.locator('.audio-preview').click();
+    await page.locator('#pronunciation-voice').selectOption('');
 
     // Every existing audio button must bind only the full English source, including translated lessons.
     for (let id = 1; id <= 100; id++) {
@@ -139,9 +163,9 @@ function mockSpeech() {
 
     const firstWord = page.locator('#vocabulary [data-pronounce]').first();
     await firstWord.click();
-    await page.evaluate(() => { window.__speech.current.onerror({ error: 'network' }); });
+    await page.evaluate(() => { window.__speech.current.onerror({ error: 'not-allowed' }); });
     assert.equal(await page.locator('#pronunciation-settings').getAttribute('open'), '');
-    assert.match(await page.locator('#pronunciation-status').textContent(), /播放失败/);
+    assert.match(await page.locator('#pronunciation-status').textContent(), /浏览器未允许播放/);
     await firstWord.click();
     await page.evaluate(() => { location.hash = 'home'; });
     await page.locator('.hero').waitFor();
@@ -165,7 +189,7 @@ function mockSpeech() {
     assert.deepEqual(errors, []);
     await context.close();
 
-    // Real service-worker lifecycle: an existing v2 installation must receive the v3 app cache.
+    // Real service-worker lifecycle: an existing v3 installation must receive the v4 app cache.
     serveLegacyWorker = true;
     const pwaContext = await browser.newContext();
     await pwaContext.addInitScript(() => {
@@ -173,14 +197,14 @@ function mockSpeech() {
     });
     const pwa = await pwaContext.newPage();
     await pwa.goto(`${base}/#day-001`);
-    await pwa.waitForFunction(async () => navigator.serviceWorker.controller && (await caches.keys()).includes('ielts-mastery-v2'));
+    await pwa.waitForFunction(async () => navigator.serviceWorker.controller && (await caches.keys()).includes('ielts-mastery-v3'));
     await pwa.waitForFunction(() => Number(sessionStorage.getItem('qaPwaLoads')) >= 2 && document.readyState === 'complete');
     assert.equal(await pwa.locator('#pronunciation-settings').count(), 0, 'Existing installation should start with old speech code');
     serveLegacyWorker = false;
     await pwa.evaluate(() => { navigator.serviceWorker.ready.then(registration => registration.update()); });
     await pwa.waitForFunction(async () => {
       const keys = await caches.keys();
-      return keys.includes('ielts-mastery-v3') && !keys.includes('ielts-mastery-v2');
+      return keys.includes('ielts-mastery-v4') && !keys.includes('ielts-mastery-v3');
     });
     await pwa.waitForFunction(async () => {
       const response = await caches.match('./js/pronunciation.js');
@@ -190,7 +214,7 @@ function mockSpeech() {
     await pwa.reload();
     await pwa.locator('#pronunciation-settings').waitFor();
     await pwaContext.close();
-    console.log('Pronunciation browser QA: PASS (4,700 full English bindings, natural voice ranking, settings persistence, rapid switching, complete answer playback, stop/collapse/navigation, errors, mobile/tablet/desktop and v2→v3 offline cache upgrade)');
+    console.log('Pronunciation browser QA: PASS (4,700 full English bindings, natural voice ranking, settings persistence, Edge Aria timeout/network failure and local fallback, rapid switching, complete answer playback, stop/collapse/navigation, errors, mobile/tablet/desktop and v3→v4 offline cache upgrade)');
 
     // Probe the real browser engine separately; mocks cannot verify audio quality or audibility.
     const native = await browser.newPage();

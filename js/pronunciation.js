@@ -7,6 +7,7 @@
   const DEFAULT_RATE = 0.9;
   let englishVoices = [];
   let playback = null;
+  const failedVoices = new Set();
   let settings = { voiceURI: '', rate: DEFAULT_RATE };
   try {
     const saved = JSON.parse(localStorage.getItem(SETTINGS_KEY) || '{}');
@@ -26,18 +27,34 @@
 
   function voiceScore(voice) {
     // Prefer enhanced/natural voices over legacy local voices, then British English.
-    const name = String(voice.name || '');
+    const name = `${voice.name || ''} ${voice.voiceURI || ''}`;
     const quality = /natural|neural|premium|enhanced|\(advanced\)/i.test(name) ? 100 :
       /google|microsoft.*online/i.test(name) ? 80 : 0;
     return quality + (/^en[-_]gb$/i.test(voice.lang) ? 10 : 0) +
-      (voice.default ? 2 : 0) + (voice.localService ? 1 : 0);
+      (voice.default ? 2 : 0) + (isLocalVoice(voice) ? 1 : 0);
+  }
+
+  function isLocalVoice(voice) {
+    return voice.localService === true && !/online/i.test(`${voice.name || ''} ${voice.voiceURI || ''}`);
+  }
+
+  function voiceKey(voice) {
+    return voice.voiceURI || `${voice.lang}:${voice.name}`;
+  }
+
+  function sortedVoices(voices) {
+    return [...voices].sort((a, b) => voiceScore(b) - voiceScore(a));
   }
 
   function chooseVoice() {
-    const localVoices = englishVoices.filter(voice => voice.localService);
-    const available = window.navigator?.onLine === false && localVoices.length ? localVoices : englishVoices;
-    return available.find(voice => voice.voiceURI === settings.voiceURI) ||
-      [...available].sort((a, b) => voiceScore(b) - voiceScore(a))[0] || null;
+    const available = englishVoices.filter(voice => !failedVoices.has(voiceKey(voice)));
+    const localVoices = sortedVoices(available.filter(isLocalVoice));
+    const requested = available.find(voice => voice.voiceURI === settings.voiceURI);
+    const offline = window.navigator?.onLine === false;
+    if (requested && (isLocalVoice(requested) || !offline)) return requested;
+    // Edge may list Online (Natural) voices that its speech service cannot start.
+    // Installed English voices are the reliable default; online voices remain selectable.
+    return localVoices[0] || (!offline && sortedVoices(available)[0]) || null;
   }
 
   function setStatus(message, reveal = false) {
@@ -77,12 +94,12 @@
     setStatus(message, Boolean(message));
   }
 
-  function finish(session, message = '') {
+  function finish(session, message = session.notice || '') {
     if (playback !== session) return;
     playback = null;
     clearTimers(session);
     setButtonState(session.button, false);
-    setStatus(message);
+    setStatus(message, Boolean(message));
   }
 
   function splitSpeech(text) {
@@ -104,6 +121,38 @@
     return chunks;
   }
 
+  function recoverPlayback(session, message) {
+    if (playback !== session) return;
+    if (session.voice) failedVoices.add(voiceKey(session.voice));
+    const localVoices = sortedVoices(englishVoices.filter(voice =>
+      isLocalVoice(voice) && !failedVoices.has(voiceKey(voice))
+    ));
+    const fallback = localVoices[0];
+    if (session.fallbackUsed || !fallback) {
+      if (!fallback && (!session.voice || !isLocalVoice(session.voice))) {
+        message = '英语语音未能播放，当前设备没有其他可用的本地英语音色。请在系统设置中安装英语语音，或更换浏览器后重试。';
+      }
+      stopEnglish(message);
+      return;
+    }
+    const notice = `${session.voice && !isLocalVoice(session.voice) ? '在线音色' : '原音色'}无法播放，已切换为本地英语音色：${fallback.name}。`;
+    // Use a new session so late callbacks from the failed voice cannot cancel the retry.
+    const replacement = {
+      button: session.button, chunks: session.chunks, index: 0,
+      voice: fallback, rate: session.rate, fallbackUsed: true, notice
+    };
+    stopEnglish();
+    if (settings.voiceURI) {
+      settings.voiceURI = fallback.voiceURI;
+      saveSettings();
+    }
+    updateVoiceOptions();
+    playback = replacement;
+    setButtonState(replacement.button, true);
+    setStatus(`${notice}正在从头重播…`, true);
+    replacement.nextTimer = setTimeout(() => speakChunk(replacement), 120);
+  }
+
   function speakChunk(session) {
     if (playback !== session) return;
     const utterance = new window.SpeechSynthesisUtterance(session.chunks[session.index]);
@@ -117,7 +166,7 @@
     const started = () => {
       if (playback !== session || session.utterance !== utterance) return;
       clearTimeout(session.startTimer);
-      setStatus('正在播放 · 再点一次停止');
+      setStatus(`${session.notice || ''}正在播放 · 再点一次停止`);
     };
     utterance.onstart = started;
     utterance.onboundary = started;
@@ -130,16 +179,19 @@
     };
     utterance.onerror = event => {
       if (playback !== session || session.utterance !== utterance) return;
-      const message = event.error === 'not-allowed' ?
-        '浏览器未允许播放，请再点一次发音按钮。' :
-        '语音播放失败，请重新点击从头播放，或在发音设置中切换英语音色。';
-      stopEnglish(message);
+      if (event.error === 'not-allowed') {
+        stopEnglish('浏览器未允许播放，请直接点击发音按钮重试，并检查此网站的声音权限。');
+      } else if (event.error === 'interrupted' || event.error === 'canceled') {
+        stopEnglish('语音播放被中断，请重新点击从头播放。');
+      } else {
+        recoverPlayback(session, '语音播放失败，请重新点击从头播放，或切换其他本地英语音色。');
+      }
     };
     session.startTimer = setTimeout(() => {
       if (playback === session && session.utterance === utterance) {
-        stopEnglish('语音未能启动，请重新点击，或在发音设置中切换英语音色。');
+        recoverPlayback(session, '语音未能启动，请重新点击，或切换其他本地英语音色。');
       }
-    }, 5000);
+    }, session.voice && !isLocalVoice(session.voice) ? 10000 : 5000);
     session.endTimer = setTimeout(() => {
       if (playback === session && session.utterance === utterance) {
         stopEnglish('语音播放中断，请重新点击从头播放。');
@@ -149,7 +201,7 @@
       if (synthesis.paused) synthesis.resume();
       synthesis.speak(utterance);
     } catch (_) {
-      stopEnglish('语音播放失败，请重新点击，或切换英语音色。');
+      recoverPlayback(session, '语音播放失败，请重新点击，或切换其他本地英语音色。');
     }
   }
 
@@ -181,9 +233,9 @@
   function updateVoiceOptions() {
     const select = document.getElementById('pronunciation-voice');
     if (!select) return;
-    const choices = [{ value: '', label: '自动选择自然英语音色' },
+    const choices = [{ value: '', label: '自动选择（优先本地英语音色）' },
       ...[...englishVoices].sort((a, b) => voiceScore(b) - voiceScore(a)).map(voice => ({
-        value: voice.voiceURI, label: `${voice.name} (${voice.lang})`
+        value: voice.voiceURI, label: `${voice.name} (${voice.lang}) · ${isLocalVoice(voice) ? '本地' : '在线，需联网'}`
       }))];
     const signature = JSON.stringify(choices);
     if (select.dataset.choices !== signature) {
@@ -214,7 +266,7 @@
         </select></label>
         <button type="button" class="ghost audio-preview">试听音色</button>
       </div>
-      <p class="audio-settings-note">设置适用于全部课程的单词、搭配、例句和口语答案，并保存在此设备。可用音色由设备提供；增强音色通常更自然，在线音色需要网络。</p>
+      <p class="audio-settings-note">设置适用于全部课程，并保存在此设备。默认优先使用本地英语音色；在线音色需要网络，无法播放时会尝试切换本地音色并从头重播。</p>
       <p id="pronunciation-status" role="status" aria-live="polite"></p>`;
     header.after(panel);
     const voiceSelect = panel.querySelector('#pronunciation-voice');
@@ -224,6 +276,8 @@
     voiceSelect.addEventListener('change', () => {
       stopEnglish();
       settings.voiceURI = voiceSelect.value;
+      const chosen = englishVoices.find(voice => voice.voiceURI === settings.voiceURI);
+      if (chosen) failedVoices.delete(voiceKey(chosen));
       saveSettings();
     });
     rateSelect.addEventListener('change', () => {
