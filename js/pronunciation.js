@@ -5,6 +5,11 @@
   const supported = Boolean(synthesis && window.SpeechSynthesisUtterance);
   const SETTINGS_KEY = 'ieltsPronunciationV1';
   const DEFAULT_RATE = 0.9;
+  // Speech engines need a short gap after cancel()/end before the next utterance;
+  // starting sooner clips the beginning of the replay or drops it entirely.
+  const SETTLE_MS = 300;
+  const MAX_RESTARTS = 2;
+  let lastStopAt = 0;
   let englishVoices = [];
   let playback = null;
   const failedVoices = new Set();
@@ -90,13 +95,33 @@
     }
     if (supported && (previous || synthesis.speaking || synthesis.pending || synthesis.paused)) {
       synthesis.cancel();
+      lastStopAt = Date.now();
     }
     setStatus(message, Boolean(message));
+  }
+
+  function settleDelay() {
+    return Math.max(0, SETTLE_MS - (Date.now() - lastStopAt));
+  }
+
+  // Replay the current chunk after the engine has settled. Used when a stale
+  // cancel() swallows a freshly queued utterance (common on repeat clicks).
+  function restartChunk(session) {
+    if (playback !== session) return false;
+    if ((session.restarts || 0) >= MAX_RESTARTS) return false;
+    session.restarts = (session.restarts || 0) + 1;
+    clearTimers(session);
+    session.utterance = null;
+    if (synthesis.speaking || synthesis.pending) synthesis.cancel();
+    lastStopAt = Date.now();
+    session.nextTimer = setTimeout(() => speakChunk(session), SETTLE_MS);
+    return true;
   }
 
   function finish(session, message = session.notice || '') {
     if (playback !== session) return;
     playback = null;
+    lastStopAt = Date.now();
     clearTimers(session);
     setButtonState(session.button, false);
     setStatus(message, Boolean(message));
@@ -150,11 +175,14 @@
     playback = replacement;
     setButtonState(replacement.button, true);
     setStatus(`${notice}正在从头重播…`, true);
-    replacement.nextTimer = setTimeout(() => speakChunk(replacement), 120);
+    replacement.nextTimer = setTimeout(() => speakChunk(replacement), SETTLE_MS);
   }
 
   function speakChunk(session) {
     if (playback !== session) return;
+    // The engine can still be flushing the previous playback even after its end
+    // event; queueing behind it would clip or drop this utterance.
+    if (session.index === 0 && (synthesis.speaking || synthesis.pending) && restartChunk(session)) return;
     const utterance = new window.SpeechSynthesisUtterance(session.chunks[session.index]);
     // A strong reference is needed until onend, especially on Safari/iOS.
     session.utterance = utterance;
@@ -182,6 +210,9 @@
       if (event.error === 'not-allowed') {
         stopEnglish('浏览器未允许播放，请直接点击发音按钮重试，并检查此网站的声音权限。');
       } else if (event.error === 'interrupted' || event.error === 'canceled') {
+        // Not user-initiated (that path clears `playback` first): a late cancel
+        // from the previous playback hit this utterance, so replay it.
+        if (restartChunk(session)) return;
         stopEnglish('语音播放被中断，请重新点击从头播放。');
       } else {
         recoverPlayback(session, '语音播放失败，请重新点击从头播放，或切换其他本地英语音色。');
@@ -207,7 +238,6 @@
 
   function speakEnglish(text, rate, button) {
     if (!supported || !String(text || '').trim()) return false;
-    const replacing = Boolean(playback || synthesis.speaking || synthesis.pending || synthesis.paused);
     stopEnglish();
     refreshVoices();
     const session = {
@@ -220,8 +250,10 @@
     playback = session;
     setButtonState(session.button, true);
     setStatus('正在准备语音…');
-    // Let cancellation settle before replacing speech; idle first clicks stay synchronous.
-    if (replacing) session.nextTimer = setTimeout(() => speakChunk(session), 120);
+    // Let the previous playback settle before speaking again; idle first clicks stay
+    // synchronous so the browser still sees them as a direct user gesture.
+    const delay = settleDelay();
+    if (delay > 0) session.nextTimer = setTimeout(() => speakChunk(session), delay);
     else speakChunk(session);
     return true;
   }
