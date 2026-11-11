@@ -444,7 +444,7 @@
         "type": "True / False / Not Given",
         "prompt": "Rooms in many earlier homes often had more than one function.",
         "answer": "True",
-        "explanation": "Paragraph 1 describes spaces used for work, meals and sleep."
+        "explanation": "Paragraph A describes spaces used for work, meals and sleep."
       },
       {
         "type": "Matching Information",

@@ -464,7 +464,7 @@
         "type": "True / False / Not Given",
         "prompt": "Physical distance from work always produces psychological detachment.",
         "answer": "False",
-        "explanation": "Paragraph 1 distinguishes the two and says leaving does not guarantee recovery."
+        "explanation": "Paragraph A distinguishes the two and says leaving does not guarantee recovery."
       },
       {
         "type": "Matching Information",

@@ -448,19 +448,19 @@
         "type": "Matching Headings",
         "prompt": "Choose the best heading for paragraph 2.",
         "answer": "The historical evidence lost through visual unity",
-        "explanation": "Paragraph 2 describes later additions being removed."
+        "explanation": "Paragraph B describes later additions being removed."
       },
       {
         "type": "Yes / No / Not Given",
         "prompt": "The writer opposes every modern alteration to a historic building.",
         "answer": "No",
-        "explanation": "Paragraph 4 describes balancing access and significance."
+        "explanation": "Paragraph D describes balancing access and significance."
       },
       {
         "type": "Short Answer",
         "prompt": "What should happen to hypothetical elements in a digital reconstruction?",
         "answer": "They should be clearly marked.",
-        "explanation": "Paragraph 3 states this."
+        "explanation": "Paragraph C states this."
       }
     ],
     "titleTranslation": "被修复到一个从未存在过的年代的建筑",

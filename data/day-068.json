@@ -468,7 +468,7 @@
         "type": "Multiple Choice",
         "prompt": "Why can multifunctional lamp-posts be harder to repair?",
         "answer": "B",
-        "explanation": "Paragraph 2 explains that several departments, specialists and contracts may be involved.",
+        "explanation": "Paragraph B explains that several departments, specialists and contracts may be involved.",
         "options": [
           "They always use experimental bulbs.",
           "Responsibility may be divided among several parties.",
@@ -480,13 +480,13 @@
         "type": "True / False / Not Given",
         "prompt": "Privacy specialists recommend collecting all available data in case it becomes useful later.",
         "answer": "False",
-        "explanation": "Paragraph 3 recommends collecting the least detailed data needed for a defined question."
+        "explanation": "Paragraph C recommends collecting the least detailed data needed for a defined question."
       },
       {
         "type": "Sentence Completion",
         "prompt": "Data-driven planning can be representative only if the network producing its evidence is also ______.",
         "answer": "representative",
-        "explanation": "Paragraph 4 states that planning is only as representative as the data network."
+        "explanation": "Paragraph D states that planning is only as representative as the data network."
       }
     ],
     "titleTranslation": "当智慧灯柱身兼数职",

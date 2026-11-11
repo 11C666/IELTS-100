@@ -476,7 +476,7 @@
         "type": "Sentence Completion",
         "prompt": "During evaluation, teams make criteria such as cost, safety and user need ______.",
         "answer": "explicit",
-        "explanation": "Paragraph 3 uses the word “explicit”."
+        "explanation": "Paragraph C uses the word “explicit”."
       },
       {
         "type": "Yes / No / Not Given",

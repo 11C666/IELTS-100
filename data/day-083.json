@@ -451,7 +451,7 @@
         "type": "Matching Headings",
         "prompt": "Choose the best heading for paragraph 2.",
         "answer": "C",
-        "explanation": "Paragraph 2 explains how work schedules and childcare create hidden access limits.",
+        "explanation": "Paragraph B explains how work schedules and childcare create hidden access limits.",
         "options": [
           "A costly railway solution",
           "Why workers prefer driving",
@@ -469,7 +469,7 @@
         "type": "Short Answer",
         "prompt": "What information did employers provide to help the second city revise buses?",
         "answer": "shift times",
-        "explanation": "Paragraph 3 states that employers supplied shift times."
+        "explanation": "Paragraph C states that employers supplied shift times."
       }
     ],
     "titleTranslation": "通往机会的更短路程",

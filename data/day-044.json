@@ -472,7 +472,7 @@
         "type": "True / False / Not Given",
         "prompt": "A high satisfaction score proves that housing conditions are acceptable.",
         "answer": "False",
-        "explanation": "Paragraph 4 warns that satisfaction should not excuse unsafe housing."
+        "explanation": "Paragraph D warns that satisfaction should not excuse unsafe housing."
       },
       {
         "type": "Summary Completion",

@@ -452,7 +452,7 @@
         "type": "True / False / Not Given",
         "prompt": "A museum label can include every relevant fact about an object.",
         "answer": "False",
-        "explanation": "Paragraph 1 says omission is unavoidable."
+        "explanation": "Paragraph A says omission is unavoidable."
       },
       {
         "type": "Multiple Choice",

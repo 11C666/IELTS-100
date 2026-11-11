@@ -464,7 +464,7 @@
         "type": "Summary Completion",
         "prompt": "Complete the summary: Station areas gained more housing, but rising ______ pushed some bus-dependent tenants farther away.",
         "answer": "rents",
-        "explanation": "Paragraph 3 identifies faster-rising rents as the cause."
+        "explanation": "Paragraph C identifies faster-rising rents as the cause."
       },
       {
         "type": "Yes / No / Not Given",

@@ -444,7 +444,7 @@
         "type": "True / False / Not Given",
         "prompt": "People always estimate accurately when they have completed a similar task before.",
         "answer": "False",
-        "explanation": "Paragraph 1 says underestimation continues despite past experience."
+        "explanation": "Paragraph A says underestimation continues despite past experience."
       },
       {
         "type": "Multiple Choice",
@@ -456,7 +456,7 @@
           "It always includes coordination time."
         ],
         "answer": "B",
-        "explanation": "Paragraph 2 describes an ideal process without interruptions."
+        "explanation": "Paragraph B describes an ideal process without interruptions."
       },
       {
         "type": "Sentence Completion",

@@ -460,13 +460,13 @@
         "type": "Yes / No / Not Given",
         "prompt": "Earlier permit systems treated wells and river diversions as connected uses of one resource.",
         "answer": "No",
-        "explanation": "Paragraph 2 states that planners treated groundwater and river water as separate accounts."
+        "explanation": "Paragraph B states that planners treated groundwater and river water as separate accounts."
       },
       {
         "type": "Multiple Choice",
         "prompt": "Why can more efficient irrigation still reduce downstream flow?",
         "answer": "D",
-        "explanation": "Paragraph 3 explains that saved water may support expanded cultivation and former leakage may have returned to the system.",
+        "explanation": "Paragraph C explains that saved water may support expanded cultivation and former leakage may have returned to the system.",
         "options": [
           "Sealed pipes increase evaporation immediately.",
           "Efficient systems require larger riverside wells.",
@@ -478,7 +478,7 @@
         "type": "Sentence Completion",
         "prompt": "The authority compares satellite estimates with well readings and river ______.",
         "answer": "gauges",
-        "explanation": "Paragraph 4 lists river gauges."
+        "explanation": "Paragraph D lists river gauges."
       }
     ],
     "titleTranslation": "消失在田地下方的河流",

@@ -456,7 +456,7 @@
         "type": "True / False / Not Given",
         "prompt": "Weak neighbourhood ties require close personal friendship.",
         "answer": "False",
-        "explanation": "Paragraph 1 defines them as familiar but not intimate."
+        "explanation": "Paragraph A defines them as familiar but not intimate."
       },
       {
         "type": "Multiple Choice",

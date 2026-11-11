@@ -451,7 +451,7 @@
         "type": "Summary Completion",
         "prompt": "The planned rail station was delayed because construction ______ increased.",
         "answer": "costs",
-        "explanation": "Paragraph 2 says construction costs rose."
+        "explanation": "Paragraph B says construction costs rose."
       },
       {
         "type": "Yes / No / Not Given",

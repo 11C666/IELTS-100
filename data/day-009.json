@@ -310,10 +310,10 @@
       "viewpointTranslation": "电影可以激发人们对历史的兴趣，但不应取代历史研究。",
       "topicSentenceTranslation": "历史电影让过去的事件变得容易理解，但戏剧性的故事讲述可能会扭曲证据。",
       "collocationTranslations": [
-        "将历史带入生活",
-        "发挥创意自由",
+        "让历史变得鲜活",
+        "进行艺术加工",
         "历史准确性",
-        "咨询可靠来源"
+        "查阅可靠资料"
       ],
       "argumentSentences": [
         {
@@ -351,10 +351,10 @@
       "viewpointTranslation": "本地电影制作值得公众支持。",
       "topicSentenceTranslation": "国内电影业可以在创造技术就业的同时保留文化声音。",
       "collocationTranslations": [
-        "支持本地生产",
-        "代表不同的经历",
+        "支持本土影片制作",
+        "呈现多元的经历",
         "创造技能型就业岗位",
-        "接触国际观众"
+        "触达国际观众"
       ],
       "argumentSentences": [
         {
@@ -442,15 +442,15 @@
     "questions": [
       {
         "type": "True / False / Not Given",
-        "prompt": "Dubbing preserves the original actors’ voices.",
-        "answer": "False",
-        "explanation": "Paragraph 1 says dubbing replaces the voices, while subtitles preserve them."
+        "prompt": "Dubbed films cost more to produce than subtitled films.",
+        "answer": "Not Given",
+        "explanation": "Paragraph A compares what each method does for the viewer, but the passage never mentions production costs."
       },
       {
         "type": "Summary Completion",
-        "prompt": "Subtitle text is often shortened because viewers need enough ______ to read it.",
+        "prompt": "Complete the sentence with ONE WORD ONLY from the passage: Subtitles cannot include every word of the dialogue because the audience has limited ______ in which to read them.",
         "answer": "time",
-        "explanation": "Paragraph 3 states this directly."
+        "explanation": "Paragraph C says text must be shortened because viewers need enough time to read while following the image."
       },
       {
         "type": "Matching Headings",

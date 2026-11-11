@@ -460,13 +460,13 @@
         "type": "Matching Headings",
         "prompt": "Choose the best heading for paragraph 3.",
         "answer": "When informal lessons contradict school values",
-        "explanation": "Paragraph 3 shows that exclusion and inconsistent adult behaviour can teach negative lessons."
+        "explanation": "Paragraph C shows that exclusion and inconsistent adult behaviour can teach negative lessons."
       },
       {
         "type": "True / False / Not Given",
         "prompt": "Conventional examinations measure negotiation skills accurately.",
         "answer": "False",
-        "explanation": "Paragraph 2 says such abilities are recorded poorly by conventional examinations."
+        "explanation": "Paragraph B says such abilities are recorded poorly by conventional examinations."
       },
       {
         "type": "Sentence Completion",

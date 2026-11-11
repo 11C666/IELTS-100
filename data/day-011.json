@@ -450,13 +450,13 @@
           "They include too much recovery."
         ],
         "answer": "B",
-        "explanation": "Paragraph 1 explains that ambitious routines create several barriers."
+        "explanation": "Paragraph A explains that ambitious routines create several barriers."
       },
       {
         "type": "True / False / Not Given",
         "prompt": "Gradual training produces faster early results than intense training.",
         "answer": "False",
-        "explanation": "Paragraph 3 says gradual progression produces less dramatic early improvement."
+        "explanation": "Paragraph C says gradual progression produces less dramatic early improvement."
       },
       {
         "type": "Sentence Completion",

@@ -456,7 +456,7 @@
         "type": "True / False / Not Given",
         "prompt": "Annual visitor totals reveal every form of pressure on a trail.",
         "answer": "False",
-        "explanation": "Paragraph 2 says timing, place and behaviour also matter."
+        "explanation": "Paragraph B says timing, place and behaviour also matter."
       },
       {
         "type": "Multiple Choice",

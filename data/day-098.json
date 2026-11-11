@@ -456,7 +456,7 @@
         "type": "Multiple Choice",
         "prompt": "Why might a list of weighted variables be inadequate for an applicant?",
         "answer": "B",
-        "explanation": "Paragraph 2 says technical detail may not give an individual a concise reason or useful next step.",
+        "explanation": "Paragraph B says technical detail may not give an individual a concise reason or useful next step.",
         "options": [
           "It always reveals private training records.",
           "It may not provide a reason linked to practical action.",
@@ -468,13 +468,13 @@
         "type": "True / False / Not Given",
         "prompt": "The writer argues that every technical feature of a fraud-detection model should be published.",
         "answer": "False",
-        "explanation": "Paragraph 3 explains that full publication could enable evasion."
+        "explanation": "Paragraph C explains that full publication could enable evasion."
       },
       {
         "type": "Sentence Completion",
         "prompt": "In a layered approach, independent reviewers may inspect confidential ______ details.",
         "answer": "technical",
-        "explanation": "Paragraph 4 states that reviewers can inspect confidential technical details."
+        "explanation": "Paragraph D states that reviewers can inspect confidential technical details."
       }
     ],
     "titleTranslation": "当解释变成另一个屏幕",

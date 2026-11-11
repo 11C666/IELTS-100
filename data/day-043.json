@@ -452,13 +452,13 @@
         "type": "True / False / Not Given",
         "prompt": "Adding more services always makes a village shop profitable.",
         "answer": "False",
-        "explanation": "Paragraph 2 says added services spread risk, not that they guarantee profit."
+        "explanation": "Paragraph B says added services spread risk, not that they guarantee profit."
       },
       {
         "type": "Matching Headings",
         "prompt": "Choose the best heading for paragraph 4.",
         "answer": "Benefits that conventional accounts do not capture",
-        "explanation": "Paragraph 4 discusses informal social value and transferred costs."
+        "explanation": "Paragraph D discusses informal social value and transferred costs."
       },
       {
         "type": "Sentence Completion",

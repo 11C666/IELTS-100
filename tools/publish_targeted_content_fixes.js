@@ -27,7 +27,9 @@ for (const [id, day] of Object.entries(days)) {
 // never search for a semicolon because lesson text may legitimately contain one.
 const contentFile = path.join(root, 'js', 'content.js');
 let content = fs.readFileSync(contentFile, 'utf8');
-const staticStart = content.indexOf('window.IELTS_DAYS[2]=');
+// Start at the Day 001 JSON assignment when present, so reruns do not duplicate it.
+const dayOneStart = content.indexOf('window.IELTS_DAYS[1]={"id"');
+const staticStart = dayOneStart >= 0 ? dayOneStart : content.indexOf('window.IELTS_DAYS[2]=');
 if (staticStart < 0) throw new Error('Missing static Day 002 marker in content.js');
 const staticTail = [1, 2, 3].map(id => `window.IELTS_DAYS[${id}]=${JSON.stringify(readStaticDay(id))};`).join('\n');
 content = content.slice(0, staticStart) + staticTail + '\n/* STATIC_TRANSLATED_DAYS_001_003_END */\n';

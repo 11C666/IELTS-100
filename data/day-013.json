@@ -440,13 +440,13 @@
         "type": "Yes / No / Not Given",
         "prompt": "The writer believes every discounted purchase is irrational.",
         "answer": "No",
-        "explanation": "Paragraph 3 gives examples of reasonable discounted purchases."
+        "explanation": "Paragraph C gives examples of reasonable discounted purchases."
       },
       {
         "type": "Sentence Completion",
         "prompt": "A deadline suggests that delaying a purchase has a ______.",
         "answer": "cost",
-        "explanation": "Paragraph 2 states this directly."
+        "explanation": "Paragraph B states this directly."
       },
       {
         "type": "Multiple Choice",

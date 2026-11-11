@@ -470,7 +470,7 @@
         "type": "True / False / Not Given",
         "prompt": "Conversation analysts say listeners should normally correct a speaker directly.",
         "answer": "False",
-        "explanation": "Paragraph 2 says speakers generally prefer to correct their own talk."
+        "explanation": "Paragraph B says speakers generally prefer to correct their own talk."
       },
       {
         "type": "Short Answer",

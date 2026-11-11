@@ -456,7 +456,7 @@
         "type": "True / False / Not Given",
         "prompt": "Generational boundaries are identical in every country.",
         "answer": "False",
-        "explanation": "Paragraph 1 says they vary."
+        "explanation": "Paragraph A says they vary."
       },
       {
         "type": "Multiple Choice",

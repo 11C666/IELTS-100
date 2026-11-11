@@ -464,7 +464,7 @@
         "type": "True / False / Not Given",
         "prompt": "All adult apprentices are returning to an education they previously abandoned.",
         "answer": "False",
-        "explanation": "Paragraph 1 says many are changing from an established occupation."
+        "explanation": "Paragraph A says many are changing from an established occupation."
       },
       {
         "type": "Multiple Choice",

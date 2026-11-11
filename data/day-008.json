@@ -270,7 +270,7 @@
       "text": "dip into a book",
       "cn": "随手翻阅一本书",
       "example": "It’s a collection of essays, so you can dip into it.",
-      "exampleTranslation": "这是一本论文集，所以可以随意选取其中的篇章翻阅。"
+      "exampleTranslation": "这是一本随笔集，所以可以随手挑几篇翻阅。"
     },
     {
       "text": "broaden my perspective",
@@ -450,19 +450,19 @@
           "Avoiding all digital formats"
         ],
         "answer": "B",
-        "explanation": "Paragraph 1 describes connecting earlier information and revising interpretations."
+        "explanation": "Paragraph A describes connecting a sentence with earlier information and revising an interpretation."
       },
       {
         "type": "Sentence Completion",
-        "prompt": "Following an argument requires readers to hold claims in ______.",
+        "prompt": "Complete the sentence with ONE WORD ONLY from the passage: To follow an argument, a reader has to keep its claims in ______ and see how they relate to one another.",
         "answer": "memory",
-        "explanation": "The answer appears in Paragraph 2."
+        "explanation": "Paragraph B says following an argument requires the reader to hold claims in memory and recognise relationships between them."
       },
       {
         "type": "True / False / Not Given",
-        "prompt": "Researchers have proved that printed texts are always better for comprehension.",
+        "prompt": "Researchers agree that reading on paper leads to better understanding than reading on a screen.",
         "answer": "False",
-        "explanation": "Paragraph 3 states that no medium is always superior."
+        "explanation": "Paragraph C says researchers have not concluded that one medium is always superior."
       }
     ],
     "titleTranslation": "为什么深度阅读需要时间",

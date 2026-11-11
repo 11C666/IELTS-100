@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ielts-mastery-v9';
+const CACHE_NAME = 'ielts-mastery-v10';
 // Clips are named by a hash of their text, so this cache survives app updates.
 const AUDIO_CACHE_NAME = 'ielts-audio-v1';
 const DAY_FILES = Array.from({ length: 100 }, (_, index) =>

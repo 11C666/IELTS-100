@@ -464,7 +464,7 @@
         "type": "Yes / No / Not Given",
         "prompt": "The writer believes a declining programming language leaves no useful knowledge behind.",
         "answer": "No",
-        "explanation": "Paragraph 1 says the logic may remain relevant."
+        "explanation": "Paragraph A says the logic may remain relevant."
       },
       {
         "type": "Multiple Choice",

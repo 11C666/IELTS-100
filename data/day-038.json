@@ -569,7 +569,7 @@
         "type": "True / False / Not Given",
         "prompt": "The writer recommends remaining committed to the first proposed solution.",
         "answer": "False",
-        "explanation": "Paragraph 1 contrasts problem commitment with harmful attachment to the first solution."
+        "explanation": "Paragraph A contrasts problem commitment with harmful attachment to the first solution."
       },
       {
         "type": "Multiple Choice",
@@ -587,7 +587,7 @@
         "type": "Sentence Completion",
         "prompt": "Observed choices usually provide stronger evidence than polite ______.",
         "answer": "opinions",
-        "explanation": "Paragraph 3 uses this comparison."
+        "explanation": "Paragraph C uses this comparison."
       }
     ]
   }

@@ -480,7 +480,7 @@
         "type": "Sentence Completion",
         "prompt": "An incorrect answer can be treated as ______ about a learner’s reasoning.",
         "answer": "evidence",
-        "explanation": "Paragraph 3 says an incorrect answer becomes evidence."
+        "explanation": "Paragraph C says an incorrect answer becomes evidence."
       },
       {
         "type": "Yes / No / Not Given",

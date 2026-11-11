@@ -573,19 +573,19 @@
         "type": "True / False / Not Given",
         "prompt": "Expressing uncertainty necessarily means giving up decision-making authority.",
         "answer": "False",
-        "explanation": "Paragraph 2 explicitly says it does not surrender authority."
+        "explanation": "Paragraph B explicitly says it does not surrender authority."
       },
       {
         "type": "Matching Headings",
         "prompt": "Choose the best heading for paragraph 3.",
         "answer": "Consultation must eventually lead to accountable action",
-        "explanation": "Paragraph 3 balances humility with deadlines, criteria and review."
+        "explanation": "Paragraph C balances humility with deadlines, criteria and review."
       },
       {
         "type": "Short Answer",
         "prompt": "What should leaders compare with the assumptions behind a decision?",
         "answer": "outcomes",
-        "explanation": "Paragraph 3 says they compare outcomes with assumptions."
+        "explanation": "Paragraph C says they compare outcomes with assumptions."
       }
     ]
   }

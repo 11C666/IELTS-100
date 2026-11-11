@@ -569,7 +569,7 @@
         "type": "Yes / No / Not Given",
         "prompt": "The writer believes legal compliance always creates customer understanding.",
         "answer": "No",
-        "explanation": "Paragraph 1 explicitly distinguishes the two."
+        "explanation": "Paragraph A explicitly distinguishes the two."
       },
       {
         "type": "Matching Information",
@@ -581,7 +581,7 @@
         "type": "Short Answer",
         "prompt": "When should a cancellation condition be shown?",
         "answer": "before payment",
-        "explanation": "Paragraph 3 gives this timing directly."
+        "explanation": "Paragraph C gives this timing directly."
       }
     ]
   }

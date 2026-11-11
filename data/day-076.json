@@ -472,13 +472,13 @@
         "type": "True / False / Not Given",
         "prompt": "Building immediately for the most severe projection has no environmental cost.",
         "answer": "False",
-        "explanation": "Paragraph 2 says excessive construction consumes materials and raises emissions."
+        "explanation": "Paragraph B says excessive construction consumes materials and raises emissions."
       },
       {
         "type": "Summary Completion",
         "prompt": "An adaptable design may fail in practice unless future responsibility and ______ are agreed.",
         "answer": "funding",
-        "explanation": "Paragraph 4 names responsibility and funding."
+        "explanation": "Paragraph D names responsibility and funding."
       }
     ],
     "titleTranslation": "为尚未到来的气候规划一座桥",

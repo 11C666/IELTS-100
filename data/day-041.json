@@ -557,7 +557,7 @@
         "type": "True / False / Not Given",
         "prompt": "A short straight-line distance always means a stop is easy to reach.",
         "answer": "False",
-        "explanation": "Paragraph 2 explains that mobility, gradient and pavement condition alter accessibility."
+        "explanation": "Paragraph B explains that mobility, gradient and pavement condition alter accessibility."
       },
       {
         "type": "Matching Information",

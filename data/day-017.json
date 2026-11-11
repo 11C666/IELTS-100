@@ -444,7 +444,7 @@
         "type": "True / False / Not Given",
         "prompt": "All shirts with the same cotton percentage have equal durability.",
         "answer": "False",
-        "explanation": "Paragraph 1 explains that construction creates different performance."
+        "explanation": "Paragraph A explains that construction creates different performance."
       },
       {
         "type": "Multiple Choice",
@@ -456,13 +456,13 @@
           "Labels always show construction quality."
         ],
         "answer": "B",
-        "explanation": "Paragraph 2 lists advertising and shop location."
+        "explanation": "Paragraph B lists advertising and shop location."
       },
       {
         "type": "Short Answer",
         "prompt": "Name one type of damage a durability test could measure. (NO MORE THAN TWO WORDS)",
         "answer": "seam failure",
-        "explanation": "Paragraph 4 lists rubbing, colour loss and seam failure; seam failure fits the limit."
+        "explanation": "Paragraph D lists rubbing, colour loss and seam failure; seam failure fits the limit."
       }
     ],
     "titleTranslation": "标签不能告诉你什么",

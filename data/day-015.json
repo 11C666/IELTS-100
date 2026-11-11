@@ -444,7 +444,7 @@
         "type": "True / False / Not Given",
         "prompt": "Industrial decline affected only factory employees.",
         "answer": "False",
-        "explanation": "Paragraph 1 describes effects on shops, migration and buildings."
+        "explanation": "Paragraph A describes effects on shops, migration and buildings."
       },
       {
         "type": "Matching Headings",
@@ -462,7 +462,7 @@
         "type": "Sentence Completion",
         "prompt": "Regeneration is more credible when local people help decide which ______ are told.",
         "answer": "stories",
-        "explanation": "The answer appears in Paragraph 3."
+        "explanation": "The answer appears in Paragraph C."
       }
     ],
     "titleTranslation": "当工厂小镇找到新目标时",
