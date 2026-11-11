@@ -472,13 +472,13 @@
         "type": "Yes / No / Not Given",
         "prompt": "The researchers interpreted each isolated pollution peak as reliable evidence.",
         "answer": "No",
-        "explanation": "Paragraph 3 says they combined repeated journeys rather than one dramatic peak."
+        "explanation": "Paragraph C says they combined repeated journeys rather than one dramatic peak."
       },
       {
         "type": "Short Answer",
         "prompt": "What caused carbon dioxide to accumulate in one classroom?",
         "answer": "closed windows",
-        "explanation": "Paragraph 2 explains that the windows remained closed."
+        "explanation": "Paragraph B explains that the windows remained closed."
       }
     ],
     "titleTranslation": "由上学日绘制的污染地图",

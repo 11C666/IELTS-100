@@ -464,7 +464,7 @@
         "type": "True / False / Not Given",
         "prompt": "Smallholders often sell immediately after harvest because local prices are at their highest.",
         "answer": "False",
-        "explanation": "Paragraph 2 says supply is high and prices are low just after harvest."
+        "explanation": "Paragraph B says supply is high and prices are low just after harvest."
       },
       {
         "type": "Matching Information",

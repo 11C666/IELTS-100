@@ -462,13 +462,13 @@
         "type": "Yes / No / Not Given",
         "prompt": "The cooperative charged every farmer the same maintenance fee.",
         "answer": "No",
-        "explanation": "Paragraph 3 says the fee varied with farm size."
+        "explanation": "Paragraph C says the fee varied with farm size."
       },
       {
         "type": "Summary Completion",
         "prompt": "The newer arrangement monitored water use to prevent excessive extraction from the ______.",
         "answer": "aquifer",
-        "explanation": "Paragraph 3 identifies the aquifer as the water source at risk."
+        "explanation": "Paragraph C identifies the aquifer as the water source at risk."
       }
     ],
     "titleTranslation": "乡村太阳能水泵的第二次生命",

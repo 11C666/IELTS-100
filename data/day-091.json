@@ -462,7 +462,7 @@
         "type": "Sentence Completion",
         "prompt": "Suppliers received longer orders in exchange for greater ______.",
         "answer": "disclosure",
-        "explanation": "Paragraph 3 states that guaranteed orders were exchanged for disclosure."
+        "explanation": "Paragraph C states that guaranteed orders were exchanged for disclosure."
       },
       {
         "type": "Multiple Choice",

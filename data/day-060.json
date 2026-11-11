@@ -452,7 +452,7 @@
         "type": "True / False / Not Given",
         "prompt": "Research shows identical effects from lighting in every location.",
         "answer": "False",
-        "explanation": "Paragraph 1 says results differ."
+        "explanation": "Paragraph A says results differ."
       },
       {
         "type": "Multiple Choice",
@@ -470,7 +470,7 @@
         "type": "Sentence Completion",
         "prompt": "Lighting should be treated as one component of place ______.",
         "answer": "management",
-        "explanation": "Paragraph 5 uses this phrase."
+        "explanation": "Paragraph E uses this phrase."
       }
     ],
     "titleTranslation": "当更好的照明并不能减少犯罪时",

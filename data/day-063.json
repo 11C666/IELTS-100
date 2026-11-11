@@ -456,7 +456,7 @@
         "type": "Multiple Choice",
         "prompt": "Why might officials seek further evidence about the road surface?",
         "answer": "B",
-        "explanation": "Paragraph 2 says local conditions may alter performance.",
+        "explanation": "Paragraph B says local conditions may alter performance.",
         "options": [
           "The result was statistically weak.",
           "Weather and equipment may affect performance.",
@@ -474,7 +474,7 @@
         "type": "Yes / No / Not Given",
         "prompt": "The writer believes consultation should determine every scientific question.",
         "answer": "No",
-        "explanation": "Paragraph 4 explicitly rejects this idea."
+        "explanation": "Paragraph D explicitly rejects this idea."
       }
     ],
     "titleTranslation": "为什么证据迟迟没有到达街头",

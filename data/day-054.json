@@ -456,7 +456,7 @@
         "type": "True / False / Not Given",
         "prompt": "Every line drawn beside text indicates admiration.",
         "answer": "False",
-        "explanation": "Paragraph 2 gives several possible meanings."
+        "explanation": "Paragraph B gives several possible meanings."
       },
       {
         "type": "Multiple Choice",

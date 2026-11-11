@@ -455,7 +455,7 @@
         "type": "True / False / Not Given",
         "prompt": "Customers with labelled accounts received a higher interest rate.",
         "answer": "False",
-        "explanation": "Paragraph 2 states that the interest paid was identical."
+        "explanation": "Paragraph B states that the interest paid was identical."
       },
       {
         "type": "Multiple Choice",
@@ -473,7 +473,7 @@
         "type": "Sentence Completion",
         "prompt": "For households facing a broken appliance, using the fund fulfilled the purpose of an emergency ______.",
         "answer": "reserve",
-        "explanation": "Paragraph 3 calls this the precise function of an emergency reserve."
+        "explanation": "Paragraph C calls this the precise function of an emergency reserve."
       }
     ],
     "titleTranslation": "为什么单独账户会改变储蓄行为",

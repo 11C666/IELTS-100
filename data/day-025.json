@@ -464,13 +464,13 @@
         "type": "Matching Headings",
         "prompt": "Choose the best heading for paragraph 3.",
         "answer": "Consistency does not guarantee the right measurement",
-        "explanation": "Paragraph 3 contrasts reliability with validity through the scale and speaking examples."
+        "explanation": "Paragraph C contrasts reliability with validity through the scale and speaking examples."
       },
       {
         "type": "True / False / Not Given",
         "prompt": "Making an examination longer has no disadvantages.",
         "answer": "False",
-        "explanation": "Paragraph 2 says longer exams cause fatigue and cost more."
+        "explanation": "Paragraph B says longer exams cause fatigue and cost more."
       },
       {
         "type": "Summary Completion",

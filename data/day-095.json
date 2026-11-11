@@ -456,7 +456,7 @@
         "type": "True / False / Not Given",
         "prompt": "Every household in the first pilot received an in-person demonstration.",
         "answer": "False",
-        "explanation": "Paragraph 2 says many participants attended an optional demonstration, not every household."
+        "explanation": "Paragraph B says many participants attended an optional demonstration, not every household."
       },
       {
         "type": "Multiple Choice",
@@ -474,7 +474,7 @@
         "type": "Sentence Completion",
         "prompt": "Households receiving energy support were offered assisted ______.",
         "answer": "installation",
-        "explanation": "Paragraph 4 states that the city funded assisted installation for these households."
+        "explanation": "Paragraph D states that the city funded assisted installation for these households."
       }
     ],
     "titleTranslation": "当试点成为政策",

@@ -351,7 +351,7 @@
       "viewpointTranslation": "流媒体扩大了访问范围，但削弱了一些音乐家的收入。",
       "topicSentenceTranslation": "便捷的数字访问改变了录制音乐的价值和融资方式。",
       "collocationTranslations": [
-        "吸引全球观众",
+        "触达全球听众",
         "产生流媒体收入",
         "支持独立艺术家",
         "支付订阅费"
@@ -442,9 +442,9 @@
     "questions": [
       {
         "type": "True / False / Not Given",
-        "prompt": "Before recording, written notation was the only way music could survive.",
-        "answer": "False",
-        "explanation": "Paragraph 1 also mentions memory and repeated performance."
+        "prompt": "Before recording existed, a piece of music sounded slightly different each time it was performed.",
+        "answer": "True",
+        "explanation": "Paragraph A says each version differed slightly and that hearing the same performance twice was impossible."
       },
       {
         "type": "Multiple Choice",
@@ -456,13 +456,13 @@
           "They recorded only in different countries."
         ],
         "answer": "B",
-        "explanation": "Paragraph 2 states that pieces were shortened or reorganised."
+        "explanation": "Paragraph B states that musicians shortened or reorganised pieces to fit the available format."
       },
       {
         "type": "Summary Completion",
-        "prompt": "A studio track became an object in its own right rather than a simple copy of a ______.",
+        "prompt": "Complete the sentence with ONE WORD ONLY from the passage: With studio techniques, a finished recording was no longer just a faithful copy of a live ______.",
         "answer": "performance",
-        "explanation": "The answer appears in Paragraph 3."
+        "explanation": "Paragraph C says the finished track became an object in its own right rather than a transparent copy of a performance."
       }
     ],
     "titleTranslation": "在录制音乐之前",

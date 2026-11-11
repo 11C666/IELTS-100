@@ -444,7 +444,7 @@
         "type": "True / False / Not Given",
         "prompt": "Identical recipes always produce identical results.",
         "answer": "False",
-        "explanation": "Paragraph 1 lists several reasons results vary."
+        "explanation": "Paragraph A lists several reasons results vary."
       },
       {
         "type": "Matching Headings",
@@ -462,7 +462,7 @@
         "type": "Short Answer",
         "prompt": "What should a reduced sauce coat? (NO MORE THAN TWO WORDS)",
         "answer": "a spoon",
-        "explanation": "Paragraph 3 gives this sensory test."
+        "explanation": "Paragraph C gives this sensory test."
       }
     ],
     "titleTranslation": "永远不变的食谱",

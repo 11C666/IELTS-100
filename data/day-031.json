@@ -464,7 +464,7 @@
         "type": "True / False / Not Given",
         "prompt": "Repeated advertising always proves that no suitably skilled workers exist.",
         "answer": "False",
-        "explanation": "Paragraph 1 gives problems with the vacancy itself as alternatives."
+        "explanation": "Paragraph A gives problems with the vacancy itself as alternatives."
       },
       {
         "type": "Matching Information",

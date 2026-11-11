@@ -476,13 +476,13 @@
         "type": "Yes / No / Not Given",
         "prompt": "The writer argues that all community health workers should remain unpaid volunteers.",
         "answer": "No",
-        "explanation": "Paragraph 4 identifies unfair workloads and high turnover associated with unpaid work."
+        "explanation": "Paragraph D identifies unfair workloads and high turnover associated with unpaid work."
       },
       {
         "type": "Summary Completion",
         "prompt": "Good performance was linked more consistently to dependable supplies, supervision and community ______ than to equipment alone.",
         "answer": "trust",
-        "explanation": "Paragraph 3 refers to a trusted relationship with the community."
+        "explanation": "Paragraph C refers to a trusted relationship with the community."
       }
     ],
     "titleTranslation": "社区医护人员的第二次生命",

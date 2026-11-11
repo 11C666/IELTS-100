@@ -244,7 +244,7 @@
       "pattern": "A person may appear + adjective + at first, but + clause.",
       "cn": "一个人起初可能显得……，但……",
       "example": "A person may appear reserved at first, but become very talkative among close friends.",
-      "exampleTranslation": "一个人一开始可能会显得内向，但在亲密朋友中却变得非常健谈。"
+      "exampleTranslation": "一个人起初可能显得拘谨，但在好友面前会变得非常健谈。"
     }
   ],
   "expressions": [
@@ -252,13 +252,13 @@
       "text": "come out of my shell",
       "cn": "变得不再害羞",
       "example": "Joining the drama club helped me come out of my shell.",
-      "exampleTranslation": "加入戏剧俱乐部帮助我摆脱了束缚。"
+      "exampleTranslation": "加入戏剧社让我不再那么害羞。"
     },
     {
       "text": "speak my mind",
       "cn": "坦率表达想法",
       "example": "I speak my mind, but I try not to be rude.",
-      "exampleTranslation": "我说出自己的想法，但我尽量不表现得粗鲁。"
+      "exampleTranslation": "我会直说自己的想法，但尽量不失礼。"
     },
     {
       "text": "keep an open mind",
@@ -270,13 +270,13 @@
       "text": "have a short temper",
       "cn": "脾气急",
       "example": "I had a short temper as a teenager, but I’m calmer now.",
-      "exampleTranslation": "我年轻时脾气暴躁，但现在平静多了。"
+      "exampleTranslation": "我十几岁时脾气很急，但现在平和多了。"
     },
     {
       "text": "be comfortable in my own skin",
       "cn": "对真实的自己感到自在",
       "example": "I’ve become more comfortable in my own skin with age.",
-      "exampleTranslation": "随着年龄的增长，我对自己的皮肤变得越来越舒服。"
+      "exampleTranslation": "随着年龄增长，我越来越能坦然做自己。"
     }
   ],
   "mistakes": [
@@ -311,9 +311,9 @@
       "topicSentenceTranslation": "尽管人们可能生来就有某些倾向，但他们的行为是通过社会经验发展起来的。",
       "collocationTranslations": [
         "天生的倾向",
-        "幼儿期经历",
+        "童年早期经历",
         "适应环境",
-        "培养社会信心"
+        "培养社交自信"
       ],
       "argumentSentences": [
         {
@@ -454,9 +454,9 @@
       },
       {
         "type": "True / False / Not Given",
-        "prompt": "Avoiding eye contact always indicates nervousness.",
-        "answer": "False",
-        "explanation": "Paragraph B provides several possible explanations."
+        "prompt": "Observers tend to notice later behaviour that supports the opinion they have already formed.",
+        "answer": "True",
+        "explanation": "Paragraph B says observers select the explanation that fits their expectations, then notice later behaviour which confirms the original judgement."
       },
       {
         "type": "Short Answer",

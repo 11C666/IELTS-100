@@ -476,13 +476,13 @@
         "type": "True / False / Not Given",
         "prompt": "The students’ first proposal about replacing uniforms was implemented immediately.",
         "answer": "False",
-        "explanation": "Paragraph 4 states that the group abandoned immediate replacement and proposed a phased policy."
+        "explanation": "Paragraph D states that the group abandoned immediate replacement and proposed a phased policy."
       },
       {
         "type": "Short Answer",
         "prompt": "Which group produced the interviews that changed how students viewed factory workers?",
         "answer": "a workers’ association",
-        "explanation": "Paragraph 3 identifies a workers’ association as the producer of the interviews."
+        "explanation": "Paragraph C identifies a workers’ association as the producer of the interviews."
       }
     ],
     "titleTranslation": "一幅边界不断移动的课堂地图",

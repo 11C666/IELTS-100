@@ -456,19 +456,19 @@
         "type": "Matching Headings",
         "prompt": "Choose the best heading for paragraph 4.",
         "answer": "Why corrected information may not reach every earlier reader",
-        "explanation": "Paragraph 4 discusses screenshots, cached pages and quotations."
+        "explanation": "Paragraph D discusses screenshots, cached pages and quotations."
       },
       {
         "type": "Yes / No / Not Given",
         "prompt": "Every spelling correction should receive a formal notice.",
         "answer": "No",
-        "explanation": "Paragraph 2 says spelling fixes may require no notice."
+        "explanation": "Paragraph B says spelling fixes may require no notice."
       },
       {
         "type": "Short Answer",
         "prompt": "What three details should a transparent correction note state?",
         "answer": "what was wrong, what replaced it and when",
-        "explanation": "Paragraph 2 lists these elements."
+        "explanation": "Paragraph B lists these elements."
       }
     ],
     "titleTranslation": "页面底部的更正说明",

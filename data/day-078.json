@@ -464,7 +464,7 @@
         "type": "Summary Completion",
         "prompt": "The first challenge faced by the meadow project was primarily ______ rather than ecological.",
         "answer": "cultural",
-        "explanation": "Paragraph 1 explicitly calls the first challenge cultural."
+        "explanation": "Paragraph A explicitly calls the first challenge cultural."
       },
       {
         "type": "Matching Information",

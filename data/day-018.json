@@ -444,7 +444,7 @@
         "type": "True / False / Not Given",
         "prompt": "Light is described as the strongest external signal for the body clock.",
         "answer": "True",
-        "explanation": "Paragraph 1 states this directly."
+        "explanation": "Paragraph A states this directly."
       },
       {
         "type": "Multiple Choice",
@@ -456,7 +456,7 @@
           "The destination has less artificial light."
         ],
         "answer": "B",
-        "explanation": "Paragraph 2 gives this reason."
+        "explanation": "Paragraph B gives this reason."
       },
       {
         "type": "Summary Completion",

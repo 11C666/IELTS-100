@@ -465,7 +465,7 @@
         "type": "Summary Completion",
         "prompt": "Participants given a scenario table were better at identifying the cheaper account when a headline rate hid a ______.",
         "answer": "fee",
-        "explanation": "Paragraph 2 states that the headline rate concealed a fee."
+        "explanation": "Paragraph B states that the headline rate concealed a fee."
       },
       {
         "type": "Multiple Choice",

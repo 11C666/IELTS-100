@@ -353,7 +353,7 @@
       "collocationTranslations": [
         "解决分歧",
         "尊重地沟通",
-        "包括孤立的学生",
+        "接纳被孤立的学生",
         "培养同理心"
       ],
       "argumentSentences": [
@@ -442,15 +442,15 @@
     "questions": [
       {
         "type": "Yes / No / Not Given",
-        "prompt": "The writer believes digital communication guarantees that long-distance friendships will continue.",
-        "answer": "No",
-        "explanation": "Paragraph 1 says many such friendships still fade despite easy communication."
+        "prompt": "The writer believes that people who move abroad make new friends quickly.",
+        "answer": "Not Given",
+        "explanation": "The passage discusses what happens to existing friendships after a move; it gives no view on how quickly people form new ones."
       },
       {
         "type": "Summary Completion",
-        "prompt": "Classmates build familiarity through repeated ______ interaction.",
-        "answer": "low-cost",
-        "explanation": "Paragraph 2 gives this exact description."
+        "prompt": "Complete the sentence with ONE WORD ONLY from the passage: After one friend relocates, the everyday ______ contact that classmates and colleagues take for granted disappears.",
+        "answer": "background",
+        "explanation": "Paragraph B says that after one person moves, this background contact vanishes."
       },
       {
         "type": "Multiple Choice",
@@ -462,7 +462,7 @@
           "Pretending that routines never change"
         ],
         "answer": "C",
-        "explanation": "Paragraph 3 describes photographs and short recordings used without pressure."
+        "explanation": "Paragraph C describes photographs, short recordings and links sent without pressure to hold a long conversation."
       }
     ],
     "titleTranslation": "为什么有些友谊能够跨越距离",

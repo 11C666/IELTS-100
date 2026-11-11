@@ -455,13 +455,13 @@
         "type": "Sentence Completion",
         "prompt": "For large exporters, paperwork costs are spread across thousands of ______.",
         "answer": "containers",
-        "explanation": "Paragraph 1 provides this comparison."
+        "explanation": "Paragraph A provides this comparison."
       },
       {
         "type": "True / False / Not Given",
         "prompt": "Most first-time export failures involved goods that were legally prohibited.",
         "answer": "False",
-        "explanation": "Paragraph 2 says most failures were not caused by prohibited goods."
+        "explanation": "Paragraph B says most failures were not caused by prohibited goods."
       },
       {
         "type": "Matching Information",

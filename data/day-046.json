@@ -452,7 +452,7 @@
         "type": "True / False / Not Given",
         "prompt": "A pause always indicates that a user approves of a post.",
         "answer": "False",
-        "explanation": "Paragraph 2 lists confusion and offence as other reasons."
+        "explanation": "Paragraph B lists confusion and offence as other reasons."
       },
       {
         "type": "Multiple Choice",
@@ -470,7 +470,7 @@
         "type": "Sentence Completion",
         "prompt": "Controlled accounts cannot reproduce the complete ______ of a real user.",
         "answer": "history",
-        "explanation": "Paragraph 4 uses this limitation."
+        "explanation": "Paragraph D uses this limitation."
       }
     ],
     "titleTranslation": "从一次停顿中学习的信息流",

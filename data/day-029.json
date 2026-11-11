@@ -464,13 +464,13 @@
         "type": "True / False / Not Given",
         "prompt": "Every object in a library of things is related to reading.",
         "answer": "False",
-        "explanation": "Paragraph 1 lists tools, instruments and household equipment."
+        "explanation": "Paragraph A lists tools, instruments and household equipment."
       },
       {
         "type": "Matching Headings",
         "prompt": "Choose the best heading for paragraph 3.",
         "answer": "Wider access accompanied by new responsibilities",
-        "explanation": "Paragraph 3 contrasts access and learning with safety and liability duties."
+        "explanation": "Paragraph C contrasts access and learning with safety and liability duties."
       },
       {
         "type": "Short Answer",

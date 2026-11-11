@@ -444,7 +444,7 @@
         "type": "True / False / Not Given",
         "prompt": "The passage says benches are useful only for older people.",
         "answer": "False",
-        "explanation": "Paragraph 1 lists waiting, conversation, observation and rest for different users."
+        "explanation": "Paragraph A lists waiting, conversation, observation and rest for different users."
       },
       {
         "type": "Multiple Choice",
@@ -456,7 +456,7 @@
           "They block the view of traffic."
         ],
         "answer": "B",
-        "explanation": "Paragraph 2 says hostile design removes users instead of addressing underlying problems."
+        "explanation": "Paragraph B says hostile design removes users instead of addressing underlying problems."
       },
       {
         "type": "Matching Information",

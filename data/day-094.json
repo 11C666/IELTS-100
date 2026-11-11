@@ -460,7 +460,7 @@
         "type": "Multiple Choice",
         "prompt": "Why did early estimates omit the cost of ground repairs?",
         "answer": "B",
-        "explanation": "Paragraph 2 says the surveys were incomplete.",
+        "explanation": "Paragraph B says the surveys were incomplete.",
         "options": [
           "The council rejected all repairs.",
           "The surveys were incomplete.",
@@ -478,7 +478,7 @@
         "type": "Sentence Completion",
         "prompt": "The recommended dashboard would display cost ranges, changes in scope and unresolved ______.",
         "answer": "risks",
-        "explanation": "Paragraph 4 lists unresolved risks."
+        "explanation": "Paragraph D lists unresolved risks."
       }
     ],
     "titleTranslation": "谁应为失败的公共项目负责？",

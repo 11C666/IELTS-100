@@ -476,7 +476,7 @@
         "type": "Yes / No / Not Given",
         "prompt": "One workplace provides enough evidence to judge an entire occupation.",
         "answer": "No",
-        "explanation": "Paragraph 3 says one workplace should not represent the occupation."
+        "explanation": "Paragraph C says one workplace should not represent the occupation."
       },
       {
         "type": "Sentence Completion",

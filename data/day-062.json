@@ -458,13 +458,13 @@
         "type": "True / False / Not Given",
         "prompt": "All companies provide wellbeing support to workers who label disturbing content.",
         "answer": "False",
-        "explanation": "Paragraph 3 says support has improved only in certain projects."
+        "explanation": "Paragraph C says support has improved only in certain projects."
       },
       {
         "type": "Summary Completion",
         "prompt": "Some researchers treat disagreement among reviewers as useful ______ rather than unwanted noise.",
         "answer": "evidence",
-        "explanation": "Paragraph 4 explicitly describes disagreement as useful evidence."
+        "explanation": "Paragraph D explicitly describes disagreement as useful evidence."
       }
     ],
     "titleTranslation": "标记数据的安静工作",

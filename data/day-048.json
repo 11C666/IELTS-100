@@ -452,7 +452,7 @@
         "type": "True / False / Not Given",
         "prompt": "A promotional label is effective whenever it is technically visible.",
         "answer": "False",
-        "explanation": "Paragraph 2 says visible labels may receive little attention."
+        "explanation": "Paragraph B says visible labels may receive little attention."
       },
       {
         "type": "Multiple Choice",
@@ -470,7 +470,7 @@
         "type": "Sentence Completion",
         "prompt": "Disclosure rules can test audience ______ instead of prescribing one permanent design.",
         "answer": "understanding",
-        "explanation": "Paragraph 4 uses this word."
+        "explanation": "Paragraph D uses this word."
       }
     ],
     "titleTranslation": "当广告看起来像建议",

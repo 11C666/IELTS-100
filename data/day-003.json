@@ -353,7 +353,7 @@
       "collocationTranslations": [
         "不断收到通知",
         "分散用户注意力",
-        "养成正念习惯",
+        "养成专注使用的习惯",
         "设定明确的界限"
       ],
       "argumentSentences": [
@@ -433,15 +433,15 @@
     "questions": [
       {
         "type": "Yes / No / Not Given",
-        "prompt": "The writer believes that convenient digital services should be rejected.",
-        "answer": "No",
-        "explanation": "Paragraph D explicitly states that intentional technology use does not reject digital services."
+        "prompt": "The writer believes that most users read a privacy policy before accepting it.",
+        "answer": "Not Given",
+        "explanation": "Paragraph B says users often do not know how much data is gathered, but the writer gives no view on whether they read privacy policies."
       },
       {
         "type": "Summary Completion",
-        "prompt": "Complete the summary: Personalisation can reduce ______ for repetitive tasks.",
+        "prompt": "Complete the summary with NO MORE THAN TWO WORDS from the passage: When a service predicts what a user wants, routine actions demand less ______.",
         "answer": "mental effort",
-        "explanation": "Paragraph B states that personalisation can reduce mental effort."
+        "explanation": "Paragraph B says personalisation can reduce mental effort, particularly for repetitive tasks."
       },
       {
         "type": "Multiple Choice",
@@ -456,7 +456,7 @@
         "explanation": "Paragraph C contrasts unavoidable past delays with modern expectations of immediate replies."
       }
     ],
-    "titleTranslation": "便利设计",
+    "titleTranslation": "精心设计的便利",
     "paragraphSentencePairs": [
       [
         {

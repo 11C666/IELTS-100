@@ -311,9 +311,9 @@
       "topicSentenceTranslation": "让人们对自己的日程安排有一定的控制权可以减轻压力并提高绩效。",
       "collocationTranslations": [
         "安排工作时间",
-        "管理竞争需求",
+        "兼顾相互冲突的事务",
         "减少通勤时间",
-        "保持生产力"
+        "保持工作效率"
       ],
       "argumentSentences": [
         {
@@ -433,9 +433,9 @@
     "questions": [
       {
         "type": "Summary Completion",
-        "prompt": "Complete the summary: A behaviour becomes more automatic when it is linked to a stable ______.",
+        "prompt": "Complete the summary with ONE WORD ONLY from the passage: Repeating an action is not enough to make it a habit. It also has to be attached to a consistent ______, for example a certain time or location.",
         "answer": "cue",
-        "explanation": "Paragraph B states that behaviour becomes automatic when connected to a stable cue."
+        "explanation": "Paragraph B says a behaviour is more likely to become automatic when it is connected to a stable cue, such as a particular time or place."
       },
       {
         "type": "Multiple Choice",
@@ -456,7 +456,7 @@
         "explanation": "Paragraph D states that reviewing and adapting routines may allow a useful pattern to survive."
       }
     ],
-    "titleTranslation": "为什么例行公事可以减少脑力劳动",
+    "titleTranslation": "为什么规律作息能减轻脑力负担",
     "paragraphSentencePairs": [
       [
         {

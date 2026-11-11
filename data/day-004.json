@@ -238,7 +238,7 @@
       "pattern": "The fact that + family members + share a history often means that + clause.",
       "cn": "家人拥有共同经历这一事实往往意味着……",
       "example": "The fact that siblings share a history often means that they understand each other’s habits.",
-      "exampleTranslation": "兄弟姐妹有共同的历史这一事实通常意味着他们了解彼此的习惯。"
+      "exampleTranslation": "兄弟姐妹有共同的成长经历，这往往意味着他们了解彼此的习惯。"
     },
     {
       "pattern": "As children become more independent, parents may need to + verb.",
@@ -252,7 +252,7 @@
       "text": "be there for someone",
       "cn": "在某人需要时支持他",
       "example": "My sister has always been there for me when things go wrong.",
-      "exampleTranslation": "当事情出错时，我姐姐总是在我身边。"
+      "exampleTranslation": "遇到麻烦时，我姐姐总是支持我。"
     },
     {
       "text": "take after someone",
@@ -438,9 +438,9 @@
     "questions": [
       {
         "type": "True / False / Not Given",
-        "prompt": "Conflict in a family always indicates that the relationship is weak.",
-        "answer": "False",
-        "explanation": "Paragraph 1 says tension may simply reflect changing roles."
+        "prompt": "Disagreement between parents and growing children may arise because earlier roles have stopped being suitable.",
+        "answer": "True",
+        "explanation": "Paragraph A says tension may simply show that roles which worked at one stage of life no longer fit the next."
       },
       {
         "type": "Multiple Choice",
@@ -452,16 +452,16 @@
           "The practical task is unnecessary."
         ],
         "answer": "B",
-        "explanation": "Paragraph 2 says help may be resisted when presented as an instruction rather than a choice."
+        "explanation": "Paragraph B says help may be resisted when it is offered as an instruction rather than a choice."
       },
       {
         "type": "Sentence Completion",
-        "prompt": "Unspoken contributions can cause problems when assumptions replace explicit ______.",
-        "answer": "conversation",
-        "explanation": "Paragraph 3 uses this phrase directly."
+        "prompt": "Complete the sentence with ONE WORD ONLY from the passage: Resentment can build when relatives rely on assumptions and their different ______ go unnoticed.",
+        "answer": "contributions",
+        "explanation": "Paragraph C says problems arise when these contributions remain invisible and assumptions replace explicit conversation."
       }
     ],
-    "titleTranslation": "当家庭学会谈判时",
+    "titleTranslation": "当家人学会协商",
     "paragraphSentencePairs": [
       [
         {

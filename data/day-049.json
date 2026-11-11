@@ -458,13 +458,13 @@
         "type": "Yes / No / Not Given",
         "prompt": "Every separate fee is necessarily illegitimate.",
         "answer": "No",
-        "explanation": "Paragraph 3 says variable charges can be legitimate under conditions."
+        "explanation": "Paragraph C says variable charges can be legitimate under conditions."
       },
       {
         "type": "Short Answer",
         "prompt": "What practice requires compulsory charges to be shown gradually during checkout?",
         "answer": "drip pricing",
-        "explanation": "Paragraph 1 names the practice."
+        "explanation": "Paragraph A names the practice."
       }
     ],
     "titleTranslation": "出现得太晚的价格",

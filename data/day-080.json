@@ -460,7 +460,7 @@
         "type": "True / False / Not Given",
         "prompt": "Private gardens can increase canopy statistics without shading public routes.",
         "answer": "True",
-        "explanation": "Paragraph 2 gives this exact contrast."
+        "explanation": "Paragraph B gives this exact contrast."
       },
       {
         "type": "Multiple Choice",
@@ -478,7 +478,7 @@
         "type": "Sentence Completion",
         "prompt": "The city published tree survival rates by ______ rather than only as a citywide total.",
         "answer": "district",
-        "explanation": "Paragraph 4 states this directly."
+        "explanation": "Paragraph D states this directly."
       }
     ],
     "titleTranslation": "城市树荫的不平等分布",

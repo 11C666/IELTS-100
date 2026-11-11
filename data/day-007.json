@@ -311,7 +311,7 @@
       "topicSentenceTranslation": "定期的休闲活动可以让人们从工作压力中得到必要的休息。",
       "collocationTranslations": [
         "减少日常压力",
-        "提供创意的出口",
+        "提供发挥创造力的途径",
         "专注于当下",
         "保持情绪健康"
       ],
@@ -351,7 +351,7 @@
       "viewpointTranslation": "孩子们应该有一些无组织的空闲时间。",
       "topicSentenceTranslation": "安排孩子一天中的每一个小时可能会限制孩子的独立探索。",
       "collocationTranslations": [
-        "非结构化游戏",
+        "自由玩耍",
         "独立选择一项活动",
         "发展个人兴趣",
         "超负荷的日程安排"
@@ -442,9 +442,9 @@
     "questions": [
       {
         "type": "True / False / Not Given",
-        "prompt": "The original meaning of amateur referred to motivation rather than poor quality.",
-        "answer": "True",
-        "explanation": "Paragraph 1 says it meant pursuing an activity out of love rather than payment."
+        "prompt": "Most amateur astronomers eventually become professional scientists.",
+        "answer": "Not Given",
+        "explanation": "The passage mentions amateur astronomers and their observations, but says nothing about how many of them become professionals."
       },
       {
         "type": "Matching Information",
@@ -462,10 +462,10 @@
           "Because professionals never enjoy their work"
         ],
         "answer": "B",
-        "explanation": "The final paragraph explains that customers and deadlines can change a pastime into another job."
+        "explanation": "Paragraph D explains that once customers and deadlines appear, an absorbing pastime may begin to feel like another job."
       }
     ],
-    "titleTranslation": "业余工作的意想不到的价值",
+    "titleTranslation": "业余爱好者的意外价值",
     "paragraphSentencePairs": [
       [
         {

@@ -450,13 +450,13 @@
         "type": "True / False / Not Given",
         "prompt": "A two-week forecast is normally more reliable than a forecast for tomorrow.",
         "answer": "False",
-        "explanation": "Paragraph 3 states the opposite."
+        "explanation": "Paragraph C states the opposite."
       },
       {
         "type": "Summary Completion",
         "prompt": "Modern models divide the atmosphere into a three-dimensional ______.",
         "answer": "grid",
-        "explanation": "The answer is in Paragraph 3."
+        "explanation": "The answer is in Paragraph C."
       }
     ],
     "titleTranslation": "寻找可靠的预测",

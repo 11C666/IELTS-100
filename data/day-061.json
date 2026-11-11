@@ -452,13 +452,13 @@
         "type": "True / False / Not Given",
         "prompt": "Removing a person’s name always makes location records anonymous.",
         "answer": "False",
-        "explanation": "Paragraph 2 explains that movement patterns can allow individuals to be identified."
+        "explanation": "Paragraph B explains that movement patterns can allow individuals to be identified."
       },
       {
         "type": "Multiple Choice",
         "prompt": "What does the writer identify as a useful way to answer some planning questions?",
         "answer": "C",
-        "explanation": "Paragraph 3 says broad aggregate flows may be sufficient.",
+        "explanation": "Paragraph C says broad aggregate flows may be sufficient.",
         "options": [
           "Keeping every individual route permanently",
           "Selling records to another organisation",

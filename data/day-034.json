@@ -476,7 +476,7 @@
         "type": "Sentence Completion",
         "prompt": "Confidence may increase through repetition rather than the ______ of evidence.",
         "answer": "completeness",
-        "explanation": "Paragraph 2 contrasts repetition with completeness."
+        "explanation": "Paragraph B contrasts repetition with completeness."
       },
       {
         "type": "Yes / No / Not Given",
