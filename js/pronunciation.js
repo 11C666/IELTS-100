@@ -13,11 +13,21 @@
   let englishVoices = [];
   let playback = null;
   const failedVoices = new Set();
-  let settings = { voiceURI: '', rate: DEFAULT_RATE };
+  // Online recordings sound natural and can be amplified; device voices are the offline fallback.
+  const SOURCES = ['online-uk', 'online-us', 'device'];
+  const BOOSTS = [1, 1.5, 2];
+  const ONLINE_START_MS = 6000;
+  const ONLINE_RETRY_AFTER_MS = 60000;
+  let onlineBlockedUntil = 0;
+  let boostAvailable = true;
+  let audioContext = null;
+  let settings = { voiceURI: '', rate: DEFAULT_RATE, source: 'online-uk', boost: 1.5 };
   try {
     const saved = JSON.parse(localStorage.getItem(SETTINGS_KEY) || '{}');
     if (typeof saved.voiceURI === 'string') settings.voiceURI = saved.voiceURI;
     if ([0.8, 0.9, 1].includes(saved.rate)) settings.rate = saved.rate;
+    if (SOURCES.includes(saved.source)) settings.source = saved.source;
+    if (BOOSTS.includes(saved.boost)) settings.boost = saved.boost;
   } catch (_) { /* Playback also works when storage is unavailable. */ }
 
   window.IELTS_PRONUNCIATION_SUPPORTED = supported;
@@ -91,6 +101,7 @@
     playback = null;
     if (previous) {
       clearTimers(previous);
+      releaseAudio(previous);
       setButtonState(previous.button, false);
     }
     if (supported && (previous || synthesis.speaking || synthesis.pending || synthesis.paused)) {
@@ -98,6 +109,117 @@
       lastStopAt = Date.now();
     }
     setStatus(message, Boolean(message));
+  }
+
+  function releaseAudio(session) {
+    const audio = session.audio;
+    if (!audio) return;
+    session.audio = null;
+    try {
+      audio.pause();
+      audio.removeAttribute('src');
+      audio.load();
+    } catch (_) { /* The element is being discarded anyway. */ }
+  }
+
+  function onlineUrl(text, source) {
+    return `https://dict.youdao.com/dictvoice?type=${source === 'online-us' ? 2 : 1}&audio=${encodeURIComponent(text)}`;
+  }
+
+  // Route the element through a gain stage so quiet recordings can exceed volume 1.
+  // The compressor keeps boosted peaks from distorting.
+  function connectBoost(audio) {
+    try {
+      const Context = window.AudioContext || window.webkitAudioContext;
+      if (!Context) return false;
+      if (!audioContext) audioContext = new Context();
+      if (audioContext.state === 'suspended') audioContext.resume();
+      const gain = audioContext.createGain();
+      gain.gain.value = settings.boost;
+      const compressor = audioContext.createDynamicsCompressor();
+      audioContext.createMediaElementSource(audio).connect(gain).connect(compressor).connect(audioContext.destination);
+      return true;
+    } catch (_) {
+      return false;
+    }
+  }
+
+  function createAudio(session) {
+    const audio = new Audio();
+    audio.preload = 'auto';
+    session.boosted = false;
+    if (settings.boost > 1 && boostAvailable && !session.boostFailed) {
+      // Web Audio only passes cross-origin sound through when the server allows CORS.
+      audio.crossOrigin = 'anonymous';
+      session.boosted = connectBoost(audio);
+      if (!session.boosted) audio.removeAttribute('crossorigin');
+    }
+    audio.addEventListener('playing', () => {
+      if (playback !== session || session.audio !== audio) return;
+      clearTimeout(session.startTimer);
+      if (session.boostFailed && boostAvailable) {
+        // Plain playback works where boosted playback failed: the service sends no CORS headers.
+        boostAvailable = false;
+        updateBoostOption();
+      }
+      setStatus(`${session.notice || ''}正在播放 · 再点一次停止`);
+    });
+    audio.addEventListener('ended', () => {
+      if (playback !== session || session.audio !== audio) return;
+      session.index++;
+      if (session.index < session.chunks.length) playOnlineChunk(session);
+      else finish(session);
+    });
+    audio.addEventListener('error', () => onlineFailed(session, audio));
+    return audio;
+  }
+
+  function onlineFailed(session, audio, timedOut = false) {
+    if (playback !== session || session.audio !== audio) return;
+    clearTimers(session);
+    releaseAudio(session);
+    if (session.boosted && !timedOut) {
+      // Possibly the service sent no CORS headers: replay without the volume boost.
+      session.boostFailed = true;
+      playOnlineChunk(session);
+      return;
+    }
+    onlineBlockedUntil = Date.now() + ONLINE_RETRY_AFTER_MS;
+    if (!supported) {
+      stopEnglish('在线发音暂时不可用，请检查网络后重试。');
+      return;
+    }
+    // Continue from the current sentence with a device voice.
+    const replacement = {
+      button: session.button, chunks: session.chunks, index: session.index,
+      voice: chooseVoice(), rate: session.rate,
+      notice: '在线发音暂时不可用，已改用本地音色。'
+    };
+    playback = replacement;
+    setStatus(replacement.notice, true);
+    speakChunk(replacement);
+  }
+
+  function playOnlineChunk(session) {
+    if (playback !== session) return;
+    if (!session.audio) session.audio = createAudio(session);
+    const audio = session.audio;
+    audio.src = onlineUrl(session.chunks[session.index], session.source);
+    // playbackRate resets when a new source loads.
+    audio.defaultPlaybackRate = audio.playbackRate = session.rate;
+    clearTimeout(session.startTimer);
+    session.startTimer = setTimeout(() => onlineFailed(session, audio, true), ONLINE_START_MS);
+    const started = audio.play();
+    if (started && typeof started.catch === 'function') {
+      started.catch(error => {
+        if (playback !== session || session.audio !== audio) return;
+        if (error && error.name === 'NotAllowedError') {
+          stopEnglish('浏览器未允许播放，请直接点击发音按钮重试，并检查此网站的声音权限。');
+        } else if (!error || error.name !== 'AbortError') {
+          onlineFailed(session, audio);
+        }
+      });
+    }
   }
 
   function settleDelay() {
@@ -237,7 +359,10 @@
   }
 
   function speakEnglish(text, rate, button) {
-    if (!supported || !String(text || '').trim()) return false;
+    if (!String(text || '').trim()) return false;
+    const online = settings.source !== 'device' && window.navigator?.onLine !== false &&
+      Date.now() >= onlineBlockedUntil;
+    if (!online && !supported) return false;
     stopEnglish();
     refreshVoices();
     const session = {
@@ -245,11 +370,16 @@
       chunks: splitSpeech(String(text)),
       index: 0,
       voice: chooseVoice(),
+      source: settings.source,
       rate: Number.isFinite(rate) && rate >= 0.65 && rate <= 1.1 ? rate : settings.rate
     };
     playback = session;
     setButtonState(session.button, true);
     setStatus('正在准备语音…');
+    if (online) {
+      playOnlineChunk(session);
+      return true;
+    }
     // Let the previous playback settle before speaking again; idle first clicks stay
     // synchronous so the browser still sees them as a direct user gesture.
     const delay = settleDelay();
@@ -260,6 +390,13 @@
 
   function saveSettings() {
     try { localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings)); } catch (_) {}
+  }
+
+  function updateBoostOption() {
+    const select = document.getElementById('pronunciation-boost');
+    if (!select) return;
+    select.disabled = !boostAvailable;
+    if (!boostAvailable) select.title = '当前在线发音不支持音量增强';
   }
 
   function updateVoiceOptions() {
@@ -290,7 +427,17 @@
     panel.className = 'audio-settings';
     panel.innerHTML = `<summary>发音设置 / Audio settings</summary>
       <div class="audio-settings-controls">
-        <label>英语音色 <select id="pronunciation-voice" aria-label="英语音色"></select></label>
+        <label>发音来源 <select id="pronunciation-source" aria-label="发音来源">
+          <option value="online-uk">在线自然发音 · 英式（推荐）</option>
+          <option value="online-us">在线自然发音 · 美式</option>
+          <option value="device">本机音色（可离线）</option>
+        </select></label>
+        <label>音量增强 <select id="pronunciation-boost" aria-label="在线发音音量增强">
+          <option value="1">1× · 原始音量</option>
+          <option value="1.5">1.5× · 增强（默认）</option>
+          <option value="2">2× · 最大</option>
+        </select></label>
+        <label>本机音色 <select id="pronunciation-voice" aria-label="本机英语音色"></select></label>
         <label>语速 <select id="pronunciation-rate" aria-label="发音语速">
           <option value="0.8">0.8× · 慢速</option>
           <option value="0.9">0.9× · 舒适（默认）</option>
@@ -298,12 +445,28 @@
         </select></label>
         <button type="button" class="ghost audio-preview">试听音色</button>
       </div>
-      <p class="audio-settings-note">设置适用于全部课程，并保存在此设备。默认优先使用本地英语音色；在线音色需要网络，无法播放时会尝试切换本地音色并从头重播。</p>
+      <p class="audio-settings-note">设置适用于全部课程，并保存在此设备。默认使用在线自然发音（需要联网，朗读的英文会发送到有道词典发音服务）；离线或在线发音不可用时自动改用本机音色。音量增强只对在线发音有效。</p>
       <p id="pronunciation-status" role="status" aria-live="polite"></p>`;
     header.after(panel);
     const voiceSelect = panel.querySelector('#pronunciation-voice');
     const rateSelect = panel.querySelector('#pronunciation-rate');
-    voiceSelect.disabled = rateSelect.disabled = !supported;
+    voiceSelect.disabled = !supported;
+    const sourceSelect = panel.querySelector('#pronunciation-source');
+    const boostSelect = panel.querySelector('#pronunciation-boost');
+    sourceSelect.value = settings.source;
+    boostSelect.value = String(settings.boost);
+    sourceSelect.addEventListener('change', () => {
+      stopEnglish();
+      settings.source = sourceSelect.value;
+      onlineBlockedUntil = 0;
+      saveSettings();
+    });
+    boostSelect.addEventListener('change', () => {
+      stopEnglish();
+      settings.boost = Number(boostSelect.value);
+      saveSettings();
+    });
+    updateBoostOption();
     rateSelect.value = String(settings.rate);
     voiceSelect.addEventListener('change', () => {
       stopEnglish();
@@ -328,9 +491,8 @@
     preview.dataset.idleAria = '试听英语音色';
     preview.dataset.activeAria = '停止试听';
     preview.setAttribute('aria-pressed', 'false');
-    preview.disabled = !supported;
     updateVoiceOptions();
-    if (!supported) setStatus('当前浏览器不支持语音播放，请使用 Safari、Chrome 或 Edge。', true);
+    if (!supported) setStatus('当前浏览器没有本机英语音色，只能使用在线发音。', true);
   }
 
   function makeButton(text) {
@@ -347,7 +509,6 @@
     button.setAttribute('aria-pressed', 'false');
     button.title = `Pronounce ${text}`;
     button.textContent = button.dataset.idleLabel;
-    button.disabled = !supported;
     return button;
   }
 

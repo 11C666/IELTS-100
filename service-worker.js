@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ielts-mastery-v5';
+const CACHE_NAME = 'ielts-mastery-v6';
 const DAY_FILES = Array.from({ length: 100 }, (_, index) =>
   `./data/day-${String(index + 1).padStart(3, '0')}.json`
 );
@@ -26,6 +26,8 @@ self.addEventListener('activate', event => {
 
 self.addEventListener('fetch', event => {
   if (event.request.method !== 'GET') return;
+  // Leave cross-origin requests (online pronunciation audio) to the browser.
+  if (new URL(event.request.url).origin !== self.location.origin) return;
   event.respondWith(
     caches.match(event.request).then(cached => cached || fetch(event.request).then(response => {
       if (!response || response.status !== 200 || response.type === 'opaque') return response;
