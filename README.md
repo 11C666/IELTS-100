@@ -87,13 +87,31 @@ The cache name is defined as `CACHE_NAME` in `service-worker.js`. For a future r
 
 ## 英语发音与播放
 
-所有课程的单词、搭配、自然表达例句和口语答案共用同一套发音设置。打开课程顶部的 **发音设置 / Audio settings** 可试听并选择设备提供的英语音色，以及 0.8×（慢速）、0.9×（默认舒适语速）或 1.0×（标准语速）。选择会保存在当前设备，不影响学习进度。
+所有课程的单词、搭配、自然表达例句和口语答案共用同一套发音设置。打开课程顶部的 **发音设置 / Audio settings** 可选择发音来源、音量增强、本机音色，以及 0.8×（慢速）、0.9×（默认舒适语速）或 1.0×（标准语速）。选择会保存在当前设备，不影响学习进度。
 
-自动模式优先使用设备已安装的本地英语音色，在本地音色中优先选择 Natural、Neural、Premium 或 Enhanced，同档音色优先英式英语；具体音质取决于操作系统提供的语音包。iPhone/iPad 可在系统“辅助功能 → 朗读内容”中的声音设置下载英语增强音色；离线学习请选择已下载的本地音色。不同设备的音色列表可能不同。
+发音来源按以下顺序回落：
 
-点击发音按钮从头播放，再点一次停止。长答案按标点和长度连续分段朗读，切换内容会取消旧播放；离开课程、收起正在播放的章节或切到后台会停止，返回后点击可从头播放。播放未启动或语音服务报错时，会展开设置并显示重试提示。
+1. **离线自然发音 · 美式（默认）**：`audio/us/` 中随网站提供的预合成 MP3，由开源神经语音模型 Kokoro（音色 `af_heart`）生成，不向第三方发送内容。听过的片段由 service worker 缓存；“下载全部离线语音”可一次缓存全部，之后断网也能播放。
+2. **在线发音（英式/美式）**：有道词典发音服务，需要联网，朗读的英文会发送给该服务；这是非官方接口，可能失效。
+3. **本机音色**：浏览器的 Web Speech 语音，音质取决于操作系统语音包，音量增强对它无效。
 
-修改发音代码后需要同时递增 `service-worker.js` 的缓存版本，让已安装的 PWA 获取新版文件。当前版本为 `ielts-mastery-v4`。
+单词、短语等短内容再点一次会从头重播；长段落再点一次停止。长答案按标点和长度分句连续播放，切换内容会取消旧播放；离开课程或切到后台会停止。播放前会用听不见的低音唤醒声音输出并保持 30 秒，避免连续点击时吞掉开头。
+
+### 更新离线语音
+
+课程文本改动后需要重新生成片段（文件名是分句文本的哈希，未变的句子不会重新合成，已删除的句子会被清理）：
+
+```bash
+node tools/collect_pronunciation_texts.js clips.json
+```
+
+```bash
+python tools/build_offline_audio.py clips.json kokoro-v1.0.onnx voices-v1.0.bin
+```
+
+需要 Playwright、ffmpeg 和 `pip install kokoro-onnx`；两个模型文件从 kokoro-onnx 的 GitHub Releases 下载。
+
+修改发音代码后需要同时递增 `service-worker.js` 的 `CACHE_NAME`，让已安装的 PWA 获取新版文件；语音片段使用独立的 `ielts-audio-v1` 缓存，不随应用更新清空。
 
 验证播放状态与回调竞争：`node tools/qa_pronunciation.js`。浏览器验证：`node tools/qa_expression_pronunciation.js`（需要 Playwright；可通过 `CHROMIUM_PATH` 指定浏览器）。自动检查使用模拟语音引擎，实际音质和音频输出仍需在目标设备试听。
 

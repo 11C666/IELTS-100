@@ -17,7 +17,9 @@
 .audio-settings-controls label{display:grid;gap:5px;min-width:0;font-size:14px}
 .audio-settings-controls select{width:100%;max-width:420px;min-height:44px;padding:8px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font:inherit}
 .audio-settings-controls label:first-child{flex:1 1 240px}
-.audio-settings-controls .audio-preview{min-height:44px;cursor:pointer}
+.audio-settings-controls .audio-preview,.audio-settings-controls .audio-download{min-height:44px;cursor:pointer}
+.audio-download:disabled{opacity:.6;cursor:progress}
+.audio-version{margin-left:8px;opacity:.7;white-space:nowrap}
 .audio-preview.is-speaking{background:var(--accent2);color:var(--accent)}
 .audio-settings-note,#pronunciation-status{margin:10px 0 0;color:var(--muted);font-size:13px;overflow-wrap:anywhere}
 #pronunciation-status:empty{display:none}
