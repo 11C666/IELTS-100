@@ -3,7 +3,8 @@
 
   const synthesis = window.speechSynthesis;
   const supported = Boolean(synthesis && window.SpeechSynthesisUtterance);
-  const SETTINGS_KEY = 'ieltsPronunciationV1';
+  const SETTINGS_KEY = 'ieltsPronunciationV2';
+  const OLD_SETTINGS_KEY = 'ieltsPronunciationV1';
   const DEFAULT_RATE = 0.9;
   // Speech engines need a short gap after cancel()/end before the next utterance;
   // starting sooner clips the beginning of the replay or drops it entirely.
@@ -13,17 +14,33 @@
   let englishVoices = [];
   let playback = null;
   const failedVoices = new Set();
-  // Online recordings sound natural and can be amplified; device voices are the offline fallback.
-  const SOURCES = ['online-uk', 'online-us', 'device'];
+  // Bundled recordings are natural, work offline and can be amplified. Online
+  // recordings and device voices are the fallbacks, in that order.
+  const SOURCES = ['offline-us', 'online-uk', 'online-us', 'device'];
+  const OFFLINE_AUDIO_DIR = 'audio/us/';
   const BOOSTS = [1, 1.5, 2];
   const ONLINE_START_MS = 6000;
   const ONLINE_RETRY_AFTER_MS = 60000;
   let onlineBlockedUntil = 0;
   let boostAvailable = true;
   let audioContext = null;
-  let settings = { voiceURI: '', rate: DEFAULT_RATE, source: 'online-uk', boost: 1.5 };
+  let boostInput = null;
+  // The sound output goes idle between clips and swallows the start of the next one,
+  // most noticeably when a cached clip starts instantly. A near-silent tone wakes it
+  // before playback and keeps it awake between clicks.
+  const WARM_MS = 400;
+  const KEEP_ALIVE_MS = 30000;
+  // Short items (words, phrases) replay when clicked again; long ones toggle stop.
+  const REPLAY_MAX_CHARS = 80;
+  let keepAlive = null;
+  let keepAliveTimer = 0;
+  let outputReadyAt = 0;
+  let hasSpoken = false;
+  let settings = { voiceURI: '', rate: DEFAULT_RATE, source: 'offline-us', boost: 1.5 };
   try {
-    const saved = JSON.parse(localStorage.getItem(SETTINGS_KEY) || '{}');
+    // V1 settings predate the bundled voice: keep the voice and speed, not the source.
+    const saved = JSON.parse(localStorage.getItem(SETTINGS_KEY) || 'null') ||
+      { ...JSON.parse(localStorage.getItem(OLD_SETTINGS_KEY) || '{}'), source: undefined };
     if (typeof saved.voiceURI === 'string') settings.voiceURI = saved.voiceURI;
     if ([0.8, 0.9, 1].includes(saved.rate)) settings.rate = saved.rate;
     if (SOURCES.includes(saved.source)) settings.source = saved.source;
@@ -81,10 +98,17 @@
     }
   }
 
+  function isReplayText(text) {
+    const value = String(text || '').trim();
+    return value.length <= REPLAY_MAX_CHARS && splitSpeech(value).length <= 1;
+  }
+
   function setButtonState(button, playing) {
     if (!button) return;
     button.classList.toggle('is-speaking', playing);
     button.setAttribute('aria-pressed', String(playing));
+    // Replay buttons never act as a stop control, so they keep their idle label.
+    if (isReplayText(button.dataset.pronounce)) return;
     button.textContent = playing ? button.dataset.activeLabel : button.dataset.idleLabel;
     button.setAttribute('aria-label', playing ? button.dataset.activeAria : button.dataset.idleAria);
   }
@@ -103,6 +127,7 @@
       clearTimers(previous);
       releaseAudio(previous);
       setButtonState(previous.button, false);
+      restOutput();
     }
     if (supported && (previous || synthesis.speaking || synthesis.pending || synthesis.paused)) {
       synthesis.cancel();
@@ -116,28 +141,105 @@
     if (!audio) return;
     session.audio = null;
     try {
+      if (session.sourceNode) session.sourceNode.disconnect();
+      session.sourceNode = null;
       audio.pause();
       audio.removeAttribute('src');
       audio.load();
     } catch (_) { /* The element is being discarded anyway. */ }
   }
 
+  // cyrb53: a fast synchronous hash, so a clip's file name can be derived inside the click.
+  function audioKey(text) {
+    let h1 = 0xdeadbeef;
+    let h2 = 0x41c6ce57;
+    for (let i = 0; i < text.length; i++) {
+      const code = text.charCodeAt(i);
+      h1 = Math.imul(h1 ^ code, 2654435761);
+      h2 = Math.imul(h2 ^ code, 1597334677);
+    }
+    h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507) ^ Math.imul(h2 ^ (h2 >>> 13), 3266489909);
+    h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507) ^ Math.imul(h1 ^ (h1 >>> 13), 3266489909);
+    return (h2 >>> 0).toString(16).padStart(8, '0') + (h1 >>> 0).toString(16).padStart(8, '0');
+  }
+
+  function isOnlineSource(source) {
+    return source === 'online-uk' || source === 'online-us';
+  }
+
+  function canUseOnline() {
+    return window.navigator?.onLine !== false && Date.now() >= onlineBlockedUntil;
+  }
+
   function onlineUrl(text, source) {
+    if (source === 'offline-us') return `${OFFLINE_AUDIO_DIR}${audioKey(text)}.mp3`;
     return `https://dict.youdao.com/dictvoice?type=${source === 'online-us' ? 2 : 1}&audio=${encodeURIComponent(text)}`;
   }
 
-  // Route the element through a gain stage so quiet recordings can exceed volume 1.
-  // The compressor keeps boosted peaks from distorting.
-  function connectBoost(audio) {
+  function getContext() {
     try {
       const Context = window.AudioContext || window.webkitAudioContext;
-      if (!Context) return false;
+      if (!Context) return null;
       if (!audioContext) audioContext = new Context();
-      if (audioContext.state === 'suspended') audioContext.resume();
-      const gain = audioContext.createGain();
-      gain.gain.value = settings.boost;
-      const compressor = audioContext.createDynamicsCompressor();
-      audioContext.createMediaElementSource(audio).connect(gain).connect(compressor).connect(audioContext.destination);
+      return audioContext;
+    } catch (_) {
+      return null;
+    }
+  }
+
+  // Wake the sound output. Returns how long to wait before audible playback.
+  function wakeOutput() {
+    clearTimeout(keepAliveTimer);
+    const context = getContext();
+    if (!context) return 0;
+    try {
+      let cold = false;
+      if (context.state !== 'running') {
+        context.resume();
+        cold = true;
+      }
+      if (!keepAlive) {
+        const tone = context.createOscillator();
+        const level = context.createGain();
+        tone.frequency.value = 20;
+        level.gain.value = 0.001;
+        tone.connect(level).connect(context.destination);
+        tone.start();
+        keepAlive = tone;
+        cold = true;
+      }
+      if (cold) outputReadyAt = Date.now() + WARM_MS;
+    } catch (_) {
+      return 0;
+    }
+    return Math.max(0, outputReadyAt - Date.now());
+  }
+
+  function restOutput() {
+    clearTimeout(keepAliveTimer);
+    keepAliveTimer = setTimeout(() => {
+      if (playback || !keepAlive) return;
+      try {
+        keepAlive.stop();
+        keepAlive.disconnect();
+      } catch (_) { /* Already stopped. */ }
+      keepAlive = null;
+    }, KEEP_ALIVE_MS);
+  }
+
+  // Route the element through a shared gain stage so quiet recordings can exceed
+  // volume 1. The compressor keeps boosted peaks from distorting.
+  function connectBoost(session, audio) {
+    const context = getContext();
+    if (!context) return false;
+    try {
+      if (!boostInput) {
+        boostInput = context.createGain();
+        boostInput.connect(context.createDynamicsCompressor()).connect(context.destination);
+      }
+      boostInput.gain.value = settings.boost;
+      session.sourceNode = context.createMediaElementSource(audio);
+      session.sourceNode.connect(boostInput);
       return true;
     } catch (_) {
       return false;
@@ -148,10 +250,11 @@
     const audio = new Audio();
     audio.preload = 'auto';
     session.boosted = false;
-    if (settings.boost > 1 && boostAvailable && !session.boostFailed) {
+    const online = isOnlineSource(session.source);
+    if (settings.boost > 1 && (!online || (boostAvailable && !session.boostFailed))) {
       // Web Audio only passes cross-origin sound through when the server allows CORS.
-      audio.crossOrigin = 'anonymous';
-      session.boosted = connectBoost(audio);
+      if (online) audio.crossOrigin = 'anonymous';
+      session.boosted = connectBoost(session, audio);
       if (!session.boosted) audio.removeAttribute('crossorigin');
     }
     audio.addEventListener('playing', () => {
@@ -162,7 +265,7 @@
         boostAvailable = false;
         updateBoostOption();
       }
-      setStatus(`${session.notice || ''}正在播放 · 再点一次停止`);
+      setStatus(`${session.notice || ''}正在播放 · 再点一次${session.replay ? '重播' : '停止'}`);
     });
     audio.addEventListener('ended', () => {
       if (playback !== session || session.audio !== audio) return;
@@ -178,22 +281,33 @@
     if (playback !== session || session.audio !== audio) return;
     clearTimers(session);
     releaseAudio(session);
-    if (session.boosted && !timedOut) {
-      // Possibly the service sent no CORS headers: replay without the volume boost.
-      session.boostFailed = true;
-      playOnlineChunk(session);
-      return;
+    let notice = '在线发音暂时不可用，已改用本机音色。';
+    if (session.source === 'offline-us') {
+      // No bundled clip for this text (or it is not cached while offline).
+      if (canUseOnline()) {
+        session.source = 'online-us';
+        playOnlineChunk(session);
+        return;
+      }
+      notice = '这段内容的离线语音不可用，已改用本机音色。';
+    } else {
+      if (session.boosted && !timedOut) {
+        // Possibly the service sent no CORS headers: replay without the volume boost.
+        session.boostFailed = true;
+        playOnlineChunk(session);
+        return;
+      }
+      onlineBlockedUntil = Date.now() + ONLINE_RETRY_AFTER_MS;
     }
-    onlineBlockedUntil = Date.now() + ONLINE_RETRY_AFTER_MS;
     if (!supported) {
-      stopEnglish('在线发音暂时不可用，请检查网络后重试。');
+      stopEnglish('语音暂时不可用，请检查网络后重试。');
       return;
     }
     // Continue from the current sentence with a device voice.
     const replacement = {
       button: session.button, chunks: session.chunks, index: session.index,
-      voice: chooseVoice(), rate: session.rate,
-      notice: '在线发音暂时不可用，已改用本地音色。'
+      voice: chooseVoice(), rate: session.rate, replay: session.replay,
+      notice
     };
     playback = replacement;
     setStatus(replacement.notice, true);
@@ -207,8 +321,24 @@
     audio.src = onlineUrl(session.chunks[session.index], session.source);
     // playbackRate resets when a new source loads.
     audio.defaultPlaybackRate = audio.playbackRate = session.rate;
+    // Only the first clip of a playback can meet a sleeping output.
+    const wait = session.warmed ? 0 : wakeOutput();
+    session.warmed = true;
     clearTimeout(session.startTimer);
-    session.startTimer = setTimeout(() => onlineFailed(session, audio, true), ONLINE_START_MS);
+    session.startTimer = setTimeout(() => onlineFailed(session, audio, true), ONLINE_START_MS + wait);
+    if (wait > 0) {
+      // Claim the click for this element and let it load, but hold the sound until the output is awake.
+      const primed = audio.play();
+      if (primed && typeof primed.catch === 'function') primed.catch(() => {});
+      audio.pause();
+      session.nextTimer = setTimeout(() => startOnline(session, audio), wait);
+    } else {
+      startOnline(session, audio);
+    }
+  }
+
+  function startOnline(session, audio) {
+    if (playback !== session || session.audio !== audio) return;
     const started = audio.play();
     if (started && typeof started.catch === 'function') {
       started.catch(error => {
@@ -245,6 +375,8 @@
     playback = null;
     lastStopAt = Date.now();
     clearTimers(session);
+    releaseAudio(session);
+    restOutput();
     setButtonState(session.button, false);
     setStatus(message, Boolean(message));
   }
@@ -286,7 +418,7 @@
     // Use a new session so late callbacks from the failed voice cannot cancel the retry.
     const replacement = {
       button: session.button, chunks: session.chunks, index: 0,
-      voice: fallback, rate: session.rate, fallbackUsed: true, notice
+      voice: fallback, rate: session.rate, replay: session.replay, fallbackUsed: true, notice
     };
     stopEnglish();
     if (settings.voiceURI) {
@@ -316,7 +448,7 @@
     const started = () => {
       if (playback !== session || session.utterance !== utterance) return;
       clearTimeout(session.startTimer);
-      setStatus(`${session.notice || ''}正在播放 · 再点一次停止`);
+      setStatus(`${session.notice || ''}正在播放 · 再点一次${session.replay ? '重播' : '停止'}`);
     };
     utterance.onstart = started;
     utterance.onboundary = started;
@@ -360,8 +492,8 @@
 
   function speakEnglish(text, rate, button) {
     if (!String(text || '').trim()) return false;
-    const online = settings.source !== 'device' && window.navigator?.onLine !== false &&
-      Date.now() >= onlineBlockedUntil;
+    const online = settings.source === 'offline-us' ||
+      (isOnlineSource(settings.source) && canUseOnline());
     if (!online && !supported) return false;
     stopEnglish();
     refreshVoices();
@@ -369,6 +501,7 @@
       button: button || null,
       chunks: splitSpeech(String(text)),
       index: 0,
+      replay: isReplayText(text),
       voice: chooseVoice(),
       source: settings.source,
       rate: Number.isFinite(rate) && rate >= 0.65 && rate <= 1.1 ? rate : settings.rate
@@ -382,7 +515,10 @@
     }
     // Let the previous playback settle before speaking again; idle first clicks stay
     // synchronous so the browser still sees them as a direct user gesture.
-    const delay = settleDelay();
+    // The very first speak() must stay inside the click for Safari; later ones can wait for the output.
+    const wake = wakeOutput();
+    const delay = Math.max(settleDelay(), hasSpoken ? wake : 0);
+    hasSpoken = true;
     if (delay > 0) session.nextTimer = setTimeout(() => speakChunk(session), delay);
     else speakChunk(session);
     return true;
@@ -395,8 +531,51 @@
   function updateBoostOption() {
     const select = document.getElementById('pronunciation-boost');
     if (!select) return;
-    select.disabled = !boostAvailable;
-    if (!boostAvailable) select.title = '当前在线发音不支持音量增强';
+    if (!boostAvailable) select.title = '在线发音不支持音量增强；离线自然发音仍然有效';
+  }
+
+  let downloading = false;
+
+  // Fetch every bundled clip once so the service worker caches it for offline use.
+  async function downloadOfflineAudio(event) {
+    const button = event.currentTarget;
+    if (downloading) return;
+    if (!navigator.serviceWorker || !navigator.serviceWorker.controller) {
+      setStatus('当前打开方式不支持离线缓存，请通过网址访问本站后重试。', true);
+      return;
+    }
+    downloading = true;
+    button.disabled = true;
+    try {
+      const index = await (await fetch(`${OFFLINE_AUDIO_DIR}index.json`, { cache: 'no-cache' })).json();
+      const keys = index.keys;
+      let next = 0;
+      let done = 0;
+      let failed = 0;
+      const worker = async () => {
+        while (next < keys.length) {
+          const key = keys[next++];
+          try {
+            const response = await fetch(`${OFFLINE_AUDIO_DIR}${key}.mp3`);
+            if (!response.ok) throw new Error(String(response.status));
+            await response.arrayBuffer();
+          } catch (_) {
+            failed++;
+          }
+          done++;
+          if (done % 25 === 0 || done === keys.length) {
+            setStatus(`正在下载离线语音 ${done}/${keys.length}（约 ${Math.round(index.bytes / 1048576)} MB）…`, true);
+          }
+        }
+      };
+      await Promise.all(Array.from({ length: 6 }, worker));
+      setStatus(failed ? `离线语音下载完成，但有 ${failed} 个文件失败，请稍后再点一次补齐。` :
+        '全部离线语音已下载，断网也可以播放。', true);
+    } catch (_) {
+      setStatus('离线语音下载失败，请检查网络后重试。', true);
+    }
+    downloading = false;
+    button.disabled = false;
   }
 
   function updateVoiceOptions() {
@@ -428,8 +607,9 @@
     panel.innerHTML = `<summary>发音设置 / Audio settings</summary>
       <div class="audio-settings-controls">
         <label>发音来源 <select id="pronunciation-source" aria-label="发音来源">
-          <option value="online-uk">在线自然发音 · 英式（推荐）</option>
-          <option value="online-us">在线自然发音 · 美式</option>
+          <option value="offline-us">离线自然发音 · 美式（推荐）</option>
+          <option value="online-uk">在线发音 · 英式</option>
+          <option value="online-us">在线发音 · 美式</option>
           <option value="device">本机音色（可离线）</option>
         </select></label>
         <label>音量增强 <select id="pronunciation-boost" aria-label="在线发音音量增强">
@@ -444,8 +624,9 @@
           <option value="1">1.0× · 标准</option>
         </select></label>
         <button type="button" class="ghost audio-preview">试听音色</button>
+        <button type="button" class="ghost audio-download">下载全部离线语音</button>
       </div>
-      <p class="audio-settings-note">设置适用于全部课程，并保存在此设备。默认使用在线自然发音（需要联网，朗读的英文会发送到有道词典发音服务）；离线或在线发音不可用时自动改用本机音色。音量增强只对在线发音有效。</p>
+      <p class="audio-settings-note">设置适用于全部课程，并保存在此设备。默认使用随网站提供的离线自然发音（美式），不向第三方发送内容；听过的内容会自动缓存，点“下载全部离线语音”可一次缓存全部，之后断网也能播放。选择在线发音时，朗读的英文会发送到有道词典发音服务。音量增强对离线和在线发音有效，对本机音色无效。单词和短语再点一次会从头重播，长句再点一次停止。<span class="audio-version">发音模块 v4</span></p>
       <p id="pronunciation-status" role="status" aria-live="polite"></p>`;
     header.after(panel);
     const voiceSelect = panel.querySelector('#pronunciation-voice');
@@ -467,6 +648,7 @@
       saveSettings();
     });
     updateBoostOption();
+    panel.querySelector('.audio-download').addEventListener('click', downloadOfflineAudio);
     rateSelect.value = String(settings.rate);
     voiceSelect.addEventListener('change', () => {
       stopEnglish();
@@ -603,7 +785,7 @@
   document.addEventListener('click', event => {
     const button = event.target.closest('[data-pronounce]');
     if (!button || button.disabled) return;
-    if (playback && button === playback.button) {
+    if (playback && button === playback.button && !playback.replay) {
       stopEnglish();
       return;
     }
@@ -619,6 +801,8 @@
   observer.observe(document.getElementById('app'), { childList: true, subtree: true });
   decoratePronunciation();
 
+  // Used by tools/collect_pronunciation_texts.js so generated clips match what is played.
+  window.IELTS_PRONUNCIATION = { splitSpeech, audioKey };
   window.speakEnglish = speakEnglish;
   window.stopEnglish = stopEnglish;
 })();
