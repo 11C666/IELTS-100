@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ielts-mastery-v6';
+const CACHE_NAME = 'ielts-mastery-v7';
 const DAY_FILES = Array.from({ length: 100 }, (_, index) =>
   `./data/day-${String(index + 1).padStart(3, '0')}.json`
 );
