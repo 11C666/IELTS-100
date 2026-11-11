@@ -20,6 +20,14 @@
   const OFFLINE_AUDIO_DIR = 'audio/us/';
   const BOOSTS = [1, 1.5, 2];
   const ONLINE_START_MS = 6000;
+  // Bundled clips get longer: on a slow connection a late clip beats a robotic fallback.
+  const BUNDLED_START_MS = 10000;
+  const SLOW_NOTICE_MS = 2500;
+  const PREFETCH_PARALLEL = 3;
+  const prefetched = new Set();
+  let prefetchQueue = [];
+  let prefetchActive = 0;
+  let prefetchSignature = '';
   const ONLINE_RETRY_AFTER_MS = 60000;
   let onlineBlockedUntil = 0;
   let boostAvailable = true;
@@ -260,6 +268,7 @@
     audio.addEventListener('playing', () => {
       if (playback !== session || session.audio !== audio) return;
       clearTimeout(session.startTimer);
+      clearTimeout(session.endTimer);
       if (session.boostFailed && boostAvailable) {
         // Plain playback works where boosted playback failed: the service sends no CORS headers.
         boostAvailable = false;
@@ -324,8 +333,16 @@
     // Only the first clip of a playback can meet a sleeping output.
     const wait = session.warmed ? 0 : wakeOutput();
     session.warmed = true;
+    const bundled = session.source === 'offline-us';
     clearTimeout(session.startTimer);
-    session.startTimer = setTimeout(() => onlineFailed(session, audio, true), ONLINE_START_MS + wait);
+    clearTimeout(session.endTimer);
+    session.startTimer = setTimeout(() => onlineFailed(session, audio, true),
+      (bundled ? BUNDLED_START_MS : ONLINE_START_MS) + wait);
+    // endTimer is otherwise unused for clips; here it reports a slow download.
+    session.endTimer = setTimeout(() => {
+      // 'playing' clears this timer, so reaching here means the clip has not started.
+      if (playback === session && session.audio === audio) setStatus('正在加载语音，网络较慢，请稍候…');
+    }, SLOW_NOTICE_MS + wait);
     if (wait > 0) {
       // Claim the click for this element and let it load, but hold the sound until the output is awake.
       const primed = audio.play();
@@ -349,6 +366,47 @@
           onlineFailed(session, audio);
         }
       });
+    }
+  }
+
+  // Download the clips for the lesson on screen before they are clicked, so playback
+  // starts at once and never waits on the network.
+  function prefetchClips() {
+    if (settings.source !== 'offline-us' || window.navigator?.onLine === false ||
+        window.navigator?.connection?.saveData) {
+      prefetchQueue = [];
+      return;
+    }
+    const buttons = document.querySelectorAll('[data-pronounce]');
+    const signature = `${location.hash}:${buttons.length}`;
+    if (signature === prefetchSignature) return;
+    prefetchSignature = signature;
+    // Rebuild the queue so a newly opened lesson goes ahead of the one just left.
+    const queue = new Set();
+    buttons.forEach(button => splitSpeech(button.dataset.pronounce).forEach(chunk => {
+      const key = audioKey(chunk);
+      if (!prefetched.has(key)) queue.add(key);
+    }));
+    prefetchQueue = [...queue];
+    pumpPrefetch();
+  }
+
+  function pumpPrefetch() {
+    while (prefetchActive < PREFETCH_PARALLEL && prefetchQueue.length) {
+      const key = prefetchQueue.shift();
+      if (prefetched.has(key)) continue;
+      prefetched.add(key);
+      prefetchActive++;
+      fetch(`${OFFLINE_AUDIO_DIR}${key}.mp3`)
+        .then(response => {
+          if (!response.ok) throw new Error(String(response.status));
+          return response.arrayBuffer();
+        })
+        .catch(() => { prefetched.delete(key); })
+        .finally(() => {
+          prefetchActive--;
+          pumpPrefetch();
+        });
     }
   }
 
@@ -568,7 +626,7 @@
           }
         }
       };
-      await Promise.all(Array.from({ length: 6 }, worker));
+      await Promise.all(Array.from({ length: 4 }, worker));
       setStatus(failed ? `离线语音下载完成，但有 ${failed} 个文件失败，请稍后再点一次补齐。` :
         '全部离线语音已下载，断网也可以播放。', true);
     } catch (_) {
@@ -626,7 +684,7 @@
         <button type="button" class="ghost audio-preview">试听音色</button>
         <button type="button" class="ghost audio-download">下载全部离线语音</button>
       </div>
-      <p class="audio-settings-note">设置适用于全部课程，并保存在此设备。默认使用随网站提供的离线自然发音（美式），不向第三方发送内容；听过的内容会自动缓存，点“下载全部离线语音”可一次缓存全部，之后断网也能播放。选择在线发音时，朗读的英文会发送到有道词典发音服务。音量增强对离线和在线发音有效，对本机音色无效。单词和短语再点一次会从头重播，长句再点一次停止。<span class="audio-version">发音模块 v4</span></p>
+      <p class="audio-settings-note">设置适用于全部课程，并保存在此设备。默认使用随网站提供的离线自然发音（美式），不向第三方发送内容；打开一课时会在后台预先加载这一课的语音，听过和加载过的内容会自动缓存，点“下载全部离线语音”可一次缓存全部，之后断网也能播放。选择在线发音时，朗读的英文会发送到有道词典发音服务。音量增强对离线和在线发音有效，对本机音色无效。单词和短语再点一次会从头重播，长句再点一次停止。<span class="audio-version">发音模块 v5</span></p>
       <p id="pronunciation-status" role="status" aria-live="polite"></p>`;
     header.after(panel);
     const voiceSelect = panel.querySelector('#pronunciation-voice');
@@ -641,6 +699,8 @@
       settings.source = sourceSelect.value;
       onlineBlockedUntil = 0;
       saveSettings();
+      prefetchSignature = '';
+      prefetchClips();
     });
     boostSelect.addEventListener('change', () => {
       stopEnglish();
@@ -771,6 +831,7 @@
     decorateVocabulary();
     decorateExpressions();
     decorateSpeaking();
+    prefetchClips();
   }
 
   refreshVoices();
