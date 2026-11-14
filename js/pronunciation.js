@@ -18,6 +18,14 @@
   // recordings and device voices are the fallbacks, in that order.
   const SOURCES = ['offline-us', 'online-uk', 'online-us', 'device'];
   const OFFLINE_AUDIO_DIR = 'audio/us/';
+  const AUDIO_CACHE_NAME = 'ielts-audio-v1'; // Same name as in service-worker.js.
+  // Opened straight from disk: clips are read from the folder, and there is no service worker.
+  const LOCAL_FILE = location.protocol === 'file:';
+  const AUTO_SYNC_DELAY_MS = 4000;
+  let syncing = false;
+  let syncedAll = false;
+  let offlineStatus = '';
+  let offlineBadge = '';
   const BOOSTS = [1, 1.5, 2];
   const ONLINE_START_MS = 6000;
   // Bundled clips get longer: on a slow connection a late clip beats a robotic fallback.
@@ -259,7 +267,7 @@
     audio.preload = 'auto';
     session.boosted = false;
     const online = isOnlineSource(session.source);
-    if (settings.boost > 1 && (!online || (boostAvailable && !session.boostFailed))) {
+    if (settings.boost > 1 && !LOCAL_FILE && (!online || (boostAvailable && !session.boostFailed))) {
       // Web Audio only passes cross-origin sound through when the server allows CORS.
       if (online) audio.crossOrigin = 'anonymous';
       session.boosted = connectBoost(session, audio);
@@ -291,14 +299,13 @@
     clearTimers(session);
     releaseAudio(session);
     let notice = '在线发音暂时不可用，已改用本机音色。';
+    let next = null;
     if (session.source === 'offline-us') {
-      // No bundled clip for this text (or it is not cached while offline).
-      if (canUseOnline()) {
-        session.source = 'online-us';
-        playOnlineChunk(session);
-        return;
-      }
-      notice = '这段内容的离线语音不可用，已改用本机音色。';
+      // No bundled clip for this text, or it is not cached yet and there is no connection.
+      if (canUseOnline() && !session.tried.has('online-us') && !session.tried.has('online-uk')) next = 'online-us';
+      notice = window.navigator?.onLine === false ?
+        '这段语音还没有下载到本机，暂时改用本机音色。联网后会自动下载，也可以点“下载全部离线语音”。' :
+        '这段内容的离线语音不可用，已改用本机音色。';
     } else {
       if (session.boosted && !timedOut) {
         // Possibly the service sent no CORS headers: replay without the volume boost.
@@ -307,6 +314,13 @@
         return;
       }
       onlineBlockedUntil = Date.now() + ONLINE_RETRY_AFTER_MS;
+      if (!session.tried.has('offline-us')) next = 'offline-us';
+    }
+    if (next) {
+      session.tried.add(next);
+      session.source = next;
+      playOnlineChunk(session);
+      return;
     }
     if (!supported) {
       stopEnglish('语音暂时不可用，请检查网络后重试。');
@@ -318,6 +332,7 @@
       voice: chooseVoice(), rate: session.rate, replay: session.replay,
       notice
     };
+    syncOfflineAudio(false);
     playback = replacement;
     setStatus(replacement.notice, true);
     speakChunk(replacement);
@@ -550,8 +565,9 @@
 
   function speakEnglish(text, rate, button) {
     if (!String(text || '').trim()) return false;
-    const online = settings.source === 'offline-us' ||
-      (isOnlineSource(settings.source) && canUseOnline());
+    // With no connection an online source cannot work; the bundled clips still can.
+    const source = isOnlineSource(settings.source) && !canUseOnline() ? 'offline-us' : settings.source;
+    const online = source !== 'device';
     if (!online && !supported) return false;
     stopEnglish();
     refreshVoices();
@@ -561,7 +577,8 @@
       index: 0,
       replay: isReplayText(text),
       voice: chooseVoice(),
-      source: settings.source,
+      source,
+      tried: new Set([source]),
       rate: Number.isFinite(rate) && rate >= 0.65 && rate <= 1.1 ? rate : settings.rate
     };
     playback = session;
@@ -592,48 +609,86 @@
     if (!boostAvailable) select.title = '在线发音不支持音量增强；离线自然发音仍然有效';
   }
 
-  let downloading = false;
+  // `badge` is the short form shown on the collapsed settings bar.
+  function setOfflineStatus(message, badge = '') {
+    offlineStatus = message;
+    offlineBadge = badge;
+    const line = document.getElementById('pronunciation-offline');
+    if (line && line.textContent !== message) line.textContent = message;
+    const label = document.getElementById('pronunciation-offline-badge');
+    if (label && label.textContent !== badge) label.textContent = badge;
+  }
 
-  // Fetch every bundled clip once so the service worker caches it for offline use.
-  async function downloadOfflineAudio(event) {
-    const button = event.currentTarget;
-    if (downloading) return;
-    if (!navigator.serviceWorker || !navigator.serviceWorker.controller) {
-      setStatus('当前打开方式不支持离线缓存，请通过网址访问本站后重试。', true);
+  async function cachedClipKeys() {
+    const cache = await caches.open(AUDIO_CACHE_NAME);
+    return new Set((await cache.keys()).map(request => request.url.split('/').pop().replace('.mp3', '')));
+  }
+
+  // Download every bundled clip that is not cached yet, so all lessons play with no
+  // connection. Runs by itself in the background; the settings button runs it faster
+  // and reports problems.
+  async function syncOfflineAudio(manual) {
+    if (LOCAL_FILE) {
+      setOfflineStatus('离线语音：正在直接读取本机 audio/us 文件夹里的语音，无需下载（此方式下音量增强不可用）。', '· 本地文件模式');
       return;
     }
-    downloading = true;
-    button.disabled = true;
-    try {
-      const index = await (await fetch(`${OFFLINE_AUDIO_DIR}index.json`, { cache: 'no-cache' })).json();
-      const keys = index.keys;
-      let next = 0;
-      let done = 0;
-      let failed = 0;
-      const worker = async () => {
-        while (next < keys.length) {
-          const key = keys[next++];
-          try {
-            const response = await fetch(`${OFFLINE_AUDIO_DIR}${key}.mp3`);
-            if (!response.ok) throw new Error(String(response.status));
-            await response.arrayBuffer();
-          } catch (_) {
-            failed++;
-          }
-          done++;
-          if (done % 25 === 0 || done === keys.length) {
-            setStatus(`正在下载离线语音 ${done}/${keys.length}（约 ${Math.round(index.bytes / 1048576)} MB）…`, true);
-          }
-        }
-      };
-      await Promise.all(Array.from({ length: 4 }, worker));
-      setStatus(failed ? `离线语音下载完成，但有 ${failed} 个文件失败，请稍后再点一次补齐。` :
-        '全部离线语音已下载，断网也可以播放。', true);
-    } catch (_) {
-      setStatus('离线语音下载失败，请检查网络后重试。', true);
+    if (!window.caches || !navigator.serviceWorker || !navigator.serviceWorker.controller) {
+      if (manual) setOfflineStatus('离线语音：当前浏览器或打开方式不支持离线缓存（例如无痕窗口）。');
+      return;
     }
-    downloading = false;
-    button.disabled = false;
+    if (syncing) {
+      if (manual) setStatus('离线语音已经在下载中，进度见上方。', true);
+      return;
+    }
+    if (syncedAll && !manual) return;
+    syncing = true;
+    try {
+      const index = await (await fetch(`${OFFLINE_AUDIO_DIR}index.json`)).json();
+      const total = index.keys.length;
+      const size = Math.round(index.bytes / 1048576);
+      const have = await cachedClipKeys();
+      const missing = index.keys.filter(key => !have.has(key));
+      let cached = total - missing.length;
+      let failed = 0;
+      if (!missing.length) {
+        syncedAll = true;
+        setOfflineStatus(`离线语音：全部 ${total} 段已下载，断网也可以播放。`, '· 离线语音已就绪');
+      } else if (window.navigator?.onLine === false) {
+        setOfflineStatus(`离线语音：已下载 ${cached} / ${total} 段，其余要联网后才能下载；没下载的内容会用本机音色朗读。`, `· 离线语音 ${cached}/${total}`);
+      } else if (!manual && window.navigator?.connection?.saveData) {
+        setOfflineStatus(`离线语音：已下载 ${cached} / ${total} 段。已开启省流量模式，点“下载全部离线语音”可下载其余部分（共约 ${size} MB）。`, `· 离线语音 ${cached}/${total}`);
+      } else {
+        if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(() => {});
+        setOfflineStatus(`离线语音：正在下载 ${cached} / ${total} 段（共约 ${size} MB）…`, `· 离线语音下载中 ${cached}/${total}`);
+        let next = 0;
+        const worker = async () => {
+          while (next < missing.length && window.navigator?.onLine !== false) {
+            const key = missing[next++];
+            try {
+              const response = await fetch(`${OFFLINE_AUDIO_DIR}${key}.mp3`);
+              if (!response.ok) throw new Error(String(response.status));
+              await response.arrayBuffer();
+              cached++;
+            } catch (_) {
+              failed++;
+            }
+            if ((cached + failed) % 20 === 0) {
+              setOfflineStatus(`离线语音：正在下载 ${cached} / ${total} 段（共约 ${size} MB）…`, `· 离线语音下载中 ${cached}/${total}`);
+            }
+          }
+        };
+        await Promise.all(Array.from({ length: manual ? 4 : 2 }, worker));
+        if (cached >= total) {
+          syncedAll = true;
+          setOfflineStatus(`离线语音：全部 ${total} 段已下载，断网也可以播放。`, '· 离线语音已就绪');
+        } else {
+          setOfflineStatus(`离线语音：已下载 ${cached} / ${total} 段，其余下载失败或网络中断；联网后会自动继续，也可以再点一次“下载全部离线语音”。`, `· 离线语音 ${cached}/${total}`);
+        }
+      }
+    } catch (_) {
+      setOfflineStatus('离线语音：无法检查下载进度，请联网后重试。');
+    }
+    syncing = false;
   }
 
   function updateVoiceOptions() {
@@ -662,7 +717,7 @@
     const panel = document.createElement('details');
     panel.id = 'pronunciation-settings';
     panel.className = 'audio-settings';
-    panel.innerHTML = `<summary>发音设置 / Audio settings</summary>
+    panel.innerHTML = `<summary>发音设置 / Audio settings <span id="pronunciation-offline-badge"></span></summary>
       <div class="audio-settings-controls">
         <label>发音来源 <select id="pronunciation-source" aria-label="发音来源">
           <option value="offline-us">离线自然发音 · 美式（推荐）</option>
@@ -684,7 +739,8 @@
         <button type="button" class="ghost audio-preview">试听音色</button>
         <button type="button" class="ghost audio-download">下载全部离线语音</button>
       </div>
-      <p class="audio-settings-note">设置适用于全部课程，并保存在此设备。默认使用随网站提供的离线自然发音（美式），不向第三方发送内容；打开一课时会在后台预先加载这一课的语音，听过和加载过的内容会自动缓存，点“下载全部离线语音”可一次缓存全部，之后断网也能播放。选择在线发音时，朗读的英文会发送到有道词典发音服务。音量增强对离线和在线发音有效，对本机音色无效。单词和短语再点一次会从头重播，长句再点一次停止。<span class="audio-version">发音模块 v5</span></p>
+      <p class="audio-settings-note">设置适用于全部课程，并保存在此设备。默认使用随网站提供的离线自然发音（美式），不向第三方发送内容；联网打开网站时会在后台自动下载全部语音（约 63 MB），下载进度见下方；全部下载后断网也能播放，也可以点“下载全部离线语音”加快下载。选择在线发音时，朗读的英文会发送到有道词典发音服务。音量增强对离线和在线发音有效，对本机音色无效。单词和短语再点一次会从头重播，长句再点一次停止。<span class="audio-version">发音模块 v6</span></p>
+      <p id="pronunciation-offline"></p>
       <p id="pronunciation-status" role="status" aria-live="polite"></p>`;
     header.after(panel);
     const voiceSelect = panel.querySelector('#pronunciation-voice');
@@ -708,7 +764,9 @@
       saveSettings();
     });
     updateBoostOption();
-    panel.querySelector('.audio-download').addEventListener('click', downloadOfflineAudio);
+    panel.querySelector('.audio-download').addEventListener('click', () => syncOfflineAudio(true));
+    panel.querySelector('#pronunciation-offline').textContent = offlineStatus;
+    panel.querySelector('#pronunciation-offline-badge').textContent = offlineBadge;
     rateSelect.value = String(settings.rate);
     voiceSelect.addEventListener('change', () => {
       stopEnglish();
@@ -853,6 +911,8 @@
     speakEnglish(button.dataset.pronounce, Number(button.dataset.rate), button);
   });
 
+  setTimeout(() => syncOfflineAudio(false), AUTO_SYNC_DELAY_MS);
+  window.addEventListener('online', () => syncOfflineAudio(false));
   window.addEventListener('pagehide', () => stopEnglish());
   document.addEventListener('visibilitychange', () => {
     if (document.hidden) stopEnglish();
