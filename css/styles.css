@@ -21,9 +21,12 @@
 .audio-download:disabled{opacity:.6;cursor:progress}
 .audio-version{margin-left:8px;opacity:.7;white-space:nowrap}
 .audio-preview.is-speaking{background:var(--accent2);color:var(--accent)}
-.audio-settings-note,#pronunciation-status{margin:10px 0 0;color:var(--muted);font-size:13px;overflow-wrap:anywhere}
+.audio-settings-note,#pronunciation-status,#pronunciation-offline{margin:10px 0 0;color:var(--muted);font-size:13px;overflow-wrap:anywhere}
 #pronunciation-status:empty{display:none}
 @media(max-width:767px){.audio-settings{padding:12px}.audio-settings-controls{align-items:stretch}.audio-settings-controls label:first-child{flex-basis:100%}}
 /* Reading questions cite paragraphs by letter; label those that carry no letter in their text. */
 .reading.lettered{counter-reset:reading-paragraph}
 .reading.lettered>p::before{counter-increment:reading-paragraph;content:counter(reading-paragraph,upper-alpha) ". ";font-weight:700}
+#pronunciation-offline{font-weight:600;color:var(--accent)}
+#pronunciation-offline:empty{display:none}
+#pronunciation-offline-badge{font-weight:400;color:var(--muted);font-size:13px}

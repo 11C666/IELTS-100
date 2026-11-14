@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ielts-mastery-v10';
+const CACHE_NAME = 'ielts-mastery-v11';
 // Clips are named by a hash of their text, so this cache survives app updates.
 const AUDIO_CACHE_NAME = 'ielts-audio-v1';
 const DAY_FILES = Array.from({ length: 100 }, (_, index) =>
@@ -48,6 +48,16 @@ self.addEventListener('fetch', event => {
 // and cache the whole clip, then answer the requested range from it.
 async function audioResponse(request) {
   const cache = await caches.open(AUDIO_CACHE_NAME);
+  if (request.url.endsWith('index.json')) {
+    // The clip list changes when lessons change: prefer the network, keep a copy for offline.
+    try {
+      const fresh = await fetch(request.url, { cache: 'no-cache' });
+      if (fresh.status === 200) cache.put(request.url, fresh.clone());
+      return fresh;
+    } catch (_) {
+      return (await cache.match(request.url)) || Response.error();
+    }
+  }
   let full = await cache.match(request.url);
   if (!full) {
     try {
