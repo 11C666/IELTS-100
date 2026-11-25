@@ -43,6 +43,13 @@ nav button.on{background:var(--pri2);color:var(--pri);font-weight:600}
 .speak{margin-top:14px;border:0;background:var(--pri2);color:var(--pri);border-radius:50%;width:52px;height:52px;font-size:22px;cursor:pointer}
 .meaning{margin-top:18px;font-size:18px;line-height:1.7;max-width:520px}
 .meaning .pos{color:var(--pri);font-weight:600;margin-right:4px}
+.col{margin-top:16px;width:100%;max-width:520px;border-top:1px dashed var(--line);padding-top:12px;text-align:left}
+.col-item{display:flex;align-items:baseline;gap:10px;padding:7px 10px;border-radius:10px;cursor:pointer}
+.col-item:hover{background:var(--bg)}
+.col-item b{font-weight:600;color:var(--ink)}
+.col-item span{color:var(--sub);font-size:14px}
+.col-item i{font-style:normal;font-size:13px;opacity:.6;margin-left:auto}
+.list .m small{display:block;color:var(--pri);margin-top:2px}
 .tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:20px;background:var(--bad2);color:var(--bad);margin-top:10px}
 .hint{text-align:center;font-size:12px;color:var(--sub);margin-top:10px}
 .list{list-style:none;margin:0;padding:0}
@@ -76,10 +83,12 @@ input[type=search]{width:100%;border:1px solid var(--line);border-radius:10px;ba
 </div>
 <div class="toast" id="toast"></div>
 <script src="words.js"></script>
+<script src="collocations.js"></script>
 <script>
 (function(){
 'use strict';
-const W = window.REVIEW_WORDS;           // [word, ipa, meaning, unit]
+const W = window.REVIEW_WORDS;
+const COL = window.REVIEW_COLLOCATIONS || {};           // [word, ipa, meaning, unit]
 const PER_DAY = 100;
 const DAYS = Math.ceil(W.length / PER_DAY);   // 30
 const KEY = 'wordReview30V1';
@@ -190,7 +199,7 @@ function showDay(d){
   bindList(el);
   el.scrollIntoView({behavior:'smooth'});
 }
-function li(i,count){ const [w,ipa,m]=W[i]; return `<li data-i="${i}"><div class="w">${esc(w)}<small>/${esc(ipa)}/</small></div><div class="m">${esc(m)}</div>${count?`<div class="c">错 ${count} 次</div>`:''}</li>`; }
+function li(i,count){ const [w,ipa,m]=W[i]; return `<li data-i="${i}"><div class="w">${esc(w)}<small>/${esc(ipa)}/</small></div><div class="m">${esc(m)}${(COL[w.toLowerCase()]||[]).map(([en,zh])=>`<small>${esc(en)} ${esc(zh)}</small>`).join('')}</div>${count?`<div class="c">错 ${count} 次</div>`:''}</li>`; }
 function bindList(el){ el.querySelectorAll('.list').forEach(u=>u.onclick=e=>{ const l=e.target.closest('li'); if(l) speak(W[+l.dataset.i][0]); }); }
 
 /* ---------- wrong words ---------- */
@@ -270,7 +279,7 @@ function drawCard(){
     <div class="word">${esc(w)}</div>
     ${S.settings.showIpa?`<div class="ipa">/${esc(ipa)}/</div>`:''}
     <button class="speak" id="sp" aria-label="朗读">🔊</button>
-    ${phase==='back'?`<div class="meaning">${meaning}</div>`:''}
+    ${phase==='back'?`<div class="meaning">${meaning}</div>${colHtml(w)}`:''}
     ${phase==='front'?missTag:''}
   </section>
   ${phase==='front'
@@ -282,12 +291,15 @@ function drawCard(){
   const $=id=>document.getElementById(id);
   $('quit').onclick=()=>{ go(s.kind==='day'?'home':'wrong'); };
   $('sp').onclick=()=>speak(w);
+  view.querySelectorAll('.col-item').forEach(el=>el.onclick=()=>speak(el.dataset.say.replace(/\bsb\b/g,'somebody').replace(/\bsth\b/g,'something')));
   if($('yes')) $('yes').onclick=()=>mark(true);
   if($('no')) $('no').onclick=()=>mark(false);
   if($('oops')) $('oops').onclick=()=>{ addMiss(i); requeue(); };
   if($('next')) $('next').onclick=()=>{ answer==='yes'?pass():requeue(); };
   if(phase==='front' && S.settings.autoplay) speak(w);
 }
+function colHtml(w){ const c=COL[w.toLowerCase()]; if(!c||!c.length) return '';
+  return `<div class="col">${c.map(([en,zh])=>`<div class="col-item" data-say="${esc(en)}"><b>${esc(en)}</b><span>${esc(zh)}</span><i>🔊</i></div>`).join('')}</div>`; }
 function addMiss(i){ S.miss[i]=(S.miss[i]||0)+1; }
 function mark(known){
   const i=S.session.queue[0];
