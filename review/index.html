@@ -125,20 +125,65 @@ let voice=null;
 function pickVoice(){ if(!window.speechSynthesis) return; const vs=speechSynthesis.getVoices().filter(v=>/en[-_]US/i.test(v.lang));
   voice = vs.find(v=>/Samantha|Google US|Aria|Jenny|Ava|Allison/i.test(v.name)) || vs[0] || null; }
 if (window.speechSynthesis){ pickVoice(); speechSynthesis.onvoiceschanged=pickVoice; }
-const audioCache=new Map(); let onlineOk=true;
-function clip(w){ if(!audioCache.has(w)){ const a=new Audio('https://dict.youdao.com/dictvoice?type=2&audio='+encodeURIComponent(w)); a.preload='auto'; audioCache.set(w,a);} return audioCache.get(w); }
-function tts(w){ if(!window.speechSynthesis) return; speechSynthesis.cancel(); const u=new SpeechSynthesisUtterance(w); u.lang='en-US'; if(voice) u.voice=voice; u.rate=0.9; speechSynthesis.speak(u); }
-function speak(w){
-  if(!onlineOk || !navigator.onLine){ tts(w); return; }
-  const a=clip(w); let started=false;
-  const fail=()=>{ if(started) return; started=true; tts(w); };
-  a.onplaying=()=>{ started=true; };
-  a.onerror=fail;
-  try{ a.currentTime=0; }catch(e){}
-  const p=a.play(); if(p&&p.catch) p.catch(fail);
-  setTimeout(()=>{ if(!started){ a.pause(); fail(); } },2500);
+/* Clips in ./audio are named with the same hash the main site uses (cyrb53 of the spoken text). */
+function audioKey(text){ let h1=0xdeadbeef,h2=0x41c6ce57; for(let i=0;i<text.length;i++){ const c=text.charCodeAt(i); h1=Math.imul(h1^c,2654435761); h2=Math.imul(h2^c,1597334677); }
+  h1=Math.imul(h1^(h1>>>16),2246822507)^Math.imul(h2^(h2>>>13),3266489909); h2=Math.imul(h2^(h2>>>16),2246822507)^Math.imul(h1^(h1>>>13),3266489909);
+  return (h2>>>0).toString(16).padStart(8,'0')+(h1>>>0).toString(16).padStart(8,'0'); }
+/* How a collocation is read aloud; must match tools/review_audio.py in this folder's build. */
+function spoken(en){ return en.replace(/\bsb's\b/g,"somebody's").replace(/\bsb\b/g,'somebody').replace(/\bsth\b/g,'something').replace(/…/g,' ').replace(/\//g,' or ')
+  .replace(/\s+/g,' ').replace(/\s+([,.])/g,'$1').replace(/,\s*$/,'').replace(/^[\s,]+|[\s,]+$/g,''); }
+const LOCAL_FILE=location.protocol==='file:';
+let player=null, playToken=0;
+function playUrl(url, ms){ return new Promise((ok,bad)=>{ const a=new Audio(url); player=a; let done=false;
+  const t=setTimeout(()=>{ if(!done){ done=true; a.pause(); bad(); } }, ms);
+  a.onplaying=()=>{ if(!done){ done=true; clearTimeout(t); ok(); } };
+  a.onerror=()=>{ if(!done){ done=true; clearTimeout(t); bad(); } };
+  const p=a.play(); if(p&&p.catch) p.catch(()=>{ if(!done){ done=true; clearTimeout(t); bad(); } }); }); }
+function tts(text){ if(!window.speechSynthesis) return; speechSynthesis.cancel(); const u=new SpeechSynthesisUtterance(text); u.lang='en-US'; if(voice) u.voice=voice; u.rate=0.9; speechSynthesis.speak(u); }
+async function speak(text){
+  const token=++playToken; if(player){ try{ player.pause(); }catch(e){} } if(window.speechSynthesis) speechSynthesis.cancel();
+  const online=navigator.onLine!==false;
+  try{ await playUrl('audio/'+audioKey(text)+'.mp3', online?4000:1500); return; }catch(e){}
+  if(token!==playToken) return;
+  if(online){ try{ await playUrl('https://dict.youdao.com/dictvoice?type=2&audio='+encodeURIComponent(text), 3000); return; }catch(e){} }
+  if(token===playToken) tts(text);
 }
-function preload(w){ if(onlineOk && navigator.onLine) clip(w); }
+function preload(text){ if(navigator.onLine!==false && !LOCAL_FILE) fetch('audio/'+audioKey(text)+'.mp3').catch(()=>{}); }
+
+/* ---------- offline audio download ---------- */
+const AUDIO_CACHE='ielts-audio-v1'; // same cache as the main site's service worker
+let audioState={total:0,have:0,bytes:0,busy:false,msg:''};
+async function audioIndex(){ return (await fetch('audio/index.json',{cache:'no-cache'})).json(); }
+async function checkAudio(){
+  if(LOCAL_FILE){ audioState.msg='本地文件模式：直接读取 audio 文件夹，无需下载。'; return; }
+  if(!window.caches){ audioState.msg='当前浏览器不支持离线保存（例如无痕模式）。'; return; }
+  try{ const idx=await audioIndex(); const cache=await caches.open(AUDIO_CACHE);
+    const have=new Set((await cache.keys()).map(r=>r.url.split('/').pop().replace('.mp3','')));
+    audioState.total=idx.keys.length; audioState.bytes=idx.bytes; audioState.have=idx.keys.filter(k=>have.has(k)).length;
+    audioState.missing=idx.keys.filter(k=>!have.has(k));
+    audioState.msg = audioState.have>=audioState.total ? `全部 ${audioState.total} 段已下载，断网也能播放 ✓` : `已下载 ${audioState.have} / ${audioState.total} 段（全部约 ${Math.round(audioState.bytes/1048576)} MB）`;
+  }catch(e){ audioState.msg='需要联网才能检查离线发音。'; }
+}
+async function downloadAudio(onProgress){
+  if(audioState.busy) return; await checkAudio();
+  if(!navigator.serviceWorker||!navigator.serviceWorker.controller){ audioState.msg='离线功能还在准备，请刷新页面后再点一次。'; onProgress(); return; }
+  if(!audioState.missing||!audioState.missing.length){ onProgress(); return; }
+  if(navigator.storage&&navigator.storage.persist) navigator.storage.persist().catch(()=>{});
+  audioState.busy=true; const list=audioState.missing.slice(); let next=0, failed=0;
+  const worker=async()=>{ while(next<list.length && navigator.onLine!==false){ const k=list[next++];
+    try{ const r=await fetch('audio/'+k+'.mp3'); if(!r.ok) throw 0; await r.arrayBuffer(); audioState.have++; }catch(e){ failed++; }
+    if((audioState.have+failed)%25===0){ audioState.msg=`正在下载 ${audioState.have} / ${audioState.total} 段…`; onProgress(); } } };
+  await Promise.all([worker(),worker(),worker(),worker()]);
+  audioState.busy=false; await checkAudio();
+  if(failed||audioState.have<audioState.total) audioState.msg+='，部分没下完，联网后再点一次即可继续。';
+  onProgress();
+}
+if('serviceWorker' in navigator && !LOCAL_FILE){
+  navigator.serviceWorker.register('../service-worker.js',{scope:'../',updateViaCache:'none'}).then(r=>r.update()).catch(()=>{});
+  // Once the worker controls this page, fetch the page files through it so they are kept for offline use.
+  const keepPage=()=>{ if(navigator.serviceWorker.controller) ['./','words.js','collocations.js'].forEach(u=>fetch(u).catch(()=>{})); };
+  navigator.serviceWorker.addEventListener('controllerchange',keepPage); navigator.serviceWorker.ready.then(keepPage);
+}
 
 /* ---------- tabs ---------- */
 let tab='home';
@@ -177,6 +222,9 @@ function renderHome(){
     </div>
   </section>`;
   document.getElementById('start').onclick=()=>startDay(d);
+  checkAudio().then(()=>{ if(tab!=='home'||!audioState.total||audioState.have>=audioState.total||LOCAL_FILE) return;
+    const c=document.createElement('section'); c.className='card'; c.innerHTML=`<div class="muted">网不好时也想听发音？到“设置”里下载离线发音（约 ${Math.round(audioState.bytes/1048576)} MB，下载一次即可）。</div>`;
+    c.style.cursor='pointer'; c.onclick=()=>go('settings'); view.appendChild(c); });
 }
 
 /* ---------- plan ---------- */
@@ -222,6 +270,11 @@ function renderSettings(){
     <div class="set"><div>显示音标<div class="muted">美式音标</div></div><input type="checkbox" id="si" ${S.settings.showIpa?'checked':''}></div>
     <div class="set"><div>试听发音</div><button class="btn ghost" id="test">🔊 schedule</button></div>
   </section>
+  <section class="card"><div class="big" style="font-size:18px">离线发音</div>
+    <div class="muted">在有网的时候点一次，把全部单词和搭配的美式发音存到这台设备上，之后没网也能播放。</div>
+    <div class="muted" id="astat" style="margin:10px 0;color:var(--ink)">正在检查…</div>
+    <button class="btn block" id="adl">下载离线发音</button>
+  </section>
   <section class="card"><div class="big" style="font-size:18px">换设备 / 备份进度</div>
     <div class="muted">进度保存在本浏览器里。换手机或电脑时，在这里复制进度码，到新设备粘贴导入。</div>
     <div class="row" style="margin-top:10px"><button class="btn ghost" id="exp">复制进度码</button><button class="btn ghost" id="imp">导入进度码</button></div>
@@ -236,6 +289,9 @@ function renderSettings(){
   $('ap').onchange=e=>{ S.settings.autoplay=e.target.checked; save(); };
   $('si').onchange=e=>{ S.settings.showIpa=e.target.checked; save(); };
   $('test').onclick=()=>speak('schedule');
+  const showA=()=>{ const el=$('astat'); if(!el) return; el.textContent=audioState.msg; const b=$('adl'); if(b){ b.disabled=audioState.busy; b.textContent=audioState.busy?'下载中…':(audioState.total&&audioState.have>=audioState.total?'已全部下载 ✓':'下载离线发音'); } };
+  checkAudio().then(showA);
+  $('adl').onclick=()=>downloadAudio(showA).then(showA);
   $('jump').onchange=e=>{ S.day=+e.target.value; S.session=null; save(); toast('已切换到第 '+S.day+' 天'); };
   $('exp').onclick=()=>{ const code=btoa(unescape(encodeURIComponent(JSON.stringify(S)))); const t=$('code'); t.classList.remove('hidden'); t.value=code; t.select();
     (navigator.clipboard?navigator.clipboard.writeText(code):Promise.reject()).then(()=>toast('已复制进度码'),()=>toast('请手动复制上面的进度码')); };
@@ -268,7 +324,7 @@ function drawCard(){
   const s=S.session;
   if(!s.queue.length){ finish(); return; }
   const i=s.queue[0], [w,ipa,m]=W[i];
-  if(s.queue[1]!=null) preload(W[s.queue[1]][0]);
+  if(s.queue[1]!=null){ const nw=W[s.queue[1]][0]; preload(nw); (COL[nw.toLowerCase()]||[]).forEach(c=>preload(spoken(c[0]))); }
   const title=s.kind==='day'?`第 ${s.day} 天`:'错词练习';
   const meaning=m.split('；').map(p=>{ const mm=p.match(/^([a-z]+\.(?:\s*&\s*[a-z]+\.)?)\s*(.*)$/); return mm?`<div><span class="pos">${esc(mm[1])}</span>${esc(mm[2])}</div>`:`<div>${esc(p)}</div>`; }).join('');
   const missTag = S.miss[i] ? `<div class="tag">错过 ${S.miss[i]} 次</div>` : '';
@@ -291,7 +347,7 @@ function drawCard(){
   const $=id=>document.getElementById(id);
   $('quit').onclick=()=>{ go(s.kind==='day'?'home':'wrong'); };
   $('sp').onclick=()=>speak(w);
-  view.querySelectorAll('.col-item').forEach(el=>el.onclick=()=>speak(el.dataset.say.replace(/\bsb\b/g,'somebody').replace(/\bsth\b/g,'something')));
+  view.querySelectorAll('.col-item').forEach(el=>el.onclick=()=>speak(spoken(el.dataset.say)));
   if($('yes')) $('yes').onclick=()=>mark(true);
   if($('no')) $('no').onclick=()=>mark(false);
   if($('oops')) $('oops').onclick=()=>{ addMiss(i); requeue(); };
@@ -333,7 +389,6 @@ document.addEventListener('keydown',e=>{
   else if(e.key==='ArrowLeft') click('no')||click('oops');
   else if(e.key==='ArrowRight'||e.key==='Enter') click('yes')||click('next');
 });
-window.addEventListener('online',()=>{ onlineOk=true; });
 
 render();
 })();
