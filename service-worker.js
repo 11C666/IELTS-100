@@ -34,6 +34,17 @@ self.addEventListener('fetch', event => {
     event.respondWith(audioResponse(event.request));
     return;
   }
+  // The word-review page changes often and keeps its own progress: always try the network first.
+  if (new URL(event.request.url).pathname.includes('/review/')) {
+    event.respondWith(fetch(event.request).then(response => {
+      if (response && response.status === 200) {
+        const copy = response.clone();
+        caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy));
+      }
+      return response;
+    }).catch(() => caches.match(event.request).then(cached => cached || Response.error())));
+    return;
+  }
   event.respondWith(
     caches.match(event.request).then(cached => cached || fetch(event.request).then(response => {
       if (!response || response.status !== 200 || response.type === 'opaque') return response;

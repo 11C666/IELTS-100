@@ -1,0 +1,330 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1f3a5f">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>单词复习 · 30 天</title>
+<style>
+:root{--bg:#f4f6fa;--card:#fff;--ink:#1c2533;--sub:#677489;--line:#e3e8ef;--pri:#1f5fbf;--pri2:#e8f0fc;--ok:#1d8a5a;--ok2:#e4f5ec;--bad:#c8433a;--bad2:#fcebea;--r:16px}
+@media (prefers-color-scheme:dark){:root{--bg:#11151c;--card:#1a2029;--ink:#e8edf4;--sub:#93a0b4;--line:#2a323e;--pri:#6ea4ff;--pri2:#1d2b42;--ok:#47c48a;--ok2:#17302a;--bad:#ff7b70;--bad2:#3a1f1d}}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}
+.wrap{max-width:680px;margin:0 auto;padding:14px 14px calc(24px + env(safe-area-inset-bottom))}
+header{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:4px 0 14px}
+header h1{font-size:20px;margin:0}
+header a{color:var(--sub);font-size:14px;text-decoration:none}
+nav{display:flex;gap:6px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px;margin-bottom:14px}
+nav button{flex:1;border:0;background:none;color:var(--sub);padding:8px 4px;border-radius:9px;font:inherit;font-size:15px;cursor:pointer}
+nav button.on{background:var(--pri2);color:var(--pri);font-weight:600}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:18px;margin-bottom:14px}
+.muted{color:var(--sub);font-size:14px}
+.big{font-size:26px;font-weight:700;margin:2px 0}
+.bar{height:8px;background:var(--line);border-radius:6px;overflow:hidden;margin:10px 0 6px}
+.bar i{display:block;height:100%;background:var(--pri);border-radius:6px;transition:width .3s}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;border:0;border-radius:12px;padding:13px 18px;font:inherit;font-weight:600;cursor:pointer;background:var(--pri);color:#fff}
+.btn.ghost{background:var(--pri2);color:var(--pri)}
+.btn.ok{background:var(--ok)}.btn.bad{background:var(--bad)}
+.btn.block{width:100%}
+.row{display:flex;gap:10px}.row>*{flex:1}
+.grid{display:grid;grid-template-columns:repeat(6,1fr);gap:7px;margin-top:10px}
+.day{border:1px solid var(--line);border-radius:10px;padding:7px 0;text-align:center;font-size:14px;background:var(--bg);cursor:pointer;color:var(--ink)}
+.day.done{background:var(--ok2);border-color:transparent;color:var(--ok);font-weight:600}
+.day.cur{outline:2px solid var(--pri);outline-offset:-2px;font-weight:700}
+.stats{display:flex;gap:10px;margin-top:12px}
+.stats div{flex:1;background:var(--bg);border-radius:12px;padding:10px;text-align:center}
+.stats b{display:block;font-size:20px}
+/* study */
+.study-top{display:flex;justify-content:space-between;align-items:center;font-size:14px;color:var(--sub)}
+.flash{min-height:300px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:26px 14px}
+.word{font-size:42px;font-weight:700;letter-spacing:.3px;word-break:break-word;line-height:1.2}
+.ipa{font-size:19px;color:var(--sub);margin-top:6px;font-family:"Lucida Sans Unicode","Arial Unicode MS","Segoe UI",sans-serif}
+.speak{margin-top:14px;border:0;background:var(--pri2);color:var(--pri);border-radius:50%;width:52px;height:52px;font-size:22px;cursor:pointer}
+.meaning{margin-top:18px;font-size:18px;line-height:1.7;max-width:520px}
+.meaning .pos{color:var(--pri);font-weight:600;margin-right:4px}
+.tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:20px;background:var(--bad2);color:var(--bad);margin-top:10px}
+.hint{text-align:center;font-size:12px;color:var(--sub);margin-top:10px}
+.list{list-style:none;margin:0;padding:0}
+.list li{display:flex;gap:10px;align-items:flex-start;padding:10px 2px;border-bottom:1px solid var(--line);cursor:pointer}
+.list li:last-child{border:0}
+.list .w{font-weight:600;min-width:120px}
+.list .w small{display:block;font-weight:400;color:var(--sub);font-size:13px}
+.list .m{flex:1;font-size:14px;color:var(--sub)}
+.list .c{font-size:13px;color:var(--bad);white-space:nowrap}
+.done-box{text-align:center;padding:30px 10px}
+.done-box .em{font-size:52px}
+.set{display:flex;justify-content:space-between;align-items:center;padding:10px 0;border-bottom:1px solid var(--line)}
+.set:last-child{border:0}
+textarea{width:100%;min-height:90px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);padding:10px;font:13px monospace}
+input[type=search]{width:100%;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);padding:10px 12px;font:inherit;margin-bottom:8px}
+.toast{position:fixed;left:50%;bottom:30px;transform:translateX(-50%);background:#222c;color:#fff;padding:9px 16px;border-radius:20px;font-size:14px;opacity:0;transition:opacity .25s;pointer-events:none}
+.toast.show{opacity:1}
+.hidden{display:none!important}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header><h1>📘 单词复习</h1><a href="../">← IELTS-100</a></header>
+  <nav id="tabs">
+    <button data-tab="home" class="on">今日</button>
+    <button data-tab="plan">30 天计划</button>
+    <button data-tab="wrong">错词本</button>
+    <button data-tab="settings">设置</button>
+  </nav>
+  <main id="view"></main>
+</div>
+<div class="toast" id="toast"></div>
+<script src="words.js"></script>
+<script>
+(function(){
+'use strict';
+const W = window.REVIEW_WORDS;           // [word, ipa, meaning, unit]
+const PER_DAY = 100;
+const DAYS = Math.ceil(W.length / PER_DAY);   // 30
+const KEY = 'wordReview30V1';
+const view = document.getElementById('view');
+
+/* ---------- state ---------- */
+const blank = () => ({round:1, day:1, done:{}, miss:{}, lastDone:'', streak:0, settings:{autoplay:true, showIpa:true}, session:null});
+let S;
+try { S = Object.assign(blank(), JSON.parse(localStorage.getItem(KEY) || '{}')); } catch(e) { S = blank(); }
+S.settings = Object.assign(blank().settings, S.settings || {});
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch(e) {} };
+const today = () => { const d = new Date(); return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'); };
+const addDays = (n) => { const d = new Date(); d.setDate(d.getDate()+n); return (d.getMonth()+1)+'月'+d.getDate()+'日'; };
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const shuffle = a => { for (let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; };
+function toast(t){ const el=document.getElementById('toast'); el.textContent=t; el.classList.add('show'); clearTimeout(toast.t); toast.t=setTimeout(()=>el.classList.remove('show'),1600); }
+
+/* indices of a plan day. The last day is short, so it is topped up with this round's most-missed words. */
+function dayRange(d){ const s=(d-1)*PER_DAY; return [s, Math.min(s+PER_DAY, W.length)]; }
+function dayIndices(d){
+  const [s,e]=dayRange(d); const ids=[]; for(let i=s;i<e;i++) ids.push(i);
+  if (ids.length < PER_DAY) {
+    const have=new Set(ids);
+    const missed=Object.entries(S.miss).filter(([i])=>!have.has(+i)).sort((a,b)=>b[1]-a[1]).map(([i])=>+i);
+    for (const i of missed){ if(ids.length>=PER_DAY) break; ids.push(i); have.add(i); }
+  }
+  return ids;
+}
+function unitSpan(d){ const [s,e]=dayRange(d); const a=W[s][3], b=W[e-1][3]; return a===b ? 'Unit '+a : 'Unit '+a+' – '+b; }
+const doneCount = () => Object.keys(S.done).length;
+
+/* ---------- pronunciation (US) ---------- */
+let voice=null;
+function pickVoice(){ if(!window.speechSynthesis) return; const vs=speechSynthesis.getVoices().filter(v=>/en[-_]US/i.test(v.lang));
+  voice = vs.find(v=>/Samantha|Google US|Aria|Jenny|Ava|Allison/i.test(v.name)) || vs[0] || null; }
+if (window.speechSynthesis){ pickVoice(); speechSynthesis.onvoiceschanged=pickVoice; }
+const audioCache=new Map(); let onlineOk=true;
+function clip(w){ if(!audioCache.has(w)){ const a=new Audio('https://dict.youdao.com/dictvoice?type=2&audio='+encodeURIComponent(w)); a.preload='auto'; audioCache.set(w,a);} return audioCache.get(w); }
+function tts(w){ if(!window.speechSynthesis) return; speechSynthesis.cancel(); const u=new SpeechSynthesisUtterance(w); u.lang='en-US'; if(voice) u.voice=voice; u.rate=0.9; speechSynthesis.speak(u); }
+function speak(w){
+  if(!onlineOk || !navigator.onLine){ tts(w); return; }
+  const a=clip(w); let started=false;
+  const fail=()=>{ if(started) return; started=true; tts(w); };
+  a.onplaying=()=>{ started=true; };
+  a.onerror=fail;
+  try{ a.currentTime=0; }catch(e){}
+  const p=a.play(); if(p&&p.catch) p.catch(fail);
+  setTimeout(()=>{ if(!started){ a.pause(); fail(); } },2500);
+}
+function preload(w){ if(onlineOk && navigator.onLine) clip(w); }
+
+/* ---------- tabs ---------- */
+let tab='home';
+document.getElementById('tabs').addEventListener('click',e=>{ const b=e.target.closest('button'); if(!b) return; go(b.dataset.tab); });
+function go(t){ tab=t; document.querySelectorAll('#tabs button').forEach(b=>b.classList.toggle('on',b.dataset.tab===t)); document.getElementById('tabs').classList.remove('hidden'); render(); window.scrollTo(0,0); }
+function render(){ ({home:renderHome,plan:renderPlan,wrong:renderWrong,settings:renderSettings})[tab](); }
+
+/* ---------- home ---------- */
+function renderHome(){
+  const d=S.day, doneToday=S.lastDone===today();
+  const sess=S.session && S.session.kind==='day' && S.session.day===d ? S.session : null;
+  const left=DAYS-doneCount();
+  const pct=Math.round(doneCount()/DAYS*100);
+  const [s,e]=dayRange(d);
+  view.innerHTML=`
+  <section class="card">
+    <div class="muted">第 ${S.round} 轮 · 总进度 ${doneCount()} / ${DAYS} 天</div>
+    <div class="bar"><i style="width:${pct}%"></i></div>
+    <div class="muted">${left>0?`照每天 100 个，预计 ${addDays(doneToday?left:left-1)} 复习完这一轮`:'本轮已全部完成 🎉'}</div>
+  </section>
+  <section class="card">
+    ${doneToday?`<div class="done-box" style="padding:6px 0 14px"><div class="em">✅</div><div class="big">今天的任务完成了</div><div class="muted">明天继续第 ${d} 天</div></div>`:''}
+    <div class="muted">${doneToday?'下一组':'今天'}：第 ${d} 天 / ${DAYS}</div>
+    <div class="big">${unitSpan(d)}</div>
+    <div class="muted">单词 ${s+1} – ${e}${e-s<PER_DAY?` + ${PER_DAY-(e-s)} 个错得最多的词`:''}</div>
+    ${sess?`<div class="bar"><i style="width:${Math.round(sess.passed/sess.total*100)}%"></i></div><div class="muted">已过 ${sess.passed} / ${sess.total}</div>`:''}
+    <div style="margin-top:14px">
+      <button class="btn block ${doneToday?'ghost':''}" id="start">${sess?'继续复习':doneToday?'提前复习下一组':'开始今天的 100 个'}</button>
+    </div>
+  </section>
+  <section class="card">
+    <div class="stats">
+      <div><b>${S.streak||0}</b><span class="muted">连续天数</span></div>
+      <div><b>${doneCount()*PER_DAY>W.length?W.length:doneCount()*PER_DAY}</b><span class="muted">本轮已复习</span></div>
+      <div><b>${Object.keys(S.miss).length}</b><span class="muted">错词</span></div>
+    </div>
+  </section>`;
+  document.getElementById('start').onclick=()=>startDay(d);
+}
+
+/* ---------- plan ---------- */
+function renderPlan(){
+  let cells='';
+  for(let d=1;d<=DAYS;d++) cells+=`<div class="day ${S.done[d]?'done':''} ${d===S.day?'cur':''}" data-d="${d}">${S.done[d]?'✓ ':''}${d}</div>`;
+  view.innerHTML=`<section class="card"><div class="big" style="font-size:20px">30 天计划</div>
+    <div class="muted">${W.length} 个词按你的原始顺序，每天 100 个，第 ${DAYS} 天剩余 ${W.length-(DAYS-1)*PER_DAY} 个，另补错得最多的词凑满 100。点某一天可查看单词表或单独练习。</div>
+    <div class="grid" id="grid">${cells}</div></section><div id="detail"></div>`;
+  document.getElementById('grid').onclick=e=>{ const c=e.target.closest('.day'); if(c) showDay(+c.dataset.d); };
+}
+function showDay(d){
+  const ids=dayIndices(d);
+  const el=document.getElementById('detail');
+  el.innerHTML=`<section class="card"><div style="display:flex;justify-content:space-between;align-items:center;gap:10px">
+    <div><div class="big" style="font-size:20px">第 ${d} 天</div><div class="muted">${unitSpan(d)} · ${ids.length} 个${S.done[d]?' · 完成于 '+S.done[d]:''}</div></div>
+    <button class="btn" id="practice">练这一天</button></div>
+    <ul class="list" style="margin-top:8px">${ids.map(i=>li(i)).join('')}</ul></section>`;
+  document.getElementById('practice').onclick=()=>startDay(d);
+  bindList(el);
+  el.scrollIntoView({behavior:'smooth'});
+}
+function li(i,count){ const [w,ipa,m]=W[i]; return `<li data-i="${i}"><div class="w">${esc(w)}<small>/${esc(ipa)}/</small></div><div class="m">${esc(m)}</div>${count?`<div class="c">错 ${count} 次</div>`:''}</li>`; }
+function bindList(el){ el.querySelectorAll('.list').forEach(u=>u.onclick=e=>{ const l=e.target.closest('li'); if(l) speak(W[+l.dataset.i][0]); }); }
+
+/* ---------- wrong words ---------- */
+function renderWrong(){
+  const list=Object.entries(S.miss).sort((a,b)=>b[1]-a[1]);
+  view.innerHTML=`<section class="card"><div style="display:flex;justify-content:space-between;align-items:center;gap:10px">
+    <div><div class="big" style="font-size:20px">错词本</div><div class="muted">共 ${list.length} 个，点“不认识”或“记错了”的词会进来</div></div>
+    ${list.length?`<button class="btn" id="pw">练错词</button>`:''}</div>
+    ${list.length?`<input type="search" id="q" placeholder="搜索单词或释义" style="margin-top:12px"><ul class="list" id="wl">${list.map(([i,c])=>li(+i,c)).join('')}</ul>`:'<p class="muted">暂时没有错词。</p>'}</section>`;
+  if(!list.length) return;
+  document.getElementById('pw').onclick=()=>startWrong();
+  document.getElementById('q').oninput=e=>{ const q=e.target.value.trim().toLowerCase(); document.querySelectorAll('#wl li').forEach(l=>{ const [w,,m]=W[+l.dataset.i]; l.classList.toggle('hidden', q && !w.toLowerCase().includes(q) && !m.includes(q)); }); };
+  bindList(view);
+}
+
+/* ---------- settings ---------- */
+function renderSettings(){
+  view.innerHTML=`<section class="card">
+    <div class="set"><div>自动朗读（美式发音）<div class="muted">每个词出现时自动读一遍</div></div><input type="checkbox" id="ap" ${S.settings.autoplay?'checked':''}></div>
+    <div class="set"><div>显示音标<div class="muted">美式音标</div></div><input type="checkbox" id="si" ${S.settings.showIpa?'checked':''}></div>
+    <div class="set"><div>试听发音</div><button class="btn ghost" id="test">🔊 schedule</button></div>
+  </section>
+  <section class="card"><div class="big" style="font-size:18px">换设备 / 备份进度</div>
+    <div class="muted">进度保存在本浏览器里。换手机或电脑时，在这里复制进度码，到新设备粘贴导入。</div>
+    <div class="row" style="margin-top:10px"><button class="btn ghost" id="exp">复制进度码</button><button class="btn ghost" id="imp">导入进度码</button></div>
+    <textarea id="code" class="hidden" placeholder="把进度码粘贴到这里，再点“导入进度码”"></textarea>
+  </section>
+  <section class="card"><div class="big" style="font-size:18px">调整进度</div>
+    <div class="set"><div>当前从第几天开始</div><select id="jump">${Array.from({length:DAYS},(_,i)=>`<option ${i+1===S.day?'selected':''}>${i+1}</option>`).join('')}</select></div>
+    <div class="set"><div>清空错词本</div><button class="btn ghost" id="cw">清空</button></div>
+    <div class="set"><div>全部重置</div><button class="btn bad" id="rs">重置</button></div>
+  </section>`;
+  const $=id=>document.getElementById(id);
+  $('ap').onchange=e=>{ S.settings.autoplay=e.target.checked; save(); };
+  $('si').onchange=e=>{ S.settings.showIpa=e.target.checked; save(); };
+  $('test').onclick=()=>speak('schedule');
+  $('jump').onchange=e=>{ S.day=+e.target.value; S.session=null; save(); toast('已切换到第 '+S.day+' 天'); };
+  $('exp').onclick=()=>{ const code=btoa(unescape(encodeURIComponent(JSON.stringify(S)))); const t=$('code'); t.classList.remove('hidden'); t.value=code; t.select();
+    (navigator.clipboard?navigator.clipboard.writeText(code):Promise.reject()).then(()=>toast('已复制进度码'),()=>toast('请手动复制上面的进度码')); };
+  $('imp').onclick=()=>{ const t=$('code'); if(t.classList.contains('hidden')||!t.value.trim()){ t.classList.remove('hidden'); t.value=''; t.focus(); toast('先粘贴进度码'); return; }
+    try{ const o=JSON.parse(decodeURIComponent(escape(atob(t.value.trim())))); if(!o.done||!o.miss) throw 0; S=Object.assign(blank(),o); save(); toast('导入成功'); go('home'); }catch(e){ toast('进度码无效'); } };
+  $('cw').onclick=()=>{ if(confirm('清空所有错词记录？')){ S.miss={}; save(); toast('已清空'); } };
+  $('rs').onclick=()=>{ if(confirm('清除所有进度，从第 1 天重新开始？')){ S=blank(); save(); go('home'); } };
+}
+
+/* ---------- study session ---------- */
+function startDay(d){
+  if(!(S.session && S.session.kind==='day' && S.session.day===d)){
+    const ids=shuffle(dayIndices(d));
+    S.session={kind:'day', day:d, queue:ids, total:ids.length, passed:0, seen:{}};
+    save();
+  }
+  study();
+}
+function startWrong(){
+  const ids=shuffle(Object.entries(S.miss).sort((a,b)=>b[1]-a[1]).slice(0,50).map(([i])=>+i));
+  S.session={kind:'wrong', queue:ids, total:ids.length, passed:0, seen:{}};
+  save(); study();
+}
+let phase='front', answer=null;
+function study(){
+  document.getElementById('tabs').classList.add('hidden');
+  phase='front'; answer=null; drawCard();
+}
+function drawCard(){
+  const s=S.session;
+  if(!s.queue.length){ finish(); return; }
+  const i=s.queue[0], [w,ipa,m]=W[i];
+  if(s.queue[1]!=null) preload(W[s.queue[1]][0]);
+  const title=s.kind==='day'?`第 ${s.day} 天`:'错词练习';
+  const meaning=m.split('；').map(p=>{ const mm=p.match(/^([a-z]+\.(?:\s*&\s*[a-z]+\.)?)\s*(.*)$/); return mm?`<div><span class="pos">${esc(mm[1])}</span>${esc(mm[2])}</div>`:`<div>${esc(p)}</div>`; }).join('');
+  const missTag = S.miss[i] ? `<div class="tag">错过 ${S.miss[i]} 次</div>` : '';
+  view.innerHTML=`
+  <div class="study-top"><button class="btn ghost" id="quit" style="padding:7px 12px">← 返回</button><span>${title} · 已过 ${s.passed} / ${s.total} · 剩 ${s.queue.length}</span></div>
+  <div class="bar"><i style="width:${Math.round(s.passed/s.total*100)}%"></i></div>
+  <section class="card flash">
+    <div class="word">${esc(w)}</div>
+    ${S.settings.showIpa?`<div class="ipa">/${esc(ipa)}/</div>`:''}
+    <button class="speak" id="sp" aria-label="朗读">🔊</button>
+    ${phase==='back'?`<div class="meaning">${meaning}</div>`:''}
+    ${phase==='front'?missTag:''}
+  </section>
+  ${phase==='front'
+    ? `<div class="row"><button class="btn bad" id="no">✗ 不认识</button><button class="btn ok" id="yes">✓ 认识</button></div>`
+    : answer==='yes'
+      ? `<div class="row"><button class="btn ghost" id="oops">记错了</button><button class="btn" id="next">下一个 →</button></div>`
+      : `<button class="btn block" id="next">记住了，下一个 →</button>`}
+  <div class="hint">键盘：← 不认识 / 记错了 · → 认识 / 下一个 · 空格 发音</div>`;
+  const $=id=>document.getElementById(id);
+  $('quit').onclick=()=>{ go(s.kind==='day'?'home':'wrong'); };
+  $('sp').onclick=()=>speak(w);
+  if($('yes')) $('yes').onclick=()=>mark(true);
+  if($('no')) $('no').onclick=()=>mark(false);
+  if($('oops')) $('oops').onclick=()=>{ addMiss(i); requeue(); };
+  if($('next')) $('next').onclick=()=>{ answer==='yes'?pass():requeue(); };
+  if(phase==='front' && S.settings.autoplay) speak(w);
+}
+function addMiss(i){ S.miss[i]=(S.miss[i]||0)+1; }
+function mark(known){
+  const i=S.session.queue[0];
+  answer=known?'yes':'no';
+  if(!known) addMiss(i);
+  phase='back'; save(); drawCard();
+}
+function pass(){ const s=S.session; s.queue.shift(); s.passed++; phase='front'; save(); drawCard(); }
+/* a forgotten word comes back a few cards later, until it is answered correctly */
+function requeue(){ const s=S.session; const i=s.queue.shift(); const pos=Math.min(s.queue.length, 6+Math.floor(Math.random()*5)); s.queue.splice(pos,0,i); phase='front'; save(); drawCard(); }
+function finish(){
+  const s=S.session; let msg='';
+  if(s.kind==='day'){
+    const t=today();
+    if(!S.done[s.day]) S.done[s.day]=t;
+    if(S.lastDone!==t){ const y=new Date(); y.setDate(y.getDate()-1); const ys=y.getFullYear()+'-'+String(y.getMonth()+1).padStart(2,'0')+'-'+String(y.getDate()).padStart(2,'0'); S.streak=(S.lastDone===ys?(S.streak||0):0)+1; S.lastDone=t; }
+    if(doneCount()>=DAYS){ S.round++; S.done={}; S.day=1; msg=`第 ${S.round-1} 轮全部复习完了！自动开始第 ${S.round} 轮。`; }
+    else if(s.day===S.day||S.done[S.day]) { let n=S.day; for(let k=0;k<DAYS;k++){ n=n%DAYS+1; if(!S.done[n]) break; } S.day=n; }
+    if(!msg) msg=`第 ${s.day} 天完成`;
+  } else msg='错词练习完成';
+  S.session=null; save();
+  view.innerHTML=`<section class="card done-box"><div class="em">🎉</div><div class="big">${msg}</div><div class="muted">${s.total} 个词全部过关</div>
+    <div style="margin-top:18px"><button class="btn" id="back">返回</button></div></section>`;
+  document.getElementById('back').onclick=()=>go(s.kind==='day'?'home':'wrong');
+}
+document.addEventListener('keydown',e=>{
+  if(!S.session || !document.getElementById('tabs').classList.contains('hidden')) return;
+  if(e.target.tagName==='INPUT'||e.target.tagName==='TEXTAREA') return;
+  const click=id=>{ const b=document.getElementById(id); if(b){ e.preventDefault(); b.click(); return true; } };
+  if(e.key===' ') { e.preventDefault(); speak(W[S.session.queue[0]][0]); }
+  else if(e.key==='ArrowLeft') click('no')||click('oops');
+  else if(e.key==='ArrowRight'||e.key==='Enter') click('yes')||click('next');
+});
+window.addEventListener('online',()=>{ onlineOk=true; });
+
+render();
+})();
+</script>
+</body>
+</html>
